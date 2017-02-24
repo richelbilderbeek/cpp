@@ -1,23 +1,7 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [declaration](CppDeclaration.md)
-==================================================
-
- 
+# ([C++](Cpp.md)) [declaration](CppDeclaration.md)
 
 'A [declaration](CppDeclaration.md) introduces a name into a program'
 \[1\].
-
- 
 
 'A [declaration](CppDeclaration.md) of a [variable](CppVariable.md) or
 [function](CppFunction.md) announces the properties of the
@@ -30,77 +14,32 @@ the name, [return type](CppReturnType.md) and
 tells the [compiler](CppCompiler.md) the name and [type](CppType.md).'
 \[3\]
 
- 
-
 There are multiple types of [declarations](CppDeclaration.md):
-
 1.  A [variable](CppVariable.md) [declaration](CppDeclaration.md) is
     naming a [variable](CppVariable.md) to be used.
 2.  A [function](CppFunction.md) [declaration](CppDeclaration.md) is
     naming a [function](CppFunction.md) to be
     [defined](CppDefinition.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Example
--------
-
- 
+# Example
 
 In the code below, the [function](CppFunction.md) MagicFunction and the
 [integer](CppInt.md) x are [declared](CppDeclaration.md).
-
- 
-
   ----------------------------------------------------
   ` void MagicFunction();  int main() {   int x;  }`
   ----------------------------------------------------
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+# [Advice](CppAdvice.md)
 
 -   [Declare](CppDeclaration.md) only one [variable](CppVariable.md)
     in each [declaration](CppDeclaration.md) \[2,4\]
 -   When [declaring](CppDeclaration.md) a [variable](CppVariable.md),
     provide a [comment](CppComment.md) that explains the
     [variable](CppVariable.md)'s purpose in the program \[4\]
+-   [Declare](CppDeclaration.md) [variables](CppVariable.md)
+    as late as possible [4]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+# [References](CppReferences.md)
 
 1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 1.1.1
@@ -120,16 +59,6 @@ In the code below, the [function](CppFunction.md) MagicFunction and the
     Practice 2.3. page 26: 'Declare only one variable in each
     declaration and provide a comment that explains the variable's
     purpose in the program.'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 1.2: 'Declare variables as late as possible, usually right before using them the first time and whenever possible not before you can
+    initialize them'
