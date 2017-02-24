@@ -18,14 +18,12 @@ read
 
 ## [References](CppReference.md)
 
-1.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition).
-    2014. ISBN: 978-0-13-343985-4. Chapter 2.2, Good Programming
+1.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition). 2014. ISBN: 978-0-13-343985-4. Chapter 2.2, Good Programming
     Practice 2.1. page 22: 'Indent the body of each function one level
     within the braces that delimit the function's body. This makes a
     program's functional structure stand out and makes the program
     easier to read.'
-2.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition).
-    2014. ISBN: 978-0-13-343985-4. Chapter 2.2, Good Programming
+2.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition). 2014. ISBN: 978-0-13-343985-4. Chapter 2.2, Good Programming
     Practice 2.2. page 22: 'Set a convention for the size of the indent
     you prefer, then apply it uniformly. The tab key may be used to
     create indents, but tab stops may vary. We prefer three spaces per
