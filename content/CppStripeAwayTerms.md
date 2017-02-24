@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -39,7 +39,7 @@ replaces the 2 and 3 of both sets by a 1. This can be used to divide two
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

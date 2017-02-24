@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -97,7 +97,7 @@ Sadly, this does not work and I do not understand why yet...
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

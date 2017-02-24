@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -38,7 +38,7 @@ or to simplify their corresponding [algorithm](CppAlgorithm.htm).
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

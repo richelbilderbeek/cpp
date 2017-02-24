@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -144,7 +144,7 @@ Do not use [QCoreApplication](CppQCoreApplication.htm), but use
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

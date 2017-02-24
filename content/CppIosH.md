@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -39,7 +39,7 @@ file](CppHeaderFile.htm) that contains the
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

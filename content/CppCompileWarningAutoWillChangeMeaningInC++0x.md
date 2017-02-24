@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -111,7 +111,7 @@ Remove [auto](CppAuto.htm). Never use [auto](CppAuto.htm) \[1\], until
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

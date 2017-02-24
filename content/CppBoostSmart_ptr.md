@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -48,7 +48,7 @@ List of [Boost.Smart\_ptr](CppSmart_ptr.htm) types (incomplete)
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

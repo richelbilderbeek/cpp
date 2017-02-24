@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -175,7 +175,7 @@ valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.htm)
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

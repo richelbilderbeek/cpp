@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -37,7 +37,7 @@ World'](CppHelloWorld.htm) [Qt Creator](CppQtCreator.htm) project from
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -40,7 +40,7 @@ To use [InputBox](CppVclInputBox.htm) , [\#include](CppInclude.htm) the
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

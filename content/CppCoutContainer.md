@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -64,6 +64,6 @@ CoutContainer test
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 

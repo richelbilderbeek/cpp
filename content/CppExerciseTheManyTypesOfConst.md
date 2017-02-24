@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -64,7 +64,7 @@ Heaven](http://www.programmersheaven.com/article/100014-C%2b%2b+exercise%3a+the+
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

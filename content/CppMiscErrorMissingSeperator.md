@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -221,7 +221,7 @@ Unknown
   `  It complains about ?BLABLUBB_0XE02CF35F.GCCE:85: *** missing separator. Stop.?  If you are using a S60 3rd Edition FP1 (in contrast to 3rd FP2 or later), this means that the ARM compiler is not found in a directory from the PATH environment variable. Add the path to your compiler to the PATH environment, e.g. ?C:\Program Files (x86)\CSL Arm Toolchain\bin?.`
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

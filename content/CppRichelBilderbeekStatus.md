@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -218,7 +218,7 @@
   [xeNonZero](GameXeNonZero.htm)                                                     ![](PicGreen.png)                   ![](PicBlack.png)                                       ![](PicGreen.png)                        ![](PicRed.png)
   [zork](GameZork.htm)                                                               ![](PicGreen.png)                   ![](PicBlack.png)                                       ![](PicRed.png)                          ![](PicRed.png)
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

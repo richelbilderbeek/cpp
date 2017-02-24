@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -158,7 +158,7 @@ crossprefix = i586-mingw32msvc- crossdir = /usr/i586-mingw32msvc
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

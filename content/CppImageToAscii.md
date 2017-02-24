@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -49,7 +49,7 @@ The [tool](Tools.htm) [AsciiArter](ToolAsciiArter.htm) demonstrates
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

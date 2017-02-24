@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -63,7 +63,7 @@ documentation](http://www.boost.org/doc/libs/1_42_0/libs/math/doc/sf_and_dist/ht
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

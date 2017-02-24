@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -130,7 +130,7 @@ Comparison of [std::unique\_ptr](CppStdUnique_ptr.htm) and [boost::scoped\_ptr](
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

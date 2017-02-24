@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -149,7 +149,7 @@ article](http://www.programmersheaven.com/article/100053-C%2b%2b+exercise%3a+don
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -709,7 +709,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
 
 </div>
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

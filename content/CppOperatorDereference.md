@@ -2,7 +2,7 @@ CppOperatorDereference
 
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -56,7 +56,7 @@ directly connected to the type-specifier.
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

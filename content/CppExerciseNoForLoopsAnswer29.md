@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -74,7 +74,7 @@ Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.htm). You will need:
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

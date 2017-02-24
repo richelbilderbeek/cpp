@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -383,7 +383,7 @@ Heaven](http://www.programmersheaven.com/article/105573-Comparison+of+C%2b%2b+Bu
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

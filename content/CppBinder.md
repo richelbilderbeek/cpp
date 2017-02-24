@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -125,7 +125,7 @@ Replacing a [for](CppFor.htm) loop by an [algorithm](CppAlgorithm.htm) using [st
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

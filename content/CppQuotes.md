@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -230,7 +230,7 @@ me?'](http://www.parashift.com/c++-faq-lite/how-to-post.html#faq-5.2).
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -90,7 +90,7 @@ Coder](http://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html)
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

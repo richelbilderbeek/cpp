@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -87,7 +87,7 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.htm) supplied with
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 

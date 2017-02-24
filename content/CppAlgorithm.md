@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
  
 
@@ -309,7 +309,7 @@ The [C++11](Cpp11.htm) [algorithm](CppAlgorithm.htm) names \[3\]:
 
  
 
-[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
 
 
 
