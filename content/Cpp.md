@@ -1,23 +1,6 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[C++](Cpp.htm)
-==============
-
- 
+# C++
 
 This is my main page about the [C++](Cpp.htm) language.
-
- 
 
 C++ is not just object-oriented \[1\], nor just for generic programming
 \[2\], nor C with a few extensions \[3\].
@@ -168,20 +151,3 @@ External links
 11. Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of
     C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 3.1, page 13:
     'Include white space'
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Go back to Richel Bilderbeek's homepage](index.htm).
-
- 
-
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
