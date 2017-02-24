@@ -1,36 +1,9 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [indent](CppIndent.md)
-========================================
-
- 
+# [indent](CppIndent.md)
 
 [Indenting](CppIndent.md) is adding whitespace to make code easier to
 read
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   [Indent](CppIndent.md) the body of each [function](CppFunction.md)
     one level within the braces that delimit the
@@ -41,21 +14,9 @@ read
     prefer, then apply it uniformly \[2\]
 -   Some standards allow for tabs \[2\], others forbid them \[5\], to
     create [indent](CppIndent.md)
+-   The [indentation](CppIndent.md) should reflect the structure of the program [6]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReference.md)
-------------------------------
-
- 
+## [References](CppReference.md)
 
 1.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition).
     2014. ISBN: 978-0-13-343985-4. Chapter 2.2, Good Programming
@@ -78,16 +39,5 @@ read
 5.  Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of
     C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 3.1, page 16: 'Do
     not use hard tabs'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+6.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 1.4.3.1: 'the indentation should reflect the structure of the program'
