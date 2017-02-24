@@ -1,0 +1,7 @@
+#include <string>
+
+//From http://www.richelbilderbeek.nl/CppStrToAnsi.htm
+const String ToAnsi(const std::string& myString)
+{
+  return String(myString.c_str());
+}

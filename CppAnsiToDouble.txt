@@ -1,0 +1,5 @@
+//From http://www.richelbilderbeek.nl/CppAnsiToDouble.htm
+const double AnsiToDouble(const AnsiString& s)
+{
+  return s.ToDouble();
+}

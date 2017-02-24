@@ -1,0 +1,11 @@
+#include <string>
+#include <sstream>
+
+//From http://www.richelbilderbeek.nl/CppCanCast.htm
+template <class TargetType> const bool CanCast(const std::string& from)
+{
+  std::istringstream i(from);
+  TargetType temp;
+  return ( (i >> temp) ? true : false );
+}
+

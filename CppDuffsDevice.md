@@ -1,0 +1,50 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [Duff's device](CppDuffsDevice.htm)
+====================================================
+
+ 
+
+An example of weird-looking-but-compilable code.
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` //Duff's device void Send(int * to, const int* from, const int count) {   int n = (count+7) / 8;   switch(count%8)   {     case 0: do { *to++ = *from++;     case 7:      *to++ = *from++;     case 6:      *to++ = *from++;     case 5:      *to++ = *from++;     case 4:      *to++ = *from++;     case 3:      *to++ = *from++;     case 2:      *to++ = *from++;     case 1:      *to++ = *from++;             } while (--n>0);   } }`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+I leave it as an exercise to the reader to figure out what [Duff's
+device](CppDuffsDevice.htm) does.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

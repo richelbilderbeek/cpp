@@ -1,0 +1,86 @@
+#include <vector>
+#include <algorithm>
+#include <cassert>
+#include <memory>
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppSurfacePlotterTImage.htm
+struct SurfacePlotter
+{
+  SurfacePlotter(const String& fileName = "1x1.bmp")
+  : mImage(new Qextctrls::TImage(0))
+  {
+    assert(FileExists(fileName));
+    assert(mImage.get()!=0);
+    mImage->Picture->LoadFromFile(fileName);
+    assert(mImage->Picture->Bitmap!=0);
+    assert(mImage->Picture->Bitmap->PixelFormat == Qgraphics::pf32bit);
+  }
+  //Sets the image of the surface plot to the values of the vector
+  //The doubles can be in any range
+  void SetSurfaceGrey(const std::vector<std::vector<double> >& surface)
+  {
+    //Get the size
+    const int maxx = surface.size();
+    const int maxy = surface[0].size();
+    //Resize Image to the correct size
+    mImage->Picture->Bitmap->Width  = maxx;
+    mImage->Picture->Bitmap->Height = maxy;
+    //Minimum and maximum are not given, so these need to be calculated
+    double minVal = *(std::min_element(surface[0].begin(),surface[0].end()));
+    double maxVal = *(std::max_element(surface[0].begin(),surface[0].end()));
+    for (int x=1; x!=maxx; ++x) //1, because 0 gets know the lines above
+    {
+      const double localMinVal = *(std::min_element(surface[x].begin(),surface[x].end()));
+      const double localMaxVal = *(std::max_element(surface[x].begin(),surface[x].end()));
+      if (localMinVal < minVal) minVal = localMinVal;
+      if (localMaxVal > maxVal) maxVal = localMaxVal;
+    }
+    //Draw the pixels
+    for (int y=0; y!=maxy; ++y)
+    {
+      unsigned char * const line
+        = static_cast<unsigned char *>(mImage->Picture->Bitmap->ScanLine[y]);
+      for (int x=0; x!=maxx; ++x)
+      {
+        const double greyValueDouble = (surface[x][y] - minVal) / (maxVal - minVal);
+        assert(greyValueDouble >= 0.0 && greyValueDouble <= 1.0);
+        const char greyValue = greyValueDouble * 255.0;
+        line[x*4+0] = greyValue; //Blue
+        line[x*4+1] = greyValue; //Green
+        line[x*4+2] = greyValue; //Red
+        //line[x*4+3] = 0; //the fourth byte (for alpha-blending?) is not used
+      }
+    }
+  }
+  //Sets the image of the surface plot to the values of the vector
+  //Assumes that the chars are in the range [0,255] (a char's range)
+  //If the chars are in a shorter range, they will NOT be rescaled to [0,255]
+  void SetSurfaceGrey(const std::vector<std::vector<char> >& surface)
+  {
+    const int maxx = surface.size();
+    const int maxy = surface[0].size();
+    mImage->Picture->Bitmap->Width = maxx;
+    mImage->Picture->Bitmap->Height = maxy;
+
+    for (int y=0; y!=maxy; ++y)
+    {
+      unsigned char * const line
+        = static_cast<unsigned char *>(mImage->Picture->Bitmap->ScanLine[y]);
+      for (int x=0; x!=maxx; ++x)
+      {
+        const char greyValue = surface[x][y];
+        line[x*3+0] = greyValue; //Blue
+        line[x*3+1] = greyValue; //Green
+        line[x*3+2] = greyValue; //Red
+      }
+    }
+  }
+  //Draws the surface plot to the canvas given
+  void Draw(const int x, const int y, Qgraphics::TCanvas * const canvas) const
+  {
+    canvas->Draw(x,y,mImage->Picture->Graphic);
+  }
+  private:
+  const std::auto_ptr<Qextctrls::TImage> mImage;
+};
+

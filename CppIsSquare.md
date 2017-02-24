@@ -1,0 +1,84 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [IsSquare](CppIsSquare.htm)
+============================================
+
+ 
+
+[IsSquare](CppIsSquare.htm) is a [std::vector](CppVector.htm) [code
+snippet](CppCodeSnippets.htm) to check if a
+2D-[std::vector](CppVector.htm) is square.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt Creator](CppQtCreator.htm) source code
+------------------------------------------
+
+ 
+
+-   [Download the Qt Creator project
+    'CppIsSquare' (zip)](CppIsSquare.zip)
+
+ 
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <iterator> #include <vector> #include <boost/foreach.hpp>  //From http://www.richelbilderbeek.nl/CppIsSquare.htm template <typename T> bool IsSquare(const std::vector<std::vector<T> >& v) {   assert(!v.empty());   BOOST_FOREACH(std::vector<T> row, v)   {     if (row.size()!=v.size()) return false;   }   return true; }  int main() {   std::vector<std::vector<int> > v;   v.resize(4);   BOOST_FOREACH(std::vector<int>& row, v)   {     row.resize(4);   }   assert(IsSquare(v)==true);   v[3].resize(5);   assert(IsSquare(v)==false); }`
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[C++ Builder](CppBuilder.htm) source code
+-----------------------------------------
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` //From http://www.richelbilderbeek.nl/CppIsSquare.htm template <class T> bool IsSquare(const std::vector<std::vector<T> >& v) {   assert(!v.empty());   const int sz = static_cast<int>(v.size());   const std::vector<std::vector<T> >::const_iterator j = v.end();   std::vector<std::vector<T> >::const_iterator i = v.begin();   for ( ; i!=j; ++i)   {     if (sz != static_cast<int>(i->size())) return false;   }   return true; }`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

@@ -1,0 +1,15 @@
+#include <cassert>
+#include <string>
+
+//Returns the extension of a filename
+//Assumes that the filename has an extension
+//From http://www.richelbilderbeek.nl/CppGetExtension.htm
+const std::string GetExtension(const std::string& filename)
+{
+  const size_t i = filename.rfind('.');
+  assert(i != std::string::npos && "Filename must contain a dot");
+  assert(i != filename.size() - 1 && "Filename must not end with a dot");
+  assert(filename[i+1] != '\\' && "Filename must have an extension");
+  assert(filename[i+1] != '/' && "Filename must have an extension");
+  return filename.substr(i+1,filename.size());
+}

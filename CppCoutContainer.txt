@@ -1,0 +1,11 @@
+#include <vector>
+#include <iterator>
+#include <iostream>
+#include <ostream>
+
+//From http://www.richelbilderbeek.nl/CppCoutContainer.htm
+template <class Container>
+void CoutContainer(const Container& c)
+{
+  std::copy(c.begin(),c.end(),std::ostream_iterator<Container::value_type>(std::cout,"\n"));
+}

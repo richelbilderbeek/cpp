@@ -1,0 +1,23 @@
+#include <string>
+#include <cassert>
+
+//From http://www.richelbilderbeek.nl/CppLexicalCast.htm
+template <typename TargetType>
+const TargetType LexicalCast(const std::string& s);
+
+//From http://www.richelbilderbeek.nl/CppLexicalCast.htm
+template <>
+const int LexicalCast<int>(const std::string& s)
+{
+  assert(CanCast<int>(s) == true);
+  return std::atoi(s.c_str());
+}
+
+//From http://www.richelbilderbeek.nl/CppLexicalCast.htm
+template <>
+const double LexicalCast<double>(const std::string& s)
+{
+  assert(CanCast<double>(s) == true);
+  return std::atof(s.c_str());
+}
+

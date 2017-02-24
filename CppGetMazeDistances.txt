@@ -1,0 +1,68 @@
+#include <vector>
+#include <assert>
+
+//From http://www.richelbilderbeek.nl/GetMazeDistances.htm
+std::vector<std::vector<int> > GetMazeDistances(
+  const std::vector<std::vector<int> >& maze,
+  const int x,
+  const int y)
+{
+  //Assume maze is square
+  assert(maze[0].size() == maze.size());
+  assert(maze[y][x] == 0); //Assume starting point is no wall
+
+  const int size = maze.size();
+  const int area = size * size;
+  const int maxDistance = area;
+  std::vector<std::vector<int> > distances(size, std::vector<int>(size,maxDistance));
+  {
+    //Calculate the distances
+    int distance = 0;
+    distances[y][x] = 0; //Set final point
+    std::vector< std::pair<int,int> > found;
+    found.push_back(std::make_pair(x,y));
+
+    while(found.empty() == false)
+    {
+      ++distance;
+      std::vector< std::pair<int,int> > newFound;
+
+      const std::vector< std::pair<int,int> >::iterator j = found.end();
+      for (std::vector< std::pair<int,int> >::iterator i = found.begin(); i!=j; ++i)
+      {
+        const int x = (*i).first;
+        const int y = (*i).second;
+
+        if ( maze[y-1][x] == 0                 //No wall
+          && distances[y-1][x] == maxDistance) //Not already in solution
+        {
+          distances[y-1][x] = distance;
+          newFound.push_back(std::make_pair(x,y-1));
+        }
+        if ( maze[y+1][x] == 0                 //No wall
+          && distances[y+1][x] == maxDistance) //Not already in solution
+        {
+          distances[y+1][x] = distance;
+          newFound.push_back(std::make_pair(x,y+1));
+        }
+
+        if ( maze[y][x+1] == 0                 //No wall
+          && distances[y][x+1] == maxDistance) //Not already in solution
+        {
+          distances[y][x+1] = distance;
+          newFound.push_back(std::make_pair(x+1,y));
+        }
+
+        if ( maze[y][x-1] == 0                 //No wall
+          && distances[y][x-1] == maxDistance) //Not already in solution
+        {
+          distances[y][x-1] = distance;
+          newFound.push_back(std::make_pair(x-1,y));
+        }
+
+      }
+      found = newFound;
+    }
+  }
+  return distances;
+}

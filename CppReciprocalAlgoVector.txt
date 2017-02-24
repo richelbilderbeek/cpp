@@ -1,0 +1,10 @@
+#include <vector>
+#include <algorithm>
+#include <numeric>
+
+//From http://www.richelbilderbeek.nl/CppReciprocal.htm
+void Reciprocal(std::vector<double>& v)
+{
+  std::transform(v.begin(),v.end(),v.begin(),
+    std::bind1st(std::divides<double>(),1.0));    
+}

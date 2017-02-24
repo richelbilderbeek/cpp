@@ -1,0 +1,128 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [GetExtension](CppGetExtension.htm)
+====================================================
+
+ 
+
+![STL](PicStl.png)![Qt
+Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
+
+ 
+
+[GetExtension](CppGetExtension.htm) is a [file I/O](CppFileIo.htm)
+[std::string](CppStdString.htm) [code snippet](CppCodeSnippets.htm) to
+get a filename's extension.
+
+ 
+
+Thanks goes to Curtis Krauskopf, who supported me to improve the
+(terrible and error-prone) STL version GetExtension.
+
+ 
+
+-   [Download the Qt Creator project
+    'CppGetExtension' (zip)](CppGetExtension.zip)
+
+Technical facts
+---------------
+
+ 
+
+[Operating system(s) or programming environment(s)](CppOs.htm)
+
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+
+[IDE(s)](CppIde.htm):
+
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+
+[Project type](CppQtProjectType.htm):
+
+-   ![console](PicConsole.png) [Console
+    application](CppConsoleApplication.htm)
+
+[C++ standard](CppStandard.htm):
+
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+
+[Compiler(s)](CppCompiler.htm):
+
+-   [G++](CppGpp.htm) 4.9.2
+
+[Libraries](CppLibrary.htm) used:
+
+-   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+    4.9.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt project file](CppQtProjectFile.htm): ./CppGetExtension/CppGetExtension.pro
+------------------------------------------------------------------------------
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` include(../../ConsoleApplication.pri) #Or use the code below # QT += core # QT += gui # greaterThan(QT_MAJOR_VERSION, 4): QT += widgets # CONFIG   += console # CONFIG   -= app_bundle # TEMPLATE = app # CONFIG(release, debug|release) { #   DEFINES += NDEBUG NTRACE_BILDERBIKKEL # } # QMAKE_CXXFLAGS += -std=c++11 -Wall -Wextra -Weffc++ # unix { #   QMAKE_CXXFLAGS += -Werror # }  include(../../Libraries/BoostAll.pri)  SOURCES += main.cpp`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppGetExtension/main.cpp
+--------------------------
+
+ 
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <string>  #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #include <boost/filesystem.hpp> #include <boost/xpressive/xpressive.hpp> #pragma GCC diagnostic pop  //Returns the extension of a filename //Assumes that the filename has an extension //From http://www.richelbilderbeek.nl/CppGetExtension.htm const std::string GetExtensionStl(const std::string& filename) {   const std::size_t i = filename.rfind('.');   assert(i != std::string::npos && "Filename must contain a dot");   assert(i != filename.size() - 1 && "Filename must not end with a dot");   assert(filename[i+1] != '\\' && "Filename must have an extension");   assert(filename[i+1] != '/' && "Filename must have an extension");   return filename.substr(i,filename.size()); }   //Returns the extension of a filename //From http://www.richelbilderbeek.nl/CppGetExtension.htm const std::string GetExtensionBoostFilesystem(const std::string& filename) {   return boost::filesystem::extension(filename); }  //Returns the extension of a filename //From http://www.richelbilderbeek.nl/CppGetExtension.htm const std::string GetExtensionBoostXpressive(const std::string& filename) {   const boost::xpressive::sregex rex     = boost::xpressive::sregex::compile(       "(.*)?(\\.[A-Za-z]*)" );   boost::xpressive::smatch what;    if( boost::xpressive::regex_match( filename, what, rex ) )   {     return what[2];   }    return ""; }  #include <iostream>  int main() {   assert(GetExtensionStl("test.abc") == ".abc");   assert(GetExtensionStl("myfolder/test.abc") == ".abc");   assert(GetExtensionStl("myfolder\\test.abc") == ".abc");   assert(GetExtensionStl("myfolder/myfolder/test.abc") == ".abc");   assert(GetExtensionStl("myfolder\\myfolder\\test.abc") == ".abc");    assert(GetExtensionBoostFilesystem("test.abc") == ".abc");   assert(GetExtensionBoostFilesystem("myfolder/test.abc") == ".abc");   assert(GetExtensionBoostFilesystem("myfolder\\test.abc") == ".abc");   assert(GetExtensionBoostFilesystem("myfolder/myfolder/test.abc") == ".abc");   assert(GetExtensionBoostFilesystem("myfolder\\myfolder\\test.abc") == ".abc");    assert(GetExtensionBoostXpressive("test.abc") == ".abc");   assert(GetExtensionBoostXpressive("myfolder/test.abc") == ".abc");   assert(GetExtensionBoostXpressive("myfolder\\test.abc") == ".abc");   assert(GetExtensionBoostXpressive("myfolder/myfolder/test.abc") == ".abc");   assert(GetExtensionBoostXpressive("myfolder\\myfolder\\test.abc") == ".abc");    for (auto f: { GetExtensionStl, GetExtensionBoostFilesystem, GetExtensionBoostXpressive} )   {     assert(f("test.abc") == ".abc");     assert(f("myfolder/test.abc") == ".abc");     assert(f("myfolder\\test.abc") == ".abc");     assert(f("myfolder/myfolder/test.abc") == ".abc");     assert(f("myfolder\\myfolder\\test.abc") == ".abc");   } }`
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

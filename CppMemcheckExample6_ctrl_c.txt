@@ -1,0 +1,301 @@
+==2906== Memcheck, a memory error detector
+==2906== Copyright (C) 2002-2010, and GNU GPL'd, by Julian Seward et al.
+==2906== Using Valgrind-3.6.1 and LibVEX; rerun with -h for copyright info
+==2906== Command: ../CppValgrindExample6-build-desktop/./CppValgrindExample6
+==2906== Parent PID: 2905
+==2906== 
+--2906-- 
+--2906-- Valgrind options:
+--2906--    --suppressions=/usr/lib/valgrind/debian-libc6-dbg.supp
+--2906--    --leak-check=full
+--2906--    -v
+--2906--    --show-reachable=yes
+--2906--    --log-file=valgrind_memcheck.txt
+--2906-- Contents of /proc/version:
+--2906--   Linux version 2.6.38-8-generic-pae (buildd@vernadsky) (gcc version 4.5.2 (Ubuntu/Linaro 4.5.2-8ubuntu3) ) #42-Ubuntu SMP Mon Apr 11 05:17:09 UTC 2011
+--2906-- Arch and hwcaps: X86, x86-sse1-sse2
+--2906-- Page sizes: currently 4096, max supported 4096
+--2906-- Valgrind library directory: /usr/lib/valgrind
+--2906-- Reading syms from /lib/i386-linux-gnu/ld-2.13.so (0x4000000)
+--2906--   Considering /lib/i386-linux-gnu/ld-2.13.so ..
+--2906--   .. CRC mismatch (computed 2a2c2799 wanted 1e351f1f)
+--2906--   Considering /usr/lib/debug/lib/i386-linux-gnu/ld-2.13.so ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /home/richel/Projects/Website/CppValgrindExample6-build-desktop/CppValgrindExample6 (0x8048000)
+--2906-- Reading syms from /usr/lib/valgrind/memcheck-x86-linux (0x38000000)
+--2906--    object doesn't have a dynamic symbol table
+--2906-- Reading suppressions file: /usr/lib/valgrind/debian-libc6-dbg.supp
+--2906-- Reading suppressions file: /usr/lib/valgrind/default.supp
+--2906-- REDIR: 0x4016a80 (index) redirected to 0x3803f82b (vgPlain_x86_linux_REDIR_FOR_index)
+--2906-- Reading syms from /usr/lib/valgrind/vgpreload_core-x86-linux.so (0x4020000)
+--2906-- Reading syms from /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so (0x4023000)
+==2906== WARNING: new redirection conflicts with existing -- ignoring it
+--2906--     new: 0x04016a80 (index               ) R-> 0x04026c78 index
+--2906-- REDIR: 0x4016c20 (strlen) redirected to 0x4027048 (strlen)
+--2906-- Reading syms from /usr/local/lib/libwt.so.3.1.9 (0x4043000)
+--2906-- Reading syms from /usr/local/lib/libwthttp.so.3.1.9 (0x450d000)
+--2906-- Reading syms from /usr/lib/libQtCore.so.4.7.2 (0x45ef000)
+--2906--   Considering /usr/lib/libQtCore.so.4.7.2 ..
+--2906--   .. CRC mismatch (computed 0c8a8d9d wanted ce78deb8)
+--2906--   Considering /usr/lib/debug/usr/lib/libQtCore.so.4.7.2 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /lib/i386-linux-gnu/libpthread-2.13.so (0x4881000)
+--2906--   Considering /lib/i386-linux-gnu/libpthread-2.13.so ..
+--2906--   .. CRC mismatch (computed 87269ed5 wanted 7df95f2f)
+--2906--   Considering /usr/lib/debug/lib/i386-linux-gnu/libpthread-2.13.so ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/i386-linux-gnu/libstdc++.so.6.0.14 (0x489a000)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /lib/i386-linux-gnu/libm-2.13.so (0x4985000)
+--2906--   Considering /lib/i386-linux-gnu/libm-2.13.so ..
+--2906--   .. CRC mismatch (computed e686ed93 wanted a0f1e52c)
+--2906--   Considering /usr/lib/debug/lib/i386-linux-gnu/libm-2.13.so ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /lib/i386-linux-gnu/libgcc_s.so.1 (0x49ac000)
+--2906--   Considering /lib/i386-linux-gnu/libgcc_s.so.1 ..
+--2906--   .. CRC mismatch (computed 3fa6d24f wanted 8b2bf89f)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /lib/i386-linux-gnu/libc-2.13.so (0x49c8000)
+--2906--   Considering /lib/i386-linux-gnu/libc-2.13.so ..
+--2906--   .. CRC mismatch (computed 97e88cd2 wanted 4635a554)
+--2906--   Considering /usr/lib/debug/lib/i386-linux-gnu/libc-2.13.so ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/libboost_signals.so.1.42.0 (0x4b29000)
+--2906--   Considering /usr/lib/libboost_signals.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed f8d5810a wanted 66e901c2)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_signals.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/libboost_thread.so.1.42.0 (0x4b3d000)
+--2906--   Considering /usr/lib/libboost_thread.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed 9029bf53 wanted f9caf11f)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_thread.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/libboost_regex.so.1.42.0 (0x4b52000)
+--2906--   Considering /usr/lib/libboost_regex.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed d6c02b48 wanted c139fc1b)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_regex.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/libboost_system.so.1.42.0 (0x4c50000)
+--2906--   Considering /usr/lib/libboost_system.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed b7ba8850 wanted 7698ce8f)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_system.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/libboost_date_time.so.1.42.0 (0x4c54000)
+--2906--   Considering /usr/lib/libboost_date_time.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed 44c046a6 wanted ac0f39f0)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_date_time.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /lib/i386-linux-gnu/libz.so.1.2.3.4 (0x4c67000)
+--2906--   Considering /lib/i386-linux-gnu/libz.so.1.2.3.4 ..
+--2906--   .. CRC mismatch (computed 995eb12f wanted 33a06a21)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /lib/libssl.so.0.9.8 (0x4c7c000)
+--2906--   Considering /lib/libssl.so.0.9.8 ..
+--2906--   .. CRC mismatch (computed 59a878f2 wanted 5457cdb6)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /lib/libcrypto.so.0.9.8 (0x4cc4000)
+--2906--   Considering /lib/libcrypto.so.0.9.8 ..
+--2906--   .. CRC mismatch (computed f7dcb93f wanted d4c57009)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /usr/lib/libboost_filesystem.so.1.42.0 (0x4e11000)
+--2906--   Considering /usr/lib/libboost_filesystem.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed 8e14322e wanted d68a66b0)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_filesystem.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/libboost_program_options.so.1.42.0 (0x4e26000)
+--2906--   Considering /usr/lib/libboost_program_options.so.1.42.0 ..
+--2906--   .. CRC mismatch (computed 53a76e69 wanted 50858923)
+--2906--   Considering /usr/lib/debug/usr/lib/libboost_program_options.so.1.42.0 ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /lib/i386-linux-gnu/libdl-2.13.so (0x4e8d000)
+--2906--   Considering /lib/i386-linux-gnu/libdl-2.13.so ..
+--2906--   .. CRC mismatch (computed 608d0daf wanted 983d6578)
+--2906--   Considering /usr/lib/debug/lib/i386-linux-gnu/libdl-2.13.so ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /usr/lib/i386-linux-gnu/libgthread-2.0.so.0.2800.6 (0x4e91000)
+--2906--   Considering /usr/lib/i386-linux-gnu/libgthread-2.0.so.0.2800.6 ..
+--2906--   .. CRC mismatch (computed 244482a3 wanted 61a9cd3c)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /lib/i386-linux-gnu/librt-2.13.so (0x4e96000)
+--2906--   Considering /lib/i386-linux-gnu/librt-2.13.so ..
+--2906--   .. CRC mismatch (computed 680ec6ea wanted 247d4d27)
+--2906--   Considering /usr/lib/debug/lib/i386-linux-gnu/librt-2.13.so ..
+--2906--   .. CRC is valid
+--2906-- Reading syms from /lib/i386-linux-gnu/libglib-2.0.so.0.2800.6 (0x4ea0000)
+--2906--   Considering /lib/i386-linux-gnu/libglib-2.0.so.0.2800.6 ..
+--2906--   .. CRC mismatch (computed 2312631e wanted e21a44de)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /usr/lib/libicui18n.so.44.2 (0x5db8000)
+--2906--   Considering /usr/lib/libicui18n.so.44.2 ..
+--2906--   .. CRC mismatch (computed d0d87b2a wanted 0e1a5757)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /usr/lib/libicuuc.so.44.2 (0x5f84000)
+--2906--   Considering /usr/lib/libicuuc.so.44.2 ..
+--2906--   .. CRC mismatch (computed 9bead029 wanted 94600363)
+--2906--    object doesn't have a symbol table
+--2906-- Reading syms from /lib/i386-linux-gnu/libpcre.so.3.12.1 (0x60ba000)
+--2906--   Considering /lib/i386-linux-gnu/libpcre.so.3.12.1 ..
+--2906--   .. CRC mismatch (computed 9e5ab3c1 wanted 29aaf7e3)
+--2906--    object doesn't have a symbol table
+--2906-- REDIR: 0x4a3bfb0 (strncmp) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4a3b740 (strcmp) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4a43140 (strstr) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4a42db0 (__GI_strstr) redirected to 0x4028ef1 (strstr)
+--2906-- REDIR: 0x4a3c0b0 (rindex) redirected to 0x4026acc (rindex)
+--2906-- REDIR: 0x4a3bd80 (__GI_strlen) redirected to 0x402702d (__GI_strlen)
+--2906-- REDIR: 0x4ae4cb0 (__strcmp_ssse3) redirected to 0x40279d0 (strcmp)
+--2906-- REDIR: 0x4a3bd30 (strlen) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4a426f0 (__strlen_sse2_bsf) redirected to 0x4027012 (strlen)
+--2906-- REDIR: 0x4946650 (operator new(unsigned int)) redirected to 0x4026398 (operator new(unsigned int))
+--2906-- REDIR: 0x4a3d520 (memcpy) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4adca70 (__memcpy_ssse3) redirected to 0x4027b59 (memcpy)
+--2906-- REDIR: 0x4a37ef0 (malloc) redirected to 0x40267df (malloc)
+--2906-- REDIR: 0x4a38e70 (calloc) redirected to 0x4025235 (calloc)
+--2906-- REDIR: 0x4946790 (operator new[](unsigned int)) redirected to 0x4025ece (operator new[](unsigned int))
+--2906-- REDIR: 0x4944510 (operator delete[](void*)) redirected to 0x4025504 (operator delete[](void*))
+--2906-- REDIR: 0x49444b0 (operator delete(void*)) redirected to 0x4025882 (operator delete(void*))
+--2906-- REDIR: 0x4a3ce40 (memmove) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4ade960 (__memmove_ssse3) redirected to 0x4028a45 (memmove)
+--2906-- REDIR: 0x4a38490 (realloc) redirected to 0x402688e (realloc)
+--2906-- REDIR: 0x4a383b0 (free) redirected to 0x4025b6b (free)
+--2906-- REDIR: 0x4a422e0 (__GI_strncmp) redirected to 0x40274bd (__GI_strncmp)
+--2906-- REDIR: 0x4a3d1f0 (stpcpy) redirected to 0x4028691 (stpcpy)
+--2906-- REDIR: 0x4a3c000 (strncpy) redirected to 0x402721a (strncpy)
+--2906-- REDIR: 0x4a3c970 (memchr) redirected to 0x4027b18 (memchr)
+--2906-- REDIR: 0x4a3b800 (strcpy) redirected to 0x402707e (strcpy)
+--2906-- REDIR: 0x4a3b790 (__GI_strcmp) redirected to 0x4027a22 (__GI_strcmp)
+--2906-- REDIR: 0x4a3cf00 (memset) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4adb960 (__memset_sse2) redirected to 0x40289b1 (memset)
+--2906-- REDIR: 0x4ae6120 (__strncmp_ssse3) redirected to 0x4027448 (strncmp)
+--2906-- REDIR: 0x4aabe60 (__memcpy_chk) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4adca60 (__memcpy_chk_ssse3) redirected to 0x4028dfe (__memcpy_chk)
+--2906-- REDIR: 0x4a3e7e0 (strchrnul) redirected to 0x4028b3c (strchrnul)
+--2906-- REDIR: 0x4a3d2e0 (strcasecmp) redirected to 0x4027532 (strcasecmp)
+--2906-- REDIR: 0x4a3c270 (strpbrk) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4a3c2b0 (__GI_strpbrk) redirected to 0x4028f6b (strpbrk)
+--2906-- REDIR: 0x4a3cb10 (bcmp) redirected to 0x4020479 (_vgnU_ifunc_wrapper)
+--2906-- REDIR: 0x4ae7b10 (__memcmp_ssse3) redirected to 0x40285e1 (bcmp)
+--2906-- REDIR: 0x4a3be40 (strnlen) redirected to 0x4026fc6 (strnlen)
+--2906-- REDIR: 0x49467d0 (operator new[](unsigned int, std::nothrow_t const&)) redirected to 0x4025d44 (operator new[](unsigned int, std::nothrow_t const&))
+==2906== 
+==2906== HEAP SUMMARY:
+==2906==     in use at exit: 344 bytes in 8 blocks
+==2906==   total heap usage: 6,786 allocs, 6,778 frees, 2,051,019 bytes allocated
+==2906== 
+==2906== Searching for pointers to 8 not-freed blocks
+==2906== Checked 392,708 bytes
+==2906== 
+==2906== 8 bytes in 1 blocks are still reachable in loss record 1 of 8
+==2906==    at 0x4026864: malloc (vg_replace_malloc.c:236)
+==2906==    by 0x4B4C88B: boost::detail::get_once_per_thread_epoch() (once.cpp:43)
+==2906==    by 0x4B46E54: _ZN5boost9call_onceIPFvvEEEvRNS_9once_flagET_.clone.101 (once.hpp:50)
+==2906==    by 0x4B47126: boost::detail::get_current_thread_data() (thread.cpp:98)
+==2906==    by 0x4B477D1: boost::detail::find_tss_data(void const*) (thread.cpp:542)
+==2906==    by 0x4B4784C: boost::detail::get_tss_data(void const*) (thread.cpp:557)
+==2906==    by 0x43B73D1: Wt::WebSession::Handler::attachThreadToHandler(Wt::WebSession::Handler*) (tss.hpp:82)
+==2906==    by 0x43BA6D1: Wt::WebSession::Handler::init() (WebSession.C:605)
+==2906==    by 0x43C0B90: Wt::WebSession::Handler::Handler(boost::shared_ptr<Wt::WebSession>, bool) (WebSession.C:546)
+==2906==    by 0x43D6107: Wt::WebController::forceShutdown() (WebController.C:101)
+==2906==    by 0x45BE377: Wt::WServer::stop() (WServer.C:314)
+==2906==    by 0x45C1B2C: Wt::WRun(int, char**, boost::function<Wt::WApplication* ()(Wt::WEnvironment const&)>) (WServer.C:498)
+==2906== 
+==2906== 12 bytes in 1 blocks are still reachable in loss record 2 of 8
+==2906==    at 0x4026864: malloc (vg_replace_malloc.c:236)
+==2906==    by 0x4CFD3BD: ??? (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4CFDA6B: CRYPTO_malloc (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4CB290F: ??? (in /lib/libssl.so.0.9.8)
+==2906==    by 0x4CB3FA6: SSL_COMP_get_compression_methods (in /lib/libssl.so.0.9.8)
+==2906==    by 0x4CB9548: SSL_library_init (in /lib/libssl.so.0.9.8)
+==2906==    by 0x455C87F: boost::asio::ssl::detail::openssl_init<true>::do_init::do_init() (openssl_init.hpp:51)
+==2906==    by 0x45C61CC: global constructors keyed to WtReply.C (openssl_init.hpp:85)
+==2906==    by 0x45C852C: ??? (in /usr/local/lib/libwthttp.so.3.1.9)
+==2906==    by 0x455766B: ??? (in /usr/local/lib/libwthttp.so.3.1.9)
+==2906==    by 0x400E64B: call_init (dl-init.c:70)
+==2906==    by 0x400E768: _dl_init (dl-init.c:134)
+==2906== 
+==2906== 16 bytes in 1 blocks are still reachable in loss record 3 of 8
+==2906==    at 0x4026864: malloc (vg_replace_malloc.c:236)
+==2906==    by 0x4CFD3BD: ??? (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4CFDA6B: CRYPTO_malloc (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4D67215: sk_new (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4CB28ED: ??? (in /lib/libssl.so.0.9.8)
+==2906==    by 0x4CB3FA6: SSL_COMP_get_compression_methods (in /lib/libssl.so.0.9.8)
+==2906==    by 0x4CB9548: SSL_library_init (in /lib/libssl.so.0.9.8)
+==2906==    by 0x455C87F: boost::asio::ssl::detail::openssl_init<true>::do_init::do_init() (openssl_init.hpp:51)
+==2906==    by 0x45C61CC: global constructors keyed to WtReply.C (openssl_init.hpp:85)
+==2906==    by 0x45C852C: ??? (in /usr/local/lib/libwthttp.so.3.1.9)
+==2906==    by 0x455766B: ??? (in /usr/local/lib/libwthttp.so.3.1.9)
+==2906==    by 0x400E64B: call_init (dl-init.c:70)
+==2906== 
+==2906== 16 bytes in 1 blocks are still reachable in loss record 4 of 8
+==2906==    at 0x402641D: operator new(unsigned int) (vg_replace_malloc.c:255)
+==2906==    by 0x4B4840B: boost::detail::add_new_tss_node(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*) (shared_count.hpp:87)
+==2906==    by 0x4B4883B: boost::detail::set_tss_data(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*, bool) (thread.cpp:600)
+==2906==    by 0x43B7400: Wt::WebSession::Handler::attachThreadToHandler(Wt::WebSession::Handler*) (tss.hpp:95)
+==2906==    by 0x43BA6D1: Wt::WebSession::Handler::init() (WebSession.C:605)
+==2906==    by 0x43C0B90: Wt::WebSession::Handler::Handler(boost::shared_ptr<Wt::WebSession>, bool) (WebSession.C:546)
+==2906==    by 0x43D6107: Wt::WebController::forceShutdown() (WebController.C:101)
+==2906==    by 0x45BE377: Wt::WServer::stop() (WServer.C:314)
+==2906==    by 0x45C1B2C: Wt::WRun(int, char**, boost::function<Wt::WApplication* ()(Wt::WEnvironment const&)>) (WServer.C:498)
+==2906==    by 0x804A63B: main (in /home/richel/Projects/Website/CppValgrindExample6-build-desktop/CppValgrindExample6)
+==2906== 
+==2906== 20 bytes in 1 blocks are still reachable in loss record 5 of 8
+==2906==    at 0x4026864: malloc (vg_replace_malloc.c:236)
+==2906==    by 0x4CFD3BD: ??? (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4CFDA6B: CRYPTO_malloc (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4D671F7: sk_new (in /lib/libcrypto.so.0.9.8)
+==2906==    by 0x4CB28ED: ??? (in /lib/libssl.so.0.9.8)
+==2906==    by 0x4CB3FA6: SSL_COMP_get_compression_methods (in /lib/libssl.so.0.9.8)
+==2906==    by 0x4CB9548: SSL_library_init (in /lib/libssl.so.0.9.8)
+==2906==    by 0x455C87F: boost::asio::ssl::detail::openssl_init<true>::do_init::do_init() (openssl_init.hpp:51)
+==2906==    by 0x45C61CC: global constructors keyed to WtReply.C (openssl_init.hpp:85)
+==2906==    by 0x45C852C: ??? (in /usr/local/lib/libwthttp.so.3.1.9)
+==2906==    by 0x455766B: ??? (in /usr/local/lib/libwthttp.so.3.1.9)
+==2906==    by 0x400E64B: call_init (dl-init.c:70)
+==2906== 
+==2906== 32 bytes in 1 blocks are still reachable in loss record 6 of 8
+==2906==    at 0x402641D: operator new(unsigned int) (vg_replace_malloc.c:255)
+==2906==    by 0x4B4851A: boost::detail::add_new_tss_node(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*) (new_allocator.h:89)
+==2906==    by 0x4B4883B: boost::detail::set_tss_data(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*, bool) (thread.cpp:600)
+==2906==    by 0x43AED5C: boost::spirit::classic::static_<boost::thread_specific_ptr<boost::weak_ptr<boost::spirit::classic::impl::grammar_helper<boost::spirit::classic::grammar<Wt::(anonymous namespace)::ValueListParser, boost::spirit::classic::parser_context<boost::spirit::classic::nil_t> >, Wt::(anonymous namespace)::ValueListParser, boost::spirit::classic::scanner<char const*, boost::spirit::classic::scanner_policies<boost::spirit::classic::skipper_iteration_policy<boost::spirit::classic::iteration_policy>, boost::spirit::classic::match_policy, boost::spirit::classic::action_policy> > > > >, boost::spirit::classic::impl::get_definition_static_data_tag>::destructor::~destructor() (tss.hpp:77)
+==2906==    by 0x49F7A6E: __run_exit_handlers (exit.c:78)
+==2906==    by 0x49F7ACE: exit (exit.c:100)
+==2906==    by 0x49DEE3E: (below main) (libc-start.c:258)
+==2906== 
+==2906== 32 bytes in 1 blocks are still reachable in loss record 7 of 8
+==2906==    at 0x402641D: operator new(unsigned int) (vg_replace_malloc.c:255)
+==2906==    by 0x4B481B0: boost::detail::add_new_tss_node(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*) (new_allocator.h:89)
+==2906==    by 0x4B4883B: boost::detail::set_tss_data(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*, bool) (thread.cpp:600)
+==2906==    by 0x43C2F99: boost::thread_specific_ptr<Wt::WebSession::Handler>::~thread_specific_ptr() (tss.hpp:77)
+==2906==    by 0x49F7E13: __cxa_finalize (cxa_finalize.c:56)
+==2906==    by 0x41608F3: ??? (in /usr/local/lib/libwt.so.3.1.9)
+==2906==    by 0x44002AF: ??? (in /usr/local/lib/libwt.so.3.1.9)
+==2906==    by 0x400EC3C: _dl_fini (dl-fini.c:247)
+==2906==    by 0x49F7A6E: __run_exit_handlers (exit.c:78)
+==2906==    by 0x49F7ACE: exit (exit.c:100)
+==2906==    by 0x49DEE3E: (below main) (libc-start.c:258)
+==2906== 
+==2906== 208 bytes in 1 blocks are still reachable in loss record 8 of 8
+==2906==    at 0x402641D: operator new(unsigned int) (vg_replace_malloc.c:255)
+==2906==    by 0x4B482E5: boost::detail::add_new_tss_node(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*) (thread.cpp:159)
+==2906==    by 0x4B4883B: boost::detail::set_tss_data(void const*, boost::shared_ptr<boost::detail::tss_cleanup_function>, void*, bool) (thread.cpp:600)
+==2906==    by 0x43B7400: Wt::WebSession::Handler::attachThreadToHandler(Wt::WebSession::Handler*) (tss.hpp:95)
+==2906==    by 0x43BA6D1: Wt::WebSession::Handler::init() (WebSession.C:605)
+==2906==    by 0x43C0B90: Wt::WebSession::Handler::Handler(boost::shared_ptr<Wt::WebSession>, bool) (WebSession.C:546)
+==2906==    by 0x43D6107: Wt::WebController::forceShutdown() (WebController.C:101)
+==2906==    by 0x45BE377: Wt::WServer::stop() (WServer.C:314)
+==2906==    by 0x45C1B2C: Wt::WRun(int, char**, boost::function<Wt::WApplication* ()(Wt::WEnvironment const&)>) (WServer.C:498)
+==2906==    by 0x804A63B: main (in /home/richel/Projects/Website/CppValgrindExample6-build-desktop/CppValgrindExample6)
+==2906== 
+==2906== LEAK SUMMARY:
+==2906==    definitely lost: 0 bytes in 0 blocks
+==2906==    indirectly lost: 0 bytes in 0 blocks
+==2906==      possibly lost: 0 bytes in 0 blocks
+==2906==    still reachable: 344 bytes in 8 blocks
+==2906==         suppressed: 0 bytes in 0 blocks
+==2906== 
+==2906== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 63 from 8)
+--2906-- 
+--2906-- used_suppression:     63 U1004-ARM-_dl_relocate_object
+==2906== 
+==2906== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 63 from 8)

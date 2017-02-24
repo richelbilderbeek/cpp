@@ -1,0 +1,92 @@
+//---------------------------------------------------------------------------
+#include <cassert>
+
+int Factorial(const int n)
+{
+  assert(n>=0);
+  int result = 1;
+  for (int i=1; i<=n; ++i)
+  {
+    result*=i;
+  }
+  return result;
+}
+
+int main()
+{
+  assert(Factorial(0)==1);
+  assert(Factorial(1)==1);
+  assert(Factorial(2)==2);
+  assert(Factorial(3)==6);
+  assert(Factorial(4)==24);
+  assert(Factorial(5)==120);
+}
+//---------------------------------------------------------------------------
+
+
+
+//---------------------------------------------------------------------------
+//Recursive function
+//---------------------------------------------------------------------------
+
+
+
+//---------------------------------------------------------------------------
+#include <cassert>
+
+int Factorial(const int n)
+{
+  assert(n >= 0);
+  if (n==0) return 1;
+  return (n * Factorial(n-1));
+}
+
+int main()
+{
+  assert(Factorial(0)==1);
+  assert(Factorial(1)==1);
+  assert(Factorial(2)==2);
+  assert(Factorial(3)==6);
+  assert(Factorial(4)==24);
+  assert(Factorial(5)==120);
+}
+//---------------------------------------------------------------------------
+
+
+
+//---------------------------------------------------------------------------
+// Template metaprogram
+//---------------------------------------------------------------------------
+
+
+//---------------------------------------------------------------------------
+//The compile-time assert
+template <bool>
+struct CtAssert;
+
+template <>
+struct CtAssert<true> {};
+
+//The template metaprogram for factorial
+template <unsigned int N>
+struct factorial
+{
+  static unsigned const value = N * factorial<N-1>::value;
+};
+
+template <>
+struct factorial<0>
+{
+  static unsigned const value = 1;
+};
+
+int main()
+{
+  CtAssert<(factorial<0>::value==1)>();
+  CtAssert<(factorial<1>::value==1)>();
+  CtAssert<(factorial<2>::value==2)>();
+  CtAssert<(factorial<3>::value==6)>();
+  CtAssert<(factorial<4>::value==24)>();
+  CtAssert<(factorial<5>::value==120)>();
+}
+//---------------------------------------------------------------------------

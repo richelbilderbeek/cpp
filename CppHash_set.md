@@ -1,0 +1,52 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [\_\_gnu\_cxx::hash\_set](CppHash_set.htm)
+===========================================================
+
+ 
+
+[\_\_gnu\_cxx::hash\_set](CppHash_set.htm) is a
+[container](CppContainer.htm) to store elements like in a
+[std::set](CppSet.htm) in such a way that retrieval is quicker.
+
+ 
+
+-   [Download the Qt Creator project
+    'CppHash\_set' (zip)](CppHash_set.zip)
+
+ 
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <ext/hash_set>   struct File {   File(const int any_id, const std::string& any_name)   : id(any_id), name(any_name) {}   const int id;   const std::string name; };  bool operator==(const File& lhs, const File& rhs) {   return (lhs.id == rhs.id && lhs.name == rhs.name); }  struct Hash_file {   std::size_t operator()(const File& f) const   {     __gnu_cxx::hash<int> hash_function;     return hash_function(f.id);   } };  int main() {   __gnu_cxx::hash_set;<File, Hash_file> files;    const File f1 = File(0,"Bilderbikkel.txt");   const File f2 = File(1,"Parachutemeisje.txt");    files.insert(f1);   files.insert(f2);    assert((*files.find(f1)).id == 0);   assert((*files.find(f1)).name == "Bilderbikkel.txt");   assert((*files.find(f2)).id == 1);   assert((*files.find(f2)).name == "Parachutemeisje.txt"); }`
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

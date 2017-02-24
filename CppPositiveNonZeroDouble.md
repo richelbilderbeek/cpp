@@ -1,0 +1,102 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [PositiveNonZeroDouble](CppPositiveNonZeroDouble.htm)
+======================================================================
+
+ 
+
+Technical facts
+---------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppPositiveNonZeroDouble/CppPositiveNonZeroDouble.pri
+-------------------------------------------------------
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` INCLUDEPATH += \     ../../Classes/CppPositiveNonZeroDouble  SOURCES += \     ../../Classes/CppPositiveNonZeroDouble/positivenonzerodouble.cpp  HEADERS  += \     ../../Classes/CppPositiveNonZeroDouble/positivenonzerodouble.h  OTHER_FILES += \     ../../Classes/CppPositiveNonZeroDouble/Licence.txt`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppPositiveNonZeroDouble/positivenonzerodouble.h
+--------------------------------------------------
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #ifndef POSITIVENONZERODOUBLE_H #define POSITIVENONZERODOUBLE_H  #include <iostream>  ///Only allows values that are positive and non-zero struct PositiveNonZeroDouble {   ///Throws std::logic_error if x is zero or negative   explicit PositiveNonZeroDouble(const double x);   double Get() const noexcept { return m_x; }    private:   double m_x; };  std::ostream& operator<<(std::ostream& os, const PositiveNonZeroDouble d);  #endif // POSITIVENONZERODOUBLE_H`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppPositiveNonZeroDouble/positivenonzerodouble.cpp
+----------------------------------------------------
+
+ 
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include "positivenonzerodouble.h"  #include <iostream> #include <sstream> #include <stdexcept>  ///Throws std::logic_error if x is zero or negative PositiveNonZeroDouble::PositiveNonZeroDouble(const double x)   : m_x{x} {   if (x <= 0.0)   {     std::stringstream s;     s << __func__ << ": x must be non-zero and positive, x given: " << x;     throw std::logic_error(s.str());   }  }  std::ostream& operator<<(std::ostream& os, const PositiveNonZeroDouble d) {   os << d.Get();   return os; }`
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

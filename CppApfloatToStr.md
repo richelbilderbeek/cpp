@@ -1,0 +1,116 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [ApfloatToStr](CppApfloatToStr.htm)
+====================================================
+
+ 
+
+![STL](PicStl.png)
+
+ 
+
+[ApfloatToStr](CppApfloatToStr.htm) is an [apfloat](CppApfloat.htm)
+[example](CppExample.htm).
+
+Technical facts
+---------------
+
+ 
+
+[Operating system(s) or programming environment(s)](CppOs.htm)
+
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+
+[IDE(s)](CppIde.htm):
+
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+
+[Project type](CppQtProjectType.htm):
+
+-   ![console](PicConsole.png) [Console
+    application](CppConsoleApplication.htm)
+
+[C++ standard](CppStandard.htm):
+
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+
+[Compiler(s)](CppCompiler.htm):
+
+-   [G++](CppGpp.htm) 4.9.2
+
+[Libraries](CppLibrary.htm) used:
+
+-   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+    4.9.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt project file](CppQtProjectFile.htm): ./CppApfloatToStr/CppApfloatToStr.pro
+------------------------------------------------------------------------------
+
+ 
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------
+  ` include(../../ConsoleApplicationNoWeffcpp.pri) include(../../Libraries/Boost.pri) include(../../Libraries/Apfloat.pri)  SOURCES += main.cpp`
+  ------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppApfloatToStr/main.cpp
+--------------------------
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #pragma GCC diagnostic ignored "-Wunused-variable" #include <string> #include <boost/lexical_cast.hpp> #include "apfloat.h" #pragma GCC diagnostic pop  //Uses C++98 std::string ToStr(const apfloat& a) {   std::stringstream s;   s << a;   return s.str(); }  //Uses apfloat and C++98 std::string ToStrApfloat(const apfloat& a) {   std::stringstream s;   s << pretty << a;   return s.str(); }  int main() {   const double x{12.34};   const apfloat y(x);   const std::string a{ToStr(y)};   const std::string b{ToStrApfloat(y)};   std::cout      << a << '\n'      << b << '\n'    ; }  /* Screen output:  0.000000012339999999999999880e9 12.339999999999999880  */`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

@@ -1,0 +1,44 @@
+From 4d8918cb00aa6fe02a3904e77457c316feedf829 Mon Sep 17 00:00:00 2001
+From: andon <andon@andon-laptop.(none)>
+Date: Sun, 15 Aug 2010 11:18:06 +0200
+Subject: [PATCH] Removed bugs in MultilayerPerceptron::get_hidden_layer_biases(int i) and MultilayerPerceptron::get_hidden_layer_synaptic_weights(int i).
+
+This bugs caused an segmentation fault on call of this methods.
+---
+ .../MultilayerPerceptron/MultilayerPerceptron.cpp  |   10 +++++-----
+ 1 files changed, 5 insertions(+), 5 deletions(-)
+
+diff --git a/flood3_src/MultilayerPerceptron/MultilayerPerceptron.cpp b/flood3_src/MultilayerPerceptron/MultilayerPerceptron.cpp
+index 610842f..886ba7a 100644
+--- a/flood3_src/MultilayerPerceptron/MultilayerPerceptron.cpp
++++ b/flood3_src/MultilayerPerceptron/MultilayerPerceptron.cpp
+@@ -605,9 +605,9 @@ Vector<double> MultilayerPerceptron::get_hidden_layer_biases(int i)
+ 
+    Vector<double> hidden_layer_biases(hidden_layer_size);
+ 
+-   for(int i = 0; i < hidden_layer_size; i++)
++   for(int j = 0; j < hidden_layer_size; j++)
+    {
+-      hidden_layer_biases[i] = hidden_layers[i][i].get_bias();
++      hidden_layer_biases[j] = hidden_layers[i][j].get_bias();
+    }
+ 
+    return(hidden_layer_biases);
+@@ -673,11 +673,11 @@ Matrix<double> MultilayerPerceptron::get_hidden_layer_synaptic_weights(int i)
+ 
+    Vector<double> synaptic_weights(hidden_layer_inputs_number);
+ 
+-   for(int i = 0; i < hidden_layer_size; i++)
++   for(int j = 0; j < hidden_layer_size; j++)
+    {
+-      synaptic_weights = hidden_layers[i][i].get_synaptic_weights();
++      synaptic_weights = hidden_layers[i][j].get_synaptic_weights();
+ 
+-      hidden_layer_synaptic_weights.set_row(i, synaptic_weights);
++      hidden_layer_synaptic_weights.set_row(j, synaptic_weights);
+    }
+ 
+    return(hidden_layer_synaptic_weights);
+-- 
+1.7.0.4
+

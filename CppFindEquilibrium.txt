@@ -1,0 +1,65 @@
+#include <iostream>
+#include <map>
+#include <algorithm>
+#include <memory>
+//---------------------------------------------------------------------------
+struct FunctionBase
+{
+  virtual const double GetY(const double x) const = 0;
+  virtual ~FunctionBase() {} //Base class must have virtual destructor
+};
+//---------------------------------------------------------------------------
+struct FunctionLogisticGrowth : public FunctionBase
+{
+  FunctionLogisticGrowth(const double r) : mR(r) {}
+
+  const double GetY(const double x) const
+  {
+    //The discrete time version of the logistic growth equation
+    //Assumes a K of 1.0
+    return (mR * x * (1.0 - x));
+  }
+  const double mR;
+};
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppFindEquilibrium.htm
+const int GetPeriod(
+  const std::auto_ptr<const FunctionBase>& anyFunction,
+  const double xZero,
+  const int maxT)
+{
+  std::map<double,int> values; //value, time
+  double x = xZero;
+  for(int t=0; t!=maxT; ++t)
+  {
+    if (values.find(x)!=values.end())
+    {
+      //The previous time this value was found
+      const int tPrev = values[x];
+      //The distance between now and the previous time
+      const int period = t-tPrev;
+      return period;
+    }
+    //Map this population size to the time now
+    values[x] = t;
+    //Set the value to the next value
+    x = anyFunction->GetY(x);
+  }
+  //Time too long
+  return maxT;
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppFindEquilibrium.htm
+int main()
+{
+  //Of the logistic growth equation, determine the period length for
+  //different values of intrinsic growth rate ('r')
+  const int maxT = 100000;
+  const double xZero = 0.1;
+  for (double r = 0.1; r < 4.0; r+=0.001)
+  {
+    const std::auto_ptr<const FunctionBase> myFunction(new FunctionLogisticGrowth(r));
+    std::cout << r << " : "
+      << GetPeriod(myFunction,xZero,maxT) << std::endl;
+  }
+}

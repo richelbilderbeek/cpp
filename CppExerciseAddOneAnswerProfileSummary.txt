@@ -1,0 +1,84 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+  0.78     11.01     0.12      101     1.19     5.70  AddBoostForeachAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.78     11.12     0.12      101     1.19     5.70  AddBoostForeachAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.71     11.35     0.11      101     1.09     5.60  AddBoostForeachPreIncrement(std::vector<int, std::allocator<int> >&)
+  0.65     11.85     0.10      101     0.99     5.50  AddBoostForeachIncrease(std::vector<int, std::allocator<int> >&)
+  0.52     12.27     0.08      101     0.79     1.39  AddForPreIncrement(std::vector<int, std::allocator<int> >&)
+  0.49     12.49     0.07      101     0.74     2.80  AddIteratorPreIncrement(std::vector<int, std::allocator<int> >&)
+  0.45     12.91     0.07      101     0.69     3.06  AddIteratorAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.39     13.47     0.06      101     0.59     1.78  AddForAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.39     13.53     0.06      101     0.59     5.10  AddBoostForeachPostIncrement(std::vector<int, std::allocator<int> >&)
+  0.32     13.94     0.05      101     0.50     1.09  AddForIncrease(std::vector<int, std::allocator<int> >&)
+  0.32     13.99     0.05      101     0.50     1.09  AddForPostIncrement(std::vector<int, std::allocator<int> >&)
+  0.32     14.04     0.05      101     0.50     2.56  AddIteratorIncrease(std::vector<int, std::allocator<int> >&)
+  0.32     14.09     0.05      101     0.50     3.10  AddOnerNonInlineAssignment1st std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlineAssignment1st>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlineAssignment1st)
+  0.26     14.46     0.04      101     0.40     2.46  AddIteratorPostIncrement(std::vector<int, std::allocator<int> >&)
+  0.26     14.51     0.04      101     0.40     3.25  AddOnerInlinePreIncrement std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlinePreIncrement>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlinePreIncrement)
+  0.19     14.97     0.03      101     0.30     2.67  AddIteratorAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.19     15.00     0.03      101     0.30     2.75  AddOnerInlinePostIncrement std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlinePostIncrement>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlinePostIncrement)
+  0.19     15.03     0.03      101     0.30     3.10  AddOnerNonInlinePreIncrement std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlinePreIncrement>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlinePreIncrement)
+  0.13     15.30     0.02      101     0.20     2.75  AddOnerInlineIncrease std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlineIncrease>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlineIncrease)
+  0.13     15.32     0.02      101     0.20     2.61  AddOnerNonInlineAssignment2nd std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlineAssignment2nd>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlineAssignment2nd)
+  0.06     15.39     0.01      101     0.10     2.56  AddOnerInlineAssignment1st std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlineAssignment1st>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlineAssignment1st)
+  0.06     15.40     0.01      101     0.10     3.15  AddOnerNonInlinePostIncrement std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlinePostIncrement>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlinePostIncrement)
+  0.00     15.45     0.00      101     0.00     6.33  AddLambdaIncrease(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     4.21  AddAlgorithmBind1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     4.35  AddAlgorithmBind2nd(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     1.19  AddForAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     5.39  AddLambdaPreIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00    10.75  AddLambdaAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00    10.36  AddLambdaAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     4.85  AddLambdaPostIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.75  AddAlgorithmFunctorInlineIncrease(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmInlineFunctionIncrease(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.71  AddAlgorithmFunctorNonInlineIncrease(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.25  AddAlgorithmFunctorInlinePreIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmNonInlineFunctionIncrease(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.56  AddAlgorithmFunctorInlineAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.46  AddAlgorithmFunctorInlineAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.75  AddAlgorithmFunctorInlinePostIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmInlineFunctionPreIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmInlineFunctionAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmInlineFunctionAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmInlineFunctionPostIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.10  AddAlgorithmFunctorNonInlinePreIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.10  AddAlgorithmFunctorNonInlineAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.61  AddAlgorithmFunctorNonInlineAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.15  AddAlgorithmFunctorNonInlinePostIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmNonInlineFunctionPreIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmNonInlineFunctionAssignment1st(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmNonInlineFunctionAssignment2nd(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     3.05  AddAlgorithmNonInlineFunctionPostIncrement(std::vector<int, std::allocator<int> >&)
+  0.00     15.45     0.00      101     0.00     2.71  AddOnerNonInlineIncrease std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlineIncrease>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerNonInlineIncrease)
+  0.00     15.45     0.00      101     0.00     2.46  AddOnerInlineAssignment2nd std::for_each<__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlineAssignment2nd>(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, AddOnerInlineAssignment2nd)
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+ 
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this 
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.

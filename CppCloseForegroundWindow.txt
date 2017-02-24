@@ -1,0 +1,8 @@
+#include <windows.h>
+
+//From http://www.richelbilderbeek.nl/CppCloseForegroundWindow.htm
+void CloseForegroundWindow()
+{
+  const HWND handle = GetForegroundWindow();
+  CloseWindow(handle);
+}

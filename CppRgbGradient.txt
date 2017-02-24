@@ -1,0 +1,59 @@
+#include <cassert>
+#include <cmath>
+#include <algorithm>
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRgbGradient.htm
+void RgbGradient(
+  const double x, 
+  unsigned char& r, 
+  unsigned char& g, 
+  unsigned char& b)
+{
+  r = GetRed(x);
+  g = GetGreen(x);
+  b = GetBlue(x);
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRgbGradient.htm
+unsigned char GetRed(const double x)
+{
+  assert( x >= 0.0 && x < 1.0);
+  const double f = std::max(0.0,
+    (x < 0.5
+    ?  std::cos(x * 1.5 * M_PI)
+    : -std::sin(x * 1.5 * M_PI)
+    ) );
+  assert( f >= 0.0);
+  assert( f <= 1.0);
+  const double y = 255.0 * f;
+  assert( static_cast<int>(y) < 256 );
+  return static_cast<unsigned char>(y);
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRgbGradient.htm
+unsigned char GetGreen(const double x)
+{
+  assert( x >= 0.0 && x < 1.0);
+
+  const double f = std::max(0.0, std::sin( x * 1.5 * M_PI ) );
+  assert( f >= 0.0);
+  assert( f <= 1.0);
+  const double y = 255.0 * f;
+  assert( static_cast<int>(y) < 256 );
+  return static_cast<unsigned char>(y);
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRgbGradient.htm
+unsigned char GetBlue(const double x)
+{
+  assert( x >= 0.0 && x < 1.0);
+
+  const double f = std::max(0.0, -std::cos( x * 1.5 * M_PI ) );
+
+  assert( f >= 0.0);
+  assert( f <= 1.0);
+  const double y = 255.0 * f;
+  assert( static_cast<int>(y) < 256 );
+  return static_cast<unsigned char>(y);
+}
+//---------------------------------------------------------------------------

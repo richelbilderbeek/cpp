@@ -1,0 +1,30 @@
+#include <cassert>
+#include <map>
+#include <string>
+
+const std::map<int,std::string> GetNumberMap()
+{
+  std::map<int,std::string> numberMap;
+  numberMap[0] = "Zero";
+  numberMap[1] = "One";
+  numberMap[2] = "Two";
+  //Etcetera
+  return numberMap;
+}
+
+template <class KeyType, class ValueType>
+bool IsKeyInMap(const std::map<KeyType,ValueType>& anyMap, const KeyType& key)
+{
+  return anyMap.find(key) != anyMap.end();
+}
+
+
+int main()
+{
+  const std::map<int,std::string> myMap(GetNumberMap());
+  assert(!IsKeyInMap(myMap,-2));
+  assert(!IsKeyInMap(myMap,-1));
+  assert( IsKeyInMap(myMap,0));
+  assert( IsKeyInMap(myMap,1));
+  assert( IsKeyInMap(myMap,2));
+}

@@ -1,0 +1,59 @@
+#include <cassert>
+#include <Extctrls.hpp>
+
+//Darken an image by fraction f
+// * f = 0.0 denotes no bleaching  (image untouched)
+// * f = 1.0 denotes max bleaching (image black)
+//From http://www.richelbilderbeek.nl/CppDarken.htm
+void Darken(
+  const Extctrls::TImage * const source,
+  const double f,                   
+  Extctrls::TImage * const target)
+{
+  assert(f >=  0.0);
+  assert(f <=  1.0);
+  assert(source!=0 && "Image is NULL");
+  assert(source->Picture->Bitmap!=0 && "Image bitmap is NULL");
+  assert(source->Picture->Bitmap->PixelFormat == pf24bit && "Image bitmap must be 24 bit");
+  assert(target!=0 && "Image is NULL");
+  assert(target->Picture->Bitmap!=0 && "Image bitmap is NULL");
+  assert(target->Picture->Bitmap->PixelFormat == pf24bit && "Image bitmap must be 24 bit");
+  //Get the width and height from the source
+  const int width  = source->Picture->Bitmap->Width;
+  const int height = source->Picture->Bitmap->Height;
+  //Set the target's width and height
+  target->Picture->Bitmap->Width  = width;
+  target->Picture->Bitmap->Height = height;
+
+  for (int y=0; y!=height; ++y)
+  {
+    const unsigned char * lineSource
+      = static_cast<const unsigned char *>(
+        source->Picture->Bitmap->ScanLine[y]);
+    unsigned char * lineTarget
+      = static_cast<unsigned char *>(
+        target->Picture->Bitmap->ScanLine[y]);
+    for (int x=0; x!=width; ++x)
+    {
+      const int r = lineSource[x*3+2]; //Red;
+      const int g = lineSource[x*3+1]; //Green;
+      const int b = lineSource[x*3+0]; //Blue;
+      const double dist_r = static_cast<double>(r) * (1.0-f);
+      const double dist_g = static_cast<double>(g) * (1.0-f);
+      const double dist_b = static_cast<double>(b) * (1.0-f);
+      const int new_r = static_cast<int>(dist_r);
+      const int new_g = static_cast<int>(dist_g);
+      const int new_b = static_cast<int>(dist_b);
+      assert(new_r >=   0);
+      assert(new_r <  256);
+      assert(new_g >=   0);
+      assert(new_g <  256);
+      assert(new_b >=   0);
+      assert(new_b <  256);
+      lineTarget[x*3+2] = new_r; //Red
+      lineTarget[x*3+1] = new_g; //Green
+      lineTarget[x*3+0] = new_b; //Blue
+    }
+  }
+
+}

@@ -1,0 +1,54 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) ![C++98](PicCpp98.png) [Answer of exercise \#11: Obtaining a std::vector of read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointersAnswer.htm)
+========================================================================================================================================================================
+
+ 
+
+This is the answer of [Exercise \#11: Obtaining a std::vector of
+read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointers.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <vector> #include <boost/checked_delete.hpp> #include <boost/foreach.hpp> #include <boost/shared_ptr.hpp>  struct MyStruct {   int m_x;    private:   ~MyStruct() {}   friend void boost::checked_delete<>(MyStruct *); };  struct MyStructKeeper {   std::vector<const MyStruct*> Get() const   {     std::vector<const MyStruct*> v;     BOOST_FOREACH(const boost::shared_ptr<MyStruct>& s,m_v)     {       v.push_back(s.get());     }     return v;   }   private:   std::vector<boost::shared_ptr<MyStruct> > m_v; };  int main() {   //Second part   MyStructKeeper k1;   MyStructKeeper k2;   std::vector<const MyStruct*> v1 = k1.Get();   const std::vector<const MyStruct*> v2 = k2.Get();   std::copy(v2.begin(),v2.end(),std::back_inserter(v1));   //v1[0]->m_x = 0; //Should not compile   //delete v1[0].get(); //Should not compile }`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

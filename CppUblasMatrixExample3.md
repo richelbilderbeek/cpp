@@ -1,0 +1,133 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [boost::numeric::ublas::matrix example 3: inverse of a 2x2 matrix](CppUblasMatrixExample3.htm)
+===============================================================================================================
+
+ 
+
+[boost::numeric::ublas::matrix example 3: inverse of a 2x2
+matrix](CppUblasMatrixExample3.htm) is a [Boost.uBLAS](CppUblas.htm)
+[library](CppLibrary.htm) example.
+
+ 
+
+-   [Download the Qt Creator project
+    'CppUblasMatrixExample3' (zip)](CppUblasMatrixExample3.zip)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical facts
+---------------
+
+ 
+
+[Application type(s)](CppApplication.htm)
+
+-   ![Desktop](PicDesktop.png) [Desktop
+    application](CppDesktopApplication.htm)
+
+[Operating system(s) or programming environment(s)](CppOs.htm)
+
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+
+[IDE(s)](CppIde.htm):
+
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+
+[Project type](CppQtProjectType.htm):
+
+-   ![console](PicConsole.png) [Console
+    application](CppConsoleApplication.htm)
+
+[C++ standard](CppStandard.htm):
+
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+
+[Compiler(s)](CppCompiler.htm):
+
+-   [G++](CppGpp.htm) 4.7.2
+
+[Libraries](CppLibrary.htm) used:
+
+-   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+    4.7.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt project file](CppQtProjectFile.htm): CppUblasMatrixExample3.pro
+-------------------------------------------------------------------
+
+ 
+
+  ----------------------------------------------------------------------------
+  ` TEMPLATE = app  CONFIG += console  CONFIG -= qt  SOURCES += main.cpp   `
+  ----------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+main.cpp
+--------
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <boost/numeric/ublas/matrix.hpp>    const boost::numeric::ublas::matrix<double> Inverse(    const boost::numeric::ublas::matrix<double>& m)  {    assert(m.size1() == m.size2() && "Can only calculate the inverse of square matrices");    assert(m.size1() == 2 && m.size2() == 2 && "Only for 2x2 matrices");    boost::numeric::ublas::matrix<double> n(2,2);    const double a = m(0,0);    const double b = m(0,1);    const double c = m(1,0);    const double d = m(1,1);    assert((a * d) - (b * c) != 0.0 && "Determinant must be nonzero");    const double determinant = 1.0 / ((a * d) - (b * c));    n(0,0) =  d * determinant;    n(0,1) = -b * determinant;    n(1,0) = -c * determinant;    n(1,1) =  a * determinant;    return n;  }    const boost::numeric::ublas::matrix<double> CreateMatrix()  {    boost::numeric::ublas::matrix<double> m(2,2); //y-x-ordered    m(0,0) = 4.0;    m(0,1) = 7.0;    m(1,0) = 2.0;    m(1,1) = 6.0;    return m;  }    bool IsAboutEqual(const double x, const double y) { return std::abs(x-y) < 0.00001; }    int main()  {    //Create an example matrix    const boost::numeric::ublas::matrix<double> m = CreateMatrix();      assert(IsAboutEqual(m(0,0),4.0)); assert(IsAboutEqual(m(0,1),7.0));    assert(IsAboutEqual(m(1,0),2.0)); assert(IsAboutEqual(m(1,1),6.0));      //Obtain the inverse of the example matrix    const boost::numeric::ublas::matrix<double> n = Inverse(m);      assert(IsAboutEqual(n(0,0), 0.6)); assert(IsAboutEqual(n(0,1),-0.7));    assert(IsAboutEqual(n(1,0),-0.2)); assert(IsAboutEqual(n(1,1), 0.4));      //Check that the product of a matrix and its inverse yields an identity matrix    const boost::numeric::ublas::matrix<double> p = boost::numeric::ublas::prod(m,n);      assert(IsAboutEqual(p(0,0),1.0)); assert(IsAboutEqual(p(0,1),0.0));    assert(IsAboutEqual(p(1,0),0.0)); assert(IsAboutEqual(p(1,1),1.0));  } `
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

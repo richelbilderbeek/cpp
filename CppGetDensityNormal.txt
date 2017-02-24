@@ -1,0 +1,10 @@
+#include <cmath>
+
+//From http://www.richelbilderbeek.nl/CppGetDensityNormal.htm
+double GetDensityNormal(const double x, const double mean, const double stddev)
+{
+  const double firstTerm = 1.0 / (stddev * std::sqrt(2.0 * M_PI));
+  const double secondTerm = -( (x - mean) * (x - mean) / (2.0 * stddev * stddev) );
+  const double result = firstTerm * std::exp(secondTerm);
+  return result;
+}

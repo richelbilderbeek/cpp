@@ -1,0 +1,162 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Filesystem example 1: count C++ webpages](CppFilesystemExample1.htm)
+===================================================================================================================
+
+ 
+
+This [Boost.Filesystem](CppFilesystem.htm) example shows how to count
+the number of files in a folder with certain requirements. This program
+shows how I count the number of [C++](Cpp.htm) webpages on this site!
+
+ 
+
+-   ![Qt Creator](PicQtCreator.png) [Download the Qt Creator project
+    'CppFilesystemExample1' (zip)](CppFilesystemExample1.zip)
+-   ![Windows](PicWindows.png) [Download Windows executable
+    'CppFilesystemExample1' (zip)](CppFilesystemExample1Exe.zip)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Technical facts
+---------------
+
+ 
+
+[Operating system(s) or programming environment(s)](CppOs.htm)
+
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Windows](PicWindows.png) [Windows](CppWindows.htm)
+
+[IDE(s)](CppIde.htm):
+
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+
+[Project type](CppQtProjectType.htm):
+
+-   ![console](PicConsole.png) [Console
+    application](CppConsoleApplication.htm)
+
+[C++ standard](CppStandard.htm):
+
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+
+[Compiler(s)](CppCompiler.htm):
+
+-   [G++](CppGpp.htm) 4.7.3
+
+[Libraries](CppLibrary.htm) used:
+
+-   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.49
+-   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.4 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+    4.7.3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt project file](CppQtProjectFile.htm): CppFilesystemExample1.pro
+------------------------------------------------------------------
+
+ 
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` QT       += core QT       -= gui CONFIG   += console CONFIG   -= app_bundle TEMPLATE = app  SOURCES += main.cpp  unix {   LIBS += -lboost_system -lboost_filesystem }  win32 {   INCLUDEPATH += \     ../../Libraries/boost_1_53_0    #Boost.System   HEADERS += \     ../../Libraries/boost_1_53_0/libs/system/src/local_free_on_destruction.hpp   SOURCES += \     ../../Libraries/boost_1_53_0/libs/system/src/error_code.cpp    #Boost.Filesystem   HEADERS += \     ../../Libraries/boost_1_53_0/libs/filesystem/src/windows_file_codecvt.hpp   SOURCES += \     ../../Libraries/boost_1_53_0/libs/filesystem/src/codecvt_error_category.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/operations.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/path.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/path_traits.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/portability.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/unique_path.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/utf8_codecvt_facet.cpp \     ../../Libraries/boost_1_53_0/libs/filesystem/src/windows_file_codecvt.cpp }`
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+main.cpp
+--------
+
+ 
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <iostream> #include <string> #include <boost/filesystem.hpp> #include <boost/foreach.hpp> #include <boost/timer.hpp>  int main() {   const std::string my_folder_name = "/home/richel/Projects/Projects/RichelbilderbeekNl";   const int min_filesize = 1000; //in bytes    const boost::filesystem::path my_folder     = boost::filesystem::system_complete(         boost::filesystem::path(my_folder_name ));    assert(boost::filesystem::is_directory(my_folder)     && "The folder must exist");    int n = 0;    const boost::filesystem::directory_iterator j;   for ( boost::filesystem::directory_iterator i(my_folder);         i != j;         ++i)   {     if ( boost::filesystem::is_regular_file( i->status() ) )     {       const std::string filename = i->path().filename().string();       const std::string full_filename = my_folder_name + "/" + filename;       const int filesize = boost::filesystem::file_size(full_filename);       if (filename.size() >= 4         && filename.substr(filename.size() - 4, 4) == std::string(".htm")         && filename.substr(0, 3) == std::string("Cpp")         && filesize > min_filesize)       {         ++n;         std::cout << "(" << filesize << ") " << filename << '\n';       }     }   }   std::cout     << "\nNumber of Cpp***.htm files bigger than "     << min_filesize << " bytes: " << n << '\n'; }`
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+crosscompiletowindows.sh
+------------------------
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #!/bin/sh #From http://richelbilderbeek.nl/CppQtCrosscompileToWindowsExample15.htm  echo "Cross compiling to Windows"  echo "1/2: Creating Windows makefile" i686-pc-mingw32-qmake CppFilesystemExample1.pro  echo "2/2: making makefile" make  echo "Done"`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

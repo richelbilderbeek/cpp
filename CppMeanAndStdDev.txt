@@ -1,0 +1,27 @@
+#include <cassert>
+#include <cmath>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppMeanAndStdDev.htm
+void MeanAndStdDev(
+  const std::vector<double>& myVector, 
+  double& mean, 
+  double& stdDev)
+{
+  const int size = static_cast<int>(myVector.size());
+  assert(size>1);
+  const double dSize = static_cast<double>(size);
+  mean = 0.0;
+  double sumX = 0.0;
+  double sumXsquared = 0.0;
+  for (int i=0; i!=size; ++i)
+  {
+    const double value = myVector[i];
+    sumX+=value;
+    sumXsquared+=(value*value);
+    mean+=value;
+  }
+
+  mean/=dSize;
+  stdDev = std::sqrt(((dSize*sumXsquared)-(sumX*sumX))/(dSize *(dSize-1.0)));
+}

@@ -1,0 +1,73 @@
+//Set a pixel's greyness
+//From http://www.richelbilderbeek.nl
+void SetGreyness(
+  TImage * const image,
+  const int x,
+  const int y,
+  const unsigned char grey)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "Bitmap must be 24 bit");
+  assert( x >= 0 && "x coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x < image->Picture->Bitmap->Width  && "x coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+
+  unsigned char * const myLine
+    = static_cast<unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+
+  myLine[x*3+2] = grey;
+  myLine[x*3+1] = grey;
+  myLine[x*3+0] = grey;
+}
+
+
+
+
+
+//Set a line of pixel's greyness
+//From http://www.richelbilderbeek.nl
+void SetGreyness(
+  TImage * const image,
+  const int x1,
+  const int x2,
+  const int y,
+  const unsigned char grey)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "Bitmap must be 24 bit");
+  assert( x1 >= 0 && "x1 coordinat is below zero");
+  assert( x2 >= 0 && "x2 coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x1 < image->Picture->Bitmap->Width  && "x1 coordinat is beyond image width");
+  assert( x2 <= image->Picture->Bitmap->Width  && "x2 coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+
+  unsigned char * const myLine
+    = static_cast<unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+  for (int x=x1; x!=x2; ++x)
+  {
+    myLine[x*3+2] = grey;
+    myLine[x*3+1] = grey;
+    myLine[x*3+0] = grey;
+  }
+}
+
+
+//Set a square of pixels' greyness
+//From http://www.richelbilderbeek.nl
+void SetGreyness(
+  TImage * const image,
+  const int x1,
+  const int y1,
+  const int x2,
+  const int y2,
+  const unsigned char grey)
+{
+  for (int y=y1; y!=y2; ++y)
+  {
+    SetGreyness(image,x1,x2,y,grey);
+  }
+}

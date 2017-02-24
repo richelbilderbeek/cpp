@@ -1,0 +1,78 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [ConvertVector](CppConvertVector.htm)
+======================================================
+
+ 
+
+[Convert](CppConvert.htm) [code snippet](CppCodeSnippets.htm) to
+[convert](CppConvert.htm) [std::vector](CppVector.htm)&lt;X&gt; to
+[std::vector](CppVector.htm)&lt;Y&gt; using
+[boost::lexical\_cast](CppLexical_cast.htm).
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <vector> #include <boost/lexical_cast.hpp>  //From http://www.richelbilderbeek.nl/CppConvertVector.htm template <class Source, class Target> const std::vector<Target> ConvertVector(   const std::vector<Source>& v) {   const size_t sz = v.size();   std::vector<Target> v_new(sz);   for(size_t i=0; i!=sz; ++i)   {     v_new[i] = boost::lexical_cast<Target>(v[i]);   }   return v_new; }`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Versions that do not work
+-------------------------
+
+ 
+
+At the moment, I do not have time to get the better pieces of code to
+compile. Feel free to contact me if you can.
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <algorithm> #include <vector> #include <boost/lexical_cast.hpp>  //From http://www.richelbilderbeek.nl/CppConvertVector.htm template <class Source, class Target> const std::vector<Target> ConvertVector(   const std::vector<Source>& v) {   std::transform(v.begin(),v.end(),std::back_inserter(v_new),     std::ptr_fun<Source,Target>(boost::lexical_cast<Target>()));   return v_new; }`
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <algorithm> #include <vector> #include <boost/lexical_cast.hpp>  //From http://www.richelbilderbeek.nl/CppConvertVector.htm template <class Source, class Target> const std::vector<Target> ConvertVector(   const std::vector<Source>& v) {   std::vector<Target> v_new(v.size());   const std::vector<Source>::const_iterator source_end = v.end();   std::vector<Source>::const_iterator source_in = v.begin();   std::vector<Target>::const_iterator target_out = v_new.begin();   for( ; source_in!=source_end; ++source_in, ++target_out)   {     *target_out = boost::lexical_cast<Target>(*source_in);   }   return v_new; }`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

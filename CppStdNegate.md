@@ -1,0 +1,47 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [std::negate](CppNegate.htm)
+=============================================
+
+ 
+
+[std::negate](CppNegate.htm) is an [STL](CppStl.htm)
+[functor](CppFunctor.htm) for negation of values: it changes x to -x
+(and -x to x).
+
+ 
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <algorithm> #include <cassert> #include <functional> #include <vector>  int main() {   //Create an initial std::vector   std::vector<int> v;   v.push_back(0);   v.push_back(1);   v.push_back(2);   v.push_back(3);    //Create another std::vector   std::vector<int> w;    //Append the negated values from v to w   std::transform(v.begin(),v.end(),std::back_inserter(w),std::negate<int>());    //Check if std::negate worked properly   assert(v.size() == w.size());   assert(v[0] == - w[0]);   assert(v[1] == - w[1]);   assert(v[2] == - w[2]);   assert(v[3] == - w[3]); } `
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

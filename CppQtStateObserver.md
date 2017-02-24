@@ -1,0 +1,110 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [QtStateObserver](CppQtStateObserver.htm)
+==========================================================
+
+ 
+
+![Qt](PicQt.png)![Qt
+Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
+
+ 
+
+[QtStateObserver](CppQtStateObserver.htm) is a [Qt](CppQt.htm)
+[class](CppClass.htm) for displaying a state observer.
+
+Technical facts
+---------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppQtStateObserver/CppQtStateObserver.pri
+-------------------------------------------
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` INCLUDEPATH += \     ../../Classes/CppDial  SOURCES += \     ../../Classes/CppDial/dial.cpp  HEADERS  += \     ../../Classes/CppDial/dial.h  OTHER_FILES += \     ../../Classes/CppDial/Licence.txt`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppQtStateObserver/qtalphafilterdialog.h
+------------------------------------------
+
+ 
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #ifndef QTALPHAFILTERDIALOG_H #define QTALPHAFILTERDIALOG_H  #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #include <boost/shared_ptr.hpp> #include <QDialog> #include "stateobserverfwd.h" #pragma GCC diagnostic pop  namespace Ui {   class QtAlphaFilterDialog; }  namespace ribi {  ///Dialog to create an alpha filter class QtAlphaFilterDialog : public QDialog {   Q_OBJECT    public:   explicit QtAlphaFilterDialog(QWidget *parent = 0) noexcept;   QtAlphaFilterDialog(const QtAlphaFilterDialog&) = delete;   QtAlphaFilterDialog& operator=(const QtAlphaFilterDialog&) = delete;   ~QtAlphaFilterDialog() noexcept;    ///Create an alpha filter with the current parameters   boost::shared_ptr<AlphaFilter> Create() const noexcept;    private:   Ui::QtAlphaFilterDialog *ui; };  } //~namespace ribi  #endif // QTALPHAFILTERDIALOG_H`
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppQtStateObserver/qtalphafilterdialog.cpp
+--------------------------------------------
+
+ 
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #include "qtalphafilterdialog.h"  #include <cassert> #include "alphafilter.h" #include "ui_qtalphafilterdialog.h"  #pragma GCC diagnostic pop  ribi::QtAlphaFilterDialog::QtAlphaFilterDialog(QWidget *parent) noexcept   : QDialog(parent),     ui(new Ui::QtAlphaFilterDialog) {   ui->setupUi(this); }  ribi::QtAlphaFilterDialog::~QtAlphaFilterDialog() noexcept {   delete ui; }  boost::shared_ptr<ribi::AlphaFilter> ribi::QtAlphaFilterDialog::Create() const noexcept {   const double alpha  = ui->box_alpha->value();   const double dt =  ui->box_dt->value();   const boost::shared_ptr<AlphaFilter> filter(new AlphaFilter(alpha,dt));   assert(filter);   return filter; }`
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

@@ -1,0 +1,80 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [qmemarray.h: No such file or directory](CppInstallErrorQmemarrayHnoSuchFileOrDirectory.htm)
+=============================================================================================================
+
+ 
+
+[Install error](CppInstallError.htm) that can occur when installing
+[Qwt](CppQwt.htm) under [Windows](CppWindows.htm) 7.
+
+ 
+
+After doing the following, the error pops up:
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------
+  ` cd D:\Projects\Libraries\qwt-6.1.0 C:\Qt\5.1.1\mingw48_32\bin\qmake qwt.pro C:\Qt\Tools\mingw48_32\bin\mingw32-make.exe`
+  ----------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+The error message:
+
+ 
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` mingw32-make -f Makefile.Release mingw32-make[1]: Entering directory 'D:/Projects/Libraries/qwt-6.1.0' g++ -c -pipe -fno-keep-inline-dllexport -O2 -Wall -Wextra -frtti -fexceptions -m threads -DUNICODE -DQT_DLL -DQWT_DLL -DQWT_MAKEDLL -DQT_NO_DEBUG -DQT_GUI_LIB -D QT_CORE_LIB -I. -I"include" -I"C:\Qt\5.1.1\mingw48_32\include" -I"C:\Qt\5.1.1\mi ngw48_32\include\QtGui" -I"C:\Qt\5.1.1\mingw48_32\include\QtCore" -I"src\moc" -I "C:\Qt\5.1.1\mingw48_32\mkspecs\win32-g++" -o src\obj\qwt_autoscl.o src\qwt_auto scl.cpp In file included from include/qwt_scldiv.h:14:0,                  from include/qwt_autoscl.h:14,                  from src\qwt_autoscl.cpp:11: include/qwt_array.h:25:23: fatal error: qmemarray.h: No such file or directory  #include <qmemarray.h>                        ^ compilation terminated. Makefile.Release:1859: recipe for target 'src/obj/qwt_autoscl.o' failed mingw32-make[1]: *** [src/obj/qwt_autoscl.o] Error 1 mingw32-make[1]: Leaving directory 'D:/Projects/Libraries/qwt-6.1.0' makefile:34: recipe for target 'release' failed mingw32-make: *** [release] Error 2`
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Solution
+--------
+
+ 
+
+Download the most recent Qwt code.
+
+Note that the build did not succeed in creating all examples, but this
+library itself was fine.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

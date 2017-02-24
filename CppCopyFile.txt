@@ -1,0 +1,19 @@
+//---------------------------------------------------------------------------
+#include <fstream>
+#include <cassert>
+void CopyFile(const std::string& fileNameFrom, const std::string& fileNameTo)
+{
+  assert(FileExists(fileNameFrom));
+  std::ifstream in (fileNameFrom.c_str());
+  std::ofstream out(fileNameTo.c_str());
+  out << in.rdbuf(); 
+  out.close();
+  in.close();
+}
+//---------------------------------------------------------------------------
+#include <SysUtils.hpp> //VCL specific
+
+//Will FileTo.txt be overwritten if it already exists? No.
+const bool failIfExists = true; 
+CopyFile( "FileFrom.txt","FileTo.txt", failIfExists);
+//---------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+#include <string>
+#include <cassert>
+
+//From http://www.richelbilderbeek.nl/CppGetPath.htm
+//Returns the path, without a trailing backslash '\'
+const std::string GetPath(const std::string& fileName)
+{
+  const int endOfPathIndex = fileName.rfind("\\",fileName.size());
+  assert(endOfPathIndex < static_cast<int>(fileName.size()));
+  return fileName.substr(0,endOfPathIndex);
+}

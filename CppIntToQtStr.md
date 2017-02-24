@@ -1,0 +1,47 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [IntToQtStr](CppIntToQtStr.htm)
+================================================
+
+ 
+
+[IntToQtStr](CppIntToQtStr.htm) is a [conversion](CppConvert.htm) [code
+snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
+[integer](CppInt.htm) to a [QString](CppQString.htm).
+
+ 
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <QString>  //From http://www.richelbilderbeek.nl/CppQtStrToInt.htm int QtStrToInt(const QString& s) {   bool okay = true;   const int i = s.toInt(&okay);   assert(okay == true);   return i; }  //From http://www.richelbilderbeek.nl/CppIntToQtStr.htm QString IntToQtStr(const int i) {   QString s;   s.setNum(i);   return s; }  int main() {   assert(QtStrToInt("123")==123);   assert(IntToQtStr(123)=="123"); }`
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

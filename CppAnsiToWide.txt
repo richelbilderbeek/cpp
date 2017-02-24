@@ -1,0 +1,5 @@
+//From http://www.richelbilderbeek.nl/CppAnsiToWide.htm
+const WideString AnsiToWide(const AnsiString& s)
+{
+  return s;
+}

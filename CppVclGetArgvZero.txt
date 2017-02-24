@@ -1,0 +1,2 @@
+//From http://www.richelbilderbeek.nl/CppVclGetArgvZero.htm
+const String argvZero = Application->ExeName;

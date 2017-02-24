@@ -1,0 +1,30 @@
+//---------------------------------------------------------------------------
+#ifndef BilderbikkelConsoleAssertH
+#define BilderbikkelConsoleAssertH
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppBuilderAssert.htm
+#ifdef NDEBUG
+  #define Assert(x) ((void)0)
+#else
+  #include <iostream>
+
+  #define Assert(x)                      \
+  if (! (x))                             \
+  {                                      \
+    std::cout                            \
+      << "ERROR!! Assertion "            \
+      <<  std::string (#x)               \
+      <<  " failed\n on line "           \
+      <<  (__LINE__)                     \
+      <<  " in the function "            \
+      <<  (__FUNC__)                     \
+      <<  "\n in file "                  \
+      <<  __FILE__                       \
+      << std::endl;                      \
+      std::string tempString;            \
+      std::getline(std::cin,tempString); \
+  }
+#endif
+
+
+#endif

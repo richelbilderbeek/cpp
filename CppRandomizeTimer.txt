@@ -1,0 +1,8 @@
+#include <cstdlib>
+#include <ctime>
+
+//From http://www.richelbilderbeek.nl/CppRandomizeTimer.htm
+void RandomizeTimer()
+{
+  std::srand(std::time(0));
+}

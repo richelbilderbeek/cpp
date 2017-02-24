@@ -1,0 +1,105 @@
+#include <ExtCtrls.hpp>
+#include <cassert>
+
+//From http://www.richelbilderbeek.nl
+void SetPixelVcl(
+  TImage * const image,
+  const int x,
+  const int y,
+  const TColor color)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "Bitmap must be 24 bit");
+  assert( x >= 0 && "x coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x < image->Picture->Bitmap->Width  && "x coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+
+  unsigned char * const line
+    = static_cast<unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+
+  line[x*3+2] = GetRValue(color);
+  line[x*3+1] = GetGValue(color);
+  line[x*3+0] = GetBValue(color);
+}
+
+#include <ExtCtrls.hpp>
+#include <cassert>
+
+//Set a pixel's RGB values
+//From http://www.richelbilderbeek.nl
+void SetPixel(
+  TImage * const image,
+  const int x,
+  const int y,
+  const unsigned char red,
+  const unsigned char green,
+  const unsigned char blue)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "Bitmap must be 24 bit");
+  assert( x >= 0 && "x coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x < image->Picture->Bitmap->Width  && "x coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+
+  unsigned char * const line
+    = static_cast<unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+
+  line[x*3+2] = red;
+  line[x*3+1] = green;
+  line[x*3+0] = blue;
+}
+
+
+//Set a line of pixels' RGB values
+//From http://www.richelbilderbeek.nl
+void SetPixel(
+  TImage * const image,
+  const int x1,
+  const int x2,
+  const int y,
+  const unsigned char red,
+  const unsigned char green,
+  const unsigned char blue)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "Bitmap must be 24 bit");
+  assert( x1 >= 0 && "x1 coordinat is below zero");
+  assert( x2 >= 0 && "x2 coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x1 < image->Picture->Bitmap->Width  && "x1 coordinat is beyond image width");
+  assert( x2 <= image->Picture->Bitmap->Width  && "x2 coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+
+  unsigned char * const myLine
+    = static_cast<unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+  for (int x=x1; x!=x2; ++x)
+  {
+    myLine[x*3+2] = red;
+    myLine[x*3+1] = green;
+    myLine[x*3+0] = blue;
+  }
+}
+
+
+//Set a square of pixels' RGB values
+//From http://www.richelbilderbeek.nl
+void SetPixel(
+  TImage * const image,
+  const int x1,
+  const int y1,
+  const int x2,
+  const int y2,
+  const unsigned char red,
+  const unsigned char green,
+  const unsigned char blue)
+{
+  for (int y=y1; y!=y2; ++y)
+  {
+    SetPixel(image,x1,x2,y,red,green,blue);
+  }
+}

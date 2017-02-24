@@ -1,0 +1,35 @@
+#include <cassert>
+#include <functional>
+#include <vector>
+#include <algorithm>
+
+struct Player
+{
+  Player(const int anyX, const int anyY) : x(anyX), y(anyY) {}
+  int x,y;
+  //And more...
+};
+
+//From http://www.richelbilderbeek.nl
+template <class T>
+struct SameXandY : public std::unary_function<T,bool>
+{
+  explicit SameXandY(const T& position) : mPosition(position) {}
+  bool operator()(const T& position) const
+  {
+    return position.x == mPosition.x && position.y == mPosition.y;
+  }
+
+  private:
+  const T mPosition;
+};
+
+
+int main()
+{
+  std::vector<Player> v;
+  for (int i=0; i!=10; ++i) v.push_back(Player(i,i));
+
+  assert( std::find_if(v.begin(), v.end(), SameXandY<Player>(Player(3,5))) == v.end());
+  assert( std::find_if(v.begin(), v.end(), SameXandY<Player>(Player(5,5))) != v.end());
+}

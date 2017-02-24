@@ -1,0 +1,53 @@
+
+#include <vector>
+#include <cassert>
+#include <algorithm>
+#include <iostream>
+#include <cmath>
+
+//The 2D std::vector must be y-x-ordered
+//From http://www.richelbilderbeek.nl/CppPlotSurface.htm
+void PlotSurface(const std::vector<std::vector<double> >& v)
+{
+  assert(v.empty() == false && "Surface must have a size");
+  assert(v[0].size() > 0 && "Surface must have a two-dimensional size");
+
+  //Obtain the ASCII art gradient and its size
+  static const std::vector<char> asciiArtGradient = GetAsciiArtGradient();
+  static const int nAsciiArtGradientChars = asciiArtGradient.size();
+
+  //Minimum and maximum are not given, so these need to be calculated
+  const double minVal = MinElement(v);
+  const double maxVal = MaxElement(v);
+  assert(minVal != maxVal);
+
+  //Draw the pixels
+
+  //Iterator through all rows
+  const std::vector<std::vector<double> >::const_iterator rowEnd = v.end();
+  for (std::vector<std::vector<double> >::const_iterator row = v.begin();
+    row != rowEnd;
+    ++row)
+  {
+    //Iterate through each row's collumns
+    const std::vector<double>::const_iterator colEnd = row->end();
+    for (std::vector<double>::const_iterator col = row->begin();
+      col != colEnd;
+      ++col)
+    {
+      //Scale the found grey value to an ASCII art character
+      assert(maxVal - minVal != 0.0);
+      const double greyValueDouble = ( (*col) - minVal) / (maxVal - minVal);
+      assert(greyValueDouble >= 0.0 && greyValueDouble <= 1.0);
+      const int greyValueInt = greyValueDouble * nAsciiArtGradientChars;
+      const int greyValue
+        = ( greyValueInt < 0
+        ? 0 : (greyValueInt > nAsciiArtGradientChars - 1
+          ? nAsciiArtGradientChars - 1: greyValueInt) );
+      assert(greyValue >= 0 && greyValue < nAsciiArtGradientChars);
+      std::cout << asciiArtGradient[greyValue];
+    }
+    std::cout << std::endl;
+  }
+}
+

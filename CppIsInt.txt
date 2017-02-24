@@ -1,0 +1,25 @@
+#include <sstream>
+
+//From http://www.richelbilderbeek.nl/CppIsInt.htm
+const bool IsInt(const std::string& s)
+{
+  std::istringstream i(s);
+  int temp;
+  return ( (i >> temp) ? true : false );
+}
+
+
+
+#include <sstream>
+
+//From http://www.richelbilderbeek.nl/CppIsInt.htm
+const bool IsInt(const std::string& s, int& rInt)
+{
+  std::istringstream i(s);
+  if (i >> rInt)
+  {
+    return true;
+  }
+  rInt = 0.0; 
+  return false; 
+}

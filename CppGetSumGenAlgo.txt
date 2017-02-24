@@ -1,0 +1,10 @@
+#include <algorithm>
+#include <numeric>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppGetSum.htm
+template <class T>
+const T::value_type GetSum(const T& v)
+{
+  return std::accumulate(v.begin(), v.end(), static_cast<T::value_type>(0.0));
+}

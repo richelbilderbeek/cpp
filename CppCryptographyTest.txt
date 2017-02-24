@@ -1,0 +1,161 @@
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl
+//---------------------------------------------------------------------------
+/*
+  Cryptography Test, tests the encryption and de-encryption algorithms
+  Copyright (C) 2007  Richel Bilderbeek
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <vector>
+#include <cassert>
+#include <string>
+#include <algorithm>
+#pragma hdrstop
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl
+std::string Encrypt(std::string s, const int key)
+{
+  std::srand(key);
+  std::random_shuffle(s.begin(), s.end());
+  return s;
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl
+std::string Deencrypt(const std::string& original, const int key)
+{
+  const int size = original.size();
+
+  std::vector<int> v(size); //v contains the indices
+  for (int i=0; i!=size; ++i)
+  {
+    v[i] = i;
+  }
+  std::srand(key);
+  std::random_shuffle(v.begin(), v.end());
+
+  std::string s;
+  s.resize(size);
+
+  for (int i=0; i!=size; ++i)
+  {
+    s[ v[i] ] = original[ i ];
+  }
+  return s;
+}
+//---------------------------------------------------------------------------
+std::string GetRandomLetter()
+{
+  switch (std::rand() % 64)
+  {
+    case  0: return "\n";
+    case  1: return "\t";
+    case  2: return "\e";
+    case  3: return "[";
+    case  4: return "]";
+    case  5: return "!";
+    case  6: return "@";
+    case  7: return "#";
+    case  8: return "$";
+    case  9: return "%";
+    case 10: return " ";
+    case 11: return "^";
+    case 12: return "&";
+    case 13: return "*";
+    case 14: return "(";
+    case 15: return ")";
+    case 16: return "_";
+    case 17: return "-";
+    case 18: return "+";
+    case 19: return "=";
+    case 20: return "[";
+    case 21: return "]";
+    case 22: return ";";
+    case 23: return "'";
+    case 24: return ",";
+    case 25: return ".";
+    case 26: return "/";
+    case 27: return "{";
+    case 28: return "}";
+    case 29: return ":";
+    case 30: return "\"";
+    case 31: return "<";
+    case 32: return ">";
+    case 33: return "?";
+    case 34: return "|";
+    case 35: return "\\";
+    case 36: return "`";
+    case 37: return "~";
+    case 38: return "a";
+    case 39: return "b";
+    case 40: return "c";
+    case 41: return "d";
+    case 42: return "e";
+    case 43: return "f";
+    case 44: return "g";
+    case 45: return "h";
+    case 46: return "i";
+    case 47: return "j";
+    case 48: return "k";
+    case 49: return "l";
+    case 50: return "m";
+    case 51: return "n";
+    case 52: return "o";
+    case 53: return "p";
+    case 54: return "q";
+    case 55: return "r";
+    case 56: return "s";
+    case 57: return "t";
+    case 58: return "u";
+    case 59: return "v";
+    case 60: return "w";
+    case 61: return "x";
+    case 62: return "y";
+    case 63: return "z";
+  }
+  return " ";
+}
+//---------------------------------------------------------------------------
+std::string GetRandomString()
+{
+  const int size = std::rand() % 10000;
+  std::string s;
+  for (int i=0; i!=size; ++i)
+  {
+    s+=GetRandomLetter();
+  }
+  return s;
+}
+//---------------------------------------------------------------------------
+#pragma argsused
+
+int main(int argc, char* argv[])
+{
+  for (int i=0; i!=10000; ++i)
+  {
+    const std::string s = GetRandomString();
+    if (i%100==0)
+    {
+      std::cout << i << ": " << s << std::endl;
+    }
+    const int key = std::rand();
+    const std::string encrypted = Encrypt(s,key);
+    const std::string deencrypted = Deencrypt(encrypted,key);
+    assert(s==deencrypted);
+  }
+  std::cout << "All ten thousand tests were successful." << std::endl;
+}
+//---------------------------------------------------------------------------

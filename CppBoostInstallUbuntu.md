@@ -1,0 +1,44 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [Installing Boost under Ubuntu](CppBoostInstallUbuntu.htm)
+===========================================================================
+
+ 
+
+![Boost](PicBoost.png)![Ubuntu](PicUbuntu.png)
+
+ 
+
+[Installing Boost](CppBoostInstall.htm) under Ubuntu is easy: it can be
+installed from the Ubuntu Software Center.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

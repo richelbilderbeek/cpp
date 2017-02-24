@@ -1,0 +1,167 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [QSqlTableModelExample1](CppQSqlTableModelExample1.htm)
+========================================================================
+
+ 
+
+![Qt](PicQt.png)![Qt
+Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
+
+ 
+
+[QSqlTableModel example 1](CppQSqlTableModelExample1.htm) is a
+[QSqlTableModel](CppQSqlTableModel.htm) [example](CppExample.htm).
+
+ 
+
+-   [View a screenshot of
+    'CppQSqlTableModelExample1' (png)](CppQSqlTableModelExample1.png)
+-   [Download the Qt Creator project
+    'CppQSqlTableModelExample1' (zip)](CppQSqlTableModelExample1.zip)
+
+Technical facts
+---------------
+
+ 
+
+[Application type(s)](CppApplication.htm)
+
+-   ![Desktop](PicDesktop.png) [Desktop
+    application](CppDesktopApplication.htm)
+
+[Operating system(s) or programming environment(s)](CppOs.htm)
+
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+
+[IDE(s)](CppIde.htm):
+
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+
+[Project type](CppQtProjectType.htm):
+
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+
+[C++ standard](CppStandard.htm):
+
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+
+[Compiler(s)](CppCompiler.htm):
+
+-   [G++](CppGpp.htm) 4.9.2
+
+[Libraries](CppLibrary.htm) used:
+
+-   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+    4.9.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt project file](CppQtProjectFile.htm): ./CppQSqlTableModelExample1/CppQSqlTableModelExample1.pro
+--------------------------------------------------------------------------------------------------
+
+ 
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` exists (../../DesktopApplication.pri) {   include(../../DesktopApplication.pri) } !exists (../../DesktopApplication.pri) {   QT += core   QT += gui   greaterThan(QT_MAJOR_VERSION, 4): QT += widgets   CONFIG   += console   CONFIG   -= app_bundle   TEMPLATE = app   CONFIG(release, debug|release) {     DEFINES += NDEBUG NTRACE_BILDERBIKKEL   }   QMAKE_CXXFLAGS += -std=c++11 -Wall -Wextra -Weffc++   unix {     QMAKE_CXXFLAGS += -Werror   } }  exists(../../Libraries/Boost.pri) {   include(../../Libraries/Boost.pri) } !exists(../../Libraries/Boost.pri) {   win32 {     INCLUDEPATH += \       ../../Libraries/boost_1_55_0   } }  SOURCES += main.cpp\         qtdialog.cpp HEADERS  += qtdialog.h FORMS    += qtdialog.ui`
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppQSqlTableModelExample1/main.cpp
+------------------------------------
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #pragma GCC diagnostic ignored "-Wunused-but-set-parameter" #include <QApplication> #include "qtdialog.h" #pragma GCC diagnostic pop  int main(int argc, char *argv[]) {   QApplication a(argc, argv);   QtDialog w;   w.show();   return a.exec(); }`
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppQSqlTableModelExample1/qtdialog.h
+--------------------------------------
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #ifndef QTDIALOG_H #define QTDIALOG_H  #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #pragma GCC diagnostic ignored "-Wunused-but-set-parameter" #include <QDialog> #include <QtSql> #pragma GCC diagnostic pop  namespace Ui {   class QtDialog; }  class QtDialog : public QDialog {   Q_OBJECT    public:   explicit QtDialog(QWidget *parent = 0);   ~QtDialog();    private:   Ui::QtDialog *ui;   QSqlDatabase m_database;    static const QSqlDatabase CreateDatabase(); };  #endif // QTDIALOG_H`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppQSqlTableModelExample1/qtdialog.cpp
+----------------------------------------
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #pragma GCC diagnostic ignored "-Wunused-but-set-parameter" #include "qtdialog.h"  #include <cassert>  #include <QtSql> #include <QSqlDatabase> #include "ui_qtdialog.h" #pragma GCC diagnostic pop  QtDialog::QtDialog(QWidget *parent) :   QDialog(parent),   ui(new Ui::QtDialog),   m_database(CreateDatabase()) {   ui->setupUi(this);    QSqlTableModel * const model = new QSqlTableModel(this, m_database);   model->setTable("PEOPLE");    const bool can_load_data = model->select();   assert(can_load_data);    ui->tableView->setModel(model); }  QtDialog::~QtDialog() {   delete ui; }  const QSqlDatabase QtDialog::CreateDatabase() {   //Create a database   QSqlDatabase db = QSqlDatabase::addDatabase("QSQLITE"); //Choose from QSQLITE QODBC3 QODBC   db.setDatabaseName("MY_DATABASE");   const bool ok = db.open();   assert(ok);    //Delete the table 'PEOPLE' from a possible previous session   QSqlQuery("DROP TABLE PEOPLE");   assert(db.tables().empty() && "There must be zero tables at startup");    //Creata a 'PEOPLE' table   QSqlQuery("CREATE TABLE PEOPLE (ID INT PRIMARY KEY NOT NULL, NAME TEXT NOT NULL)");   assert(db.tables().size() == 1 && "Table PEOPLE must have been created");    //Check that table is empty   {     QSqlQuery query("SELECT * FROM PEOPLE");     //Using QSqlQuery::size is not supported by all drivers, so count the number of rows manually     int size = 0;     while (query.next()) { ++size; }     assert(size == 0 && "Table PEOPLE must be empty directly after its creation");   }    //Insert people   QSqlQuery("INSERT INTO PEOPLE VALUES (1,\"Mr. A\")");   QSqlQuery("INSERT INTO PEOPLE VALUES (2,\"Ms. B\")");   QSqlQuery("INSERT INTO PEOPLE VALUES (3,\"Mr. C\")");    //Check that table is not empty anymore   {     QSqlQuery query("SELECT * FROM PEOPLE");     //Using QSqlQuery::size is not supported by all drivers, so count the number of rows manually     int size = 0;     while (query.next()) { ++size; }     assert(size == 3 && "Table PEOPLE must contain three persons");   }    return db; }`
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

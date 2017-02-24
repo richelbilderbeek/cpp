@@ -1,0 +1,24 @@
+#include <algorithm>
+#include <numeric>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppGetSum.htm
+template <class T>
+const T::value_type GetSum(const T& v)
+{
+  return std::accumulate(v.begin(), v.end(), static_cast<T::value_type>(0.0));
+}
+
+//From http://www.richelbilderbeek.nl/CppGetSumMatrix.htm
+template <class T>
+const T GetSum(const std::vector<std::vector<T> >& v)
+{
+  T sum = static_cast<T>(0.0);
+  typedef std::vector<std::vector<T> >::const_iterator Iterator;
+  const Iterator j = v.end();
+  for (Iterator i = v.begin(); i!=j; ++i)
+  {
+    sum+=GetSum(*i);
+  }
+  return sum;
+}

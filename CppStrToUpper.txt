@@ -1,0 +1,10 @@
+#include <algorithm>
+#include <cctype>
+#include <string>
+
+//From http://www.richelbilderbeek.nl/CppStrToUpper.htm
+const std::string StrToUpper(std::string s)
+{
+  std::transform(s.begin(), s.end(), s.begin(),std::ptr_fun(std::toupper));
+  return s;
+}

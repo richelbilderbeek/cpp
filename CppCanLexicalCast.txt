@@ -1,0 +1,25 @@
+
+#include <cassert>
+#include <string>
+#include <boost/lexical_cast.hpp>
+
+//From http://www.richelbilderbeek.nl/CppCanLexicalCast.htm
+template <class TargetType>
+const bool CanLexicalCast(const std::string& from)
+{
+  try
+  {
+    boost::lexical_cast<TargetType>(from);
+  }
+  catch (boost::bad_lexical_cast)
+  {
+    return false;
+  }
+  catch (...)
+  {
+    assert(!"Something unexpected happened");
+    throw;
+  }
+  return true;
+}
+

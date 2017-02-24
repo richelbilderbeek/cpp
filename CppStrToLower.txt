@@ -1,0 +1,21 @@
+#include <algorithm>
+#include <cctype>
+#include <string>
+
+///StrToLower converts a std::string to lowercase
+//From http://www.richelbilderbeek.nl/CppStrToLower.htm
+const std::string StrToLower(std::string s)
+{
+  std::transform(s.begin(), s.end(), s.begin(),std::ptr_fun<int,int>(std::tolower));
+  return s;
+}
+
+///StrToLower converts a std::string to lowercase
+//From http://www.richelbilderbeek.nl/CppStrToLower.htm
+const std::string StrToLower(std::string s)
+{
+  std::transform(s.begin(), s.end(), s.begin(),std::ptr_fun(std::tolower));
+  return s;
+}
+
+

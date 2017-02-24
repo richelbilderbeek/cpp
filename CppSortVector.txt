@@ -1,0 +1,9 @@
+#include <vector>
+#include <algorithm>
+
+//From http://www.richelbilderbeek.nl/CppSortVector.htm
+template <class T>
+void SortVector(std::vector<T>& v)
+{
+  std::sort(v.begin(), v.end());
+}

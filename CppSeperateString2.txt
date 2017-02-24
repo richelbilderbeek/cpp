@@ -1,0 +1,28 @@
+#include <vector>
+#include <string>
+#include <assert>
+#include <algorithm>
+
+//From http://www.richelbilderbeek.nl/CppSeperateString.htm
+const std::vector<std::string> SeperateString(std::string input, const char& seperator)
+{
+  assert(input.empty()==false);
+  assert(input[0]!=seperator);
+  assert(input[input.size()-1]!=seperator);
+
+  std::vector<std::string> result;
+  int pos = 0;
+  while(pos<static_cast<int>(input.size()))
+  {
+    if (input[pos]==seperator)
+    {
+      const std::string found = input.substr(0,pos);
+      result.push_back(found);
+      input = input.substr(pos+1,input.size()-pos);
+      pos = 0;
+    }
+    ++pos;
+  }
+  result.push_back(input);
+  return result;
+}

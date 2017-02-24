@@ -1,0 +1,122 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [StdTupleExample1](CppStdTupleExample1.htm)
+============================================================
+
+ 
+
+![C++11](PicCpp11.png)![STL](PicStl.png)![Qt
+Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
+
+ 
+
+[std::tuple example 1](CppStdTupleExample1.htm) is a
+[std::tuple](CppStdTupleExample1.htm) [example](CppExample.htm).
+
+ 
+
+-   [Download the Qt Creator project
+    'CppStdTupleExample1' (zip)](CppStdTupleExample1.zip)
+
+Technical facts
+---------------
+
+ 
+
+[Operating system(s) or programming environment(s)](CppOs.htm)
+
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+
+[IDE(s)](CppIde.htm):
+
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+
+[Project type](CppQtProjectType.htm):
+
+-   ![console](PicConsole.png) [Console
+    application](CppConsoleApplication.htm)
+
+[C++ standard](CppStandard.htm):
+
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+
+[Compiler(s)](CppCompiler.htm):
+
+-   [G++](CppGpp.htm) 4.9.2
+
+[Libraries](CppLibrary.htm) used:
+
+-   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+    4.9.2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Qt project file](CppQtProjectFile.htm): ./CppStdTupleExample1/CppStdTupleExample1.pro
+--------------------------------------------------------------------------------------
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` include(../../ConsoleApplication.pri) #Or use the code below # QT += core # QT += gui # CONFIG   += console # CONFIG   -= app_bundle # TEMPLATE = app # CONFIG(release, debug|release) { #   DEFINES += NDEBUG NTRACE_BILDERBIKKEL # } # QMAKE_CXXFLAGS += -std=c++1y -Wall -Wextra -Weffc++ # unix { #   QMAKE_CXXFLAGS += -Werror # }  SOURCES += main.cpp`
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+./CppStdTupleExample1/main.cpp
+------------------------------
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <string> #include <tuple> #include <typeinfo>  int main() {   typedef std::tuple<int,double,std::string> Tuple;    static_assert(std::tuple_size<Tuple>::value == 3,"Tuple has size 3");   static_assert(std::is_same<std::tuple_element<0,Tuple>::type,int>(),"First element is int");   static_assert(std::is_same<std::tuple_element<1,Tuple>::type,double>(),"Second element is double");   static_assert(std::is_same<std::tuple_element<2,Tuple>::type,std::string>(),"Third element is std::string");    Tuple t = std::make_tuple(123,3.14159,"Bilderbikkel");     const int x1 = std::get<0>(t);   const double x2 = std::get<1>(t);   const std::string x3 = std::get<2>(t);    std::get<0>(t) = x1 + 1;   std::get<1>(t) = x2 + 1.0;   std::get<2>(t) = x3 + " was here";    assert(std::get<0>(t) == 124);   assert(std::get<1>(t) == 4.14159);   assert(std::get<2>(t) == "Bilderbikkel was here");  }`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

@@ -1,0 +1,7 @@
+#include <limits>
+
+//From http://www.richelbilderbeek.nl/CppGetMaxInt.htm
+const int GetMaxInt()
+{
+  return std::numeric_limits<int>::max();
+}

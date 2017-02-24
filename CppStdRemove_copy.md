@@ -1,0 +1,47 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [std::remove\_copy](CppRemove_copy.htm)
+========================================================
+
+ 
+
+[std::remove\_copy](CppRemove_copy.htm) is an
+[algorithm](CppAlgorithm.htm) to copy a [container](CppContainer.htm),
+thereby removing an element value.
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <algorithm> #include <cassert> #include <vector>  int main() {   std::vector<int> v;   v.push_back(0);   v.push_back(1);   v.push_back(2);    std::vector<int> w;    //copy v to w, removing values of 1   std::remove_copy(v.begin(),v.end(),std::back_inserter(w),1);    assert(v.size() == 3);   assert(v[0] == 0);   assert(v[1] == 1);   assert(v[2] == 2);    assert(w.size() == 2);   assert(w[0] == 0);   assert(w[1] == 2); }`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

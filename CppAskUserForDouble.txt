@@ -1,0 +1,16 @@
+
+#include <iostream>
+#include <string>
+#include <boost/lexical_cast.hpp>
+
+//From http://www.richelbilderbeek.nl/CppAskUserForDouble.htm
+const double AskUserForDouble()
+{
+  while (1)
+  {
+    const std::string s = AskUserForString();
+    if (IsDouble(s)==false) continue;
+    return boost::lexical_cast<double>(s);
+  }
+}
+

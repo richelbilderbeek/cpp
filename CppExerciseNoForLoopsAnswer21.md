@@ -1,0 +1,84 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#21](CppExerciseNoForLoopsAnswer21.htm)
+===============================================================================================
+
+ 
+
+This is the answer of [Exercise \#9: No
+for-loops](CppExerciseNoForLoops.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Question \#21: [CopyFirst](CppCopyFirst.htm)
+--------------------------------------------
+
+ 
+
+Replace the **[for](CppFor.htm)**-loop. You will need:
+
+-   [boost::bind](CppBind.htm)
+
+ 
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <vector>  ///CopyFirst copies the first std::pair elements from a std::vector of std::pairs //From http://www.richelbilderbeek.nl/CppCopyFirst.htm template <class T, class U> const std::vector<T> CopyFirst(const std::vector<std::pair<T,U> >& v) {   std::vector<T> w;   const int size = static_cast<int>(v.size());   for (int i=0; i!=size; ++i)   {     w.push_back(v[i].first);   }   return w; }`
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Answer
+------
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <algorithm> #include <vector> #include <boost/lambda/bind.hpp> #include <boost/lambda/lambda.hpp>  ///CopyFirst copies the first std::pair elements from a std::vector of std::pairs //From http://www.richelbilderbeek.nl/CppCopyFirst.htm template <class T, class U> const std::vector<T> CopyFirst(const std::vector<std::pair<T,U> >& v) {   std::vector<T> w;   std::transform(     v.begin(),     v.end(),     std::back_inserter(w),     boost::lambda::bind(&std::pair<T,U>::first, boost::lambda::_1)     );   return w; }`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

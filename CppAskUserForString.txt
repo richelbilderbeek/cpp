@@ -1,0 +1,10 @@
+#include <iostream>
+#include <string>
+
+//From http://www.richelbilderbeek.nl/CppAskUserForString.htm
+const std::string AskUserForString()
+{
+  std::string s;
+  std::getline(std::cin,s);
+  return s;
+}

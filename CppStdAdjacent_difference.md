@@ -1,0 +1,48 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [std::adjacent\_difference](CppAdjacent_difference.htm)
+========================================================================
+
+ 
+
+[std::adjacent\_difference](CppAdjacent_difference.htm) is an
+[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to perform operations on
+two adjacent [container](CppContainer.htm) elements (which, by default
+is [std::minus](CppMinus.htm)).
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <functional> #include <numeric> #include <vector>  int main() {   std::vector<int> v;   v.push_back(1);   v.push_back(4);   v.push_back(9);    std::vector<int> w;    std::adjacent_difference(v.begin(),v.end(),     std::back_inserter(w));    assert(w[0] == 1); //v[0]   assert(w[1] == 3); //v[1]-v[0]   assert(w[2] == 5); //v[2]-v[1]    std::vector<int> x;    std::adjacent_difference(v.begin(),v.end(),     std::back_inserter(x),std::multiplies<int>());    assert(x[0] ==  1); //v[0]   assert(x[1] ==  4); //v[1]*v[0]   assert(x[2] == 36); //v[2]*v[1] }`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

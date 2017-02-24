@@ -1,0 +1,6 @@
+//From http://www.richelbilderbeek.nl/CppGetFontHeight.htm
+const int GetFontHeight(const TImage * const image)
+{
+  // const_cast necessary as the VCL is not const-correct. Grumble, grumble...
+  return const_cast<TImage*>(image)->Canvas->TextHeight("x");
+}

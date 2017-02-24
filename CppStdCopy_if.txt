@@ -1,0 +1,12 @@
+//copy_if was dropped from the standard library by accident.
+template<typename In, typename Out, typename Pred>
+Out copy_if(In first, In last, Out res, Pred Pr)
+{
+  while (first != last) 
+  {
+    if (Pr(*first))
+      *res++ = *first;
+    ++first;
+  }
+  return res;
+}

@@ -1,0 +1,10 @@
+#include <algorithm>
+#include <numeric>
+
+//From http://www.richelbilderbeek.nl/CppTriple.htm
+template <class Container>
+void Triple(Container& c)
+{
+  std::transform(c.begin(),c.end(),c.begin(),
+    std::bind2nd(std::multiplies<Container::value_type>(),3));
+}

@@ -1,0 +1,87 @@
+#include <iostream>
+#include <vector>
+#include <boost/timer.hpp>
+
+//From http://www.richelbilderbeek.nl
+int main()
+{
+  const int size = 1000;
+  const int nRepeat = 10000;
+
+  std::vector<double> vd1(size);
+  std::vector<double> vd2(size);
+  std::vector<double> vd3(size);
+  std::vector<float> vf1(size);
+  std::vector<float> vf2(size);
+  std::vector<float> vf3(size);
+
+  for (int i=0; i!=size; ++i)
+  {
+    vd1[i] = static_cast<double>(std::rand())
+      / static_cast<double>(3 + (std::rand() % 100));
+    vd2[i] = static_cast<double>(std::rand())
+      / static_cast<double>(3 + (std::rand() % 100));
+  }
+
+  //Copy the double vectors
+  for (int i=0; i!=size; ++i)
+  {
+    vf1[i] = static_cast<float>(vd1[i]);
+    vf2[i] = static_cast<float>(vd2[i]);
+  }
+
+  int nFloatFaster = 0;
+  int nDoubleFaster = 0;
+  double sumTfloat = 0.0;
+  double sumTdouble = 0.0;
+
+  while (1)
+  {
+    //Test std::vector<float>
+    double tFloat = 0.0;
+    {
+      boost::timer t;
+      for (int i=0; i!=nRepeat; ++i)
+      {
+        for (int x=0; x!=size; ++x)
+        {
+          vf3[x] = vf2[x] * vf1[x];
+        }
+      }
+      tFloat = t.elapsed();
+      sumTfloat+=tFloat;
+    }
+
+    //Test std::vector<double>
+    double tDouble = 0.0;
+    {
+      boost::timer t;
+      for (int i=0; i!=nRepeat; ++i)
+      {
+        for (int x=0; x!=size; ++x)
+        {
+          vd3[x] = vd2[x] * vd1[x];
+        }
+      }
+      tDouble = t.elapsed();
+      sumTdouble+=tDouble;
+    }
+
+    if (tDouble < tFloat)
+    {
+      ++nDoubleFaster;
+    }
+    else
+    {
+      ++nFloatFaster;
+    }
+
+    std::cout
+      << "Float  has been faster " << nFloatFaster << " times. "
+      << "Sum time: " << sumTfloat
+      << std::endl
+      << "Double has been faster " << nDoubleFaster << " times. "
+      << "Sum time: " << sumTdouble
+      << std::endl;
+  }
+}

@@ -1,0 +1,41 @@
+//From http://www.richelbilderbeek.nl/CppTransform_if.htm
+template <
+  class InputIter,
+  class OutputIter,
+  class Predicate,
+  class UnaryOperation
+  >
+const OutputIter Transform_if(
+  InputIter first,
+  const InputIter last,
+  OutputIter result,
+  const Predicate pred,
+  const UnaryOperation opr)
+{
+  for ( ; first != last; ++first, ++result)
+    *result = pred(*first) ? opr(*first) : *first;
+  return result;
+}
+
+
+
+//From http://www.richelbilderbeek.nl/CppTransform_if.htm
+template <
+  class InputIter1, 
+  class InputIter2, 
+  class OutputIter,
+  class Predicate,
+  class BinaryOperation>
+const OutputIter Transform_if(
+  InputIter1 first1,
+  const InputIter1 last1,
+  InputIter2 first2,
+  OutputIter result,
+  const Predicate pred,
+  const BinaryOperation binary_op)
+{
+  for ( ; first1 != last1; ++first1, ++first2, ++result)
+    *result = pred(*first1) ? binary_op(*first1, *first2) : *first1;
+  return result;
+}
+

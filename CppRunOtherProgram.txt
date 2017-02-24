@@ -1,0 +1,27 @@
+#include <cstdlib>
+#include <vector>
+#include <fstream>
+#include <string>
+#include <cassert>
+#include <iostream>
+
+
+int main()
+{
+  //From http://www.richelbilderbeek.nl/CppRunOtherProgram.htm
+  //Silenty executes 'dir' and writes the output to the file "temp.txt"
+  std::system("dir > temp.txt");
+
+  //Read "temp.txt" in a std::vector<std::string>
+  const std::vector<std::string> file(FileToVector("temp.txt"));
+
+  //Display the file
+  typedef std::vector<std::string>::const_iterator Iterator;
+  for (Iterator i = file.begin(); i!=file.end(); ++i)
+  {
+    std::cout << *i << std::endl;
+  }
+
+  //Wait for key press
+  std::cin.get();
+}

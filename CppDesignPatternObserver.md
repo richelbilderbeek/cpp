@@ -1,0 +1,140 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [Observer](CppDesignPatternObserver.htm) ([Design Pattern](CppDesignPattern.htm))
+==================================================================================================
+
+ 
+
+The [Observer](CppDesignPatternObserver.htm) [Design
+Pattern](CppDesignPattern.htm) allows to 'define a one-to-many
+dependency between objects so that when one object changes state, all
+its dependents are notified and updated automatically' \[1\].
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+![Boost](PicBoost.png) [Observer](CppDesignPatternObserver.htm) example using [Boost.Signals2](CppSignals2.htm)
+---------------------------------------------------------------------------------------------------------------
+
+ 
+
+-   [Download the Qt Creator project
+    'CppDesignPatternObserverBoost' (zip)](CppDesignPatternObserverBoost.zip)
+
+ 
+
+Note that this version is shorter than the one below using the
+hand-crafted slot management.
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <iostream> #include <string> #include <boost/bind.hpp> #include <boost/signals2.hpp>  struct Subject {   void Set(const std::string& s)   {     m_string = s;     m_signal_notify(m_string);   }   boost::signals2::signal<void (const std::string& s)> m_signal_notify;   private:   std::string m_string; };  struct CoutObserver {   void OnNotice(const std::string& s) const   {     std::cout << s << '\n';   } };  struct LengthObserver {   void OnNotice(const std::string& s) const   {     std::cout<< "Length of s: "       << s.size() << '\n';   } };  int main() {   Subject s;    CoutObserver observer1;   LengthObserver observer2;    s.m_signal_notify.connect(     boost::bind(       &CoutObserver::OnNotice,       &observer1,       _1));    s.Set("I will be echoed");    s.m_signal_notify.connect(     boost::bind(       &LengthObserver::OnNotice,       observer2,       _1));    s.Set("I will be echoed and my length will be shown");    s.m_signal_notify.disconnect(     boost::bind(       &CoutObserver::OnNotice,       &observer1,       _1));    s.Set("Only my length will be shown"); }`
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Screen output:
+
+ 
+
+  --------------------------------------------------------------------------------------------------
+  ` I will be echoed I will be echoed and my length will be shown Length of s: 44 Length of s: 28`
+  --------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+![STL](PicStl.png) [Observer](CppDesignPatternObserver.htm) example using the [STL](CppStl.htm) only
+----------------------------------------------------------------------------------------------------
+
+ 
+
+-   [Download the Qt Creator project
+    'CppDesignPatternObserverStl' (zip)](CppDesignPatternObserverStl.zip)
+
+ 
+
+The name of this example is misleading: this version uses hand-crafted
+slot management, instead of using [Boost.Signals2](CppSignals2.htm).
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <iostream> #include <list> #include <string>   #include <boost/checked_delete.hpp> #include <boost/foreach.hpp> #include <boost/shared_ptr.hpp>  struct Subject; struct Couter;  struct Observer {   virtual void onNotice(const Subject& ) = 0;    protected:   //All abstract base classes must have a virtual destructor   //Protected, because only derived classes may delete Observer   //(preventing that Subject can do so)   virtual ~Observer() {} };  struct Subject {   void add(Observer * const observer)   {     assert(observer);     m_observers.push_back(observer);   }    void remove(Observer * const observer)   {     assert(observer);     m_observers.remove(observer);   }    const std::string& get() const   {     return m_string;   }    void set(const std::string& s)   {     m_string = s;     notify();   }    private:    std::string m_string;    std::list<Observer*> m_observers;    void notify()   {     BOOST_FOREACH(Observer* const i,m_observers)     {       i->onNotice(*this);     }   }  };  struct Couter: public Observer {   virtual void onNotice(const Subject& s)   {     std::cout<< s.get() << '\n';   } };  class LengthCouter: public Observer {   virtual void onNotice(const Subject& s)   {     std::cout<< "Length of s: "       << s.get().length() << '\n';   } };  int main() {   Subject s;    boost::shared_ptr<Observer> observer1(new Couter);   boost::shared_ptr<Observer> observer2(new LengthCouter);    s.add( observer1.get() );   s.set("I will be echoed");    s.add( observer2.get() );   s.set("I will be echoed and my length will be shown");    s.remove( observer1.get() );   s.set("Only my length will be shown"); }`
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Screen output:
+
+ 
+
+  --------------------------------------------------------------------------------------------------
+  ` I will be echoed I will be echoed and my length will be shown Length of s: 44 Length of s: 28`
+  --------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[References](CppReferences.htm)
+-------------------------------
+
+ 
+
+1.  [Erich Gamma](CppErichGamma.htm), [Richard
+    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
+    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+    ISBN: 0201633612.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

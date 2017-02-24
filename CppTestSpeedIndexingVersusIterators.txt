@@ -1,0 +1,56 @@
+#include <iostream>
+#include <vector>
+#include <boost/timer.hpp>
+
+//From http://www.richelbilderbeek.nl
+int main()
+{
+  const int size = 5000;
+  const int nRepeat = 1;
+  std::vector<std::vector<int> > v(size,std::vector<int>(size));
+
+  double tIndexing = 0.0;
+  //Add nRepeat times 1 to each element using indexing
+  {
+    boost::timer t;
+    for (int i=0; i!=nRepeat; ++i)
+    {
+      for (int y=0; y!=size; ++y)
+      {
+        for (int x=0; x!=size; ++x)
+        {
+          ++v[y][x];
+        }
+      }
+    }
+    tIndexing = t.elapsed();
+  }
+
+  double tIterator = 0.0;
+  //Add nRepeat times 1 to each element using iterators
+  {
+    boost::timer t;
+    for (int i=0; i!=nRepeat; ++i)
+    {
+      const std::vector<std::vector<int> >::iterator rowIterEnd = v.end();
+      for (std::vector<std::vector<int> >::iterator rowIter = v.begin();
+        rowIter!=rowIterEnd;
+        ++rowIter)
+      {
+        const std::vector<int>::iterator colIterEnd = (*rowIter).end();
+        for (std::vector<int>::iterator colIter = (*rowIter).begin();
+          colIter!=colIterEnd;
+          ++colIter)
+        {
+          ++(*colIter);
+        }
+      }
+
+    }
+    tIterator = t.elapsed();
+  }
+
+  std::cout << "Time indexing: " << tIndexing
+    << "\tTime iterator: " << tIterator << std::endl;
+  std::cin.get();
+}

@@ -1,0 +1,31 @@
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <string>
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppInheritance.htm
+std::string intToBitString(int bits)
+{
+  std::string s;
+  if (bits==0) return "00000000";
+  while (bits>0)
+  {
+    s = (bits % 2 ? "1" : "0") + s;
+    bits>>=1;
+  }
+  while (s.size() % 8) { s = "0" + s; }
+  return s;
+}
+//---------------------------------------------------------------------------
+int main()
+{
+  const int mother  = 15;  //00001111
+  const int father  = 240; //11110000
+  const int inherit = 170; //10101010 ---> 0 denotes: inherits from mother, 1: inherits from father
+  //Results should be        10100101
+  const int kid = (mother & (~inherit)) | (father & inherit);
+  std::cout << intToBitString(mother)  << std::endl;
+  std::cout << intToBitString(father)  << std::endl;
+  std::cout << intToBitString(inherit) << std::endl;
+  std::cout << intToBitString(kid)     << std::endl;
+}
+//---------------------------------------------------------------------------

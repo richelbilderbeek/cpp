@@ -1,0 +1,48 @@
+//From http://www.richelbilderbeek.nl/CppBuilderCallDllDynamic.htm
+
+
+#include <windows.h>
+
+struct DllHandle
+{
+  DllHandle(const char * const filename)
+    : h(LoadLibrary(filename)) {}
+  ~DllHandle() { if (h) FreeLibrary(h); }
+  const HINSTANCE Get() const { return h; }
+
+  private:
+  HINSTANCE h;
+};
+
+int main()
+{
+  //Obtain a handle to the DLL
+  const DllHandle h("ProjectDll.DLL");
+  if (!h.Get())
+  {
+    MessageBox(0,"Could not load DLL","UnitCallDll",MB_OK);
+    return 1;
+  }
+
+  //Obtain a handle to the GetAnswerOfLife function
+  typedef const int (*GetAnswerOfLifeFunction)();
+  const GetAnswerOfLifeFunction AnswerOfLife
+    = reinterpret_cast<GetAnswerOfLifeFunction>(
+      GetProcAddress(h.Get(),"_GetAnswerOfLife")); 
+
+  if (!AnswerOfLife) //No handle obtained
+  {
+    MessageBox(0,"Loading AnswerOfLife failed","UnitCallDll",MB_OK);
+    return 1;
+  }
+
+  if (AnswerOfLife() != 42)
+  {
+    MessageBox(0,"Function AnswerOfLife failed","UnitCallDll",MB_OK);
+    return 1;
+  }
+  else
+  {
+    MessageBox(0,"Function AnswerOfLife successful!","UnitCallDll",MB_OK);
+  }
+}

@@ -1,0 +1,25 @@
+#include <cmath>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppSolveQuadratic.htm
+const std::vector<double> SolveQuadratic(const double a, const double b, const double c)
+{
+  if (a == 0.0) 
+  {
+    if (b == 0.0) 
+      return std::vector<double>(1,0.0);
+    else
+      return std::vector<double>(1,c/b);
+  }
+  const double d = (b * b) - (4.0 * a * c);
+  if (d < 0.0) 
+    return std::vector<double>();
+  if (d == 0.0) 
+    return std::vector<double>(1,-b/(2.0*a));
+  const double rD = std::sqrt(d);
+  std::vector<double> solutions;
+  solutions.reserve(2);
+  solutions.push_back((-b + rD)/(2.0 * a));
+  solutions.push_back((-b - rD)/(2.0 * a));
+  return solutions;
+}

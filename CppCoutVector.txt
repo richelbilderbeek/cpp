@@ -1,0 +1,11 @@
+#include <vector>
+#include <iterator>
+#include <iostream>
+#include <ostream>
+
+//From http://www.richelbilderbeek.nl/CppCoutVector.htm
+template <class T>
+void CoutVector(const std::vector<T>& v)
+{
+  std::copy(v.begin(),v.end(),std::ostream_iterator<T>(std::cout,"\n"));
+}

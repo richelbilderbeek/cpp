@@ -1,0 +1,5 @@
+//From http://www.richelbilderbeek.nl/CppAnsiToUpper.htm
+const AnsiString AnsiToUpper(const AnsiString& s)
+{
+  return s.UpperCase();
+}

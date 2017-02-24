@@ -1,0 +1,55 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm) [Qt Creator](CppQtCreator.htm)) [Showing an image](CppQtPixmap.htm)
+===================================================================================
+
+ 
+
+Example to do 2D graphics like [this screenshot](CppQtPixmap.png).
+
+ 
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <QApplication> #include <QLabel> #include <QPixmap>  int main(int argc, char* argv[]) {   QApplication application(argc,argv);   QLabel label;   QPixmap pixmap("CppRainbow.PNG");   label.setPixmap(pixmap);   label.show();   return application.exec(); }`
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+[Project file](CppQtProjectFile.htm):
+
+ 
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #------------------------------------------------- # # Project created by QtCreator 2010-05-06T17:18:10 # #------------------------------------------------- TARGET = ProjectQtPixmap CONFIG   += console CONFIG   -= app_bundle TEMPLATE = app SOURCES += main.cpp`
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

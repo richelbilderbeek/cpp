@@ -1,0 +1,24 @@
+#include <cassert>
+#include <algorithm>
+
+//From http://www.richelbilderbeek.nl/CppRescale.htm
+const double Rescale(
+  const double value,
+  const double oldMin,
+  const double oldMax,
+  const double newMin,
+  const double newMax)
+{
+  assert(value >= oldMin);
+  assert(value <= oldMax);
+  const double oldDistance = oldMax - oldMin;
+  //At which relative distance is value on oldMin to oldMax ?
+  const double distance = (value - oldMin) / oldDistance;
+  assert(distance >= 0.0);
+  assert(distance <= 1.0);
+  const double newDistance = newMax - newMin;
+  const double newValue = newMin + (distance * newDistance);
+  assert(newValue >= newMin);
+  assert(newValue <= newMax);
+  return newValue;
+}

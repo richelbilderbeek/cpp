@@ -1,0 +1,5 @@
+//From http://www.richelbilderbeek.nl/CppAnsiIsInt.htm
+const bool AnsiIsInt(const AnsiString& s, int& rInt)
+{
+  return TryStrToInt(s, rInt);
+}

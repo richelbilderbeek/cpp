@@ -1,0 +1,7 @@
+#include <cmath>
+
+//From www.richelbilderbeek.nl/CppGetDistance.htm
+const double GetDistance(const double dX, const double dY)
+{
+  return (std::sqrt( (dX * dX) + (dY * dY) ) );
+}

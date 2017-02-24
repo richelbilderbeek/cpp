@@ -1,0 +1,7 @@
+#include <string>
+
+//From http://www.richelbilderbeek.nl/CppStrToInt.htm
+const int StrToInt(const std::string& s)
+{
+  return std::atoi(s.c_str());
+}

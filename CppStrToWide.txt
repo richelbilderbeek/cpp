@@ -1,0 +1,7 @@
+#include <string>
+
+//From http://www.richelbilderbeek.nl/CppStrToWide.htm
+WideString StrToWide(const std::string& s)
+{
+  return s.c_str();
+}

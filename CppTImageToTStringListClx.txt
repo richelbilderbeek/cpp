@@ -1,0 +1,156 @@
+#include <memory>
+#include <algorithm>
+#include <vector>
+#include <cassert>
+#include <Classes.hpp>
+//---------------------------------------------------------------------------
+//Creates a std::vector that holds the ASCII art characters
+//ordered from dark to light 
+std::vector<char> GetChars()
+{
+  std::vector<char> chars;
+  chars.push_back('M');
+  chars.push_back('N');
+  chars.push_back('m');
+  chars.push_back('d');
+  chars.push_back('h');
+  chars.push_back('y');
+  chars.push_back('s');
+  chars.push_back('o');
+  chars.push_back('+');
+  chars.push_back('/');
+  chars.push_back(':');
+  chars.push_back('-');
+  chars.push_back('.');
+  chars.push_back('`');
+  chars.push_back(' ');
+  return chars;
+}
+//---------------------------------------------------------------------------
+//Generalizes a rectangle to one grey value
+double GetFractionGrey(
+  const TImage* const image,
+  const int x1,
+  const int y1,
+  const int x2,
+  const int y2)
+{
+  assert(image!=0);
+  assert(image->Picture->Bitmap != 0);
+  assert(image->Picture->Bitmap->PixelFormat == pf32bit);
+  assert(x1 <  image->Picture->Bitmap->Width);
+  assert(y1 <  image->Picture->Bitmap->Height);
+  assert(x2 <= image->Picture->Bitmap->Width);
+  assert(y2 <= image->Picture->Bitmap->Height);
+  double sumGrey = 0.0;
+  int nPixels = 0;
+  for (int y=y1; y!=y2; ++y)
+  {
+    assert(y < image->Picture->Bitmap->Height);
+    const unsigned char * line
+      = static_cast<const unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+    for (int x=x1; x!=x2; ++x)
+    {
+      assert(x < image->Picture->Bitmap->Width);
+      //Note that in the line below, line[x*4+3] is not used.
+      //I guess that this is the alpha-blending value?
+      const int sumPixel = line[x*4+0] + line[x*4+1] + line[x*4+2];
+      assert( sumPixel < 3 * 256 );
+      const double grey
+        = static_cast<double>(sumPixel)
+        / (3.0 * 255.0);
+      sumGrey+=grey;
+      ++nPixels;
+    }
+  }
+  if (nPixels == 0)
+  {
+    //When the value is trivial, return a random value...
+    //Will not occur when nChars >= 5
+    return std::rand()%256;
+  }
+  else
+  {
+    const double fractionGrey = sumGrey / static_cast<double>(nPixels);
+    return fractionGrey;
+  }
+}
+//---------------------------------------------------------------------------
+TStringList * ImageToAscii(
+  const TImage* const image,
+  const int charWidth) //How many chars the ASCII image will be wide
+{
+  static const std::vector<char> chars(GetChars());
+
+  //If the number of chars is below 5,
+  //the calculation would be more complicated due to a too trivial value
+  assert(charWidth >= 5);
+
+  //Check the bitmap
+  assert(image->Picture->Bitmap != 0);
+  assert(image->Picture->Bitmap->PixelFormat == pf32bit);
+
+  //Maxy is in proportion with the bitmap
+  const int maxy =
+    (static_cast<double>(charWidth)
+    / static_cast<double>(image->Picture->Bitmap->Width))
+    * static_cast<double>(image->Picture->Bitmap->Height);
+  assert(charWidth > 0);
+  assert(maxy > 0);
+  const double dX = static_cast<double>(image->Picture->Bitmap->Width)
+    / static_cast<double>(charWidth);
+  const double dY = static_cast<double>(image->Picture->Bitmap->Height)
+    / static_cast<double>(maxy);
+  assert(dX > 0.0);
+  assert(dY > 0.0);
+
+  TStringList * stringList = new TStringList;
+
+  for (int y=0; y!=maxy; ++y)
+  {
+    String myLine = "";
+    for (int x=0; x!=charWidth; ++x)
+    {
+      const int x1 = std::min(
+        static_cast<double>(x) * dX,
+        image->Picture->Bitmap->Width  - 1.0) + 0.5;
+      const int y1 = std::min(
+        static_cast<double>(y) * dY,
+        image->Picture->Bitmap->Height - 1.0) + 0.5;
+      const int x2 = std::min(
+        (static_cast<double>(x) * dX) + dX,
+        image->Picture->Bitmap->Width  - 1.0) + 0.5;
+      const int y2 = std::min(
+        (static_cast<double>(y) * dY) + dY,
+        image->Picture->Bitmap->Height - 1.0) + 0.5;
+      assert(x1 >= 0);
+      assert(x2 >= 0);
+      assert(y1 >= 0);
+      assert(y2 >= 0);
+      assert(x1 < image->Picture->Bitmap->Width);
+      assert(x2 < image->Picture->Bitmap->Width);
+      assert(y1 < image->Picture->Bitmap->Height);
+      assert(y2 < image->Picture->Bitmap->Height);
+
+      const double fGrey = std::min(std::max(0.0,
+        GetFractionGrey(image,x1,y1,x2,y2)),1.0);
+      assert(fGrey >= 0.0 && fGrey <= 1.0);
+      const double charIndex = fGrey
+        * static_cast<double>(chars.size() - 1);
+      assert(charIndex >= 0);
+      assert(charIndex < static_cast<int>(chars.size()));
+      const char thisChar = chars[charIndex];
+      myLine+=thisChar;
+    }
+    stringList->Add(myLine);
+  }
+  return stringList;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+  const std::auto_ptr<TStringList> ascii(
+    ImageToAscii(Image1,Image1->Picture->Bitmap->Width));
+  Memo1->Lines = ascii.get();
+}
+//---------------------------------------------------------------------------

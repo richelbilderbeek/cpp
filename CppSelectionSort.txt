@@ -1,0 +1,19 @@
+#include <algorithm>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppSelectionSort.htm
+template <typename T>
+void SelectionSort(std::vector<T>& v)
+{
+  const int size = v.size();
+  for(int i=0; i!=size-1; ++i)
+  {
+    for(int j=i+1; j!=size; ++j)
+    {
+      if (v[i]> v[j])
+      {
+        std::swap(v[i],v[j]);
+      }
+    }
+  }
+}

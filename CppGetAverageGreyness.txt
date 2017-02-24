@@ -1,0 +1,39 @@
+#include <cassert>
+#include <vcl.h>
+
+//From http://www.richelbilderbeek.nl/CppGetAverageGreyness.htm
+const double GetAverageGreyness(const TImage * const image)
+{
+  assert(image!=0 && "image must not be NULL");
+  assert(image->Picture->Bitmap!=0 && "image bitmap must not be NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "image bitmap must be 24 bit");
+
+  //Get the width and height from the source
+  const int width  = image->Picture->Bitmap->Width;
+  const int height = image->Picture->Bitmap->Height;
+  double sum = 0.0;
+
+  for (int y=0; y!=height; ++y)
+  {
+    assert(y >= 0);
+    assert(y < image->Picture->Bitmap->Height);
+    const unsigned char * line
+      = static_cast<const unsigned char *>(
+        image->Picture->Bitmap->ScanLine[y]);
+    for (int x=0; x!=width; ++x)
+    {
+      assert(x >= 0);
+      assert(x < image->Picture->Bitmap->Width);
+      const double grey
+        = static_cast<double>(line[x*3+0] + line[x*3+1] + line[x*3+2])
+        / 3.0;
+      sum += grey;
+    }
+  }
+  const int surface = width * height;
+  assert(surface>0);
+  const double average = sum / static_cast<double>(surface);
+  assert(average >=    0.0);
+  assert(average  <  256.0);
+  return average;
+}

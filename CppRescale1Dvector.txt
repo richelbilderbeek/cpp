@@ -1,0 +1,21 @@
+#include <cassert>
+#include <algorithm>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppRescale.htm
+const std::vector<double> Rescale(
+  std::vector<double> v,
+  const double newMin,
+  const double newMax)
+{
+  const double oldMin = *std::min_element(v.begin(),v.end());
+  const double oldMax = *std::max_element(v.begin(),v.end());
+  typedef std::vector<double>::iterator Iter;
+  Iter i = v.begin();
+  const Iter j = v.end();
+  for ( ; i!=j; ++i)
+  {
+    *i = Rescale(*i,oldMin,oldMax,newMin,newMax);
+  }
+  return v;
+}

@@ -1,0 +1,59 @@
+//From http://www.richelbilderbeek.nl
+void RemoveColor(TImage * const image, const TColor color)
+{
+  assert(image!=0);
+  assert(image->Picture->Bitmap != 0);
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit);
+
+  const int maxx = image->Picture->Bitmap->Width;
+  const int maxy = image->Picture->Bitmap->Height;
+  const unsigned char red   = GetRValue(color);
+  const unsigned char green = GetGValue(color);
+  const unsigned char blue  = GetBValue(color);
+  for (int y = 0; y != maxy; ++y)
+  {
+    unsigned char * const myLine
+      = static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y]);
+    for (int x = 0; x != maxx; ++x)
+    {
+      if ( myLine[x*3+2] == red    //Red
+        && myLine[x*3+1] == green  //Green
+        && myLine[x*3+0] == blue ) //Blue
+      {
+        myLine[x*3+2] = 0 ; //Red
+        myLine[x*3+1] = 0 ; //Green
+        myLine[x*3+0] = 0 ; //Blue
+      }
+    }
+  }
+}
+
+//From http://www.richelbilderbeek.nl
+void RemoveColor(TImage * const image,
+  const unsigned char red,
+  const unsigned char green,
+  const unsigned char blue  )
+{
+  assert(image!=0);
+  assert(image->Picture->Bitmap != 0);
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit);
+
+  const int maxx = image->Picture->Bitmap->Width;
+  const int maxy = image->Picture->Bitmap->Height;
+  for (int y = 0; y != maxy; ++y)
+  {
+    unsigned char * const myLine
+      = static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y]);
+    for (int x = 0; x != maxx; ++x)
+    {
+      if ( myLine[x*3+2] == red    //Red
+        && myLine[x*3+1] == green  //Green
+        && myLine[x*3+0] == blue ) //Blue
+      {
+        myLine[x*3+2] = 0 ; //Red
+        myLine[x*3+1] = 0 ; //Green
+        myLine[x*3+0] = 0 ; //Blue
+      }
+    }
+  }
+}

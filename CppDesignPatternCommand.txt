@@ -1,0 +1,75 @@
+//---------------------------------------------------------------------------
+// From http://www.richelbilderbeek.nl/CppCommandDesignPattern.htm
+//---------------------------------------------------------------------------
+#include <iostream>
+#include <boost/shared_ptr.hpp>
+//---------------------------------------------------------------------------
+template <class T>
+struct Command
+{
+  typedef void (*FunctionPointer)(T& target);
+
+  Command(boost::shared_ptr<T> target, const FunctionPointer functionPointer)
+    : mTarget(target), mFunction(functionPointer) { }
+  void Execute() { mFunction( *( mTarget.get() ) ); }
+  private:
+  boost::shared_ptr<T> mTarget;
+  FunctionPointer mFunction;
+};
+//---------------------------------------------------------------------------
+template <class T>
+struct MemFunCommand
+{
+  typedef void (T::* MemFunPtr)();
+
+  MemFunCommand(boost::shared_ptr<T> target, const MemFunPtr memFun)
+    : mTarget(target), mFunction(memFun) { }
+  void Execute() { (mTarget.get()->*mFunction)(); }
+  private:
+  boost::shared_ptr<T> mTarget;
+  MemFunPtr mFunction;
+};
+//---------------------------------------------------------------------------
+struct MdPlayer
+{
+  MdPlayer(const int id) : mId(id) {}
+  void Play()   { std::cout << "Play   #" << mId << std::endl; }
+  void Record() { std::cout << "Record #" << mId << std::endl; }
+  void IncreaseId() { ++mId; std::cout << "Increased ID to " << mId << std::endl; }
+  void DecreaseId() { --mId; std::cout << "Decreased ID to " << mId << std::endl; }
+  private:
+  int mId;
+};
+//---------------------------------------------------------------------------
+void IncreaseId(MdPlayer& player)
+{
+  player.IncreaseId();
+}
+//---------------------------------------------------------------------------
+void DecreaseId(MdPlayer& player)
+{
+  player.DecreaseId();
+}
+//---------------------------------------------------------------------------
+int main()
+{
+  boost::shared_ptr<MdPlayer> p0(new MdPlayer(0));
+  boost::shared_ptr<MdPlayer> p1(new MdPlayer(1));
+  MemFunCommand<MdPlayer> b0(p0,&MdPlayer::Play);
+  MemFunCommand<MdPlayer> b1(p1,&MdPlayer::Record);
+
+  Command<MdPlayer> c0(p0,&IncreaseId);
+  Command<MdPlayer> c1(p1,&DecreaseId);
+  b0.Execute();
+  b1.Execute();
+  c0.Execute();
+  c1.Execute();
+}
+//---------------------------------------------------------------------------
+/* OUTPUT:
+Play   #0
+Record #1
+Increased ID to 1
+Decreased ID to 0
+*/
+//---------------------------------------------------------------------------

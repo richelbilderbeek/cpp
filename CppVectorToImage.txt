@@ -1,0 +1,37 @@
+#include <cassert>
+#include <vector>
+#include <vcl.h>
+
+//Draws a (grey) TImage from a 2D-std::vector (y-x-ordered)
+//From http://www.richelbilderbeek.nl/CppVectorToImage.htm
+void VectorToImage(const std::vector<std::vector<int> >& v, const TImage * const image)
+{
+  assert(image!=0 && "Image must not be NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap must not be NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf24bit && "Bitmap must be 24 bit");
+
+  const int height = v.size();
+  const int width  = v[0].size();
+
+  image->Picture->Bitmap->Height = height;
+  image->Picture->Bitmap->Width  = width;
+
+  for (int y=0; y!=height; ++y)
+  {
+    assert(y >= 0);
+    assert(y < static_cast<int>(v.size()));
+    const std::vector<int>& vLine = v[y];
+    unsigned char * const line
+      = static_cast<unsigned char *>(image->Picture->Bitmap->ScanLine[y]);
+    for (int x=0; x!=width; ++x)
+    {
+      assert(x >= 0);
+      assert(x < static_cast<int>(vLine.size()));
+      const int grey = vLine[x];
+      line[x*3+2] = grey; //Red
+      line[x*3+1] = grey; //Green
+      line[x*3+0] = grey; //Blue
+    }
+  }
+}
+

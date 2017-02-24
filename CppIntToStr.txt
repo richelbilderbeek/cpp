@@ -1,0 +1,25 @@
+#include <sstream>
+
+//From http://www.richelbilderbeek.nl/CppIntToStr.htm
+const std::string IntToStr(const int x)
+{
+  std::ostringstream o;
+  if (!(o << x)) return "ERROR";
+  return o.str();
+}
+
+
+
+
+
+
+#include <string>
+#include <boost/lexical_cast.hpp>
+
+//From http://www.richelbilderbeek.nl/CppIntToStr.htm
+const std::string IntToStr(const int x)
+{
+  return boost::lexical_cast<std::string>(x);
+}
+
+

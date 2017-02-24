@@ -1,0 +1,6 @@
+//From http://www.richelbilderbeek.nl/CppWideToInt.htm
+int WideToInt(const WideString& s)
+{
+  const AnsiString a(s);
+  return a.ToInt();
+}

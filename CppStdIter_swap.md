@@ -1,0 +1,47 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [std::iter\_swap](CppIter_swap.htm)
+====================================================
+
+ 
+
+[std::iter\_swap](CppIter_swap.htm) is an [STL](CppStl.htm)
+[function](CppFunction.htm) to [swap](CppSwap.htm) the data two
+[iterators](CppIterator.htm) [point](CppPointer.htm) to.
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <cassert> #include <vector>  int main() {   //Create a std::vector   std::vector<int> v;   v.push_back(1);   v.push_back(2);    //How are these ints stored?   assert(v[0]==1);   assert(v[1]==2);    //Create two iterators   std::vector<int>::iterator i = v.begin();   std::vector<int>::iterator j = v.end() - 1;    //What are the iterators pointing to?   assert(*i == 1);   assert(*j == 2);    //Swap the data the iterators are pointing to   std::iter_swap(i,j);    //What are the iterators pointing to now?   assert(*i == 2);   assert(*j == 1);    //How are these ints stored now?   assert(v[0]==2);   assert(v[1]==1); }`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

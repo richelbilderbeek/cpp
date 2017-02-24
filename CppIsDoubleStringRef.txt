@@ -1,0 +1,13 @@
+#include <sstream>
+
+//From http://www.richelbilderbeek.nl/CppIsDouble.htm
+const bool IsDouble(const std::string& s, double& rDouble)
+{
+  std::istringstream i(s);
+  if (i >> rDouble)
+  {
+    return true;
+  }
+  rDouble = 0.0; 
+  return false; 
+}

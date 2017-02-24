@@ -1,0 +1,84 @@
+//From http://www.richelbilderbeek.nl
+
+/************************************/
+/* How to create a Form dynamically */
+/************************************/
+
+//Put this line among the other #includes
+#include <memory>
+
+//Your method
+void __fastcall TFormMain::YourMethod()
+{
+  std::auto_ptr<TFormDynamic> f(new TFormDynamic(this));
+  f->ShowModal();
+}
+
+
+
+
+/***********************************/
+/* Communicate with the creator of */
+/* a Form in the constructor only  */
+/***********************************/
+
+
+
+
+
+//Put this line among the other #includes
+#include <cassert>
+
+
+__fastcall TFormDynamic::TFormDynamic(TComponent* Owner)
+        : TForm(Owner)
+{
+  TFormMain * const formMain = dynamic_cast<TFormMain>(Owner);
+  assert(formMain!=0); //Assume cast succeeded
+
+  //Use formMain
+}
+
+
+
+
+
+/*************************************/
+/* Communicate with the creator of a */
+/* Form using a member variable      */
+/**************************************
+
+
+
+//The file UnitFormDynamic.h
+
+//A forward declaration
+//Put it after the #includes and before the next line
+class TFormMain;
+
+class TFormDynamic : public TForm
+{
+  __published:	// IDE-managed Components
+    //Stuff
+  private:	// User declarations
+    TFormMain * const mFormMain;
+  public:		// User declarations
+        __fastcall TFormDynamic(TComponent* Owner);
+};
+
+
+
+//The file UnitFormDynamic.cpp
+
+//Put this line among the other #includes
+#include <cassert>
+
+
+__fastcall TFormDynamic::TFormDynamic(TComponent* Owner)
+  : TForm(Owner),
+    mFormMain(dynamic_cast<TFormMain>(Owner)
+{
+  assert(mFormMain!=0); //Assume cast succeeded
+
+  //Use mFormMain
+}

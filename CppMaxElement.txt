@@ -1,0 +1,26 @@
+#include <cassert>
+
+//Obtains the maximum element of a 2D container
+//From http://www.richelbilderbeek.nl/CppMaxElement.htm
+template <class Container>
+const Container::value_type::value_type MaxElement(const Container& v)
+{
+  assert(v.empty() == false && "Container must have a size");
+
+  //Obtain an initial lowest value
+  Container::value_type::value_type maxValue 
+    = *(std::max_element(v[0].begin(),v[0].end()));
+
+  //Set the iterators
+  const Container::const_iterator rowEnd = v.end();
+  Container::const_iterator row = v.begin();
+  ++row; //Move to the next position, as index 0 is already read from
+
+  for ( ; row != rowEnd; ++row) //row is already initialized
+  {
+    const Container::value_type::value_type localMaxVal
+      = *(std::max_element(row->begin(),row->end()));
+    if (localMaxVal > maxValue) maxValue = localMaxVal;
+  }
+  return maxValue;
+}

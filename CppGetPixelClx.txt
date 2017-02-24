@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------
+#include <cassert>
+#include <QExtCtrls.hpp>
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppGetPixel.htm
+const TColor GetPixelClx(
+  const TImage * const image,
+  const int x,
+  const int y)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf32bit && "Bitmap must be 32 bit");
+  assert( x >= 0 && "x coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x < image->Picture->Bitmap->Width  && "x coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+  return static_cast<TColor>(RGB(
+    (static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y])[x*4+2]), //Red
+    (static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y])[x*4+1]), //Green
+    (static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y])[x*4+0])  //Blue
+    ));
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppGetPixel.htm
+void GetPixel(
+  const TImage * const image,
+  const int x,
+  const int y,
+  unsigned char& red,
+  unsigned char& green,
+  unsigned char& blue)
+{
+  assert(image!=0 && "Image is NULL");
+  assert(image->Picture->Bitmap!=0 && "Bitmap is NULL");
+  assert(image->Picture->Bitmap->PixelFormat == pf32bit && "Bitmap must be 32 bit");
+  assert( x >= 0 && "x coordinat is below zero");
+  assert( y >= 0 && "y coordinat is below zero");
+  assert( x < image->Picture->Bitmap->Width  && "x coordinat is beyond image width");
+  assert( y < image->Picture->Bitmap->Height && "y coordinat is beyond image height");
+  red   = (static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y])[x*4+2]);
+  green = (static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y])[x*4+1]);
+  blue  = (static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y])[x*4+0]);
+}

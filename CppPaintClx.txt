@@ -1,0 +1,27 @@
+#include <cassert>
+
+//From http://www.richelbilderbeek.nl/CppPaint.htm
+void PaintClx(TImage * const image,
+  const unsigned char red,
+  const unsigned char green,
+  const unsigned char blue  )
+{
+  assert(image!=0);
+  assert(image->Picture->Bitmap != 0);
+  assert(image->Picture->Bitmap->PixelFormat == pf32bit);
+
+  const int maxx = image->Picture->Bitmap->Width;
+  const int maxy = image->Picture->Bitmap->Height;
+  for (int y = 0; y != maxy; ++y)
+  {
+    unsigned char * const myLine
+      = static_cast<unsigned char*>(image->Picture->Bitmap->ScanLine[y]);
+    for (int x = 0; x != maxx; ++x)
+    {
+      //myLine[x*4+3] = 0  ; //Do not use alpha-blending (?) byte
+      myLine[x*4+2] = red  ; //Red
+      myLine[x*4+1] = green; //Green
+      myLine[x*4+0] = blue ; //Blue
+    }
+  }
+}

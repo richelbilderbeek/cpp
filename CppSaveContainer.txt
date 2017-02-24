@@ -1,0 +1,11 @@
+#include <algorithm>
+#include <iterator>
+#include <fstream>
+
+//From http://www.richelbilderbeek.nl/CppSaveContainer.htm
+template <class Container>
+void SaveContainer(const Container& c, const std::string& filename)
+{
+  std::ofstream f(filename.c_str());
+  std::copy(c.begin(),c.end(),std::ostream_iterator<Container::value_type>(f,"\n"));
+}

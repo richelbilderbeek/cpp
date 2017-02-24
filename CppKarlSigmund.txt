@@ -1,0 +1,96 @@
+//From http://www.richelbilderbeek.nl/CppKarlSigmund.htm
+
+#include <vector>
+#include <iostream>
+
+std::vector<int> GetDice0()
+{
+  std::vector<int> v;
+  v.reserve(6);
+  v.push_back(5);
+  v.push_back(7);
+  v.push_back(8);
+  v.push_back(9);
+  v.push_back(10);
+  v.push_back(18);
+  return v;
+}
+
+std::vector<int> GetDice1()
+{
+  std::vector<int> v;
+  v.reserve(6);
+  v.push_back(2);
+  v.push_back(3);
+  v.push_back(4);
+  v.push_back(15);
+  v.push_back(16);
+  v.push_back(17);
+  return v;
+}
+
+std::vector<int> GetDice2()
+{
+  std::vector<int> v;
+  v.reserve(6);
+  v.push_back(1);
+  v.push_back(6);
+  v.push_back(11);
+  v.push_back(12);
+  v.push_back(13);
+  v.push_back(14);
+  return v;
+}
+
+std::vector<std::vector< int> > GetDices()
+{
+  std::vector<std::vector<int> > v;
+  v.push_back(GetDice0());
+  v.push_back(GetDice1());
+  v.push_back(GetDice2());
+  return v;
+}
+
+int main()
+{
+  const std::vector<std::vector<int> > dices = GetDices();
+  std::vector<std::vector<int> > wins(3, std::vector<int>(3,0));
+  for (int i=0; i < 1000000; ++i)
+  {
+    //Choose two dices
+    const int dice1 = std::rand() % 3;
+    const int dice2 = std::rand() % 3;
+    //If dices are the same, try again
+    if (dice1==dice2) continue;
+    //Which side is thrown?
+    const int index1 = std::rand() % 6;
+    const int index2 = std::rand() % 6;
+    //What is on these sides?
+    const int throw1 = dices[dice1][index1];
+    const int throw2 = dices[dice2][index2];
+    //A draw is not counted
+    if (throw1 > throw2) 
+      ++(wins[dice1][dice2]);
+    else if (throw1 < throw2)
+      ++(wins[dice2][dice1]);
+  }
+  const double pWin01 = static_cast<double>(wins[0][1]) 
+    / static_cast<double>(wins[0][1] + wins[1][0]);
+  const double pWin02 = static_cast<double>(wins[0][2]) 
+    / static_cast<double>(wins[0][2] + wins[2][0]);
+  const double pWin10 = static_cast<double>(wins[1][0]) 
+    / static_cast<double>(wins[1][0] + wins[0][1]);
+  const double pWin12 = static_cast<double>(wins[1][2]) 
+    / static_cast<double>(wins[1][2] + wins[2][1]);
+  const double pWin20 = static_cast<double>(wins[2][0]) 
+    / static_cast<double>(wins[2][0] + wins[0][2]);
+  const double pWin21 = static_cast<double>(wins[2][1]) 
+    / static_cast<double>(wins[2][1] + wins[1][2]);
+  std::cout << "pWin 0-1: " << pWin01 << std::endl;
+  std::cout << "pWin 0-2: " << pWin02 << std::endl;
+  std::cout << "pWin 1-0: " << pWin10 << std::endl;
+  std::cout << "pWin 1-2: " << pWin12 << std::endl;
+  std::cout << "pWin 2-0: " << pWin20 << std::endl;
+  std::cout << "pWin 2-1: " << pWin21 << std::endl;
+  std::cin.get();
+}

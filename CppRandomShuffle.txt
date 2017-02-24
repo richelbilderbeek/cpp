@@ -1,0 +1,24 @@
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <ostream>
+#include <iterator>
+
+//From http://www.richelbilderbeek.nl/CppRandomShuffle.htm
+int main()
+{
+  //Create a std::vector
+  std::vector<int>(v);
+  //Fill it with 10 values
+  for (int i=0; i!=10; ++i) v.push_back(i);
+  //Show it on screen
+  std::cout << "Before shuffling: " << std::endl;
+  std::copy(v.begin(),v.end(),std::ostream_iterator<int>(std::cout,"\n"));
+  //Shuffle it
+  std::random_shuffle(v.begin(),v.end());
+  //Show it on screen
+  std::cout << "After shuffling: " << std::endl;
+  std::copy(v.begin(),v.end(),std::ostream_iterator<int>(std::cout,"\n"));
+  //Wait for a key
+  std::cin.get();
+}

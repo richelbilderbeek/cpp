@@ -1,0 +1,17 @@
+#include <string>
+
+///Replace all occurences of a substring
+//From http://www.richelbilderbeek.nl/CppReplaceAll.htm
+const std::string ReplaceAll(
+  std::string s,
+  const std::string& replaceWhat,
+  const std::string& replaceWithWhat)
+{
+  while(1)
+  {
+    const int pos = s.find(replaceWhat);
+    if (pos==-1) break;
+    s.replace(pos,replaceWhat.size(),replaceWithWhat);
+  }
+  return s;
+}

@@ -1,0 +1,92 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [My Questions: Expected init-declarator compiler-error with G++](CppMyQuestions0.htm)
+======================================================================================================
+
+ 
+
+Posted on 4 Aug 2009 at 6:00 AM
+
+[View this post at the Programmers Heaven C++
+forum](http://www.programmersheaven.com/mb/CandCPP/394647/394647/expected-init-declarator-compiler-error-with-g++/?S=B20000#394647).
+
+ 
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` Dear fellow programmers,  I fail to get a typedef in a template class to compile, when using G++ 3.4.4 (compiled with 'g++ UnitMyClass.cpp'). But when I use C++ Builder 6's compiler (BCC32) it compiles successfully. Below are the simplified code and error messages. Note that I already try to tackle the problem with four different syntaxes. Google didn't give me the answer, I hope you will.  Thanks in advance, Bilderbikkel`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` //UnitMyClass.cpp #include "UnitMyClass.h"    //UnitMyClass.h #include <map>   template <class T> struct MyClass {   typedef T value_type;   void MyMethod_1() const   {     typedef std::map<T,double>::const_iterator Iter;   }   void MyMethod_2() const   {     typedef std::map<value_type,double>::const_iterator Iter;   }   void MyMethod_3(const T& t) const   {     typedef std::map<T,double>::const_iterator Iter;   }   void MyMethod_4(const T& t) const   {     typedef std::map<value_type,double>::const_iterator Iter;   } };`
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+The errors (for each version of MyMethod) are:
+
+ 
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` $ g++ UnitStorage.cpp In file included from UnitStorage.cpp:5: UnitStorage.h: In member function 'void MyClass<T>::MyMethod_1() const': UnitStorage.h:15: error: expected init-declarator before "Iter" UnitStorage.h:15: error: expected ',' or ';' before "Iter" `
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Answer by [Lundin](http://www.programmersheaven.com/user/Lundin)
+----------------------------------------------------------------
+
+ 
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` Surprisingly I actually knew that one!  It's because of GCC being strict with the standard and Borland ain't. You gotta write   typedef typename std::map<T,double>::const_iterator Iter;   However, I don't enough of the C++ standard to explain the details of that. `
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Thanks [Lundin](http://www.programmersheaven.com/user/Lundin)!
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
+
+This page has been created by the [tool](Tools.htm)
+[CodeToHtml](ToolCodeToHtml.htm)

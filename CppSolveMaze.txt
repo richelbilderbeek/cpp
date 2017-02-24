@@ -1,0 +1,19 @@
+#include <cassert>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppSolveMaze.htm
+std::vector<std::vector<int> > SolveMaze(
+  const std::vector<std::vector<int> >& maze,
+  const int x1,
+  const int y1,
+  const int x2,
+  const int y2)
+{
+  //Assume maze is square
+  assert(maze[0].size() == maze.size());
+  assert(maze[y1][x1] == 0); //Assume starting point is no wall
+  assert(maze[y2][x2] == 0); //Assume end point is no wall
+
+  const std::vector<std::vector<int> > distances(GetMazeDistances(maze,x2,y2));
+  return GetDistancesPath(distances,x1,y1);
+}

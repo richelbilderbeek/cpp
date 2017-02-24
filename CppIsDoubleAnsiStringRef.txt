@@ -1,0 +1,14 @@
+//From http://www.richelbilderbeek.nl/CppIsDouble.htm
+const bool IsDouble(const AnsiString& s, double& rDouble)
+{
+  try
+  {
+    rDouble = s.ToDouble();
+    return true;
+  }
+  catch (EConvertError& e)
+  {
+    rDouble = 0.0;
+    return false; 
+  }
+}

@@ -1,0 +1,31 @@
+#include <cassert>
+
+//From http://www.richelbilderbeek.nl/CppIsPrime.htm
+int main()
+{
+  assert(IsPrime( 1)== true );
+  assert(IsPrime( 2)== true );
+  assert(IsPrime( 3)== true );
+  assert(IsPrime( 4)== false);
+  assert(IsPrime( 5)== true );
+  assert(IsPrime( 6)== false);
+  assert(IsPrime( 7)== true );
+  assert(IsPrime( 8)== false);
+  assert(IsPrime( 9)== false);
+  assert(IsPrime(10)== false);
+  assert(IsPrime(11)== true );
+  assert(IsPrime(12)== false);
+  assert(IsPrime(13)== true );
+  assert(IsPrime(14)== false);
+  assert(IsPrime(15)== false);
+  assert(IsPrime(16)== false);
+  assert(IsPrime(17)== true );
+  assert(IsPrime(18)== false);
+  assert(IsPrime(19)== true );
+  assert(IsPrime(20)== false);
+  assert(IsPrime(21)== false);
+  assert(IsPrime(22)== false);
+  assert(IsPrime(23)== true );
+  assert(IsPrime(24)== false);
+  assert(IsPrime(25)== false);
+}

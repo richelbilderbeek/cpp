@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+#ifndef UnitFunctionsH
+#define UnitFunctionsH
+//---------------------------------------------------------------------------
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+__declspec (dllexport) const int GetAnswerOfLife();
+
+#ifdef __cplusplus
+}
+#endif
+
+//---------------------------------------------------------------------------
+#endif

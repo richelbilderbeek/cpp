@@ -1,0 +1,19 @@
+#include <cassert>
+#include <fstream>
+#include <string>
+#include <vector>
+
+//From http://www.richelbilderbeek.nl/CppFileToVector.htm
+const std::vector<std::string> FileToVector(const std::string& filename)
+{
+  assert(FileExists(filename));
+  std::vector<std::string> v;
+  std::ifstream in(filename.c_str());
+  std::string s;
+  for (int i=0; !in.eof(); ++i)
+  {
+    std::getline(in,s);
+    v.push_back(s);
+  }
+  return v;
+}

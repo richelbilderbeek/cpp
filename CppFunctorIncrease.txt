@@ -1,0 +1,31 @@
+#include <cassert>
+#include <functional>
+#include <vector>
+#include <algorithm>
+
+//From http://www.richelbilderbeek.nl
+struct Increase : public std::unary_function<void,int>
+{
+  explicit Increase(const int& initValue = 0) : mValue(initValue) {}
+  void operator()(int& anything)
+  {
+    anything = mValue;
+    ++mValue;
+  }
+
+  private:
+  int mValue;
+};
+
+
+
+int main()
+{
+  std::vector<int> v(10);
+  std::for_each(v.begin(), v.end(), Increase() );
+  assert(v[0] == 0);
+  assert(v[1] == 1);
+  assert(v[2] == 2);
+  assert(v[3] == 3);
+  assert(v[4] == 4);
+}

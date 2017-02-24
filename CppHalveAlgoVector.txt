@@ -1,0 +1,10 @@
+#include <vector>
+#include <algorithm>
+#include <numeric>
+
+//From http://www.richelbilderbeek.nl/CppHalve.htm
+void Halve(std::vector<double>& v)
+{
+  std::transform(v.begin(),v.end(),v.begin(),
+    std::bind2nd(std::divides<double>(),2.0));    
+}

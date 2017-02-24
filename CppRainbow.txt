@@ -1,0 +1,66 @@
+//---------------------------------------------------------------------------
+#include <cassert>
+#include <cmath>
+#include <algorithm>
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRainbow.htm
+void Rainbow(
+  const double x, 
+  unsigned char& r, 
+  unsigned char& g, 
+  unsigned char& b)
+{
+  const int r0 = GetRed(x);
+  const int g0 = GetGreen(x);
+  const int b0 = GetBlue(x);
+  const int max = std::max(r0, std::max(g0,b0));
+  assert(max!=0);
+
+  r = 255.0 * static_cast<double>(r0) / static_cast<double>(max);
+  g = 255.0 * static_cast<double>(g0) / static_cast<double>(max);
+  b = 255.0 * static_cast<double>(b0) / static_cast<double>(max);
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRainbow.htm
+const unsigned char GetRed(const double x)
+{
+  assert( x >= 0.0 && x < 1.0);
+  const double f = std::max(0.0,
+    (x < 0.5
+    ?  std::cos(x * 1.5 * M_PI)
+    : -std::sin(x * 1.5 * M_PI)
+    ) );
+  assert( f >= 0.0);
+  assert( f <= 1.0);
+  const double y = 255.0 * f;
+  assert( static_cast<int>(y) < 256 );
+  return static_cast<unsigned char>(y);
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRainbow.htm
+const unsigned char GetGreen(const double x)
+{
+  assert( x >= 0.0 && x < 1.0);
+
+  const double f = std::max(0.0, std::sin( x * 1.5 * M_PI ) );
+  assert( f >= 0.0);
+  assert( f <= 1.0);
+  const double y = 255.0 * f;
+  assert( static_cast<int>(y) < 256 );
+  return static_cast<unsigned char>(y);
+}
+//---------------------------------------------------------------------------
+//From http://www.richelbilderbeek.nl/CppRainbow.htm
+const unsigned char GetBlue(const double x)
+{
+  assert( x >= 0.0 && x < 1.0);
+
+  const double f = std::max(0.0, -std::cos( x * 1.5 * M_PI ) );
+
+  assert( f >= 0.0);
+  assert( f <= 1.0);
+  const double y = 255.0 * f;
+  assert( static_cast<int>(y) < 256 );
+  return static_cast<unsigned char>(y);
+}
+//---------------------------------------------------------------------------

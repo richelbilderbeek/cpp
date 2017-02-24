@@ -1,0 +1,8 @@
+#include <algorithm>
+
+//From http://www.richelbilderbeek.nl
+template <class Container>
+void Append(Container& toWhat, const Container& whatToAppend)
+{
+  std::copy(whatToAppend.begin(),whatToAppend.end(),std::back_inserter (toWhat));
+}

@@ -1,0 +1,86 @@
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#27](CppExerciseNoForLoopsAnswer27.htm)
+===============================================================================================
+
+ 
+
+This is the answer of [Exercise \#9: No
+for-loops](CppExerciseNoForLoops.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Question \#27: HasId on std::vector&lt;Person\*&gt;
+---------------------------------------------------
+
+ 
+
+Replace the **[for](CppFor.htm)**-loop. You will need:
+
+-   [boost::bind](CppBind.htm)
+
+ 
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <vector> #include <boost/numeric/conversion/cast.hpp>  struct Person {   Person(const int id) : m_id(id) {}   int GetId() const { return m_id; }   const int m_id; };   bool HasId(const std::vector<const Person *>& v, const int id) {   const int size = boost::numeric_cast<int>(v.size());   for (int i=0; i!=size; ++i)   {     if (v[i]->GetId() == id) return true;   }   return false; } `
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+--------------------------------------------------------------
+
+ 
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ` #include <algorithm> #include <vector> #include <boost/bind.hpp> #include <boost/lambda/lambda.hpp>  struct Person {   Person(const int id) : m_id(id) {}   int GetId() const { return m_id; }   const int m_id; };  bool HasId(const std::vector<const Person *>& v, const int id) {   return std::find_if(     v.begin(),v.end(),     boost::bind(&Person::GetId, boost::lambda::_1) == id     ) != v.end(); }`
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's C++ page](Cpp.htm).
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)

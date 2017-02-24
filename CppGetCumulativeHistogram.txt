@@ -1,0 +1,11 @@
+//From htpp://www.richelbilderbeek.nl/CppGetCumulativeHistogram.htm
+template <class T> const std::vector<T> GetCumulativeHistogram(const std::vector<T>& histogram)
+{
+  std::vector<T> v(histogram.begin(),histogram.end() );
+  const int size = v.size();
+  for (int i=1; i!=size; ++i)
+  {
+    v[i] += v[i-1];
+  }
+  return v;
+}
