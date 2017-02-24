@@ -6,5 +6,6 @@ for md_filename in `ls *.md`
 do
   echo $md_filename
   #cat -s $md_filename
-  grep -A1 . $md_filename | grep -v "^--$"
+  # grep -A1 . $md_filename | grep -v "^--$"
+  sed "/^$/d" $md_filename
 done
