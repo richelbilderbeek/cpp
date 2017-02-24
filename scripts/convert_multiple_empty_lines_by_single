@@ -7,5 +7,6 @@ do
   echo $md_filename
   #cat -s $md_filename
   # grep -A1 . $md_filename | grep -v "^--$"
-  sed "/^$/d" $md_filename
+  sed "N;/^\n$/D;P;D;" $md_filename
+
 done
