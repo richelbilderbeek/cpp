@@ -18,8 +18,7 @@ variables](CppLocalVersusGlobal.md).
 
 ## [References](CppReferences.md)
 
-1.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
-    2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
+1.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
 2.  Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. Gotcha
     \#3: 'Avoid global variables'.
 3.  [C++ FAQ Lite](http://www.parashift.com/c++-faq/global-vars.html):
@@ -36,8 +35,7 @@ variables](CppLocalVersusGlobal.md).
     24 hours. ISBN: 0-672-32224-2. Hour 5, paragraph 'Global variables':
     'In C++, global variables are avoided because they can create very
     confusing code that is hard to maintain.'
-7.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
-    2001. ISBN: 0201704315. Item 18: 'Declare variables as locally
+7.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 18: 'Declare variables as locally
     as possible'.
 8.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
     Development and Demonstration Program. Document Number 2RDU00001
