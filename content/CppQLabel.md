@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ to make a clickable [QLabel](CppQLabel.md).
 
  
 
-
-
-
-
  
-
-
 

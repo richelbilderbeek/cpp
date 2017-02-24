@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ Creator](CppQtCreator.md) [STL](CppStl.md).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ My [articles](CppArticle.md) about the [Wt](CppWt.md)
 
  
 
-
-
-
-
  
-
-
 

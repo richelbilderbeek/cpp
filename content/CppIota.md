@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ implementations. With the [C++11](Cpp11.md) [STL](CppStl.md)
 
  
 
-
-
-
-
  
-
-
 

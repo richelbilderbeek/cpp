@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ the first line of a file and [convert](CppConvert.md) it to a
 
  
 
-
-
-
-
  
-
-
 

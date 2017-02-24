@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ elements in a [container](CppContainer.md), satisfying a certain
 
  
 
-
-
-
-
  
-
-
 

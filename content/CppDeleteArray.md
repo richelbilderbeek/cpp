@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ element of the [arrays](CppArray.md), where
 
  
 
-
-
-
-
  
-
-
 

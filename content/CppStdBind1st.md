@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -113,14 +110,7 @@ reprocicals, that is replaces all elements called 'x' by '1.0/x'.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

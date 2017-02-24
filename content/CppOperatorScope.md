@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ The example below shows how to call a [function](CppFunction.md) in the
 
  
 
-
-
-
-
  
-
-
 

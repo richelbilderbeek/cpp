@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ Screen output (elapsed time might differ):
 
  
 
-
-
-
-
  
-
-
 

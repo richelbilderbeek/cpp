@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ The code below shows a [C++98](Cpp98.md) and [C++11](Cpp11.md)
 
  
 
-
-
-
-
  
-
-
 

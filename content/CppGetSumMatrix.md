@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ in a one-dimensional [container](CppContainer.md), [go to the GetSum
 
  
 
-
-
-
-
  
-
-
 

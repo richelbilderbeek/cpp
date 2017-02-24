@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ http://isocpp.org/files/papers/n3791.html).
 
  
 
-
-
-
-
  
-
-
 

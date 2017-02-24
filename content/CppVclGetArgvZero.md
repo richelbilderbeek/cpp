@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ the console tradition, this includes the full path of your program.
 
  
 
-
-
-
-
  
-
-
 

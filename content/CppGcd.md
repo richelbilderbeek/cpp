@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -106,11 +103,5 @@ From <http://www.boost.org/doc/html/boost_math/gcd_lcm.html>:
 
  
 
-
-
-
-
  
-
-
 

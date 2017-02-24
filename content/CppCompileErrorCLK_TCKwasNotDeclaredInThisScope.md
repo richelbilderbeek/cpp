@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,14 +38,7 @@ it, use the code below instead.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

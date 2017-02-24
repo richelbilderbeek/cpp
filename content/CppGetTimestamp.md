@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -43,11 +40,5 @@ snippet](CppCodeSnippets.md) to obtain the current time and date as a
 
  
 
-
-
-
-
  
-
-
 

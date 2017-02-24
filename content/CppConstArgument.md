@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -215,11 +212,5 @@ Use [const](CppConst.md) whenever possible \[1-7\].
 
  
 
-
-
-
-
  
-
-
 

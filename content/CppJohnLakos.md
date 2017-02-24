@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ List of [books](CppBooks.md) (co-)authored by [John Lakos](CppJohnLakos.md)
 
  
 
-
-
-
-
  
-
-
 

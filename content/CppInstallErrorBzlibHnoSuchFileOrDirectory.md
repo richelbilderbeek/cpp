@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ Solution: install python-dev:
 
  
 
-
-
-
-
  
-
-
 

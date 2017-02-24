@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -97,11 +94,5 @@ change the IsAllHex to the one below:
 
  
 
-
-
-
-
  
-
-
 

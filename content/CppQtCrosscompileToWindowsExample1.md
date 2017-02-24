@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -185,11 +182,5 @@ confirmed this to work on my old Windows computer.
 
  
 
-
-
-
-
  
-
-
 

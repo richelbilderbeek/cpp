@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -30,11 +27,5 @@ GitHub](https://github.com/richelbilderbeek/NarmedBanditLearner).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -121,11 +118,5 @@ Example: Use of non-[STL](CppStl.md) [functors](CppFunctor.md)
 
  
 
-
-
-
-
  
-
-
 

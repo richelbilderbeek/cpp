@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ manipulator to set the precion in displaying a floating point number.
 
  
 
-
-
-
-
  
-
-
 

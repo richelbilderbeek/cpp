@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ representation to interpret sequences in the language' \[1\]
 
  
 
-
-
-
-
  
-
-
 

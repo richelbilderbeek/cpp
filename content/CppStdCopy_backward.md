@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ of the copied [container](CppContainer.md), use
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ Removes a certain color from a TImage by replacing it by black.
 
  
 
-
-
-
-
  
-
-
 

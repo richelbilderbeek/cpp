@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -66,11 +63,5 @@ reference](http://doc.trolltech.com/4.2/qmake-variable-reference.html)
 
  
 
-
-
-
-
  
-
-
 

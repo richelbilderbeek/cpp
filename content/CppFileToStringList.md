@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ contents of a file as a TStringList.
 
  
 
-
-
-
-
  
-
-
 

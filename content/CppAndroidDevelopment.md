@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ depends on your [operating system](CppOs.md) and [IDE](CppIde.md):
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -59,11 +56,5 @@ to paint the pixels of a background sprite, like [this screenshot
 
  
 
-
-
-
-
  
-
-
 

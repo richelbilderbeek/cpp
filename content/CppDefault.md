@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ optionally for non-[case](CppCase.md) values.
 
  
 
-
-
-
-
  
-
-
 

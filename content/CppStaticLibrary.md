@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ line to the [Qt](CppQt.md) [project file](CppProjectFile.md):
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -30,11 +27,5 @@ Installing [CLN](CppCln.md) under Ubuntu is easy, because
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,14 +28,7 @@ if a [container](CppContainer.md) is sorted.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

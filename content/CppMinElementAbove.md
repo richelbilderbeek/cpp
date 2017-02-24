@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ snippet](CppCodeSnippets.md) to get the
 
  
 
-
-
-
-
  
-
-
 

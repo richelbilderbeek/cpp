@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ Creator](CppQtCreator.md) under Ubuntu to NDS.
 
  
 
-
-
-
-
  
-
-
 

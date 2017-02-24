@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -67,11 +64,5 @@ Prefer plain [char](CppChar.md) over [signed](CppSigned.md)
 
  
 
-
-
-
-
  
-
-
 

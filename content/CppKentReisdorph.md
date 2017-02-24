@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ List of books co-authored by [Kent Reisdorph](CppKentReisdorph.md)
 
  
 
-
-
-
-
  
-
-
 

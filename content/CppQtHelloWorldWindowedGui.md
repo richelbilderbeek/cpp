@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -229,11 +226,5 @@ its 'Width' to 200. Then your screen might then look like
 
  
 
-
-
-
-
  
-
-
 

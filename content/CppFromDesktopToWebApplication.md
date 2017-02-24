@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -299,11 +296,5 @@ These changes can be viewed in in image and in code:
 
  
 
-
-
-
-
  
-
-
 

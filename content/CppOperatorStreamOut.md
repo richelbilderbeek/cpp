@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -94,11 +91,5 @@ to read data from a [stream](CppStream.md).
 
  
 
-
-
-
-
  
-
-
 

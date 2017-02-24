@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ table. You can view all code below or download the source code.
 
  
 
-
-
-
-
  
-
-
 

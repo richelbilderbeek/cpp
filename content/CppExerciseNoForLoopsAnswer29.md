@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -74,11 +71,5 @@ Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.md). You will need:
 
  
 
-
-
-
-
  
-
-
 

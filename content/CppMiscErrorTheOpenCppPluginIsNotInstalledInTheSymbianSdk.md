@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -152,11 +149,5 @@ Perhaps \[1\] is a solution, but I have not gotten this to work yet...
 
  
 
-
-
-
-
  
-
-
 

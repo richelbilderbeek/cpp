@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -61,11 +58,5 @@ have the non-const [member function](CppMemberFunction.md) call the
 
  
 
-
-
-
-
  
-
-
 

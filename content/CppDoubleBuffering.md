@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -57,11 +54,5 @@ program [DemoBuffering](CppDemoBuffering.md) for a complete program):
 
  
 
-
-
-
-
  
-
-
 

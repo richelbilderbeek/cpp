@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,14 +50,7 @@ Incomplete list of [derived classes](CppDerivedClass.md) of
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

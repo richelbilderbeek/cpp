@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -91,11 +88,5 @@ pointers](CppFunctionPointer.md), consider always using a
 
  
 
-
-
-
-
  
-
-
 

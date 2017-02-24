@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ the elements are all present in the first and absent in the second set
 
  
 
-
-
-
-
  
-
-
 

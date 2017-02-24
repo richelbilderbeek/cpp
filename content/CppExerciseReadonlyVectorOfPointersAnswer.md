@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointers.md).
 
  
 
-
-
-
-
  
-
-
 

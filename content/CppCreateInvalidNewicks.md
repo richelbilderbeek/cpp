@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ invalid [Newicks](CppNewick.md), for testing purposes.
 
  
 
-
-
-
-
  
-
-
 

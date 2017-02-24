@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,14 +32,7 @@ I do write tutorials for C++ and C++ Builder for the
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -62,11 +59,5 @@ yields the same results as [std::sort](CppSort.md).
 
  
 
-
-
-
-
  
-
-
 

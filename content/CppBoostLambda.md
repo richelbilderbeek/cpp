@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ or to simplify their corresponding [algorithm](CppAlgorithm.md).
 
  
 
-
-
-
-
  
-
-
 

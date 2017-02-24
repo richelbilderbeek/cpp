@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -218,14 +215,7 @@
   [xeNonZero](GameXeNonZero.md)                                                     ![](PicGreen.png)                   ![](PicBlack.png)                                       ![](PicGreen.png)                        ![](PicRed.png)
   [zork](GameZork.md)                                                               ![](PicGreen.png)                   ![](PicBlack.png)                                       ![](PicRed.png)                          ![](PicRed.png)
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

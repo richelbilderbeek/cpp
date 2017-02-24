@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -144,11 +141,5 @@ exercise](http://www.programmersheaven.com/article/102868-C%2b%2b+exercise%3a+li
 
  
 
-
-
-
-
  
-
-
 

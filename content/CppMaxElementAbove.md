@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ Simply use [std::max\_element](CppMax_element.md).
 
  
 
-
-
-
-
  
-
-
 

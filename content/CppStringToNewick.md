@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ formed [Newick](CppNewick.md) [std::string](CppString.md) to
 
  
 
-
-
-
-
  
-
-
 

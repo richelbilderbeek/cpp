@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -206,11 +203,5 @@ the program run a thousand times, so I could tally the output.
 
  
 
-
-
-
-
  
-
-
 

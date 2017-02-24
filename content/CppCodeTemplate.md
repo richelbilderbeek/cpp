@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -64,11 +61,5 @@ template](CppCodeTemplate.md)'s shortcut, for example 'i'.
 
  
 
-
-
-
-
  
-
-
 

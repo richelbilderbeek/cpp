@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ Personally, I prefer using the [C++](Cpp.md) file
 
  
 
-
-
-
-
  
-
-
 

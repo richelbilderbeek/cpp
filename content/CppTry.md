@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ Minimize the use of [try](CppTry.md)-blocks \[1\].
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -160,11 +157,5 @@ type](CppDataType.md) might also be [std::size\_t](CppSize_t.md).
 
  
 
-
-
-
-
  
-
-
 

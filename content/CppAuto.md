@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -155,11 +152,5 @@ do, what already will be done. In [C++98](Cpp98.md), never write
 
  
 
-
-
-
-
  
-
-
 

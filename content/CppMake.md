@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -96,11 +93,5 @@ Example [Qt Creator](CppQtCreator.md) makefiles
 
  
 
-
-
-
-
  
-
-
 

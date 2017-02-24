@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ Working with DLL's is IDE/[compiler](CppCompiler.md) specific.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -92,11 +89,5 @@ Restart [C++ Builder](CppBuilder.md). Nothing has been lost.
 
  
 
-
-
-
-
  
-
-
 

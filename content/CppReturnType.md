@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -86,11 +83,5 @@ its [return type](CppReturnType.md) is [int](CppInt.md).
 
  
 
-
-
-
-
  
-
-
 

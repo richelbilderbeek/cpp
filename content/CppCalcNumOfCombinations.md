@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ calculate the number of combinations a [Newick](CppNewick.md) has.
 
  
 
-
-
-
-
  
-
-
 

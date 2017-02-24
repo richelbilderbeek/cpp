@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -144,11 +141,5 @@ Do not use [QCoreApplication](CppQCoreApplication.md), but use
 
  
 
-
-
-
-
  
-
-
 

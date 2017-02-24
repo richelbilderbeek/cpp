@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -262,11 +259,5 @@ Should I use int main() or int main(void)?
 
  
 
-
-
-
-
  
-
-
 

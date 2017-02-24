@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -120,11 +117,5 @@ expressions](CppLambdaExpression.md).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -186,11 +183,5 @@ Click 'Run' in the bottom-left of press CTRL-R.
 
  
 
-
-
-
-
  
-
-
 

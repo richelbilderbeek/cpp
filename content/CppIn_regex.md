@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ determines if a a [character](CppChar.md) matches a regular expression.
 
  
 
-
-
-
-
  
-
-
 

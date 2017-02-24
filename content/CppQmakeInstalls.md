@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -30,11 +27,5 @@ variable](CppQmakeVariable.md).
 
  
 
-
-
-
-
  
-
-
 

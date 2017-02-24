@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -111,11 +108,5 @@ solve the above example is:
 
  
 
-
-
-
-
  
-
-
 

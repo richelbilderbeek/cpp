@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ file](CppHeaderFile.md) for localization.
 
  
 
-
-
-
-
  
-
-
 

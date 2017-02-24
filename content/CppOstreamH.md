@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ C++ Standard [header file](CppHeaderFile.md) \[1\].
 
  
 
-
-
-
-
  
-
-
 

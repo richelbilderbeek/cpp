@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -104,11 +101,5 @@ pointer-to-const](CppDeletePointerToConst.md).
 
  
 
-
-
-
-
  
-
-
 

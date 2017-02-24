@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ operator, or dereferencing operator) is a type of
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -112,11 +109,5 @@ found in boost/bind/placeholders.hpp.
 
  
 
-
-
-
-
  
-
-
 

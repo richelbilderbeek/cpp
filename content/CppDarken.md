@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
 
  
 
-
-
-
-
  
-
-
 

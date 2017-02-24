@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -76,11 +73,5 @@ screenshot](CppBoostInstallWineUbuntu2.png).
 
  
 
-
-
-
-
  
-
-
 

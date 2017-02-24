@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ background in 2D](CppQtExample1.md), shows how to add transparency to a
 
  
 
-
-
-
-
  
-
-
 

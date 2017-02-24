@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -208,11 +205,5 @@ initialization](CppMemberwiseInitialization.md) \[13\].
 
  
 
-
-
-
-
  
-
-
 

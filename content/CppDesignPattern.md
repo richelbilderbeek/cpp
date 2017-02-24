@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -88,11 +85,5 @@ Below is a list of [design patterns](CppDesignPattern.md) (incomplete):
 
  
 
-
-
-
-
  
-
-
 

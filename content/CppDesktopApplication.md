@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -59,11 +56,5 @@ There are multiple [Qt Creator project type](CppQtProjectType.md) for
 
  
 
-
-
-
-
  
-
-
 

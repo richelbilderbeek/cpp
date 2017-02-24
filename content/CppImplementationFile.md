@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ The combination of a [header (.h) file](CppHeaderFile.md) and an
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ which is then converted to [std::string](CppString.md).
 
  
 
-
-
-
-
  
-
-
 

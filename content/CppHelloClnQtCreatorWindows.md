@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ CLN](CppHelloCln.md) program under [Qt Creator](CppQtCreator.md).
 
  
 
-
-
-
-
  
-
-
 

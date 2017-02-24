@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ used by [qmake](CppQmake.md) to generate a [makefile](CppMakefile.md).
 
  
 
-
-
-
-
  
-
-
 

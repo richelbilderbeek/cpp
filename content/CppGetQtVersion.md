@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ of the current [Qt](CppQt.md) [library](CppLibrary.md) in use.
 
  
 
-
-
-
-
  
-
-
 

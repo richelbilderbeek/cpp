@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ file](CppHeaderFile.md). In [C++](Cpp.md), use
 
  
 
-
-
-
-
  
-
-
 

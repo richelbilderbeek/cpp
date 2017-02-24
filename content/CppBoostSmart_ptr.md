@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ List of [Boost.Smart\_ptr](CppSmart_ptr.md) types (incomplete)
 
  
 
-
-
-
-
  
-
-
 

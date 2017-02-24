@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -43,11 +40,5 @@ start Cygwin and go into the boost folder (mine is, for example,
 
  
 
-
-
-
-
  
-
-
 

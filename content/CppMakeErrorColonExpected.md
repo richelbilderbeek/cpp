@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -66,11 +63,5 @@ Under Ubuntu, using 'make -v', the following pops up:
 
  
 
-
-
-
-
  
-
-
 

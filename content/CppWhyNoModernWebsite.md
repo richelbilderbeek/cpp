@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ I share the same opinion.
 
  
 
-
-
-
-
  
-
-
 

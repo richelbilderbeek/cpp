@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -120,11 +117,5 @@ The solution is to request the actual time before and after:
 
  
 
-
-
-
-
  
-
-
 

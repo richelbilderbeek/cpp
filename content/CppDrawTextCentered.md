@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ Assumes you have already defined [GetFontHeight](CppGetFontHeight.md).
 
  
 
-
-
-
-
  
-
-
 

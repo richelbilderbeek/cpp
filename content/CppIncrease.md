@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ produces [integer](CppInt.md) values which get increasingly higher.
 
  
 
-
-
-
-
  
-
-
 

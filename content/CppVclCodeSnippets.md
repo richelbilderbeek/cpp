@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ me when one snippet does not ([view my E-mail address](Email.png)).
 
  
 
-
-
-
-
  
-
-
 

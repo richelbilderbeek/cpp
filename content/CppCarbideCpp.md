@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ under [Ubuntu](CppUbuntu.md) as well.
 
  
 
-
-
-
-
  
-
-
 

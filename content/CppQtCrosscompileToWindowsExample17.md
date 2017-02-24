@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -158,11 +155,5 @@ crossprefix = i586-mingw32msvc- crossdir = /usr/i586-mingw32msvc
 
  
 
-
-
-
-
  
-
-
 

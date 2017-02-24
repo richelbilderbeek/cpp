@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -105,11 +102,5 @@ std::mutex](CppThreadExample2.md) demonstrates how to use
 
  
 
-
-
-
-
  
-
-
 

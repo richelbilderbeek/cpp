@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -63,11 +60,5 @@ List of the top 5 most important C++ books ever \[1\].
 
  
 
-
-
-
-
  
-
-
 

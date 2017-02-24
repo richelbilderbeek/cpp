@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -55,11 +52,5 @@ Avoid [void\*](CppVoidPointer.md) except in low-level code \[1\].
 
  
 
-
-
-
-
  
-
-
 

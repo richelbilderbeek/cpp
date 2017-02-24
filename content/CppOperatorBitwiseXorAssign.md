@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ In the example below a '0011' is performed xor on with '0101' yielding
 
  
 
-
-
-
-
  
-
-
 

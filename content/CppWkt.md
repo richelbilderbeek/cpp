@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ format, with the .wkt file extension.
 
  
 
-
-
-
-
  
-
-
 

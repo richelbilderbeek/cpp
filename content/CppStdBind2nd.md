@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -104,11 +101,5 @@ The distinction between [std::bind1st](CppBind1st.md) and
 
  
 
-
-
-
-
  
-
-
 

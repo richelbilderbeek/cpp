@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -192,11 +189,5 @@ helgrind.txt is the output file created by [helgrind](CppHelgrind.md):
 
  
 
-
-
-
-
  
-
-
 

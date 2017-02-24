@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ Here is an overview of functions.
 
  
 
-
-
-
-
  
-
-
 

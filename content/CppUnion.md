@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -88,11 +85,5 @@ Consider never using [unions](CppUnion.md) \[1\]. Use
 
  
 
-
-
-
-
  
-
-
 

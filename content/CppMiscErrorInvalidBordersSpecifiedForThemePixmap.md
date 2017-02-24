@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -71,14 +68,7 @@ that the following might suffice:
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

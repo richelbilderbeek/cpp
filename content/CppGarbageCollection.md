@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -65,11 +62,5 @@ released resources, which is (by default) absent in C++.
 
  
 
-
-
-
-
  
-
-
 

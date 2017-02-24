@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ constants. In C++ it is [declared](CppDeclaration.md) as an
 
  
 
-
-
-
-
  
-
-
 

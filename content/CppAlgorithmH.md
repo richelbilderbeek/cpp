@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ containing [definitions](CppDefinition.md) of
 
  
 
-
-
-
-
  
-
-
 

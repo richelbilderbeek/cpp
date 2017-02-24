@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ These are my [code snippets](CppCodeSnippets.md) on
 
  
 
-
-
-
-
  
-
-
 

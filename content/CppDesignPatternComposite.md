@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ individual objects and composition of objects uniformly' \[1\]
 
  
 
-
-
-
-
  
-
-
 

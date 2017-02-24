@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -116,11 +113,5 @@ as [CanLexicalCast](CppCanLexicalCast.md) is more strict.
 
  
 
-
-
-
-
  
-
-
 

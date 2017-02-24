@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ under [Wine](CppWine.md) is non-native ('real'), not everything works.
 
  
 
-
-
-
-
  
-
-
 

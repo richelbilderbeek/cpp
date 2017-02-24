@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -128,11 +125,5 @@ See [Boost.Units bug](CppUnitsBug.md).
 
  
 
-
-
-
-
  
-
-
 

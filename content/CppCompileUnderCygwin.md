@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ The goal of [compiling under Cygwin](CppCompileUnderCygwin.md) is to
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ calculate the average grey value of a [VCL](CppVcl.md)
 
  
 
-
-
-
-
  
-
-
 

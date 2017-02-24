@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -33,11 +30,5 @@ file](CppHeaderFile.md) (since the [C++11](Cpp11.md)
 
  
 
-
-
-
-
  
-
-
 

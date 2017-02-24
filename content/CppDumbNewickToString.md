@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ the checked version of [DumbNewickToString](CppDumbNewickToString.md).
 
  
 
-
-
-
-
  
-
-
 

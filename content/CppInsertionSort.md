@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,14 +38,7 @@ snippet](CppCodeSnippets.md) to perform an insertion sort.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

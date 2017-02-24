@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -118,11 +115,5 @@ duty by calling its [operator()](CppOperatorFunctionCall.md).
 
  
 
-
-
-
-
  
-
-
 

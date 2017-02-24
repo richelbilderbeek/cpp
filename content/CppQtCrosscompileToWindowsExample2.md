@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -124,11 +121,5 @@ of QtGui. So I perform a Windows Find for 'libqt\*.\*'.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ of [std::basic\_istream](CppBasic_istream.md).
 
  
 
-
-
-
-
  
-
-
 

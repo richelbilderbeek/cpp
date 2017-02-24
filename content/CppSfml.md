@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -75,11 +72,5 @@ prevent [link errors](CppLinkError.md)):
 
  
 
-
-
-
-
  
-
-
 

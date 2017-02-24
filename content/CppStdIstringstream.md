@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -58,11 +55,5 @@ cannot be [converted](CppConvert.md) to [double](CppDouble.md).
 
  
 
-
-
-
-
  
-
-
 

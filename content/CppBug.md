@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -90,11 +87,5 @@ Coder](http://www.dodgycoder.net/2011/11/yoda-conditions-pokemon-exception.html)
 
  
 
-
-
-
-
  
-
-
 

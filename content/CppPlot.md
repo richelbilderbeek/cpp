@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -55,11 +52,5 @@ Only FOSS software. This list is incomplete and will remain incomplete.
 
  
 
-
-
-
-
  
-
-
 

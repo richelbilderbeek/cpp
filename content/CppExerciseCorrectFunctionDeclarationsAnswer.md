@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -447,11 +444,5 @@ multiple squares (at a certain position) in a certain direction.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -83,11 +80,5 @@ In the CMake GUI, set the path 'Where is the source code' to
 
  
 
-
-
-
-
  
-
-
 

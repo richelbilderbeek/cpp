@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ A [user-defined literal](CppUserDefinedLiteral.htm.md) is a type of
 
  
 
-
-
-
-
  
-
-
 

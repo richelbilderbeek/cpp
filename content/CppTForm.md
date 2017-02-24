@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -283,11 +280,5 @@ One workaround is to use [AnsiString](CppAnsiString.md) instead of an
 
  
 
-
-
-
-
  
-
-
 

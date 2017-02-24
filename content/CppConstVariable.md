@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -95,11 +92,5 @@ const](CppExerciseTheManyTypesOfConst.md) is an
 
  
 
-
-
-
-
  
-
-
 

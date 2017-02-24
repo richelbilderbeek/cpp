@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ Method lets a class defer instantation to subclasses' \[1\]
 
  
 
-
-
-
-
  
-
-
 

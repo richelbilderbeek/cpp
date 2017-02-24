@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -155,11 +152,5 @@ Handle assignment to self: Copy and swap
 
  
 
-
-
-
-
  
-
-
 

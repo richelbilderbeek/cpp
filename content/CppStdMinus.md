@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ encapsulates [operator-](CppOperatorMinus.md).
 
  
 
-
-
-
-
  
-
-
 

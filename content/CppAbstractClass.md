@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -121,11 +118,5 @@ classes](CppAbstractClass.md), for example the
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -99,11 +96,6 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
  
 
-
-
-
-
  
-
 
 height="32"}](http://validator.w3.org/check?uri=referer)

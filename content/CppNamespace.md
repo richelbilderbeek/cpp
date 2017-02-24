@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -176,11 +173,5 @@ All [STL](CppStl.md) [functions](CppFunction.md) and
 
  
 
-
-
-
-
  
-
-
 

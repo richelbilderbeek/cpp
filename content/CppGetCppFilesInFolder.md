@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md) to obtain all
 
  
 
-
-
-
-
  
-
-
 

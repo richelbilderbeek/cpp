@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ List of books (co-)authored by [Mike Girou](CppMikeGirou.md)
 
  
 
-
-
-
-
  
-
-
 

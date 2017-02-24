@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -100,11 +97,5 @@ predictable name for the [\#include guard](CppIncludeGuard.md) \[3\].
 
  
 
-
-
-
-
  
-
-
 

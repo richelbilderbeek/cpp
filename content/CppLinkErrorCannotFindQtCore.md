@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ Depending on the situation, go to one of the following pages:
 
  
 
-
-
-
-
  
-
-
 

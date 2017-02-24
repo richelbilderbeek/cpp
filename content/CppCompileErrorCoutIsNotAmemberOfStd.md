@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -100,11 +97,5 @@ file](CppHeaderFile.md) so it does:
 
  
 
-
-
-
-
  
-
-
 

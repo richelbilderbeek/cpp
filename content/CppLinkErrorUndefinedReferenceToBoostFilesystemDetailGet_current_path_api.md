@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -139,11 +136,5 @@ Add the following line to the [Qt project file](CppQtProjectFile.md):
 
  
 
-
-
-
-
  
-
-
 

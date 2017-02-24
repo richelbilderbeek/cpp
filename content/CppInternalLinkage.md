@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ in another unit at [link time](CppLinkTime.md)' \[1\].
 
  
 
-
-
-
-
  
-
-
 

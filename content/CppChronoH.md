@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -57,11 +54,5 @@ and [std::time\_point](CppTime_point.md) for timing \[1\].
 
  
 
-
-
-
-
  
-
-
 

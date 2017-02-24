@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ reconstruct a truth table:
 
  
 
-
-
-
-
  
-
-
 

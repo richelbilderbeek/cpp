@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -145,11 +142,5 @@ can [delete a pointer-to-const](CppDeletePointerToConst.md).
 
  
 
-
-
-
-
  
-
-
 

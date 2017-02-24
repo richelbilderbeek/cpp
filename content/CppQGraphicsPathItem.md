@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -92,11 +89,5 @@ examples](CppQtExample.md).
 
  
 
-
-
-
-
  
-
-
 

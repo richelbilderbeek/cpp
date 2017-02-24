@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -77,11 +74,5 @@ Simplified from the STL that ships with C++ Builder 6.0.
 
  
 
-
-
-
-
  
-
-
 

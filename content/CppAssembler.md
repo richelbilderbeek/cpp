@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ called from [C++](Cpp.md) using the [asm](CppAsm.md)
 
  
 
-
-
-
-
  
-
-
 

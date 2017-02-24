@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -30,11 +27,5 @@ types](CppDataType.md), for example an [int](CppInt.md) to a char\*.
 
  
 
-
-
-
-
  
-
-
 

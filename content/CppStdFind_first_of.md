@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ to std::find, except that it finds a value from a collection of values.
 
  
 
-
-
-
-
  
-
-
 

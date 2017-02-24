@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -73,11 +70,5 @@ error. It also saves me many questions from students.
 
  
 
-
-
-
-
  
-
-
 

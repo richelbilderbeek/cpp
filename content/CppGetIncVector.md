@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -129,11 +126,5 @@ Using a custom [functor](CppFunctor.md)
 
  
 
-
-
-
-
  
-
-
 

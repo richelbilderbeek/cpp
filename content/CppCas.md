@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -54,11 +51,5 @@ Only FOSS. This list is incomplete and will remain incomplete.
 
  
 
-
-
-
-
  
-
-
 

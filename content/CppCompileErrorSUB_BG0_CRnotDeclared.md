@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -102,11 +99,5 @@ Due to new version architecture, add the following line to the
 
  
 
-
-
-
-
  
-
-
 

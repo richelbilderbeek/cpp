@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -76,11 +73,5 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
  
 
-
-
-
-
  
-
-
 

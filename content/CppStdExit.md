@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ code [returned](CppReturn.md) by the program.
 
  
 
-
-
-
-
  
-
-
 

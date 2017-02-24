@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -188,11 +185,5 @@ to use [globals](CppGlobal.md) \[1-4\].
 
  
 
-
-
-
-
  
-
-
 

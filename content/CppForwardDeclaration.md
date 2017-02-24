@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -122,11 +119,5 @@ much [forward declarations](CppForwardDeclaration.md) as possible.
 
  
 
-
-
-
-
  
-
-
 

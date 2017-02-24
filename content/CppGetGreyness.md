@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -46,11 +43,5 @@ To set pixels' their greynesses, use [SetGreyness](CppSetGreyness.md).
 
  
 
-
-
-
-
  
-
-
 

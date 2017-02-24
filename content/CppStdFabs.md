@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -62,11 +59,5 @@ of a [double](CppDouble.md).
 
  
 
-
-
-
-
  
-
-
 

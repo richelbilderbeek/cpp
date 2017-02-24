@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -46,11 +43,5 @@ might want to [flush](CppFlush.md), [std::clog](CppClog.md) and
 
  
 
-
-
-
-
  
-
-
 

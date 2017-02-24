@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -58,11 +55,5 @@ A [definition](CppDefinition.md) of [std::accumulate](CppAccumulate.md)
 
  
 
-
-
-
-
  
-
-
 

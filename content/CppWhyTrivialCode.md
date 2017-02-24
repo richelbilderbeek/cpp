@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ quality standards I know of (see my [references](CppReferences.md))
 
  
 
-
-
-
-
  
-
-
 

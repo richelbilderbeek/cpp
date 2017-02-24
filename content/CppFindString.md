@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ Find a std::string in a std::string.
 
  
 
-
-
-
-
  
-
-
 

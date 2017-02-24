@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ work on, but does not manage the [deletion](CppDelete.md) of it.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ that it copies identical adjacent values once.
 
  
 
-
-
-
-
  
-
-
 

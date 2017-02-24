@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ To get pixels' their greynesses, use [GetGreyness](CppGetGreyness.md).
 
  
 
-
-
-
-
  
-
-
 

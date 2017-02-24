@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ values. To get the lowest of two values, use [std::min](CppMin.md).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -159,11 +156,5 @@ Operating system: [Ubuntu](http://www.ubuntu.com)
 
  
 
-
-
-
-
  
-
-
 

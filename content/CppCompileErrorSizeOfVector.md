@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -126,11 +123,5 @@ Remove the '[void](CppVoid.md)' [keyword](CppKeyword.md):
 
  
 
-
-
-
-
  
-
-
 

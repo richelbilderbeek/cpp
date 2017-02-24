@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ The [Boost.Ref](CppBoostRef.md) is a [Boost](CppBoost.md)
 
  
 
-
-
-
-
  
-
-
 

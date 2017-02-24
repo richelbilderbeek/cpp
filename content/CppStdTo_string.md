@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,14 +35,7 @@ or [integer](CppInt.md) to [std::string](CppString.md).
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

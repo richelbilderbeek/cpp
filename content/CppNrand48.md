@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -109,11 +106,5 @@ Technical facts about source code above
 
  
 
-
-
-
-
  
-
-
 

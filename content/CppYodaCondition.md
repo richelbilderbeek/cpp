@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ A [Yoda condition](CppYodaCondition.md) \[1\] is a type of
 
  
 
-
-
-
-
  
-
-
 

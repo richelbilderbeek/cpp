@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -60,11 +57,5 @@ The value of [TEMPLATE](CppQmakeTemplate.md) determines the kind of
 
  
 
-
-
-
-
  
-
-
 

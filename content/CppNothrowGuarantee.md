@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -58,11 +55,5 @@ it [noexcept](CppNoexcept.md) \[1\].
 
  
 
-
-
-
-
  
-
-
 

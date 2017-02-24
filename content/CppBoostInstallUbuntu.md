@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -34,11 +31,5 @@ installed from the Ubuntu Software Center.
 
  
 
-
-
-
-
  
-
-
 

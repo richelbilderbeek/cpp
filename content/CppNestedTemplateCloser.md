@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -103,11 +100,5 @@ supplied with the [Qt Creator](CppQtCreator.md) 2.0.0
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -99,11 +96,5 @@ The code below shows the [function](CppFunction.md)
 
  
 
-
-
-
-
  
-
-
 

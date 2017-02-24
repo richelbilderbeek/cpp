@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ snippet](CppCodeSnippets.md) to perform a selection sort.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -61,11 +58,5 @@ however. Consider never using [register](CppRegister.md) \[1,2\].
 
  
 
-
-
-
-
  
-
-
 

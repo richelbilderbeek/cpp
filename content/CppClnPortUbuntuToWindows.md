@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ Cygwin (under Windows) to Windows](CppClnPortCygwinToWindows.md).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ the [keyword](CppKeyword.md) [new](CppNew.md) (incomplete list):
 
  
 
-
-
-
-
  
-
-
 

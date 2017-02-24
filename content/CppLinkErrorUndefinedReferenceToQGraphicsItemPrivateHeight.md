@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -141,11 +138,5 @@ file](CppQtProjectFile.md):
 
  
 
-
-
-
-
  
-
-
 

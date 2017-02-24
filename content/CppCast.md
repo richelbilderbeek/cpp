@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -106,11 +103,5 @@ pointers](CppSmartPointer.md):
 
  
 
-
-
-
-
  
-
-
 

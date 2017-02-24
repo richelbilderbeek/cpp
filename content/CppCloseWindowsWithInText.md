@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ minimize a window with a certain substring within its text.
 
  
 
-
-
-
-
  
-
-
 

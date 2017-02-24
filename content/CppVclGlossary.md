@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -174,11 +171,5 @@ glossary](CppGlossary.md).
 
  
 
-
-
-
-
  
-
-
 

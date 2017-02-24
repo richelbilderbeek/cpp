@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ is [std::minus](CppMinus.md)).
 
  
 
-
-
-
-
  
-
-
 

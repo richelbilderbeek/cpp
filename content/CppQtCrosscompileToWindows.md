@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -180,11 +177,5 @@ Instead of [cross compiling](CppCrossCompile.md), code can also be
 
  
 
-
-
-
-
  
-
-
 

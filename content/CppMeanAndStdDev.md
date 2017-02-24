@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ and standard deviation of a [std::vector](CppVector.md).
 
  
 
-
-
-
-
  
-
-
 

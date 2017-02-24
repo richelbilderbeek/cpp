@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -118,11 +115,5 @@ to [emulate](CppEmulate.md) a UNIX environment.
 
  
 
-
-
-
-
  
-
-
 

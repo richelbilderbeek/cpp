@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -107,11 +104,5 @@ Example: [GreaterThan](CppFunctorGreaterThan.md)
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ Builder](CppBuilder.md)'s [Code Templates](CppCodeTemplate.md).
 
  
 
-
-
-
-
  
-
-
 

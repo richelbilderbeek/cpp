@@ -1,9 +1,5 @@
 &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 
-
-
-
-
  
 
  
@@ -99,10 +95,6 @@ Technical facts
 
  
 
-
-
-
-
 =======
 
 Redirection...
@@ -110,6 +102,4 @@ Redirection...
 &gt;&gt;&gt;&gt;&gt;&gt;&gt; b1c7b13f1d94b500f745df0d38c617a3f35f743b
 
  
-
-
 

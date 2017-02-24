@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -89,11 +86,5 @@ Types of [sorting](CppSort.md)
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ variable](CppMemberVariable.md).
 
  
 
-
-
-
-
  
-
-
 

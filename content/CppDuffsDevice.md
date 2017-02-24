@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ device](CppDuffsDevice.md) does.
 
  
 
-
-
-
-
  
-
-
 

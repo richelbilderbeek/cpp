@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -113,11 +110,5 @@ that a [function](CppFunction.md) may not [throw](CppThrow.md) an
 
  
 
-
-
-
-
  
-
-
 

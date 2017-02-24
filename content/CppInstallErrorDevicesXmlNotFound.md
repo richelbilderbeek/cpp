@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -73,11 +70,5 @@ screenshot of Carbide.C++ suggesting to help
 
  
 
-
-
-
-
  
-
-
 

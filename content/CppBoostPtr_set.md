@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ goes out of [scope](CppScope.md).
 
  
 
-
-
-
-
  
-
-
 

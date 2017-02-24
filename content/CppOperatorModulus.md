@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -58,11 +55,5 @@ The [STL](CppStl.md) [functor](CppFunctor.md) encapsulating
 
  
 
-
-
-
-
  
-
-
 

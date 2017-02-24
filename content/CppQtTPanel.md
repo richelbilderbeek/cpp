@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ The answer is: a [QWidget](CppQWidget.md).
 
  
 
-
-
-
-
  
-
-
 

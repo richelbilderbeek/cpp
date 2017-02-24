@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -33,11 +30,5 @@ Symbian](CppHelloWorldQtCreatorUbuntuSymbian.md)).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ use [the ColorToRgb function](CppColorToRgb.md).
 
  
 
-
-
-
-
  
-
-
 

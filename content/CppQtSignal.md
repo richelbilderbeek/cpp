@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -79,11 +76,5 @@ MyClass'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.md).
 
  
 
-
-
-
-
  
-
-
 

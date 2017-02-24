@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -230,14 +227,7 @@ Prefer [inline](CppInline.md) over this type of
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

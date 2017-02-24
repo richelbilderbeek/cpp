@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ class](CppBaseClass.md). For example, a duck is a kind of animal.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ code. To [convert](CppConvert.md) a Gray code to an integer, use
 
  
 
-
-
-
-
  
-
-
 

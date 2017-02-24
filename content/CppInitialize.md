@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -123,11 +120,5 @@ first (called [list initialization](CppListInitialization.md)) \[1\].
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -386,11 +383,5 @@ glossary](CppBoostGlossary.md).
 
  
 
-
-
-
-
  
-
-
 

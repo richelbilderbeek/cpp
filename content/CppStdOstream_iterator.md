@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ Example: [CoutVector](CppCoutVector.md)
 
  
 
-
-
-
-
  
-
-
 

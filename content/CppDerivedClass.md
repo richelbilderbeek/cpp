@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,14 +41,7 @@ classes](CppDerivedClass.md) (of Animal).
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

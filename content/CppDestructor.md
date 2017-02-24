@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -163,11 +160,5 @@ when a [class](CppClass.md) is created is called the
 
  
 
-
-
-
-
  
-
-
 

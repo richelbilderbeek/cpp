@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -56,11 +53,5 @@ Always provide the [basic guarantee](CppBasicGuarantee.md) \[1\].
 
  
 
-
-
-
-
  
-
-
 

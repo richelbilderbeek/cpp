@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ the [namespace](CppNamespace.md)'s name in front, followed by the
 
  
 
-
-
-
-
  
-
-
 

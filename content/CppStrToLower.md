@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -88,11 +85,5 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
 
  
 
-
-
-
-
  
-
-
 

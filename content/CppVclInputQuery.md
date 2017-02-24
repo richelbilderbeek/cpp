@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -47,11 +44,5 @@ If the user clicks Cancel or Close, the
 
  
 
-
-
-
-
  
-
-
 

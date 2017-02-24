@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -114,11 +111,5 @@ The compiler is right: seq is an unused variable. I changed the code to
 
  
 
-
-
-
-
  
-
-
 

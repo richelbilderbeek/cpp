@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -57,11 +54,5 @@ the solution best readable for beginners below:
 
  
 
-
-
-
-
  
-
-
 

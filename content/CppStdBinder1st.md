@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ template [std::bind](CppBind.md) provides a better solution \[1\].
 
  
 
-
-
-
-
  
-
-
 

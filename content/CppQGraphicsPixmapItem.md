@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -168,11 +165,5 @@ examples](CppQtExample.md) on this site.
 
  
 
-
-
-
-
  
-
-
 

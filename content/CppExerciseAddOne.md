@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -84,11 +81,5 @@ Heaven](http://www.programmersheaven.com/article/100054-C%2b%2b+exercise%3a+add+
 
  
 
-
-
-
-
  
-
-
 

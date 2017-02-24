@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ Symbian screen size is 800 x 480 pixels.
 
  
 
-
-
-
-
  
-
-
 

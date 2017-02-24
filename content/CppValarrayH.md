@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ of [std::valarray](CppValarray.md).
 
  
 
-
-
-
-
  
-
-
 

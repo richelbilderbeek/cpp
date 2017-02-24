@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ The technique to improve [run time](CppRunTime.md) speed is called
 
  
 
-
-
-
-
  
-
-
 

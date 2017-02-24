@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -230,11 +227,5 @@ me?'](http://www.parashift.com/c++-faq-lite/how-to-post.html#faq-5.2).
 
  
 
-
-
-
-
  
-
-
 

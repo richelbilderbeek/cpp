@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -188,11 +185,5 @@ the [instance](CppInstance.md) is [deleted](CppDelete.md)m before the
 
  
 
-
-
-
-
  
-
-
 

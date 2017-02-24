@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -404,11 +401,5 @@ Again, use [assert](CppAssert.md) to document internal assumptions
 
  
 
-
-
-
-
  
-
-
 

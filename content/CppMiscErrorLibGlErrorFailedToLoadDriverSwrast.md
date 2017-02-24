@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -57,11 +54,5 @@ sudo apt-get install nvidia-340 --fix-missing
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -46,11 +43,5 @@ Prefer using the [C++](Cpp.md) file [stream](CppStream.md)
 
  
 
-
-
-
-
  
-
-
 

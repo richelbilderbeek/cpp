@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ A [profiler](CppProfiler.md) is a [tool](Tools.md) to do
 
  
 
-
-
-
-
  
-
-
 

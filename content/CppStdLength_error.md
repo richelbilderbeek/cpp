@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ when a too big [std::string](CppString.md) is created.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ Use TStringList's [member function](CppMemberFunction.md) LoadFromFile.
 
  
 
-
-
-
-
  
-
-
 

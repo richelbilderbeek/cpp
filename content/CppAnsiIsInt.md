@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ snippet](CppCodeSnippets.md) to see if an
 
  
 
-
-
-
-
  
-
-
 

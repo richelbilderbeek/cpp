@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ to render a [QTableWidget](CppQTableWidget.md) read-only.
 
  
 
-
-
-
-
  
-
-
 

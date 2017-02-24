@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -54,11 +51,5 @@ Running other [operating systems](CppOs.md) under [Ubuntu](CppUbuntu.md)
 
  
 
-
-
-
-
  
-
-
 

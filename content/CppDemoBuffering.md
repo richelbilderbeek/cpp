@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ Program to demonstrate the difference between single buffering and
 
  
 
-
-
-
-
  
-
-
 

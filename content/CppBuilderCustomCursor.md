@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ Put the code below in your Forms's constructor.
 
  
 
-
-
-
-
  
-
-
 

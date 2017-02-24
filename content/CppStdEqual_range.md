@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ In the example below, the range is obtained for the values matching '1':
 
  
 
-
-
-
-
  
-
-
 

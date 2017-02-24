@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -149,11 +146,5 @@ article](http://www.programmersheaven.com/article/100053-C%2b%2b+exercise%3a+don
 
  
 
-
-
-
-
  
-
-
 

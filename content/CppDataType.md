@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -145,11 +142,5 @@ This list will never be complete and is just a colorful collection of
 
  
 
-
-
-
-
  
-
-
 

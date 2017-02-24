@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -103,11 +100,5 @@ different [operators](CppOperator.md) and some of temporary copies.
 
  
 
-
-
-
-
  
-
-
 

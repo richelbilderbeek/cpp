@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ is an increase in [compile](CppCompiler.md) speed.
 
  
 
-
-
-
-
  
-
-
 

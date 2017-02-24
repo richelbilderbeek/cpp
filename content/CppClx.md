@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ with [C++ Builder](CppBuilder.md).
 
  
 
-
-
-
-
  
-
-
 

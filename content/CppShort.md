@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -61,11 +58,5 @@ Avoid using [short](CppShort.md) in a [class](CppClass.md)
 
  
 
-
-
-
-
  
-
-
 

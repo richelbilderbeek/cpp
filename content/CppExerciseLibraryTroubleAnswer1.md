@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -234,11 +231,5 @@ please send me an [email](Email.png).
 
  
 
-
-
-
-
  
-
-
 

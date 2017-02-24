@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -253,11 +250,5 @@ only three lines at the same time, like [this](CppQt2dGraphics4.png).
 
  
 
-
-
-
-
  
-
-
 

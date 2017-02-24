@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -47,11 +44,5 @@ GitHub](https://github.com/richelbilderbeek/QwtExample4).
 
  
 
-
-
-
-
  
-
-
 

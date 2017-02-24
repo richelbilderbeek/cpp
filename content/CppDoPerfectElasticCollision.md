@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -65,11 +62,5 @@ you must already have [defined](CppDefinition.md) the
 
  
 
-
-
-
-
  
-
-
 

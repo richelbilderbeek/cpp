@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ determine that two plus three is greater than four:
 
  
 
-
-
-
-
  
-
-
 

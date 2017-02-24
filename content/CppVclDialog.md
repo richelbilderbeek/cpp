@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -56,11 +53,5 @@ These dialogs can be found in the [header file](CppHeaderFile.md)
 
  
 
-
-
-
-
  
-
-
 

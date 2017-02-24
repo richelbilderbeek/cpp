@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -69,11 +66,5 @@ Because [sizeof](CppSizeof.md) is a compile-time
 
  
 
-
-
-
-
  
-
-
 

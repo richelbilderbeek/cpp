@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -407,11 +404,5 @@ My personal conclusion has remained the same:
 
  
 
-
-
-
-
  
-
-
 

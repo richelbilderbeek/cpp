@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -166,11 +163,5 @@ An [example class](CppClassExample.md) is an example of a
 
  
 
-
-
-
-
  
-
-
 

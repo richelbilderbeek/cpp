@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -75,11 +72,5 @@ product of the elements of a [std::vector](CppVector.md).
 
  
 
-
-
-
-
  
-
-
 

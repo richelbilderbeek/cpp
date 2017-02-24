@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -48,11 +45,5 @@ A [Winnebago class](CppWinnebagoClass.md) is intended as a do-it-all
 
  
 
-
-
-
-
  
-
-
 

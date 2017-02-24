@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -128,11 +125,5 @@ Try [\#including](CppInclude.md) the default header file:
 
  
 
-
-
-
-
  
-
-
 

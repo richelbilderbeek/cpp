@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ file](CppHeaderFile.md) [cmath.h](CppCmathH.md) must be
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ Example to do 2D graphics like [this screenshot](CppQtPixmap.png).
 
  
 
-
-
-
-
  
-
-
 

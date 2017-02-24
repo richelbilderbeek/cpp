@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -81,11 +78,5 @@ for [compile-time](CppCompileTime.md) rational arithmetic.
 
  
 
-
-
-
-
  
-
-
 

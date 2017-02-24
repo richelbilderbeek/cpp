@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ the path to [qmake](CppQmake.md) was still to its Ubuntu location. So,
 
  
 
-
-
-
-
  
-
-
 

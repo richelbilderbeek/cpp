@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -81,11 +78,5 @@ to enable [trigraphs](CppTrigraph.md):
 
  
 
-
-
-
-
  
-
-
 

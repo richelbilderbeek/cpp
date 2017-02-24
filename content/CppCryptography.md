@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ them in my [tools](Tools.md):
 
  
 
-
-
-
-
  
-
-
 

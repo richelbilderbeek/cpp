@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -56,11 +53,5 @@ need for [templatability](CppTemplate.md), one might want to use
 
  
 
-
-
-
-
  
-
-
 

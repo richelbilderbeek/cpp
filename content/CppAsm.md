@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ The code below makes your computer beep:
 
  
 
-
-
-
-
  
-
-
 

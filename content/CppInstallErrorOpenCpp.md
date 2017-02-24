@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -71,11 +68,5 @@ Perhaps [Open C/C++](CppOpenCpp.md) is already installed along with the
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -136,11 +133,5 @@ After removing the file main.o the following compile output (re)appears:
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ an [operator](CppOperator.md) to perform simple
 
  
 
-
-
-
-
  
-
-
 

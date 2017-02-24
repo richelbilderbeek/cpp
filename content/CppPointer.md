@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -151,11 +148,5 @@ results in an [access violation](CppAccessViolation.md).
 
  
 
-
-
-
-
  
-
-
 

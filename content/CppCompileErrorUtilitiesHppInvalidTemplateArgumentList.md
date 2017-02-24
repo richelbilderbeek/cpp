@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -103,11 +100,5 @@ This compiler is not supported by Boost. Change to another compiler.
 
  
 
-
-
-
-
  
-
-
 

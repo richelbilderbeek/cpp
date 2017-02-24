@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -33,11 +30,5 @@ toolkit used in [Android development](CppAndroidDevelopment.md) called
 
  
 
-
-
-
-
  
-
-
 

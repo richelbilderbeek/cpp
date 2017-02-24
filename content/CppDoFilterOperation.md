@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ demonstrates the use of [DoFilterOperation](CppDoFilterOperation.md).
 
  
 
-
-
-
-
  
-
-
 

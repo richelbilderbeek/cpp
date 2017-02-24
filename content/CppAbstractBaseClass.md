@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -83,11 +80,5 @@ as pure [virtual](CppVirtual.md).' \[2\]
 
  
 
-
-
-
-
  
-
-
 

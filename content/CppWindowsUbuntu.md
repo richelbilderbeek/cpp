@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ There are multiple ways to run [Windows](CppWindows.md) under
 
  
 
-
-
-
-
  
-
-
 

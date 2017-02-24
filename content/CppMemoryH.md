@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ of [std::auto\_ptr](CppAuto_ptr.md).
 
  
 
-
-
-
-
  
-
-
 

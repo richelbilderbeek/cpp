@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -130,11 +127,5 @@ Comparison of [std::unique\_ptr](CppStdUnique_ptr.md) and [boost::scoped\_ptr](C
 
  
 
-
-
-
-
  
-
-
 

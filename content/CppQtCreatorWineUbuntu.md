@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -47,11 +44,5 @@ runs under [Wine](CppWine.md) under the [Ubuntu](CppUbuntu.md)
 
  
 
-
-
-
-
  
-
-
 

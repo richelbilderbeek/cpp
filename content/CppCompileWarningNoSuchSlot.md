@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -171,11 +168,5 @@ a custom QDialog with slot](CppQtExample12.md).
 
  
 
-
-
-
-
  
-
-
 

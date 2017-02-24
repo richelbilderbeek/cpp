@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ an ASCII art gradient.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -55,11 +52,5 @@ function relies heavily on the [GetPixel](CppGetPixel.md),
 
  
 
-
-
-
-
  
-
-
 

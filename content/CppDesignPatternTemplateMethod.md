@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -61,11 +58,5 @@ Design Pattern](CppDesignPatternTemplateMethod.md) instead \[2\].
 
  
 
-
-
-
-
  
-
-
 

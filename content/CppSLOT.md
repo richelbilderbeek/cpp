@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ basically converts a [slot](CppSlot.md) to a string.
 
  
 
-
-
-
-
  
-
-
 

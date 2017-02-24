@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -43,11 +40,5 @@ and [FileToVector](CppFileToVector.md) functions.
 
  
 
-
-
-
-
  
-
-
 

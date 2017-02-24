@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -157,11 +154,5 @@ type](CppDataType.md) and the [identifier](CppIdentifier.md) 'x':
 
  
 
-
-
-
-
  
-
-
 

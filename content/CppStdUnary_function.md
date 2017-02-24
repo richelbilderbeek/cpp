@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -114,11 +111,5 @@ Simplified from the GNU ISO C++ Library, version 4.7.2:
 
  
 
-
-
-
-
  
-
-
 

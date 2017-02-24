@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -85,11 +82,5 @@ The [G++](CppGpp.md) [compiler](CppCompiler.md) emits the following
 
  
 
-
-
-
-
  
-
-
 

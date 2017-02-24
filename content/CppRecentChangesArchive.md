@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -3508,11 +3505,5 @@ Great stuff for historicians!
 
  
 
-
-
-
-
  
-
-
 

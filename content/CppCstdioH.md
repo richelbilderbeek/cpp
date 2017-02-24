@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -87,11 +84,5 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
 
  
 
-
-
-
-
  
-
-
 

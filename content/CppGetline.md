@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ I/O](CppUserIo.md) [function](CppFunction.md) to read a line of input.
 
  
 
-
-
-
-
  
-
-
 

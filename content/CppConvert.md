@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -143,11 +140,5 @@ type](CppDataType.md) to another one.
 
  
 
-
-
-
-
  
-
-
 

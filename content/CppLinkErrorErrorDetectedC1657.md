@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -84,14 +81,7 @@ Close All, then reload project.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

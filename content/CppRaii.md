@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -77,11 +74,5 @@ to '[RAII](CppRaii.md)') is a technique.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -70,14 +67,7 @@ function](CppConstMemberFunction.md). If the last input must be stored
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

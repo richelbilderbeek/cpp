@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -98,11 +95,5 @@ snippets](CppCodeSnippets.md) to paint an image to a single color fast.
 
  
 
-
-
-
-
  
-
-
 

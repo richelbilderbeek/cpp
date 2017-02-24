@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ This page describes how well [Wt](CppWt.md) mixes with other
 
  
 
-
-
-
-
  
-
-
 

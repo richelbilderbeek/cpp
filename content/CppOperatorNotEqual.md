@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -91,11 +88,5 @@ determine that three is not equal to four:
 
  
 
-
-
-
-
  
-
-
 

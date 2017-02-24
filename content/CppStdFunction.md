@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ general, including [member functions](CppMemberFunction.md).
 
  
 
-
-
-
-
  
-
-
 

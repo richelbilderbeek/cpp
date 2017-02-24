@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -47,11 +44,5 @@ that one plus two is less than four:
 
  
 
-
-
-
-
  
-
-
 

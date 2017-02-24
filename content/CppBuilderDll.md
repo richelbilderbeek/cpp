@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,14 +32,7 @@ Builder](CppBuilder.md), you will have to do the following procedures
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

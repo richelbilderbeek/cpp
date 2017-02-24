@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -81,11 +78,5 @@ Prefer the [=](CppOperatorAssign.md) [syntax](CppSyntax.md) for the
 
  
 
-
-
-
-
  
-
-
 

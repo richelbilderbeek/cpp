@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ Heaven](http://www.programmersheaven.com/article/104784-C%2b%2b+exercise%3a+corr
 
  
 
-
-
-
-
  
-
-
 

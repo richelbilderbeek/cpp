@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -134,11 +131,5 @@ In the code below, the [function](CppFunction.md) MagicFunction and the
 
  
 
-
-
-
-
  
-
-
 

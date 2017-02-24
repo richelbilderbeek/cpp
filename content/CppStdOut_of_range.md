@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ function](CppMemberFunction.md) (from, for example, a
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -51,11 +48,5 @@ file](CppHeaderFile.md) with I/O-[stream](CppStream.md) manipulators.
 
  
 
-
-
-
-
  
-
-
 

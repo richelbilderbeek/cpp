@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ Prefer to use the [C++](Cpp.md) [keyword](CppKeyword.md)
 
  
 
-
-
-
-
  
-
-
 

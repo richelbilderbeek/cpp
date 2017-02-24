@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ Creator](CppQtCreator.md) project name, do the following:
 
  
 
-
-
-
-
  
-
-
 

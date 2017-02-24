@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -92,11 +89,5 @@ left menu bar. The 'Compile output' is shown, probably with the text
 
  
 
-
-
-
-
  
-
-
 

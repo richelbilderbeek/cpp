@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -272,11 +269,5 @@ See [std::array](CppStdArray.md).
 
  
 
-
-
-
-
  
-
-
 

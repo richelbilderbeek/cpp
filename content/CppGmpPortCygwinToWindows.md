@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -46,11 +43,5 @@ With the Qt project file below, the error [Undefined reference to
 
  
 
-
-
-
-
  
-
-
 

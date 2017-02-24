@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ of a [std::string](CppString.md).
 
  
 
-
-
-
-
  
-
-
 

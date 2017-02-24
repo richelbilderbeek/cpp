@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -732,11 +729,5 @@ used, on the platforms indicated by the [pictograms](CppPictograms.md).
 
  
 
-
-
-
-
  
-
-
 

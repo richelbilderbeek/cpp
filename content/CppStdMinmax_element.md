@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ from a [container](CppContainer.md) at the same time:
 
  
 
-
-
-
-
  
-
-
 

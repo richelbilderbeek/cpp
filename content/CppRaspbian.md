@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ possible on the [Raspberry Pi](Rpi.md).
 
  
 
-
-
-
-
  
-
-
 

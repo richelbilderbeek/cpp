@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -116,11 +113,5 @@ Creator](CppQtCreator.md) 2.0.0 [IDE](CppIde.md).
 
  
 
-
-
-
-
  
-
-
 

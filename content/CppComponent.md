@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ design](CppPhysicalDesign.md) \[1\].
 
  
 
-
-
-
-
  
-
-
 

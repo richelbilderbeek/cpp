@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ Use Canvas::TextHeight on a random string instead.
 
  
 
-
-
-
-
  
-
-
 

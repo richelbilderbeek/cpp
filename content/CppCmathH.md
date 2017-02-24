@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -55,11 +52,5 @@ List of functions in [cmath.h](CppCmathH.md) (incomplete)
 
  
 
-
-
-
-
  
-
-
 

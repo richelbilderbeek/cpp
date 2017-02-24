@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -46,11 +43,5 @@ classes](CppDerivedClass.md).
 
  
 
-
-
-
-
  
-
-
 

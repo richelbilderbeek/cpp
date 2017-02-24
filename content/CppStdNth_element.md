@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ The example below shows how to obtain the top-three lowest elements.
 
  
 
-
-
-
-
  
-
-
 

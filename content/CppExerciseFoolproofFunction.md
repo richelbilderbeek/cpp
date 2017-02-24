@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -80,11 +77,5 @@ article](http://www.programmersheaven.com/article/100012-C%2b%2b+exercise%3a+a+f
 
  
 
-
-
-
-
  
-
-
 

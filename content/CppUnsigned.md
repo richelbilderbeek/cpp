@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -137,11 +134,5 @@ a [data type](CppDataType.md) to hold only positive values.
 
  
 
-
-
-
-
  
-
-
 

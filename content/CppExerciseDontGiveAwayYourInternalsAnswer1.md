@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -261,11 +258,5 @@ the GetAnimals (or similar, as in your code) method after all.
 
  
 
-
-
-
-
  
-
-
 

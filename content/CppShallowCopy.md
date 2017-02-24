@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -51,11 +48,5 @@ The code below shows a [shallow copy](CppShallowCopy.md):
 
  
 
-
-
-
-
  
-
-
 

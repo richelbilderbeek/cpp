@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -60,11 +57,5 @@ Heaven](http://www.programmersheaven.com/article/100001-C%2b%2b+exercise%3a+a+co
 
  
 
-
-
-
-
  
-
-
 

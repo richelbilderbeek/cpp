@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -216,11 +213,5 @@ design](CppClassDesign.md). I would suggest the following
 
  
 
-
-
-
-
  
-
-
 

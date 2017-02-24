@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ Some of my activity in cleaning up messy pages can be seen at the
 
  
 
-
-
-
-
  
-
-
 

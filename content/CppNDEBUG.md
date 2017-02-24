@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ The code below has a failing [assert](CppAssert.md), but due to
 
  
 
-
-
-
-
  
-
-
 

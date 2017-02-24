@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -240,14 +237,7 @@ Forgetting to add an implementation file to you project results in a
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

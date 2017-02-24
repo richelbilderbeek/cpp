@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -54,11 +51,5 @@ set the number of digits after the comma to a fixed number.
 
  
 
-
-
-
-
  
-
-
 

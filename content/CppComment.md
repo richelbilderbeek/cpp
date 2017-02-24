@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -78,11 +75,5 @@ State intent in [comments](CppComment.md) \[5\].
 
  
 
-
-
-
-
  
-
-
 

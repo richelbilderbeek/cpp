@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -89,11 +86,5 @@ time](CppCompileTime.md). In [C++98](Cpp98.md),
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -86,11 +83,5 @@ Answer using [Boost](CppBoost.md)
 
  
 
-
-
-
-
  
-
-
 

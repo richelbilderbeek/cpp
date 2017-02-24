@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -121,11 +118,5 @@ Change the linker to '/opt/devkitpro/devkitARM/bin/arm-eabi-ld'
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,11 +49,5 @@ snippet](CppCodeSnippets.md) to get the maximal value of a
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ allow a [template function](CppTemplateFunction.md)
 
  
 
-
-
-
-
  
-
-
 

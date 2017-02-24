@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -51,11 +48,5 @@ List of books co-authored by [Barbara Moo](CppBarbaraMoo.md)
 
  
 
-
-
-
-
  
-
-
 

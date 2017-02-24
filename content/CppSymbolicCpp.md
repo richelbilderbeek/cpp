@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ GitHub](https://github.com/richelbilderbeek/ProjectRichelBilderbeek).
 
  
 
-
-
-
-
  
-
-
 

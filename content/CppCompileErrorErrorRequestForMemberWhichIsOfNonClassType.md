@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -143,11 +140,5 @@ named w that takes nothing and [returns](CppReturn.md) a Widget'.
 
  
 
-
-
-
-
  
-
-
 

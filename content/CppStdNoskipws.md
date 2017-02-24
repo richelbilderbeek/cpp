@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ whitespace is skipped for input [streams](CppStream.md).
 
  
 
-
-
-
-
  
-
-
 

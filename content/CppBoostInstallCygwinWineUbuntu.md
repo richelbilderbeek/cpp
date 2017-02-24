@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ under Wine under Ubuntu](CppCygwinUnderWineUnderUbuntu.md) fails.
 
  
 
-
-
-
-
  
-
-
 

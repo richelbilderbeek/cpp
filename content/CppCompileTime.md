@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -174,11 +171,5 @@ From [type\_traits.h](CppType_traitsH.md):
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -180,11 +177,5 @@ programmer expects a getter to be const:
 
  
 
-
-
-
-
  
-
-
 

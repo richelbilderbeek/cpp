@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ GitHub](https://github.com/richelbilderbeek/BoostGraphTutorial).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -111,11 +108,5 @@ Remove [auto](CppAuto.md). Never use [auto](CppAuto.md) \[1\], until
 
  
 
-
-
-
-
  
-
-
 

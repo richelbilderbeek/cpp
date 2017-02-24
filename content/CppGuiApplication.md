@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -86,11 +83,5 @@ Example [Qt Creator GUI application](CppGuiApplication.md) [project file](CppQtP
 
  
 
-
-
-
-
  
-
-
 

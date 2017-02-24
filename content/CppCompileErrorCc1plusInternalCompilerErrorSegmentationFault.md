@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -219,11 +216,5 @@ This results in the following complete project file:
 
  
 
-
-
-
-
  
-
-
 

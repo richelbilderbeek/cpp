@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -119,11 +116,5 @@ unitialized [pointer](CppPointer.md).
 
  
 
-
-
-
-
  
-
-
 

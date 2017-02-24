@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -135,11 +132,5 @@ source code and omit code examples on their web sites.
 
  
 
-
-
-
-
  
-
-
 

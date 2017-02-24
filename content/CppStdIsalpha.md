@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,14 +37,7 @@ if the given character is in the locale's alphabet.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

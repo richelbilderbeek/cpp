@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -383,11 +380,5 @@ Heaven](http://www.programmersheaven.com/article/105573-Comparison+of+C%2b%2b+Bu
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -58,11 +55,5 @@ sets of product terms. For example: for sets n and d, where n =
 
  
 
-
-
-
-
  
-
-
 

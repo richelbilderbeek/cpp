@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ obtain that picture is shown below the function.
 
  
 
-
-
-
-
  
-
-
 

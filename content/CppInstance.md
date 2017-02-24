@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -85,11 +82,5 @@ In the code below an [int](CppInt.md) called 'x' is
 
  
 
-
-
-
-
  
-
-
 

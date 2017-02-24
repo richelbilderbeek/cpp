@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ supplied with [Qt Creator](CppQtCreator.md) 1.3.1.
 
  
 
-
-
-
-
  
-
-
 

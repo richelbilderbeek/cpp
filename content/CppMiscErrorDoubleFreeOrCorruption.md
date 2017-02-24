@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -318,11 +315,5 @@ m\_layout is managed by [boost::shared\_ptr](CppShared_ptr.md)
 
  
 
-
-
-
-
  
-
-
 

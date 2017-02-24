@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -251,11 +248,5 @@ super-dialog, so this super-dialog can be called by other applications.
 
  
 
-
-
-
-
  
-
-
 

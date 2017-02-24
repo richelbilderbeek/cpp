@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,14 +32,7 @@ Checks if a WideString can be converted to an integer.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

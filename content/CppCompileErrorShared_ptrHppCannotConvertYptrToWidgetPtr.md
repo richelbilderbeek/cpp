@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -104,11 +101,5 @@ Initialize the [boost::shared\_ptr](CppShared_ptr.md).
 
  
 
-
-
-
-
  
-
-
 

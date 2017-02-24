@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -90,11 +87,5 @@ behaves. Often, this is about [run time](CppRunTime.md) speed.
 
  
 
-
-
-
-
  
-
-
 

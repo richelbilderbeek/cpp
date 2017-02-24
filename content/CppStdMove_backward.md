@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -52,14 +49,7 @@ reverse, but the order is preserved.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

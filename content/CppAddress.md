@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ A [pointer](CppPointer.md) is a [data type](CppDataType.md) for
 
  
 
-
-
-
-
  
-
-
 

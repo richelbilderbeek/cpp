@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -129,11 +126,5 @@ Overflow](http://stackoverflow.com/questions/5545580/pil-libjpeg-so-8-cannot-ope
 
  
 
-
-
-
-
  
-
-
 

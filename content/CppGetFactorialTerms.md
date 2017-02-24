@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ division of large [factorials](CppFactorial.md).
 
  
 
-
-
-
-
  
-
-
 

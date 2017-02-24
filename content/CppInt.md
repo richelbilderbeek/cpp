@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -108,11 +105,5 @@ permits). The [data type](CppDataType.md) is called
 
  
 
-
-
-
-
  
-
-
 

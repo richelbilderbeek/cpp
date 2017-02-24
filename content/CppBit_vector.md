@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ Creator](CppQtCreator.md) 2.0, nor in the [Boost](CppBoost.md)
 
  
 
-
-
-
-
  
-
-
 

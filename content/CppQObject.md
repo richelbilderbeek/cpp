@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ classes](CppDerivedClass.md) that can [emit](CppEmit.md)
 
  
 
-
-
-
-
  
-
-
 

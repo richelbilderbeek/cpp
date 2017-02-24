@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -34,11 +31,5 @@ A [unit](CppUnit.md) consists out of two files:
 
  
 
-
-
-
-
  
-
-
 

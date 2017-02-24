@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -75,11 +72,5 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-
-
-
-
  
-
-
 

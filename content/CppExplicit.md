@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -107,11 +104,5 @@ Test (that is: they are different [data types](CppDataType.md)).
 
  
 
-
-
-
-
  
-
-
 

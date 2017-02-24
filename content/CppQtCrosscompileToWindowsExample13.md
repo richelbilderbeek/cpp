@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -190,11 +187,5 @@ Settings -&gt; Build Steps -&gt; qmake -&gt; Additional arguments' edit.
 
  
 
-
-
-
-
  
-
-
 

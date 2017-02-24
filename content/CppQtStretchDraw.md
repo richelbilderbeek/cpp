@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -213,11 +210,5 @@ To perform a smooth stretchdraw, like [this image
 
  
 
-
-
-
-
  
-
-
 

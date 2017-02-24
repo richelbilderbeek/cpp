@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,14 +42,7 @@ one can use the code below, which does wait for a key press.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

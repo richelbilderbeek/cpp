@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -143,11 +140,5 @@ List of [smart pointers](CppSmartPointer.md) (incomplete)
 
  
 
-
-
-
-
  
-
-
 

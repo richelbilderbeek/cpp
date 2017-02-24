@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ equivalent of the standard [data type](CppDataType.md)
 
  
 
-
-
-
-
  
-
-
 

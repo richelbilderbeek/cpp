@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -162,11 +159,5 @@ This project is made from command line, using the
 
  
 
-
-
-
-
  
-
-
 

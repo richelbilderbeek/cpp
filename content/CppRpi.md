@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -148,14 +145,7 @@ Solution: try connecting via LAN
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

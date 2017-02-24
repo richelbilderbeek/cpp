@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -54,11 +51,5 @@ I have written a [Boost.Graph tutorial](CppBoostGraphTutorial.md).
 
  
 
-
-
-
-
  
-
-
 

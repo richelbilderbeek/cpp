@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -181,11 +178,5 @@ Hypothesis: arm-eabi (version 4.5.0) cannot compile this Boost library?
 
  
 
-
-
-
-
  
-
-
 

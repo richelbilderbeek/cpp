@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ A functor that sees if a certain class has equal X and Y values.
 
  
 
-
-
-
-
  
-
-
 

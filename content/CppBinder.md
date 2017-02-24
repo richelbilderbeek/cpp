@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -125,14 +122,7 @@ Replacing a [for](CppFor.md) loop by an [algorithm](CppAlgorithm.md) using [std:
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

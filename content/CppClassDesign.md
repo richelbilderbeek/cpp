@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -332,11 +329,5 @@ Choosing a [class type](CppClassType.md)
 
  
 
-
-
-
-
  
-
-
 

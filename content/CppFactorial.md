@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -127,11 +124,5 @@ With compile-time checking using a template version of assert.
 
  
 
-
-
-
-
  
-
-
 

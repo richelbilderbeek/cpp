@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ A [polygon](CppPolygon.md) is a type of geometry.
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -47,11 +44,5 @@ Installing [Boost](CppBoost.md) depends on your operating system:
 
  
 
-
-
-
-
  
-
-
 

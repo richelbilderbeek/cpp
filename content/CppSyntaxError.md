@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -77,11 +74,5 @@ A [syntax error](CppSyntaxError.md) is ...
 
  
 
-
-
-
-
  
-
-
 

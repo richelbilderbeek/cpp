@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -148,11 +145,5 @@ There you will find the benchmark results in the Travis CI scripts.
 
  
 
-
-
-
-
  
-
-
 

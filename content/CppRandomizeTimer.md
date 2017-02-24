@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ QBasic command 'RANDOMIZE TIMER', which served the same purpose.
 
  
 
-
-
-
-
  
-
-
 

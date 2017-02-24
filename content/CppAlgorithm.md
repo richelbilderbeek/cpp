@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -309,11 +306,5 @@ The [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) names \[3\]:
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -112,11 +109,5 @@ Note that p1 and p2 have types as different as
 
  
 
-
-
-
-
  
-
-
 

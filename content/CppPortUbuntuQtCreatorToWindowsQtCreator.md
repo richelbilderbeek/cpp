@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -103,11 +100,5 @@ Test 2: a [Hello Boost](CppHelloBoost.md) program
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ Example [SDK](CppSdk.md)'s
 
  
 
-
-
-
-
  
-
-
 

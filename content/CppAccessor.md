@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -51,11 +48,5 @@ a [data member](CppDataMember.md).' \[1\]
 
  
 
-
-
-
-
  
-
-
 

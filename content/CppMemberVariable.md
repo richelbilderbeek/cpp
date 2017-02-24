@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -105,14 +102,7 @@ versus [global](CppGlobal.md) [variables](CppVariable.md).
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

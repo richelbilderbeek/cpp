@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -69,11 +66,5 @@ save a [container](CppContainer.md) to file, one element per line.
 
  
 
-
-
-
-
  
-
-
 

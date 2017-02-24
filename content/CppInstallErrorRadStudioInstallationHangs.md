@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -94,11 +91,5 @@ Just wait patiently or perform the installation overnight.
 
  
 
-
-
-
-
  
-
-
 

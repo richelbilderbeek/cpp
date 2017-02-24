@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -46,11 +43,5 @@ calling [GetDistancesPath](CppGetDistancesPath.md) only.
 
  
 
-
-
-
-
  
-
-
 

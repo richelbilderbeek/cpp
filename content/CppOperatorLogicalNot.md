@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -47,11 +44,5 @@ The example code below [asserts](CppAssert.md) that a
 
  
 
-
-
-
-
  
-
-
 

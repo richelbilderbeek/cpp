@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ level](CppAccessLevel.md) is [public](CppPublic.md).
 
  
 
-
-
-
-
  
-
-
 

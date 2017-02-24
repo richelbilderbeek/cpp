@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ file](CppHeaderFile.md) [algorithm.h](CppAlgorithmH.md).
 
  
 
-
-
-
-
  
-
-
 

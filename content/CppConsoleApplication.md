@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -63,11 +60,5 @@ create [console applications](CppConsoleApplication.md):
 
  
 
-
-
-
-
  
-
-
 

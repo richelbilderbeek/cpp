@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -62,11 +59,5 @@ except when breaking out of multiple [loops](CppLoop.md) \[1\].
 
  
 
-
-
-
-
  
-
-
 

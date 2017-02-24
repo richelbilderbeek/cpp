@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ The [header file](CppHeaderFile.md) 'windows.h' contains some
 
  
 
-
-
-
-
  
-
-
 

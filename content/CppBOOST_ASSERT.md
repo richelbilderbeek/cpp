@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ equivalent to [assert](CppAssert.md).
 
  
 
-
-
-
-
  
-
-
 

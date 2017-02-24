@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ I have not gotten the [Wt](CppWt.md) and [Qt](CppQt.md)
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -66,11 +63,5 @@ Replacing a [for](CppFor.md) loop by algorithms using [std::mem\_fun](CppMem_fun
 
  
 
-
-
-
-
  
-
-
 

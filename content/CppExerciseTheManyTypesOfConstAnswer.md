@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -167,11 +164,5 @@ Example of a [const member](CppConstMember.md)
 
  
 
-
-
-
-
  
-
-
 

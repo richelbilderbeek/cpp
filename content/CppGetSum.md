@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -147,11 +144,5 @@ Prefer [algorithms](CppAlgorithm.md) over loops \[1,2\].
 
  
 
-
-
-
-
  
-
-
 

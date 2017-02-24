@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -92,11 +89,5 @@ Remove the [const](CppConst.md) or [volatile](CppVolatile.md).
 
  
 
-
-
-
-
  
-
-
 

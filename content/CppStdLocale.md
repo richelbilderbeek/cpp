@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -130,11 +127,5 @@ represents a set of cultural preferences \[1\].
 
  
 
-
-
-
-
  
-
-
 

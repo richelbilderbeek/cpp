@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -62,11 +59,5 @@ With [std::signal](CppStdSignal.md) onAbort is set to handle this.
 
  
 
-
-
-
-
  
-
-
 

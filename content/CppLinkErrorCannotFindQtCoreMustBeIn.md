@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -202,11 +199,5 @@ libraries first! In this case, QtCore!
 
  
 
-
-
-
-
  
-
-
 

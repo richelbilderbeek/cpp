@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,14 +33,7 @@ snippet](CppVclCodeSnippets.md) to clear all series.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

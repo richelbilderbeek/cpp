@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -86,11 +83,5 @@ under [Ubuntu](CppUbuntu.md) for [Symbian](CppSymbian.md).
 
  
 
-
-
-
-
  
-
-
 

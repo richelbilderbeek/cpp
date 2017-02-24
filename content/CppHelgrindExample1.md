@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ GitHub](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp11_helgrind).
 
  
 
-
-
-
-
  
-
-
 

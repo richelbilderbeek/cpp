@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -85,11 +82,5 @@ a [std::shared\_ptr](CppStdShared_ptr.md).
 
  
 
-
-
-
-
  
-
-
 

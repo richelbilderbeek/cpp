@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -106,14 +103,7 @@ as [CanLexicalCast](CppCanLexicalCast.md) is more strict.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -78,11 +75,5 @@ threads using std::mutex](CppHelgrindExample2.md), where
 
  
 
-
-
-
-
  
-
-
 

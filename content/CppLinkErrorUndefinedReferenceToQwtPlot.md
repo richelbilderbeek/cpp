@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -144,11 +141,5 @@ file](CppQtProjectFile.md) to the following:
 
  
 
-
-
-
-
  
-
-
 

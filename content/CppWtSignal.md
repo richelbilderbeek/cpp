@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,14 +32,7 @@ The [Wt](CppWt.md) way of sending a [signal](CppSignal.md).
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

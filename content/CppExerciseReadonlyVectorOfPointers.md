@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -123,11 +120,5 @@ exercise](CppExerciseReadonlyVectorOfPointersAnswer.md)
 
  
 
-
-
-
-
  
-
-
 

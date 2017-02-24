@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ equivalent of [else](CppElse.md).
 
  
 
-
-
-
-
  
-
-
 

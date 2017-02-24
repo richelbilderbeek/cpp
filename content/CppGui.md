@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ Some [libraries](CppLibrary.md) for [GUI](CppGui.md) design are
 
  
 
-
-
-
-
  
-
-
 

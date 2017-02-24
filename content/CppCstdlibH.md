@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -75,11 +72,5 @@ Creator](CppQtCreator.md) 1.3.1):
 
  
 
-
-
-
-
  
-
-
 

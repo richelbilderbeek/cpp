@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -82,11 +79,5 @@ I have written the following [articles](CppArticle.md):
 
  
 
-
-
-
-
  
-
-
 

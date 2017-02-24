@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ See [libraries](CppLibrary.md) for an overview of [3D](Cpp3d.md)
 
  
 
-
-
-
-
  
-
-
 

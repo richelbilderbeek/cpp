@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -106,14 +103,7 @@ Found the keylist in file /usr/include/X11/keysymdef.h:
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

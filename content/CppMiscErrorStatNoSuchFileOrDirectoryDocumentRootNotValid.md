@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -246,11 +243,5 @@ arguments to the [Run Settings](CppQtCreatorRunSettings.png):
 
  
 
-
-
-
-
  
-
-
 

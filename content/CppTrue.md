@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ the other value being **[false](CppFalse.md)**.
 
  
 
-
-
-
-
  
-
-
 

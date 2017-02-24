@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -112,11 +109,5 @@ snippet](CppCodeSnippets.md).
 
  
 
-
-
-
-
  
-
-
 

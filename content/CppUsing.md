@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -118,11 +115,5 @@ Example: [using](CppUsing.md) to specify the [namespace(s)](CppNamespace.md) use
 
  
 
-
-
-
-
  
-
-
 

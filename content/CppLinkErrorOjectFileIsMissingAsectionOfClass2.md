@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -287,11 +284,5 @@ This solution is not recommended, because one should not use
 
  
 
-
-
-
-
  
-
-
 

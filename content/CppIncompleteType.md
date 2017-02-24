@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -59,11 +56,5 @@ that has been [declared](CppDeclaration.md), but not
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ snippet](CppVclCodeSnippets.md) to use a custom TForm shape.
 
  
 
-
-
-
-
  
-
-
 

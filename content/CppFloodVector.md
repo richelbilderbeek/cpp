@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -61,11 +58,5 @@ of [std::vector](CppVector.md).
 
  
 
-
-
-
-
  
-
-
 

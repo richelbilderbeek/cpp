@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ will fail, [boost::numeric\_cast](CppNumeric_cast.md)
 
  
 
-
-
-
-
  
-
-
 

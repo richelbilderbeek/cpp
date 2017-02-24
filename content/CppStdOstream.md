@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ an output [stream](CppStream.md). [std::cout](CppCout.md),
 
  
 
-
-
-
-
  
-
-
 

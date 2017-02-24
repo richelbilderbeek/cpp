@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ convert a [VCL](CppVcl.md) [TImage](CppTImage.md) to a 2D
 
  
 
-
-
-
-
  
-
-
 

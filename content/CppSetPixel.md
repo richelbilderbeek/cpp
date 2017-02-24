@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -39,11 +36,5 @@ There are two versions of [SetPixel](CppSetPixel.md):
 
  
 
-
-
-
-
  
-
-
 

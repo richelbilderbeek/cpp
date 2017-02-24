@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,11 +33,5 @@ To get the highest of two values, use [std::max](CppMax.md).
 
  
 
-
-
-
-
  
-
-
 

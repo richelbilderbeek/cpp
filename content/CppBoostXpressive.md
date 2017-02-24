@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -41,11 +38,5 @@ https://svn.boost.org/trac/boost/ticket/8843.
 
  
 
-
-
-
-
  
-
-
 

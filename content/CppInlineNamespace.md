@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -63,11 +60,5 @@ Use [inline namespace](CppInlineNamespace.md) to support versioning.
 
  
 
-
-
-
-
  
-
-
 

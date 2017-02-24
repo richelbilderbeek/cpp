@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -95,11 +92,5 @@ determine that one plus two is greater or equal equal to three:
 
  
 
-
-
-
-
  
-
-
 

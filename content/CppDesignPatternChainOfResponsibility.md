@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ request along the chain until an object handles it' \[1\]
 
  
 
-
-
-
-
  
-
-
 

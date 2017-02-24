@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ equalization](CppDoHistogramEqualization.md) on the grey image.
 
  
 
-
-
-
-
  
-
-
 

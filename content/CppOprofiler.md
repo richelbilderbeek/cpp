@@ -1,5 +1,4 @@
 
-
 [Go back to Richel Bilderbeek's tools page](Tools.md).
 
  
@@ -65,9 +64,5 @@ External links
 
 [Go back to Richel Bilderbeek's tools page](Tools.md).
 
-
-
  
-
-
 

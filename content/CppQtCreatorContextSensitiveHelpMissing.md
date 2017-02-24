@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -50,11 +47,5 @@ Help | (tab) Documentation | (button) Add', and add the qch files.
 
  
 
-
-
-
-
  
-
-
 

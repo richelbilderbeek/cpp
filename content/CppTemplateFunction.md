@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -53,11 +50,5 @@ A [template function](CppTemplateFunction.md) is a
 
  
 
-
-
-
-
  
-
-
 

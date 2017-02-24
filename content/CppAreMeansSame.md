@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -63,11 +60,5 @@ documentation](http://www.boost.org/doc/libs/1_42_0/libs/math/doc/sf_and_dist/ht
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -79,11 +76,5 @@ snippet](CppCodeSnippets.md) to draw a globe.
 
  
 
-
-
-
-
  
-
-
 

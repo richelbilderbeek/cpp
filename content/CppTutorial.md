@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -32,11 +29,5 @@ I have written the following [tutorials](CppTutorial.md):
 
  
 
-
-
-
-
  
-
-
 

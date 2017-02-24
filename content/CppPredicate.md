@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -104,11 +101,5 @@ file](CppHeaderFile.md) [functional](CppFunctionalH.md).
 
  
 
-
-
-
-
  
-
-
 

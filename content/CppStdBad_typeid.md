@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,14 +34,7 @@ the [header file](CppHeaderFile.md) [typeinfo](CppTypeinfoH.md).
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

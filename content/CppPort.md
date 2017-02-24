@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -125,11 +122,5 @@ Items \#2 and \#3 are described below.
 
  
 
-
-
-
-
  
-
-
 

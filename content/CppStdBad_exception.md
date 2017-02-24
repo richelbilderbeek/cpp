@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -35,11 +32,5 @@ file](CppHeaderFile.md) [exception](CppExceptionH.md).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -82,11 +79,5 @@ depending on [IDE](CppIde.md) and operating system:
 
  
 
-
-
-
-
  
-
-
 

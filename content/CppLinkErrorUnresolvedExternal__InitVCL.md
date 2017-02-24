@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -92,11 +89,5 @@ VCL' and 'Use CLX'. Check 'Console Application'. It does not matter if
 
  
 
-
-
-
-
  
-
-
 

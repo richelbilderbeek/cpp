@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -84,11 +81,5 @@ A [move constructor](CppMoveConstructor.md) is a type of
 
  
 
-
-
-
-
  
-
-
 

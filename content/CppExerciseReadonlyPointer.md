@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -121,11 +118,5 @@ exercise](CppExerciseReadonlyPointerAnswer.md)
 
  
 
-
-
-
-
  
-
-
 

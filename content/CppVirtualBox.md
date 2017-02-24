@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -63,11 +60,5 @@ system](CppOs.md) natively under another [operating system](CppOs.md).
 
  
 
-
-
-
-
  
-
-
 

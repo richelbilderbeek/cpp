@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -103,11 +100,5 @@ Probably, you should obtain a better [compiler](CppCompiler.md) :-(.
 
  
 
-
-
-
-
  
-
-
 

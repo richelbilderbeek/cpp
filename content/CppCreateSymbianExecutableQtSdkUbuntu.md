@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -31,11 +28,5 @@ This [Symbian FAQ](CppSymbianFaq.md) describes how to create a
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -44,11 +41,5 @@ graphic format, with the .svg file extension
 
  
 
-
-
-
-
  
-
-
 

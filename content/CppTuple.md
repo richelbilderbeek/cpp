@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -42,11 +39,5 @@ There are multiple [tuple](CppTuple.md) [classes](CppClass.md):
 
  
 
-
-
-
-
  
-
-
 

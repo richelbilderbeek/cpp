@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -49,11 +46,5 @@ This page contains [code snippets](CppCodeSnippets.md) to obtain the
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -90,11 +87,5 @@ if the upper 12 is changed, must the lower 12 be changed as well?
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,14 +33,7 @@ determine the length (in [characters](CppChar.md)) of a C-style string.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

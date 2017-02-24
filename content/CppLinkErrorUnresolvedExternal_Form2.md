@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -88,11 +85,5 @@ Add the Unit to the Project: do 'Project | Add to Project | Unit2.cpp'.
 
  
 
-
-
-
-
  
-
-
 

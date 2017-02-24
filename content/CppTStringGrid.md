@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -30,11 +27,5 @@ type](CppVclDataType.md) for an StringGrid.
 
  
 
-
-
-
-
  
-
-
 

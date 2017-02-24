@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -60,11 +57,5 @@ book's homepage](http://www.gotw.ca/publications/c++cs.md).
 
  
 
-
-
-
-
  
-
-
 

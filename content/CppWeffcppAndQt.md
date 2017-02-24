@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -209,14 +206,7 @@ main.cpp
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

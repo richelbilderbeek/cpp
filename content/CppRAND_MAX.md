@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -45,11 +42,5 @@ a random [integer](CppInt.md) value from zero to and including
 
  
 
-
-
-
-
  
-
-
 

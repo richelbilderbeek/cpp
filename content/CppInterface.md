@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -84,11 +81,5 @@ and [variables](CppVariable.md) of that [class](CppClass.md).
 
  
 
-
-
-
-
  
-
-
 

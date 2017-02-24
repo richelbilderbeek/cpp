@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -69,11 +66,5 @@ Note that background 0 is always in text mode.
 
  
 
-
-
-
-
  
-
-
 

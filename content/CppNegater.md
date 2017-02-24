@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -78,11 +75,5 @@ female) using the [std::not1](CppNot1.md) [negater](CppNegater.md).
 
  
 
-
-
-
-
  
-
-
 

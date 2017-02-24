@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -68,11 +65,5 @@ linkage](CppExternalLinkage.md) (including operator functions) in
 
  
 
-
-
-
-
  
-
-
 

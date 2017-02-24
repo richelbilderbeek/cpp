@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -109,11 +106,5 @@ objects are in [namespace](CppNamespace.md) [boost](CppBoost.md).
 
  
 
-
-
-
-
  
-
-
 

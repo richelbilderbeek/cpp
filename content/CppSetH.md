@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -33,11 +30,5 @@ file](CppHeaderFile.md), containing the
 
  
 
-
-
-
-
  
-
-
 

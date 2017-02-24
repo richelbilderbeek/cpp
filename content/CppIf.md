@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -97,11 +94,5 @@ A [Yoda condition](CppYodaCondition.md) is a type of
 
  
 
-
-
-
-
  
-
-
 

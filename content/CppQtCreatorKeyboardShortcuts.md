@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -36,14 +33,7 @@ contains my favorite [Qt Creator](CppQtCreator.md) keyboard shortcuts.
 
  
 
-
-
-
-
  
-
-
-
 
 This page has been created by the [tool](Tools.md)
 [CodeToHtml](ToolCodeToHtml.md)

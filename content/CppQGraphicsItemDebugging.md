@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -40,11 +37,5 @@ This [article](CppArticle.md) shows how to test your
 
  
 
-
-
-
-
  
-
-
 

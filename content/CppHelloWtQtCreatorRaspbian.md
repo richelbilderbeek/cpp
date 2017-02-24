@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -180,11 +177,5 @@ Wt application globally](CppWtDeployGlobal.md).
 
  
 
-
-
-
-
  
-
-
 

@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -91,11 +88,5 @@ Because TMsgDlgButtons is a set, you use it e.g. by:
 
  
 
-
-
-
-
  
-
-
 

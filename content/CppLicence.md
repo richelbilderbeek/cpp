@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -38,11 +35,5 @@ Feel free to copy it, use it and credit me for writing it.
 
  
 
-
-
-
-
  
-
-
 

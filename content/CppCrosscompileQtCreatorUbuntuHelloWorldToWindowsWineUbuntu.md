@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -37,11 +34,5 @@ World'](CppHelloWorld.md) [Qt Creator](CppQtCreator.md) project from
 
  
 
-
-
-
-
  
-
-
 

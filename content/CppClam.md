@@ -1,7 +1,4 @@
 
-
-
-
  
 
  
@@ -65,11 +62,5 @@ I did not succeed in producing a simple beep in [CLAM](CppClam.md).
 
  
 
-
-
-
-
  
-
-
 
