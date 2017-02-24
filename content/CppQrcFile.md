@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QrcFile](CppQrcFile.htm)
+([C++](Cpp.md)) [QrcFile](CppQrcFile.md)
 ==========================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QrcFile](CppQrcFile.htm) is a [class](CppClass.htm) for a
-[Qt](CppQt.htm) resources file.
+[QrcFile](CppQrcFile.md) is a [class](CppClass.md) for a
+[Qt](CppQt.md) resources file.
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [MinGW](CppMinGw.htm)
+([C++](Cpp.md)) [MinGW](CppMinGw.md)
 ======================================
 
  
 
-[MinGW](CppMinGw.htm) is \[a lot\], and can be used for [How to
+[MinGW](CppMinGw.md) is \[a lot\], and can be used for [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm).
+executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -31,7 +31,7 @@ executable?](CppQtCrosscompileToWindows.htm).
 
  
 
-Installing [MinGW](CppMinGw.htm) using the Ubuntu terminal
+Installing [MinGW](CppMinGw.md) using the Ubuntu terminal
 ----------------------------------------------------------
 
  

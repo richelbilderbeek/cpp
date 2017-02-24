@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [SurfacePlotterTImage](CppSurfacePlotterTImage.htm)
+([C++](Cpp.md)) [SurfacePlotterTImage](CppSurfacePlotterTImage.md)
 ====================================================================
 
  
 
 Simple class to make a surface plot of a 2D
-[std::vector](CppVector.htm).
+[std::vector](CppVector.md).
 
  
 
-The [tool](Tools.htm) [SurfacePlotter](ToolSurfacePlotter.htm)
+The [tool](Tools.md) [SurfacePlotter](ToolSurfacePlotter.md)
 demonstrates the use of this class.
 
  
 
-The class SurfacePlotter needs a [Extctrls::TImage](CppTImage.htm) to
-work on, but does not manage the [deletion](CppDelete.htm) of it.
+The class SurfacePlotter needs a [Extctrls::TImage](CppTImage.md) to
+work on, but does not manage the [deletion](CppDelete.md) of it.
 
  
 

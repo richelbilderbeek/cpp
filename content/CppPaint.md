@@ -12,28 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [Paint](CppPaint.htm)
+([C++](Cpp.md)) [Paint](CppPaint.md)
 ======================================
 
  
 
-[Paint](CppPaint.htm) is a [graphics](CppGraphics.htm) [code
-snippets](CppCodeSnippets.htm) to paint an image to a single color fast.
+[Paint](CppPaint.md) is a [graphics](CppGraphics.md) [code
+snippets](CppCodeSnippets.md) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.htm) has the following flavors:
+[Paint](CppPaint.md) has the following flavors:
 
--   [Paint](CppPaint.htm) using the [CLX](CppClx.htm)
-    [library](CppLibrary.htm)
--   [Paint](CppPaint.htm) using the [Qt](CppQt.htm)
-    [library](CppLibrary.htm)
--   [Paint](CppPaint.htm) using the [VCL](CppVcl.htm)
-    [library](CppLibrary.htm)
-
- 
-
- 
+-   [Paint](CppPaint.md) using the [CLX](CppClx.md)
+    [library](CppLibrary.md)
+-   [Paint](CppPaint.md) using the [Qt](CppQt.md)
+    [library](CppLibrary.md)
+-   [Paint](CppPaint.md) using the [VCL](CppVcl.md)
+    [library](CppLibrary.md)
 
  
 
@@ -41,7 +37,11 @@ snippets](CppCodeSnippets.htm) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.htm) using the [CLX](CppClx.htm) [library](CppLibrary.htm)
+ 
+
+ 
+
+[Paint](CppPaint.md) using the [CLX](CppClx.md) [library](CppLibrary.htm)
 ---------------------------------------------------------------------------
 
  
@@ -60,7 +60,7 @@ snippets](CppCodeSnippets.htm) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.htm) using the [Qt](CppQt.htm) [library](CppLibrary.htm)
+[Paint](CppPaint.md) using the [Qt](CppQt.md) [library](CppLibrary.htm)
 -------------------------------------------------------------------------
 
  
@@ -79,7 +79,7 @@ snippets](CppCodeSnippets.htm) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.htm) using the [VCL](CppVcl.htm) [library](CppLibrary.htm)
+[Paint](CppPaint.md) using the [VCL](CppVcl.md) [library](CppLibrary.htm)
 ---------------------------------------------------------------------------
 
  

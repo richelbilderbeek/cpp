@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 16: any application, use of autotools](CppQtCrosscompileToWindowsExample16.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 16: any application, use of autotools](CppQtCrosscompileToWindowsExample16.md)
 ========================================================================================================================================================================================
 
  
 
 This is example 16, and perhaps a viable solutions of answering the [Qt
-FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm), which
+FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md), which
 follows \[1\]. It is a follow-up of [How to cross-compile a Qt Creator
 project from Ubuntu to a windows executable: example 15: MinGW
-cross-compiling environment](CppQtCrosscompileToWindowsExample15.htm).
+cross-compiling environment](CppQtCrosscompileToWindowsExample15.md).
 
  
 
@@ -42,19 +42,17 @@ Project information
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -64,7 +62,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -119,7 +119,7 @@ Process
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

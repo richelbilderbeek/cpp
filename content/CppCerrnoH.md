@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [cerrno.h](CppCerrnoH.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [cerrno.h](CppCerrnoH.md)
 ==================================================================
 
  
 
-[cerrno.h](CppCerrnoH.htm) is a standard [header
-file](CppHeaderFile.htm) (since the [C++11](Cpp11.htm)
-[standard](CppStandard.htm)).
+[cerrno.h](CppCerrnoH.md) is a standard [header
+file](CppHeaderFile.md) (since the [C++11](Cpp11.md)
+[standard](CppStandard.md)).
 
  
 

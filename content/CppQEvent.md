@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QEvent](CppQEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QEvent](CppQEvent.md)
 =========================================================
 
  
 
-[QEvent](CppQEvent.htm) is the [Qt](CppQt.htm) [base
-class](CppBaseClass.htm) of all event [classes](CppClass.htm).
+[QEvent](CppQEvent.md) is the [Qt](CppQt.md) [base
+class](CppBaseClass.md) of all event [classes](CppClass.md).
 
  
 
@@ -30,7 +30,7 @@ class](CppBaseClass.htm) of all event [classes](CppClass.htm).
 
  
 
-List of [QEvent](CppQEvent.htm)s
+List of [QEvent](CppQEvent.md)s
 --------------------------------
 
  
@@ -50,7 +50,7 @@ This list was complete at 2013-05-04.
 -   QFileOpenEvent
 -   QFocusEvent
 -   QGestureEvent
--   [QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm)
+-   [QGraphicsSceneEvent](CppQGraphicsSceneEvent.md)
 -   QHelpEvent
 -   QHideEvent
 -   QHoverEvent
@@ -58,10 +58,10 @@ This list was complete at 2013-05-04.
 -   QInputEvent
 -   QInputMethodEvent
 -   QMoveEvent
--   [QPaintEvent](CppQPaintEvent.htm)
--   [QResizeEvent](CppQResizeEvent.htm)
+-   [QPaintEvent](CppQPaintEvent.md)
+-   [QResizeEvent](CppQResizeEvent.md)
 -   QShortcutEvent
--   [QShowEvent](CppQShowEvent.htm)
+-   [QShowEvent](CppQShowEvent.md)
 -   QStatusTipEvent
 -   QTimerEvent
 -   QWhatsThisClickedEvent

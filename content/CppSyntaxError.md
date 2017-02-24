@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [syntax error](CppSyntaxError.htm)
+([C++](Cpp.md)) [syntax error](CppSyntaxError.md)
 ===================================================
 
  
 
-A [syntax error](CppSyntaxError.htm) is ...
+A [syntax error](CppSyntaxError.md) is ...
 
  
 
@@ -29,18 +29,18 @@ A [syntax error](CppSyntaxError.htm) is ...
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Forgetting the semicolon at the end of a [class](CppClass.htm)
-    [definition](CppDefinition.htm) is a [syntax
-    error](CppSyntaxError.htm) \[3\]
+-   Forgetting the semicolon at the end of a [class](CppClass.md)
+    [definition](CppDefinition.md) is a [syntax
+    error](CppSyntaxError.md) \[3\]
 -   Placing a semicolon immediately after the right parenthesis after
-    the [condition](CppCondition.htm) in an [if](CppIf.htm) statement is
-    often a [logic error](CppLogicError.htm), although not a [syntax
-    error](CppSyntaxError.htm) \[2\]
+    the [condition](CppCondition.md) in an [if](CppIf.md) statement is
+    often a [logic error](CppLogicError.md), although not a [syntax
+    error](CppSyntaxError.md) \[2\]
 
  
 
@@ -52,7 +52,7 @@ A [syntax error](CppSyntaxError.htm) is ...
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

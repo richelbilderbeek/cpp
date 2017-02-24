@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Invalid borders specified for theme pixmap](CppMiscErrorInvalidBordersSpecifiedForThemePixmap.htm)
+([C++](Cpp.md)) [Invalid borders specified for theme pixmap](CppMiscErrorInvalidBordersSpecifiedForThemePixmap.md)
 ====================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -80,5 +80,5 @@ that the following might suffice:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

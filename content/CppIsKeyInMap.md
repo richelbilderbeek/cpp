@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [IsKeyInMap](CppIsKeyInMap.htm)
+([C++](Cpp.md)) [IsKeyInMap](CppIsKeyInMap.md)
 ================================================
 
  
 
-[IsKeyInMap](CppIsKeyInMap.htm) is a [std::map](CppMap.htm)
-[check](CppCheck.htm) [code snippet](CppCodeSnippets.htm) to find out if
-a certain key is in a [std::map](CppMap.htm).
+[IsKeyInMap](CppIsKeyInMap.md) is a [std::map](CppMap.md)
+[check](CppCheck.md) [code snippet](CppCodeSnippets.md) to find out if
+a certain key is in a [std::map](CppMap.md).
 
  
 

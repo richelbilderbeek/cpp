@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#9: No for-loops](CppExerciseNoForLoops.htm)
+([C++](Cpp.md)) [Exercise \#9: No for-loops](CppExerciseNoForLoops.md)
 ========================================================================
 
  
@@ -23,8 +23,8 @@ Date added: 29th of December 2009
 
  
 
-In this [exercise](CppExercise.htm), you learn to replace
-[for](CppFor.htm)-loops by [algorithms](CppAlgorithm.htm).
+In this [exercise](CppExercise.md), you learn to replace
+[for](CppFor.md)-loops by [algorithms](CppAlgorithm.md).
 
  
 
@@ -42,18 +42,18 @@ This is easier said than done.
 
  
 
-In this exercise you must replace **[for](CppFor.htm)**-loops by using a
+In this exercise you must replace **[for](CppFor.md)**-loops by using a
 combination of all those algorithm things like
-[std::for\_each](CppFor_each.htm), [std::transform](CppTransform.htm),
-[std::bind1st](CppBind1st.htm), [std::bind2nd](CppBind2nd.htm),
-[std::multiplies](CppMultiplies.htm) and more of the likes. It is up to
+[std::for\_each](CppFor_each.md), [std::transform](CppTransform.md),
+[std::bind1st](CppBind1st.md), [std::bind2nd](CppBind2nd.md),
+[std::multiplies](CppMultiplies.md) and more of the likes. It is up to
 you to find the correct combination.
 
  
 
-The exercises are unordered. Some require [Boost](CppBoost.htm), but
-will be in **[namespace](CppNamespace.htm)** [std](CppStd.htm) after the
-[C++11](Cpp11.htm) standard.
+The exercises are unordered. Some require [Boost](CppBoost.md), but
+will be in **[namespace](CppNamespace.md)** [std](CppStd.md) after the
+[C++11](Cpp11.md) standard.
 
  
 
@@ -70,49 +70,49 @@ Table of contents
 
  
 
--   Question \#0: [Triple](CppTriple.htm)
--   Question \#1: [AddTwo](CppAddTwo.htm)
--   Question \#2: [Multiply](CppMultiply.htm)
--   Question \#3: [Add](CppAdd.htm)
+-   Question \#0: [Triple](CppTriple.md)
+-   Question \#1: [AddTwo](CppAddTwo.md)
+-   Question \#2: [Multiply](CppMultiply.md)
+-   Question \#3: [Add](CppAdd.md)
 -   Question \#4: Widget::DoIt on Widget
 -   Question \#5: Widget::DoItOften on Widget
 -   Question \#6: Widget::DoIt on Widget\*
 -   Question \#7: Widget::DoItOften on Widget\*
--   Question \#8: [GetSum](CppGetSum.htm)
--   Question \#9: [Product](CppProduct.htm)
+-   Question \#8: [GetSum](CppGetSum.md)
+-   Question \#9: [Product](CppProduct.md)
 -   Question \#10: Widget::DoIt on boost::shared\_ptr&lt;Widget&gt;
--   Question \#11: [ReplaceZeroByOne](CppReplaceZeroByOne.htm)
--   Question \#12: [ReplaceNegativeByZero](CppReplaceNegativeByZero.htm)
--   Question \#13: [MakeAbs](CppMakeAbs.htm)
--   Question \#14: [MakeSquare](CppMakeSquare.htm)
--   Question \#15: [CoutVector](CppCoutVector.htm)
--   Question \#16: [Reciprocal](CppReciprocal.htm)
--   Question \#17: [Halve](CppHalve.htm)
--   Question \#18: [SumPositives](CppSumPositives.htm)
+-   Question \#11: [ReplaceZeroByOne](CppReplaceZeroByOne.md)
+-   Question \#12: [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
+-   Question \#13: [MakeAbs](CppMakeAbs.md)
+-   Question \#14: [MakeSquare](CppMakeSquare.md)
+-   Question \#15: [CoutVector](CppCoutVector.md)
+-   Question \#16: [Reciprocal](CppReciprocal.md)
+-   Question \#17: [Halve](CppHalve.md)
+-   Question \#18: [SumPositives](CppSumPositives.md)
 -   Question \#19:
-    [ProductNonZeroPositives](CppProductNonZeroPositives.htm)
--   Question \#20: [CountNonZeroPositives](CppCountNonZeroPositives.htm)
--   Question \#21: [CopyFirst](CppCopyFirst.htm)
--   Question \#22: [CopySecond](CppCopySecond.htm)
--   Question \#23: [SumFirst](CppSumFirst.htm)
--   Question \#24: [SumSecond](CppSumSecond.htm)
+    [ProductNonZeroPositives](CppProductNonZeroPositives.md)
+-   Question \#20: [CountNonZeroPositives](CppCountNonZeroPositives.md)
+-   Question \#21: [CopyFirst](CppCopyFirst.md)
+-   Question \#22: [CopySecond](CppCopySecond.md)
+-   Question \#23: [SumFirst](CppSumFirst.md)
+-   Question \#24: [SumSecond](CppSumSecond.md)
 -   Question \#25: HasMale on std::vector&lt;Person\*&gt;
 -   Question \#26: HasFemale on std::vector&lt;Person\*&gt;
 -   Question \#27: HasId on std::vector&lt;Person\*&gt;
 -   Question \#28: GetMaxId on std::vector&lt;Person\*&gt;
 -   Question \#29: GetAllTrue on
-    [std::map](CppMap.htm)&lt;**[int](CppInt.htm)**,**[bool](CppBool.htm)**&gt;
+    [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.htm)**&gt;
 -   Question \#30: Get maximum value from
-    [std::map](CppMap.htm)&lt;**[const](CppConst.htm)** Person
-    \*,**[int](CppInt.htm)**&gt;
+    [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person
+    \*,**[int](CppInt.md)**&gt;
 -   Question \#31: Find an ID in a
-    [std::vector](CppVector.htm)&lt;**[const](CppConst.htm)**
+    [std::vector](CppVector.md)&lt;**[const](CppConst.md)**
     Person\*&gt;
 -   Question \#32: Sum all persons' money from a
-    [std::vector](CppVector.htm)&lt;**[const](CppConst.htm)**
+    [std::vector](CppVector.md)&lt;**[const](CppConst.md)**
     Person\*&gt;
 -   See also: [Get the length of the longest
-    string](CppGetLongestStringLength.htm)
+    string](CppGetLongestStringLength.md)
 -   Post your feedback
 -   References
 
@@ -126,16 +126,16 @@ Table of contents
 
  
 
-Question \#0: [Triple](CppTriple.htm)
+Question \#0: [Triple](CppTriple.md)
 -------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::for\_each](CppFor_each.htm)
--   [std::multiplies](CppMultiplies.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::for\_each](CppFor_each.md)
+-   [std::multiplies](CppMultiplies.md)
 
  
 
@@ -145,7 +145,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer0.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer0.md)
 
  
 
@@ -157,17 +157,17 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#1: [AddTwo](CppAddTwo.htm)
+Question \#1: [AddTwo](CppAddTwo.md)
 -------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::back\_inserter](CppBack_inserter.htm)
--   [std::bind2nd](CppBind2nd.htm)
--   [std::plus](CppPlus.htm)
--   [std::transform](CppTransform.htm)
+-   [std::back\_inserter](CppBack_inserter.md)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::plus](CppPlus.md)
+-   [std::transform](CppTransform.md)
 
  
 
@@ -177,7 +177,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer1.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer1.md)
 
  
 
@@ -189,16 +189,16 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#2: [Multiply](CppMultiply.htm)
+Question \#2: [Multiply](CppMultiply.md)
 -----------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::multiplies](CppMultiplies.htm)
--   [std::transform](CppTransform.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::multiplies](CppMultiplies.md)
+-   [std::transform](CppTransform.md)
 
  
 
@@ -208,7 +208,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer2.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer2.md)
 
  
 
@@ -220,17 +220,17 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#3: [Add](CppAdd.htm)
+Question \#3: [Add](CppAdd.md)
 -------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::back\_inserter](CppBack_inserter.htm)
--   [std::bind2nd](CppBind2nd.htm)
--   [std::plus](CppPlus.htm)
--   [std::transform](CppTransform.htm)
+-   [std::back\_inserter](CppBack_inserter.md)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::plus](CppPlus.md)
+-   [std::transform](CppTransform.md)
 
  
 
@@ -240,7 +240,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer3.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer3.md)
 
  
 
@@ -257,11 +257,11 @@ Question \#4: Widget::DoIt on Widget
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.htm)
--   [std::mem\_fun\_ref](CppMem_fun.htm) (or
-    [boost::mem\_fn](CppMem_fn.htm))
+-   [std::for\_each](CppFor_each.md)
+-   [std::mem\_fun\_ref](CppMem_fun.md) (or
+    [boost::mem\_fn](CppMem_fn.md))
 
  
 
@@ -271,7 +271,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer4.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer4.md)
 
  
 
@@ -288,12 +288,12 @@ Question \#5: Widget::DoItOften on Widget
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm) (or [boost::bind](CppBind.htm))
--   [std::for\_each](CppFor_each.htm)
--   [std::mem\_fun\_ref](CppMem_fun.htm) (or
-    [boost::mem\_fn](CppMem_fn.htm))
+-   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::for\_each](CppFor_each.md)
+-   [std::mem\_fun\_ref](CppMem_fun.md) (or
+    [boost::mem\_fn](CppMem_fn.md))
 
  
 
@@ -303,7 +303,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer5.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer5.md)
 
  
 
@@ -320,10 +320,10 @@ Question \#6: Widget::DoIt on Widget\*
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.htm)
--   [std::mem\_fun](CppMem_fun.htm) (or [boost::mem\_fn](CppMem_fn.htm))
+-   [std::for\_each](CppFor_each.md)
+-   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
 
  
 
@@ -333,7 +333,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer6.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer6.md)
 
  
 
@@ -350,11 +350,11 @@ Question \#7: Widget::DoItOften on Widget\*
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm) (or [boost::bind](CppBind.htm))
--   [std::for\_each](CppFor_each.htm)
--   [std::mem\_fun](CppMem_fun.htm) (or [boost::mem\_fn](CppMem_fn.htm))
+-   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::for\_each](CppFor_each.md)
+-   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
 
  
 
@@ -364,7 +364,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer7.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer7.md)
 
  
 
@@ -376,14 +376,14 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#8: [GetSum](CppGetSum.htm)
+Question \#8: [GetSum](CppGetSum.md)
 -------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.htm)
+-   [std::accumulate](CppAccumulate.md)
 
  
 
@@ -393,7 +393,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer8.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer8.md)
 
  
 
@@ -405,15 +405,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#9: [Product](CppProduct.htm)
+Question \#9: [Product](CppProduct.md)
 ---------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.htm)
--   [std::multiplies](CppMultiplies.htm)
+-   [std::accumulate](CppAccumulate.md)
+-   [std::multiplies](CppMultiplies.md)
 
  
 
@@ -423,7 +423,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
--   [View the answer of this exercise](CppExerciseNoForLoopsAnswer9.htm)
+-   [View the answer of this exercise](CppExerciseNoForLoopsAnswer9.md)
 
  
 
@@ -440,10 +440,10 @@ Question \#10: Widget::DoIt on boost::shared\_ptr&lt;Widget&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.htm)
--   [boost::mem\_fn](CppMem_fn.htm)
+-   [std::for\_each](CppFor_each.md)
+-   [boost::mem\_fn](CppMem_fn.md)
 
  
 
@@ -454,7 +454,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer10.htm)
+    exercise](CppExerciseNoForLoopsAnswer10.md)
 
  
 
@@ -466,16 +466,16 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#11: [ReplaceZeroByOne](CppReplaceZeroByOne.htm)
+Question \#11: [ReplaceZeroByOne](CppReplaceZeroByOne.md)
 ----------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::replace](CppReplace.htm) (or
-    [std::replace\_if](CppReplace_if.htm) with
-    [std::bind2nd](CppBind2nd.htm))
+-   [std::replace](CppReplace.md) (or
+    [std::replace\_if](CppReplace_if.md) with
+    [std::bind2nd](CppBind2nd.md))
 
  
 
@@ -486,7 +486,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer11.htm)
+    exercise](CppExerciseNoForLoopsAnswer11.md)
 
  
 
@@ -498,16 +498,16 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#12: [ReplaceNegativeByZero](CppReplaceNegativeByZero.htm)
+Question \#12: [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
 --------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::less](CppLess.htm)
--   [std::replace\_if](CppReplace_if.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::less](CppLess.md)
+-   [std::replace\_if](CppReplace_if.md)
 
  
 
@@ -518,7 +518,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer12.htm)
+    exercise](CppExerciseNoForLoopsAnswer12.md)
 
  
 
@@ -530,15 +530,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#13: [MakeAbs](CppMakeAbs.htm)
+Question \#13: [MakeAbs](CppMakeAbs.md)
 ----------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::transform](CppTransform.htm)
--   your own [std::unary\_function](CppUnary_function.htm)
+-   [std::transform](CppTransform.md)
+-   your own [std::unary\_function](CppUnary_function.md)
 
  
 
@@ -549,7 +549,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer13.htm)
+    exercise](CppExerciseNoForLoopsAnswer13.md)
 
  
 
@@ -561,15 +561,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#14: [MakeSquare](CppMakeSquare.htm)
+Question \#14: [MakeSquare](CppMakeSquare.md)
 ----------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::transform](CppTransform.htm)
--   your own [std::unary\_function](CppUnary_function.htm)
+-   [std::transform](CppTransform.md)
+-   your own [std::unary\_function](CppUnary_function.md)
 
  
 
@@ -580,7 +580,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer14.htm)
+    exercise](CppExerciseNoForLoopsAnswer14.md)
 
  
 
@@ -592,15 +592,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#15: [CoutVector](CppCoutVector.htm)
+Question \#15: [CoutVector](CppCoutVector.md)
 ----------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::copy](CppCopy.htm)
--   [std::ostream\_iterator](CppOstream_iterator.htm)
+-   [std::copy](CppCopy.md)
+-   [std::ostream\_iterator](CppOstream_iterator.md)
 
  
 
@@ -611,7 +611,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer15.htm)
+    exercise](CppExerciseNoForLoopsAnswer15.md)
 
  
 
@@ -623,16 +623,16 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#16: [Reciprocal](CppReciprocal.htm)
+Question \#16: [Reciprocal](CppReciprocal.md)
 ----------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind1st](CppBind1st.htm)
--   [std::divides](CppDivides.htm)
--   [std::transform](CppTransform.htm)
+-   [std::bind1st](CppBind1st.md)
+-   [std::divides](CppDivides.md)
+-   [std::transform](CppTransform.md)
 
  
 
@@ -643,7 +643,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer16.htm)
+    exercise](CppExerciseNoForLoopsAnswer16.md)
 
  
 
@@ -655,16 +655,16 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#17: [Halve](CppHalve.htm)
+Question \#17: [Halve](CppHalve.md)
 ------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::divides](CppDivides.htm)
--   [std::transform](CppTransform.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::divides](CppDivides.md)
+-   [std::transform](CppTransform.md)
 
  
 
@@ -675,7 +675,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer17.htm)
+    exercise](CppExerciseNoForLoopsAnswer17.md)
 
  
 
@@ -687,15 +687,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#18: [SumPositives](CppSumPositives.htm)
+Question \#18: [SumPositives](CppSumPositives.md)
 --------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::greater](CppGreater.htm)
--   A conditional [std::accumulate](CppAccumulate.htm)
+-   [std::greater](CppGreater.md)
+-   A conditional [std::accumulate](CppAccumulate.md)
 
  
 
@@ -706,7 +706,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer18.htm)
+    exercise](CppExerciseNoForLoopsAnswer18.md)
 
  
 
@@ -718,17 +718,17 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#19: [ProductNonZeroPositives](CppProductNonZeroPositives.htm)
+Question \#19: [ProductNonZeroPositives](CppProductNonZeroPositives.md)
 ------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::greater](CppGreater.htm)
--   [std::multiplies](CppMultiplies.htm)
--   A conditional [std::accumulate](CppAccumulate.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::greater](CppGreater.md)
+-   [std::multiplies](CppMultiplies.md)
+-   A conditional [std::accumulate](CppAccumulate.md)
 
  
 
@@ -739,7 +739,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer19.htm)
+    exercise](CppExerciseNoForLoopsAnswer19.md)
 
  
 
@@ -751,16 +751,16 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#20: [CountNonZeroPositives](CppCountNonZeroPositives.htm)
+Question \#20: [CountNonZeroPositives](CppCountNonZeroPositives.md)
 --------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::count\_if](CppCount_if.htm)
--   [std::greater](CppGreater.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::count\_if](CppCount_if.md)
+-   [std::greater](CppGreater.md)
 
  
 
@@ -771,7 +771,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer20.htm)
+    exercise](CppExerciseNoForLoopsAnswer20.md)
 
  
 
@@ -783,14 +783,14 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#21: [CopyFirst](CppCopyFirst.htm)
+Question \#21: [CopyFirst](CppCopyFirst.md)
 --------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -801,7 +801,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer21.htm)
+    exercise](CppExerciseNoForLoopsAnswer21.md)
 
  
 
@@ -813,14 +813,14 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#22: [CopySecond](CppCopySecond.htm)
+Question \#22: [CopySecond](CppCopySecond.md)
 ----------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -831,7 +831,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer22.htm)
+    exercise](CppExerciseNoForLoopsAnswer22.md)
 
  
 
@@ -843,15 +843,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#23: [SumFirst](CppSumFirst.htm)
+Question \#23: [SumFirst](CppSumFirst.md)
 ------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
--   [std::plus](CppPlus.htm)
+-   [boost::bind](CppBind.md)
+-   [std::plus](CppPlus.md)
 
  
 
@@ -862,7 +862,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer23.htm)
+    exercise](CppExerciseNoForLoopsAnswer23.md)
 
  
 
@@ -874,15 +874,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#24: [SumSecond](CppSumSecond.htm)
+Question \#24: [SumSecond](CppSumSecond.md)
 --------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
--   [std::plus](CppPlus.htm)
+-   [boost::bind](CppBind.md)
+-   [std::plus](CppPlus.md)
 
  
 
@@ -893,7 +893,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer24.htm)
+    exercise](CppExerciseNoForLoopsAnswer24.md)
 
  
 
@@ -910,9 +910,9 @@ Question \#25: HasMale on std::vector&lt;Person\*&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -923,7 +923,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer25.htm)
+    exercise](CppExerciseNoForLoopsAnswer25.md)
 
  
 
@@ -940,10 +940,10 @@ Question \#26: HasFemale on std::vector&lt;Person\*&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
--   [std::not](CppNot.htm)
+-   [boost::bind](CppBind.md)
+-   [std::not](CppNot.md)
 
  
 
@@ -954,7 +954,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer26.htm)
+    exercise](CppExerciseNoForLoopsAnswer26.md)
 
  
 
@@ -971,9 +971,9 @@ Question \#27: HasId on std::vector&lt;Person\*&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -984,7 +984,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer27.htm)
+    exercise](CppExerciseNoForLoopsAnswer27.md)
 
  
 
@@ -1001,9 +1001,9 @@ Question \#28: GetMaxId on std::vector&lt;Person\*&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -1014,7 +1014,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer28.htm)
+    exercise](CppExerciseNoForLoopsAnswer28.md)
 
  
 
@@ -1026,14 +1026,14 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#29: GetAllTrue on [std::map](CppMap.htm)&lt;**[int](CppInt.htm)**,**[bool](CppBool.htm)**&gt;
+Question \#29: GetAllTrue on [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.htm)**&gt;
 --------------------------------------------------------------------------------------------------------
 
  
 
-Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.htm). You will need:
+Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.md). You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -1044,7 +1044,7 @@ Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.htm). You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer29.htm)
+    exercise](CppExerciseNoForLoopsAnswer29.md)
 
  
 
@@ -1056,14 +1056,14 @@ Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.htm). You will need:
 
  
 
-Question \#30: Get maximum value from [std::map](CppMap.htm)&lt;**[const](CppConst.htm)** Person \*,**[int](CppInt.htm)**&gt;
+Question \#30: Get maximum value from [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person \*,**[int](CppInt.htm)**&gt;
 -----------------------------------------------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -1074,7 +1074,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer30.htm)
+    exercise](CppExerciseNoForLoopsAnswer30.md)
 
  
 
@@ -1086,14 +1086,14 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#31: Find an ID in a [std::vector](CppVector.htm)&lt;**[const](CppConst.htm)** Person\*&gt;
+Question \#31: Find an ID in a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -----------------------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -1104,7 +1104,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer31.htm)
+    exercise](CppExerciseNoForLoopsAnswer31.md)
 
  
 
@@ -1116,15 +1116,15 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Question \#32: Sum all persons' money from a [std::vector](CppVector.htm)&lt;**[const](CppConst.htm)** Person\*&gt;
+Question \#32: Sum all persons' money from a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -------------------------------------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.htm)
--   [boost::bind](CppBind.htm)
+-   [std::accumulate](CppAccumulate.md)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -1135,7 +1135,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
  
 
 -   [View the answer of this
-    exercise](CppExerciseNoForLoopsAnswer32.htm)
+    exercise](CppExerciseNoForLoopsAnswer32.md)
 
  
 
@@ -1165,16 +1165,16 @@ Heaven](http://www.programmersheaven.com/article/104501-C%2b%2b+exercise%3a+no+f
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The [C++](Cpp.htm)
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The [C++](Cpp.md)
     Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter
     18.12.1 : 'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). [C++](Cpp.htm) coding
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). [C++](Cpp.md) coding
     standards: 101 rules, guidelines, and best practices.
     ISBN: 0-32-111358-6. Chapter 84: 'Prefer algorithm calls to
     handwritten loops.'

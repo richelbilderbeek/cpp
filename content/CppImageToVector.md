@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [ImageToVector](CppImageToVector.htm)
+([C++](Cpp.md)) [ImageToVector](CppImageToVector.md)
 ======================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to
-convert a [VCL](CppVcl.htm) [TImage](CppTImage.htm) to a 2D
-[std::vector](CppVector.htm). To do the opposite, use
-[VectorToImage](CppVectorToImage.htm).
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to
+convert a [VCL](CppVcl.md) [TImage](CppTImage.md) to a 2D
+[std::vector](CppVector.md). To do the opposite, use
+[VectorToImage](CppVectorToImage.md).
 
  
 

@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Halve](CppHalve.htm)
+([C++](Cpp.md)) [Halve](CppHalve.md)
 ======================================
 
  
 
  
 
-[Halve](CppHalve.htm) is a [container](CppContainer.htm) [code
-snippet](CppCodeSnippets.htm) to replace all values in a
-[container](CppContainer.htm) by their halves (that is: x/2.0).
+[Halve](CppHalve.md) is a [container](CppContainer.md) [code
+snippet](CppCodeSnippets.md) to replace all values in a
+[container](CppContainer.md) by their halves (that is: x/2.0).
 
  
 
-There are multiple ways to perform [Halve](CppHalve.htm):
+There are multiple ways to perform [Halve](CppHalve.md):
 
 -   The general algorithm way (best)
 -   The algorithm way on a std::vector&lt;double&gt; (intermediate)
@@ -60,13 +60,13 @@ The general algorithm way
 
  
 
-The algorithm way on a [std::vector&lt;](CppVector.htm)[double](CppDouble.htm)&gt;
+The algorithm way on a [std::vector&lt;](CppVector.md)[double](CppDouble.md)&gt;
 ----------------------------------------------------------------------------------
 
  
 
 This way is used as an answer in [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -84,12 +84,12 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-The[for](CppFor.htm)-loop way on a [std::vector&lt;](CppVector.htm)[double](CppDouble.htm)&gt;
+The[for](CppFor.md)-loop way on a [std::vector&lt;](CppVector.md)[double](CppDouble.htm)&gt;
 ----------------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1,2\].
 
  
 
@@ -107,16 +107,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1 :
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops.'
 

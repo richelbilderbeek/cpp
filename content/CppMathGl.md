@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [MathGL](CppMathGl.htm)
+([C++](Cpp.md)) [MathGL](CppMathGl.md)
 ========================================
 
  
 
-The [MathGL](CppMathGl.htm) is a cross-platform
-[library](CppLibrary.htm) for visualizing data in charts and plots.
+The [MathGL](CppMathGl.md) is a cross-platform
+[library](CppLibrary.md) for visualizing data in charts and plots.
 
  
 
-[MathGL](CppMathGl.htm) can be installed from the Ubuntu Software
+[MathGL](CppMathGl.md) can be installed from the Ubuntu Software
 Center.
 
  
@@ -31,7 +31,7 @@ Center.
 | **Example**                          | **Screenshot**                       |
 +--------------------------------------+--------------------------------------+
 | [1: simple 3d                        | [Example 1](CppMathGlExample1.png)   |
-| plot](CppMathGlExample1.htm)         |                                      |
+| plot](CppMathGlExample1.md)         |                                      |
 +--------------------------------------+--------------------------------------+
 
  

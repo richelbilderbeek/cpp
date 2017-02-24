@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::skipws](CppSkipws.htm)
+([C++](Cpp.md)) [std::skipws](CppSkipws.md)
 =============================================
 
  
 
-[std::skipws](CppSkipws.htm) (an abbreviation of 'skip whitespace') is a
-[stream](CppStream.htm) manipulator. By default, whitespace is skipped
-for input [streams](CppStream.htm).
+[std::skipws](CppSkipws.md) (an abbreviation of 'skip whitespace') is a
+[stream](CppStream.md) manipulator. By default, whitespace is skipped
+for input [streams](CppStream.md).
 
  
 
-[std::skipws](CppSkipws.htm) is the opposite of
-[std::noskipws](CppNoskipws.htm).
+[std::skipws](CppSkipws.md) is the opposite of
+[std::noskipws](CppNoskipws.md).
 
  
 

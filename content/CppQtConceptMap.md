@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtConceptMap](CppQtConceptMap.htm)
+([C++](Cpp.md)) [QtConceptMap](CppQtConceptMap.md)
 ====================================================
 
  
@@ -1618,5 +1618,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

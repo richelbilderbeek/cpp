@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [\_algobase.h: Cannot convert 'const int' to 'MyClass \*'](CppCompileError_algobaseHcannotConvertConstIntToMyClassPtr.htm)
+([C++](Cpp.md)) [\_algobase.h: Cannot convert 'const int' to 'MyClass \*'](CppCompileError_algobaseHcannotConvertConstIntToMyClassPtr.md)
 ===========================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,7 +53,7 @@ Cause
 
  
 
-The following code caused this [compile error](CppCompileError.htm):
+The following code caused this [compile error](CppCompileError.md):
 
  
 
@@ -63,21 +63,21 @@ The following code caused this [compile error](CppCompileError.htm):
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console
 
  
 
-The zero denotes that the MyClass [pointer](CppPointer.htm) is
-uninitialized. The [compiler](CppCompiler.htm), however, believes this
-zero denotes an [integer](CppInt.htm) value.
+The zero denotes that the MyClass [pointer](CppPointer.md) is
+uninitialized. The [compiler](CppCompiler.md), however, believes this
+zero denotes an [integer](CppInt.md) value.
 
  
 
-The code where the [compiler](CppCompiler.htm) takes you, in
+The code where the [compiler](CppCompiler.md) takes you, in
 \_algobase.h:
 
  
@@ -103,11 +103,11 @@ Solution
 
 There are two options:
 
-1.  Change the first [argument](CppArgument.htm)'s [data
-    type](CppDataType.htm) to [unsigned](CppUnsigned.htm)
-    [int](CppInt.htm)
-2.  [Cast](CppCast.htm) the null in the second
-    [argument](CppArgument.htm) explicitly to a MyClass\*
+1.  Change the first [argument](CppArgument.md)'s [data
+    type](CppDataType.md) to [unsigned](CppUnsigned.md)
+    [int](CppInt.md)
+2.  [Cast](CppCast.md) the null in the second
+    [argument](CppArgument.md) explicitly to a MyClass\*
 
  
 
@@ -119,7 +119,7 @@ There are two options:
 
  
 
-### Change the first [argument](CppArgument.htm)'s [data type](CppDataType.htm) to [unsigned](CppUnsigned.htm) [int](CppInt.htm)
+### Change the first [argument](CppArgument.md)'s [data type](CppDataType.md) to [unsigned](CppUnsigned.htm) [int](CppInt.htm)
 
  
 
@@ -129,8 +129,8 @@ There are two options:
 
  
 
-I would bet that the first [argument](CppArgument.htm)'s [data
-type](CppDataType.htm) might also be [std::size\_t](CppSize_t.htm).
+I would bet that the first [argument](CppArgument.md)'s [data
+type](CppDataType.md) might also be [std::size\_t](CppSize_t.md).
 
  
 
@@ -142,7 +142,7 @@ type](CppDataType.htm) might also be [std::size\_t](CppSize_t.htm).
 
  
 
-### [Cast](CppCast.htm) the null in the second [argument](CppArgument.htm) explicitly to a MyClass\*
+### [Cast](CppCast.md) the null in the second [argument](CppArgument.md) explicitly to a MyClass\*
 
  
 

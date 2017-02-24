@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::stack](Cppstd::stack.htm)
+([C++](Cpp.md)) [std::stack](Cppstd::stack.md)
 ================================================
 
  
 
-[std::stack](Cppstd::stack.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) for a stack (that is: First-In-Last-Out
+[std::stack](Cppstd::stack.md) is an [STL](CppStl.md)
+[container](CppContainer.md) for a stack (that is: First-In-Last-Out
 storage).
 
  
@@ -29,7 +29,7 @@ storage).
 
  
 
--   [Download the Qt Creator project 'CppStack' (zip)](CppStack.htm)
+-   [Download the Qt Creator project 'CppStack' (zip)](CppStack.md)
 
  
 

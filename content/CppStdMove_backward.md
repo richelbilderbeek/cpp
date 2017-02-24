@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::move\_backward](CppMove_backward.htm)
+([C++](Cpp.md)) [std::move\_backward](CppMove_backward.md)
 ============================================================
 
  
 
-[std::move\_backward](CppMove_backward.htm) is a [C++11](Cpp11.htm)
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to
-[std::move](CppMove.htm) elements from a [container](CppContainer.htm)
-to another [container](CppContainer.htm). This copying is done in
+[std::move\_backward](CppMove_backward.md) is a [C++11](Cpp11.md)
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to
+[std::move](CppMove.md) elements from a [container](CppContainer.md)
+to another [container](CppContainer.md). This copying is done in
 reverse, but the order is preserved.
 
  
@@ -61,5 +61,5 @@ reverse, but the order is preserved.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

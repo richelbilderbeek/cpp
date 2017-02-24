@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Why don't you make your website look modern?](CppWhyNoModernWebsite.htm)
+([C++](Cpp.md)) [Why don't you make your website look modern?](CppWhyNoModernWebsite.md)
 ==========================================================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 

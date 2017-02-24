@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [std::transform](CppTransform.htm)
+([C++](Cpp.md)) [std::transform](CppTransform.md)
 ===================================================
 
  
 
-[std::transform](CppTransform.htm) is an [algorithm](CppAlgorithm.htm)
-to perform a modifying [function](CppFunction.htm) on the elements of a
-sequence (on a [std::vector](CppVector.htm), for example). Use
-[std::for\_each](CppFor_each.htm) to perform non-modifying
-[functions](CppFunction.htm) on the elements of a sequence.
+[std::transform](CppTransform.md) is an [algorithm](CppAlgorithm.md)
+to perform a modifying [function](CppFunction.md) on the elements of a
+sequence (on a [std::vector](CppVector.md), for example). Use
+[std::for\_each](CppFor_each.md) to perform non-modifying
+[functions](CppFunction.md) on the elements of a sequence.
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over hand-written loops
+Prefer [algorithms](CppAlgorithm.md) over hand-written loops
 \[0\]\[1\]\[2\]. View [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm) to learn how to remove
+for-loops](CppExerciseNoForLoops.md) to learn how to remove
 hand-written loops .
 
  
 
-[std::transform](CppTransform.htm) does not use a
-[predicate](CppPredicate.htm). Use [Transform\_if](CppTransform_if.htm)
-if a [predicate](CppPredicate.htm) is needed.
+[std::transform](CppTransform.md) does not use a
+[predicate](CppPredicate.md). Use [Transform\_if](CppTransform_if.md)
+if a [predicate](CppPredicate.md) is needed.
 
  
 
@@ -52,7 +52,7 @@ Example
  
 
 The code below shows a simple way to multiply all elements in a
-[std::vector](CppVector.htm) by a certain value:
+[std::vector](CppVector.md) by a certain value:
 
  
 
@@ -62,8 +62,8 @@ The code below shows a simple way to multiply all elements in a
 
  
 
-[std::transform](CppTransform.htm) can be used to replace the
-[for](CppFor.htm)-loop in the example below:
+[std::transform](CppTransform.md) can be used to replace the
+[for](CppFor.md)-loop in the example below:
 
  
 
@@ -81,13 +81,13 @@ The code below shows a simple way to multiply all elements in a
 
  
 
-[std::transform](CppTransform.htm) function [definition](CppDefinition.htm)
+[std::transform](CppTransform.md) function [definition](CppDefinition.md)
 ---------------------------------------------------------------------------
 
  
 
-Simplified from the [STL](CppStl.htm) that ships with [C++
-Builder](CppBuilder.htm) 6.0:
+Simplified from the [STL](CppStl.md) that ships with [C++
+Builder](CppBuilder.md) 6.0:
 
  
 
@@ -97,9 +97,9 @@ Builder](CppBuilder.htm) 6.0:
 
  
 
-[std::transform](CppTransform.htm) does not use a
-[predicate](CppPredicate.htm). Use [Transform\_if](CppTransform_if.htm)
-if a [predicate](CppPredicate.htm) is needed.
+[std::transform](CppTransform.md) does not use a
+[predicate](CppPredicate.md). Use [Transform\_if](CppTransform_if.md)
+if a [predicate](CppPredicate.md) is needed.
 
  
 
@@ -111,20 +111,20 @@ if a [predicate](CppPredicate.htm) is needed.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
--   \[0\] [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++
+-   \[0\] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++
     Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter
     18.12.1 : 'Prefer algorithms over loops'
--   \[1\] [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+-   \[1\] [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops.'
--   \[2\] [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+-   \[2\] [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     88: 'Prefer function objects over functions as algorithm and
     comparer arguments.'
@@ -148,5 +148,5 @@ if a [predicate](CppPredicate.htm) is needed.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png) [How to use Qt Creator to compile C code?](CppCompilerC.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png) [How to use Qt Creator to compile C code?](CppCompilerC.md)
 =============================================================================================================
 
  
 
-[How to use Qt Creator to compile C code?](CppCompilerC.htm) is a [Qt
-FAQ](CppQtFaq.htm) how to use [Qt Creator](CppQtCreator.htm) to
-[compile](CppCompile.htm) C code.
+[How to use Qt Creator to compile C code?](CppCompilerC.md) is a [Qt
+FAQ](CppQtFaq.md) how to use [Qt Creator](CppQtCreator.md) to
+[compile](CppCompile.md) C code.
 
  
 
-Add the following lines to your [Qt project file](CppQtProjectFile.htm):
+Add the following lines to your [Qt project file](CppQtProjectFile.md):
 
  
 
@@ -59,7 +59,7 @@ Full example
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppCompilerC.pro
+[Qt project file](CppQtProjectFile.md): CppCompilerC.pro
 ---------------------------------------------------------
 
  
@@ -106,5 +106,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

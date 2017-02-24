@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [VCL MessageDlg](CppVclMessageDlg.htm)
+([C++](Cpp.md)) [VCL MessageDlg](CppVclMessageDlg.md)
 =======================================================
 
-A [VCL dialog](CppVclDialog.htm) posing a question that can be answered
+A [VCL dialog](CppVclDialog.md) posing a question that can be answered
 by yes/no/cancel/etc.
 
  
 
-To use [MessageDlg](CppVclMessageDlg.htm), [\#include](CppInclude.htm)
-the [header file](CppHeaderFile.htm) dialogs.hpp.
+To use [MessageDlg](CppVclMessageDlg.md), [\#include](CppInclude.md)
+the [header file](CppHeaderFile.md) dialogs.hpp.
 
  
 

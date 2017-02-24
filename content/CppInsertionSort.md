@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [InsertionSort](CppInsertionSort.htm)
+([C++](Cpp.md)) [InsertionSort](CppInsertionSort.md)
 ======================================================
 
  
 
-[InsertionSort](CppInsertionSort.htm) is a [sorting](CppSort.htm) [code
-snippet](CppCodeSnippets.htm) to perform an insertion sort.
+[InsertionSort](CppInsertionSort.md) is a [sorting](CppSort.md) [code
+snippet](CppCodeSnippets.md) to perform an insertion sort.
 
  
 
@@ -50,5 +50,5 @@ snippet](CppCodeSnippets.htm) to perform an insertion sort.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

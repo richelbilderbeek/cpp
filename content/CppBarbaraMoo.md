@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Barbara Moo](CppBarbaraMoo.htm)
+([C++](Cpp.md)) [Barbara Moo](CppBarbaraMoo.md)
 =================================================
 
  
 
-[Barbara Moo](CppBarbaraMoo.htm) is the (co-)author of some
-[C++](Cpp.htm) books.
+[Barbara Moo](CppBarbaraMoo.md) is the (co-)author of some
+[C++](Cpp.md) books.
 
  
 
@@ -30,16 +30,16 @@
 
  
 
-List of books co-authored by [Barbara Moo](CppBarbaraMoo.htm)
+List of books co-authored by [Barbara Moo](CppBarbaraMoo.md)
 -------------------------------------------------------------
 
  
 
--   [Andrew Koenig](CppAndrewKoenig.htm) & [Barbara
-    Moo](CppBarbaraMoo.htm). Ruminations on C++. 1997. ISBN:
+-   [Andrew Koenig](CppAndrewKoenig.md) & [Barbara
+    Moo](CppBarbaraMoo.md). Ruminations on C++. 1997. ISBN:
     0-201-42339-1
--   [Andrew Koenig](CppAndrewKoenig.htm) & [Barbara
-    Moo](CppBarbaraMoo.htm). Accelerated C++. 2000. ISBN: 0-201-70353-X
+-   [Andrew Koenig](CppAndrewKoenig.md) & [Barbara
+    Moo](CppBarbaraMoo.md). Accelerated C++. 2000. ISBN: 0-201-70353-X
 
  
 

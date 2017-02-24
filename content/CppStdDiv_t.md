@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::div\_t](CppDiv_t.htm)
+([C++](Cpp.md)) [std::div\_t](CppDiv_t.md)
 ============================================
 
  
 
-[std::div\_t](CppDiv.htm) is an [STL](CppStl.htm) [class](CppClass.htm)
-[returned](CppReturn.htm) by [std::div](CppDiv.htm).
+[std::div\_t](CppDiv.md) is an [STL](CppStl.md) [class](CppClass.htm)
+[returned](CppReturn.md) by [std::div](CppDiv.md).
 
  
 

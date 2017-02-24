@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [devkitARM](CppDevkitArm.htm)
+([C++](Cpp.md)) [devkitARM](CppDevkitArm.md)
 ==============================================
 
  
 
-[devkitARM](CppDevkitArm.htm) is one of the
-[devkitPro](CppDevkitPro.htm) toolchains for development on GamePark
-GP32, [Nintendo DS](CppNds.htm), Nintendo GBA.
+[devkitARM](CppDevkitArm.md) is one of the
+[devkitPro](CppDevkitPro.md) toolchains for development on GamePark
+GP32, [Nintendo DS](CppNds.md), Nintendo GBA.
 
  
 

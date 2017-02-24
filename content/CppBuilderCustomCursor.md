@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Using a custom cursor in C++ Builder](CppBuilderCustomCursor.htm)
+([C++](Cpp.md)) [Using a custom cursor in C++ Builder](CppBuilderCustomCursor.md)
 ===================================================================================
 
  
 
-A [C++ Builder FAQ](CppBuilderFaq.htm) about how to use a custom cursor
-in [C++ Builder](CppBuilder.htm).
+A [C++ Builder FAQ](CppBuilderFaq.md) about how to use a custom cursor
+in [C++ Builder](CppBuilder.md).
 
  
 

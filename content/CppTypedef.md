@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [typedef](CppTypedef.htm)
+([C++](Cpp.md)) [typedef](CppTypedef.md)
 ==========================================
 
  
 
-[typedef](CppTypedef.htm) is a [keyword](CppKeyword.htm) to define
-shorthand names for [data types](CppDataType.htm).
+[typedef](CppTypedef.md) is a [keyword](CppKeyword.md) to define
+shorthand names for [data types](CppDataType.md).
 
  
 
@@ -28,10 +28,10 @@ shorthand names for [data types](CppDataType.htm).
 
  
 
-Avoid [typedefs](CppTypedef.htm) at file scope in [header
-files](CppHeaderFile.htm) \[1\]. When using [function
-pointers](CppFunctionPointer.htm), consider always using a
-[typedef](CppTypedef.htm) \[2\].
+Avoid [typedefs](CppTypedef.md) at file scope in [header
+files](CppHeaderFile.md) \[1\]. When using [function
+pointers](CppFunctionPointer.md), consider always using a
+[typedef](CppTypedef.md) \[2\].
 
  
 
@@ -43,13 +43,13 @@ pointers](CppFunctionPointer.htm), consider always using a
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   Use UpperCamelCase for typedef names \[3\]
--   Prefer [using](CppUsing.htm) over [typedef](CppTypedef.htm) for
+-   Prefer [using](CppUsing.md) over [typedef](CppTypedef.md) for
     defining aliases \[4\]
 
  
@@ -62,12 +62,12 @@ pointers](CppFunctionPointer.htm), consider always using a
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.3.3
 2.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
     Development and Demonstration Program. Document Number 2RDU00001

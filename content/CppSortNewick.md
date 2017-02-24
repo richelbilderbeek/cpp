@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [SortNewick](CppSortNewick.htm)
+([C++](Cpp.md)) [SortNewick](CppSortNewick.md)
 ================================================
 
  
 
-[SortNewick](CppSortNewick.htm) is a [Newick](CppNewick.htm) [code
-snippets](CppCodeSnippets.htm) to sort binary-tree
-[Newick](CppNewick.htm) in such a way that all opening brackets are at
+[SortNewick](CppSortNewick.md) is a [Newick](CppNewick.md) [code
+snippets](CppCodeSnippets.md) to sort binary-tree
+[Newick](CppNewick.md) in such a way that all opening brackets are at
 the right.
 
  

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [OrnsteinUhlenbeck](CppOrnsteinUhlenbeck.htm)
+([C++](Cpp.md)) [OrnsteinUhlenbeck](CppOrnsteinUhlenbeck.md)
 ==============================================================
 
  
@@ -212,5 +212,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

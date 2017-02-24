@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [wav](CppWav.htm)
+([C++](Cpp.md)) [wav](CppWav.md)
 ==================================
 
  
 
-[wav](CppWav.htm) is a music file format.
+[wav](CppWav.md) is a music file format.
 
  
 
@@ -81,5 +81,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

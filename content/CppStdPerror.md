@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::perror](CppPerror.htm)
+([C++](Cpp.md)) [std::perror](CppPerror.md)
 =============================================
 
  
 
-[std::perror](CppPerror.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm).
+[std::perror](CppPerror.md) is an [STL](CppStl.md)
+[function](CppFunction.md).
 
  
 
-[std::perror](CppPerror.htm) is [defined](CppDefinition.htm) in
-[cstdio.h](CppCstdioH.htm).
+[std::perror](CppPerror.md) is [defined](CppDefinition.md) in
+[cstdio.h](CppCstdioH.md).
 
  
 

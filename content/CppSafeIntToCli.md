@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [SafeIntToCli](CppSafeIntToCli.htm)
+([C++](Cpp.md)) [SafeIntToCli](CppSafeIntToCli.md)
 ====================================================
 
  
 
-[SafeIntToCli](CppSafeIntToCli.htm) is a [cln::cl\_I](CppCl_I.htm)
-[conversion](CppConvert.htm) [code snippets](CppCodeSnippets.htm) to
-[convert](CppConvert.htm) an [integer](CppInt.htm) to a
-[cln::cl\_I](CppCl_I.htm) safely.
+[SafeIntToCli](CppSafeIntToCli.md) is a [cln::cl\_I](CppCl_I.md)
+[conversion](CppConvert.md) [code snippets](CppCodeSnippets.md) to
+[convert](CppConvert.md) an [integer](CppInt.md) to a
+[cln::cl\_I](CppCl_I.md) safely.
 
  
 

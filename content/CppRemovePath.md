@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [RemovePath](CppRemovePath.htm)
+([C++](Cpp.md)) [RemovePath](CppRemovePath.md)
 ================================================
 
  
 
  
 
-[RemovePath](CppRemovePath.htm) is a [std::string](CppString.htm) and
-[file I/O](CppFileIo.htm) [code snippet](CppCodeSnippets.htm) to remove
+[RemovePath](CppRemovePath.md) is a [std::string](CppString.md) and
+[file I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md) to remove
 a filename's path.
 
  
@@ -48,5 +48,5 @@ a filename's path.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

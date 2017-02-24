@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [\_\_func\_\_](Cpp__func__.htm)
+([C++](Cpp.md)) [\_\_func\_\_](Cpp__func__.md)
 ================================================
 
  
 
-[\_\_func\_\_](Cpp__func__.htm) can be used to obtain the name of the
-current [function](CppFunction.htm).
+[\_\_func\_\_](Cpp__func__.md) can be used to obtain the name of the
+current [function](CppFunction.md).
 
  
 
-[\_\_func\_\_](Cpp__func__.htm) is -as far is I know- optionally
-supplied by a [compiler](CppCompiler.htm), for example by
-[G++](CppGpp.htm).
+[\_\_func\_\_](Cpp__func__.md) is -as far is I know- optionally
+supplied by a [compiler](CppCompiler.md), for example by
+[G++](CppGpp.md).
 
  
 
@@ -41,7 +41,7 @@ Example
 
  
 
-The example below shows how to display a [function](CppFunction.htm)
+The example below shows how to display a [function](CppFunction.md)
 name.
 
  
@@ -64,35 +64,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -105,7 +105,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): Cpp\_\_func\_\_.pro
+[Qt project file](CppQtProjectFile.md): Cpp\_\_func\_\_.pro
 ------------------------------------------------------------
 
  
@@ -162,5 +162,5 @@ Screen output:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

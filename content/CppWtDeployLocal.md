@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Local Wt deployment](CppWtDeployLocal.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Local Wt deployment](CppWtDeployLocal.md)
 =============================================================================
 
  
 
-[Local Wt deployment](CppWtDeployLocal.htm) is a type of [Wt
-deployment](CppWtDeploy.htm) in which the [Wt](CppWt.htm) application is
+[Local Wt deployment](CppWtDeployLocal.md) is a type of [Wt
+deployment](CppWtDeploy.md) in which the [Wt](CppWt.md) application is
 executed in a browser on the same machine it has been developed on,
 without the need of internet access. [Local Wt
-deployment](CppWtDeployLocal.htm) is described at the [Hello
-Wt](CppHelloWt.htm) page.
+deployment](CppWtDeployLocal.md) is described at the [Hello
+Wt](CppHelloWt.md) page.
 
  
 

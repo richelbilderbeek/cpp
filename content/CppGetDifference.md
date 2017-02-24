@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetDifference](CppGetDifference.htm)
+([C++](Cpp.md)) [GetDifference](CppGetDifference.md)
 ======================================================
 
  
 
-[GetDifference](CppGetDifference.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to get get a difference
-[std::vector](CppVector.htm) from [std::vectors](CppVector.htm).
+[GetDifference](CppGetDifference.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to get get a difference
+[std::vector](CppVector.md) from [std::vectors](CppVector.md).
 
  
 

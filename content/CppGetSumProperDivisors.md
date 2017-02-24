@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetSumProperDivisors](CppGetSumProperDivisors.htm)
+([C++](Cpp.md)) [GetSumProperDivisors](CppGetSumProperDivisors.md)
 ====================================================================
 
  
 
-[GetSumProperDivisors](CppGetSumProperDivisors.htm) is a
-[math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to determine if
+[GetSumProperDivisors](CppGetSumProperDivisors.md) is a
+[math](CppMath.md) [code snippet](CppCodeSnippets.md) to determine if
 a number is perfect.
 
  

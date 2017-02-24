@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm) ) [Assertion failed: used-&gt;flags & F\_MOD\_UNIT](CppLinkErrorAssertionFailedUsedFlagsAndF_MOD_UNIT.htm)
+([C++](Cpp.md) ) [Assertion failed: used-&gt;flags & F\_MOD\_UNIT](CppLinkErrorAssertionFailedUsedFlagsAndF_MOD_UNIT.md)
 ==========================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
@@ -59,7 +59,7 @@ Cause
 
  
 
-Removed all [\#pragma](CppPragma.htm) directives from a multi-unit
+Removed all [\#pragma](CppPragma.md) directives from a multi-unit
 project, then pressed F9 (Run)
 
  

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png) [My context-sensitive help is missing. How to fix this?](CppQtCreatorContextSensitiveHelpMissing.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png) [My context-sensitive help is missing. How to fix this?](CppQtCreatorContextSensitiveHelpMissing.md)
 ======================================================================================================================================================
 
  

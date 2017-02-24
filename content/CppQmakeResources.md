@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [RESOURCES (qmake variable)](CppQmakeResources.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [RESOURCES (qmake variable)](CppQmakeResources.md)
 =====================================================================================
 
  
 
-[RESOURCES](CppQmakeResources.htm) is a [qmake
-variable](CppQmakeVariable.htm) to determine which files are part of a
-[Qt](CppQt.htm) project, that are [resources](CppResource.htm).
+[RESOURCES](CppQmakeResources.md) is a [qmake
+variable](CppQmakeVariable.md) to determine which files are part of a
+[Qt](CppQt.md) project, that are [resources](CppResource.md).
 
  
 

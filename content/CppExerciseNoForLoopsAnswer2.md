@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#2](CppExerciseNoForLoopsAnswer2.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#2](CppExerciseNoForLoopsAnswer2.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,16 +30,16 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#2: [Multiply](CppMultiply.htm)
+Question \#2: [Multiply](CppMultiply.md)
 -----------------------------------------
 
  
 
-Replace the [for](CppFor.htm)-loop. You will need
+Replace the [for](CppFor.md)-loop. You will need
 
--   [std::bind2nd](CppBind2nd.htm) (or [boost::bind](CppBind.htm))
--   [std::multiplies](CppMultiplies.htm)
--   [std::transform](CppTransform.htm)
+-   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::multiplies](CppMultiplies.md)
+-   [std::transform](CppTransform.md)
 
  
 
@@ -57,7 +57,7 @@ Replace the [for](CppFor.htm)-loop. You will need
 
  
 
-Answer using [STL](CppStl.htm) only
+Answer using [STL](CppStl.md) only
 -----------------------------------
 
  
@@ -76,7 +76,7 @@ Answer using [STL](CppStl.htm) only
 
  
 
-Answer using [Boost](CppBoost.htm)
+Answer using [Boost](CppBoost.md)
 ----------------------------------
 
  

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [GetSum of a matrix](CppGetSumMatrix.htm)
+([C++](Cpp.md)) [GetSum of a matrix](CppGetSumMatrix.md)
 ==========================================================
 
  
 
-[Matrix](CppMatrix.htm) [code snippet](CppCodeSnippets.htm) to sum all
-values in a two-dimensional [matrix](CppMatrix.htm). To sum all values
-in a one-dimensional [container](CppContainer.htm), [go to the GetSum
-(on container) page](CppGetSum.htm).
+[Matrix](CppMatrix.md) [code snippet](CppCodeSnippets.md) to sum all
+values in a two-dimensional [matrix](CppMatrix.md). To sum all values
+in a one-dimensional [container](CppContainer.md), [go to the GetSum
+(on container) page](CppGetSum.md).
 
  
 

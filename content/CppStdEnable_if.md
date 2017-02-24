@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [std::enable\_if](CppStdEnable_if.htm)
+([C++](Cpp.md)) [std::enable\_if](CppStdEnable_if.md)
 =======================================================
 
  
 
-[std::enable\_if](CppStdEnable_if.htm) is a [C++11](Cpp11.htm) ...
+[std::enable\_if](CppStdEnable_if.md) is a [C++11](Cpp11.md) ...
 
  
 
-[std::enable\_if](CppStdEnable_if.htm) is a convenient way to leverage
-[SFINAE](CppSfinae.htm) to conditionally remove
-[functions](CppFunction.htm) from [overload
-resolution](CppOverloadResolution.htm) based on [type
-traits](CppTypeTrait.htm) and to provide separate
-[function](CppFunction.htm) overloads and specializations for different
-[type traits](CppTypeTrait.htm). [std::enable\_if](CppStdEnable_if.htm)
+[std::enable\_if](CppStdEnable_if.md) is a convenient way to leverage
+[SFINAE](CppSfinae.md) to conditionally remove
+[functions](CppFunction.md) from [overload
+resolution](CppOverloadResolution.md) based on [type
+traits](CppTypeTrait.md) and to provide separate
+[function](CppFunction.md) overloads and specializations for different
+[type traits](CppTypeTrait.md). [std::enable\_if](CppStdEnable_if.md)
 can be used as an additional function argument (not applicable to
 operator overloads), as a return type (not applicable to constructors
 and destructors), or as a class template or function template parameter'
@@ -43,12 +43,12 @@ and destructors), or as a class template or function template parameter'
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::enable\_if example 1: basics](CppStdEnable_ifExample1.htm)
+-   [std::enable\_if example 1: basics](CppStdEnable_ifExample1.md)
 
  
 
@@ -60,13 +60,13 @@ and destructors), or as a class template or function template parameter'
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Distinguish among [std::enable\_if](CppStdEnable_if.htm),
-    [static\_assert](CppStatic_assert.htm), and =delete \[1\]
+-   Distinguish among [std::enable\_if](CppStdEnable_if.md),
+    [static\_assert](CppStatic_assert.md), and =delete \[1\]
 
  
 
@@ -96,12 +96,12 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Distinguish among
     std::enable\_if, static\_assert, and =delete'
 2.  [cppreference.com its page about
@@ -134,5 +134,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

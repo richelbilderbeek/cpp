@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [RandomCode](CppRandomCode.htm)
+([C++](Cpp.md)) [RandomCode](CppRandomCode.md)
 ================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[RandomCode](CppRandomCode.htm) is a [class](CppClass.htm) to generate
-random [C++](Cpp.htm) code.
+[RandomCode](CppRandomCode.md) is a [class](CppClass.md) to generate
+random [C++](Cpp.md) code.
 
  
 
-[RandomCode](CppRandomCode.htm) is used by the [tool](Tools.htm)
-[RandomCode](ToolRandomCode.htm).
+[RandomCode](CppRandomCode.md) is used by the [tool](Tools.md)
+[RandomCode](ToolRandomCode.md).
 
 Technical facts
 ---------------
@@ -111,5 +111,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,61 +12,61 @@
 
  
 
-([C++](Cpp.htm)) [DoHistogramEqualization](CppDoHistogramEqualization.htm)
+([C++](Cpp.md)) [DoHistogramEqualization](CppDoHistogramEqualization.md)
 ==========================================================================
 
  
 
-[Graphics](CppVclGraphics.htm) [code snippet](CppVclCodeSnippets.htm) to
-perform a histogram equalization on a [VCL](CppVcl.htm)
-[TImage](CppTImage.htm).
+[Graphics](CppVclGraphics.md) [code snippet](CppVclCodeSnippets.md) to
+perform a histogram equalization on a [VCL](CppVcl.md)
+[TImage](CppTImage.md).
 
  
 
-[DoHistogramEqualization](CppDoHistogramEqualization.htm) is similar to
-[EnhanceContrast](CppEnhanceContrast.htm), except that
-[EnhanceContrast](CppEnhanceContrast.htm) is milder: it tries to
+[DoHistogramEqualization](CppDoHistogramEqualization.md) is similar to
+[EnhanceContrast](CppEnhanceContrast.md), except that
+[EnhanceContrast](CppEnhanceContrast.md) is milder: it tries to
 minimally change the average greyness (using
-[GetAverageGreyness](CppGetAverageGreyness.htm) to first measure it).
+[GetAverageGreyness](CppGetAverageGreyness.md) to first measure it).
 
  
 
 I have also programmed a tool that uses
-[DoHistogramEqualization](CppDoHistogramEqualization.htm), called
-[HistogramEqualizationer](CppHistogramEqualizationer.htm).
+[DoHistogramEqualization](CppDoHistogramEqualization.md), called
+[HistogramEqualizationer](CppHistogramEqualizationer.md).
 
  
 
-[DoHistogramEqualization](CppDoHistogramEqualization.htm) works on both
+[DoHistogramEqualization](CppDoHistogramEqualization.md) works on both
 grey and color images.
 
  
 
-[DoHistogramEqualization](CppDoHistogramEqualization.htm) assumes you
-have defined the functions [GetImageHistogram](CppGetImageHistogram.htm)
-and [GetCumulativeHistogram](CppGetCumulativeHistogram.htm).
+[DoHistogramEqualization](CppDoHistogramEqualization.md) assumes you
+have defined the functions [GetImageHistogram](CppGetImageHistogram.md)
+and [GetCumulativeHistogram](CppGetCumulativeHistogram.md).
 
  
 
 -   [View an example of a composition image demonstrating
     DoHistogramEqualization](CppDoHistogramEqualization.png): first, on
-    the original (top) image, a [ConvertToGrey](CppConvertToGrey.htm)
+    the original (top) image, a [ConvertToGrey](CppConvertToGrey.md)
     was performed, resulting in the middle image. On this result,
-    [DoHistogramEqualization](CppDoHistogramEqualization.htm) was
+    [DoHistogramEqualization](CppDoHistogramEqualization.md) was
     performed on, resulting in the bottom image
 -   [View an example of a composition image demonstrating
     EnhanceContrast and
     DoHistogramEqualization](CppEnhanceContrast.png): first, on the
     original (top-left) image, a
-    [DoFilterOperation](CppDoFilterOperation.htm) was performed,
+    [DoFilterOperation](CppDoFilterOperation.md) was performed,
     resulting in the bottom-left image. On this result, both a
-    [DoHistogramEqualization](CppDoHistogramEqualization.htm) (top-right)
-    and [EnhanceContrast](CppEnhanceContrast.htm) (bottom-right) were
+    [DoHistogramEqualization](CppDoHistogramEqualization.md) (top-right)
+    and [EnhanceContrast](CppEnhanceContrast.md) (bottom-right) were
     performed on
 -   [View the code of 'DoHistogramEqualization' in plain
     text](CppDoHistogramEqualization.txt)
 -   [Go to the page of
-    'HistogramEqualizationer'](CppHistogramEqualizationer.htm)
+    'HistogramEqualizationer'](CppHistogramEqualizationer.md)
 
  
 

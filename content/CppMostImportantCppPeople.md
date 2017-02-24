@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [most important C++ people](CppMostImportantCppPeople.htm)
+([C++](Cpp.md)) [most important C++ people](CppMostImportantCppPeople.md)
 ===========================================================================
 
  
 
-The 5 most important [C++ people](CppPeople.htm) (no order of
+The 5 most important [C++ people](CppPeople.md) (no order of
 importance) \[1\] :
 
--   [Bjarne Stroustrup](CppBjarneStroustrup.htm)
--   [Andrew Koenig](CppAndrewKoenig.htm)
--   [Scott Meyers](CppScottMeyers.htm)
--   [Herb Sutter](CppHerbSutter.htm)
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.htm)
+-   [Bjarne Stroustrup](CppBjarneStroustrup.md)
+-   [Andrew Koenig](CppAndrewKoenig.md)
+-   [Scott Meyers](CppScottMeyers.md)
+-   [Herb Sutter](CppHerbSutter.md)
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md)
 
  
 
@@ -36,12 +36,12 @@ importance) \[1\] :
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). The most important C++
+1.  [Scott Meyers](CppScottMeyers.md). The most important C++
     people ...ever. 2006. Online at
     http://www.artima.com/cppsource/top\_cpp\_people.html
 

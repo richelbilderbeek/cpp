@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Undefined reference to 'SSLv2\_method'](CppLinkErrorUndefinedReferenceToSSLv2_method.htm)
+([C++](Cpp.md)) [Undefined reference to 'SSLv2\_method'](CppLinkErrorUndefinedReferenceToSSLv2_method.md)
 ===========================================================================================================
 
  
 
-[link error](CppLinkError.htm).
+[link error](CppLinkError.md).
 
  
 
@@ -35,7 +35,7 @@ Full error message
  
 
 (I failed to replicate this error on [Ubuntu](http://www.ubuntu.com)
-using [Qt Creator](CppQtCreator.htm) 2.0.0 and [Boost](CppBoost.htm)
+using [Qt Creator](CppQtCreator.md) 2.0.0 and [Boost](CppBoost.md)
 1.40).
 
  
@@ -61,19 +61,17 @@ Cause
 
 Operating system: [Xubuntu](http://www.xubuntu.org) 9.10 Karmic Koala
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.2.1
 
-[Project type](CppQtProjectType.htm): Console Application
+[Project type](CppQtProjectType.md): Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.38
--   [Qt](CppQt.htm): version supplied with [Qt
-    Creator](CppQtCreator.htm) 1.2.1
-
- 
+-   [Boost](CppBoost.md): version 1.38
+-   [Qt](CppQt.md): version supplied with [Qt
+    Creator](CppQtCreator.md) 1.2.1
 
  
 
@@ -83,7 +81,9 @@ Operating system: [Xubuntu](http://www.xubuntu.org) 9.10 Karmic Koala
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -126,8 +126,8 @@ Solution
 
  
 
-Add the following line to the [Qt Creator](CppQtCreator.htm) [project
-file](CppQtProjectFile.htm):
+Add the following line to the [Qt Creator](CppQtCreator.md) [project
+file](CppQtProjectFile.md):
 
  
 

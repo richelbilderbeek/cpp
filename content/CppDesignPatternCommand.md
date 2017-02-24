@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [Command](CppDesignPatternCommand.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Command](CppDesignPatternCommand.md) ([Design Pattern](CppDesignPattern.htm))
 ================================================================================================
 
  
 
-The [Command](CppDesignPatternCommand.htm) [Design
-Pattern](CppDesignPattern.htm) 'encapsulates a request as an object,
+The [Command](CppDesignPatternCommand.md) [Design
+Pattern](CppDesignPattern.md) 'encapsulates a request as an object,
 thereby letting you parameterize clients with different requests, queue
 or log requests, and support undoable operations' \[1\]
 
  
 
-Personally, I view a [Command](CppDesignPatternCommand.htm) as a
-[class](CppClass.htm) containing a single push button (labeled
+Personally, I view a [Command](CppDesignPatternCommand.md) as a
+[class](CppClass.md) containing a single push button (labeled
 'Execute'), where the class itself does not know what this push button
 does.
 
  
 
-In \[1\] a [Command](CppDesignPatternCommand.htm) [base
-class](CppBaseClass.htm) is described. But instead I show two of my
-personal flavors of the [Command](CppDesignPatternCommand.htm) [Design
-Pattern](CppDesignPattern.htm).
+In \[1\] a [Command](CppDesignPatternCommand.md) [base
+class](CppBaseClass.md) is described. But instead I show two of my
+personal flavors of the [Command](CppDesignPatternCommand.md) [Design
+Pattern](CppDesignPattern.md).
 
  
 
@@ -75,14 +75,14 @@ Screen output:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

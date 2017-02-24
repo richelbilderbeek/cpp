@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SFML](CppSfml.htm)
+([C++](Cpp.md)) [SFML](CppSfml.md)
 ====================================
 
  
 
-[SFML](CppSfml.htm) ('Simple and Fast Media Library') is
-[library](CppLibrary.htm) for 2D graphics and is intented to be simple.
+[SFML](CppSfml.md) ('Simple and Fast Media Library') is
+[library](CppLibrary.md) for 2D graphics and is intented to be simple.
 
  
 
@@ -35,11 +35,11 @@ Examples
 
  
 
--   [SFML example 1](CppSfmlExample1.htm)
--   [SFML example 2](CppSfmlExample2.htm)
--   [SFML example 3](CppSfmlExample3.htm)
--   [SFML example 4](CppSfmlExample4.htm)
--   [SFML example 5](CppSfmlExample5.htm)
+-   [SFML example 1](CppSfmlExample1.md)
+-   [SFML example 2](CppSfmlExample2.md)
+-   [SFML example 3](CppSfmlExample3.md)
+-   [SFML example 4](CppSfmlExample4.md)
+-   [SFML example 5](CppSfmlExample5.md)
 
  
 
@@ -51,13 +51,13 @@ Examples
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 

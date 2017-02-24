@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WDateTime](CppWDateTime.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WDateTime](CppWDateTime.md)
 ===================================================================
 
  
 
-[Wt::WDateTime](CppWDateTime.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WDateTime](CppWDateTime.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WDateTime](CppWDateTime.htm) is used in, among others:
+[Wt::WDateTime](CppWDateTime.md) is used in, among others:
 
 -   ...
 

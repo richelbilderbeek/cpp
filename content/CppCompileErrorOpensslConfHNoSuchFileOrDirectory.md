@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [openssl/conf.h: No such file or directory](CppCompileErrorOpensslConfHNoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [openssl/conf.h: No such file or directory](CppCompileErrorOpensslConfHNoSuchFileOrDirectory.md)
 ==================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,16 +53,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.2.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.38.0.
+[Boost](CppBoost.md) version: 1.38.0.
 
  
 
@@ -95,7 +95,7 @@ Find under Microsoft Windows).
 
  
 
-In [Qt Creator](CppQtCreator.htm), you can set it as an include folder
+In [Qt Creator](CppQtCreator.md), you can set it as an include folder
 by editing the project file (for example, MyProject.pro). To start
 editing it, double-click it.
 

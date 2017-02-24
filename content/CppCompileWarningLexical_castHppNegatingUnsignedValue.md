@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [lexical\_cast.hpp: Negating unsigned value](CppCompileWarningLexical_castHppNegatingUnsignedValue.htm)
+([C++](Cpp.md)) [lexical\_cast.hpp: Negating unsigned value](CppCompileWarningLexical_castHppNegatingUnsignedValue.md)
 ========================================================================================================================
 
  
 
-[Compile warning](CppCompileWarning.htm).
+[Compile warning](CppCompileWarning.md).
 
  
 
@@ -70,11 +70,11 @@ Which takes you to the following line in
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
-[Boost](CppBoost.htm) version: 1.35.0.
+[Boost](CppBoost.md) version: 1.35.0.
 
  
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::fscanf](CppFscanf.htm)
+([C++](Cpp.md)) [std::fscanf](CppFscanf.md)
 =============================================
 
  
 
-[std::fscanf](CppFscanf.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm).
+[std::fscanf](CppFscanf.md) is an [STL](CppStl.md)
+[function](CppFunction.md).
 
  
 
-[std::fscanf](CppFscanf.htm) is [defined](CppDefinition.htm) in
-[cstdio.h](CppCstdioH.htm).
+[std::fscanf](CppFscanf.md) is [defined](CppDefinition.md) in
+[cstdio.h](CppCstdioH.md).
 
  
 

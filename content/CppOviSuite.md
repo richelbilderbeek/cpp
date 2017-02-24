@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Ovi Suite](CppOviSuite.htm)
+([C++](Cpp.md)) [Ovi Suite](CppOviSuite.md)
 =============================================
 
  
 
-[Ovi Suite](CppOviSuite.htm) needs to be installed before
-[Carbide.C++](CppCarbideCpp.htm).
+[Ovi Suite](CppOviSuite.md) needs to be installed before
+[Carbide.C++](CppCarbideCpp.md).
 
  
 

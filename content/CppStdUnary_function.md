@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [std::unary\_function](CppStdUnary_function.htm)
+([C++](Cpp.md)) [std::unary\_function](CppStdUnary_function.md)
 =================================================================
 
  
 
-[std::unary\_function](CppStdUnary_function.htm) is deprecated \[2,3\].
+[std::unary\_function](CppStdUnary_function.md) is deprecated \[2,3\].
 
  
 
-[std::unary\_function](CppStdUnary_function.htm) is an empty
-[class](CppClass.htm) that serves as the [base class](CppBaseClass.htm)
-of a unary [functor](CppFunctor.htm). A unary [functor](CppFunctor.htm)
-defines [operator()](CppOperatorFunctionCall.htm), where
-[operator()](CppOperatorFunctionCall.htm) takes one
-[argument](CppArgument.htm).
+[std::unary\_function](CppStdUnary_function.md) is an empty
+[class](CppClass.md) that serves as the [base class](CppBaseClass.md)
+of a unary [functor](CppFunctor.md). A unary [functor](CppFunctor.md)
+defines [operator()](CppOperatorFunctionCall.md), where
+[operator()](CppOperatorFunctionCall.md) takes one
+[argument](CppArgument.md).
 
  
 
-The advantage of using [std::unary\_function](CppStdUnary_function.htm)
-is its (two) [typedef](CppTypedef.htm)s, so that the
-[derived](CppDerivedClass.htm) [functors](CppFunctor.htm) fits into more
-[algorithms](CppAlgorithm.htm). Make [functors](CppFunctor.htm)
+The advantage of using [std::unary\_function](CppStdUnary_function.md)
+is its (two) [typedef](CppTypedef.md)s, so that the
+[derived](CppDerivedClass.md) [functors](CppFunctor.md) fits into more
+[algorithms](CppAlgorithm.md). Make [functors](CppFunctor.md)
 adaptable \[1\].
 
  
@@ -48,7 +48,7 @@ adaptable \[1\].
 
  
 
-Example: [MakeAbs](CppMakeAbs.htm)
+Example: [MakeAbs](CppMakeAbs.md)
 ----------------------------------
 
  
@@ -67,7 +67,7 @@ Example: [MakeAbs](CppMakeAbs.htm)
 
  
 
-Example [definition](CppDefinition.htm) of [std::unary\_function](CppStdUnary_function.htm)
+Example [definition](CppDefinition.md) of [std::unary\_function](CppStdUnary_function.md)
 -------------------------------------------------------------------------------------------
 
  
@@ -90,12 +90,12 @@ Simplified from the GNU ISO C++ Library, version 4.7.2:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+1.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9. Item 40: 'Make functor classes adaptable'
 2.  Programming Language C++, Library Working Group. 2010-10-06.
     Document number: N3145=10-0135

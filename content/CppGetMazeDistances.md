@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [GetMazeDistances](CppGetMazeDistances.htm)
+([C++](Cpp.md)) [GetMazeDistances](CppGetMazeDistances.md)
 ============================================================
 
  
 
-[GetMazeDistances](CppGetMazeDistances.htm) is a [maze](CppMaze.htm)
-[code snippet](CppCodeSnippets.htm) to calculate the distances of all
+[GetMazeDistances](CppGetMazeDistances.md) is a [maze](CppMaze.md)
+[code snippet](CppCodeSnippets.md) to calculate the distances of all
 squares to the exit of a maze (for example one created with
-[CreateMaze](CppCreateMaze.htm)/[CreateSloppyMaze](CppCreateSloppyMaze.htm))
+[CreateMaze](CppCreateMaze.md)/[CreateSloppyMaze](CppCreateSloppyMaze.md))
 Walls are given the highest possible value. If the
-[algorithm](CppAlgorithm.htm) below is too confusing, For a perhaps more
-straightforward, though slower [algorithm](CppAlgorithm.htm), view
-[GetMazeDistancesSlow](CppGetMazeDistancesSlow.htm).
+[algorithm](CppAlgorithm.md) below is too confusing, For a perhaps more
+straightforward, though slower [algorithm](CppAlgorithm.md), view
+[GetMazeDistancesSlow](CppGetMazeDistancesSlow.md).
 
  
 
@@ -43,17 +43,17 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): Qt4 [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

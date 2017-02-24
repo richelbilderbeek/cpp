@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.htm)
+([C++](Cpp.md)) ![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.md)
 =================================================================
 
  
 
-[SliTaz](CppSliTaz.htm) in a very small [linux](CppLinux.htm)
+[SliTaz](CppSliTaz.md) in a very small [linux](CppLinux.md)
 distribution.
 
  
@@ -30,7 +30,7 @@ distribution.
 
  
 
-![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.htm): install packages
+![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.md): install packages
 ------------------------------------------------------------------
 
  
@@ -49,12 +49,12 @@ distribution.
 
  
 
-![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.htm): start openSSH
+![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.md): start openSSH
 ---------------------------------------------------------------
 
  
 
-In case you want to access the [SliTaz](CppSliTaz.htm) computer with
+In case you want to access the [SliTaz](CppSliTaz.md) computer with
 putty.
 
  

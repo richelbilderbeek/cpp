@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsItem testing](CppQGraphicsItemTesting.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsItem testing](CppQGraphicsItemTesting.md)
 ======================================================================================
 
  
 
-This [article](CppArticle.htm) shows how to test your
-[QGraphicsItem](CppQGraphicsItem.htm).
+This [article](CppArticle.md) shows how to test your
+[QGraphicsItem](CppQGraphicsItem.md).
 
  
 

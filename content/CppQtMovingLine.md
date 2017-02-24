@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm) ![Qt](PicQt.png) [Qt Creator](CppQtCreator.htm)) [Moving line](CppQtMovingLine.htm)
+([C++](Cpp.md) ![Qt](PicQt.png) [Qt Creator](CppQtCreator.md)) [Moving line](CppQtMovingLine.htm)
 ===================================================================================================
 
  
 
-[Moving line](CppQtMovingLine.htm) is a [Qt example](CppQtExample.htm)
+[Moving line](CppQtMovingLine.md) is a [Qt example](CppQtExample.md)
 to do 2D graphics like [this screenshot](CppQtMovingLine.png).
 
  
@@ -28,7 +28,7 @@ to do 2D graphics like [this screenshot](CppQtMovingLine.png).
 
  
 
-[Project file](CppQtProjectFile.htm):
+[Project file](CppQtProjectFile.md):
 
  
 

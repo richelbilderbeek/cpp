@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [OpenQuestion](CppOpenQuestion.htm)
+([C++](Cpp.md)) [OpenQuestion](CppOpenQuestion.md)
 ====================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[OpenQuestion](CppOpenQuestion.htm) is a [class](CppClass.htm) for an
-open [question](CppQuestion.htm).
+[OpenQuestion](CppOpenQuestion.md) is a [class](CppClass.md) for an
+open [question](CppQuestion.md).
 
 Technical facts
 ---------------
@@ -144,5 +144,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

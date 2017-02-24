@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Andrei Alexandrescu](CppAndreiAlexandrescu.htm)
+([C++](Cpp.md)) [Andrei Alexandrescu](CppAndreiAlexandrescu.md)
 =================================================================
 
  
 
  
 
-[Andrei Alexandrescu](CppAndreiAlexandrescu.htm) is one of the [most
-important C++ people](CppMostImportantCppPeople.htm) \[1\] and author of
-one of the [most important C++ books](CppMostImportantCppBooks.htm)
+[Andrei Alexandrescu](CppAndreiAlexandrescu.md) is one of the [most
+important C++ people](CppMostImportantCppPeople.md) \[1\] and author of
+one of the [most important C++ books](CppMostImportantCppBooks.md)
 \[2\].
 
  
@@ -34,21 +34,21 @@ one of the [most important C++ books](CppMostImportantCppBooks.htm)
 
  
 
-List of books (co-)authored by [Andrei Alexandrescu](CppAndreiAlexandrescu.htm)
+List of books (co-)authored by [Andrei Alexandrescu](CppAndreiAlexandrescu.md)
 -------------------------------------------------------------------------------
 
  
 
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315.
--   [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+-   [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
 
  
 
-According to [Scott Meyers](CppScottMeyers.htm), 'Modern C++ Design' is
-one of the [most important C++ books](CppMostImportantCppBooks.htm)
+According to [Scott Meyers](CppScottMeyers.md), 'Modern C++ Design' is
+one of the [most important C++ books](CppMostImportantCppBooks.md)
 \[2\].
 
  
@@ -80,15 +80,15 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). The most important C++
+1.  [Scott Meyers](CppScottMeyers.md). The most important C++
     people ...ever. 2006. Online at
     http://www.artima.com/cppsource/top\_cpp\_people.html
-2.  [Scott Meyers](CppScottMeyers.htm). The Most Important
+2.  [Scott Meyers](CppScottMeyers.md). The Most Important
     C++ Books...Ever. Online at
     http://www.artima.com/cppsource/top\_cpp\_books.html
 

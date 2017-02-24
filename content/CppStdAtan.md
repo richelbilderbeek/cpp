@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::atan](CppAtan.htm)
+([C++](Cpp.md)) [std::atan](CppAtan.md)
 =========================================
 
  
 
-[std::atan](CppAtan.htm) is a [mathematical](CppMath.htm)
-[function](CppFunction.htm) to calculate the arc tangens.
+[std::atan](CppAtan.md) is a [mathematical](CppMath.md)
+[function](CppFunction.md) to calculate the arc tangens.
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [HEADERS (qmake variable)](CppQmakeHeaders.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [HEADERS (qmake variable)](CppQmakeHeaders.md)
 =================================================================================
 
  
 
-[HEADERS](CppQmakeHeaders.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[HEADERS](CppQmakeHeaders.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

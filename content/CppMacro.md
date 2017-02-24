@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Macro](CppMacro.htm)
+([C++](Cpp.md)) [Macro](CppMacro.md)
 ======================================
 
  
 
-[Macros](CppMacro.htm) are [preprocessor](CppPreprocessor.htm)
+[Macros](CppMacro.md) are [preprocessor](CppPreprocessor.md)
 statements.
 
  
@@ -30,15 +30,15 @@ statements.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
--   Avoid [macros](CppMacro.htm) \[1,8\], except [assert](CppAssert.htm)
+-   Avoid [macros](CppMacro.md) \[1,8\], except [assert](CppAssert.md)
     \[2-6\]
--   Avoid using [preprocessor](CppPreprocessor.htm)
-    [macros](CppMacro.htm) in [header (.h) files](CppHeaderFile.htm)
-    except as [include guards](CppIncludeGuard.htm) \[7\]
--   Use uppercase letters to name a [macro](CppMacro.htm) \[9,10\]
+-   Avoid using [preprocessor](CppPreprocessor.md)
+    [macros](CppMacro.md) in [header (.h) files](CppHeaderFile.md)
+    except as [include guards](CppIncludeGuard.md) \[7\]
+-   Use uppercase letters to name a [macro](CppMacro.md) \[9,10\]
 -   Add a unique prefix to macro names \[11\]
 
  
@@ -51,21 +51,21 @@ statements.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Item 16: 'Avoid macro's'.
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     68: 'Assert liberally to document internal assumptions and
     invariants'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Advice 24.5.18:
     'Explicitly express preconditions, postconditions, and other
     assertions as assertions'
@@ -80,12 +80,12 @@ statements.
 6.  Jesse Liberty. Sams teach yourself C++ in 24 hours.
     ISBN: 0-672-32224-2. Hour 24, chapter 'assert()': 'Use assert
     freely'
-7.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+7.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.3.4
-8.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
     Advice. page 341: '\[22\] Avoid macros'
-9.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+9.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
     Advice. page 341: '\[23\] If you must use macros, use ugly names
     with lots of capital letters'

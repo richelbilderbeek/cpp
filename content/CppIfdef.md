@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [\#ifdef](CppIfdef.htm)
+([C++](Cpp.md)) [\#ifdef](CppIfdef.md)
 ========================================
 
  
 
-[\#ifdef](CppIfdef.htm) is an abbreviation of 'if defined' and is the
-[preprocessor](CppPreprocessor.htm) equivalent of an
-[if](CppIf.htm)-statement.
+[\#ifdef](CppIfdef.md) is an abbreviation of 'if defined' and is the
+[preprocessor](CppPreprocessor.md) equivalent of an
+[if](CppIf.md)-statement.
 
  
 

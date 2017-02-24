@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) [Add](CppAdd.htm)
+([C++](Cpp.md)) [Add](CppAdd.md)
 ==================================
 
  
 
-[Add](CppAdd.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to add a certain same value to each
-element in a [std::vector](CppVector.htm).
+[Add](CppAdd.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to add a certain same value to each
+element in a [std::vector](CppVector.md).
 
  
 
-There are multiple ways to perform [Add](CppAdd.htm):
+There are multiple ways to perform [Add](CppAdd.md):
 
-1.  ![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.htm)
-    [algorithm](CppAlgorithm.htm) way on a
-    [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
-2.  ![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.htm)
-    [algorithm](CppAlgorithm.htm) way on a
-    [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+1.  ![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md)
+    [algorithm](CppAlgorithm.md) way on a
+    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+2.  ![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md)
+    [algorithm](CppAlgorithm.md) way on a
+    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 3.  ![C++98](PicCpp98.png) The for-loop way on a
-    [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 
  
 
@@ -48,12 +48,12 @@ There are multiple ways to perform [Add](CppAdd.htm):
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.htm) [algorithm](CppAlgorithm.htm) way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
@@ -71,12 +71,12 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.htm) [algorithm](CppAlgorithm.htm) way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
@@ -87,7 +87,7 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -99,12 +99,12 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-![C++98](PicCpp98.png) The for-loop way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png) The for-loop way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 --------------------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
@@ -122,16 +122,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The [C++](Cpp.htm)
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The [C++](Cpp.md)
     Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter
     18.12.1 : 'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). [C++](Cpp.htm) coding
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). [C++](Cpp.md) coding
     standards: 101 rules, guidelines, and best practices.
     ISBN: 0-32-111358-6. Chapter 84: 'Prefer algorithm calls to
     handwritten loops.'

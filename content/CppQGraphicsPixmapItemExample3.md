@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [QGraphicsPixmapItemExample3](CppQGraphicsPixmapItemExample3.htm)
+([C++](Cpp.md)) [QGraphicsPixmapItemExample3](CppQGraphicsPixmapItemExample3.md)
 ==================================================================================
 
  
 
 [QGraphicsPixmapItem example 3: clickable and selectable
-pixmap](CppQGraphicsPixmapItemExample3.htm) is a
-[QGraphicsPixmapItem](CppQGraphicsPixmapItem.htm) example. This example
+pixmap](CppQGraphicsPixmapItemExample3.md) is a
+[QGraphicsPixmapItem](CppQGraphicsPixmapItem.md) example. This example
 shows how to put multiple movable
-[QGraphicsPixmapItems](CppQGraphicsPixmapItem.htm) on screen and let
-them respond to mouse clicks using a [boost::signal](CppBoostSignal.htm)
+[QGraphicsPixmapItems](CppQGraphicsPixmapItem.md) on screen and let
+them respond to mouse clicks using a [boost::signal](CppBoostSignal.md)
 and let the user select one or more item (and show this by drawing those
 items differently).
 
@@ -38,35 +38,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -79,7 +79,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppQGraphicsPixmapItemExample3/CppQGraphicsPixmapItemExample3.pro
+[Qt project file](CppQtProjectFile.md): ./CppQGraphicsPixmapItemExample3/CppQGraphicsPixmapItemExample3.pro
 ------------------------------------------------------------------------------------------------------------
 
  
@@ -202,5 +202,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

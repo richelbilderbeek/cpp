@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Thinking Wt 3: creating a TicTacToe game](CppThinkingWt3.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Thinking Wt 3: creating a TicTacToe game](CppThinkingWt3.md)
 ================================================================================================
 
  
 
-This [article](CppArticle.htm) shows the way to create a TicTacToe game
-when using the [Wt](CppWt.htm) [library](CppLibrary.htm). The previous
-[article](CppArticle.htm), [Thinking Wt 2: creating a TicTacToe
-widget](CppThinkingWt2.htm), serves as a starting point.
+This [article](CppArticle.md) shows the way to create a TicTacToe game
+when using the [Wt](CppWt.md) [library](CppLibrary.md). The previous
+[article](CppArticle.md), [Thinking Wt 2: creating a TicTacToe
+widget](CppThinkingWt2.md), serves as a starting point.
 
  
 
@@ -75,8 +75,8 @@ Overview
 
  
 
-This [article](CppArticle.htm) elaborates on [Thinking Wt 2: creating a
-TicTacToe widget](CppThinkingWt2.htm) in which a TicTacToe widget was
+This [article](CppArticle.md) elaborates on [Thinking Wt 2: creating a
+TicTacToe widget](CppThinkingWt2.md) in which a TicTacToe widget was
 created. First the desired architecture is described, then the
 WtApplication is modified to handle multiple dialogs. Next, these
 dialogs are implemented.
@@ -105,13 +105,13 @@ The architecture, from biggest to smallest, consists of:
 
  
 
--   [main](CppMain.htm) creates a single class called WtApplication
--   WtApplication (a [derived class](CppDerivedClass.htm) of
-    [Wt::WApplication](CppWApplication.htm)) manages three dialogs,
+-   [main](CppMain.md) creates a single class called WtApplication
+-   WtApplication (a [derived class](CppDerivedClass.md) of
+    [Wt::WApplication](CppWApplication.md)) manages three dialogs,
     called WtTicTacToeAboutDialog, WtTicTacToeGameDialog and
     WtTicTacToeMenuDialog
--   These three dialogs (all [derived class](CppDerivedClass.htm) of
-    [Wt::WContainerWidget](CppWContainerWidget.htm)) consist of
+-   These three dialogs (all [derived class](CppDerivedClass.md) of
+    [Wt::WContainerWidget](CppWContainerWidget.md)) consist of
     multiple widgets.
 
  
@@ -130,8 +130,8 @@ Step 0: Starting point
  
 
 The code below is the finishing point of the previous
-[article](CppArticle.htm), [Thinking Wt 2: creating a TicTacToe
-widget](CppThinkingWt2.htm). For this [article](CppArticle.htm), it
+[article](CppArticle.md), [Thinking Wt 2: creating a TicTacToe
+widget](CppThinkingWt2.md). For this [article](CppArticle.md), it
 serves as a starting point.
 
  
@@ -155,10 +155,10 @@ Step 1: Implementing WtTicTacToeApplication
 
  
 
-The purpose of a [Wt::WApplication](CppWApplication.htm) is to manage
+The purpose of a [Wt::WApplication](CppWApplication.md) is to manage
 dialogs. In this example, there are three dialogs: the menu screen, the
 tic-tac-toe game and an about screen. At the
-[construction](CppConstructor.htm) of WtTicTacToeApplication, the menu
+[construction](CppConstructor.md) of WtTicTacToeApplication, the menu
 screen dialog must be shown. All three dialogs have signals for the
 application to respond to:
 
@@ -172,8 +172,8 @@ application to respond to:
 
 The application keeps only one dialog active at a time. When it creates
 one of the three dialogs, their signals are set to the right slots in
-the application. The dialogs need not to be [deleted](CppDelete.htm),
-because the addWidget [member function](CppMemberFunction.htm) takes
+the application. The dialogs need not to be [deleted](CppDelete.md),
+because the addWidget [member function](CppMemberFunction.md) takes
 over this responsibility.
 
  
@@ -233,8 +233,8 @@ Step 3: Implementing WtTicTacToeGameDialog
  
 
 The WtTicTacToeGameDialog remains nearly the same as already developed
-in the previous [article](CppArticle.htm) ([Thinking Wt 2: creating a
-TicTacToe widget](CppThinkingWt2.htm)), except that it now needs a
+in the previous [article](CppArticle.md) ([Thinking Wt 2: creating a
+TicTacToe widget](CppThinkingWt2.md)), except that it now needs a
 'Close' button and a signal that it can emit on closing.
 
  
@@ -282,14 +282,14 @@ Conclusion
 
  
 
-This [article](CppArticle.htm) elaborates on [Thinking Wt 2: creating a
-TicTacToe widget](CppThinkingWt2.htm) and shows how to modify the
+This [article](CppArticle.md) elaborates on [Thinking Wt 2: creating a
+TicTacToe widget](CppThinkingWt2.md) and shows how to modify the
 WtApplication to handle multiple dialogs.
 
  
 
-This [article](CppArticle.htm) is followed up by [Thinking Wt 4:
-polishing a TicTacToe game](CppThinkingWt4.htm), in which the game is
+This [article](CppArticle.md) is followed up by [Thinking Wt 4:
+polishing a TicTacToe game](CppThinkingWt4.md), in which the game is
 made to look nicer.
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [MusicNote](CppMusicNote.htm)
+([C++](Cpp.md)) [MusicNote](CppMusicNote.md)
 ==============================================
 
  
 
-[MusicChord](CppMusicNote.htm) is a [class](CppClass.htm) for a music
+[MusicChord](CppMusicNote.md) is a [class](CppClass.md) for a music
 note.
 
  
@@ -77,5 +77,5 @@ musicnote.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Lubuntu](PicLubuntu.png) [GetLubuntuVersionCodename](CppGetLubuntuVersionCodename.htm)
+([C++](Cpp.md)) ![Lubuntu](PicLubuntu.png) [GetLubuntuVersionCodename](CppGetLubuntuVersionCodename.md)
 =========================================================================================================
 
  
 
-[GetLubuntuVersionCodename](CppGetLubuntuVersionCodename.htm) is a
-[version](CppVersion.htm) [code snippets](CppCodeSnippets.htm) to obtain
-the [version](CppVersion.htm) of the current [Lubuntu](CppLubuntu.htm)
+[GetLubuntuVersionCodename](CppGetLubuntuVersionCodename.md) is a
+[version](CppVersion.md) [code snippets](CppCodeSnippets.md) to obtain
+the [version](CppVersion.md) of the current [Lubuntu](CppLubuntu.md)
 distibution's codename.
 
  

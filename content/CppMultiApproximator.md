@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MultiApproximator](CppMultiApproximator.htm)
+([C++](Cpp.md)) [MultiApproximator](CppMultiApproximator.md)
 ==============================================================
 
  
@@ -22,17 +22,17 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[MultiApproximator](CppMultiApproximator.htm) is a [class](CppClass.htm)
+[MultiApproximator](CppMultiApproximator.md) is a [class](CppClass.md)
 to perform an interpolation on data. For example, when the supplied data
 consists of the coordinats (1,1) and (2,2), it will estimate (the x
 value of) 1,5 to be (the value y value of) 1,5.
 
  
 
-[MultiApproximator](CppMultiApproximator.htm) supports multiple
+[MultiApproximator](CppMultiApproximator.md) supports multiple
 identical keys (for example the coordinats (1.0,2.0) and (1.0,3.0)),
-similar to a [std::multi\_map](CppMulti_map.htm).
-[Approximator](CppApproximator.htm) does not allow this.
+similar to a [std::multi\_map](CppMulti_map.md).
+[Approximator](CppApproximator.md) does not allow this.
 
 Technical facts
 ---------------
@@ -115,5 +115,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

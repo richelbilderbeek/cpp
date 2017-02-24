@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Error creating form: Invalid binary value on line 84](CppMiscErrorErrorCreatingFormInvalidBinaryValueOnLine84.htm)
+([C++](Cpp.md)) [Error creating form: Invalid binary value on line 84](CppMiscErrorErrorCreatingFormInvalidBinaryValueOnLine84.md)
 ====================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

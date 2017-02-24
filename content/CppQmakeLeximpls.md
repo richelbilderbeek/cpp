@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [LEXIMPLS (qmake variable)](CppQmakeLeximpls.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [LEXIMPLS (qmake variable)](CppQmakeLeximpls.md)
 ===================================================================================
 
  
 
-[LEXIMPLS](CppQmakeLeximpls.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[LEXIMPLS](CppQmakeLeximpls.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [make](CppMake.htm)
+([C++](Cpp.md)) [make](CppMake.md)
 ====================================
 
  
 
-[make](CppMake.htm) is a utility that automatically builds executable
+[make](CppMake.md) is a utility that automatically builds executable
 programs and libraries from source code by reading files called
 Makefiles which specify how to derive the target program \[1\].
 
@@ -31,18 +31,18 @@ Makefiles which specify how to derive the target program \[1\].
 
  
 
-[make](CppMake.htm) in [Qt Creator](CppQtCreator.htm)
+[make](CppMake.md) in [Qt Creator](CppQtCreator.md)
 -----------------------------------------------------
 
  
 
-In [Qt Creator](CppQtCreator.htm), the call to [make](CppMake.htm) can
-be changed in the projects' Build Settings. [make](CppMake.htm) is one
+In [Qt Creator](CppQtCreator.md), the call to [make](CppMake.md) can
+be changed in the projects' Build Settings. [make](CppMake.md) is one
 of the Build Steps.
 
  
 
-The default call to [make](CppMake.htm) is the following:
+The default call to [make](CppMake.md) is the following:
 
  
 
@@ -60,13 +60,13 @@ The default call to [make](CppMake.htm) is the following:
 
  
 
-Example [Qt Creator](CppQtCreator.htm) makefiles
+Example [Qt Creator](CppQtCreator.md) makefiles
 ------------------------------------------------
 
  
 
--   [empty Qt Creator console application](CppMakeConsole.htm)
--   [empty Qt Creator GUI application](CppMakeGui.htm)
+-   [empty Qt Creator console application](CppMakeConsole.md)
+-   [empty Qt Creator GUI application](CppMakeGui.md)
 
  
 
@@ -78,7 +78,7 @@ Example [Qt Creator](CppQtCreator.htm) makefiles
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [ClearChart](CppClearChart.htm)
+([C++](Cpp.md)) [ClearChart](CppClearChart.md)
 ================================================
 
  
 
-[ClearChart](CppClearChart.htm) is a [TChart](CppTChart.htm) [code
-snippet](CppVclCodeSnippets.htm) to clear all series.
+[ClearChart](CppClearChart.md) is a [TChart](CppTChart.md) [code
+snippet](CppVclCodeSnippets.md) to clear all series.
 
  
 
@@ -45,5 +45,5 @@ snippet](CppVclCodeSnippets.htm) to clear all series.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

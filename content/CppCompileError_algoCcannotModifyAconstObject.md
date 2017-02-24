@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [\_algo.c: Cannot modify a const object](CppCompileError_algoCcannotModifyAconstObject.htm)
+([C++](Cpp.md)) [\_algo.c: Cannot modify a const object](CppCompileError_algoCcannotModifyAconstObject.md)
 ============================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -40,7 +40,7 @@ Full error message
 
  
 
-The [compiler](CppCompiler.htm) takes you to the following line in
+The [compiler](CppCompiler.md) takes you to the following line in
 \_algo.c:
 
  
@@ -64,9 +64,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
@@ -91,9 +91,9 @@ Solution/workaround
 
  
 
-Remove the [const](CppConst.htm) of the [int](CppInt.htm) for the number
-of repeats, by [static\_cast](CppStatic_cast.htm)ing it in the
-[function](CppFunction.htm) call.
+Remove the [const](CppConst.md) of the [int](CppInt.md) for the number
+of repeats, by [static\_cast](CppStatic_cast.md)ing it in the
+[function](CppFunction.md) call.
 
  
 
@@ -103,7 +103,7 @@ of repeats, by [static\_cast](CppStatic_cast.htm)ing it in the
 
  
 
-Note that a [const\_cast](CppConst_cast.htm) does not work. Personally,
+Note that a [const\_cast](CppConst_cast.md) does not work. Personally,
 I would find this more appropriate, but I do not understand why this
 keeps giving the same error.
 
@@ -133,16 +133,16 @@ The actual problem is in \_algo.c. I have made all relevant information
 
  
 
-Because \_Integer is a [template](CppTemplate.htm) type, the
-[constness](CppConst.htm) of the \_\_count argument is also taken into
-account. The [local](CppLocal.htm) \_Integer \_\_n, however, must not be
-[const](CppConst.htm).
+Because \_Integer is a [template](CppTemplate.md) type, the
+[constness](CppConst.md) of the \_\_count argument is also taken into
+account. The [local](CppLocal.md) \_Integer \_\_n, however, must not be
+[const](CppConst.md).
 
  
 
-A better solution would be to make \_\_n of non-[const](CppConst.htm)
+A better solution would be to make \_\_n of non-[const](CppConst.md)
 \_\_integer type, so the user can write
-[const-correct](CppConstCorrect.htm) code.
+[const-correct](CppConstCorrect.md) code.
 
  
 

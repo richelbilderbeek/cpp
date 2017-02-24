@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtBrownianMotion](CppQtBrownianMotion.htm)
+([C++](Cpp.md)) [QtBrownianMotion](CppQtBrownianMotion.md)
 ============================================================
 
  
@@ -174,5 +174,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

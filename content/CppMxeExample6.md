@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [MXE example 6: Hello Wt](CppMxeExample6.htm)
+([C++](Cpp.md)) [MXE example 6: Hello Wt](CppMxeExample6.md)
 ==============================================================
 
  
 
-[MXE example 6: Hello Wt](CppMxeExample6.htm) is an [MXE](CppMxe.htm)
-example to [cross-compile](CppCrossCompile.htm) a [Hello
-Wt](CppHelloWt.htm) program from [GNU/Linux](CppLinux.htm) to
-[Windows](CppWindows.htm).
+[MXE example 6: Hello Wt](CppMxeExample6.md) is an [MXE](CppMxe.md)
+example to [cross-compile](CppCrossCompile.md) a [Hello
+Wt](CppHelloWt.md) program from [GNU/Linux](CppLinux.md) to
+[Windows](CppWindows.md).
 
  
 
@@ -46,39 +46,39 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
--   ![Web](PicWeb.png) [Web application](CppWebApplication.htm)
+    application](CppDesktopApplication.md)
+-   ![Web](PicWeb.png) [Web application](CppWebApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.04 (precise)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 12.04 (precise)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.04 (precise)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 12.04 (precise)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.4.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.4.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.3
+-   [G++](CppGpp.md) 4.6.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.3
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.10
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.10
 
  
 
@@ -90,7 +90,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppMxeExample6.pro
+[Qt project file](CppQtProjectFile.md): CppMxeExample6.pro
 -----------------------------------------------------------
 
  

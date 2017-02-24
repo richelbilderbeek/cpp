@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CloseWindowsWithInText](CppCloseWindowsWithInText.htm)
+([C++](Cpp.md)) [CloseWindowsWithInText](CppCloseWindowsWithInText.md)
 ========================================================================
 
  
 
-[CloseWindowsWithInText](CppCloseWindowsWithInText.htm) is a
-[Windows](CppWindows.htm) [code snippet](CppCodeSnippets.htm) to
+[CloseWindowsWithInText](CppCloseWindowsWithInText.md) is a
+[Windows](CppWindows.md) [code snippet](CppCodeSnippets.md) to
 minimize a window with a certain substring within its text.
 
  

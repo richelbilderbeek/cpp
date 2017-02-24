@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Matrix](CppMatrix.htm)
+([C++](Cpp.md)) [Matrix](CppMatrix.md)
 ========================================
 
  
@@ -22,11 +22,11 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[matrix](CppMatrix.htm) is a two-dimensional
-[container](CppContainer.htm) (that is a [container](CppContainer.htm)
+[matrix](CppMatrix.md) is a two-dimensional
+[container](CppContainer.md) (that is a [container](CppContainer.md)
 in which two values are needed to retrieve an element). For
 one-dimensional containers, [go to the container
-page](CppContainer.htm).
+page](CppContainer.md).
 
  
 
@@ -37,12 +37,12 @@ There exists no std::matrix (yet).
 Possibilities are:
 
 1.  ![C++98](PicCpp98.png)![STL](PicStl.png)
-    [std::vector](CppStdVector.htm)&lt;[std::vector](CppStdVector.htm)&lt;**[int](CppInt.htm)**&gt; &gt;
+    [std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.htm)**&gt; &gt;
 2.  ![C++11](PicCpp11.png)![STL](PicStl.png)
-    [std::array](CppStdArray.htm)&lt;[std::array](CppStdArray.htm)&lt;**[int](CppInt.htm)**&gt; &gt;
-3.  ![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.htm)
+    [std::array](CppStdArray.md)&lt;[std::array](CppStdArray.md)&lt;**[int](CppInt.htm)**&gt; &gt;
+3.  ![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.md)
 4.  ![Boost](PicBoost.png)
-    [boost::numeric::ublas::matrix](CppUblasMatrix.htm)
+    [boost::numeric::ublas::matrix](CppUblasMatrix.md)
 5.  ![ ](PicSpacer.png)blitz::Array
 6.  ![ ](PicSpacer.png)[Techsoft](http://www.techsoftpl.com/matrix)'s
     matrix
@@ -62,32 +62,32 @@ These possibilities are described below in more detail.
 
  
 
-![STL](PicStl.png) [std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;**[int](CppInt.htm)**&gt; &gt;
+![STL](PicStl.png) [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt; &gt;
 -----------------------------------------------------------------------------------------------------------------
 
  
 
-A [std::vector](CppVector.htm) can contain a collection of
-[std::vector](CppVector.htm)s. If all [std::vector](CppVector.htm)s in
+A [std::vector](CppVector.md) can contain a collection of
+[std::vector](CppVector.md)s. If all [std::vector](CppVector.md)s in
 this collection are of the same size, one has a matrix.
 
  
 
 When using
-[std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
 &gt; for a two-dimensional matrix, the choice between x-y-ordering or
 y-x-ordering must be made. The run-time speed difference does not reside
 in individual element read/write, but when obtaining a row or collumn:
 in a y-x-ordered
-[std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
 &gt; an individual row can be obtained, in an x-y-ordered
-[std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
 &gt; an individual collumn can be obtained.
 
  
 
 Below is an example of a y-x-ordered
-[std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
 &gt;.
 
  
@@ -106,42 +106,42 @@ Below is an example of a y-x-ordered
 
  
 
-### [std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt; &gt; [code snippets](CppCodeSnippets.htm)
+### [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt; &gt; [code snippets](CppCodeSnippets.htm)
 
  
 
-Note that some of these [code snippets](CppCodeSnippets.htm) also work
-on other [containers](CppContainer.htm).
+Note that some of these [code snippets](CppCodeSnippets.md) also work
+on other [containers](CppContainer.md).
 
  
 
 1.  [Convert Matrix&lt;X&gt; to Matrix&lt;Y&gt;,
-    ConvertMatrix](CppConvertMatrix.htm)
+    ConvertMatrix](CppConvertMatrix.md)
 2.  [Convert std::vector&lt;std::vector&lt;X&gt; &gt; to
     std::vector&lt;std::vector&lt;Y&gt; &gt;,
-    ConvertMatrix](CppConvertMatrix.htm)
+    ConvertMatrix](CppConvertMatrix.md)
 3.  [Convert two 2D std::vector&lt;X&gt; to 2D std::vector&lt;Y&gt;,
-    ConvertMatrix](CppConvertMatrix.htm)
+    ConvertMatrix](CppConvertMatrix.md)
 4.  [ConvertMatrix, convert Matrix&lt;X&gt; to
-    Matrix&lt;Y&gt;](CppConvertMatrix.htm)
+    Matrix&lt;Y&gt;](CppConvertMatrix.md)
 5.  [ConvertMatrix, convert std::vector&lt;std::vector&lt;X&gt; &gt; to
-    std::vector&lt;std::vector&lt;Y&gt; &gt;](CppConvertMatrix.htm)
+    std::vector&lt;std::vector&lt;Y&gt; &gt;](CppConvertMatrix.md)
 6.  [ConvertMatrix, convert two 2D std::vector&lt;X&gt; to 2D
-    std::vector&lt;Y&gt;](CppConvertMatrix.htm)
+    std::vector&lt;Y&gt;](CppConvertMatrix.md)
 7.  [Get the maximal element of a 2D container,
-    MaxElement](CppMaxElement.htm)
+    MaxElement](CppMaxElement.md)
 8.  [Get the minimum element of a 2D container,
-    MinElement](CppMinElement.htm)
+    MinElement](CppMinElement.md)
 9.  [Get the sizes of the std::vectors in a 2D std::vector,
-    GetSizes](CppGetSizes.htm)
-10. [Get the sum of a 2D std::vector, GetSum](CppGetSumMatrix.htm)
+    GetSizes](CppGetSizes.md)
+10. [Get the sum of a 2D std::vector, GetSum](CppGetSumMatrix.md)
 11. [GetSizes, get the sizes of the std::vectors in a 2D
-    std::vector](CppGetSizes.htm)
-12. [GetSum, get the sum of a 2D std::vector](CppGetSumMatrix.htm)
+    std::vector](CppGetSizes.md)
+12. [GetSum, get the sum of a 2D std::vector](CppGetSumMatrix.md)
 13. [MaxElement, get the maximal element of a 2D
-    container](CppMaxElement.htm)
+    container](CppMaxElement.md)
 14. [MinElement, get the minimum element of a 2D
-    container](CppMinElement.htm)
+    container](CppMinElement.md)
 
  
 
@@ -153,22 +153,22 @@ on other [containers](CppContainer.htm).
 
  
 
-![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.htm)
+![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.md)
 ----------------------------------------------------------------
 
  
 
-The [boost::multi\_array](CppMulti_array.htm) (part of the
-[Boost](CppBoost.htm) library) is not only support a two-dimensional
+The [boost::multi\_array](CppMulti_array.md) (part of the
+[Boost](CppBoost.md) library) is not only support a two-dimensional
 matrix, but to many more dimensions.
 
  
 
-When using [C++ Builder](CppBuilder.htm) 6.0, this does not
-[compile](CppCompile.htm) (it results in the [compile
-error](CppCompileError.htm) [borland.hpp: Only member functions may be
+When using [C++ Builder](CppBuilder.md) 6.0, this does not
+[compile](CppCompile.md) (it results in the [compile
+error](CppCompileError.md) [borland.hpp: Only member functions may be
 'const' or
-'volatile'](CppCompileErrorBorlandHppOnlyMemberFunctionsMayBeConstOrVolatile.htm)).
+'volatile'](CppCompileErrorBorlandHppOnlyMemberFunctionsMayBeConstOrVolatile.md)).
 
  
 
@@ -180,30 +180,30 @@ error](CppCompileError.htm) [borland.hpp: Only member functions may be
 
  
 
-![Boost](PicBoost.png) [boost::numeric::ublas::matrix](CppUblasMatrix.htm)
+![Boost](PicBoost.png) [boost::numeric::ublas::matrix](CppUblasMatrix.md)
 --------------------------------------------------------------------------
 
  
 
-The [boost::numeric::ublas::matrix](CppUblasMatrix.htm) (part of the
-[Boost.uBLAS](CppUblas.htm) [library](CppLibrary.htm)) support a
+The [boost::numeric::ublas::matrix](CppUblasMatrix.md) (part of the
+[Boost.uBLAS](CppUblas.md) [library](CppLibrary.md)) support a
 two-dimensional matrix.
 
  
 
-See [boost::numeric::ublas::matrix](CppUblasMatrix.htm).
+See [boost::numeric::ublas::matrix](CppUblasMatrix.md).
 
  
 
 -   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png) In [Qt
-    Creator](CppQtCreator.htm)
-    [boost::numeric::ublas::matrix](CppUblasMatrix.htm) works fine
+    Creator](CppQtCreator.md)
+    [boost::numeric::ublas::matrix](CppUblasMatrix.md) works fine
 -   ![FAIL](PicRed.png)![C++ Builder](PicCppBuilder.png) In [C++
-    Builder](CppBuilder.htm) 6.0, this does not
-    [compile](CppCompile.htm) (it results in the [compile
-    error](CppCompileError.htm) [Your compiler and/or configuration is
+    Builder](CppBuilder.md) 6.0, this does not
+    [compile](CppCompile.md) (it results in the [compile
+    error](CppCompileError.md) [Your compiler and/or configuration is
     unsupported by this verions of
-    uBLAS](CppCompileErrorYourCompilerAndOrConfigurationIsUnsupportedByThisVerionsOfUblas.htm))
+    uBLAS](CppCompileErrorYourCompilerAndOrConfigurationIsUnsupportedByThisVerionsOfUblas.md))
 
  
 
@@ -220,16 +220,16 @@ blitz::Array
 
  
 
-The blitz::Array (part of the [Blitz++](CppBlitzpp.htm)
-[library](CppLibrary.htm)) is not only support a two-dimensional matrix,
+The blitz::Array (part of the [Blitz++](CppBlitzpp.md)
+[library](CppLibrary.md)) is not only support a two-dimensional matrix,
 but to many more dimensions.
 
  
 
-When using [C++ Builder](CppBuilder.htm) 6.0, this does not
-[compile](CppCompile.htm) (it results in the [compile
-error](CppCompileError.htm) [bzconfig.h: Unknown
-compiler](CppCompileErrorBzconfigHunknownCompiler.htm)).
+When using [C++ Builder](CppBuilder.md) 6.0, this does not
+[compile](CppCompile.md) (it results in the [compile
+error](CppCompileError.md) [bzconfig.h: Unknown
+compiler](CppCompileErrorBzconfigHunknownCompiler.md)).
 
  
 
@@ -270,7 +270,7 @@ Flood::Matrix
 
  
 
-The Flood::Matrix (from the [Flood](CppFlood.htm) library) supports a
+The Flood::Matrix (from the [Flood](CppFlood.md) library) supports a
 x-y-ordered two-dimensional matrix.
 
  
@@ -311,7 +311,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -400,5 +400,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

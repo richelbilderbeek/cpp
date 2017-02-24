@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WDateValidator](CppWDateValidator.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WDateValidator](CppWDateValidator.md)
 =============================================================================
 
  
 
-[Wt::WDateValidator](CppWDateValidator.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WDateValidator](CppWDateValidator.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WDateValidator](CppWDateValidator.htm) is used in, among others:
+[Wt::WDateValidator](CppWDateValidator.md) is used in, among others:
 
 -   ...
 

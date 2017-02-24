@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [streambuf.h](CppStreambufH.htm)
+([C++](Cpp.md)) [streambuf.h](CppStreambufH.md)
 =================================================
 
  
 
-[streambuf.h](CppStreambufH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) that contains the
-[definition](CppDefinition.htm) of
-[std::basic\_streambuf](CppBasic_streambuf.htm).
+[streambuf.h](CppStreambufH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) that contains the
+[definition](CppDefinition.md) of
+[std::basic\_streambuf](CppBasic_streambuf.md).
 
  
 

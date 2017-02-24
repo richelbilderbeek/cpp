@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [csignal.h](CppCsignalH.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [csignal.h](CppCsignalH.md)
 ====================================================================
 
  
 
-[csignal.h](CppCsignalH.htm) is a standard [header
-file](CppHeaderFile.htm) (since the [C++11](Cpp11.htm)
-[standard](CppStandard.htm)).
+[csignal.h](CppCsignalH.md) is a standard [header
+file](CppHeaderFile.md) (since the [C++11](Cpp11.md)
+[standard](CppStandard.md)).
 
  
 

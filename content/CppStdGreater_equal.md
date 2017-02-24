@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::greater\_equal](CppGreater_equal.htm)
+([C++](Cpp.md)) [std::greater\_equal](CppGreater_equal.md)
 ============================================================
 
  
 
-[Predicate](CppPredicate.htm) to perform
-[operator&gt;=](CppOperatorGreaterEqual.htm) on two values.
+[Predicate](CppPredicate.md) to perform
+[operator&gt;=](CppOperatorGreaterEqual.md) on two values.
 
  
 

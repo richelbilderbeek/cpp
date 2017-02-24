@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [CreateSloppyMaze](CppCreateSloppyMaze.htm)
+([C++](Cpp.md)) [CreateSloppyMaze](CppCreateSloppyMaze.md)
 ============================================================
 
  
 
-[CreateSloppyMaze](CppCreateSloppyMaze.htm) is a [maze](CppMaze.htm)
-[code snippet](CppCodeSnippets.htm) that creates a maze that is as
+[CreateSloppyMaze](CppCreateSloppyMaze.md) is a [maze](CppMaze.md)
+[code snippet](CppCodeSnippets.md) that creates a maze that is as
 'sloppy' as requested: a 'perfect' maze has no circular paths in it. The
 sloppier the maze the more circular paths will be in. The problem with a
 perfect maze, is that it takes much time to add to last extra walls to
 make it perfect. For a perfect maze, use the algorithm
-[CreateMaze](CppCreateMaze.htm).
+[CreateMaze](CppCreateMaze.md).
 
  
 
@@ -42,17 +42,17 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): Qt4 [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [public](CppPublic.htm)
+([C++](Cpp.md)) [public](CppPublic.md)
 ========================================
 
  
 
-[public](CppPublic.htm) is a [keyword](CppKeyword.htm) for setting
-[class](CppClass.htm) access level to [public](CppPublic.htm) (the other
-access levels are [private](CppPrivate.htm) and
-[protected](CppProtected.htm)) or for [public
-inheritance](CppPublicInheritance.htm).
+[public](CppPublic.md) is a [keyword](CppKeyword.md) for setting
+[class](CppClass.md) access level to [public](CppPublic.md) (the other
+access levels are [private](CppPrivate.md) and
+[protected](CppProtected.md)) or for [public
+inheritance](CppPublicInheritance.md).
 
  
 
-The [public](CppPublic.htm) part of a [class](CppClass.htm) is called
-its [interface](CppInterface.htm).
+The [public](CppPublic.md) part of a [class](CppClass.md) is called
+its [interface](CppInterface.md).
 
  
 
-A [class](CppClass.htm) created with the [keyword](CppKeyword.htm)
-[class](CppClass.htm) has a [private](CppPrivate.htm) access level by
-default, a [class](CppClass.htm) created by the
-[keyword](CppKeyword.htm) [struct](CppStruct.htm) has
-[public](CppPublic.htm) access level by default.
+A [class](CppClass.md) created with the [keyword](CppKeyword.md)
+[class](CppClass.md) has a [private](CppPrivate.md) access level by
+default, a [class](CppClass.md) created by the
+[keyword](CppKeyword.md) [struct](CppStruct.md) has
+[public](CppPublic.md) access level by default.
 
  
 
@@ -51,7 +51,7 @@ Examples
 
  
 
--   [public example 1: basics](CppPublicExample1.htm)
+-   [public example 1: basics](CppPublicExample1.md)
 
  
 
@@ -63,16 +63,16 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [public](CppPublic.htm) [members](CppMember.htm) for
-    [interfaces](CppInterface.htm) \[2\]
--   Avoid [public](CppPublic.htm) [virtual](CppVirtual.htm) [member
-    functions](CppMemberFunction.htm); prefer using the [Template Method
-    Design Pattern](CppDesignPatternTemplateMethod.htm) instead \[1\].
+-   Prefer [public](CppPublic.md) [members](CppMember.md) for
+    [interfaces](CppInterface.md) \[2\]
+-   Avoid [public](CppPublic.md) [virtual](CppVirtual.md) [member
+    functions](CppMemberFunction.md); prefer using the [Template Method
+    Design Pattern](CppDesignPatternTemplateMethod.md) instead \[1\].
 
  
 
@@ -82,16 +82,16 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). [Exceptional
-    C++](CppExceptionalCpp.htm). ISBN: 0-201-61562-2. Item 23, page 84,
+1.  [Herb Sutter](CppHerbSutter.md). [Exceptional
+    C++](CppExceptionalCpp.md). ISBN: 0-201-61562-2. Item 23, page 84,
     guideline: 'Avoid public virtual functions; prefer using the
     Template Method pattern instead'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 20.7.
     Advice. page 611: '\[11\] Prefer public members for interfaces'
 

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.htm)
+([C++](Cpp.md)) [BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.md)
 ====================================================================
 
  
 
-[BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.htm) is a
-[Boost](CppBoost.htm) [macro](CppMacro.htm)[]() to test assertions (that
-can be made at [compile time](CppCompileTime.htm)) at [compile
-time](CppCompileTime.htm).
+[BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.md) is a
+[Boost](CppBoost.md) [macro](CppMacro.md)[]() to test assertions (that
+can be made at [compile time](CppCompileTime.md)) at [compile
+time](CppCompileTime.md).
 
  
 
@@ -38,13 +38,13 @@ time](CppCompileTime.htm).
 
  
 
-![C++11](PicCpp11.png) Note for users of the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) Note for users of the [C++11](Cpp11.md) [standard](CppStandard.md)
 -------------------------------------------------------------------------------------------
 
  
 
-The [C++11](Cpp11.htm) [standard](CppStandard.htm) has the
-[keyword](CppKeyword.htm) [static\_assert](CppStatic_assert.htm) serving
+The [C++11](Cpp11.md) [standard](CppStandard.md) has the
+[keyword](CppKeyword.md) [static\_assert](CppStatic_assert.md) serving
 the same function.
 
  

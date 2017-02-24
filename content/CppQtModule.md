@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Modules](CppQtModule.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Modules](CppQtModule.md)
 ============================================================
 
  
 
 When setting up a Qt project, you need to select required
-[modules](CppQtModule.htm) in the [select required modules
+[modules](CppQtModule.md) in the [select required modules
 dialog](CppQtCreatorSelectRequiredModules.png).
 
  
 
-The modules supplied with [Qt Creator](CppQtCreator.htm) 1.3.1 are:
+The modules supplied with [Qt Creator](CppQtCreator.md) 1.3.1 are:
 
 1.  QtCore
 2.  QtGui
@@ -32,11 +32,11 @@ The modules supplied with [Qt Creator](CppQtCreator.htm) 1.3.1 are:
 5.  QtSql
 6.  QtScript
 7.  QtScriptTools
-8.  [QtSvg](CppQtSvg.htm)
+8.  [QtSvg](CppQtSvg.md)
 9.  QtWebKit
 10. QtXml
 11. QtXmlPatterns
-12. [Phonon](CppPhonon.htm)
+12. [Phonon](CppPhonon.md)
 13. QtMultimedia
 14. Qt3Support
 15. QtTest
@@ -44,7 +44,7 @@ The modules supplied with [Qt Creator](CppQtCreator.htm) 1.3.1 are:
 
  
 
-Which [modules](CppQtModule.htm) were selected is stored in the project
+Which [modules](CppQtModule.md) were selected is stored in the project
 file with the QT parameter. Below some project files are shown with
 different module combinations.
 
@@ -58,7 +58,7 @@ different module combinations.
 
  
 
-Project file of a Qt4 console application with no [modules](CppQtModule.htm) selected
+Project file of a Qt4 console application with no [modules](CppQtModule.md) selected
 -------------------------------------------------------------------------------------
 
  
@@ -69,7 +69,7 @@ Project file of a Qt4 console application with no [modules](CppQtModule.htm) sel
 
  
 
-Note that the [modules](CppQtModule.htm) QtCore and QtGui need to be
+Note that the [modules](CppQtModule.md) QtCore and QtGui need to be
 removed explicitly.
 
  
@@ -82,7 +82,7 @@ removed explicitly.
 
  
 
-Project file of a Qt4 console application with only the QtCore [module](CppQtModule.htm) selected
+Project file of a Qt4 console application with only the QtCore [module](CppQtModule.md) selected
 -------------------------------------------------------------------------------------------------
 
  
@@ -93,7 +93,7 @@ Project file of a Qt4 console application with only the QtCore [module](CppQtMod
 
  
 
-Note that the [module](CppQtModule.htm) QtGui need to be removed
+Note that the [module](CppQtModule.md) QtGui need to be removed
 explicitly.
 
  
@@ -106,7 +106,7 @@ explicitly.
 
  
 
-Project file of a Qt4 console application with only QtCore and QtGui [modules](CppQtModule.htm) selected
+Project file of a Qt4 console application with only QtCore and QtGui [modules](CppQtModule.md) selected
 --------------------------------------------------------------------------------------------------------
 
  
@@ -117,7 +117,7 @@ Project file of a Qt4 console application with only QtCore and QtGui [modules](C
 
  
 
-Note that no [module](CppQtModule.htm) need to be added explicitly.
+Note that no [module](CppQtModule.md) need to be added explicitly.
 
  
 
@@ -129,7 +129,7 @@ Note that no [module](CppQtModule.htm) need to be added explicitly.
 
  
 
-Project file of a Qt4 console application with all [modules](CppQtModule.htm) selected
+Project file of a Qt4 console application with all [modules](CppQtModule.md) selected
 --------------------------------------------------------------------------------------
 
  
@@ -140,7 +140,7 @@ Project file of a Qt4 console application with all [modules](CppQtModule.htm) se
 
  
 
-Note that the [modules](CppQtModule.htm) QtCore and QtGui need not to be
+Note that the [modules](CppQtModule.md) QtCore and QtGui need not to be
 added explicitly.
 
  

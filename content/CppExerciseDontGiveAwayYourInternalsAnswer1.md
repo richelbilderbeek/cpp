@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#3: Don't give away your internals, \#1](CppExerciseDontGiveAwayYourInternalsAnswer1.htm)
+([C++](Cpp.md)) [Answer of exercise \#3: Don't give away your internals, \#1](CppExerciseDontGiveAwayYourInternalsAnswer1.md)
 ===============================================================================================================================
 
  
 
 This is part \#1 of the answer of [exercise \#3: Don't give away your
-internals](CppExerciseDontGiveAwayYourInternals.htm) and the follow-up
+internals](CppExerciseDontGiveAwayYourInternals.md) and the follow-up
 of [Answer of exercise \#3: Don't give away your internals,
-\#0](CppExerciseDontGiveAwayYourInternalsAnswer0.htm).
+\#0](CppExerciseDontGiveAwayYourInternalsAnswer0.md).
 
  
 
@@ -49,22 +49,22 @@ Let's again start by defining a similar test suite.
 
 For the GetAnimals method, there are now even more possibilities:
 
--   The [member function](CppMemberFunction.htm) can be a [const member
-    function](CppConstMemberFunction.htm) yes or no
--   The [return type](CppReturnType.htm) can be a [const return
-    type](CppConstReturnType.htm) yes or no
--   The [return type](CppReturnType.htm) can have a const or non-const
-    [boost::shared\_ptr](CppShared_ptr.htm)
--   The [return type](CppReturnType.htm) can have a const or non-const
-    Animal held by the [boost::shared\_ptr](CppShared_ptr.htm)
--   The animals can be given by using a [reference](CppReference.htm) or
+-   The [member function](CppMemberFunction.md) can be a [const member
+    function](CppConstMemberFunction.md) yes or no
+-   The [return type](CppReturnType.md) can be a [const return
+    type](CppConstReturnType.md) yes or no
+-   The [return type](CppReturnType.md) can have a const or non-const
+    [boost::shared\_ptr](CppShared_ptr.md)
+-   The [return type](CppReturnType.md) can have a const or non-const
+    Animal held by the [boost::shared\_ptr](CppShared_ptr.md)
+-   The animals can be given by using a [reference](CppReference.md) or
     a copy
 
  
 
 Again, we do not need a copy of those Animals (Note: perhaps later we
 will get back to this!) and we do not use the non-[const member
-functions](CppConstMethod.htm).
+functions](CppConstMethod.md).
 
  
 
@@ -95,7 +95,7 @@ The following line must not compile:
 
 The first Four versions of GetAnimals will compile against our goal! The
 boost::shared\_ptr must hold a const Animal, because [const is not
-deep](CppConstIsNotDeep.htm).
+deep](CppConstIsNotDeep.md).
 
  
 
@@ -110,7 +110,7 @@ With three methods left in the race, it's time to (try to) define them:
  
 
 Blimey, none of these compile! This is because a Zoo holds non-const
-Animals inside its [boost::shared\_ptr](CppShared_ptr.htm)s. Because of
+Animals inside its [boost::shared\_ptr](CppShared_ptr.md)s. Because of
 this it is impossible to return a reference of const Animals back! How
 can we solve this?
 
@@ -241,13 +241,13 @@ the GetAnimals (or similar, as in your code) method after all.
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 28:
     'Don't give away your internals'
 

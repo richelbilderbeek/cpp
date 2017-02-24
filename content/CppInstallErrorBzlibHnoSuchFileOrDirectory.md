@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [bzlib.h: No such file or directory](CppInstallErrorBzlibHnoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [bzlib.h: No such file or directory](CppInstallErrorBzlibHnoSuchFileOrDirectory.md)
 =====================================================================================================
 
  
 
-[Install error](CppInstallError.htm) that can occur when installing
-[Boost](CppBoost.htm).
+[Install error](CppInstallError.md) that can occur when installing
+[Boost](CppBoost.md).
 
  
 

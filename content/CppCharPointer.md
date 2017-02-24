@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [char\*](CppCharPointer.htm)
+([C++](Cpp.md)) [char\*](CppCharPointer.md)
 =============================================
 
  
 
-A [char\*](CppCharPointer.htm) is a C-style [data type](CppDataType.htm)
-for a [std::string](CppString.htm).
+A [char\*](CppCharPointer.md) is a C-style [data type](CppDataType.md)
+for a [std::string](CppString.md).
 
  
 

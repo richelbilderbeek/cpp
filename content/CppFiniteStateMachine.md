@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Finite state machine](CppFiniteStateMachine.htm)
+([C++](Cpp.md)) [Finite state machine](CppFiniteStateMachine.md)
 ==================================================================
 
  
 
-[Finite state machine](CppFiniteStateMachine.htm) are problem solving
+[Finite state machine](CppFiniteStateMachine.md) are problem solving
 architectures used in [Artificial
-intelligence](CppArtificialIntelligence.htm).
+intelligence](CppArtificialIntelligence.md).
 
  
 
@@ -31,12 +31,12 @@ intelligence](CppArtificialIntelligence.htm).
 
  
 
-[Finite state machine](CppFiniteStateMachine.htm)
-[libraries](CppLibrary.htm)
+[Finite state machine](CppFiniteStateMachine.md)
+[libraries](CppLibrary.md)
 
  
 
--   [Boost.Statechart](CppStatechart.htm)
+-   [Boost.Statechart](CppStatechart.md)
 
  
 

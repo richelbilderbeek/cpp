@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [operator%=](CppOperatorModulusAssign.htm)
+([C++](Cpp.md)) [operator%=](CppOperatorModulusAssign.md)
 ===========================================================
 
  
 
-[operator%=](CppOperatorModulusAssign.htm) is the
-[operator](CppOperator.htm) to perform a modulus operation to a
-[variable](CppVariable.htm) and assign the result to it.
+[operator%=](CppOperatorModulusAssign.md) is the
+[operator](CppOperator.md) to perform a modulus operation to a
+[variable](CppVariable.md) and assign the result to it.
 
  
 

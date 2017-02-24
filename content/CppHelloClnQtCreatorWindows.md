@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ['Hello CLN' using (a Windows version of) Qt Creator under Windows](CppHelloClnQtCreatorWindows.htm)
+([C++](Cpp.md)) ['Hello CLN' using (a Windows version of) Qt Creator under Windows](CppHelloClnQtCreatorWindows.md)
 =====================================================================================================================
 
  
 
 After successfully [installing CLN under Cygwin (under
-Windows)](CppClnInstallCygwin.htm), I tried the a [Hello
-CLN](CppHelloCln.htm) program under [Qt Creator](CppQtCreator.htm).
+Windows)](CppClnInstallCygwin.md), I tried the a [Hello
+CLN](CppHelloCln.md) program under [Qt Creator](CppQtCreator.md).
 
  
 

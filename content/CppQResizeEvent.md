@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QResizeEvent](CppQResizeEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QResizeEvent](CppQResizeEvent.md)
 =====================================================================
 
  
 
-[QResizeEvent](CppQResizeEvent.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QResizeEvent](CppQResizeEvent.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

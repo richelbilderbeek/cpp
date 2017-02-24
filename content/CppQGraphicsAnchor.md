@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsAnchor](CppQGraphicsAnchor.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsAnchor](CppQGraphicsAnchor.md)
 ===========================================================================
 
  
 
-[QGraphicsAnchor](CppQGraphicsAnchor.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QGraphicsAnchor](CppQGraphicsAnchor.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [local variable](CppLocal.htm)
+([C++](Cpp.md)) [local variable](CppLocal.md)
 ===============================================
 
  
 
-A [local variable](CppLocal.htm) is a [variable](CppVariable.htm) that
-has a limited [scope](CppScope.htm).
+A [local variable](CppLocal.md) is a [variable](CppVariable.md) that
+has a limited [scope](CppScope.md).
 
  
 
 In the example below, there are three different [local
-variables](CppLocal.htm) called 'x'. In the [function](CppFunction.htm)
-A, x is local to this [function](CppFunction.htm) and exists after it
-[definition](CppDefinition.htm). In the [function](CppFunction.htm) B, x
-is a [function](CppFunction.htm) argument local to this
-[function](CppFunction.htm). In [main](CppMain.htm), x is local to this
-[function](CppFunction.htm) and has nothing to do with the other x's.
+variables](CppLocal.md) called 'x'. In the [function](CppFunction.md)
+A, x is local to this [function](CppFunction.md) and exists after it
+[definition](CppDefinition.md). In the [function](CppFunction.md) B, x
+is a [function](CppFunction.md) argument local to this
+[function](CppFunction.md). In [main](CppMain.md), x is local to this
+[function](CppFunction.md) and has nothing to do with the other x's.
 
  
 
@@ -38,13 +38,13 @@ is a [function](CppFunction.htm) argument local to this
 
  
 
-[Declare](CppDeclaration.htm) [variables](CppVariable.htm) as
-[locally](CppLocal.htm) as possible \[1\].
+[Declare](CppDeclaration.md) [variables](CppVariable.md) as
+[locally](CppLocal.md) as possible \[1\].
 
  
 
 [Compare the speed of local versus global
-variables](CppLocalVersusGlobal.htm).
+variables](CppLocalVersusGlobal.md).
 
  
 
@@ -56,13 +56,13 @@ variables](CppLocalVersusGlobal.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm) . C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md) . C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 18:
     'Declare variables as locally as possible'.
 

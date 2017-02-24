@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::chrono](CppChrono.htm)
+([C++](Cpp.md)) [std::chrono](CppChrono.md)
 =============================================
 
  
 
-[std::chrono](CppChrono.htm) is a [namespace](CppNamespace.htm) for
-[time](CppTime.htm)-related [functions](CppFunction.htm) and
-[classes](CppClass.htm). [std::chrono](CppChrono.htm) is available in
-the C++0x [standard](CppStandard.htm) after
-[\#including](CppInclude.htm) [chrono.h](CppChronoH.htm).
+[std::chrono](CppChrono.md) is a [namespace](CppNamespace.md) for
+[time](CppTime.md)-related [functions](CppFunction.md) and
+[classes](CppClass.md). [std::chrono](CppChrono.md) is available in
+the C++0x [standard](CppStandard.md) after
+[\#including](CppInclude.md) [chrono.h](CppChronoH.md).
 
  
 
@@ -39,8 +39,8 @@ Example
  
 
 This example is from [std::thread example 2: two counting threads using
-std::mutex](CppThreadExample2.htm). See [std::thread example 2: two
-counting threads using std::mutex](CppThreadExample2.htm) for further
+std::mutex](CppThreadExample2.md). See [std::thread example 2: two
+counting threads using std::mutex](CppThreadExample2.md) for further
 details.
 
  

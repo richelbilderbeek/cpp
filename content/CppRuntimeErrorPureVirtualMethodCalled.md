@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [pure virtual method called](CppRuntimeErrorPureVirtualMethodCalled.htm)
+([C++](Cpp.md)) [pure virtual method called](CppRuntimeErrorPureVirtualMethodCalled.md)
 =========================================================================================
 
  
 
-[pure virtual method called](CppRuntimeErrorPureVirtualMethodCalled.htm)
-is a [runtime error](CppRuntimeError.htm).
+[pure virtual method called](CppRuntimeErrorPureVirtualMethodCalled.md)
+is a [runtime error](CppRuntimeError.md).
 
  
 
@@ -50,35 +50,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.04 (natty)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.04 (natty)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.5.2
+-   [G++](CppGpp.md) 4.5.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.5.2
 
  
@@ -91,7 +91,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppPureVirtualMethodCalled.pro
+[Qt project file](CppQtProjectFile.md): CppPureVirtualMethodCalled.pro
 -----------------------------------------------------------------------
 
  
@@ -159,8 +159,8 @@ Program flow
  
 
 The program flow can be seen in the (png) picture above. Not how first
-the [instance](CppInstance.htm) is [deleted](CppDelete.htm)m before the
-[thread](CppThread.htm) starts working with it.
+the [instance](CppInstance.md) is [deleted](CppDelete.md)m before the
+[thread](CppThread.md) starts working with it.
 
  
 
@@ -172,7 +172,7 @@ the [instance](CppInstance.htm) is [deleted](CppDelete.htm)m before the
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 
  
 

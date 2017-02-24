@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [ReplaceOnce](CppReplaceOnce.htm)
+([C++](Cpp.md)) [ReplaceOnce](CppReplaceOnce.md)
 ==================================================
 
  
 
-[ReplaceOnce](CppReplaceOnce.htm) is a [std::string](CppString.htm)
-[replace](CppReplace.htm) [code snippet](CppCodeSnippets.htm) to replace
-a substring by another in a certain [std::string](CppString.htm) once.
+[ReplaceOnce](CppReplaceOnce.md) is a [std::string](CppString.md)
+[replace](CppReplace.md) [code snippet](CppCodeSnippets.md) to replace
+a substring by another in a certain [std::string](CppString.md) once.
 
  
 
-Use [ReplaceAll](CppReplaceAll.htm) to replace all substrings in a
-certain [std::string](CppString.htm).
+Use [ReplaceAll](CppReplaceAll.md) to replace all substrings in a
+certain [std::string](CppString.md).
 
  
 

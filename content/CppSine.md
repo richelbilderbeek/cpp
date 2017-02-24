@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Sine](CppSine.htm)
+([C++](Cpp.md)) [Sine](CppSine.md)
 ====================================
 
  
 
 Class to calculate the value of a sine (the standard
-[function](CppFunction.htm) [std::sin](CppSin.htm)) by using a look-up
+[function](CppFunction.md) [std::sin](CppSin.md)) by using a look-up
 table. You can view all code below or download the source code.
 
  

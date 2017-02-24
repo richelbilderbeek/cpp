@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::find\_if\_not](CppFind_if_not.htm)
+([C++](Cpp.md)) [std::find\_if\_not](CppFind_if_not.md)
 =========================================================
 
  
 
-[std::find\_if\_not](CppFind_if_not.htm) is a [C++11](Cpp11.htm)
-[algorithm](CppAlgorithm.htm) to find an element in a
-[container](CppContainer.htm) that does not satisfy a certain
-[predicate](CppPredicate.htm).
+[std::find\_if\_not](CppFind_if_not.md) is a [C++11](Cpp11.md)
+[algorithm](CppAlgorithm.md) to find an element in a
+[container](CppContainer.md) that does not satisfy a certain
+[predicate](CppPredicate.md).
 
  
 
@@ -52,5 +52,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

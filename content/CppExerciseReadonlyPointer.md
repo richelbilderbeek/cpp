@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![C++98](PicCpp98.png) [Exercise \#10: Obtaining a read-only (smart?) pointer](CppExerciseReadonlyPointer.htm)
+([C++](Cpp.md)) ![C++98](PicCpp98.png) [Exercise \#10: Obtaining a read-only (smart?) pointer](CppExerciseReadonlyPointer.md)
 ===============================================================================================================================
 
  
@@ -23,13 +23,13 @@ Date added: 30th of March 2011
 
  
 
-This [exercise](CppExercise.htm) shows that working with [smart
-pointers](CppSmartPointer.htm) is not always easy...
+This [exercise](CppExercise.md) shows that working with [smart
+pointers](CppSmartPointer.md) is not always easy...
 
  
 
-This [exercise](CppExercise.htm) is a continuation on [Exercise \#1: A
-foolproof function](CppExerciseFoolproofFunction.htm).
+This [exercise](CppExercise.md) is a continuation on [Exercise \#1: A
+foolproof function](CppExerciseFoolproofFunction.md).
 
  
 
@@ -47,8 +47,8 @@ The problem
  
 
 Following [Exercise \#1: A foolproof
-function](CppExerciseFoolproofFunction.htm) a programmer has written the
-following [class](CppClass.htm):
+function](CppExerciseFoolproofFunction.md) a programmer has written the
+following [class](CppClass.md):
 
  
 
@@ -58,22 +58,22 @@ following [class](CppClass.htm):
 
  
 
-Writing such a [class](CppClass.htm) enables safe [forward
-declarations](CppForwardDeclaration.htm) and forces the user of this
-[class](CppClass.htm) to use [smart pointers](CppSmartPointer.htm),
+Writing such a [class](CppClass.md) enables safe [forward
+declarations](CppForwardDeclaration.md) and forces the user of this
+[class](CppClass.md) to use [smart pointers](CppSmartPointer.md),
 which is a good thing \[1\].
 
  
 
-This programmer wants to use a [class](CppClass.htm) managing a
-[boost::shared\_ptr](CppShared_ptr.htm) of MyStruct, but he/she also
+This programmer wants to use a [class](CppClass.md) managing a
+[boost::shared\_ptr](CppShared_ptr.md) of MyStruct, but he/she also
 wants to let the user obtain a read-only [smart
-pointer](CppSmartPointer.htm)/[pointer](CppPointer.htm).
+pointer](CppSmartPointer.md)/[pointer](CppPointer.md).
 
  
 
 The code below shows the choices and some lines that should and should
-not [compile](CppCompiler.htm):
+not [compile](CppCompiler.md):
 
  
 
@@ -88,7 +88,7 @@ What should the question marks be?
  
 
 [View the answer of this part of the
-exercise](CppExerciseReadonlyPointerAnswer.htm)
+exercise](CppExerciseReadonlyPointerAnswer.md)
 
  
 
@@ -100,13 +100,13 @@ exercise](CppExerciseReadonlyPointerAnswer.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 13: 'Ensure resources are owned by objects. Use explicit
     RAII and smart pointers.

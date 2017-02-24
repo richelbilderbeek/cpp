@@ -12,47 +12,43 @@
 
  
 
-([C++](Cpp.htm)) [function declaration](CppFunctionDeclaration.htm)
+([C++](Cpp.md)) [function declaration](CppFunctionDeclaration.md)
 ===================================================================
 
  
 
-A [function declaration](CppFunctionDeclaration.htm) states what a
-[function](CppFunction.htm) needs and [returns](CppReturn.htm) with
-giving its [arguments](CppArgument.htm) proper names (without these
-names, it would be a called a function [prototype](CppPrototype.htm)). A
-[function declaration](CppFunctionDeclaration.htm) can be seen as a
-promise to the [compiler](CppCompiler.htm) that a certain
-[function](CppFunction.htm) exists and will be found by the
-[linker](CppLinker.htm).
+A [function declaration](CppFunctionDeclaration.md) states what a
+[function](CppFunction.md) needs and [returns](CppReturn.md) with
+giving its [arguments](CppArgument.md) proper names (without these
+names, it would be a called a function [prototype](CppPrototype.md)). A
+[function declaration](CppFunctionDeclaration.md) can be seen as a
+promise to the [compiler](CppCompiler.md) that a certain
+[function](CppFunction.md) exists and will be found by the
+[linker](CppLinker.md).
 
  
 
-Although a [function declaration](CppFunctionDeclaration.htm) tells
+Although a [function declaration](CppFunctionDeclaration.md) tells
 nothing about the implementation of the function, an advanced programmer
 will assume a lot from it! And sometimes, a [function
-declaration](CppFunctionDeclaration.htm) is all you will be allowed to
+declaration](CppFunctionDeclaration.md) is all you will be allowed to
 see. View [Exercise \#2: correct function
-declarations](CppExerciseCorrectFunctionDeclarations.htm) to learn about
-correct [function declarations](CppFunctionDeclaration.htm).
+declarations](CppExerciseCorrectFunctionDeclarations.md) to learn about
+correct [function declarations](CppFunctionDeclaration.md).
 
  
 
-Where a [function declaration](CppFunctionDeclaration.htm) tells nothing
+Where a [function declaration](CppFunctionDeclaration.md) tells nothing
 about the implementation of the function, a [function
-definition](CppFunctionDefinition.htm) consists of a [function
-declaration](CppFunctionDeclaration.htm) including its implementation.
+definition](CppFunctionDefinition.md) consists of a [function
+declaration](CppFunctionDeclaration.md) including its implementation.
 
  
 
-[Function declarations](CppFunctionDeclaration.htm) are commonly found
-in [header files (.h)](CppHeaderFile.htm), where [function
-definitions](CppFunctionDefinition.htm) in [implementation (.cpp)
-files](CppImplementationFile.htm).
-
- 
-
- 
+[Function declarations](CppFunctionDeclaration.md) are commonly found
+in [header files (.h)](CppHeaderFile.md), where [function
+definitions](CppFunctionDefinition.md) in [implementation (.cpp)
+files](CppImplementationFile.md).
 
  
 
@@ -60,12 +56,16 @@ files](CppImplementationFile.htm).
 
  
 
-[Examples](CppExample.htm)
+ 
+
+ 
+
+[Examples](CppExample.md)
 --------------------------
 
  
 
-Below I give some [function declarations](CppFunctionDeclaration.htm)
+Below I give some [function declarations](CppFunctionDeclaration.md)
 and how to read them.
 
  
@@ -87,11 +87,11 @@ unspecified way.
 
  
 
-The function [Swap](CppSwap.htm) uses two non-copied values (due to the
-[reference](CppReference.htm)) and modifies (due to the omission of
-[const](CppConst.htm)) them both. It probably swaps the values of 'a'
-and 'b'. [Swap](CppSwap.htm) does nothing more, because it has no
-([void](CppVoid.htm)) [return type](CppReturnType.htm).
+The function [Swap](CppSwap.md) uses two non-copied values (due to the
+[reference](CppReference.md)) and modifies (due to the omission of
+[const](CppConst.md)) them both. It probably swaps the values of 'a'
+and 'b'. [Swap](CppSwap.md) does nothing more, because it has no
+([void](CppVoid.md)) [return type](CppReturnType.md).
 
  
 
@@ -102,12 +102,12 @@ and 'b'. [Swap](CppSwap.htm) does nothing more, because it has no
  
 
 The function GetRows obtains the number of rows (the
-[const](CppConst.htm) [int](CppInt.htm) [return
-type](CppReturnType.htm)) from a certain Database. It needs an existing
-Database (it uses a [reference](CppReference.htm), instead of a
-[pointer](CppPointer.htm) that can be [null](CppNull.htm)) and does not
-copy (due to the [reference](CppReference.htm)) nor modify (due to the
-[const](CppConst.htm)) it.
+[const](CppConst.md) [int](CppInt.md) [return
+type](CppReturnType.md)) from a certain Database. It needs an existing
+Database (it uses a [reference](CppReference.md), instead of a
+[pointer](CppPointer.md) that can be [null](CppNull.md)) and does not
+copy (due to the [reference](CppReference.md)) nor modify (due to the
+[const](CppConst.md)) it.
 
  
 
@@ -117,14 +117,14 @@ copy (due to the [reference](CppReference.htm)) nor modify (due to the
 
  
 
-The function Sum obtains the sum of values (the [const](CppConst.htm)
-[int](CppInt.htm) [return type](CppReturnType.htm)) from a certain
-[std::vector](CppStdVector.htm). It needs an existing
-[std::vector](CppStdVector.htm) (it uses a
-[reference](CppReference.htm), instead of a [pointer](CppPointer.htm)
-that can be [null](CppNull.htm)) and does not copy (due to the
-[reference](CppReference.htm)) nor modify (due to the
-[const](CppConst.htm)) it.
+The function Sum obtains the sum of values (the [const](CppConst.md)
+[int](CppInt.md) [return type](CppReturnType.md)) from a certain
+[std::vector](CppStdVector.md). It needs an existing
+[std::vector](CppStdVector.md) (it uses a
+[reference](CppReference.md), instead of a [pointer](CppPointer.md)
+that can be [null](CppNull.md)) and does not copy (due to the
+[reference](CppReference.md)) nor modify (due to the
+[const](CppConst.md)) it.
 
  
 
@@ -134,18 +134,18 @@ that can be [null](CppNull.htm)) and does not copy (due to the
 
  
 
-The function [MeanAndStdDev](CppMeanAndStdDev.htm) uses an existing
-[std::vector](CppVector.htm) (it uses a [reference](CppReference.htm),
-instead of a [pointer](CppPointer.htm) that can be [null](CppNull.htm))
-and does not copy (due to the [reference](CppReference.htm)) nor modify
-(due to the [const](CppConst.htm)) it.
-[MeanAndStdDev](CppMeanAndStdDev.htm) does not [return](CppReturn.htm)
-the mean and standard deviation by its [return type](CppReturnType.htm)
-([void](CppVoid.htm)), but by using two [references](CppReference.htm).
-Therefore, the caller of [MeanAndStdDev](CppMeanAndStdDev.htm) must
-first create two [doubles](CppDouble.htm), which will store the mean and
+The function [MeanAndStdDev](CppMeanAndStdDev.md) uses an existing
+[std::vector](CppVector.md) (it uses a [reference](CppReference.md),
+instead of a [pointer](CppPointer.md) that can be [null](CppNull.md))
+and does not copy (due to the [reference](CppReference.md)) nor modify
+(due to the [const](CppConst.md)) it.
+[MeanAndStdDev](CppMeanAndStdDev.md) does not [return](CppReturn.md)
+the mean and standard deviation by its [return type](CppReturnType.md)
+([void](CppVoid.md)), but by using two [references](CppReference.md).
+Therefore, the caller of [MeanAndStdDev](CppMeanAndStdDev.md) must
+first create two [doubles](CppDouble.md), which will store the mean and
 standard deviation after the call to
-[MeanAndStdDev](CppMeanAndStdDev.htm).
+[MeanAndStdDev](CppMeanAndStdDev.md).
 
  
 

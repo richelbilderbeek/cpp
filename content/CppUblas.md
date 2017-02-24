@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [Boost.uBLAS](CppUblas.htm)
+([C++](Cpp.md)) [Boost.uBLAS](CppUblas.md)
 ============================================
 
  
 
-[Boost.uBLAS](CppUblas.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm).
+[Boost.uBLAS](CppUblas.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md).
 
  
 
-List of [Boost.uBLAS](CppUblas.htm) [classes](CppClass.htm) (incomplete)
+List of [Boost.uBLAS](CppUblas.md) [classes](CppClass.md) (incomplete)
 ------------------------------------------------------------------------
 
  
 
--   [boost::numeric::ublas::matrix](CppUblasMatrix.htm)
--   [boost::numeric::ublas::vector](CppUblasVector.htm)
+-   [boost::numeric::ublas::matrix](CppUblasMatrix.md)
+-   [boost::numeric::ublas::vector](CppUblasVector.md)
 
  
 
@@ -49,5 +49,5 @@ List of [Boost.uBLAS](CppUblas.htm) [classes](CppClass.htm) (incomplete)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [NarmedBanditLearner](CppNarmedBanditLearner.htm)
+([C++](Cpp.md)) [NarmedBanditLearner](CppNarmedBanditLearner.md)
 ==================================================================
 
  

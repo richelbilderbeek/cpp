@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [null](CppNull.htm)
+([C++](Cpp.md)) [null](CppNull.md)
 ====================================
 
  
 
-[null](CppNull.htm) denotes a [pointer](CppPointer.htm) pointing
+[null](CppNull.md) denotes a [pointer](CppPointer.md) pointing
 nowhere.
 
  
@@ -36,17 +36,17 @@ nowhere.
 
  
 
-![Boost](PicBoost.png) [Smart pointers](CppSmartPointer.htm) and [null](CppNull.htm)
+![Boost](PicBoost.png) [Smart pointers](CppSmartPointer.md) and [null](CppNull.md)
 ------------------------------------------------------------------------------------
 
  
 
-[Boost](CppBoost.htm) [smart pointers](CppSmartPointer.htm) check for
-[null](CppNull.htm) themselves, so there is no need to check these to be
+[Boost](CppBoost.md) [smart pointers](CppSmartPointer.md) check for
+[null](CppNull.md) themselves, so there is no need to check these to be
 inititialized. In the example below a [member
-variable](CppMemberVariable.htm) of a [class](CppClass.htm) is requested
-from an unitialized [smart pointer](CppSmartPointer.htm). The program
-will [abort](CppAbort.htm) and the [runtime error](CppRuntimeError.htm)
+variable](CppMemberVariable.md) of a [class](CppClass.md) is requested
+from an unitialized [smart pointer](CppSmartPointer.md). The program
+will [abort](CppAbort.md) and the [runtime error](CppRuntimeError.md)
 will be shown.
 
  
@@ -58,11 +58,11 @@ will be shown.
  
 
 The code below shows that initializing a
-[boost::shared\_ptr](CppShared_ptr.htm) with [null](CppNull.htm) will
+[boost::shared\_ptr](CppShared_ptr.md) with [null](CppNull.md) will
 not be easy, but even when it succeeds,
-[boost::shared\_ptr](CppShared_ptr.htm) will check itself for
-[null](CppNull.htm). A [boost::scoped\_ptr](CppScoped_ptr.htm) can be
-[null](CppNull.htm), but will check itself for it as well.
+[boost::shared\_ptr](CppShared_ptr.md) will check itself for
+[null](CppNull.md). A [boost::scoped\_ptr](CppScoped_ptr.md) can be
+[null](CppNull.md), but will check itself for it as well.
 
  
 
@@ -80,12 +80,12 @@ not be easy, but even when it succeeds,
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [nullptr](CppNullptr.htm) to NULL and 0 \[1\]
+-   Prefer [nullptr](CppNullptr.md) to NULL and 0 \[1\]
 
  
 
@@ -97,12 +97,12 @@ not be easy, but even when it succeeds,
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Prefer nullptr to NULL
     and 0'
 

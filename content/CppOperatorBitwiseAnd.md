@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator&](CppOperatorBitwiseAnd.htm)
+([C++](Cpp.md)) [operator&](CppOperatorBitwiseAnd.md)
 =======================================================
 
  
 
-[operator&](CppOperatorBitwiseAnd.htm) (pronounced as 'bitwise and
-[operator](CppOperator.htm)') is an [operator](CppOperator.htm) to
+[operator&](CppOperatorBitwiseAnd.md) (pronounced as 'bitwise and
+[operator](CppOperator.md)') is an [operator](CppOperator.md) to
 perform a bitwise and.
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Functor](CppFunctor.htm)
+([C++](Cpp.md)) [Functor](CppFunctor.md)
 ==========================================
 
  
 
-A [functor](CppFunctor.htm) is a [class](CppClass.htm) that performs its
-duty by calling its [operator()](CppOperatorFunctionCall.htm).
+A [functor](CppFunctor.md) is a [class](CppClass.md) that performs its
+duty by calling its [operator()](CppOperatorFunctionCall.md).
 
  
 
@@ -30,14 +30,14 @@ duty by calling its [operator()](CppOperatorFunctionCall.htm).
 
  
 
-[Functor](CppFunctor.htm) examples
+[Functor](CppFunctor.md) examples
 ----------------------------------
 
  
 
--   [GreaterThan](CppFunctorGreaterThan.htm)
--   [Increase](CppFunctorIncrease.htm)
--   [SameXandY](CppFunctorSameXandY.htm)
+-   [GreaterThan](CppFunctorGreaterThan.md)
+-   [Increase](CppFunctorIncrease.md)
+-   [SameXandY](CppFunctorSameXandY.md)
 
  
 
@@ -49,20 +49,20 @@ duty by calling its [operator()](CppOperatorFunctionCall.htm).
 
  
 
-[STL](CppStl.htm) [predicates](CppPredicate.htm)
+[STL](CppStl.md) [predicates](CppPredicate.md)
 ------------------------------------------------
 
  
 
--   [std::equal\_to](CppEqual_to.htm)
--   [std::greater](CppGreater.htm)
--   [std::greater\_equal](CppGreater_equal.htm)
--   [std::less](CppLess.htm)
--   [std::less\_equal](CppLess_equal.htm)
--   [std::logical\_and](CppLogical_and.htm)
--   [std::logical\_not](CppLogical_not.htm)
--   [std::logical\_or](CppLogical_or.htm)
--   [std::not\_equal\_to](CppNot_equal_to.htm)
+-   [std::equal\_to](CppEqual_to.md)
+-   [std::greater](CppGreater.md)
+-   [std::greater\_equal](CppGreater_equal.md)
+-   [std::less](CppLess.md)
+-   [std::less\_equal](CppLess_equal.md)
+-   [std::logical\_and](CppLogical_and.md)
+-   [std::logical\_not](CppLogical_not.md)
+-   [std::logical\_or](CppLogical_or.md)
+-   [std::not\_equal\_to](CppNot_equal_to.md)
 
  
 
@@ -74,17 +74,17 @@ duty by calling its [operator()](CppOperatorFunctionCall.htm).
 
  
 
-[STL](CppStl.htm) arithmic operations
+[STL](CppStl.md) arithmic operations
 -------------------------------------
 
  
 
--   [std::divides](CppDivides.htm)
--   [std::minus](CppMinus.htm)
--   [std::modulus](CppModulus.htm)
--   [std::multiplies](CppMultiplies.htm)
--   [std::negate](CppNegate.htm)
--   [std::plus](CppPlus.htm)
+-   [std::divides](CppDivides.md)
+-   [std::minus](CppMinus.md)
+-   [std::modulus](CppModulus.md)
+-   [std::multiplies](CppMultiplies.md)
+-   [std::negate](CppNegate.md)
+-   [std::plus](CppPlus.md)
 
  
 
@@ -96,17 +96,17 @@ duty by calling its [operator()](CppOperatorFunctionCall.htm).
 
  
 
-[STL](CppStl.htm) [adapters](CppAdapter.htm)
+[STL](CppStl.md) [adapters](CppAdapter.md)
 --------------------------------------------
 
  
 
--   [std::bind1st](CppBind1st.htm)
--   [std::bind2nd](CppBind2nd.htm)
--   [std::mem\_fun](CppMem_fun.htm)
--   [std::mem\_fun\_ref](CppMem_fun_ref.htm)
--   [std::not1](CppNot1.htm)
--   [std::not2](CppNot2.htm)
+-   [std::bind1st](CppBind1st.md)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::mem\_fun](CppMem_fun.md)
+-   [std::mem\_fun\_ref](CppMem_fun_ref.md)
+-   [std::not1](CppNot1.md)
+-   [std::not2](CppNot2.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#2: correct function declarations](CppExerciseCorrectFunctionDeclarations.htm)
+([C++](Cpp.md)) [Exercise \#2: correct function declarations](CppExerciseCorrectFunctionDeclarations.md)
 ==========================================================================================================
 
  
@@ -23,11 +23,11 @@ Date added: 16th of June 2008
 
  
 
-In this [exercise](CppExercise.htm), you must argue why all the ten
-[function declarations](CppFunctionDeclaration.htm) below are strange
+In this [exercise](CppExercise.md), you must argue why all the ten
+[function declarations](CppFunctionDeclaration.md) below are strange
 and how these can be improved. Assume all correct [header
-files](CppHeaderFile.htm) are [\#included](CppInclude.htm) and all
-user-defined [data types](CppDataType.htm) are defined.
+files](CppHeaderFile.md) are [\#included](CppInclude.md) and all
+user-defined [data types](CppDataType.md) are defined.
 
  
 
@@ -38,7 +38,7 @@ user-defined [data types](CppDataType.htm) are defined.
  
 
 [View the answer of this
-exercise](CppExerciseCorrectFunctionDeclarationsAnswer.htm).
+exercise](CppExerciseCorrectFunctionDeclarationsAnswer.md).
 
  
 

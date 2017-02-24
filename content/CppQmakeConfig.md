@@ -12,37 +12,37 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [CONFIG (qmake variable)](CppQmakeConfig.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [CONFIG (qmake variable)](CppQmakeConfig.md)
 ===============================================================================
 
  
 
-[CONFIG](CppQmakeConfig.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[CONFIG](CppQmakeConfig.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 
-The value of [CONFIG](CppQmakeConfig.htm) specifies various project
-configuration and compiler options. [CONFIG](CppQmakeConfig.htm) can
+The value of [CONFIG](CppQmakeConfig.md) specifies various project
+configuration and compiler options. [CONFIG](CppQmakeConfig.md) can
 have the following values \[1\]:
 
 -   ![ ](PicSpacer.png) debug
 -   ![ ](PicSpacer.png) release
 -   ![ ](PicSpacer.png) warn\_off
 -   ![ ](PicSpacer.png) qt
--   ![ ](PicSpacer.png) dll: a [shared library](CppSharedLibrary.htm)
+-   ![ ](PicSpacer.png) dll: a [shared library](CppSharedLibrary.md)
     should be built
 -   ![ ](PicSpacer.png) staticlib: a [static
-    library](CppStaticLibrary.htm) should be built
+    library](CppStaticLibrary.md) should be built
 -   ![ ](PicSpacer.png) plugin
 -   ![ ](PicSpacer.png) console: the application needs to write to the
-    console, for example with [std::cout](CppCout.htm) or qWarning
+    console, for example with [std::cout](CppCout.md) or qWarning
 -   ![Mac OS X](PicMacOsX.png) app\_bundle
 -   ![Mac OS X](PicMacOsX.png) lib\_bundle
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

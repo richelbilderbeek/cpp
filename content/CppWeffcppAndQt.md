@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [-Weffc++ and Qt](CppWeffcppAndQt.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [-Weffc++ and Qt](CppWeffcppAndQt.md)
 ========================================================================
 
  
 
-[-Weffc++ and Qt](CppWeffcppAndQt.htm) describes how the [compile
-warning](CppCompileWarning.htm) [-Weffc++](CppWeffcpp.htm) goes together
-smoothly with [Qt](CppQt.htm). The goal is to be able to
-[compile](CppCompiler.htm) cleanly at high warning levels \[1\], because
-we prefer [compile errors](CppCompileError.htm) to [runtime
-errors](CppRuntimeError.htm) \[2\].
+[-Weffc++ and Qt](CppWeffcppAndQt.md) describes how the [compile
+warning](CppCompileWarning.md) [-Weffc++](CppWeffcpp.md) goes together
+smoothly with [Qt](CppQt.md). The goal is to be able to
+[compile](CppCompiler.md) cleanly at high warning levels \[1\], because
+we prefer [compile errors](CppCompileError.md) to [runtime
+errors](CppRuntimeError.md) \[2\].
 
  
 
--   In [Qt Creator](CppQtCreator.htm), select '(menu) Tools |
+-   In [Qt Creator](CppQtCreator.md), select '(menu) Tools |
     (menu item) Options | (vertical tab) Designer | (horizontal tab)
     Class generation | (groupbox) Embedding of the UI class' and select
     'Aggregation' ([view a screenshot of the default
     setting](CppWeffcppAndQt.png)).
--   Around each [Qt](CppQt.htm) [\#include](CppInclude.htm) suppress and
-    allow [-Weffc++](CppWeffcpp.htm)
--   Initialize the [member variable](CppMemberVariable.htm) 'ui' in the
-    dialog its [constructor](CppConstructor.htm)
+-   Around each [Qt](CppQt.md) [\#include](CppInclude.md) suppress and
+    allow [-Weffc++](CppWeffcpp.md)
+-   Initialize the [member variable](CppMemberVariable.md) 'ui' in the
+    dialog its [constructor](CppConstructor.md)
 
  
 
@@ -43,14 +43,14 @@ There are some drawbacks following this way:
  
 
 -   Class generation is not done in this way be default
--   [Compiling](CppCompile.htm) will take longer
+-   [Compiling](CppCompile.md) will take longer
 
  
 
 -   [Download the Qt Creator project
-    'CppWeffcppAndQtAggregation' (zip)](CppWeffcppAndQtAggregation.htm)
+    'CppWeffcppAndQtAggregation' (zip)](CppWeffcppAndQtAggregation.md)
 -   [Download the Qt Creator project
-    'CppWeffcppAndQtPointer' (zip)](CppWeffcppAndQtPointer.htm) (this
+    'CppWeffcppAndQtPointer' (zip)](CppWeffcppAndQtPointer.md) (this
     follows another, but failing, approach)
 
  
@@ -68,35 +68,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.3 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.3 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -109,7 +109,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppWeffcppAndQt.pro
+[Qt project file](CppQtProjectFile.md): CppWeffcppAndQt.pro
 ------------------------------------------------------------
 
  
@@ -185,17 +185,17 @@ main.cpp
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Item 1: 'Compile cleanly at high warning levels'.
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 14:
     'Prefer compile- and link-time errors to run-time errors'.
 
@@ -218,5 +218,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

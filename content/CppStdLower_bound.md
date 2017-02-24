@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::lower\_bound](CppLower_bound.htm)
+([C++](Cpp.md)) [std::lower\_bound](CppLower_bound.md)
 ========================================================
 
  
 
-[std::lower\_bound](CppLower_bound.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to find an element in a
-[container](CppContainer.htm) smaller than a certain value.
+[std::lower\_bound](CppLower_bound.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to find an element in a
+[container](CppContainer.md) smaller than a certain value.
 
  
 

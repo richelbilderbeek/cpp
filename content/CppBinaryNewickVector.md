@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [BinaryNewickVector](CppBinaryNewickVector.htm)
+([C++](Cpp.md)) [BinaryNewickVector](CppBinaryNewickVector.md)
 ================================================================
 
  
@@ -22,16 +22,16 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[BinaryNewickVector](CppBinaryNewickVector.htm) is a [data
-type](CppDataType.htm) for storing phylogenies in the
-[Newick](CppNewick.htm) format.
+[BinaryNewickVector](CppBinaryNewickVector.md) is a [data
+type](CppDataType.md) for storing phylogenies in the
+[Newick](CppNewick.md) format.
 
  
 
-The [tool](Tools.htm)
-[TestBinaryNewickVector](ToolTestBinaryNewickVector.htm) is a GUI to
+The [tool](Tools.md)
+[TestBinaryNewickVector](ToolTestBinaryNewickVector.md) is a GUI to
 test and experiment with
-[BinaryNewickVector](CppBinaryNewickVector.htm).
+[BinaryNewickVector](CppBinaryNewickVector.md).
 
  
 
@@ -116,5 +116,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

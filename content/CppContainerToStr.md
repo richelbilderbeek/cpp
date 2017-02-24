@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [ContainerToStr](CppContainerToStr.htm)
+([C++](Cpp.md)) [ContainerToStr](CppContainerToStr.md)
 ========================================================
 
  
 
-[ContainerToStr](CppContainerToStr.htm) is a
-[container](CppContainer.htm) and [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[container](CppContainer.htm) to [std::string](CppString.htm).
+[ContainerToStr](CppContainerToStr.md) is a
+[container](CppContainer.md) and [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[container](CppContainer.md) to [std::string](CppString.md).
 
  
 

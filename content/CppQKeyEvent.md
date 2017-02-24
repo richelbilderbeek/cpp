@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QKeyEvent](CppQKeyEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QKeyEvent](CppQKeyEvent.md)
 ===============================================================
 
  
 
-[QKeyEvent](CppQKeyEvent.htm) is a [Qt](CppQt.htm) [class](CppClass.htm)
+[QKeyEvent](CppQKeyEvent.md) is a [Qt](CppQt.md) [class](CppClass.htm)
 for a key event.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[QKeyEvent](CppQKeyEvent.htm) is used in, among others:
+[QKeyEvent](CppQKeyEvent.md) is used in, among others:
 
 -   ...
 

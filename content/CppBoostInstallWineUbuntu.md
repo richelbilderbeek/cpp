@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Installing Boost under Wine under Ubuntu](CppBoostInstallWineUbuntu.htm)
+([C++](Cpp.md)) [Installing Boost under Wine under Ubuntu](CppBoostInstallWineUbuntu.md)
 ==========================================================================================
 
  
@@ -23,9 +23,9 @@
 
  
 
-[Installing Boost](CppBoostInstall.htm) under [Wine](CppWine.htm) must
+[Installing Boost](CppBoostInstall.md) under [Wine](CppWine.md) must
 be done identical as [installing Boost under
-Windows](CppBoostInstallWindows.htm) (because [Wine](CppWine.htm) is
+Windows](CppBoostInstallWindows.md) (because [Wine](CppWine.md) is
 (not) a Windows emulator).
 
  

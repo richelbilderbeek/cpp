@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Polygon](CppPolygon.htm)
+([C++](Cpp.md)) [Polygon](CppPolygon.md)
 ==========================================
 
  
 
-A [polygon](CppPolygon.htm) is a type of geometry.
+A [polygon](CppPolygon.md) is a type of geometry.
 
  
 
@@ -29,15 +29,15 @@ A [polygon](CppPolygon.htm) is a type of geometry.
 
  
 
-[Polygon](CppPolygon.htm) [classes](CppClass.htm)
+[Polygon](CppPolygon.md) [classes](CppClass.md)
 -------------------------------------------------
 
  
 
 -   ![Boost](PicBoost.png)
-    [boost::geometry::model::polygon](CppBoostPolygon.htm)
--   ![Qt](PicQt.png) [QPolygon](CppQPolygon.htm)
--   ![Wt](PicWt.png) [Wt::WPolygonArea](CppWPolygonArea.htm)
+    [boost::geometry::model::polygon](CppBoostPolygon.md)
+-   ![Qt](PicQt.png) [QPolygon](CppQPolygon.md)
+-   ![Wt](PicWt.png) [Wt::WPolygonArea](CppWPolygonArea.md)
 
  
 

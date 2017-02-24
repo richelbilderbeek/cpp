@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetAngle](CppGetAngle.htm)
+([C++](Cpp.md)) [GetAngle](CppGetAngle.md)
 ============================================
 
  
 
-[GetAngle](CppGetAngle.htm) is a [geometry](CppGeometry.htm) [code
-snippet](CppCodeSnippets.htm) to calculate the angle between two
+[GetAngle](CppGetAngle.md) is a [geometry](CppGeometry.md) [code
+snippet](CppCodeSnippets.md) to calculate the angle between two
 coordinats. All it needs is the distance between these two coordinats.
 The resulting angle will be in the range \[0.0, 2.0 \* pi\], these
 angles ordered like a clock:
@@ -31,9 +31,9 @@ angles ordered like a clock:
 
  
 
-[GetAngle](CppGetAngle.htm) is maintained in the
-[CppGeometry](CppGeometry.htm) [class](CppClass.htm), see
-[CppGeometry](CppGeometry.htm) for the heavily tested, debugged and used
+[GetAngle](CppGetAngle.md) is maintained in the
+[CppGeometry](CppGeometry.md) [class](CppClass.md), see
+[CppGeometry](CppGeometry.md) for the heavily tested, debugged and used
 version.
 
  
@@ -44,7 +44,7 @@ version.
 
  
 
-[GetAngle](CppGetAngle.htm) using the [STL](CppStl.htm) only
+[GetAngle](CppGetAngle.md) using the [STL](CppStl.md) only
 ------------------------------------------------------------
 
  
@@ -63,7 +63,7 @@ version.
 
  
 
-[GetAngle](CppGetAngle.htm) using [Boost.Units](CppUnits.htm)
+[GetAngle](CppGetAngle.md) using [Boost.Units](CppUnits.md)
 -------------------------------------------------------------
 
  
@@ -110,7 +110,7 @@ keep it in for nostalgic purposes.
 
  
 
-Testing [GetAngle](CppGetAngle.htm)
+Testing [GetAngle](CppGetAngle.md)
 -----------------------------------
 
  

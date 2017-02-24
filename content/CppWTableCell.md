@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WTableCell](CppWTableCell.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WTableCell](CppWTableCell.md)
 =====================================================================
 
  
 
-[Wt::WTableCell](CppWTableCell.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WTableCell](CppWTableCell.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WTableCell](CppWTableCell.htm) is used in, among others:
+[Wt::WTableCell](CppWTableCell.md) is used in, among others:
 
 -   ...
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPainterPath](CppWPainterPath.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPainterPath](CppWPainterPath.md)
 =========================================================================
 
  
 
-[Wt::WPainterPath](CppWPainterPath.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WPainterPath](CppWPainterPath.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WPainterPath](CppWPainterPath.htm) is used in, among others:
+[Wt::WPainterPath](CppWPainterPath.md) is used in, among others:
 
 -   ...
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::tuple](CppBoostTuple.htm)
+([C++](Cpp.md)) ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::tuple](CppBoostTuple.md)
 ===============================================================================================
 
  
 
-[boost::tuple](CppBoostTuple.htm) is a [C++98](Cpp98.htm)
-[Boost](CppBoost.htm) [container](CppContainer.htm)
-[class](CppClass.htm) for a [tuple](CppTuple.htm).
+[boost::tuple](CppBoostTuple.md) is a [C++98](Cpp98.md)
+[Boost](CppBoost.md) [container](CppContainer.md)
+[class](CppClass.md) for a [tuple](CppTuple.md).
 
  
 
--   [boost::tuple example 1: basics](CppBoostTupleExample1.htm)
+-   [boost::tuple example 1: basics](CppBoostTupleExample1.md)
 
  
 

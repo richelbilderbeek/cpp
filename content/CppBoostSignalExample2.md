@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Boost signal example 2: emitting this](CppBoostSignalExample2.htm)
+([C++](Cpp.md)) [Boost signal example 2: emitting this](CppBoostSignalExample2.md)
 ====================================================================================
 
  
 
-This [Boost signal](CppBoostSignal.htm) example shows how to emit
-[this](CppThis.htm).
+This [Boost signal](CppBoostSignal.md) example shows how to emit
+[this](CppThis.md).
 
  
 
@@ -40,36 +40,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.04 (natty)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.04 (natty)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.5.2
+-   [G++](CppGpp.md) 4.5.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.5.2
 
  
@@ -82,7 +82,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppBoostSignalExample2.pro
+[Qt project file](CppQtProjectFile.md): CppBoostSignalExample2.pro
 -------------------------------------------------------------------
 
  

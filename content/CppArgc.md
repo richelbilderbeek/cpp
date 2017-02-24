@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [argc](CppArgc.htm)
+([C++](Cpp.md)) [argc](CppArgc.md)
 ====================================
 
  
 
-[argc](CppArgc.htm) ('Argument Count') holds the size of
-[array](CppArray.htm) [argv](CppArgv.htm), where [argv](CppArgv.htm)
-holds the first index of this [array](CppArray.htm) of strings. With
-[argc](CppArgc.htm) and [argv](CppArgv.htm) you can access the arguments
-[main](CppMain.htm) is called with from (by the [operating
-system](CppOs.htm)).
+[argc](CppArgc.md) ('Argument Count') holds the size of
+[array](CppArray.md) [argv](CppArgv.md), where [argv](CppArgv.htm)
+holds the first index of this [array](CppArray.md) of strings. With
+[argc](CppArgc.md) and [argv](CppArgv.md) you can access the arguments
+[main](CppMain.md) is called with from (by the [operating
+system](CppOs.md)).
 
  
 
-One of the two standard forms of [main](CppMain.htm) is \[1\]:
+One of the two standard forms of [main](CppMain.md) is \[1\]:
 
  
 
@@ -36,7 +36,7 @@ One of the two standard forms of [main](CppMain.htm) is \[1\]:
 
  
 
-[argv](CppArgv.htm) contains the filename of the program itself at index
+[argv](CppArgv.md) contains the filename of the program itself at index
 zero and then the parameters the user gave when starting the executable.
 
  
@@ -93,7 +93,7 @@ Your output will be something like:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

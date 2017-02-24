@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::strncmp](CppStrncmp.htm)
+([C++](Cpp.md)) [std::strncmp](CppStrncmp.md)
 ===============================================
 
  
 
-[std::strncmp](CppStrncmp.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to compare two C-style strings
+[std::strncmp](CppStrncmp.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to compare two C-style strings
 lexicographically.
 
  
 
-[std::strncmp](CppStrncmp.htm) is [defined](CppDefinition.htm) in the
-[cstring.h](CppCstringH.htm) [header file](CppHeaderFile.htm).
+[std::strncmp](CppStrncmp.md) is [defined](CppDefinition.md) in the
+[cstring.h](CppCstringH.md) [header file](CppHeaderFile.md).
 
  
 
@@ -34,7 +34,7 @@ lexicographically.
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  

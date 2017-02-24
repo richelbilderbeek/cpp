@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Greatest Common Divisor](CppGcd.htm)
+([C++](Cpp.md)) [Greatest Common Divisor](CppGcd.md)
 ======================================================
 
  

@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QImage](CppQImage.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QImage](CppQImage.md)
 =========================================================
 
  
 
-[QImage](CppQImage.htm) is a [Qt](CppQt.htm) [class](CppClass.htm) to
+[QImage](CppQImage.md) is a [Qt](CppQt.md) [class](CppClass.htm) to
 perform pixel manipulation on.
 
  
 
-[QImage](CppQImage.htm) is used in many examples on this site.
+[QImage](CppQImage.md) is used in many examples on this site.
 
  
 
-[Qt example 3: a changing background in 2D](CppQtExample3.htm) shows how
+[Qt example 3: a changing background in 2D](CppQtExample3.md) shows how
 to paint the pixels of a background sprite, like [this screenshot
 (png)](CppQtExample3.png).
 
@@ -40,14 +40,14 @@ to paint the pixels of a background sprite, like [this screenshot
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [QImage example 1: Create a QImage](CppQImageExample1.htm)
--   [QImage example 2: Draw on a QImage](CppQImageExample2.htm)
--   [QImage example 3: Create a tiled QImage](CppQImageExample3.htm)
+-   [QImage example 1: Create a QImage](CppQImageExample1.md)
+-   [QImage example 2: Draw on a QImage](CppQImageExample2.md)
+-   [QImage example 3: Create a tiled QImage](CppQImageExample3.md)
 
  
 

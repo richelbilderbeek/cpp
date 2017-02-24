@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [GetStlVersion](CppGetStlVersion.htm)
+([C++](Cpp.md)) [GetStlVersion](CppGetStlVersion.md)
 ======================================================
 
  
 
-[GetStlVersion](CppGetStlVersion.htm) is a [version](CppVersion.htm)
-[code snippets](CppCodeSnippets.htm) to obtain the
-[version](CppVersion.htm) of the current [STL](CppStl.htm)
-[library](CppLibrary.htm) in use.
+[GetStlVersion](CppGetStlVersion.md) is a [version](CppVersion.md)
+[code snippets](CppCodeSnippets.md) to obtain the
+[version](CppVersion.md) of the current [STL](CppStl.md)
+[library](CppLibrary.md) in use.
 
  
 

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Pixelate](CppPixelate.htm)
+([C++](Cpp.md)) [Pixelate](CppPixelate.md)
 ============================================
 
  
 
 The 'pixelate' function generalizes multiple pixels into one. The
-function relies heavily on the [GetPixel](CppGetPixel.htm),
-[GetGreyness](CppGetGreyness.htm), [SetPixel](CppSetPixel.htm) and
-[SetGreyness](CppSetGreyness.htm) functions.
+function relies heavily on the [GetPixel](CppGetPixel.md),
+[GetGreyness](CppGetGreyness.md), [SetPixel](CppSetPixel.md) and
+[SetGreyness](CppSetGreyness.md) functions.
 
  
 

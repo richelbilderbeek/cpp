@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [DialWidget](CppDialWidget.htm)
+([C++](Cpp.md)) [DialWidget](CppDialWidget.md)
 ================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[DialWidget](CppDialWidget.htm) is a [Dial](CppDial.htm)
-[widget](CppWidget.htm).
+[DialWidget](CppDialWidget.md) is a [Dial](CppDial.md)
+[widget](CppWidget.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

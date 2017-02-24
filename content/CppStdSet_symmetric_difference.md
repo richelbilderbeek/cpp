@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::set\_symmetric\_difference](CppSet_symmetric_difference.htm)
+([C++](Cpp.md)) [std::set\_symmetric\_difference](CppSet_symmetric_difference.md)
 ===================================================================================
 
  
 
-[std::set\_symmetric\_difference](CppSet_symmetric_difference.htm) is an
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to obtain the elements
-from two [containers](CppContainer.htm) which are in only one of these
-[containers](CppContainer.htm).
+[std::set\_symmetric\_difference](CppSet_symmetric_difference.md) is an
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to obtain the elements
+from two [containers](CppContainer.md) which are in only one of these
+[containers](CppContainer.md).
 
  
 

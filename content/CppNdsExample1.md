@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![NDS](PicNds.png) [NDS example 1](CppNdsExample1.htm)
+([C++](Cpp.md)) ![NDS](PicNds.png) [NDS example 1](CppNdsExample1.md)
 =======================================================================
 
  
 
-[NDS](CppNds.htm) example 1: 2D pixel art, respond to keys.
+[NDS](CppNds.md) example 1: 2D pixel art, respond to keys.
 
  
 
@@ -48,36 +48,34 @@ Downloads
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 --------------------------------------------------------------
 
  
 
--   ![NDS](PicNds.png) [NDS](CppNds.htm)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.04 LTS Lucid
+-   ![NDS](PicNds.png) [NDS](CppNds.md)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.04 LTS Lucid
     Lynx
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
 -   ![Command line](PicCl.png) command line
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
--   ![GUI](PicGui.png) [GUI](CppGui.htm) application
+-   ![GUI](PicGui.png) [GUI](CppGui.md) application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![libnds](PicLibnds.png) [libnds](CppLibnds.htm): version 1.4.7
--   ![STL](PicStl.png) [STL](CppStl.htm): from [GCC](CppGcc.htm),
-    shipped with [Qt Creator](CppQt.htm) 2.0.0
-
- 
+-   ![libnds](PicLibnds.png) [libnds](CppLibnds.md): version 1.4.7
+-   ![STL](PicStl.png) [STL](CppStl.md): from [GCC](CppGcc.md),
+    shipped with [Qt Creator](CppQt.md) 2.0.0
 
  
 
@@ -87,7 +85,9 @@ Downloads
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -125,7 +125,7 @@ main.cpp
 
  
 
-[Makefile](CppMakefile.htm)
+[Makefile](CppMakefile.md)
 ---------------------------
 
  
@@ -144,13 +144,13 @@ main.cpp
 
  
 
-[Make](CppMake.htm)
+[Make](CppMake.md)
 -------------------
 
  
 
 This project is made from command line, using the
-[makefile](CppMakefile.htm) shown above.
+[makefile](CppMakefile.md) shown above.
 
  
 

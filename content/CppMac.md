@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Mac](PicMac.png) [Mac](CppMac.htm)
+([C++](Cpp.md)) ![Mac](PicMac.png) [Mac](CppMac.md)
 =====================================================
 
  
 
-[Mac](CppMac.htm) (or better: 'Mac OS' (older) or 'Mac OSX' (newer)) is
-an [operating system](CppOs.htm).
+[Mac](CppMac.md) (or better: 'Mac OS' (older) or 'Mac OSX' (newer)) is
+an [operating system](CppOs.md).
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::ctime](CppStdCtime.htm)
+([C++](Cpp.md)) [std::ctime](CppStdCtime.md)
 ==============================================
 
  
 
-[std::ctime](CppStdCtime.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to [convert](CppConvert.htm)
-[std::time\_t](CppTime_t.htm) to [std::string](CppString.htm).
+[std::ctime](CppStdCtime.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to [convert](CppConvert.md)
+[std::time\_t](CppTime_t.md) to [std::string](CppString.md).
 
  
 

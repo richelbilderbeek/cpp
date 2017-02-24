@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Undefined reference to '\_\_getreent'](CppLinkErrorUndefinedReferenceTo__getreent.htm)
+([C++](Cpp.md)) [Undefined reference to '\_\_getreent'](CppLinkErrorUndefinedReferenceTo__getreent.md)
 ========================================================================================================
 
  
@@ -21,13 +21,13 @@
 
  
 
-This [link error](CppLinkError.htm)
+This [link error](CppLinkError.md)
 
  
 
 After successfully [installing GMP under Cygwin (under
-Windows)](CppGmpInstallCygwin.htm), I tried to run the [Hello
-GMP](CppHelloGmp.htm) program, using the Qt Creator project file below:
+Windows)](CppGmpInstallCygwin.md), I tried to run the [Hello
+GMP](CppHelloGmp.md) program, using the Qt Creator project file below:
 
  
 
@@ -37,7 +37,7 @@ GMP](CppHelloGmp.htm) program, using the Qt Creator project file below:
 
  
 
-Note that I link to a library created by [Cygwin](CppCygwin.htm):
+Note that I link to a library created by [Cygwin](CppCygwin.md):
 'c:/cygwin/usr/local/lib/libgmp.lib'. Would this library have the wrong
 format?
 

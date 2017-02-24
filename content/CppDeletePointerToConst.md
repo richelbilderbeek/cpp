@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [delete a pointer-to-const](CppDeletePointerToConst.htm)
+([C++](Cpp.md)) [delete a pointer-to-const](CppDeletePointerToConst.md)
 =========================================================================
 
  
 
-Be aware that you can [delete](CppDelete.htm) a
-pointer-to-[const](CppConst.htm):
+Be aware that you can [delete](CppDelete.md) a
+pointer-to-[const](CppConst.md):
 
  
 
@@ -29,7 +29,7 @@ pointer-to-[const](CppConst.htm):
  
 
 See [exercise \#2: a foolproof
-function](CppExerciseFoolproofFunction.htm) for the implications and
+function](CppExerciseFoolproofFunction.md) for the implications and
 prevention of this.
 
  

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::sin](CppSin.htm)
+([C++](Cpp.md)) [std::sin](CppSin.md)
 =======================================
 
  
 
-Standard [function](CppFunction.htm) for calculating the sine of an
+Standard [function](CppFunction.md) for calculating the sine of an
 angle, where the angle is in radians.
 
  
 
-To use [std::sin](CppSin.htm), the [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) [cmath.h](CppCmathH.htm) must be
-[\#include](CppInclude.htm)d.
+To use [std::sin](CppSin.md), the [STL](CppStl.md) [header
+file](CppHeaderFile.md) [cmath.h](CppCmathH.md) must be
+[\#include](CppInclude.md)d.
 
  
 

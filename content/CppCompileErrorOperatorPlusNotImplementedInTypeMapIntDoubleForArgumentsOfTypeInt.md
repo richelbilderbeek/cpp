@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['operator+' not implemented in type 'std::map&lt;int,double&gt;' for arguments of type 'int'](CppCompileErrorOperatorPlusNotImplementedInTypeMapIntDoubleForArgumentsOfTypeInt.htm)
+([C++](Cpp.md)) ['operator+' not implemented in type 'std::map&lt;int,double&gt;' for arguments of type 'int'](CppCompileErrorOperatorPlusNotImplementedInTypeMapIntDoubleForArgumentsOfTypeInt.md)
 =====================================================================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,16 +53,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): version supplied with [C++
-    Builder](CppBuilder.htm) 6.0
+-   [STL](CppStl.md): version supplied with [C++
+    Builder](CppBuilder.md) 6.0
 
  
 
@@ -85,14 +85,14 @@ Solution
 
  
 
-The cause of this [compile error](CppCompileError.htm) is that
-[operator\[\]](CppOperatorIndex.htm) is not a [const member
-function](CppConstMemberFunction.htm). This is because this [member
-function](CppMemberFunction.htm) inserts an element to the
-[std::map](CppMap.htm). It is created to make insertion easy and to
-never [throw](CppThrow.htm). Therefore, the code above will not compile:
+The cause of this [compile error](CppCompileError.md) is that
+[operator\[\]](CppOperatorIndex.md) is not a [const member
+function](CppConstMemberFunction.md). This is because this [member
+function](CppMemberFunction.md) inserts an element to the
+[std::map](CppMap.md). It is created to make insertion easy and to
+never [throw](CppThrow.md). Therefore, the code above will not compile:
 if myMap does not have the key i, an exception has to be
-[thrown](CppThrow.htm). So, due to this it does not compile. The way to
+[thrown](CppThrow.md). So, due to this it does not compile. The way to
 solve the above example is:
 
  

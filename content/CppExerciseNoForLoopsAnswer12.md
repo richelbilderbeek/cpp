@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#12](CppExerciseNoForLoopsAnswer12.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#12](CppExerciseNoForLoopsAnswer12.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,11 +35,11 @@ Question \#12: Replace negative by zero
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::less](CppLess.htm)
--   [std::replace\_if](CppReplace_if.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::less](CppLess.md)
+-   [std::replace\_if](CppReplace_if.md)
 
  
 

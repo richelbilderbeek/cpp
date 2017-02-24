@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png) [Installing the Android NDK](CppAndroidNdkInstall.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png) [Installing the Android NDK](CppAndroidNdkInstall.md)
 ==================================================================================================
 
  
 
-To install the [Android NDK](CppAndroidNdk.htm) go to the [Android NDK
+To install the [Android NDK](CppAndroidNdk.md) go to the [Android NDK
 homepage](http://developer.android.com/sdk/ndk/index.html) and follow
 the instructions.
 

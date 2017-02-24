@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [HelloC++11](CppHelloCpp11.htm)
+([C++](Cpp.md)) [HelloC++11](CppHelloCpp11.md)
 ================================================
 
  
 
-[HelloC++11](CppHelloCpp11.htm) is an extension of [Hello
-World](CppHelloWorld.htm). Like [Hello World](CppHelloWorld.htm),
-[HelloC++11](CppHelloCpp11.htm) is a simple console application.
-[HelloC++11](CppHelloCpp11.htm), however, also requires the
-[C++11](Cpp11.htm) [standard](CppStandard.htm) to
-[compile](CppCompile.htm).
+[HelloC++11](CppHelloCpp11.md) is an extension of [Hello
+World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md),
+[HelloC++11](CppHelloCpp11.md) is a simple console application.
+[HelloC++11](CppHelloCpp11.md), however, also requires the
+[C++11](Cpp11.md) [standard](CppStandard.md) to
+[compile](CppCompile.md).
 
  
 
@@ -31,7 +31,7 @@ variants are on the Internet.
 
  
 
-The code base of [HelloC++11](CppHelloCpp11.htm) is:
+The code base of [HelloC++11](CppHelloCpp11.md) is:
 
  
 
@@ -41,23 +41,23 @@ The code base of [HelloC++11](CppHelloCpp11.htm) is:
 
  
 
-Here are some detailed examples of [HelloC++11](CppHelloCpp11.htm),
-depending on [IDE](CppIde.htm) and operating system:
+Here are some detailed examples of [HelloC++11](CppHelloCpp11.md),
+depending on [IDE](CppIde.md) and operating system:
 
  
 
 -   ![OKAY](PicGreen.png)![Qt
     Creator](PicQtCreator.png)![Cygwin](PicCygwin.png)![
     ](PicSpacer.png)![ ](PicSpacer.png) ['HelloC++11' using Qt Creator
-    under Cygwin](CppHelloCpp11QtCreatorCygwin.htm)
+    under Cygwin](CppHelloCpp11QtCreatorCygwin.md)
 -   ![OKAY](PicGreen.png)![Qt
     Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![
     ](PicSpacer.png)![ ](PicSpacer.png) ['HelloC++11' using Qt Creator
-    under Lubuntu](CppHelloCpp11QtCreatorLubuntu.htm)
+    under Lubuntu](CppHelloCpp11QtCreatorLubuntu.md)
 -   ![OKAY](PicGreen.png)![Qt
     Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     ['HelloC++11' using Qt Creator under Lubuntu, crosscompile to
-    Windows](CppHelloCpp11QtCreatorLubuntuToWindows.htm)
+    Windows](CppHelloCpp11QtCreatorLubuntuToWindows.md)
 
  
 

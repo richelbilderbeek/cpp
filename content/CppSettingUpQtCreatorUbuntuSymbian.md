@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png) [Setting up Qt Creator under Ubuntu for Symbian](CppSettingUpQtCreatorUbuntuSymbian.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png) [Setting up Qt Creator under Ubuntu for Symbian](CppSettingUpQtCreatorUbuntuSymbian.md)
 ===========================================================================================================================================================================================
 
  
 
-Before setting up [Qt Creator](CppQtCreator.htm) under
-[Ubuntu](CppUbuntu.htm) for [Symbian](CppSymbian.htm), make sure you
-have installed [WINE](CppWine.htm) and (the [Windows](CppWindows.htm)
-version of) [Qt Creator](CppQtCreator.htm).
+Before setting up [Qt Creator](CppQtCreator.md) under
+[Ubuntu](CppUbuntu.md) for [Symbian](CppSymbian.md), make sure you
+have installed [WINE](CppWine.md) and (the [Windows](CppWindows.md)
+version of) [Qt Creator](CppQtCreator.md).
 
  
 
@@ -42,8 +42,8 @@ version of) [Qt Creator](CppQtCreator.htm).
 6.  In the 'Select Symbian SDK directories', just click 'Next'
 7.  In the 'Choose Start Menu Folder', just click 'Next' and
     installation starts
-8.  After the installation, start the [Windows](CppWindows.htm) version
-    of [Qt Creator](CppQtCreator.htm)
+8.  After the installation, start the [Windows](CppWindows.md) version
+    of [Qt Creator](CppQtCreator.md)
 9.  Click 'Tools', 'Options' to open the 'Options' dialog
 10. In the 'Options' dialog, click 'Qt4' and in the 'Qt Versions' tab,
     click on the plus. Click on 'Browse' to select the Symbian version

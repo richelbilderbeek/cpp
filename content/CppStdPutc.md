@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::putc](CppPutc.htm)
+([C++](Cpp.md)) [std::putc](CppPutc.md)
 =========================================
 
  
 
-[std::putc](CppPutc.htm) is a C-style [function](CppFunction.htm) to
-append a [character](CppChar.htm) to a file.
+[std::putc](CppPutc.md) is a C-style [function](CppFunction.md) to
+append a [character](CppChar.md) to a file.
 
  
 
@@ -39,36 +39,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.04 (precise)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.04 (precise)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.4.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.4.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.3
+-   [G++](CppGpp.md) 4.6.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.3
 
  
@@ -81,7 +81,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): Cppstd::putc.pro
+[Qt project file](CppQtProjectFile.md): Cppstd::putc.pro
 ---------------------------------------------------------
 
  
@@ -128,5 +128,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [utilities.hpp: Invalid template argument list](CppCompileErrorUtilitiesHppInvalidTemplateArgumentList.htm)
+([C++](Cpp.md)) [utilities.hpp: Invalid template argument list](CppCompileErrorUtilitiesHppInvalidTemplateArgumentList.md)
 ============================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Boost version: 1.35.0.
 

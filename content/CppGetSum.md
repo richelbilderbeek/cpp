@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [GetSum (on a container)](CppGetSum.htm)
+([C++](Cpp.md)) [GetSum (on a container)](CppGetSum.md)
 =========================================================
 
  
 
-[GetSum](CppGetSum.htm) is a [container](CppContainer.htm) [code
-snippet](CppCodeSnippets.htm) to sum all values in a one-dimensional
-[container](CppContainer.htm). To sum all values in a two-dimensional
-[matrix](CppMatrix.htm), [go to the GetSum (on matrix)
-page](CppGetSumMatrix.htm).
+[GetSum](CppGetSum.md) is a [container](CppContainer.md) [code
+snippet](CppCodeSnippets.md) to sum all values in a one-dimensional
+[container](CppContainer.md). To sum all values in a two-dimensional
+[matrix](CppMatrix.md), [go to the GetSum (on matrix)
+page](CppGetSumMatrix.md).
 
  
 
-There are multiple ways to perform [GetSum](CppGetSum.htm):
+There are multiple ways to perform [GetSum](CppGetSum.md):
 
  
 
@@ -67,13 +67,13 @@ The general algorithm way
 
  
 
-The algorithm way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+The algorithm way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 ----------------------------------------------------------------------------
 
  
 
 This version is given as the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -96,12 +96,12 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-The [for](CppFor.htm)-loop way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+The [for](CppFor.md)-loop way on a [std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt;
 -----------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1,2\].
 
  
 
@@ -124,16 +124,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1 :
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops.'
 

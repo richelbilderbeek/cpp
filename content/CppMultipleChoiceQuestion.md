@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MultipleChoiceQuestion](CppMultipleChoiceQuestion.htm)
+([C++](Cpp.md)) [MultipleChoiceQuestion](CppMultipleChoiceQuestion.md)
 ========================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[MultipleChoiceQuestion](CppMultipleChoiceQuestion.htm) is a
-[class](CppClass.htm) for a multiple choice [question](CppQuestion.htm).
+[MultipleChoiceQuestion](CppMultipleChoiceQuestion.md) is a
+[class](CppClass.md) for a multiple choice [question](CppQuestion.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Code Insight(tm) features are disabled while debugging](CppMiscErrorCodeInsightFeaturesDisabledWhileDebugging.htm)
+([C++](Cpp.md)) [Code Insight(tm) features are disabled while debugging](CppMiscErrorCodeInsightFeaturesDisabledWhileDebugging.md)
 ====================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

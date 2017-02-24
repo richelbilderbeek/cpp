@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetMean](CppGetMean.htm)
+([C++](Cpp.md)) [GetMean](CppGetMean.md)
 ==========================================
 
  
 
-[GetMean](CppGetMean.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to calculate the mean value of a
-[container](CppContainer.htm).
+[GetMean](CppGetMean.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to calculate the mean value of a
+[container](CppContainer.md).
 
  
 
@@ -37,7 +37,7 @@ snippet](CppCodeSnippets.htm) to calculate the mean value of a
 
  
 
-[GetMean](CppGetMean.htm) test
+[GetMean](CppGetMean.md) test
 ------------------------------
 
  

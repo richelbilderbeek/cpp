@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::setw](CppSetw.htm)
+([C++](Cpp.md)) [std::setw](CppSetw.md)
 =========================================
 
  
 
-[std::setw](CppSetw.htm) (an abbreviation of 'set width') is an
-[STL](CppStl.htm) [std::iostream](CppIostream.htm) manipulator to set
+[std::setw](CppSetw.md) (an abbreviation of 'set width') is an
+[STL](CppStl.md) [std::iostream](CppIostream.md) manipulator to set
 the width of the next output.
 
  

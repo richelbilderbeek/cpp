@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [std::equal\_to](CppEqual_to.htm)
+([C++](Cpp.md)) [std::equal\_to](CppEqual_to.md)
 ==================================================
 
  
 
-[Predicate](CppPredicate.htm) to perform
-[operator==](CppOperatorEqual.htm) on two values.
+[Predicate](CppPredicate.md) to perform
+[operator==](CppOperatorEqual.md) on two values.
 
  
 
-[std::equal\_to](CppEqual_to.htm) works better on [int](CppInt.htm) than
-on [double](CppDouble.htm), because of rounding errors.
-[fuzzy\_equal\_to](CppFuzzy_equal_to.htm) can be used for testing two
-[double](CppDouble.htm) for equality with some tolerance.
+[std::equal\_to](CppEqual_to.md) works better on [int](CppInt.md) than
+on [double](CppDouble.md), because of rounding errors.
+[fuzzy\_equal\_to](CppFuzzy_equal_to.md) can be used for testing two
+[double](CppDouble.md) for equality with some tolerance.
 
  
 
@@ -44,7 +44,7 @@ Example
 
 The code below shows how to replace values that are equal to a zero by a
 one. Note: this is not a preferred version of
-[ReplaceZeroByOne](CppReplaceZeroByOne.htm).
+[ReplaceZeroByOne](CppReplaceZeroByOne.md).
 
  
 

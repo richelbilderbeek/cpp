@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::stable\_sort](CppStable_sort.htm)
+([C++](Cpp.md)) [std::stable\_sort](CppStable_sort.md)
 ========================================================
 
  
 
-[std::stable\_sort](CppStable_sort.htm) is an [STL](CppStl.htm)
-[sorting](CppSort.htm) [algorithm](CppAlgorithm.htm). It differs from
-[std::sort](CppSort.htm) in that it preserves the order in equivalent
-elemenst (where [std::sort](CppSort.htm) might change this order).
+[std::stable\_sort](CppStable_sort.md) is an [STL](CppStl.md)
+[sorting](CppSort.md) [algorithm](CppAlgorithm.md). It differs from
+[std::sort](CppSort.md) in that it preserves the order in equivalent
+elemenst (where [std::sort](CppSort.md) might change this order).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [jokes](CppJokes.htm)
+([C++](Cpp.md)) [jokes](CppJokes.md)
 ======================================
 
  
 
-My own [C++](Cpp.htm) [jokes](CppJokes.htm).
+My own [C++](Cpp.md) [jokes](CppJokes.md).
 
  
 
@@ -29,7 +29,7 @@ My own [C++](Cpp.htm) [jokes](CppJokes.htm).
 
  
 
-![C++11](PicCpp11.png) [C++11](Cpp11.htm) [auto](CppAuto.htm) joke
+![C++11](PicCpp11.png) [C++11](Cpp11.md) [auto](CppAuto.md) joke
 ------------------------------------------------------------------
 
  
@@ -40,7 +40,7 @@ My own [C++](Cpp.htm) [jokes](CppJokes.htm).
 
  
 
-\[1\] But you can check that the [destructor](CppDestructor.htm) of
+\[1\] But you can check that the [destructor](CppDestructor.md) of
 MyClass is never called...
 
  

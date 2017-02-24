@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Encranger](CppEncranger.htm)
+([C++](Cpp.md)) [Encranger](CppEncranger.md)
 ==============================================
 
  
@@ -22,15 +22,15 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Encranger](CppEncranger.htm) is one of my own
-[cryptography](CppCryptography.htm) [classes](CppClass.htm).
+[Encranger](CppEncranger.md) is one of my own
+[cryptography](CppCryptography.md) [classes](CppClass.md).
 
  
 
-[Encranger](CppEncranger.htm) is used in, among others:
+[Encranger](CppEncranger.md) is used in, among others:
 
--   [Encranger](ToolEncranger.htm)
--   [ProjectWtWebsite](ProjectWtWebsite.htm)
+-   [Encranger](ToolEncranger.md)
+-   [ProjectWtWebsite](ProjectWtWebsite.md)
 
 Technical facts
 ---------------
@@ -113,5 +113,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

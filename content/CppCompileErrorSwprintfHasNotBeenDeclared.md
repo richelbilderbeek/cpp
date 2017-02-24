@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [::swprintf has not been declared](CppCompileErrorSwprintfHasNotBeenDeclared.htm)
+([C++](Cpp.md)) [::swprintf has not been declared](CppCompileErrorSwprintfHasNotBeenDeclared.md)
 ==================================================================================================
 
  
@@ -22,9 +22,9 @@
  
 
 [::swprintf has not been
-declared](CppCompileErrorSwprintfHasNotBeenDeclared.htm) is a [compile
-error](CppCompileError.htm) I encountered when using [Qt
-Creator](CppQtCreator.htm) under [Windows](CppWindows.htm) 7.
+declared](CppCompileErrorSwprintfHasNotBeenDeclared.md) is a [compile
+error](CppCompileError.md) I encountered when using [Qt
+Creator](CppQtCreator.md) under [Windows](CppWindows.md) 7.
 
  
 
@@ -42,7 +42,7 @@ Solution
  
 
 Add the following statement before the first
-[\#include](CppInclude.htm):
+[\#include](CppInclude.md):
 
   ---------------------------
   ` #undef __STRICT_ANSI__`

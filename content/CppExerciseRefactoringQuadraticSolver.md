@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#6: refactoring quadratic solver](CppExerciseRefactoringQuadraticSolver.htm)
+([C++](Cpp.md)) [Exercise \#6: refactoring quadratic solver](CppExerciseRefactoringQuadraticSolver.md)
 ========================================================================================================
 
  
@@ -23,7 +23,7 @@ Date added: 21th of July 2008
 
  
 
-In this [exercise](CppExercise.htm) you must refactor a class that is
+In this [exercise](CppExercise.md) you must refactor a class that is
 given as an example in reference \[1\]. You will learn how to think to
 correctly refactor a class and that literature does not always set a
 good examples.
@@ -41,9 +41,9 @@ are x = (-b-sqrt(D)) / (2a) and x = (-b+sqrt(D)) / (2a).
 
 Below of a piece of code (from \[1\]) demonstrating a class to solve a
 quadratic equation. Can you refactor this class to follow good [class
-design](CppClassDesign.htm), [member function
-design](CppMemberFunctionDesign.htm), [function
-design](CppFunctionDesign.htm) and good thinking?
+design](CppClassDesign.md), [member function
+design](CppMemberFunctionDesign.md), [function
+design](CppFunctionDesign.md) and good thinking?
 
  
 
@@ -62,7 +62,7 @@ design](CppFunctionDesign.htm) and good thinking?
  
 
 [View the answer of this
-exercise](CppExerciseRefactoringQuadraticSolverAnswer.htm).
+exercise](CppExerciseRefactoringQuadraticSolverAnswer.md).
 
  
 
@@ -74,7 +74,7 @@ exercise](CppExerciseRefactoringQuadraticSolverAnswer.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -100,5 +100,5 @@ exercise](CppExerciseRefactoringQuadraticSolverAnswer.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

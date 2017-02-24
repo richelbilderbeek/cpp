@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [DumbNewickToString](CppDumbNewickToString.htm)
+([C++](Cpp.md)) [DumbNewickToString](CppDumbNewickToString.md)
 ================================================================
 
  
 
-[DumbNewickToString](CppDumbNewickToString.htm) is a
-[Newick](CppNewick.htm) [code snippets](CppCodeSnippets.htm) to convert
-a -possibly invalid- [Newick](CppNewick.htm) to
-[std::string](CppString.htm). [NewickToString](CppNewickToString.htm) is
-the checked version of [DumbNewickToString](CppDumbNewickToString.htm).
+[DumbNewickToString](CppDumbNewickToString.md) is a
+[Newick](CppNewick.md) [code snippets](CppCodeSnippets.md) to convert
+a -possibly invalid- [Newick](CppNewick.md) to
+[std::string](CppString.md). [NewickToString](CppNewickToString.md) is
+the checked version of [DumbNewickToString](CppDumbNewickToString.md).
 
  
 

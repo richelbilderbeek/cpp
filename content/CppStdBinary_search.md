@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::binary\_search](CppBinary_search.htm)
+([C++](Cpp.md)) [std::binary\_search](CppBinary_search.md)
 ============================================================
 
  
 
-[std::binary\_search](CppBinary_search.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to determine if a value is present in a
-sorted [container](CppContainer.htm).
+[std::binary\_search](CppBinary_search.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to determine if a value is present in a
+sorted [container](CppContainer.md).
 
  
 
@@ -38,16 +38,16 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 console Application
+[Project type](CppQtProjectType.md): Qt4 console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

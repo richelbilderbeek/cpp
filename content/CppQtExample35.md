@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtExample35](CppQtExample35.htm)
+([C++](Cpp.md)) [QtExample35](CppQtExample35.md)
 ==================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Qt example 35: arrows with an angle](CppQtExample35.htm) is a [Qt
-example](CppQtExample.htm) elaborates on [Qt example 34: moveable,
-selectable and editable arrows](CppQtExample34.htm), but has arrows with
+[Qt example 35: arrows with an angle](CppQtExample35.md) is a [Qt
+example](CppQtExample.md) elaborates on [Qt example 34: moveable,
+selectable and editable arrows](CppQtExample34.md), but has arrows with
 an angle in them instead.
 
 Technical facts
@@ -32,35 +32,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -73,7 +73,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppQtExample35/CppQtExample35.pro
+[Qt project file](CppQtProjectFile.md): ./CppQtExample35/CppQtExample35.pro
 ----------------------------------------------------------------------------
 
  
@@ -196,5 +196,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::memcpy](CppStdMemcpy.htm)
+([C++](Cpp.md)) [std::memcpy](CppStdMemcpy.md)
 ================================================
 
  
 
-[std::memcpy](CppStdMemcpy.htm) (an abbreviation of 'memory copy') is an
-[STL](CppStl.htm) [function](CppFunction.htm) to copy raw memory.
+[std::memcpy](CppStdMemcpy.md) (an abbreviation of 'memory copy') is an
+[STL](CppStl.md) [function](CppFunction.md) to copy raw memory.
 
  
 
@@ -36,9 +36,9 @@ Examples
  
 
 -   [std::memcpy example 1: copying a
-    std::vector](CppStdMemcpyExample1.htm)
+    std::vector](CppStdMemcpyExample1.md)
 -   [std::memcpy example 2: benchmark std::memcpy versus
-    std::copy](CppStdMemcpyExample2.htm)
+    std::copy](CppStdMemcpyExample2.md)
 
  
 
@@ -59,5 +59,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

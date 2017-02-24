@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Kubuntu](PicKubuntu.png) [Kubuntu](CppKubuntu.htm)
+([C++](Cpp.md)) ![Kubuntu](PicKubuntu.png) [Kubuntu](CppKubuntu.md)
 =====================================================================
 
  
 
-[Kubuntu](CppKubuntu.htm) is an [operating system](CppOs.htm).
-[Kubuntu](CppKubuntu.htm) is a light-weight variant of
-[Ubuntu](CppUbuntu.htm).
+[Kubuntu](CppKubuntu.md) is an [operating system](CppOs.md).
+[Kubuntu](CppKubuntu.md) is a light-weight variant of
+[Ubuntu](CppUbuntu.md).
 
  
 

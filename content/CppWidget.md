@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Widget](CppWidget.htm)
+([C++](Cpp.md)) [Widget](CppWidget.md)
 ========================================
 
  
@@ -22,29 +22,29 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-A [widget](CppWidget.htm)/control is a user interface element, like a
+A [widget](CppWidget.md)/control is a user interface element, like a
 button or checkbox.
 
  
 
-[Widget](CppWidget.htm) is a GUI independent [widget](CppWidget.htm)
-[class](CppClass.htm) and servers as a [base class](CppBaseClass.htm)
+[Widget](CppWidget.md) is a GUI independent [widget](CppWidget.md)
+[class](CppClass.md) and servers as a [base class](CppBaseClass.md)
 for others (incomplete list):
 
--   [QtDialWidget](CppQtDialWidget.htm)
--   [QtLedWidget](CppQtLedWidget.htm)
--   [QtShapeWidget](CppQtShapeWidget.htm)
--   [DialWidget](CppDialWidget.htm)
--   [LedWidget](CppLedWidget.htm)
--   [ShapeWidget](CppShapeWidget.htm)
--   [WtDialWidget](CppWtDialWidget.htm)
--   [WtLedWidget](CppWtLedWidget.htm)
--   [WtShapeWidget](CppWtShapeWidget.htm)
+-   [QtDialWidget](CppQtDialWidget.md)
+-   [QtLedWidget](CppQtLedWidget.md)
+-   [QtShapeWidget](CppQtShapeWidget.md)
+-   [DialWidget](CppDialWidget.md)
+-   [LedWidget](CppLedWidget.md)
+-   [ShapeWidget](CppShapeWidget.md)
+-   [WtDialWidget](CppWtDialWidget.md)
+-   [WtLedWidget](CppWtLedWidget.md)
+-   [WtShapeWidget](CppWtShapeWidget.md)
 
  
 
-Similar [widget](CppWidget.htm) [classes](CppClass.htm) are
-[QWidget](CppQWidget.htm) and [Wt::WWidget](CppWWidget.htm).
+Similar [widget](CppWidget.md) [classes](CppClass.md) are
+[QWidget](CppQWidget.md) and [Wt::WWidget](CppWWidget.md).
 
 Technical facts
 ---------------
@@ -127,5 +127,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

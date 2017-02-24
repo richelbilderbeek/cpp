@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Sort](CppSort.htm)
+([C++](Cpp.md)) [Sort](CppSort.md)
 ====================================
 
  
 
-This page is about [sorting](CppSort.htm) and the [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) [std::sort](CppSort.htm).
+This page is about [sorting](CppSort.md) and the [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) [std::sort](CppSort.md).
 
  
 
@@ -30,13 +30,13 @@ This page is about [sorting](CppSort.htm) and the [STL](CppStl.htm)
 
  
 
-[STL](CppStl.htm) [sorting](CppSort.htm) [algorithms](CppAlgorithm.htm)
+[STL](CppStl.md) [sorting](CppSort.md) [algorithms](CppAlgorithm.htm)
 -----------------------------------------------------------------------
 
  
 
--   [std::partial\_sort](CppPartial_sort.htm)
--   [std::sort](CppSort.htm)
+-   [std::partial\_sort](CppPartial_sort.md)
+-   [std::sort](CppSort.md)
 
  
 
@@ -48,15 +48,15 @@ This page is about [sorting](CppSort.htm) and the [STL](CppStl.htm)
 
  
 
-[Sorting](CppSort.htm) [code snippets](CppCodeSnippets.htm)
+[Sorting](CppSort.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------
 
  
 
--   [Bubble Sort](CppBubbleSort.htm)
--   [Insertion Sort](CppInsertionSort.htm)
--   [Selection Sort](CppSelectionSort.htm)
--   [SortContainer, sort a container](CppSortContainer.htm)
+-   [Bubble Sort](CppBubbleSort.md)
+-   [Insertion Sort](CppInsertionSort.md)
+-   [Selection Sort](CppSelectionSort.md)
+-   [SortContainer, sort a container](CppSortContainer.md)
 
  
 
@@ -68,16 +68,16 @@ This page is about [sorting](CppSort.htm) and the [STL](CppStl.htm)
 
  
 
-Types of [sorting](CppSort.htm)
+Types of [sorting](CppSort.md)
 -------------------------------
 
  
 
 -   Beechicksort
--   [Bubble Sort](CppBubbleSort.htm)
--   [Insertion Sort](CppInsertionSort.htm)
+-   [Bubble Sort](CppBubbleSort.md)
+-   [Insertion Sort](CppInsertionSort.md)
 -   Quicksort
--   [Selection Sort](CppSelectionSort.htm)
+-   [Selection Sort](CppSelectionSort.md)
 
  
 

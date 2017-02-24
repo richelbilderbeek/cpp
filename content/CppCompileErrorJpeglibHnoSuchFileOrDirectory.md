@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [jpeglib.h: No such file or directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [jpeglib.h: No such file or directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.md)
 =========================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,16 +53,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.42.0
+[Boost](CppBoost.md) version: 1.42.0
 
  
 
@@ -76,7 +76,7 @@ The following code caused the error:
 
  
 
-The [compiler](CppCompiler.htm) takes you to the following code in
+The [compiler](CppCompiler.md) takes you to the following code in
 /MyFolder/boost\_1\_42\_0/boost/gil/extension/io/jpeg\_io.hpp:
 
  
@@ -110,7 +110,7 @@ Solution
 
  
 
-Try [\#including](CppInclude.htm) the default header file:
+Try [\#including](CppInclude.md) the default header file:
 
  
 

@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Catch clause](CppCatchClause.htm)
+([C++](Cpp.md)) [Catch clause](CppCatchClause.md)
 ===================================================
 
  
 
-'A [catch clause](CppCatchClause.htm) is code that is executed when an
-[exception](CppException.htm) of a given [type](CppDataType.htm) is
-raised. The [definition](CppDefinition.htm) of an [exception
-handler](CppExceptionHandler.htm) begins with the
-[keyword](CppKeyword.htm) [catch](CppCatch.htm).' \[1\]
+'A [catch clause](CppCatchClause.md) is code that is executed when an
+[exception](CppException.md) of a given [type](CppDataType.md) is
+raised. The [definition](CppDefinition.md) of an [exception
+handler](CppExceptionHandler.md) begins with the
+[keyword](CppKeyword.md) [catch](CppCatch.md).' \[1\]
 
  
 
@@ -33,7 +33,7 @@ handler](CppExceptionHandler.htm) begins with the
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

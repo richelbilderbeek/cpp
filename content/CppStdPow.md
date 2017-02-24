@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::pow](CppPow.htm)
+([C++](Cpp.md)) [std::pow](CppPow.md)
 =======================================
 
  
 
-[std::pow](CppPow.htm) is a [mathematical](CppMath.htm)
-[STL](CppStl.htm) [function](CppFunction.htm) to take the power of two
-[doubles](CppDouble.htm).
+[std::pow](CppPow.md) is a [mathematical](CppMath.md)
+[STL](CppStl.md) [function](CppFunction.md) to take the power of two
+[doubles](CppDouble.md).
 
  
 
@@ -27,8 +27,8 @@
 
  
 
-To take the power of two [integers](CppInt.htm), use
-[IntPower](CppIntPower.htm) instead.
+To take the power of two [integers](CppInt.md), use
+[IntPower](CppIntPower.md) instead.
 
  
 
@@ -45,36 +45,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.10 (oneiric)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.10 (oneiric)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![C++ Builder](PicCppBuilder.png) [C++ Builder](CppBuilder.htm) 6.0
+-   ![C++ Builder](PicCppBuilder.png) [C++ Builder](CppBuilder.md) 6.0
     Enterprise edition
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.1
+-   [G++](CppGpp.md) 4.6.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.1
 
  
@@ -87,7 +87,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppPow.pro
+[Qt project file](CppQtProjectFile.md): CppPow.pro
 ---------------------------------------------------
 
  
@@ -134,5 +134,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

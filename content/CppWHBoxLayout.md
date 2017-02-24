@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WHBoxLayout](CppWHBoxLayout.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WHBoxLayout](CppWHBoxLayout.md)
 =======================================================================
 
  
 
-[Wt::WHBoxLayout](CppWHBoxLayout.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm). that arranges [Wt::WWidget](CppWWidget.htm)s
+[Wt::WHBoxLayout](CppWHBoxLayout.md) is a [Wt](CppWt.md)
+[class](CppClass.md). that arranges [Wt::WWidget](CppWWidget.md)s
 horizontally.
 
  
@@ -31,7 +31,7 @@ horizontally.
 
  
 
-[Wt::WHBoxLayout](CppWHBoxLayout.htm) examples
+[Wt::WHBoxLayout](CppWHBoxLayout.md) examples
 ----------------------------------------------
 
  

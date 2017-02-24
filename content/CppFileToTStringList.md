@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [FileToTStringList](CppFileToTStringList.htm)
+([C++](Cpp.md)) [FileToTStringList](CppFileToTStringList.md)
 ==============================================================
 
  
 
-Use TStringList's [member function](CppMemberFunction.htm) LoadFromFile.
+Use TStringList's [member function](CppMemberFunction.md) LoadFromFile.
 
  
 

@@ -12,37 +12,37 @@
 
  
 
-([C++](Cpp.htm)) [EnhanceContrast](CppEnhanceContrast.htm)
+([C++](Cpp.md)) [EnhanceContrast](CppEnhanceContrast.md)
 ==========================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to
-enhance the contrast of a [VCL](CppVcl.htm) [TImage](CppTImage.htm).
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to
+enhance the contrast of a [VCL](CppVcl.md) [TImage](CppTImage.md).
 
  
 
-[EnhanceContrast](CppEnhanceContrast.htm) is similar to
-[DoHistogramEqualization](CppDoHistogramEqualization.htm), except that
-[EnhanceContrast](CppEnhanceContrast.htm) is milder: it tries to
+[EnhanceContrast](CppEnhanceContrast.md) is similar to
+[DoHistogramEqualization](CppDoHistogramEqualization.md), except that
+[EnhanceContrast](CppEnhanceContrast.md) is milder: it tries to
 minimally change the average greyness (using
-[GetAverageGreyness](CppGetAverageGreyness.htm) to first measure it).
+[GetAverageGreyness](CppGetAverageGreyness.md) to first measure it).
 
  
 
-[EnhanceContrast](CppEnhanceContrast.htm) assumes that you've already
-defined [GetAverageGreyness](CppGetAverageGreyness.htm).
+[EnhanceContrast](CppEnhanceContrast.md) assumes that you've already
+defined [GetAverageGreyness](CppGetAverageGreyness.md).
 
  
 
 -   [View an example of a composition image demonstrating
     EnhanceContrast and
     DoHistogramEqualization](CppEnhanceContrast.png): first, on the
-    original (top-left), a [DoFilterOperation](CppDoFilterOperation.htm)
+    original (top-left), a [DoFilterOperation](CppDoFilterOperation.md)
     was performed, resulting in the bottom-left image. On this result,
-    both a [DoHistogramEqualization](CppDoHistogramEqualization.htm)
+    both a [DoHistogramEqualization](CppDoHistogramEqualization.md)
     (top-right) and
-    [EnhanceContrast](CppEnhanceContrast.htm) (bottom-right) were
+    [EnhanceContrast](CppEnhanceContrast.md) (bottom-right) were
     performed on
 
  

@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QDialog](CppQDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QDialog](CppQDialog.md)
 ===========================================================
 
  
 
-[QDialog](CppQDialog.htm) is a custom [Qt](CppQt.htm)
-[dialog](CppQtDialog.htm) [class](CppClass.htm) for a
-[dialog](CppQtDialog.htm).
+[QDialog](CppQDialog.md) is a custom [Qt](CppQt.md)
+[dialog](CppQtDialog.md) [class](CppClass.md) for a
+[dialog](CppQtDialog.md).
 
  
 
 The code below, [Qt example 11: creating a QDialog with QLayout on the
-fly](CppQtExample11.htm) shows how to create and show a
-[QDialog](CppQDialog.htm) on the fly (that is: without using the
-[GUI](CppGui.htm) designer). When using the [Qt
-Creator](CppQtCreator.htm) [GUI](CppGui.htm) designer,
-[QDialog](CppQDialog.htm) can be selected as the base class of the
-custom [GUI](CppGui.htm).
+fly](CppQtExample11.md) shows how to create and show a
+[QDialog](CppQDialog.md) on the fly (that is: without using the
+[GUI](CppGui.md) designer). When using the [Qt
+Creator](CppQtCreator.md) [GUI](CppGui.md) designer,
+[QDialog](CppQDialog.md) can be selected as the base class of the
+custom [GUI](CppGui.md).
 
  
 

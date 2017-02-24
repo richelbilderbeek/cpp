@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Eo](CppEo.htm)
+([C++](Cpp.md)) [Eo](CppEo.md)
 ================================
 
  
 
-[Eo](CppEo.htm) (an abbreviation of 'Evolving Objects') is a
-[C++](Cpp.htm) [genetic algorithm](CppGeneticAlgorithm.htm)
-[library](CppLibrary.htm).
+[Eo](CppEo.md) (an abbreviation of 'Evolving Objects') is a
+[C++](Cpp.md) [genetic algorithm](CppGeneticAlgorithm.md)
+[library](CppLibrary.md).
 
  
 
@@ -31,13 +31,13 @@
 
  
 
-[Eo](CppEo.htm) [install error](CppInstallError.htm)
+[Eo](CppEo.md) [install error](CppInstallError.md)
 ----------------------------------------------------
 
  
 
 -   [EO install error: 'UINT\_MAX' was not declared in this
-    scope](CppInstallErrorEoUint_maxWasNotDeclaredInThisScope.htm)
+    scope](CppInstallErrorEoUint_maxWasNotDeclaredInThisScope.md)
 
  
 

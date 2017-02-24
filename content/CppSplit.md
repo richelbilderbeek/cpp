@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [split](CppSplit.htm)
+([C++](Cpp.md)) [split](CppSplit.md)
 ======================================
 
  
 
-[split](CppSplit.htm) is a common name for the
-[SeperateString](CppSeperateString.htm) [algorithm](CppAlgorithm.htm).
+[split](CppSplit.md) is a common name for the
+[SeperateString](CppSeperateString.md) [algorithm](CppAlgorithm.md).
 
  
 
@@ -39,5 +39,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

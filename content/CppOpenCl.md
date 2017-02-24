@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [OpenCL](CppOpenCl.htm)
+([C++](Cpp.md)) [OpenCL](CppOpenCl.md)
 ========================================
 
  
 
-[OpenCL](CppOpenCl.htm) (an abbreviation of 'Open Computer Language') is
-a cross-platform [library](CppLibrary.htm) to communication with CPU's,
+[OpenCL](CppOpenCl.md) (an abbreviation of 'Open Computer Language') is
+a cross-platform [library](CppLibrary.md) to communication with CPU's,
 GPU's and other processors.
 
  
 
-[OpenCL](CppOpenCl.htm) appears very closed-source like.
+[OpenCL](CppOpenCl.md) appears very closed-source like.
 
  
 
-It appears that [Bullet](CppBullet.htm) can depend on
-[OpenCL](CppOpenCl.htm).
+It appears that [Bullet](CppBullet.md) can depend on
+[OpenCL](CppOpenCl.md).
 
  
 

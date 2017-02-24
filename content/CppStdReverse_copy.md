@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::reverse\_copy](CppReverse_copy.htm)
+([C++](Cpp.md)) [std::reverse\_copy](CppReverse_copy.md)
 ==========================================================
 
  
 
-[std::reverse\_copy](CppReverse_copy.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to copy a [container](CppContainer.htm) in
+[std::reverse\_copy](CppReverse_copy.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to copy a [container](CppContainer.md) in
 the reverse order.
 
  

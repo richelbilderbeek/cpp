@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Biology](CppBiology.htm)
+([C++](Cpp.md)) [Biology](CppBiology.md)
 ==========================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[Biology](CppBiology.htm) contains some classes that are related to
+[Biology](CppBiology.md) contains some classes that are related to
 biology.
 
 Technical facts
@@ -105,5 +105,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::islower](CppIslower.htm)
+([C++](Cpp.md)) [std::islower](CppIslower.md)
 ===============================================
 
  
 
-[std::islower](CppIslower.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to check if a [character](CppChar.htm) is a
+[std::islower](CppIslower.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to check if a [character](CppChar.md) is a
 lowercase alphabetic letter.
 
  
@@ -50,5 +50,5 @@ lowercase alphabetic letter.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

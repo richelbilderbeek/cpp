@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [documentation](CppDocumentation.htm)
+([C++](Cpp.md)) [documentation](CppDocumentation.md)
 ======================================================
 
  
 
-[Documentation](CppDocumentation.htm) is the process of adding
+[Documentation](CppDocumentation.md) is the process of adding
 non-compilable text to/next to your code.
 
  
@@ -30,16 +30,16 @@ non-compilable text to/next to your code.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   [Document](CppDocumentation.htm) the [interfaces](CppInterface.htm)
+-   [Document](CppDocumentation.md) the [interfaces](CppInterface.md)
     so that they are usable by others \[1\]
 -   Explicitly state conditions under which behavior is undefined \[2\]
--   The use of [assert](CppAssert.htm) statements can help to
-    [document](CppDocumentation.htm) the assumptions you make when
+-   The use of [assert](CppAssert.md) statements can help to
+    [document](CppDocumentation.md) the assumptions you make when
     implementing your code \[3\]
 -   If you break a general rule of style, document why you did so \[4\]
 
@@ -53,19 +53,19 @@ non-compilable text to/next to your code.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.6: 'Document the interfaces so
     that they are usable by others. Have at least one other developer
     review each interface'
-2.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+2.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.6: 'Explicitly state conditions
     under which behavior is undefined'
-3.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+3.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.6: 'The use of assert
     statements can help to document the assumptions you make when
     implementing your code

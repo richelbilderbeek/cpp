@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Qt Creator precompiling](CppQtCreatorPrecompile.htm)
+([C++](Cpp.md)) [Qt Creator precompiling](CppQtCreatorPrecompile.md)
 ======================================================================
 
  
@@ -25,7 +25,7 @@
 
  
 
-### [References](CppReferences.htm)
+### [References](CppReferences.md)
 
  
 

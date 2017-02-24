@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [SolveQuadratic](CppSolveQuadratic.htm)
+([C++](Cpp.md)) [SolveQuadratic](CppSolveQuadratic.md)
 ========================================================
 
  
 
-[SolveQuadratic](CppSolveQuadratic.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to solve a quadratic equation.
+[SolveQuadratic](CppSolveQuadratic.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to solve a quadratic equation.
 
  
 
-[SolveQuadratic](CppSolveQuadratic.htm) is demonstrated in the tool
-[QuadraticSolver](CppQuadraticSolver.htm).
+[SolveQuadratic](CppSolveQuadratic.md) is demonstrated in the tool
+[QuadraticSolver](CppQuadraticSolver.md).
 
  
 
 [Exercise \#6: refactoring quadratic
-solver](CppExerciseRefactoringQuadraticSolver.htm) is an
-[exercise](CppExercise.htm) about refactoring a quadratic equation
+solver](CppExerciseRefactoringQuadraticSolver.md) is an
+[exercise](CppExercise.md) about refactoring a quadratic equation
 solver class.
 
  

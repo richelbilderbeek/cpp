@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Margaret A. Ellis](CppMargaretAEllis.htm)
+([C++](Cpp.md)) [Margaret A. Ellis](CppMargaretAEllis.md)
 ===========================================================
 
  
 
-[Margaret A. Ellis](CppMargaretAEllis.htm) is the co-author (with
-[Bjarne Stroustrup](CppBjarneStroustrup.htm)) of 'The Annotated C++
+[Margaret A. Ellis](CppMargaretAEllis.md) is the co-author (with
+[Bjarne Stroustrup](CppBjarneStroustrup.md)) of 'The Annotated C++
 Reference Manual'.
 
  
@@ -31,13 +31,13 @@ Reference Manual'.
 
  
 
-List of books (co-)authored by [Margaret A. Ellis](CppMargaretAEllis.htm)
+List of books (co-)authored by [Margaret A. Ellis](CppMargaretAEllis.md)
 -------------------------------------------------------------------------
 
  
 
--   [Margaret A. Ellis](CppMargaretAEllis.htm), [Bjarne
-    Stroustrup](CppBjarneStroustrup.htm). The Annotated C++
+-   [Margaret A. Ellis](CppMargaretAEllis.md), [Bjarne
+    Stroustrup](CppBjarneStroustrup.md). The Annotated C++
     Reference Manual. 1990. ISBN: 0-201-51459-1.
 
  

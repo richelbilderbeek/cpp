@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::forward\_list](CppForward_list.htm)
+([C++](Cpp.md)) [std::forward\_list](CppForward_list.md)
 ==========================================================
 
  
 
-[std::forward\_list](CppForward_list.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) implemented as a singly-linked list.
+[std::forward\_list](CppForward_list.md) is an [STL](CppStl.md)
+[container](CppContainer.md) implemented as a singly-linked list.
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::forward\_list example 1: basics](CppForward_listExample1.htm)
+-   [std::forward\_list example 1: basics](CppForward_listExample1.md)
 
  
 
@@ -47,12 +47,12 @@
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [std::forward\_list](CppForward_list.htm) for sequences that are
+-   Use [std::forward\_list](CppForward_list.md) for sequences that are
     usually empty \[1\]
 
  
@@ -65,12 +65,12 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[4\] Use forward\_list for sequences that are
     usually empty'

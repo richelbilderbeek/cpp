@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [QGraphicsScene](CppQGraphicsScene.htm)
+([C++](Cpp.md)) [QGraphicsScene](CppQGraphicsScene.md)
 ========================================================
 
  
 
-[QGraphicsScene](CppQGraphicsScene.htm) is a non-visual [Qt](CppQt.htm)
-[class](CppClass.htm) for a two-dimensional game sprites environment.
+[QGraphicsScene](CppQGraphicsScene.md) is a non-visual [Qt](CppQt.md)
+[class](CppClass.md) for a two-dimensional game sprites environment.
 
  
 
-The graphic items ('sprites') have [QGraphicsItem](CppQGraphicsItem.htm)
-as their shared [base class](CppBaseClass.htm) and [Qt](CppQt.htm)
-supplies multiple [derived classes](CppDerivedClass.htm). See
-[QGraphicsItem](CppQGraphicsItem.htm) for an incomplete list of [derived
-classes](CppDerivedClass.htm) of [QGraphicsItem](CppQGraphicsItem.htm).
+The graphic items ('sprites') have [QGraphicsItem](CppQGraphicsItem.md)
+as their shared [base class](CppBaseClass.md) and [Qt](CppQt.md)
+supplies multiple [derived classes](CppDerivedClass.md). See
+[QGraphicsItem](CppQGraphicsItem.md) for an incomplete list of [derived
+classes](CppDerivedClass.md) of [QGraphicsItem](CppQGraphicsItem.md).
 
  
 
 Events are added using
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm). See
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm) for an incomplete list
-of [derived classes](CppDerivedClass.htm) of
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm).
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md). See
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md) for an incomplete list
+of [derived classes](CppDerivedClass.md) of
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md).
 
  
 
@@ -57,7 +57,7 @@ Examples
 -   QGraphicsScene example 3: shows that a QGraphicsScene can be freely
     copied
 -   [Qt example 9: custom sprites over custom
-    background](CppQtExample9.htm): let custom sprites move over custom
+    background](CppQtExample9.md): let custom sprites move over custom
     background ([screenshot](CppQtExample9.png))
 
  

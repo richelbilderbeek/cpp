@@ -12,20 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [delegation](CppDelegation.htm)
+([C++](Cpp.md)) [delegation](CppDelegation.md)
 ================================================
 
  
 
-[delegation](CppDelegation.htm) is a technique that can be used,
-depending on the [standard](CppStandard.htm) used:
+[delegation](CppDelegation.md) is a technique that can be used,
+depending on the [standard](CppStandard.md) used:
 
--   ![C++98](PicCpp98.png) [delegation](CppDelegation.htm) in the
-    [C++98](Cpp98.htm) [standard](CppStandard.htm)
--   ![C++11](PicCpp11.png) [delegation](CppDelegation.htm) in the
-    [C++11](Cpp11.htm) [standard](CppStandard.htm)
-
- 
+-   ![C++98](PicCpp98.png) [delegation](CppDelegation.md) in the
+    [C++98](Cpp98.md) [standard](CppStandard.md)
+-   ![C++11](PicCpp11.png) [delegation](CppDelegation.md) in the
+    [C++11](Cpp11.md) [standard](CppStandard.md)
 
  
 
@@ -35,12 +33,14 @@ depending on the [standard](CppStandard.htm) used:
 
  
 
-![C++98](PicCpp98.png) [delegation](CppDelegation.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+ 
+
+![C++98](PicCpp98.png) [delegation](CppDelegation.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 ------------------------------------------------------------------------------------------------------------
 
  
 
-[Delegation](CppDelegation.htm) is not supported in [C++98](Cpp98.htm).
+[Delegation](CppDelegation.md) is not supported in [C++98](Cpp98.md).
 
  
 
@@ -52,7 +52,7 @@ depending on the [standard](CppStandard.htm) used:
 
  
 
-![C++11](PicCpp11.png) [delegation](CppDelegation.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [delegation](CppDelegation.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 ------------------------------------------------------------------------------------------------------------
 
  
@@ -62,8 +62,8 @@ depending on the [standard](CppStandard.htm) used:
 
  
 
-[Delegation](CppDelegation.htm) is the technique of
-[constructors](CppConstructor.htm) calling each other:
+[Delegation](CppDelegation.md) is the technique of
+[constructors](CppConstructor.md) calling each other:
 
  
 

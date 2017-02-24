@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Public inheritance](CppPublicInheritance.htm)
+([C++](Cpp.md)) [Public inheritance](CppPublicInheritance.md)
 ===============================================================
 
  
 
-[Public inheritance](CppPublicInheritance.htm) is the most commonly used
-(of three) modes of [inheritance](CppInheritance.htm). [Public
-inheritance](CppPublicInheritance.htm) denotes a 'is-a-kind-of'
-relationship between [derived class](CppDerivedClass.htm) and [base
-class](CppBaseClass.htm). For example, a duck is a kind of animal.
+[Public inheritance](CppPublicInheritance.md) is the most commonly used
+(of three) modes of [inheritance](CppInheritance.md). [Public
+inheritance](CppPublicInheritance.md) denotes a 'is-a-kind-of'
+relationship between [derived class](CppDerivedClass.md) and [base
+class](CppBaseClass.md). For example, a duck is a kind of animal.
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WDefaultLayout](CppWDefaultLayout.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WDefaultLayout](CppWDefaultLayout.md)
 =============================================================================
 
  
 
-[Wt::WDefaultLayout](CppWDefaultLayout.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WDefaultLayout](CppWDefaultLayout.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WDefaultLayout](CppWDefaultLayout.htm) is used in, among others:
+[Wt::WDefaultLayout](CppWDefaultLayout.md) is used in, among others:
 
 -   ...
 

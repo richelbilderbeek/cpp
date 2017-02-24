@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [run time](CppRunTime.htm)
+([C++](Cpp.md)) [run time](CppRunTime.md)
 ===========================================
 
  
 
-[Run time](CppRunTime.htm) is the the time that the program runs, which
-can take place after [compile time](CppCompileTime.htm) and [link
-time](CppLinkTime.htm).
+[Run time](CppRunTime.md) is the the time that the program runs, which
+can take place after [compile time](CppCompileTime.md) and [link
+time](CppLinkTime.md).
 
  
 
-The technique to improve [run time](CppRunTime.htm) speed is called
-[profiling](CppProfile.htm).
+The technique to improve [run time](CppRunTime.md) speed is called
+[profiling](CppProfile.md).
 
  
 

@@ -12,34 +12,34 @@
 
  
 
-([C++](Cpp.htm)) [thread](CppThread.htm)
+([C++](Cpp.md)) [thread](CppThread.md)
 ========================================
 
  
 
-A [thread](CppThread.htm) is the smallest unit of processing that can be
-scheduled by an [operating system](CppOs.htm)' \[1\].
+A [thread](CppThread.md) is the smallest unit of processing that can be
+scheduled by an [operating system](CppOs.md)' \[1\].
 
  
 
-[std::thread](CppThread.htm) is the [C++11](Cpp11.htm)
-[thread](CppThread.htm) [class](CppClass.htm).
-
- 
-
- 
+[std::thread](CppThread.md) is the [C++11](Cpp11.md)
+[thread](CppThread.md) [class](CppClass.md).
 
  
 
  
 
-### [thread](CppThread.htm) (general) design
+ 
 
  
 
-As a personal note, I will put my [thread](CppThread.htm) design
-questions here. Feel free to [contact me](Contact.htm) if you can
-provide answers with [references](CppReferences.htm).
+### [thread](CppThread.md) (general) design
+
+ 
+
+As a personal note, I will put my [thread](CppThread.md) design
+questions here. Feel free to [contact me](Contact.md) if you can
+provide answers with [references](CppReferences.md).
 
 -   To make a class thread-safe, is it enough to add a mutex at the
     start of each method?
@@ -90,7 +90,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

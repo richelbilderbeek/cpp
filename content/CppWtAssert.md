@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [assert when using the Wt library](CppWtAssert.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [assert when using the Wt library](CppWtAssert.md)
 =====================================================================================
 
  
 
-When [linking](CppLink.htm) to the [Wt](CppWt.htm)
-[library](CppLibrary.htm), [assert](CppAssert.htm) is removed from the
-code, as if by an [NDEBUG](CppNDEBUG.htm) [\#define](CppDefine.htm)
-(probably by the DNDEBUG [\#define](CppDefine.htm)).
+When [linking](CppLink.md) to the [Wt](CppWt.md)
+[library](CppLibrary.md), [assert](CppAssert.md) is removed from the
+code, as if by an [NDEBUG](CppNDEBUG.md) [\#define](CppDefine.md)
+(probably by the DNDEBUG [\#define](CppDefine.md)).
 
  
 
-The solution is to write a custom [assert](CppAssert.htm), like those at
-[the page about assert](CppAssert.htm).
+The solution is to write a custom [assert](CppAssert.md), like those at
+[the page about assert](CppAssert.md).
 
  
 
@@ -42,28 +42,28 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.2
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  
 
@@ -75,7 +75,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppWtAssert.pro
+[Qt project file](CppQtProjectFile.md): CppWtAssert.pro
 --------------------------------------------------------
 
  

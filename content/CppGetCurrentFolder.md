@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetCurrentFolder](CppGetCurrentFolder.htm)
+([C++](Cpp.md)) [GetCurrentFolder](CppGetCurrentFolder.md)
 ============================================================
 
  
 
-[GetCurrentFolder](CppGetCurrentFolder.htm) is a [file
-I/O](CppFileIo.htm) [code snippets](CppCodeSnippets.htm) to obtain the
+[GetCurrentFolder](CppGetCurrentFolder.md) is a [file
+I/O](CppFileIo.md) [code snippets](CppCodeSnippets.md) to obtain the
 name of the folder your application runs in.
 
  
@@ -36,7 +36,7 @@ name of the folder your application runs in.
 
  
 
-[GetCurrentFolder](CppGetCurrentFolder.htm) using the [STL](CppStl.htm) only
+[GetCurrentFolder](CppGetCurrentFolder.md) using the [STL](CppStl.md) only
 ----------------------------------------------------------------------------
 
  
@@ -65,7 +65,7 @@ Screen output:
 
  
 
-[GetCurrentFolder](CppGetCurrentFolder.htm) using [Boost.Filesystem](CppFilesystem.htm)
+[GetCurrentFolder](CppGetCurrentFolder.md) using [Boost.Filesystem](CppFilesystem.md)
 ---------------------------------------------------------------------------------------
 
  

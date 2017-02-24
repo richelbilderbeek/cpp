@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::qsort](CppQsort.htm)
+([C++](Cpp.md)) [std::qsort](CppQsort.md)
 ===========================================
 
  
 
-[std::qsort](CppQsort.htm) is a [function](CppFunction.htm) to
-[sort](CppSort.htm) a [container](CppContainer.htm).
+[std::qsort](CppQsort.md) is a [function](CppFunction.md) to
+[sort](CppSort.md) a [container](CppContainer.md).
 
  
 
--   [Download the Qt Creator project 'CppQsort' (zip)](CppQsort.htm)
+-   [Download the Qt Creator project 'CppQsort' (zip)](CppQsort.md)
 
  
 
@@ -49,5 +49,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

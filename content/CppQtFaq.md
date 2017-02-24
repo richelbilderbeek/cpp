@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt FAQ](CppQtFaq.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt FAQ](CppQtFaq.md)
 ========================================================
 
  
 
 This Frequently Asked Questions section concerns both the [Qt
-Creator](CppQtCreator.htm) [IDE](CppIde.htm) and the [Qt](CppQt.htm)
-[library](CppLibrary.htm).
+Creator](CppQtCreator.md) [IDE](CppIde.md) and the [Qt](CppQt.htm)
+[library](CppLibrary.md).
 
  
 
@@ -32,75 +32,75 @@ Creator](CppQtCreator.htm) [IDE](CppIde.htm) and the [Qt](CppQt.htm)
  
 
 -   [How to create a 'Hello World' program
-    (console)?](CppQtHelloWorldConsole.htm)
+    (console)?](CppQtHelloWorldConsole.md)
 -   [How to create a windowed 'Hello World'
-    program?](CppQtHelloWorldWindowed.htm)
+    program?](CppQtHelloWorldWindowed.md)
 -   [How to create a windowed 'Hello World' program using the GUI
-    designer?](CppQtHelloWorldWindowedGui.htm) (like
+    designer?](CppQtHelloWorldWindowedGui.md) (like
     [this](CppQtHelloWorldWindowedGui9.png))
--   [Do you have more Qt examples?](CppQtExample.htm)
+-   [Do you have more Qt examples?](CppQtExample.md)
 -   [How to create a simple 2D graphics program?
-    General](CppQt2dGraphics.htm)
+    General](CppQt2dGraphics.md)
 -   [How to create a simple 2D graphics program? Moving lines
-    example](CppQtMovingLine.htm) (like [this](CppQtMovingLine.png))
+    example](CppQtMovingLine.md) (like [this](CppQtMovingLine.png))
 -   [How to create a simple 2D graphics program? Show an image
-    example](CppQtPixmap.htm) (like [this](CppQtPixmap.png))
+    example](CppQtPixmap.md) (like [this](CppQtPixmap.png))
 -   [How to draw on a QPixmap with using the GUI
-    designer?](CppQtPixmapDrawGui.htm) (like
+    designer?](CppQtPixmapDrawGui.md) (like
     [this](CppQtPixmapDrawGui.png))
 -   [How to draw on a QBitmap with using the GUI
-    designer?](CppQtBitmapDrawGui.htm) (like
+    designer?](CppQtBitmapDrawGui.md) (like
     [this](CppQtBitmapDrawGui.png))
--   [How to define an OnClick event?](CppQtHelloWorldGui.htm)
+-   [How to define an OnClick event?](CppQtHelloWorldGui.md)
 -   [How to change the name of the executable produced by your
-    project?](CppQtExeName.htm)
--   [How to add an \#include folder?](CppQtAddInclude.htm)
+    project?](CppQtExeName.md)
+-   [How to add an \#include folder?](CppQtAddInclude.md)
 -   [How to set the alignment of a widget to
-    alClient?](CppQtAlClient.htm)
--   [How to add an Event?](CppQtAddEvent.htm)
--   [Which dialogs are already supplied by Qt?](CppQtDialog.htm)
--   [How to show a dialog modally?](CppQtShowModal.htm)
--   [How to show a pop-up window?](CppQtShowModal.htm)
+    alClient?](CppQtAlClient.md)
+-   [How to add an Event?](CppQtAddEvent.md)
+-   [Which dialogs are already supplied by Qt?](CppQtDialog.md)
+-   [How to show a dialog modally?](CppQtShowModal.md)
+-   [How to show a pop-up window?](CppQtShowModal.md)
 -   [How to allow a Dialog to be resized by the
-    user?](CppQtAllowResize.htm)
--   [How to define an OnResize Event?](CppQtExample10.htm)
--   [How to define an OnKeyPress Event?](CppQtOnKeyPress.htm)
--   [How to resize a dialog?](CppQtResizeDialog.htm)
--   [How to StretchDraw an image?](CppQtStretchDraw.htm)
--   [How to draw a sprite on a sprite?](CppQtSpriteOnSprite.htm)
--   [How to get the screen size?](CppQtGetScreenSize.htm)
+    user?](CppQtAllowResize.md)
+-   [How to define an OnResize Event?](CppQtExample10.md)
+-   [How to define an OnKeyPress Event?](CppQtOnKeyPress.md)
+-   [How to resize a dialog?](CppQtResizeDialog.md)
+-   [How to StretchDraw an image?](CppQtStretchDraw.md)
+-   [How to draw a sprite on a sprite?](CppQtSpriteOnSprite.md)
+-   [How to get the screen size?](CppQtGetScreenSize.md)
 -   [How to put a dialog on the screen's
-    center?](CppQtDialogOnScreenCenter.htm)
--   [How to implement a clickable QLabel?](CppQtClickableLabel.htm)
--   [How to implement a clickable QWidget?](CppQtClickableQWidget.htm)
+    center?](CppQtDialogOnScreenCenter.md)
+-   [How to implement a clickable QLabel?](CppQtClickableLabel.md)
+-   [How to implement a clickable QWidget?](CppQtClickableQWidget.md)
 -   [What is the Qt Creator equivalent of C++ Builder's
-    TPanel?](CppQtTPanel.htm)
+    TPanel?](CppQtTPanel.md)
 -   [How to scroll a QPlainTextEdit to its
-    top?](CppQPlainTextEditMoveCursorToStart.htm)
+    top?](CppQPlainTextEditMoveCursorToStart.md)
 -   [How to set QPlainTextEdit's cursor to the
-    top?](CppQPlainTextEditMoveCursorToStart.htm)
--   [How to install Qt Creator?](CppQtCreatorInstall.htm)
+    top?](CppQPlainTextEditMoveCursorToStart.md)
+-   [How to install Qt Creator?](CppQtCreatorInstall.md)
 -   [What are the differences between C++ Builder and Qt
-    Creator?](CppCompareCppBuilderAndQtCreator.htm)
--   [Does Qt mix with STL and Boost?](CppQtMixWithStl.htm)
--   [How to install Qt Creator?](CppQtCreatorInstall.htm)
+    Creator?](CppCompareCppBuilderAndQtCreator.md)
+-   [Does Qt mix with STL and Boost?](CppQtMixWithStl.md)
+-   [How to install Qt Creator?](CppQtCreatorInstall.md)
 -   ![Wine](PicWine.png)![Ubuntu](PicUbuntu.png) [Can Qt Creator run
-    under Wine under Ubuntu?](CppQtCreatorWineUbuntu.htm)
+    under Wine under Ubuntu?](CppQtCreatorWineUbuntu.md)
 -   ![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [How to cross-compile a Qt Creator project from Ubuntu to a windows
-    executable?](CppQtCrosscompileToWindows.htm)
+    executable?](CppQtCrosscompileToWindows.md)
 -   ![C++11](PicCpp11.png)![Ubuntu](PicUbuntu.png) [How to use
-    C++11?](CppQtCpp11.htm)
+    C++11?](CppQtCpp11.md)
 -   ![Kubuntu](PicKubuntu.png)![ ](PicSpacer.png) [My context-sensitive
     help is missing. How to fix
-    this?](CppQtCreatorContextSensitiveHelpMissing.htm)
+    this?](CppQtCreatorContextSensitiveHelpMissing.md)
 -   ![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png) [How to create a
     Symbian executable using the Qt SDK under
-    Ubuntu?](CppCreateSymbianExecutableQtSdkUbuntu.htm)
+    Ubuntu?](CppCreateSymbianExecutableQtSdkUbuntu.md)
 -   ![Windows](PicWindows.png)![VirtualBox](PicVirtualBox.png)![Ubuntu](PicUbuntu.png)
     [Qt Creator differences between Run and Debug
-    modes](CppQtCreatorDifferences.htm)
--   [How to use Qt Creator to compile C code?](CppCompilerC.htm)
+    modes](CppQtCreatorDifferences.md)
+-   [How to use Qt Creator to compile C code?](CppCompilerC.md)
 
  
 
@@ -117,12 +117,12 @@ Other FAQ pages
 
  
 
--   ![C++98](PicCpp98.png) [C++ FAQ page](CppFaq.htm)
+-   ![C++98](PicCpp98.png) [C++ FAQ page](CppFaq.md)
 -   ![C++ Builder](PicCppBuilder.png) [C++ Builder FAQ
-    page](CppBuilderFaq.htm)
--   ![ ](PicSpacer.png) [Dev C++ FAQ page](CppDevCppFaq.htm)
--   ![Symbian](PicSymbian.png) [Symbian FAQ page](CppSymbianFaq.htm)
--   ![Wt](PicWt.png) [Wt FAQ page](CppWtFaq.htm)
+    page](CppBuilderFaq.md)
+-   ![ ](PicSpacer.png) [Dev C++ FAQ page](CppDevCppFaq.md)
+-   ![Symbian](PicSymbian.png) [Symbian FAQ page](CppSymbianFaq.md)
+-   ![Wt](PicWt.png) [Wt FAQ page](CppWtFaq.md)
 
  
 

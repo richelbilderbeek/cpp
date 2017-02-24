@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::atof](CppAtof.htm)
+([C++](Cpp.md)) [std::atof](CppAtof.md)
 =========================================
 
  
 
-[std::atof](CppAtof.htm) is a [function](CppFunction.htm) to
-[convert](CppConvert.htm) a [character](CppChar.htm) string to a
-[double](CppDouble.htm).
+[std::atof](CppAtof.md) is a [function](CppFunction.md) to
+[convert](CppConvert.md) a [character](CppChar.md) string to a
+[double](CppDouble.md).
 
  
 
@@ -31,7 +31,7 @@
 
  
 
-Example: [StrToDouble](CppStrToDouble.htm)
+Example: [StrToDouble](CppStrToDouble.md)
 ------------------------------------------
 
  

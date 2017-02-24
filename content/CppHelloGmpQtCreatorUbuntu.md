@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ['Hello GMP' using Qt Creator under Ubuntu](CppHelloGmpQtCreatorUbuntu.htm)
+([C++](Cpp.md)) ['Hello GMP' using Qt Creator under Ubuntu](CppHelloGmpQtCreatorUbuntu.md)
 ============================================================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[Hello GMP](CppHelloGmp.htm) using [Qt Creator](CppQtCreator.htm) under
+[Hello GMP](CppHelloGmp.md) using [Qt Creator](CppQtCreator.md) under
 Ubuntu is straightforward: just run the project.
 
  
@@ -32,17 +32,15 @@ Ubuntu is straightforward: just run the project.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [GMP](CppGmp.htm): version 5.0.1
-
- 
+-   [GMP](CppGmp.md): version 5.0.1
 
  
 
@@ -52,7 +50,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

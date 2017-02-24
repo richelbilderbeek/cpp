@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Exercise: Qt hide and show \#1](CppExerciseQtHideAndShow1.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Exercise: Qt hide and show \#1](CppExerciseQtHideAndShow1.md)
 =================================================================================================
 
  
@@ -23,9 +23,9 @@ Date added: 14th of October 2012
 
  
 
-In this [exercise](CppExercise.htm) I will show an [error](CppError.htm)
+In this [exercise](CppExercise.md) I will show an [error](CppError.md)
 I have wrestled with for some weeks, with the goal to prevent you having
-the same trouble. I will assume some basic [Qt](CppQt.htm) knowledge.
+the same trouble. I will assume some basic [Qt](CppQt.md) knowledge.
 
  
 
@@ -81,7 +81,7 @@ report](https://bugreports.qt-project.org/browse/QTBUG-3657).
 
 -   [Download the Qt Creator project
     'CppExerciseQtHideAndShow1' (zip)](CppExerciseQtHideAndShow1.zip)
--   [View the answer](CppExerciseQtHideAndShow1Answer.htm)
+-   [View the answer](CppExerciseQtHideAndShow1Answer.md)
 
  
 
@@ -98,7 +98,7 @@ Code
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppExerciseQtHideAndShow1.pro
+[Qt project file](CppQtProjectFile.md): CppExerciseQtHideAndShow1.pro
 ----------------------------------------------------------------------
 
  
@@ -221,5 +221,5 @@ seconddialog.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

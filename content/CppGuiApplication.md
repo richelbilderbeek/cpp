@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [GUI application](CppGuiApplication.htm)
+([C++](Cpp.md)) [GUI application](CppGuiApplication.md)
 =========================================================
 
  
 
-A [GUI application](CppGuiApplication.htm) is an
-[application](CppApplication.htm) that uses a [GUI](CppGui.htm)
+A [GUI application](CppGuiApplication.md) is an
+[application](CppApplication.md) that uses a [GUI](CppGui.md)
 ('Graphical User Interface'). In other words: it is an
-[application](CppApplication.htm) that uses windows/dialogs with visual
+[application](CppApplication.md) that uses windows/dialogs with visual
 elements on which the user can click or navigate to with the keyboard.
-Most [games](Games.htm) are [GUI applications](CppGuiApplication.htm),
+Most [games](Games.md) are [GUI applications](CppGuiApplication.md),
 with the exception for text-adventures.
 
  
@@ -35,14 +35,14 @@ with the exception for text-adventures.
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-In [Qt Creator](CppQtCreator.htm), a [GUI
-application](CppGuiApplication.htm) is a [Qt Creator project
-type](CppQtProjectType.htm) with the following line:
+In [Qt Creator](CppQtCreator.md), a [GUI
+application](CppGuiApplication.md) is a [Qt Creator project
+type](CppQtProjectType.md) with the following line:
 
  
 
@@ -53,9 +53,9 @@ type](CppQtProjectType.htm) with the following line:
  
 
 Note that this does not indicate that the program uses a
-[GUI](CppGui.htm): it might just use non-visual [Qt](CppQt.htm)
-[classes](CppClass.htm)[](), making the program appear as a [console
-application](CppConsoleApplication.htm).
+[GUI](CppGui.md): it might just use non-visual [Qt](CppQt.md)
+[classes](CppClass.md)[](), making the program appear as a [console
+application](CppConsoleApplication.md).
 
  
 
@@ -67,7 +67,7 @@ application](CppConsoleApplication.htm).
 
  
 
-Example [Qt Creator GUI application](CppGuiApplication.htm) [project file](CppQtProjectFile.htm)
+Example [Qt Creator GUI application](CppGuiApplication.md) [project file](CppQtProjectFile.md)
 ------------------------------------------------------------------------------------------------
 
  

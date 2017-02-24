@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [David Abrahams](CppDavidAbrahams.htm)
+([C++](Cpp.md)) [David Abrahams](CppDavidAbrahams.md)
 =======================================================
 
  
 
-[David Abrahams](CppDavidAbrahams.htm) is co-author of \[1\], one of my
-favorite [books](CppBooks.htm) on advanced [template
-metaprogramming](CppTemplateMetaprogram.htm).
+[David Abrahams](CppDavidAbrahams.md) is co-author of \[1\], one of my
+favorite [books](CppBooks.md) on advanced [template
+metaprogramming](CppTemplateMetaprogram.md).
 
  
 
@@ -31,13 +31,13 @@ metaprogramming](CppTemplateMetaprogram.htm).
 
  
 
-List of books co-authored by [David Abrahams](CppDavidAbrahams.htm)
+List of books co-authored by [David Abrahams](CppDavidAbrahams.md)
 -------------------------------------------------------------------
 
  
 
--   [David Abrahams](CppDavidAbrahams.htm), [Aleksey
-    Gurtovoy](CppAlekseyGurtovoy.htm). C++ template metaprogramming.
+-   [David Abrahams](CppDavidAbrahams.md), [Aleksey
+    Gurtovoy](CppAlekseyGurtovoy.md). C++ template metaprogramming.
     2004. ISBN: 0-321-22725-5.
 
  
@@ -68,13 +68,13 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [David Abrahams](CppDavidAbrahams.htm) , [Aleksey
-    Gurtovoy](CppAlekseyGurtovoy.htm) . C++ template metaprogramming.
+1.  [David Abrahams](CppDavidAbrahams.md) , [Aleksey
+    Gurtovoy](CppAlekseyGurtovoy.md) . C++ template metaprogramming.
     2004. ISBN: 0-321-22725-5.
 
  
@@ -96,5 +96,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [StringGridToVector](CppStringGridToVector.htm)
+([C++](Cpp.md)) [StringGridToVector](CppStringGridToVector.md)
 ================================================================
 
  
 
-[VCL](CppVcl.htm) [code snippet](CppCodeSnippets.htm) to convert a
-[VCL](CppVcl.htm) [TStringGrid](CppTStringGrid.htm) to a 2D
-[std::vector](CppVector.htm).
+[VCL](CppVcl.md) [code snippet](CppCodeSnippets.md) to convert a
+[VCL](CppVcl.md) [TStringGrid](CppTStringGrid.md) to a 2D
+[std::vector](CppVector.md).
 
  
 

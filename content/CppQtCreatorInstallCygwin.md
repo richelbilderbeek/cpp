@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png)![Cygwin](PicCygwin.png) [How to install Qt Creator under Cygwin?](CppQtCreatorInstallCygwin.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png)![Cygwin](PicCygwin.png) [How to install Qt Creator under Cygwin?](CppQtCreatorInstallCygwin.md)
 =================================================================================================================================================
 
  
 
-[Qt FAQ](CppQtFaq.htm) about [how to install Qt
-Creator](CppQtCreatorInstall.htm) under Cygwin.
+[Qt FAQ](CppQtFaq.md) about [how to install Qt
+Creator](CppQtCreatorInstall.md) under Cygwin.
 
  
 
@@ -40,7 +40,7 @@ Failed approach 1:
 
  
 
-[Qt Creator](CppQtCreator.htm) is installed following the steps
+[Qt Creator](CppQtCreator.md) is installed following the steps
 described by \[1\].
 
 The following alternative strategies fail:
@@ -54,12 +54,12 @@ The following alternative strategies fail:
 -   After 'make sub-tools-bootstrap sub-moc sub-rcc sub-uic sub-corelib
     sub-gui' type 'make' (results in the error [UnicodeQt4.h:197: error:
     call of overloaded 'toLower(UChar32&)' is
-    ambiguous](CppCompileErrorUnicodeQt4H197Error.htm))
+    ambiguous](CppCompileErrorUnicodeQt4H197Error.md))
 
  
 
 In the folder
-\~/Projects/Tools/[ToolTestBinaryNewickVector](ToolTestBinaryNewickVector.htm),
+\~/Projects/Tools/[ToolTestBinaryNewickVector](ToolTestBinaryNewickVector.md),
 I entered the command:
 
   --------------
@@ -184,7 +184,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

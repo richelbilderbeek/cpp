@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#4: Reading from a std::vector safely](CppReadingFromAvectorSafely.htm)
+([C++](Cpp.md)) [Exercise \#4: Reading from a std::vector safely](CppReadingFromAvectorSafely.md)
 ===================================================================================================
 
  
@@ -23,7 +23,7 @@ Date added: 13th of July 2008
 
  
 
-In this [exercise](CppExercise.htm), you must think about problems that
+In this [exercise](CppExercise.md), you must think about problems that
 might occur and how to prevent these.
 
  
@@ -43,7 +43,7 @@ Answer the following questions about the code below:
  
 
 [View the answer of this
-exercise](CppExerciseReadingFromAvectorSafelyAnswer.htm).
+exercise](CppExerciseReadingFromAvectorSafelyAnswer.md).
 
  
 

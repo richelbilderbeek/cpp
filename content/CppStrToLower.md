@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [StrToLower](CppStrToLower.htm)
+([C++](Cpp.md)) [StrToLower](CppStrToLower.md)
 ================================================
 
  
 
-[std::string](CppString.htm) [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to lower case.
+[std::string](CppString.md) [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to lower case.
 
  
 
@@ -31,7 +31,7 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
 
  
 
-![Qt Creator](PicQtCreator.png)![STL](PicStl.png) [StrToLower](CppStrToLower.htm)
+![Qt Creator](PicQtCreator.png)![STL](PicStl.png) [StrToLower](CppStrToLower.md)
 ---------------------------------------------------------------------------------
 
  
@@ -50,7 +50,7 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
 
  
 
-![Qt Creator](PicQtCreator.png)![Boost](PicBoost.png) [StrToLower](CppStrToLower.htm)
+![Qt Creator](PicQtCreator.png)![Boost](PicBoost.png) [StrToLower](CppStrToLower.md)
 -------------------------------------------------------------------------------------
 
  
@@ -69,7 +69,7 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
 
  
 
-![C++ Builder](PicCppBuilder.png) [StrToLower](CppStrToLower.htm)
+![C++ Builder](PicCppBuilder.png) [StrToLower](CppStrToLower.md)
 -----------------------------------------------------------------
 
  

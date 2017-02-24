@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Rescale](CppRescale.htm)
+([C++](Cpp.md)) [Rescale](CppRescale.md)
 ==========================================
 
  
 
-[Rescale](CppRescale.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to rescale a [double](CppDouble.htm), 1D
-[std::vector](CppVector.htm) or 2D [std::vector](CppVector.htm) from a
+[Rescale](CppRescale.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to rescale a [double](CppDouble.md), 1D
+[std::vector](CppVector.md) or 2D [std::vector](CppVector.md) from a
 certain range to a new range.
 
  
@@ -32,7 +32,7 @@ certain range to a new range.
 
  
 
-Rescale on a [double](CppDouble.htm)
+Rescale on a [double](CppDouble.md)
 ------------------------------------
 
  
@@ -51,7 +51,7 @@ Rescale on a [double](CppDouble.htm)
 
  
 
-Rescale on a 1D [std::vector](CppVector.htm)
+Rescale on a 1D [std::vector](CppVector.md)
 --------------------------------------------
 
  
@@ -70,7 +70,7 @@ Rescale on a 1D [std::vector](CppVector.htm)
 
  
 
-Rescale on a 2D [std::vector](CppVector.htm)
+Rescale on a 2D [std::vector](CppVector.md)
 --------------------------------------------
 
  
@@ -98,5 +98,5 @@ Rescale on a 2D [std::vector](CppVector.htm)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

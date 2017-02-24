@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [struct](CppStruct.htm)
+([C++](Cpp.md)) [struct](CppStruct.md)
 ========================================
 
  
 
-[Keyword](CppKeyword.htm) to start a [class](CppClass.htm) declaration.
+[Keyword](CppKeyword.md) to start a [class](CppClass.md) declaration.
 
  
 
-The only difference with the [keyword](CppKeyword.htm)
-[class](CppClass.htm) is that [struct](CppStruct.htm) has a
-[public](CppPublic.htm) access level by default, where
-[class](CppClass.htm)'s default access level is
-[private](CppPrivate.htm).
+The only difference with the [keyword](CppKeyword.md)
+[class](CppClass.md) is that [struct](CppStruct.md) has a
+[public](CppPublic.md) access level by default, where
+[class](CppClass.md)'s default access level is
+[private](CppPrivate.md).
 
  
 
-See [class](CppClass.htm) for more information.
+See [class](CppClass.md) for more information.
 
  
 

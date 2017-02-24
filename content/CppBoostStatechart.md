@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Statechart](CppStatechart.htm)
+([C++](Cpp.md)) [Boost.Statechart](CppStatechart.md)
 ======================================================
 
  
 
-[Boost.Statechart](CppStatechart.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) for finite state machines.
+[Boost.Statechart](CppStatechart.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) for finite state machines.
 
  
 
-As far as I know, the difference between [Boost.Graph](CppGraph.htm) and
-[Boost.Statechart](CppStatechart.htm) is that
-[Boost.Statechart](CppStatechart.htm) allows the programmer to determine
+As far as I know, the difference between [Boost.Graph](CppGraph.md) and
+[Boost.Statechart](CppStatechart.md) is that
+[Boost.Statechart](CppStatechart.md) allows the programmer to determine
 a finite state machine at compile-time, where
-[Boost.Graph](CppGraph.htm) allows this at run-time.
+[Boost.Graph](CppGraph.md) allows this at run-time.
 
  
 

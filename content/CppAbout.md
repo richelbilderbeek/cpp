@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [About](CppAbout.htm)
+([C++](Cpp.md)) [About](CppAbout.md)
 ======================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
 
  
 
-[About](CppAbout.htm) is a [class](CppClass.htm) to display information
+[About](CppAbout.md) is a [class](CppClass.md) to display information
 about a program.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

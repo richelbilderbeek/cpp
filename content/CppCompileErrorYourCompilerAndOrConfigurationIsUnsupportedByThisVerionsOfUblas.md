@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Your compiler and/or configuration is unsupported by this verions of uBLAS](CppCompileErrorYourCompilerAndOrConfigurationIsUnsupportedByThisVerionsOfUblas.htm)
+([C++](Cpp.md)) [Your compiler and/or configuration is unsupported by this verions of uBLAS](CppCompileErrorYourCompilerAndOrConfigurationIsUnsupportedByThisVerionsOfUblas.md)
 =================================================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Boost version: 1.38.0.
 
@@ -91,7 +91,7 @@ Solution
 
  
 
-Probably, you should obtain a better [compiler](CppCompiler.htm) :-(.
+Probably, you should obtain a better [compiler](CppCompiler.md) :-(.
 
  
 

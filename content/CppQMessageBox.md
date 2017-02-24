@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QMessageBox](CppQMessageBox.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QMessageBox](CppQMessageBox.md)
 ===================================================================
 
  
 
-[QMessageBox](CppQMessageBox.htm) is a [Qt class](CppQtClass.htm) to
+[QMessageBox](CppQMessageBox.md) is a [Qt class](CppQtClass.md) to
 display a message box.
 
  
@@ -41,35 +41,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.4 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.4 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -82,7 +82,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppQMessageBox.pro
+[Qt project file](CppQtProjectFile.md): CppQMessageBox.pro
 -----------------------------------------------------------
 
  
@@ -129,5 +129,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

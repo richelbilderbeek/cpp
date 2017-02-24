@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Hello World console program in C++ Builder](CppBuilderHelloWorld.htm)
+([C++](Cpp.md)) [Hello World console program in C++ Builder](CppBuilderHelloWorld.md)
 =======================================================================================
 
  
@@ -36,7 +36,7 @@ steps below:
  
 
 Now your console application project is set up. Change the code to the
-following [standard C++ Hello World code](CppHelloWorld.htm):
+following [standard C++ Hello World code](CppHelloWorld.md):
 
  
 
@@ -85,5 +85,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

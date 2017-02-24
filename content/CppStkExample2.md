@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [StkExample2](CppStkExample2.htm)
+([C++](Cpp.md)) [StkExample2](CppStkExample2.md)
 ==================================================
 
  
@@ -22,15 +22,15 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[STK example 2: random beeps](CppStkExample2.htm) is an
-[STK](CppStk.htm) example that generates random beeps infinitely (note:
+[STK example 2: random beeps](CppStkExample2.md) is an
+[STK](CppStk.md) example that generates random beeps infinitely (note:
 you cannot stop the program). The code was modified from
 <https://ccrma.stanford.edu/software/stk/crealtime.html>.
 
  
 
 Note that the original copy-pasted code resulted in multiple [compile
-warnings](CppCompileWarning.htm) and that the [library](CppLibrary.htm)
+warnings](CppCompileWarning.md) and that the [library](CppLibrary.md)
 style, design and example code looks different from the experts'
 recommendations
 
@@ -39,30 +39,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -75,7 +75,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppStkExample2/CppStkExample2.pro
+[Qt project file](CppQtProjectFile.md): ./CppStkExample2/CppStkExample2.pro
 ----------------------------------------------------------------------------
 
  
@@ -122,5 +122,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

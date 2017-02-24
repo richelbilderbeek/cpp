@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [HelloC++0x](CppHelloCpp0x.htm)
+([C++](Cpp.md)) [HelloC++0x](CppHelloCpp0x.md)
 ================================================
 
  
 
-[HelloC++0x](CppHelloCpp0x.htm) is an extension of [Hello
-World](CppHelloWorld.htm). Like [Hello World](CppHelloWorld.htm),
-[HelloC++0x](CppHelloCpp0x.htm) is a simple console application.
-[HelloC++0x](CppHelloCpp0x.htm), however, also requires the
-[C++11](Cpp11.htm) [standard](CppStandard.htm) to
-[compile](CppCompile.htm).
+[HelloC++0x](CppHelloCpp0x.md) is an extension of [Hello
+World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md),
+[HelloC++0x](CppHelloCpp0x.md) is a simple console application.
+[HelloC++0x](CppHelloCpp0x.md), however, also requires the
+[C++11](Cpp11.md) [standard](CppStandard.md) to
+[compile](CppCompile.md).
 
  
 
@@ -31,7 +31,7 @@ variants are on the Internet.
 
  
 
-The code base of [HelloC++0x](CppHelloCpp0x.htm) is:
+The code base of [HelloC++0x](CppHelloCpp0x.md) is:
 
  
 
@@ -41,14 +41,14 @@ The code base of [HelloC++0x](CppHelloCpp0x.htm) is:
 
  
 
-Here are some detailed examples of [HelloC++0x](CppHelloCpp0x.htm),
-depending on [IDE](CppIde.htm) and operating system:
+Here are some detailed examples of [HelloC++0x](CppHelloCpp0x.md),
+depending on [IDE](CppIde.md) and operating system:
 
  
 
 -   ![OKAY](PicGreen.png)![Qt
     Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png) ['HelloC++0x'
-    using Qt Creator under Lubuntu](CppHelloCpp0xQtCreatorLubuntu.htm)
+    using Qt Creator under Lubuntu](CppHelloCpp0xQtCreatorLubuntu.md)
 
  
 

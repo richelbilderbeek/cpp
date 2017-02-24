@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Neural network](CppNeuralNetwork.htm)
+([C++](Cpp.md)) [Neural network](CppNeuralNetwork.md)
 =======================================================
 
  
 
-A [neural network](CppNeuralNetwork.htm) is a connected collection of
-neurons (that is, a [class](CppClass.htm) that simulates a biological
+A [neural network](CppNeuralNetwork.md) is a connected collection of
+neurons (that is, a [class](CppClass.md) that simulates a biological
 neuron) that can be trained for certain purposes.
 
  
@@ -41,37 +41,37 @@ will remain incomplete.
 
  
 
--   [Shark](CppShark.htm): my personal favorite machine learning
+-   [Shark](CppShark.md): my personal favorite machine learning
     network, because it suits my needs
--   [Flood](CppFlood.htm): the neural network implementation I used when
-    using [C++ Builder](CppBuilder.htm) 6.0. Downsides are
-    [const](CppConst.htm)-incorrectness, the use of [STL](CppStl.htm)
-    [functions](CppFunction.htm) without '[std::](CppStd.htm)' in front
+-   [Flood](CppFlood.md): the neural network implementation I used when
+    using [C++ Builder](CppBuilder.md) 6.0. Downsides are
+    [const](CppConst.md)-incorrectness, the use of [STL](CppStl.md)
+    [functions](CppFunction.md) without '[std::](CppStd.md)' in front
     of it (a simple replace command fixes this, though), the use of
     handcrafted classes (for example Flood::Vector, instead of
-    [std::vector](CppVector.htm)), dirty C-style [casts](CppCast.htm)
+    [std::vector](CppVector.md)), dirty C-style [casts](CppCast.md)
     and few documentation. Don't mind me nitpicking: because I use it
     with much pleasure, I know this one best!
--   [FANN](CppFann.htm): programmed in C, I found it too hard to use for
+-   [FANN](CppFann.md): programmed in C, I found it too hard to use for
     my own needs.
--   <http://www.bedaux.net/nnet>: takes [boolians](CppBool.htm) as input
-    and produces [boolians](CppBool.htm) as output.
+-   <http://www.bedaux.net/nnet>: takes [boolians](CppBool.md) as input
+    and produces [boolians](CppBool.md) as output.
 -   <http://www.codeproject.com/cpp/MLP.asp>: good code if you like the
     way Visual C++ handles its GUI
 -   <http://sourceforge.net/project/showfiles.php?group_id=10202&package_id=10051&release_id=10643>:
     Average implementation relying heavily on plain
-    [pointers](CppPointer.htm)
+    [pointers](CppPointer.md)
 -   <http://members.tripod.com/~zerkpage/backprop.txt> fair code which
-    is easy to read, but uses many [global](CppGlobal.htm)
-    [pointers](CppPointer.htm)
+    is easy to read, but uses many [global](CppGlobal.md)
+    [pointers](CppPointer.md)
 -   <http://sourceforge.net/projects/nn-utility>: acceptable source
     code, except for use of
-    [pointers](CppPointer.htm)-to-[pointers](CppPointer.htm)-to-[pointers](CppPointer.htm),
-    [class](CppClass.htm) names in UPPERCASE
+    [pointers](CppPointer.md)-to-[pointers](CppPointer.md)-to-[pointers](CppPointer.htm),
+    [class](CppClass.md) names in UPPERCASE
 -   <http://www.paraschopra.com/sourcecode/index.php>: example how NOT
-    to program: use of [macro](CppMacro.htm)'s, explicit write of
-    [void](CppVoid.htm) as a [function](CppFunction.htm)
-    [argument](CppArgument.htm), inconsistent indentation, etc...
+    to program: use of [macro](CppMacro.md)'s, explicit write of
+    [void](CppVoid.md) as a [function](CppFunction.md)
+    [argument](CppArgument.md), inconsistent indentation, etc...
 
  
 
@@ -91,7 +91,7 @@ Untested:
 
  
 
-Proposed [neural network](CppNeuralNetwork.htm) architecture
+Proposed [neural network](CppNeuralNetwork.md) architecture
 ------------------------------------------------------------
 
  

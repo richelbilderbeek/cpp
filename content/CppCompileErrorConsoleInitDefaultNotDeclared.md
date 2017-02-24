@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['consoleInitDefault' was not declared in this scope](CppCompileErrorConsoleInitDefaultNotDeclared.htm)
+([C++](Cpp.md)) ['consoleInitDefault' was not declared in this scope](CppCompileErrorConsoleInitDefaultNotDeclared.md)
 ========================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -32,24 +32,22 @@ Operating system(s):
 -   ![NDS](PicNds.png) Nintendo DS
 -   ![Ubuntu](PicUbuntu.png) Ubuntu 10.04 LTS Lucid Lynx
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
 -   ![Command line](PicCl.png) command line
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Libnds](PicLibnds.png) [Libnds](CppLibnds.htm): version 1.4.7
-
- 
+-   ![Libnds](PicLibnds.png) [Libnds](CppLibnds.md): version 1.4.7
 
  
 
@@ -59,7 +57,9 @@ Operating system(s):
 
  
 
-[Project file](CppQtProjectFile.htm)
+ 
+
+[Project file](CppQtProjectFile.md)
 ------------------------------------
 
  
@@ -123,8 +123,8 @@ Replace it with this line:
  
 
 Now an [undefined reference to
-'consoleInit'](CppLinkErrorUndefinedReferenceToConsoleInit.htm) [link
-error](CppLinkError.htm) occurs.
+'consoleInit'](CppLinkErrorUndefinedReferenceToConsoleInit.md) [link
+error](CppLinkError.md) occurs.
 
  
 
@@ -141,10 +141,10 @@ How the solution was found
 
  
 
-Searching all [Libnds](CppLibnds.htm) files, no
-[function](CppFunction.htm) called 'consoleInitDefault' could be found.
+Searching all [Libnds](CppLibnds.md) files, no
+[function](CppFunction.md) called 'consoleInitDefault' could be found.
 In '/opt/devkitpro/libnds-1.4.7/include/nds/arm9/console.h' the
-[function](CppFunction.htm) called 'consoleInit' was found. Replacing
+[function](CppFunction.md) called 'consoleInit' was found. Replacing
 'consoleInitDefault' by 'consoleInit' resulted in the followinng error:
 
  
@@ -177,8 +177,8 @@ Still no good, so search the web for an example use:
  
 
 Fixed, although now an [undefined reference to
-'consoleInit'](CppLinkErrorUndefinedReferenceToConsoleInit.htm) [link
-error](CppLinkError.htm) occurs.
+'consoleInit'](CppLinkErrorUndefinedReferenceToConsoleInit.md) [link
+error](CppLinkError.md) occurs.
 
  
 

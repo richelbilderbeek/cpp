@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt Creator project type](CppQtProjectType.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt Creator project type](CppQtProjectType.md)
 =================================================================================
 
  
 
-The [Qt Creator project type](CppQtProjectType.htm) is the type of [Qt
-Creator](CppQtCreator.htm) [project](CppQtProject.htm).
+The [Qt Creator project type](CppQtProjectType.md) is the type of [Qt
+Creator](CppQtCreator.md) [project](CppQtProject.md).
 
  
 
-There are multiple [project types](CppQtProjectType.htm) for [desktop
-applications](CppDesktopApplication.htm):
+There are multiple [project types](CppQtProjectType.md) for [desktop
+applications](CppDesktopApplication.md):
 
  
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm): a [desktop
-    applications](CppDesktopApplication.htm) that must be called from
+    application](CppConsoleApplication.md): a [desktop
+    applications](CppDesktopApplication.md) that must be called from
     the command line and/or display plain text only
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm): a
-    [desktop applications](CppDesktopApplication.htm) that displays not
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md): a
+    [desktop applications](CppDesktopApplication.md) that displays not
     just plain text, but, for example, images
 
  
@@ -45,16 +45,16 @@ applications](CppDesktopApplication.htm):
 
  
 
-Determining the [project type](CppQtProjectType.htm)
+Determining the [project type](CppQtProjectType.md)
 ----------------------------------------------------
 
  
 
 There are multiple ways to determine the [project
-type](CppQtProjectType.htm):
+type](CppQtProjectType.md):
 
 -   select the project type
--   modify the [project file](CppQtProjectFile.htm)
+-   modify the [project file](CppQtProjectFile.md)
 
  
 
@@ -64,11 +64,11 @@ type](CppQtProjectType.htm):
 
  
 
-### Determining the [project type](CppQtProjectType.htm): select the project type
+### Determining the [project type](CppQtProjectType.md): select the project type
 
  
 
-When creating a new project, the [project type](CppQtProjectType.htm)
+When creating a new project, the [project type](CppQtProjectType.md)
 can be selected in the 'New Project' screen:
 
 -   [View the 'New Project' screen (Qt Creator
@@ -78,11 +78,11 @@ can be selected in the 'New Project' screen:
 
  
 
-Selecting a [project type](CppQtProjectType.htm) only lets [Qt
-Creator](CppQtCreator.htm) help in writing a [project
-file](CppQtProjectFile.htm). This [project file](CppQtProjectFile.htm)
+Selecting a [project type](CppQtProjectType.md) only lets [Qt
+Creator](CppQtCreator.md) help in writing a [project
+file](CppQtProjectFile.md). This [project file](CppQtProjectFile.md)
 can always be modified to change the [project
-type](CppQtProjectType.htm).
+type](CppQtProjectType.md).
 
  
 
@@ -94,17 +94,17 @@ type](CppQtProjectType.htm).
 
  
 
-### Determining the [project type](CppQtProjectType.htm): modify the [project file](CppQtProjectFile.htm)
+### Determining the [project type](CppQtProjectType.md): modify the [project file](CppQtProjectFile.md)
 
  
 
-The [project file](CppQtProjectFile.htm) determines the [project
-type](CppQtProjectType.htm).
+The [project file](CppQtProjectFile.md) determines the [project
+type](CppQtProjectType.md).
 
  
 
-The [project file](CppQtProjectFile.htm) of a [console
-application](CppConsoleApplication.htm):
+The [project file](CppQtProjectFile.md) of a [console
+application](CppConsoleApplication.md):
 
  
 
@@ -114,8 +114,8 @@ application](CppConsoleApplication.htm):
 
  
 
-The [project file](CppQtProjectFile.htm) of a [GUI
-application](CppGuiApplication.htm):
+The [project file](CppQtProjectFile.md) of a [GUI
+application](CppGuiApplication.md):
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [double free or corruption](CppMiscErrorDoubleFreeOrCorruption.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [double free or corruption](CppMiscErrorDoubleFreeOrCorruption.md)
 ============================================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -66,31 +66,31 @@ Full error message
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 --------------------------------------------------------------
 
  
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.2
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  
 
@@ -102,7 +102,7 @@ Full error message
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppMiscErrorDoubleFreeOrCorruption.pro
+[Qt project file](CppQtProjectFile.md): CppMiscErrorDoubleFreeOrCorruption.pro
 -------------------------------------------------------------------------------
 
  
@@ -216,13 +216,13 @@ menuwidget.h
 
  
 
-[Wt deployment](CppWtDeploy.htm)
+[Wt deployment](CppWtDeploy.md)
 --------------------------------
 
  
 
-The application was [deployed locally](CppWtDeployLocal.htm) from [Qt
-Creator](CppQtCreator.htm) with the run-time arguments:
+The application was [deployed locally](CppWtDeployLocal.md) from [Qt
+Creator](CppQtCreator.md) with the run-time arguments:
 
  
 
@@ -247,9 +247,9 @@ Cause
 
  
 
-m\_layout is managed by both a [boost::shared\_ptr](CppShared_ptr.htm)
+m\_layout is managed by both a [boost::shared\_ptr](CppShared_ptr.md)
 and MenuWidget. At the closing of the application, both
-[delete](CppDelete.htm) m\_layout.
+[delete](CppDelete.md) m\_layout.
 
  
 
@@ -267,10 +267,10 @@ Solution
  
 
 m\_layout must be managed by either MenuWidget or
-[boost::shared\_ptr](CppShared_ptr.htm). Both solutions are okay.
+[boost::shared\_ptr](CppShared_ptr.md). Both solutions are okay.
 Personally, I let MenuWidget take care of it, because it saves typing
-and the [\#include](CppInclude.htm) of the [Boost](CppBoost.htm) [header
-file](CppHeaderFile.htm).
+and the [\#include](CppInclude.md) of the [Boost](CppBoost.md) [header
+file](CppHeaderFile.md).
 
  
 
@@ -300,7 +300,7 @@ m\_layout is managed by MenuWidget
 
  
 
-m\_layout is managed by [boost::shared\_ptr](CppShared_ptr.htm)
+m\_layout is managed by [boost::shared\_ptr](CppShared_ptr.md)
 
  
 

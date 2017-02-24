@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::partial\_sort](CppPartial_sort.htm)
+([C++](Cpp.md)) [std::partial\_sort](CppPartial_sort.md)
 ==========================================================
 
  
 
-[std::partial\_sort](CppPartial_sort.htm) is an [STL](CppStl.htm)
-[sorting](CppSort.htm) [algorithm](CppAlgorithm.htm) to partially
-[sort](CppSort.htm) a [container](CppContainer.htm).
+[std::partial\_sort](CppPartial_sort.md) is an [STL](CppStl.md)
+[sorting](CppSort.md) [algorithm](CppAlgorithm.md) to partially
+[sort](CppSort.md) a [container](CppContainer.md).
 
  
 

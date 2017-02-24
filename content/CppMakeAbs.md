@@ -12,24 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [MakeAbs](CppMakeAbs.htm)
+([C++](Cpp.md)) [MakeAbs](CppMakeAbs.md)
 ==========================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to make all
-elements in a [container](CppContainer.htm) positive.
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to make all
+elements in a [container](CppContainer.md) positive.
 
  
 
-There are multiple ways to implement [MakeAbs](CppMakeAbs.htm):
+There are multiple ways to implement [MakeAbs](CppMakeAbs.md):
 
-1.  Using an [algorithm](CppAlgorithm.htm) (preferred \[1\]\[2\])
-2.  Using a [for](CppFor.htm)-loop
-
- 
-
- 
+1.  Using an [algorithm](CppAlgorithm.md) (preferred \[1\]\[2\])
+2.  Using a [for](CppFor.md)-loop
 
  
 
@@ -37,7 +33,11 @@ There are multiple ways to implement [MakeAbs](CppMakeAbs.htm):
 
  
 
-[MakeAbs](CppMakeAbs.htm) using an [algorithm](CppAlgorithm.htm)
+ 
+
+ 
+
+[MakeAbs](CppMakeAbs.md) using an [algorithm](CppAlgorithm.md)
 ----------------------------------------------------------------
 
  
@@ -49,8 +49,8 @@ There are multiple ways to implement [MakeAbs](CppMakeAbs.htm):
  
 
 Note: I did not find any way to refrain from writing a
-[functor](CppFunctor.htm) (for example, by using
-[std::ptr\_fun](CppPtr_fun.htm)) as shown in the lines below...
+[functor](CppFunctor.md) (for example, by using
+[std::ptr\_fun](CppPtr_fun.md)) as shown in the lines below...
 
  
 
@@ -68,7 +68,7 @@ Note: I did not find any way to refrain from writing a
 
  
 
-[MakeAbs](CppMakeAbs.htm) using a [for](CppFor.htm)-loop
+[MakeAbs](CppMakeAbs.md) using a [for](CppFor.md)-loop
 --------------------------------------------------------
 
  
@@ -87,16 +87,16 @@ Note: I did not find any way to refrain from writing a
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The [C++](Cpp.htm)
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The [C++](Cpp.md)
     Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter
     18.12.1 : 'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). [C++](Cpp.htm) coding
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). [C++](Cpp.md) coding
     standards: 101 rules, guidelines, and best practices.
     ISBN: 0-32-111358-6. Chapter 84: 'Prefer algorithm calls to
     handwritten loops.'

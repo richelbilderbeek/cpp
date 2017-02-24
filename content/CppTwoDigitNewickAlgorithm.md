@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [TwoDigitNewick algorithm](CppTwoDigitNewickAlgorithm.htm)
+([C++](Cpp.md)) [TwoDigitNewick algorithm](CppTwoDigitNewickAlgorithm.md)
 ===========================================================================
 
  
 
-This page describes the [algorith](CppAlgorithm.htm) as used in the
+This page describes the [algorith](CppAlgorithm.md) as used in the
 TwoDitNewick class.
 
  

@@ -12,30 +12,30 @@
 
  
 
-([C++](Cpp.htm)) [VCL](CppVcl.htm)
+([C++](Cpp.md)) [VCL](CppVcl.md)
 ==================================
 
  
 
-This is my main page of the [VCL](CppVcl.htm) library.
+This is my main page of the [VCL](CppVcl.md) library.
 
  
 
-For the [C++](Cpp.htm) main page, [go to the C++ main page](Cpp.htm).
+For the [C++](Cpp.md) main page, [go to the C++ main page](Cpp.md).
 
-For the [C++ Builder](CppBuilder.htm) main page, [go to the C++ Builder
-main page](CppBuilder.htm).
+For the [C++ Builder](CppBuilder.md) main page, [go to the C++ Builder
+main page](CppBuilder.md).
 
  
 
-[VCL](CppVcl.htm) is an abbreviation of 'Visual Component Library'. It
-is the graphical library used by [C++ Builder](CppBuilder.htm) and other
+[VCL](CppVcl.md) is an abbreviation of 'Visual Component Library'. It
+is the graphical library used by [C++ Builder](CppBuilder.md) and other
 Borland/CodeGear IDE's.
 
  
 
--   [VCL Glossary](CppVclGlossary.htm): an overview of all my VCL pages
--   [VCL Code Snippets](CppVclCodeSnippets.htm): handy short pieces of
+-   [VCL Glossary](CppVclGlossary.md): an overview of all my VCL pages
+-   [VCL Code Snippets](CppVclCodeSnippets.md): handy short pieces of
     code
 
  

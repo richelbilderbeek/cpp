@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::binder1st](CppStdBinder1st.htm)
+([C++](Cpp.md)) [std::binder1st](CppStdBinder1st.md)
 ======================================================
 
  
 
-[std::binder1st](CppStdBinder1st.htm) is deprecated \[1\]. The function
-template [std::bind](CppBind.htm) provides a better solution \[1\].
+[std::binder1st](CppStdBinder1st.md) is deprecated \[1\]. The function
+template [std::bind](CppBind.md) provides a better solution \[1\].
 
  
 
@@ -32,7 +32,7 @@ template [std::bind](CppBind.htm) provides a better solution \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to create a simple 2D graphics program?](CppQt2dGraphics.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to create a simple 2D graphics program?](CppQt2dGraphics.md)
 ====================================================================================================
 
  
 
-This [simple 2D graphics program](CppQt2dGraphics.htm) has the goal to
+This [simple 2D graphics program](CppQt2dGraphics.md) has the goal to
 create a colored gradient on a QMainWindow/QDialog by setting the colors
 of individual pixels.
 
@@ -29,12 +29,12 @@ of individual pixels.
 
  
 
-To create [simple 2D graphics program](CppQt2dGraphics.htm) in [Qt
-Creator](CppQtCreator.htm), you can follow the steps below:
+To create [simple 2D graphics program](CppQt2dGraphics.md) in [Qt
+Creator](CppQtCreator.md), you can follow the steps below:
 
 -   Step \#1: Setting up the Qt4 Gui application project
--   Step \#2: Coding the [declaration](CppDeclaration.htm) of paintEvent
--   Step \#3: Coding the [definition](CppDefinition.htm) of paintEvent
+-   Step \#2: Coding the [declaration](CppDeclaration.md) of paintEvent
+-   Step \#3: Coding the [definition](CppDefinition.md) of paintEvent
 -   Step \#4: Running the program
 
  
@@ -52,7 +52,7 @@ Step \#1: Setting up the Qt4 Gui application project
 
  
 
-1.  Start [Qt Creator](CppQtCreator.htm).
+1.  Start [Qt Creator](CppQtCreator.md).
 2.  If you are not shown the welcome screen, click on 'Welcome' on the
     left
 3.  If, in the welcome screen, the 'Develop' tab is not shown, click on
@@ -92,7 +92,7 @@ might look like [this](CppQt2dGraphics1.png).
 
  
 
-Step \#2: Coding the [declaration](CppDeclaration.htm) of paintEvent
+Step \#2: Coding the [declaration](CppDeclaration.md) of paintEvent
 --------------------------------------------------------------------
 
  
@@ -122,7 +122,7 @@ Step \#2: Coding the [declaration](CppDeclaration.htm) of paintEvent
  
 
 Note that if you try to execute the program, you get the following
-[(link) error](CppLinkError.htm):
+[(link) error](CppLinkError.md):
 
   -------------------------------------------------------------------------------------------------------------------------------------------
   ` moc_mainwindow.o:(.rodata._ZTV10MainWindow[vtable for MainWindow]+0x7c): undefined reference to 'MainWindow::paintEvent(QPaintEvent*)'`
@@ -130,9 +130,9 @@ Note that if you try to execute the program, you get the following
 
  
 
-This [(link) error](CppLinkError.htm) is correct: the [member
-function](CppMemberFunction.htm) MainWindow::paintEvent is
-[declared](CppDeclaration.htm) but not yet [defined](CppDefinition.htm).
+This [(link) error](CppLinkError.md) is correct: the [member
+function](CppMemberFunction.md) MainWindow::paintEvent is
+[declared](CppDeclaration.md) but not yet [defined](CppDefinition.md).
 
  
 
@@ -144,7 +144,7 @@ function](CppMemberFunction.htm) MainWindow::paintEvent is
 
  
 
-Step \#3: Coding the [definition](CppDefinition.htm) of paintEvent
+Step \#3: Coding the [definition](CppDefinition.md) of paintEvent
 ------------------------------------------------------------------
 
  

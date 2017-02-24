@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [Boost signal](CppBoostSignal.htm), boost::signals::signal, boost::signals2::signal
+([C++](Cpp.md)) [Boost signal](CppBoostSignal.md), boost::signals::signal, boost::signals2::signal
 ====================================================================================================
 
  
 
-The [Boost](CppBoost.htm) [library](CppLibrary.htm) offers a way to
-using [signals](CppSignal.htm).
+The [Boost](CppBoost.md) [library](CppLibrary.md) offers a way to
+using [signals](CppSignal.md).
 
  
 
 -   [Boost signal example 1: comparing Boost and
-    Qt](CppBoostSignalExample1.htm)
--   [Boost signal example 2: emitting this](CppBoostSignalExample2.htm)
+    Qt](CppBoostSignalExample1.md)
+-   [Boost signal example 2: emitting this](CppBoostSignalExample2.md)
 -   [Boost signal example 3: emitting two arguments and reading a
-    result](CppBoostSignalExample3.htm)
+    result](CppBoostSignalExample3.md)
 
  
 
@@ -38,14 +38,14 @@ using [signals](CppSignal.htm).
 
  
 
-[Signal](CppSignal.htm) pages
+[Signal](CppSignal.md) pages
 -----------------------------
 
  
 
--   ![Boost](PicBoost.png) [Boost signal](CppBoostSignal.htm)
--   ![STL](PicStl.png) [std::signal](CppStdSignal.htm)
--   ![Qt](PicQt.png) [Qt signal](CppQtSignal.htm)
+-   ![Boost](PicBoost.png) [Boost signal](CppBoostSignal.md)
+-   ![STL](PicStl.png) [std::signal](CppStdSignal.md)
+-   ![Qt](PicQt.png) [Qt signal](CppQtSignal.md)
 
  
 

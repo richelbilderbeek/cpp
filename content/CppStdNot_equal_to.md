@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::not\_equal\_to](CppNot_equal_to.htm)
+([C++](Cpp.md)) [std::not\_equal\_to](CppNot_equal_to.md)
 ===========================================================
 
  
 
-[Predicate](CppPredicate.htm) to perform
-[operator!=](CppOperatorNotEqual.htm) on two values.
+[Predicate](CppPredicate.md) to perform
+[operator!=](CppOperatorNotEqual.md) on two values.
 
  
 

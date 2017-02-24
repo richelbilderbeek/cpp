@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Q\_OBJECT](CppQ_OBJECT.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Q\_OBJECT](CppQ_OBJECT.md)
 ==============================================================
 
  
 
-[Q\_OBJECT](CppQ_OBJECT.htm) is a [Qt](CppQt.htm) [macro](CppMacro.htm)
-that every [class](CppClass.htm) [derived](CppDerivedClass.htm) from
-[QObject](CppQObject.htm) that uses [signals](CppSignal.htm) and
-[slots](CppSlot.htm) must have in its [declaration](CppDeclaration.htm).
+[Q\_OBJECT](CppQ_OBJECT.md) is a [Qt](CppQt.md) [macro](CppMacro.htm)
+that every [class](CppClass.md) [derived](CppDerivedClass.md) from
+[QObject](CppQObject.md) that uses [signals](CppSignal.md) and
+[slots](CppSlot.md) must have in its [declaration](CppDeclaration.md).
 
  
 

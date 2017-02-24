@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [nl](CppNl.htm)
+([C++](Cpp.md)) [nl](CppNl.md)
 ================================
 
  
 
-[nl](CppNl.htm) is a [stream](CppStream.htm) manipulator, similar to
-[std::endl](CppEndl.htm), except that [nl](CppNl.htm) does not flush the
-[stream](CppStream.htm).
+[nl](CppNl.md) is a [stream](CppStream.md) manipulator, similar to
+[std::endl](CppEndl.md), except that [nl](CppNl.md) does not flush the
+[stream](CppStream.md).
 
  
 

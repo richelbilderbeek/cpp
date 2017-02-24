@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QwtExample1](CppQwtExample1.htm)
+([C++](Cpp.md)) [QwtExample1](CppQwtExample1.md)
 ==================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Ubuntu](PicUbuntu.png)![Wi
 
  
 
-[Qwt example 1: scatter plot](CppQwtExample1.htm) is a [Qwt](CppQwt.htm)
-[example](CppExample.htm) that shows how to create a scatter plot.
+[Qwt example 1: scatter plot](CppQwtExample1.md) is a [Qwt](CppQwt.md)
+[example](CppExample.md) that shows how to create a scatter plot.
 
  
 

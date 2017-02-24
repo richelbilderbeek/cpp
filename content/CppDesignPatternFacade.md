@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Facade](CppDesignPatternFacade.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Facade](CppDesignPatternFacade.md) ([Design Pattern](CppDesignPattern.htm))
 ==============================================================================================
 
  
 
-The [Facade](CppDesignPatternFacade.htm) is a [Design
-Pattern](CppDesignPattern.htm) that 'provides a unified interface to a
+The [Facade](CppDesignPatternFacade.md) is a [Design
+Pattern](CppDesignPattern.md) that 'provides a unified interface to a
 set of interfaces in a subsystem. Facade defines a higher-level
 interface that makes the subsystem easier to use' \[1\]
 
@@ -32,14 +32,14 @@ interface that makes the subsystem easier to use' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

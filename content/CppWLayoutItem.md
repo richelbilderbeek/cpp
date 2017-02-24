@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WLayoutItem](CppWLayoutItem.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WLayoutItem](CppWLayoutItem.md)
 =======================================================================
 
  
 
-[Wt::WLayoutItem](CppWLayoutItem.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WLayoutItem](CppWLayoutItem.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WLayoutItem](CppWLayoutItem.htm) is used in, among others:
+[Wt::WLayoutItem](CppWLayoutItem.md) is used in, among others:
 
 -   ...
 

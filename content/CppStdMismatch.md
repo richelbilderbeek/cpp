@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::mismatch](CppMismatch.htm)
+([C++](Cpp.md)) [std::mismatch](CppMismatch.md)
 =================================================
 
  
 
-[std::mismatch](CppMismatch.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to find a mismatch between two
-[containers](CppContainer.htm).
+[std::mismatch](CppMismatch.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to find a mismatch between two
+[containers](CppContainer.md).
 
  
 

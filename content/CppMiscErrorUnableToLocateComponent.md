@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Unable to locate component](CppMiscErrorUnableToLocateComponent.htm)
+([C++](Cpp.md)) [Unable to locate component](CppMiscErrorUnableToLocateComponent.md)
 ======================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -35,7 +35,7 @@ Full error message
  
 
 [View a screenshot of this error
-message](CppMiscErrorUnableToLocateComponent.htm).
+message](CppMiscErrorUnableToLocateComponent.md).
 
  
 
@@ -76,9 +76,9 @@ Cause
 
  
 
-IDE: [Qt Creator](CppQt.htm) 1.2.1
+IDE: [Qt Creator](CppQt.md) 1.2.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
 Boost version: 1.38.0.
 
@@ -87,7 +87,7 @@ Platform: Windows XP, version 2002, Service Pack 3
  
 
 After creating a [Hello World program
-(console)](CppBuilderHelloWorld.htm) the MS-DOS command prompt was used
+(console)](CppBuilderHelloWorld.md) the MS-DOS command prompt was used
 to start the executable HelloWorld.exe.
 
  

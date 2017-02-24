@@ -14,17 +14,17 @@ CppOperatorDereference
 
  
 
-([C++](Cpp.htm)) [operator\* (dereference operator)](CppOperatorDereference.htm)
+([C++](Cpp.md)) [operator\* (dereference operator)](CppOperatorDereference.md)
 ================================================================================
 
  
 
-[operator\* (dereference operator)](CppOperatorDereference.htm) is an
-[operator](CppOperator.htm) to access something pointed to.
+[operator\* (dereference operator)](CppOperatorDereference.md) is an
+[operator](CppOperator.md) to access something pointed to.
 
  
 
-Consider writing the [dereference operator](CppOperatorDereference.htm)
+Consider writing the [dereference operator](CppOperatorDereference.md)
 directly connected to the type-specifier.
 
  
@@ -35,7 +35,7 @@ directly connected to the type-specifier.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -65,5 +65,5 @@ directly connected to the type-specifier.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

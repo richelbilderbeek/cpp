@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [CompressNewick](CppCompressNewick.htm)
+([C++](Cpp.md)) [CompressNewick](CppCompressNewick.md)
 ========================================================
 
  
 
-[CompressNewick](CppCompressNewick.htm) is a [Newick](CppNewick.htm)
-[code snippets](CppCodeSnippets.htm) to sort binary-tree
-[Newick](CppNewick.htm) in such a way that all opening brackets are at
-the right. It is only usefull when the [Newick](CppNewick.htm) only has
+[CompressNewick](CppCompressNewick.md) is a [Newick](CppNewick.md)
+[code snippets](CppCodeSnippets.md) to sort binary-tree
+[Newick](CppNewick.md) in such a way that all opening brackets are at
+the right. It is only usefull when the [Newick](CppNewick.md) only has
 one leaf, like '(((A,B),C),D)'.
 
  

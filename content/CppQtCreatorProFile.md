@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtCreatorProFile](CppQtCreatorProFile.htm)
+([C++](Cpp.md)) [QtCreatorProFile](CppQtCreatorProFile.md)
 ============================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtCreatorProFile](CppQtCreatorProFile.htm) is a [Qt project file
-(.pro)](CppQtProjectFile.htm) [class](CppClass.htm).
+[QtCreatorProFile](CppQtCreatorProFile.md) is a [Qt project file
+(.pro)](CppQtProjectFile.md) [class](CppClass.md).
 
  
 
-[QtCreatorProFile](CppQtCreatorProFile.htm) is tested by the
-[tool](Tools.htm) [TestQtCreatorProFile](ToolTestQtCreatorProFile.htm).
+[QtCreatorProFile](CppQtCreatorProFile.md) is tested by the
+[tool](Tools.md) [TestQtCreatorProFile](ToolTestQtCreatorProFile.md).
 
 Technical facts
 ---------------
@@ -149,5 +149,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

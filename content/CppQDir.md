@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QDir](CppQDir.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QDir](CppQDir.md)
 =====================================================
 
  
 
-[QDir](CppQDir.htm) is a [Qt](CppQt.htm) [class](CppClass.htm) for a
+[QDir](CppQDir.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
 directory.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[QDir](CppQDir.htm) is used in, among others:
+[QDir](CppQDir.md) is used in, among others:
 
 -   ...
 

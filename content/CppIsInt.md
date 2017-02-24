@@ -12,50 +12,50 @@
 
  
 
-([C++](Cpp.htm)) [IsInt](CppIsInt.htm)
+([C++](Cpp.md)) [IsInt](CppIsInt.md)
 ======================================
 
  
 
-[IsInt](CppIsInt.htm) is a [checking](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) to [check](CppCheck.htm) if a
-[std::string](CppStdString.htm) can be [converted](CppConvert.htm) to an
-[integer](CppInt.htm).
+[IsInt](CppIsInt.md) is a [checking](CppCheck.md) [code
+snippet](CppCodeSnippets.md) to [check](CppCheck.md) if a
+[std::string](CppStdString.md) can be [converted](CppConvert.md) to an
+[integer](CppInt.md).
 
  
 
-[CanCast](CppCanCast.htm) and [CanLexicalCast](CppCanLexicalCast.htm)
-are more general versions of [IsInt](CppIsInt.htm).
+[CanCast](CppCanCast.md) and [CanLexicalCast](CppCanLexicalCast.md)
+are more general versions of [IsInt](CppIsInt.md).
 
 Technical facts
 ---------------
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -68,7 +68,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppIsInt/CppIsInt.pro
+[Qt project file](CppQtProjectFile.md): ./CppIsInt/CppIsInt.pro
 ----------------------------------------------------------------
 
  
@@ -115,5 +115,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

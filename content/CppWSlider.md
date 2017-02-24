@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WSlider](CppWSlider.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WSlider](CppWSlider.md)
 ===============================================================
 
  
 
-[Wt::WSlider](CppWSlider.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WSlider](CppWSlider.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a slider.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WSlider](CppWSlider.htm) is used in, among others:
+[Wt::WSlider](CppWSlider.md) is used in, among others:
 
 -   ...
 

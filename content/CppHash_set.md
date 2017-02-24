@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [\_\_gnu\_cxx::hash\_set](CppHash_set.htm)
+([C++](Cpp.md)) [\_\_gnu\_cxx::hash\_set](CppHash_set.md)
 ===========================================================
 
  
 
-[\_\_gnu\_cxx::hash\_set](CppHash_set.htm) is a
-[container](CppContainer.htm) to store elements like in a
-[std::set](CppSet.htm) in such a way that retrieval is quicker.
+[\_\_gnu\_cxx::hash\_set](CppHash_set.md) is a
+[container](CppContainer.md) to store elements like in a
+[std::set](CppSet.md) in such a way that retrieval is quicker.
 
  
 

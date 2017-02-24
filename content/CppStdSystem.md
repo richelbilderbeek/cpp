@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::system](CppSystem.htm)
+([C++](Cpp.md)) [std::system](CppSystem.md)
 =============================================
 
  
 
-[std::system](CppSystem.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to make a call to your (operating) system.
+[std::system](CppSystem.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to make a call to your (operating) system.
 
  
 
@@ -30,7 +30,7 @@
 
  
 
-[std::system](CppSystem.htm) example
+[std::system](CppSystem.md) example
 ------------------------------------
 
  
@@ -54,13 +54,13 @@ written to the file output.txt.
 
  
 
-[std::system](CppSystem.htm) and [boost::timer](CppTimer.htm) does not work
+[std::system](CppSystem.md) and [boost::timer](CppTimer.md) does not work
 ---------------------------------------------------------------------------
 
  
 
 The code below shows a program that starts a
-[boost::timer](CppTimer.htm), starts a program that waits 10 seconds,
+[boost::timer](CppTimer.md), starts a program that waits 10 seconds,
 and then displays the time passed. This will always display the time of
 0.0 seconds.
 
@@ -84,7 +84,7 @@ The solution is to request the actual time before and after:
 
  
 
-### Solution using the [STL](CppStl.htm)
+### Solution using the [STL](CppStl.md)
 
  
 
@@ -102,7 +102,7 @@ The solution is to request the actual time before and after:
 
  
 
-### Solution using the [Boost.Date\_Time](CppDate_Time.htm)
+### Solution using the [Boost.Date\_Time](CppDate_Time.md)
 
  
 

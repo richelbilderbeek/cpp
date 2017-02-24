@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [borland.hpp: Only member functions may be 'const' or 'volatile'](CppCompileErrorBorlandHppOnlyMemberFunctionsMayBeConstOrVolatile.htm)
+([C++](Cpp.md)) [borland.hpp: Only member functions may be 'const' or 'volatile'](CppCompileErrorBorlandHppOnlyMemberFunctionsMayBeConstOrVolatile.md)
 ========================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,13 +53,13 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
-[Boost](CppBoost.htm) version: 1.35.0
+[Boost](CppBoost.md) version: 1.35.0
 
  
 
@@ -69,7 +69,7 @@ Project type: Console Application
 
  
 
-The [compiler](CppCompiler.htm) will show you the code of
+The [compiler](CppCompiler.md) will show you the code of
 boost/concept/borland/borland.hpp:
 
  
@@ -93,7 +93,7 @@ Solution
 
  
 
-Probably, you should obtain a better [compiler](CppCompiler.htm) :-(.
+Probably, you should obtain a better [compiler](CppCompiler.md) :-(.
 
  
 

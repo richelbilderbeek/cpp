@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::isdigit](CppIsdigit.htm)
+([C++](Cpp.md)) [std::isdigit](CppIsdigit.md)
 ===============================================
 
  
 
-[std::isdigit](CppIsdigit.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to test of a character is a decimal digit.
+[std::isdigit](CppIsdigit.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to test of a character is a decimal digit.
 
  
 

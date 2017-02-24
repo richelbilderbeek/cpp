@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ['Hello CLN' using command-line qmake and make under Cygwin under Windows](CppHelloClnClCygwinWindows.htm)
+([C++](Cpp.md)) ['Hello CLN' using command-line qmake and make under Cygwin under Windows](CppHelloClnClCygwinWindows.md)
 ===========================================================================================================================
 
  
 
-Running ['Hello CLN'](CppHelloCln.htm) using command-line
-[qmake](CppQmake.htm) and make under [Cygwin](CppCygwin.htm) under
+Running ['Hello CLN'](CppHelloCln.md) using command-line
+[qmake](CppQmake.md) and make under [Cygwin](CppCygwin.md) under
 Windows fails, because [installing CLN under Cygwin (under
-Windows)](CppClnInstallCygwin.htm) fails.
+Windows)](CppClnInstallCygwin.md) fails.
 
  
 

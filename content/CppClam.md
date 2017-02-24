@@ -12,34 +12,30 @@
 
  
 
-([C++](Cpp.htm)) [CLAM](CppClam.htm)
+([C++](Cpp.md)) [CLAM](CppClam.md)
 ====================================
 
  
 
-[CLAM](CppClam.htm) is a free [C++](Cpp.htm) [audio](CppAudio.htm)
-[library](CppLibrary.htm).
+[CLAM](CppClam.md) is a free [C++](Cpp.md) [audio](CppAudio.htm)
+[library](CppLibrary.md).
 
  
 
-[CLAM](CppClam.htm) is [licenced](CppLicence.htm) under GPL 2.0 \[1\],
+[CLAM](CppClam.md) is [licenced](CppLicence.md) under GPL 2.0 \[1\],
 so it is free. As long as the programs you develop are licenced under
-GPL as well, using [CLAM](CppClam.htm) is legal as well.
+GPL as well, using [CLAM](CppClam.md) is legal as well.
 
  
 
-Under Ubuntu, [CLAM](CppClam.htm) cannot be installed from Ubuntu's
-Software Center. From the [CLAM](CppClam.htm) homepage, however, one can
+Under Ubuntu, [CLAM](CppClam.md) cannot be installed from Ubuntu's
+Software Center. From the [CLAM](CppClam.md) homepage, however, one can
 download libclam-doc\_1.4.0-1\_all.deb (from karmic only) to install
-[CLAM](CppClam.htm) easily.
+[CLAM](CppClam.md) easily.
 
  
 
-I did not succeed in producing a simple beep in [CLAM](CppClam.htm).
-
- 
-
- 
+I did not succeed in producing a simple beep in [CLAM](CppClam.md).
 
  
 
@@ -47,7 +43,11 @@ I did not succeed in producing a simple beep in [CLAM](CppClam.htm).
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  

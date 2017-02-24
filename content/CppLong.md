@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [long](CppLong.htm)
+([C++](Cpp.md)) [long](CppLong.md)
 ====================================
 
  
 
-[long](CppLong.htm) is a [data type](CppDataType.htm) like
-[int](CppInt.htm). Use [GetMaxInt](CppGetMaxInt.htm) and
-[GetMaxLong](CppGetMaxLong.htm) to compare their maximum values.
+[long](CppLong.md) is a [data type](CppDataType.md) like
+[int](CppInt.md). Use [GetMaxInt](CppGetMaxInt.md) and
+[GetMaxLong](CppGetMaxLong.md) to compare their maximum values.
 
  
 
-Avoid using [long](CppLong.htm) in a [class](CppClass.htm)
-[interface](CppInterface.htm); use [int](CppInt.htm) instead \[1\].
+Avoid using [long](CppLong.md) in a [class](CppClass.md)
+[interface](CppInterface.md); use [int](CppInt.md) instead \[1\].
 
  
 
@@ -42,12 +42,12 @@ Avoid using [long](CppLong.htm) in a [class](CppClass.htm)
 
  
 
-[long](CppLong.htm) [code snippets](CppCodeSnippets.htm)
+[long](CppLong.md) [code snippets](CppCodeSnippets.md)
 --------------------------------------------------------
 
  
 
-1.  [GetMaxLong](CppGetMaxLong.htm)
+1.  [GetMaxLong](CppGetMaxLong.md)
 
  
 
@@ -59,12 +59,12 @@ Avoid using [long](CppLong.htm) in a [class](CppClass.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 9.2.3: 'Avoid using long in the
     interface; assert(sizeof(int)&gt;=4) and use either int or a
     user-defined large-integer type instead'

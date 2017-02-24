@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Get a TForm in a TForm](CppTFormInTForm.htm)
+([C++](Cpp.md)) [Get a TForm in a TForm](CppTFormInTForm.md)
 ==============================================================
 
  
 
-[VCL](CppVcl.htm) [graphics](CppVclGraphics.htm) [code
-snippet](CppVclCodeSnippets.htm) to get a TForm in a
-[TForm](CppTForm.htm). In other words: to use a TForm as a TPanel.
+[VCL](CppVcl.md) [graphics](CppVclGraphics.md) [code
+snippet](CppVclCodeSnippets.md) to get a TForm in a
+[TForm](CppTForm.md). In other words: to use a TForm as a TPanel.
 
  
 

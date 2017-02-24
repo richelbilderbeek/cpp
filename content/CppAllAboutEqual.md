@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [AllAboutEqual](CppAllAboutEqual.htm)
+([C++](Cpp.md)) [AllAboutEqual](CppAllAboutEqual.md)
 ======================================================
 
  
 
-[AllAboutEqual](CppAllAboutEqual.htm) is a [std::vector](CppVector.htm)
-[checking](CppCheck.htm)
+[AllAboutEqual](CppAllAboutEqual.md) is a [std::vector](CppVector.md)
+[checking](CppCheck.md)
 
-[code snippet](CppCodeSnippets.htm) to [check](CppCheck.htm) if all
-[doubles](CppDouble.htm) in a [std::vector](CppVector.htm) are about
+[code snippet](CppCodeSnippets.md) to [check](CppCheck.md) if all
+[doubles](CppDouble.md) in a [std::vector](CppVector.md) are about
 equal.
 
  

@@ -12,26 +12,22 @@
 
  
 
-([C++](Cpp.htm)) ![Wine](PicWine.png) [Wine](CppWine.htm)
+([C++](Cpp.md)) ![Wine](PicWine.png) [Wine](CppWine.md)
 =========================================================
 
  
 
-[Wine](CppWine.htm) is a [system environent (which in my definition is
-sort of an operating system)](CppOs.htm), as it (does not)
-[emulates](CppEmulate.htm) a Windows environment under Linux, to [run
-Windows under Wine under Ubuntu](CppWineUbuntu.htm). Among others,
-[Wine](CppWine.htm) can be used to (in some definitions)
-[port](CppPort.htm) programs from Linux to Windows.
+[Wine](CppWine.md) is a [system environent (which in my definition is
+sort of an operating system)](CppOs.md), as it (does not)
+[emulates](CppEmulate.md) a Windows environment under Linux, to [run
+Windows under Wine under Ubuntu](CppWineUbuntu.md). Among others,
+[Wine](CppWine.md) can be used to (in some definitions)
+[port](CppPort.md) programs from Linux to Windows.
 
  
 
-The answer to the [Qt FAQ](CppQtFaq.htm) [Can Qt Creator run under Wine
-under Ubuntu?](CppQtCreatorWineUbuntu.htm) seems to be no, however.
-
- 
-
- 
+The answer to the [Qt FAQ](CppQtFaq.md) [Can Qt Creator run under Wine
+under Ubuntu?](CppQtCreatorWineUbuntu.md) seems to be no, however.
 
  
 
@@ -39,12 +35,16 @@ under Ubuntu?](CppQtCreatorWineUbuntu.htm) seems to be no, however.
 
  
 
-Problems with [Wine](CppWine.htm)
+ 
+
+ 
+
+Problems with [Wine](CppWine.md)
 ---------------------------------
 
  
 
--   [Wine fixme 1: displaying a QDialog](CppWineFixme1.htm)
+-   [Wine fixme 1: displaying a QDialog](CppWineFixme1.md)
 
  
 

@@ -12,36 +12,36 @@
 
  
 
-([C++](Cpp.htm)) [declaration](CppDeclaration.htm)
+([C++](Cpp.md)) [declaration](CppDeclaration.md)
 ==================================================
 
  
 
-'A [declaration](CppDeclaration.htm) introduces a name into a program'
+'A [declaration](CppDeclaration.md) introduces a name into a program'
 \[1\].
 
  
 
-'A [declaration](CppDeclaration.htm) of a [variable](CppVariable.htm) or
-[function](CppFunction.htm) announces the properties of the
-[variable](CppVariable.htm) or [function](CppFunction.htm); it consists
-of a [type name](CppTypeName.htm) and then the
-[variable](CppVariable.htm) or [function](CppFunction.htm) name. For
-[functions](CppFunction.htm), it tells the [compiler](CppCompiler.htm)
-the name, [return type](CppReturnType.htm) and
-[parameters](CppParameter.htm). For [variables](CppVariable.htm), it
-tells the [compiler](CppCompiler.htm) the name and [type](CppType.htm).'
+'A [declaration](CppDeclaration.md) of a [variable](CppVariable.md) or
+[function](CppFunction.md) announces the properties of the
+[variable](CppVariable.md) or [function](CppFunction.md); it consists
+of a [type name](CppTypeName.md) and then the
+[variable](CppVariable.md) or [function](CppFunction.md) name. For
+[functions](CppFunction.md), it tells the [compiler](CppCompiler.md)
+the name, [return type](CppReturnType.md) and
+[parameters](CppParameter.md). For [variables](CppVariable.md), it
+tells the [compiler](CppCompiler.md) the name and [type](CppType.md).'
 \[3\]
 
  
 
-There are multiple types of [declarations](CppDeclaration.htm):
+There are multiple types of [declarations](CppDeclaration.md):
 
-1.  A [variable](CppVariable.htm) [declaration](CppDeclaration.htm) is
-    naming a [variable](CppVariable.htm) to be used.
-2.  A [function](CppFunction.htm) [declaration](CppDeclaration.htm) is
-    naming a [function](CppFunction.htm) to be
-    [defined](CppDefinition.htm).
+1.  A [variable](CppVariable.md) [declaration](CppDeclaration.md) is
+    naming a [variable](CppVariable.md) to be used.
+2.  A [function](CppFunction.md) [declaration](CppDeclaration.md) is
+    naming a [function](CppFunction.md) to be
+    [defined](CppDefinition.md).
 
  
 
@@ -58,8 +58,8 @@ Example
 
  
 
-In the code below, the [function](CppFunction.htm) MagicFunction and the
-[integer](CppInt.htm) x are [declared](CppDeclaration.htm).
+In the code below, the [function](CppFunction.md) MagicFunction and the
+[integer](CppInt.md) x are [declared](CppDeclaration.md).
 
  
 
@@ -79,16 +79,16 @@ In the code below, the [function](CppFunction.htm) MagicFunction and the
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   [Declare](CppDeclaration.htm) only one [variable](CppVariable.htm)
-    in each [declaration](CppDeclaration.htm) \[2,4\]
--   When [declaring](CppDeclaration.htm) a [variable](CppVariable.htm),
-    provide a [comment](CppComment.htm) that explains the
-    [variable](CppVariable.htm)'s purpose in the program \[4\]
+-   [Declare](CppDeclaration.md) only one [variable](CppVariable.md)
+    in each [declaration](CppDeclaration.md) \[2,4\]
+-   When [declaring](CppDeclaration.md) a [variable](CppVariable.md),
+    provide a [comment](CppComment.md) that explains the
+    [variable](CppVariable.md)'s purpose in the program \[4\]
 
  
 
@@ -100,14 +100,14 @@ In the code below, the [function](CppFunction.htm) MagicFunction and the
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 1.1.1
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[11\] Declare one name (only) per declaration'
 3.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System

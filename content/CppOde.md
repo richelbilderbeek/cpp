@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [ODE](CppOde.htm)
+([C++](Cpp.md)) [ODE](CppOde.md)
 ==================================
 
  
 
-[ODE](CppOde.htm) ('Open Dynamics Engine') is a [3D](Cpp3d.htm)
-[physics](CppPhysics.htm) [library](CppLibrary.htm).
+[ODE](CppOde.md) ('Open Dynamics Engine') is a [3D](Cpp3d.md)
+[physics](CppPhysics.md) [library](CppLibrary.md).
 
  
 
-It appears to be easy to build [ODE](CppOde.htm) under
-[Windows](CppWindows.htm) with [Visual Studio](CppVisualStudio.htm) or
-under [Linux](CppLinux.htm). Although I succeeded in building the .DLL
+It appears to be easy to build [ODE](CppOde.md) under
+[Windows](CppWindows.md) with [Visual Studio](CppVisualStudio.md) or
+under [Linux](CppLinux.md). Although I succeeded in building the .DLL
 and .LIB files, I could not successfully link it to my project.
 
  
 
-I did not succeed in building [ODE](CppOde.htm) under
-[Windows](CppWindows.htm) with [Qt Creator](CppQtCreator.htm), because
+I did not succeed in building [ODE](CppOde.md) under
+[Windows](CppWindows.md) with [Qt Creator](CppQtCreator.md), because
 of compile errors when static linking to the source.
 
  

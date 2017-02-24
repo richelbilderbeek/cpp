@@ -12,27 +12,23 @@
 
  
 
-([C++](Cpp.htm)) ![Windows](PicWindows.png) [Windows](CppWindows.htm)
+([C++](Cpp.md)) ![Windows](PicWindows.png) [Windows](CppWindows.md)
 =====================================================================
 
  
 
-[Windows](CppWindows.htm) is an [operating system](CppOs.htm).
+[Windows](CppWindows.md) is an [operating system](CppOs.md).
 
  
 
-In a non-[windows](CppWindows.htm) [environment](CppOs.htm),
-[Wine](CppWine.htm) can be used to (not) [emulate](CppEmulate.htm) a
-[Windows](CppWindows.htm) environment.
+In a non-[windows](CppWindows.md) [environment](CppOs.md),
+[Wine](CppWine.md) can be used to (not) [emulate](CppEmulate.md) a
+[Windows](CppWindows.md) environment.
 
  
 
-When using [windows](CppWindows.htm), [Wine](CppCygwin.htm) can be used
-to [emulate](CppEmulate.htm) a UNIX environment.
-
- 
-
- 
+When using [windows](CppWindows.md), [Wine](CppCygwin.md) can be used
+to [emulate](CppEmulate.md) a UNIX environment.
 
  
 
@@ -40,31 +36,35 @@ to [emulate](CppEmulate.htm) a UNIX environment.
 
  
 
-![Windows](PicWindows.png) [Windows](CppWindows.htm) [code snippets](CppCodeSnippets.htm)
+ 
+
+ 
+
+![Windows](PicWindows.png) [Windows](CppWindows.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------------------------------------
 
  
 
 -   [Close the foreground window,
-    CloseForegroundWindow](CppCloseForegroundWindow.htm)
+    CloseForegroundWindow](CppCloseForegroundWindow.md)
 -   [Close windows with a certain substring in their text,
-    CloseWindowsWithInText](CppCloseWindowsWithInText.htm)
+    CloseWindowsWithInText](CppCloseWindowsWithInText.md)
 -   [Close windows with a certain text,
-    CloseWindowsWithText](CppCloseWindowsWithText.htm)
+    CloseWindowsWithText](CppCloseWindowsWithText.md)
 -   [CloseForegroundWindow, close the foreground
-    window](CppCloseForegroundWindow.htm)
+    window](CppCloseForegroundWindow.md)
 -   [CloseWindowsWithInText, close windows with a certain substring in
-    their text](CppCloseWindowsWithInText.htm)
+    their text](CppCloseWindowsWithInText.md)
 -   [CloseWindowsWithText, close windows with a certain
-    text](CppCloseWindowsWithText.htm)
+    text](CppCloseWindowsWithText.md)
 -   [CoutChildWindows, std::cout the text of each window and its
-    children](CppCoutChildWindows.htm)
+    children](CppCoutChildWindows.md)
 -   [Make a screenshot and store it as a bitmap,
-    MakeScreenshot](CppMakeScreenshot.htm)
+    MakeScreenshot](CppMakeScreenshot.md)
 -   [MakeScreenshot, make a screenshot and store it as a
-    bitmap](CppMakeScreenshot.htm)
+    bitmap](CppMakeScreenshot.md)
 -   [std::cout the text of each window and its children,
-    CoutChildWindows](CppCoutChildWindows.htm)
+    CoutChildWindows](CppCoutChildWindows.md)
 
  
 
@@ -76,7 +76,7 @@ to [emulate](CppEmulate.htm) a UNIX environment.
 
  
 
-![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png) [cross compiling](CppCrossCompile.htm) from [Qt Creator](CppQtCreator.htm) under [Ubuntu](CppUbuntu.htm) to [Windows](CppWindows.htm)
+![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png) [cross compiling](CppCrossCompile.md) from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.htm) to [Windows](CppWindows.htm)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -84,7 +84,7 @@ to [emulate](CppEmulate.htm) a UNIX environment.
 -   ![?FAIL](PicOrange.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [How to cross-compile a Qt Creator project from Ubuntu to a windows
-    executable?](CppQtCrosscompileToWindows.htm)
+    executable?](CppQtCrosscompileToWindows.md)
 
  
 
@@ -96,7 +96,7 @@ to [emulate](CppEmulate.htm) a UNIX environment.
 
  
 
-![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) How to [port](CppPort.htm) your code from [Qt Creator](CppQtCreator.htm) under [Ubuntu](CppUbuntu.htm) to another [Windows](CppWindows.htm)?
+![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) How to [port](CppPort.md) your code from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.htm) to another [Windows](CppWindows.htm)?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -106,7 +106,7 @@ to [emulate](CppEmulate.htm) a UNIX environment.
     Creator](PicQtCreator.png)![Windows](PicWindows.png)![
     ](PicSpacer.png)![ ](PicSpacer.png) [From Qt Creator under Ubuntu to
     Qt Creator under
-    Windows](CppPortQtCreatorUbuntuToQtCreatorWindows.htm)
+    Windows](CppPortQtCreatorUbuntuToQtCreatorWindows.md)
 
  
 

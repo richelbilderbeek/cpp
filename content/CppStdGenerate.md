@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::generate](CppGenerate.htm)
+([C++](Cpp.md)) [std::generate](CppGenerate.md)
 =================================================
 
  
 
-[Algorithm](CppAlgorithm.htm).
+[Algorithm](CppAlgorithm.md).
 
  
 

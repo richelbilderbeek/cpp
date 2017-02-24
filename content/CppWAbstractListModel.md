@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WAbstractListModel](CppWAbstractListModel.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WAbstractListModel](CppWAbstractListModel.md)
 =====================================================================================
 
  
 
-[Wt::WAbstractListModel](CppWAbstractListModel.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WAbstractListModel](CppWAbstractListModel.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WAbstractListModel](CppWAbstractListModel.htm) is used in, among
+[Wt::WAbstractListModel](CppWAbstractListModel.md) is used in, among
 others:
 
 -   ...

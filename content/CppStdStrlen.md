@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::strlen](CppStrlen.htm)
+([C++](Cpp.md)) [std::strlen](CppStrlen.md)
 =============================================
 
  
 
-[std::strlen](CppStrlen.htm) is a [function](CppFunction.htm) to
-determine the length (in [characters](CppChar.htm)) of a C-style string.
+[std::strlen](CppStrlen.md) is a [function](CppFunction.md) to
+determine the length (in [characters](CppChar.md)) of a C-style string.
 
  
 
@@ -45,5 +45,5 @@ determine the length (in [characters](CppChar.htm)) of a C-style string.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

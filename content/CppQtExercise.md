@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtExercise](CppQtExercise.htm)
+([C++](Cpp.md)) [QtExercise](CppQtExercise.md)
 ================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtExercise](CppQtExercise.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to display an [Exercise](CppExercise.htm).
+[QtExercise](CppQtExercise.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to display an [Exercise](CppExercise.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

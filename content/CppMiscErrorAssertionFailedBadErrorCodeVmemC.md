@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Assertion failed: !"Bad error code", file VMem.c, line 715](CppMiscErrorAssertionFailedBadErrorCodeVmemC.htm)
+([C++](Cpp.md)) [Assertion failed: !"Bad error code", file VMem.c, line 715](CppMiscErrorAssertionFailedBadErrorCodeVmemC.md)
 ===============================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -58,9 +58,9 @@ Cause
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
@@ -87,7 +87,7 @@ Solutions
 
  
 
-When this error occurs, restart [C++ Builder](CppBuilder.htm) and
+When this error occurs, restart [C++ Builder](CppBuilder.md) and
 nothing has been lost. Do change the code as in one of the examples
 below.
 
@@ -101,7 +101,7 @@ below.
 
  
 
-### Decrease the value of the [array](CppArray.htm) size
+### Decrease the value of the [array](CppArray.md) size
 
  
 
@@ -119,7 +119,7 @@ below.
 
  
 
-### Create the [array](CppArray.htm) dynamically
+### Create the [array](CppArray.md) dynamically
 
  
 
@@ -137,7 +137,7 @@ below.
 
  
 
-### Use a [std::vector](CppVector.htm) (preferred)
+### Use a [std::vector](CppVector.md) (preferred)
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::distance](Cppstd::distance.htm)
+([C++](Cpp.md)) [std::distance](Cppstd::distance.md)
 ======================================================
 
  
 
-[std::distance](Cppstd::distance.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to determine the distance (in number of
-elements) between two [iterators](CppIterator.htm).
+[std::distance](Cppstd::distance.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to determine the distance (in number of
+elements) between two [iterators](CppIterator.md).
 
  
 

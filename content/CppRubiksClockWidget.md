@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [RubiksClockWidget](CppRubiksClockWidget.htm)
+([C++](Cpp.md)) [RubiksClockWidget](CppRubiksClockWidget.md)
 ==============================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[RubiksClockWidget](CppRubiksClockWidget.htm) is a
-[widget](CppWidget.htm) [class](CppClass.htm) for a
-[RubiksClock](CppRubiksClock.htm).
+[RubiksClockWidget](CppRubiksClockWidget.md) is a
+[widget](CppWidget.md) [class](CppClass.md) for a
+[RubiksClock](CppRubiksClock.md).
 
 Technical facts
 ---------------
@@ -183,5 +183,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

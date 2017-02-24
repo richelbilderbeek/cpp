@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtToggleButtonWidget](CppQtToggleButtonWidget.htm)
+([C++](Cpp.md)) [QtToggleButtonWidget](CppQtToggleButtonWidget.md)
 ====================================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtToggleButtonWidget](CppQtToggleButtonWidget.htm) is a [Qt](CppQt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) to display an
-[ToggleButtonWidget](CppToggleButtonWidget.htm).
+[QtToggleButtonWidget](CppQtToggleButtonWidget.md) is a [Qt](CppQt.md)
+[widget](CppWidget.md) [class](CppClass.md) to display an
+[ToggleButtonWidget](CppToggleButtonWidget.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

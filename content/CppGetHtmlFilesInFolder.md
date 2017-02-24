@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetHtmlFilesInFolder](CppGetHtmlFilesInFolder.htm)
+([C++](Cpp.md)) [GetHtmlFilesInFolder](CppGetHtmlFilesInFolder.md)
 ====================================================================
 
  
 
-[GetHtmlFilesInFolder](CppGetHtmlFilesInFolder.htm) is a [file
-I/O](CppFileIo.htm) [code snippet](CppCodeSnippets.htm) to obtain all
+[GetHtmlFilesInFolder](CppGetHtmlFilesInFolder.md) is a [file
+I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md) to obtain all
 HTML filenames in a folder.
 
  

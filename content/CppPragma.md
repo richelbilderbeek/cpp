@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [\#pragma](CppPragma.htm)
+([C++](Cpp.md)) [\#pragma](CppPragma.md)
 ==========================================
 
  
 
-[\#pragma](CppPragma.htm) is a [compiler](CppCompiler.htm)-specific
-[preprocessor](CppPreprocessor.htm) directive.
+[\#pragma](CppPragma.md) is a [compiler](CppCompiler.md)-specific
+[preprocessor](CppPreprocessor.md) directive.
 
  
 

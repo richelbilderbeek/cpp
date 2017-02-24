@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [IntToAnsi](CppIntToAnsi.htm)
+([C++](Cpp.md)) [IntToAnsi](CppIntToAnsi.md)
 ==============================================
 
  
 
-[Convert](CppConvert.htm) code snippet to convert an integer to an
+[Convert](CppConvert.md) code snippet to convert an integer to an
 AnsiString.
 
  

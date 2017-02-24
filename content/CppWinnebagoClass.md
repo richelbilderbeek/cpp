@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Winnebago class](CppWinnebagoClass.htm)
+([C++](Cpp.md)) [Winnebago class](CppWinnebagoClass.md)
 =========================================================
 
  
 
-A [Winnebago class](CppWinnebagoClass.htm) is intended as a do-it-all
-[class](CppClass.htm) \[1\].
+A [Winnebago class](CppWinnebagoClass.md) is intended as a do-it-all
+[class](CppClass.md) \[1\].
 
  
 
@@ -30,12 +30,12 @@ A [Winnebago class](CppWinnebagoClass.htm) is intended as a do-it-all
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 1.8
 
  

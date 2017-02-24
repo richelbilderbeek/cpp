@@ -12,32 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [Write and read a composite data type to/from a std::stream](CppCompositeDataTypeToStream.htm)
+([C++](Cpp.md)) [Write and read a composite data type to/from a std::stream](CppCompositeDataTypeToStream.md)
 ===============================================================================================================
 
  
 
 This page shows examples how to write and read a [composite data
-type](CppCompositeDataType.htm) to/from a [std::stream](CppStream.htm).
+type](CppCompositeDataType.md) to/from a [std::stream](CppStream.md).
 
  
 
 -   [Write and read a composite data type to/from a std::stream: example
-    1: basic](CppCompositeDataTypeToStreamExample1.htm)
+    1: basic](CppCompositeDataTypeToStreamExample1.md)
 
  
 
-To write and read just one [std::vector](CppVector.htm) view [write and
-read a std::vector to/from a std::stream](CppVectorToStream.htm).
+To write and read just one [std::vector](CppVector.md) view [write and
+read a std::vector to/from a std::stream](CppVectorToStream.md).
 
  
 
-To write and read just two [std::vectors](CppVector.htm) view [write and
-read two std::vectors to/from a std::stream](CppVectorsToStream.htm).
-
- 
-
- 
+To write and read just two [std::vectors](CppVector.md) view [write and
+read two std::vectors to/from a std::stream](CppVectorsToStream.md).
 
  
 
@@ -45,6 +41,10 @@ read two std::vectors to/from a std::stream](CppVectorsToStream.htm).
 
  
 
+ 
+
+ 
+
 
 
 
@@ -54,5 +54,5 @@ read two std::vectors to/from a std::stream](CppVectorsToStream.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

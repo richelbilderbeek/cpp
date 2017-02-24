@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetDC](CppGetDC.htm)
+([C++](Cpp.md)) [GetDC](CppGetDC.md)
 ======================================
 
  
 
-[Windows](CppWindows.htm) [function](CppFunction.htm) to get a [handle
-to a device context](CppHDC.htm) from a window handle.
+[Windows](CppWindows.md) [function](CppFunction.md) to get a [handle
+to a device context](CppHDC.md) from a window handle.
 
  
 
@@ -28,23 +28,19 @@ to a device context](CppHDC.htm) from a window handle.
 
  
 
-If handle\_to\_window is [null](CppNull.htm), the [HDC](CppHDC.htm) of
+If handle\_to\_window is [null](CppNull.md), the [HDC](CppHDC.md) of
 the desktop is obtained
 
-If [GetDC](CppGetDC.htm) fails, [null](CppNull.htm) is returned
+If [GetDC](CppGetDC.md) fails, [null](CppNull.md) is returned
 
  
 
-Do not forget to call ReleaseDC on the obtained [HDC](CppHDC.htm)!
+Do not forget to call ReleaseDC on the obtained [HDC](CppHDC.md)!
 
  
 
-[GetDC](CppGetDC.htm) is declared in winuser.h (at least in the library
-that shipped with [C++ Builder](CppBuilder.htm) 6.0).
-
- 
-
- 
+[GetDC](CppGetDC.md) is declared in winuser.h (at least in the library
+that shipped with [C++ Builder](CppBuilder.md) 6.0).
 
  
 
@@ -52,20 +48,24 @@ that shipped with [C++ Builder](CppBuilder.htm) 6.0).
 
  
 
-Example: [MakeScreenshot](CppMakeScreenshot.htm)
+ 
+
+ 
+
+Example: [MakeScreenshot](CppMakeScreenshot.md)
 ------------------------------------------------
 
  
 
-[MakeScreenshot](CppMakeScreenshot.htm) retrieves the [HDC](CppHDC.htm)
+[MakeScreenshot](CppMakeScreenshot.md) retrieves the [HDC](CppHDC.md)
 of the desktop and copies it (using BitBlt) on a bitmap (or more
 specific: a Graphics::TBitmap).
 
  
 
-[MakeScreenshot](CppMakeScreenshot.htm) uses the [VCL](CppVcl.htm) [data
-type](CppDataType.htm) Graphics::TBitmap supplied with [C++
-Builder](CppBuilder.htm) 6.0.
+[MakeScreenshot](CppMakeScreenshot.md) uses the [VCL](CppVcl.md) [data
+type](CppDataType.md) Graphics::TBitmap supplied with [C++
+Builder](CppBuilder.md) 6.0.
 
  
 

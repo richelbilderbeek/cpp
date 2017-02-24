@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Dev C++](CppDevCpp.htm)
+([C++](Cpp.md)) [Dev C++](CppDevCpp.md)
 =========================================
 
  
 
-[Dev C++](CppDevCpp.htm) is one of my favorite [IDE](CppIde.htm)'s.
+[Dev C++](CppDevCpp.md) is one of my favorite [IDE](CppIde.md)'s.
 
  
 
@@ -56,5 +56,5 @@ Dev C++ features (incomplete)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

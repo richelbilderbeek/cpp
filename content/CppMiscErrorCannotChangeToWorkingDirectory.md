@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Cannot change to working directory](CppMiscErrorCannotChangeToWorkingDirectory.htm)
+([C++](Cpp.md)) [Cannot change to working directory](CppMiscErrorCannotChangeToWorkingDirectory.md)
 =====================================================================================================
 
  
 
 [Cannot change to working
-directory](CppMiscErrorCannotChangeToWorkingDirectory.htm) is a [misc
-error](CppMiscError.htm) in [Qt Creator](CppQtCreator.htm).
+directory](CppMiscErrorCannotChangeToWorkingDirectory.md) is a [misc
+error](CppMiscError.md) in [Qt Creator](CppQtCreator.md).
 
  
 
 -   [View a screenshot of the
-    error](CppMiscErrorCannotChangeToWorkingDirectory.htm)
+    error](CppMiscErrorCannotChangeToWorkingDirectory.md)
 
  
 
@@ -47,7 +47,7 @@ terminal'.
  
 
 -   [View a screenshot of the
-    solution](CppMiscErrorCannotChangeToWorkingDirectory.htm)
+    solution](CppMiscErrorCannotChangeToWorkingDirectory.md)
 
  
 

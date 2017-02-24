@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::ratio](CppRatio.htm)
+([C++](Cpp.md)) [std::ratio](CppRatio.md)
 ===========================================
 
  
 
-[std::ratio](CppRatio.htm) is a [C++](Cpp11.htm) [class](CppClass.htm)
-for [compile-time](CppCompileTime.htm) rational arithmetic.
+[std::ratio](CppRatio.md) is a [C++](Cpp11.md) [class](CppClass.htm)
+for [compile-time](CppCompileTime.md) rational arithmetic.
 
  
 
@@ -30,12 +30,12 @@ for [compile-time](CppCompileTime.htm) rational arithmetic.
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [std::ratio example 1: basics](CppRatioExample1.htm)
+-   [std::ratio example 1: basics](CppRatioExample1.md)
 
  
 
@@ -47,7 +47,7 @@ for [compile-time](CppCompileTime.htm) rational arithmetic.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
@@ -64,7 +64,7 @@ for [compile-time](CppCompileTime.htm) rational arithmetic.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Expected a file name](CppLinkErrorExpectedAfileName.htm)
+([C++](Cpp.md)) [Expected a file name](CppLinkErrorExpectedAfileName.md)
 ==========================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

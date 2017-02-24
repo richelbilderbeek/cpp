@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [devkitPro](CppDevkitPro.htm)
+([C++](Cpp.md)) [devkitPro](CppDevkitPro.md)
 ==============================================
 
  
 
-[devkitPro](CppDevkitPro.htm) is the brand name for a set of toolchains
+[devkitPro](CppDevkitPro.md) is the brand name for a set of toolchains
 to write applications and games for several of the most popular
 consoles.
 
  
 
--   [devkitARM](CppDevkitArm.htm): GamePark GP32, [Nintendo
-    DS](CppNds.htm), Nintendo GBA
+-   [devkitARM](CppDevkitArm.md): GamePark GP32, [Nintendo
+    DS](CppNds.md), Nintendo GBA
 -   devkitGP2X: GamePark GP2X
 -   devkitPPC: Nintendo GameCube (and maybe Nintendo Wii)
 -   devkitPSP: Sony PSP

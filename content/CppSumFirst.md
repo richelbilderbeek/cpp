@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SumFirst](CppSumFirst.htm)
+([C++](Cpp.md)) [SumFirst](CppSumFirst.md)
 ============================================
 
  
 
-[SumFirst](CppSumFirst.htm) is the answer of question \#21 of [Exercise
-\#9: No for-loops](CppExerciseNoForLoops.htm).
+[SumFirst](CppSumFirst.md) is the answer of question \#21 of [Exercise
+\#9: No for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-![STL](PicStl.png) [STL](CppStl.htm) [SumFirst](CppSumFirst.htm)
+![STL](PicStl.png) [STL](CppStl.md) [SumFirst](CppSumFirst.md)
 ----------------------------------------------------------------
 
  
 
-You may [contact me](Contact.htm) if you have an [STL](CppStl.htm)
+You may [contact me](Contact.md) if you have an [STL](CppStl.md)
 solution...
 
  
@@ -48,7 +48,7 @@ solution...
 
  
 
-![Boost](PicBoost.png) [Boost](CppBoost.htm).Bind [SumFirst](CppSumFirst.htm)
+![Boost](PicBoost.png) [Boost](CppBoost.md).Bind [SumFirst](CppSumFirst.md)
 -----------------------------------------------------------------------------
 
  
@@ -71,7 +71,7 @@ Thanks to 'ofwolfandman':
 
  
 
-![Boost](PicBoost.png) [Boost](CppBoost.htm).Lambda [SumFirst](CppSumFirst.htm)
+![Boost](PicBoost.png) [Boost](CppBoost.md).Lambda [SumFirst](CppSumFirst.md)
 -------------------------------------------------------------------------------
 
  

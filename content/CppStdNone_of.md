@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::none\_of](CppNone_of.htm)
+([C++](Cpp.md)) [std::none\_of](CppNone_of.md)
 ================================================
 
  
 
-[std::none\_of](CppNone_of.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) since the [C++11](Cpp11.htm)
-[standard](CppStandard.htm) to [check](CppCheck.htm) if none of the
-elements from a [container](CppContainer.htm) satisfy a certain
-[predicate](CppPredicate.htm).
+[std::none\_of](CppNone_of.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) since the [C++11](Cpp11.md)
+[standard](CppStandard.md) to [check](CppCheck.md) if none of the
+elements from a [container](CppContainer.md) satisfy a certain
+[predicate](CppPredicate.md).
 
  
 

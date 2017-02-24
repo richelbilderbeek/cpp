@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WCombinedLocalizedStrings](CppWCombinedLocalizedStrings.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WCombinedLocalizedStrings](CppWCombinedLocalizedStrings.md)
 ===================================================================================================
 
  
 
-[Wt::WCombinedLocalizedStrings](CppWCombinedLocalizedStrings.htm) is a
-[Wt](CppWt.htm) [class](CppClass.htm) for a timer.
+[Wt::WCombinedLocalizedStrings](CppWCombinedLocalizedStrings.md) is a
+[Wt](CppWt.md) [class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WCombinedLocalizedStrings](CppWCombinedLocalizedStrings.htm) is
+[Wt::WCombinedLocalizedStrings](CppWCombinedLocalizedStrings.md) is
 used in, among others:
 
 -   ...

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt Assert](CppQtAssert.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt Assert](CppQtAssert.md)
 ==============================================================
 
  
 
-A version of [assert](CppAssert.htm) one can use in a [Qt
-Creator](CppQtCreator.htm) console application
+A version of [assert](CppAssert.md) one can use in a [Qt
+Creator](CppQtCreator.md) console application
 
  
 

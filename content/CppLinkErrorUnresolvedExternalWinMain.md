@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Unresolved external 'WinMain' referenced from \[...\]\\CBUILDER6\\LIB\\C0W32.OBJ](CppLinkErrorUnresolvedExternalWinMain.htm)
+([C++](Cpp.md)) [Unresolved external 'WinMain' referenced from \[...\]\\CBUILDER6\\LIB\\C0W32.OBJ](CppLinkErrorUnresolvedExternalWinMain.md)
 ==============================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

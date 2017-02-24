@@ -12,30 +12,30 @@
 
  
 
-([C++](Cpp.htm)) ![Cygwin](PicCygwin.png) [Cygwin](CppCygwin.htm)
+([C++](Cpp.md)) ![Cygwin](PicCygwin.png) [Cygwin](CppCygwin.md)
 =================================================================
 
  
 
-[Cygwin](CppCygwin.htm) is a [system environent](CppOs.htm) to offer a
+[Cygwin](CppCygwin.md) is a [system environent](CppOs.md) to offer a
 UNIX-like environment under Windows. Among others,
-[Cygwin](CppCygwin.htm) can be used to [port](CppPort.htm) programs from
+[Cygwin](CppCygwin.md) can be used to [port](CppPort.md) programs from
 UNIX to Windows.
 
  
 
-Under Ubuntu, [Cygwin](CppCygwin.htm) can be installed from
-[Wine](CppWine.htm), see ![FAIL](PicRed.png) [running Cygwin under Wine
-under Ubuntu](CppCygwinUnderWineUnderUbuntu.htm).
+Under Ubuntu, [Cygwin](CppCygwin.md) can be installed from
+[Wine](CppWine.md), see ![FAIL](PicRed.png) [running Cygwin under Wine
+under Ubuntu](CppCygwinUnderWineUnderUbuntu.md).
 
  
 
-[Cygwin](CppCygwin.htm) can be installed with many libraries, among
+[Cygwin](CppCygwin.md) can be installed with many libraries, among
 others:
 
--   [STL](CppStl.htm)
--   [Boost](CppBoost.htm)
--   [Qt](CppQt.htm)
+-   [STL](CppStl.md)
+-   [Boost](CppBoost.md)
+-   [Qt](CppQt.md)
 
  
 
@@ -119,7 +119,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

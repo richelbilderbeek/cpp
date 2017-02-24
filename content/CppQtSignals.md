@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [signals](CppQtSignals.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [signals](CppQtSignals.md)
 =============================================================
 
  
 
-[signals](CppQtSignals.htm) is a [Qt](CppQt.htm)
-[keyword](CppKeyword.htm) to [declare](CppDeclaration.htm) [Qt
-signals](CppQtSignals.htm), so these [Qt signals](CppQtSignals.htm) can
-become [emitted](CppEmit.htm).
+[signals](CppQtSignals.md) is a [Qt](CppQt.md)
+[keyword](CppKeyword.md) to [declare](CppDeclaration.md) [Qt
+signals](CppQtSignals.md), so these [Qt signals](CppQtSignals.md) can
+become [emitted](CppEmit.md).
 
  
 
-For information about [Qt signals](CppQtSignal.htm), [go to the page
-about Qt signals](CppQtSignal.htm).
+For information about [Qt signals](CppQtSignal.md), [go to the page
+about Qt signals](CppQtSignal.md).
 
  
 

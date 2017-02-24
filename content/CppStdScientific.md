@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::scientific](CppScientific.htm)
+([C++](Cpp.md)) [std::scientific](CppScientific.md)
 =====================================================
 
  
 
-[std::scientific](CppScientific.htm) is a [stream](CppStream.htm)
+[std::scientific](CppScientific.md) is a [stream](CppStream.md)
 manipulator for real numbers to be displayed in the scientific notation.
 
  

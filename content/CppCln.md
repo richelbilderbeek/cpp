@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![CLN](PicCln.png) [CLN](CppCln.htm)
+([C++](Cpp.md)) ![CLN](PicCln.png) [CLN](CppCln.md)
 =====================================================
 
  
 
-[CLN](CppCln.htm) (abbreviation of '[Class](CppClass.htm)
-[Library](CppLibrary.htm) for Numbers') is a [library](CppLibrary.htm)
-to work with [arbitrary precision](CppArbitraryPrecision.htm) data
+[CLN](CppCln.md) (abbreviation of '[Class](CppClass.md)
+[Library](CppLibrary.md) for Numbers') is a [library](CppLibrary.md)
+to work with [arbitrary precision](CppArbitraryPrecision.md) data
 types.
 
  
@@ -34,13 +34,13 @@ types.
 
  
 
-[Installing CLN](CppClnInstall.htm)
+[Installing CLN](CppClnInstall.md)
 -----------------------------------
 
  
 
-Information about [installing CLN](CppClnInstall.htm), can be found at
-the page about [installing CLN](CppClnInstall.htm).
+Information about [installing CLN](CppClnInstall.md), can be found at
+the page about [installing CLN](CppClnInstall.md).
 
  
 
@@ -52,13 +52,13 @@ the page about [installing CLN](CppClnInstall.htm).
 
  
 
-[Porting CLN](CppClnPort.htm)
+[Porting CLN](CppClnPort.md)
 -----------------------------
 
  
 
-Information about [porting CLN](CppClnPort.htm), can be found at the
-page about [porting CLN](CppClnPort.htm).
+Information about [porting CLN](CppClnPort.md), can be found at the
+page about [porting CLN](CppClnPort.md).
 
  
 
@@ -70,12 +70,12 @@ page about [porting CLN](CppClnPort.htm).
 
  
 
-[CLN](CppCln.htm) [data types](CppDataType.htm)
+[CLN](CppCln.md) [data types](CppDataType.md)
 -----------------------------------------------
 
  
 
-1.  [cln::cl\_I](CppCl_I.htm) ([integer](CppInt.htm))
+1.  [cln::cl\_I](CppCl_I.md) ([integer](CppInt.md))
 
  
 
@@ -87,17 +87,17 @@ page about [porting CLN](CppClnPort.htm).
 
  
 
-[CLN](CppCln.htm) examples
+[CLN](CppCln.md) examples
 --------------------------
 
  
 
--   [1: basics: large factorials](CppClnExample1.htm)
--   [2: basics: adding seperators to integers](CppClnExample2.htm)
+-   [1: basics: large factorials](CppClnExample1.md)
+-   [2: basics: adding seperators to integers](CppClnExample2.md)
 -   [how to port CLN from Ubuntu to
-    Windows](CppClnFromUbuntuToWindows.htm)
--   [Tool: SimplifyNewick](ToolSimplifyNewick.htm)
--   [Tool: TestBinaryNewickVector](ToolTestBinaryNewickVector.htm)
+    Windows](CppClnFromUbuntuToWindows.md)
+-   [Tool: SimplifyNewick](ToolSimplifyNewick.md)
+-   [Tool: TestBinaryNewickVector](ToolTestBinaryNewickVector.md)
 
  
 
@@ -109,13 +109,13 @@ page about [porting CLN](CppClnPort.htm).
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 
@@ -133,12 +133,12 @@ prevent [link errors](CppLinkError.htm)):
 
  
 
-My [CLN](CppCln.htm) review
+My [CLN](CppCln.md) review
 ---------------------------
 
  
 
-In general, I'd review [CLN](CppCln.htm) positively.
+In general, I'd review [CLN](CppCln.md) positively.
 
  
 

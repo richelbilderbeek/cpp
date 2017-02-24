@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Questionmark-colon operator](CppOperatorQuestionmarkColon.htm)
+([C++](Cpp.md)) [Questionmark-colon operator](CppOperatorQuestionmarkColon.md)
 ================================================================================
 
  
 
-The [questionmark-colon operator](CppOperatorQuestionmarkColon.htm) is
-an [operator](CppOperator.htm) to perform simple
-[if](CppIf.htm)-statements.
+The [questionmark-colon operator](CppOperatorQuestionmarkColon.md) is
+an [operator](CppOperator.md) to perform simple
+[if](CppIf.md)-statements.
 
  
 

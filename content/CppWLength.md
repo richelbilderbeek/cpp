@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WLength](CppWLength.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WLength](CppWLength.md)
 ===============================================================
 
  
 
-[Wt::WLength](CppWLength.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WLength](CppWLength.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a timer.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WLength](CppWLength.htm) is used in, among others:
+[Wt::WLength](CppWLength.md) is used in, among others:
 
 -   ...
 

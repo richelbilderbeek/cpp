@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Thinking Wt 4: polishing a TicTacToe game](CppThinkingWt4.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Thinking Wt 4: polishing a TicTacToe game](CppThinkingWt4.md)
 =================================================================================================
 
  
 
-This [article](CppArticle.htm) shows the way to improve the looks of a
-TicTacToe game when using the [Wt](CppWt.htm) [library](CppLibrary.htm).
-The previous [article](CppArticle.htm), [Thinking Wt 3: creating a
-TicTacToe game](CppThinkingWt3.htm), serves as a starting point.
+This [article](CppArticle.md) shows the way to improve the looks of a
+TicTacToe game when using the [Wt](CppWt.md) [library](CppLibrary.md).
+The previous [article](CppArticle.md), [Thinking Wt 3: creating a
+TicTacToe game](CppThinkingWt3.md), serves as a starting point.
 
  
 
@@ -69,8 +69,8 @@ Overview
 
  
 
-This [article](CppArticle.htm) elaborates on [Thinking Wt 3: creating a
-TicTacToe game](CppThinkingWt3.htm) in which a TicTacToe application was
+This [article](CppArticle.md) elaborates on [Thinking Wt 3: creating a
+TicTacToe game](CppThinkingWt3.md) in which a TicTacToe application was
 created. First, a css will be applied to all widgets. After the screen
 layout is adjusted, the WtApplication dialog management is transferred
 to a new dialog.
@@ -91,8 +91,8 @@ Step 0: Starting point
  
 
 The code below is the finishing point of the previous
-[article](CppArticle.htm), [Thinking Wt 3: creating a TicTacToe
-game](CppThinkingWt3.htm). For this [article](CppArticle.htm), it serves
+[article](CppArticle.md), [Thinking Wt 3: creating a TicTacToe
+game](CppThinkingWt3.md). For this [article](CppArticle.md), it serves
 as a starting point.
 
  
@@ -122,8 +122,8 @@ Step 1: applying a style sheet
  
 
 To apply a style sheet to an application, use the useStyleSheet [member
-function](CppMemberFunction.htm) of
-[Wt::WApplication](CppWApplication.htm):
+function](CppMemberFunction.md) of
+[Wt::WApplication](CppWApplication.md):
 
  
 
@@ -156,9 +156,9 @@ application
 
 The next step is to apply the css 'title' style to the title of the menu
 dialog. In the original code, we added an anonymous
-[Wt::WText](CppWText.htm) (which is commented out in the code below).
+[Wt::WText](CppWText.md) (which is commented out in the code below).
 Now, we will have to temporarily name it and apply the setStyleClass
-[member function](CppMemberFunction.htm):
+[member function](CppMemberFunction.md):
 
  
 
@@ -183,7 +183,7 @@ Step 2: layout
 
 Now that the menu title is made larger, the menu buttons should be
 centered below the title. To do this, call the [member
-function](CppMemberFunction.htm) 'setContentAlignment':
+function](CppMemberFunction.md) 'setContentAlignment':
 
  
 
@@ -236,8 +236,8 @@ Conclusion
 
  
 
-This [article](CppArticle.htm) elaborates on [Thinking Wt 3: creating a
-TicTacToe game](CppThinkingWt2.htm) and shows how to apply a CSS, how to
+This [article](CppArticle.md) elaborates on [Thinking Wt 3: creating a
+TicTacToe game](CppThinkingWt2.md) and shows how to apply a CSS, how to
 adjust the screen layout and bundling all dialog management in a
 super-dialog, so this super-dialog can be called by other applications.
 

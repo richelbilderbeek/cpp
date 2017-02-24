@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [HugeVector](CppHugeVector.htm)
+([C++](Cpp.md)) [HugeVector](CppHugeVector.md)
 ================================================
 
  
 
-[HugeVector](CppHugeVector.htm) is a [class](CppClass.htm) similar to
-[std::vector](CppVector.htm) that, in theory can contain
+[HugeVector](CppHugeVector.md) is a [class](CppClass.md) similar to
+[std::vector](CppVector.md) that, in theory can contain
 18,446,744,073,709,551,616 elements. In practice,
-[HugeVector](CppHugeVector.htm) is limited by the available memory. On
-my computer, a [std::vector](CppVector.htm) is already limited by the
-available memory, so I keep using [std::vector](CppVector.htm).
+[HugeVector](CppHugeVector.md) is limited by the available memory. On
+my computer, a [std::vector](CppVector.md) is already limited by the
+available memory, so I keep using [std::vector](CppVector.md).
 
  
 
@@ -34,37 +34,37 @@ available memory, so I keep using [std::vector](CppVector.htm).
 
  
 
-Idea behind [HugeVector](CppHugeVector.htm)
+Idea behind [HugeVector](CppHugeVector.md)
 -------------------------------------------
 
  
 
 Assuming that memory is not a limiting factor, the size of a
-[std::vector](CppVector.htm) is limited by the maximum
-([unsigned](CppUnsigned.htm)) [integer](CppInt.htm) value: 2\^32 =
-4,294,967,296 = 4 billion. This [integer](CppInt.htm) value is used in
-the [std::vector](CppVector.htm) methods resize and the index operator.
-Perhaps a [std::vector](CppVector.htm) can become of a bigger size
+[std::vector](CppVector.md) is limited by the maximum
+([unsigned](CppUnsigned.md)) [integer](CppInt.md) value: 2\^32 =
+4,294,967,296 = 4 billion. This [integer](CppInt.md) value is used in
+the [std::vector](CppVector.md) methods resize and the index operator.
+Perhaps a [std::vector](CppVector.md) can become of a bigger size
 (using push\_back), but one cannot retrieve the, for example, 5th
 billionth index directly (that is, without using iterators), because
-there is no [integer](CppInt.htm) that can hold such a value.
+there is no [integer](CppInt.md) that can hold such a value.
 
  
 
-[HugeVector](CppHugeVector.htm) takes the maximum size to 2\^64 =
+[HugeVector](CppHugeVector.md) takes the maximum size to 2\^64 =
 18,446,744,073,709,551,616 = 18 billion billion, by storing elements in
-a 2D [std::vector](CppVector.htm): there is a
-[std::vector](CppVector.htm) that stores as much
-[std::vectors](CppVector.htm) as it can store (which is 2\^32 =
-4,294,967,296 = 4 billion). Each of these [std::vectors](CppVector.htm)
+a 2D [std::vector](CppVector.md): there is a
+[std::vector](CppVector.md) that stores as much
+[std::vectors](CppVector.md) as it can store (which is 2\^32 =
+4,294,967,296 = 4 billion). Each of these [std::vectors](CppVector.md)
 stores as much elements as they can store (which is 2\^32 =
 4,294,967,296 = 4 billion).
 
  
 
-To overcome the maximum [integer](CppInt.htm) value, the
-[CLN](CppCln.htm) [data type](CppDataType.htm) [cln::cl\_I](CppCl_I.htm)
-is used, which can store near-infinite-size [integers](CppInt.htm).
+To overcome the maximum [integer](CppInt.md) value, the
+[CLN](CppCln.md) [data type](CppDataType.md) [cln::cl\_I](CppCl_I.htm)
+is used, which can store near-infinite-size [integers](CppInt.md).
 
  
 
@@ -83,19 +83,19 @@ System specifications
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [CLN](CppCln.htm): version 1.3.1
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Boost](CppBoost.md): version 1.40
+-   [CLN](CppCln.md): version 1.3.1
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

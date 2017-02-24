@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png) ['Hello Qt' using Qt Creator under Ubuntu for Symbian](CppHelloQtQtCreatorUbuntuSymbian.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png) ['Hello Qt' using Qt Creator under Ubuntu for Symbian](CppHelloQtQtCreatorUbuntuSymbian.md)
 =======================================================================================================================================================================================================================
 
  
 
-This page shows a [Hello Qt](CppHelloQt.htm) program using the [Qt
-Creator](CppQtCreator.htm) [IDE](CppIde.htm) under the
-[Ubuntu](CppUbuntu.htm) [operating system](CppOs.htm) for the
-[Symbian](CppSymbian.htm) [platform](CppOs.htm).
+This page shows a [Hello Qt](CppHelloQt.md) program using the [Qt
+Creator](CppQtCreator.md) [IDE](CppIde.md) under the
+[Ubuntu](CppUbuntu.md) [operating system](CppOs.md) for the
+[Symbian](CppSymbian.md) [platform](CppOs.md).
 
  
 
@@ -44,37 +44,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Mobile](PicMobile.png) [Mobile
-    application](CppMobileApplication.htm)
+    application](CppMobileApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.htm)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.md)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -84,7 +82,9 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppHelloQtQtCreatorUbuntuSymbian.pro
+ 
+
+[Qt project file](CppQtProjectFile.md): CppHelloQtQtCreatorUbuntuSymbian.pro
 -----------------------------------------------------------------------------
 
  

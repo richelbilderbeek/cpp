@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPen](CppQPen.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPen](CppQPen.md)
 =====================================================
 
  
 
-[QPen](CppQPen.htm) is a [Qt](CppQt.htm) [class](CppClass.htm) for a
+[QPen](CppQPen.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
 pen.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[QPen](CppQPen.htm) is used in, among others:
+[QPen](CppQPen.md) is used in, among others:
 
 -   ...
 

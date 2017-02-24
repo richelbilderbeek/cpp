@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [OGRE](CppOgre.htm)
+([C++](Cpp.md)) [OGRE](CppOgre.md)
 ====================================
 
  
 
-[OGRE](CppOgre.htm) is a [3D](Cpp3d.htm) rendering
-[library](CppLibrary.htm).
+[OGRE](CppOgre.md) is a [3D](Cpp3d.md) rendering
+[library](CppLibrary.md).
 
  
 

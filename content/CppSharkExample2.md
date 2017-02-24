@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Example 2: 'friendly' neural net getting ready to tackle the XOR problem](CppSharkExample2.htm)
+([C++](Cpp.md)) [Example 2: 'friendly' neural net getting ready to tackle the XOR problem](CppSharkExample2.md)
 =================================================================================================================
 
  
 
 [Shark example 2: 'friendly' neural net getting ready to tackle the XOR
-problem](CppSharkExample2.htm) is a [Shark](CppShark.htm) example to let
-a [neural network](CppNeuralNetwork.htm) train to solve the XOR problem.
+problem](CppSharkExample2.md) is a [Shark](CppShark.md) example to let
+a [neural network](CppNeuralNetwork.md) train to solve the XOR problem.
 
  
 
@@ -38,17 +38,15 @@ a [neural network](CppNeuralNetwork.htm) train to solve the XOR problem.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Shark](CppShark.htm): version 2.3.2
-
- 
+-   [Shark](CppShark.md): version 2.3.2
 
  
 
@@ -58,7 +56,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

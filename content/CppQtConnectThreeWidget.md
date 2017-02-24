@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtConnectThreeWidget](CppQtConnectThreeWidget.htm)
+([C++](Cpp.md)) [QtConnectThreeWidget](CppQtConnectThreeWidget.md)
 ====================================================================
 
  
@@ -22,11 +22,11 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtConnectThreeWidget](CppQtConnectThreeWidget.htm) is a [Qt](CppQt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) for a responsive
-connect-three game. [QtConnectThreeWidget](CppQtConnectThreeWidget.htm)
-is used in, among others, the [game](Games.htm)
-[ConnectThree](GameConnectThree.htm).
+[QtConnectThreeWidget](CppQtConnectThreeWidget.md) is a [Qt](CppQt.md)
+[widget](CppWidget.md) [class](CppClass.md) for a responsive
+connect-three game. [QtConnectThreeWidget](CppQtConnectThreeWidget.md)
+is used in, among others, the [game](Games.md)
+[ConnectThree](GameConnectThree.md).
 
 Technical facts
 ---------------
@@ -109,5 +109,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

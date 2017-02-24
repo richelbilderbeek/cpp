@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [qmemarray.h: No such file or directory](CppInstallErrorQmemarrayHnoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [qmemarray.h: No such file or directory](CppInstallErrorQmemarrayHnoSuchFileOrDirectory.md)
 =============================================================================================================
 
  
 
-[Install error](CppInstallError.htm) that can occur when installing
-[Qwt](CppQwt.htm) under [Windows](CppWindows.htm) 7.
+[Install error](CppInstallError.md) that can occur when installing
+[Qwt](CppQwt.md) under [Windows](CppWindows.md) 7.
 
  
 

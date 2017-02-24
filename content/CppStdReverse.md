@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::reverse](CppReverse.htm)
+([C++](Cpp.md)) [std::reverse](CppReverse.md)
 ===============================================
 
  
 
-[std::reverse](CppReverse.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to reverse the contents of a
-[container](CppContainer.htm).
+[std::reverse](CppReverse.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to reverse the contents of a
+[container](CppContainer.md).
 
  
 

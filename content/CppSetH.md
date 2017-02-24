@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [set.h](CppSetH.htm)
+([C++](Cpp.md)) [set.h](CppSetH.md)
 =====================================
 
  
 
-[set.h](CppSetH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the
-[definitions](CppDefinition.htm) of some sets (incomplete list):
+[set.h](CppSetH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the
+[definitions](CppDefinition.md) of some sets (incomplete list):
 
--   [std::set](CppSet.htm)
+-   [std::set](CppSet.md)
 
  
 

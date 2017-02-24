@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [clocale.h](CppClocaleH.htm)
+([C++](Cpp.md)) [clocale.h](CppClocaleH.md)
 =============================================
 
  
 
-[clocale.h](CppClocaleH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) for localization.
+[clocale.h](CppClocaleH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) for localization.
 
  
 

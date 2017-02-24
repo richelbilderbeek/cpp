@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [default](CppDefault.htm)
+([C++](Cpp.md)) [default](CppDefault.md)
 ==========================================
 
  
 
-[default](CppDefault.htm) is a [keyword](CppKeyword.htm) used in a
-[switch](CppSwitch.htm) statement. If there is no [case](CppCase.htm) to
-[switch](CppSwitch.htm) on, [default](CppDefault.htm) can be used
-optionally for non-[case](CppCase.htm) values.
+[default](CppDefault.md) is a [keyword](CppKeyword.md) used in a
+[switch](CppSwitch.md) statement. If there is no [case](CppCase.md) to
+[switch](CppSwitch.md) on, [default](CppDefault.md) can be used
+optionally for non-[case](CppCase.md) values.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [GMP install error: No usable m4 in \$PATH or /usr/5bin](CppInstallErrorGmpNoUsableM4InPathOrUsr5bin.htm)
+([C++](Cpp.md)) [GMP install error: No usable m4 in \$PATH or /usr/5bin](CppInstallErrorGmpNoUsableM4InPathOrUsr5bin.md)
 ==========================================================================================================================
 
  
 
-[Install error](CppInstallError.htm).
+[Install error](CppInstallError.md).
 
  
 
@@ -38,7 +38,7 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-Downloaded the [GMP](CppGmp.htm) source code, version 5.0.1. Extracted
+Downloaded the [GMP](CppGmp.md) source code, version 5.0.1. Extracted
 the files. Started 'configure':
 
  

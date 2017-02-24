@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QRect](CppQRect.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QRect](CppQRect.md)
 =======================================================
 
  
 
-[QRect](CppQRect.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QRect](CppQRect.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 

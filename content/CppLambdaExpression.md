@@ -12,43 +12,43 @@
 
  
 
-([C++](Cpp.htm)) [lambda expressions](CppLambdaExpression.htm)
+([C++](Cpp.md)) [lambda expressions](CppLambdaExpression.md)
 ==============================================================
 
  
 
-The use of [lambda expressions](CppLambdaExpression.htm) is a technique
-that can be used, depending on the [standard](CppStandard.htm) used:
+The use of [lambda expressions](CppLambdaExpression.md) is a technique
+that can be used, depending on the [standard](CppStandard.md) used:
 
--   ![C++98](PicCpp98.png) [lambda expressions](CppLambdaExpression.htm)
-    in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
--   ![C++11](PicCpp11.png) [lambda expressions](CppLambdaExpression.htm)
-    in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
-
- 
-
-The speed of [C++98](Cpp98.htm) [Boost.Lambda](CppLambda.htm) and
-[C++11](Cpp11.htm) [lambda expressions](CppLambdaExpression.htm) are
-compared and [profiled](CppProfiling.htm) (for only one simple
-[function](CppFunction.htm)) in [Answer of exercise \#7:
-AddOne](CppExerciseAddOneAnswer.htm).
+-   ![C++98](PicCpp98.png) [lambda expressions](CppLambdaExpression.md)
+    in the [C++98](Cpp98.md) [standard](CppStandard.md)
+-   ![C++11](PicCpp11.png) [lambda expressions](CppLambdaExpression.md)
+    in the [C++11](Cpp11.md) [standard](CppStandard.md)
 
  
 
- 
+The speed of [C++98](Cpp98.md) [Boost.Lambda](CppLambda.md) and
+[C++11](Cpp11.md) [lambda expressions](CppLambdaExpression.md) are
+compared and [profiled](CppProfiling.md) (for only one simple
+[function](CppFunction.md)) in [Answer of exercise \#7:
+AddOne](CppExerciseAddOneAnswer.md).
 
  
 
  
 
-![C++98](PicCpp98.png) [lambda expression](CppLambdaExpression.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+ 
+
+ 
+
+![C++98](PicCpp98.png) [lambda expression](CppLambdaExpression.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 -------------------------------------------------------------------------------------------------------------------------
 
  
 
-[lambda expressions](CppLambdaExpression.htm) are not directly supported
-by the [C++98](Cpp98.htm) [standard](CppStandard.htm).
-[Boost.Lambda](CppLambda.htm), however, can be used instead:
+[lambda expressions](CppLambdaExpression.md) are not directly supported
+by the [C++98](Cpp98.md) [standard](CppStandard.md).
+[Boost.Lambda](CppLambda.md), however, can be used instead:
 
  
 
@@ -66,21 +66,21 @@ by the [C++98](Cpp98.htm) [standard](CppStandard.htm).
 
  
 
-![C++11](PicCpp11.png) [lambda expression](CppLambdaExpression.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [lambda expression](CppLambdaExpression.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 -------------------------------------------------------------------------------------------------------------------------
 
  
 
 Prefer a named function object to a [lambda
-expression](CppLambdaExpression.htm) if the operation requires
-[comments](CppComment.htm) \[3\]. Prefer a named function object to a
-[lambda expression](CppLambdaExpression.htm) if the operation is
+expression](CppLambdaExpression.md) if the operation requires
+[comments](CppComment.md) \[3\]. Prefer a named function object to a
+[lambda expression](CppLambdaExpression.md) if the operation is
 generally useful \[4\]. Keep [lambda
-expressions](CppLambdaExpression.htm) short \[5\]. For maintainability
+expressions](CppLambdaExpression.md) short \[5\]. For maintainability
 and correctness, be careful about capture by reference in a [lambda
-expression](CppLambdaExpression.htm) \[6\]. Let the
-[compiler](CppCompiler.htm) deduce the [return type](CppReturnType.htm)
-of a [lambda expression](CppLambdaExpression.htm) \[7\].
+expression](CppLambdaExpression.md) \[6\]. Let the
+[compiler](CppCompiler.md) deduce the [return type](CppReturnType.md)
+of a [lambda expression](CppLambdaExpression.md) \[7\].
 
  
 
@@ -89,8 +89,8 @@ of a [lambda expression](CppLambdaExpression.htm) \[7\].
 
  
 
-[lambda expressions](CppLambdaExpression.htm) can be used for on-the-fly
-[functors](CppFunctor.htm):
+[lambda expressions](CppLambdaExpression.md) can be used for on-the-fly
+[functors](CppFunctor.md):
 
  
 
@@ -100,7 +100,7 @@ of a [lambda expression](CppLambdaExpression.htm) \[7\].
 
  
 
-Let's zoom in at the [lambda expressions](CppLambdaExpression.htm):
+Let's zoom in at the [lambda expressions](CppLambdaExpression.md):
 
  
 
@@ -111,16 +111,16 @@ Let's zoom in at the [lambda expressions](CppLambdaExpression.htm):
  
 
 The '\[\]' denotes that there is an empty capture list: the [lambda
-expressions](CppLambdaExpression.htm) does not need to be fed a constant
-from its environment. The '(**[const](CppConst.htm)**
-**[int](CppInt.htm)** a, **[const](CppConst.htm)** **[int](CppInt.htm)**
+expressions](CppLambdaExpression.md) does not need to be fed a constant
+from its environment. The '(**[const](CppConst.md)**
+**[int](CppInt.md)** a, **[const](CppConst.md)** **[int](CppInt.htm)**
 b)' are the names and data types to [lambda
-expressions](CppLambdaExpression.htm) works on: for
-[sorting](CppSort.htm) one needs two [arguments](CppArgument.htm): these
-are called 'a' and 'b' and are [const](CppConst.htm)
-[integers](CppInt.htm). Finally, the '{ **[return](CppReturn.htm)**
-[std::abs](CppAbs.htm)(a) &lt; [std::abs](CppAbs.htm)(b); }' describes
-how the [arguments](CppArgument.htm) are used to draw a conclusion.
+expressions](CppLambdaExpression.md) works on: for
+[sorting](CppSort.md) one needs two [arguments](CppArgument.md): these
+are called 'a' and 'b' and are [const](CppConst.md)
+[integers](CppInt.md). Finally, the '{ **[return](CppReturn.md)**
+[std::abs](CppAbs.md)(a) &lt; [std::abs](CppAbs.md)(b); }' describes
+how the [arguments](CppArgument.md) are used to draw a conclusion.
 
  
 
@@ -136,7 +136,7 @@ The example below does not show a capture list, the example below does:
 
 In the example above, 'x' is in the capture list: the capture list
 consists of variables that are needed in the [lambda
-expressions](CppLambdaExpression.htm).
+expressions](CppLambdaExpression.md).
 
  
 
@@ -148,7 +148,7 @@ expressions](CppLambdaExpression.htm).
 
  
 
-![C++11](PicCpp11.png) Program flow of a [lambda expression](CppLambdaExpression.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) Program flow of a [lambda expression](CppLambdaExpression.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -158,13 +158,13 @@ expressions](CppLambdaExpression.htm).
 
  
 
-Program flow in a [C++11](Cpp11.htm) [lambda
-expression](CppLambdaExpression.htm) differs from a [C++98](Cpp98.htm)
-[lambda expression](CppLambdaExpression.htm) or
-[BOOST\_FOREACH](CppBOOST_FOREACH.htm): if you want to
-[return](CppReturn.htm) from a [function](CppFunction.htm), all that
-happens is that the [std::for\_each](CppFor_each.htm) (or other
-[algorithm](CppAlgorithm.htm)) is terminated. The example below shows
+Program flow in a [C++11](Cpp11.md) [lambda
+expression](CppLambdaExpression.md) differs from a [C++98](Cpp98.md)
+[lambda expression](CppLambdaExpression.md) or
+[BOOST\_FOREACH](CppBOOST_FOREACH.md): if you want to
+[return](CppReturn.md) from a [function](CppFunction.md), all that
+happens is that the [std::for\_each](CppFor_each.md) (or other
+[algorithm](CppAlgorithm.md)) is terminated. The example below shows
 this.
 
  
@@ -193,13 +193,13 @@ Screen output:
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [Lambda expressions](CppLambdaExpression.htm) over
-    [binders](CppBinder.htm) \[8\]
+-   Prefer [Lambda expressions](CppLambdaExpression.md) over
+    [binders](CppBinder.md) \[8\]
 
  
 
@@ -211,7 +211,7 @@ Screen output:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -220,26 +220,26 @@ Screen output:
     support](http://gcc.gnu.org/projects/cxx0x.html)
 2.  [Aaron Ballman's blog about
     C++0x](http://blog.aaronballman.com/tag/c0x)
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[6\] Prefer a named function object to a lambda
     if the operation requires comments'
-4.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+4.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[7\] Prefer a named function object to a lambda
     if the operation is generally useful'
-5.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+5.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[8\] Keep lambdas short'
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[9\] For maintainability and correctness, be
     careful about capture by reference'
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[10\] Let the compiler deduce the return type of
     a lambda'
-8.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+8.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Prefer Lambdas over
     Binders'
 

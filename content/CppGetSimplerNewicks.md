@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetSimplerNewicks](CppGetSimplerNewicks.htm)
+([C++](Cpp.md)) [GetSimplerNewicks](CppGetSimplerNewicks.md)
 ==============================================================
 
  
 
-[GetSimplerNewicks](CppGetSimplerNewicks.htm) is a
-[Newick](CppNewick.htm) [code snippet](CppCodeSnippets.htm) to obtains
-simpler [Newicks](CppNewick.htm) from a [Newick](CppNewick.htm), is if
+[GetSimplerNewicks](CppGetSimplerNewicks.md) is a
+[Newick](CppNewick.md) [code snippet](CppCodeSnippets.md) to obtains
+simpler [Newicks](CppNewick.md) from a [Newick](CppNewick.md), is if
 one less observation had taken place.
 
  

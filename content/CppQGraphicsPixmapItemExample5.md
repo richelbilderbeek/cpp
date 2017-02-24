@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [QGraphicsPixmapItemExample5](CppQGraphicsPixmapItemExample5.htm)
+([C++](Cpp.md)) [QGraphicsPixmapItemExample5](CppQGraphicsPixmapItemExample5.md)
 ==================================================================================
 
  
 
 [QGraphicsPixmapItem example 5: respond to cursor moving over
-pixmap](CppQGraphicsPixmapItemExample5.htm) is a
-[QGraphicsPixmapItem](CppQGraphicsPixmapItem.htm) example. This example
+pixmap](CppQGraphicsPixmapItemExample5.md) is a
+[QGraphicsPixmapItem](CppQGraphicsPixmapItem.md) example. This example
 shows how to let the [QGraphicsPixmapItem](CppQGraphicsPixmapItem.png)
-[emit](CppEmit.htm) a [(Boost) signal](CppBoostSignal.htm) so that the
-[QGraphicsView](CppQGraphicsView.htm) can rotate it. It is usefull to be
-able to send signals to the [QGraphicsView](CppQGraphicsView.htm),
-because [QGraphicsView](CppQGraphicsView.htm) is a
-[QObject](CppQObject.htm), where
-[QGraphicsPixmapItem](CppQGraphicsPixmapItem.htm) is not. Due to this,
-the [item](CppQGraphicsPixmapItem.htm) cannot work with [Qt
-signals](CppQtSignal.htm), but the [view](CppQGraphicsView.htm) can
-(note that [QGraphicsObject](CppQGraphicsObject.htm) is a
-[QGraphicsItem](CppQGraphicsItem.htm) that can work with signals and
+[emit](CppEmit.md) a [(Boost) signal](CppBoostSignal.md) so that the
+[QGraphicsView](CppQGraphicsView.md) can rotate it. It is usefull to be
+able to send signals to the [QGraphicsView](CppQGraphicsView.md),
+because [QGraphicsView](CppQGraphicsView.md) is a
+[QObject](CppQObject.md), where
+[QGraphicsPixmapItem](CppQGraphicsPixmapItem.md) is not. Due to this,
+the [item](CppQGraphicsPixmapItem.md) cannot work with [Qt
+signals](CppQtSignal.md), but the [view](CppQGraphicsView.md) can
+(note that [QGraphicsObject](CppQGraphicsObject.md) is a
+[QGraphicsItem](CppQGraphicsItem.md) that can work with signals and
 slots).
 
  
@@ -43,47 +43,47 @@ slots).
  
 
 [QGraphicsPixmapItem example 5: respond to cursor moving over
-pixmap](CppQGraphicsPixmapItemExample5.htm) is the predecessor of
+pixmap](CppQGraphicsPixmapItemExample5.md) is the predecessor of
 [QGraphicsPixmapItem example 6: let the view respond to cursor moving
-over pixmap](CppQGraphicsPixmapItemExample6.htm), which is the
+over pixmap](CppQGraphicsPixmapItemExample6.md), which is the
 predecessor of [QGraphicsPixmapItem example 7: respond to cursor moving
 over pixmap while holding the cursor
-still](CppQGraphicsPixmapItemExample7.htm).
+still](CppQGraphicsPixmapItemExample7.md).
 
 Technical facts
 ---------------
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -96,7 +96,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppQGraphicsPixmapItemExample5/CppQGraphicsPixmapItemExample5.pro
+[Qt project file](CppQtProjectFile.md): ./CppQGraphicsPixmapItemExample5/CppQGraphicsPixmapItemExample5.pro
 ------------------------------------------------------------------------------------------------------------
 
  
@@ -219,5 +219,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

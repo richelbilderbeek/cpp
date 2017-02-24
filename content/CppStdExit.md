@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::exit](CppExit.htm)
+([C++](Cpp.md)) [std::exit](CppExit.md)
 =========================================
 
  
 
-[std::exit](CppExit.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to terminate the program. The
-[argument](CppArgument.htm) in [std::exit](CppExit.htm) is the error
-code [returned](CppReturn.htm) by the program.
+[std::exit](CppExit.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to terminate the program. The
+[argument](CppArgument.md) in [std::exit](CppExit.md) is the error
+code [returned](CppReturn.md) by the program.
 
  
 

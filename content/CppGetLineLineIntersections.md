@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetLineLineIntersections](CppGetLineLineIntersections.htm)
+([C++](Cpp.md)) [GetLineLineIntersections](CppGetLineLineIntersections.md)
 ============================================================================
 
  
 
-[GetLineLineIntersections](CppGetLineLineIntersections.htm) is a [code
-snippet](CppCodeSnippets.htm) to calculate the zero or one intersecion
+[GetLineLineIntersections](CppGetLineLineIntersections.md) is a [code
+snippet](CppCodeSnippets.md) to calculate the zero or one intersecion
 points of two lines.
 
  
@@ -43,7 +43,7 @@ Testing code
  
 
 See [Boost.Geometry example 2: Calculate the intersection of two
-lines](CppGeometryExample2.htm) for the testing code.
+lines](CppGeometryExample2.md) for the testing code.
 
  
 
@@ -64,5 +64,5 @@ lines](CppGeometryExample2.htm) for the testing code.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

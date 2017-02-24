@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [sstream.h](CppSstreamH.htm)
+([C++](Cpp.md)) [sstream.h](CppSstreamH.md)
 =============================================
 
  
 
-[sstream.h](CppSstreamH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) for stringstreams.
+[sstream.h](CppSstreamH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) for stringstreams.
 
  
 
-List of [definitions](CppDefinition.htm) in [sstream.h](CppSstreamH.htm)
+List of [definitions](CppDefinition.md) in [sstream.h](CppSstreamH.md)
 (incomplete):
 
--   [std::istringstream](CppIstringstream.htm)
--   [std::ostringstream](CppOstringstream.htm)
--   [std::stringstream](CppStringstream.htm)
+-   [std::istringstream](CppIstringstream.md)
+-   [std::ostringstream](CppOstringstream.md)
+-   [std::stringstream](CppStringstream.md)
 
  
 
@@ -39,15 +39,15 @@ List of [definitions](CppDefinition.htm) in [sstream.h](CppSstreamH.htm)
 
  
 
-Example: [ContainerToStr](CppContainerToStr.htm)
+Example: [ContainerToStr](CppContainerToStr.md)
 ================================================
 
  
 
-[ContainerToStr](CppContainerToStr.htm) is a
-[container](CppContainer.htm) and [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[container](CppContainer.htm) to [std::string](CppString.htm).
+[ContainerToStr](CppContainerToStr.md) is a
+[container](CppContainer.md) and [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[container](CppContainer.md) to [std::string](CppString.md).
 
  
 

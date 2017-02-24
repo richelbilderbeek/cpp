@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CopyFirst](CppCopyFirst.htm)
+([C++](Cpp.md)) [CopyFirst](CppCopyFirst.md)
 ==============================================
 
  
 
-[CopyFirst](CppCopyFirst.htm) is a [container](CppContainer.htm) [code
-snippets](CppCodeSnippets.htm) to copy the first element of the
+[CopyFirst](CppCopyFirst.md) is a [container](CppContainer.md) [code
+snippets](CppCodeSnippets.md) to copy the first element of the
 std::pairs in a std::vector.
 
  
@@ -31,8 +31,8 @@ std::pairs in a std::vector.
 
  
 
-![STL](PicStl.png) [CopyFirst](CppCopyFirst.htm) using the
-[STL](CppStl.htm) only
+![STL](PicStl.png) [CopyFirst](CppCopyFirst.md) using the
+[STL](CppStl.md) only
 
  
 
@@ -50,8 +50,8 @@ std::pairs in a std::vector.
 
  
 
-![Boost](PicBoost.png) [CopyFirst](CppCopyFirst.htm) using
-[Boost](CppBoost.htm)
+![Boost](PicBoost.png) [CopyFirst](CppCopyFirst.md) using
+[Boost](CppBoost.md)
 
  
 
@@ -69,7 +69,7 @@ std::pairs in a std::vector.
 
  
 
-![C++11](PicCpp11.png) [CopyFirst](CppCopyFirst.htm) test
+![C++11](PicCpp11.png) [CopyFirst](CppCopyFirst.md) test
 ---------------------------------------------------------
 
  

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [default constructor](CppDefaultConstructor.htm)
+([C++](Cpp.md)) [default constructor](CppDefaultConstructor.md)
 =================================================================
 
  
 
-'A [default constructor](CppDefaultConstructor.htm) is a
-[constructor](CppConstructor.htm) which needs no
-[arguments](CppArgument.htm).' \[2\]
+'A [default constructor](CppDefaultConstructor.md) is a
+[constructor](CppConstructor.md) which needs no
+[arguments](CppArgument.md).' \[2\]
 
  
 
@@ -43,13 +43,13 @@
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Give a [class](CppClass.htm) a [default
-    constructor](CppDefaultConstructor.htm) if and only if there is a
+-   Give a [class](CppClass.md) a [default
+    constructor](CppDefaultConstructor.md) if and only if there is a
     "natural" default value \[1\]
 
  
@@ -62,12 +62,12 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
     Advice, page 525: '\[7\] Give a class a default constructor if and
     only if there is a "natural" default value'
@@ -95,5 +95,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

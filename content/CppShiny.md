@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Shiny](CppShiny.htm)
+([C++](Cpp.md)) [Shiny](CppShiny.md)
 ======================================
 
  
 
-[Shiny](CppShiny.htm) is a free [C++](Cpp.htm)
-[profiler](CppProfiler.htm). It works under (amongst other)
-[G++](CppGpp.htm). I have not got it to work under [C++
-Builder](CppBuilder.htm).
+[Shiny](CppShiny.md) is a free [C++](Cpp.md)
+[profiler](CppProfiler.md). It works under (amongst other)
+[G++](CppGpp.md). I have not got it to work under [C++
+Builder](CppBuilder.md).
 
  
 
@@ -35,12 +35,12 @@ Builder](CppBuilder.htm).
 Using Shiny with C++ Builder
 ----------------------------
 
-You cannot use [Shiny](CppShiny.htm) in [C++ Builder](CppBuilder.htm).
+You cannot use [Shiny](CppShiny.md) in [C++ Builder](CppBuilder.md).
 
  
 
-But you can use the [preprocessor](CppPreprocessor.htm) to remove the
-[Shiny](CppShiny.htm) [macro's](CppMacro.htm):
+But you can use the [preprocessor](CppPreprocessor.md) to remove the
+[Shiny](CppShiny.md) [macro's](CppMacro.md):
 
  
 
@@ -63,8 +63,8 @@ Example
 
  
 
-Suppose we want to compare the runtime speed of the [STL](CppStl.htm)
-[std::sort](CppSort.htm) and [bubble sort](CppBubbleSort.htm).
+Suppose we want to compare the runtime speed of the [STL](CppStl.md)
+[std::sort](CppSort.md) and [bubble sort](CppBubbleSort.md).
 
  
 

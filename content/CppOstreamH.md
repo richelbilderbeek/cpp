@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [ostream.h](CppOstreamH.htm)
+([C++](Cpp.md)) [ostream.h](CppOstreamH.md)
 =============================================
 
  
 
-C++ Standard [header file](CppHeaderFile.htm) \[1\].
+C++ Standard [header file](CppHeaderFile.md) \[1\].
 
  
 
@@ -35,7 +35,7 @@ C++ Standard [header file](CppHeaderFile.htm) \[1\].
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [operator=](CppOperatorAssign.htm)
+([C++](Cpp.md)) [operator=](CppOperatorAssign.md)
 ===================================================
 
  
 
-[operator=](CppOperatorAssign.htm) is an [operator](CppOperator.htm),
-that is called the [assign operator](CppOperatorAssign.htm) and
-[assignment operator](CppOperatorAssign.htm).
+[operator=](CppOperatorAssign.md) is an [operator](CppOperator.md),
+that is called the [assign operator](CppOperatorAssign.md) and
+[assignment operator](CppOperatorAssign.md).
 
  
 
@@ -75,28 +75,28 @@ Handle assignment to self: Copy and swap
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   In [class design](CppClassDesign.htm), have [assignment
-    operators](CppOperatorAssign.htm) return a reference to
-    \*[this](CppThis.htm) \[1,3\].
--   In [class design](CppClassDesign.htm), also handle assignment to
+-   In [class design](CppClassDesign.md), have [assignment
+    operators](CppOperatorAssign.md) return a reference to
+    \*[this](CppThis.md) \[1,3\].
+-   In [class design](CppClassDesign.md), also handle assignment to
     self \[2,4\]. To handle assignment to self there are two techniques:
     'identity test' or 'copy and swap'.
--   Prefer the [{}-initializer](CppListInitialization.htm)
-    [syntax](CppSyntax.htm) for [declarations](CppDeclaration.htm) with
-    a named type \[7\]. Prefer the [=](CppOperatorAssign.htm)
-    [syntax](CppSyntax.htm) for the
-    [initialization](CppListInitialization.htm) in
-    [declarations](CppDeclaration.htm) using [auto](CppAuto.htm) \[6\]
+-   Prefer the [{}-initializer](CppListInitialization.md)
+    [syntax](CppSyntax.md) for [declarations](CppDeclaration.md) with
+    a named type \[7\]. Prefer the [=](CppOperatorAssign.md)
+    [syntax](CppSyntax.md) for the
+    [initialization](CppListInitialization.md) in
+    [declarations](CppDeclaration.md) using [auto](CppAuto.md) \[6\]
 -   Reversing the order of the pair of symbols in the
-    [operators](CppOperator.htm) [!=](CppOperatorNotEqual.htm),
-    [&gt;=](CppOperatorGreaterEqual.htm) and
-    [&lt;=](CppOperatorLessEqual.htm) (by writing them as =!, =&gt; and
-    =&lt; respectively) is normally a [syntax error](CppSyntaxError.htm)
+    [operators](CppOperator.md) [!=](CppOperatorNotEqual.md),
+    [&gt;=](CppOperatorGreaterEqual.md) and
+    [&lt;=](CppOperatorLessEqual.md) (by writing them as =!, =&gt; and
+    =&lt; respectively) is normally a [syntax error](CppSyntaxError.md)
     \[5\]
 -   
 
@@ -110,15 +110,15 @@ Handle assignment to self: Copy and swap
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd
     edition).ISBN: 0-321-33487-6. Item 10: Have assignment operators
     return a reference to \*this.
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd
     edition).ISBN: 0-321-33487-6. Item 11: Handle assignment to self
     in operator=.
 3.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
@@ -136,11 +136,11 @@ Handle assignment to self: Copy and swap
     =&lt; respectively) is normally a syntax error. In some cases,
     writing != as =! will not be a syntax error, but almost certainly
     will be a logic error that has an effect at execution time.'
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice, page 169: '\[20\] Prefer the = syntax for the initialization
     in declarations using auto'
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice, page 169: '\[19\] Prefer the {}-initializer syntax for
     declarations with a named type'

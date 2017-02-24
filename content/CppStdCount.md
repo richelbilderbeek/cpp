@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [count](CppCount.htm)
+([C++](Cpp.md)) [count](CppCount.md)
 ======================================
 
  
 
-This page is about two different [count](CppCount.htm)s:
+This page is about two different [count](CppCount.md)s:
 
 -   std::count: a standard algorithm to count elements in a
     one-dimensional container
@@ -33,15 +33,15 @@ This page is about two different [count](CppCount.htm)s:
 
  
 
-[std::count](CppCount.htm)
+[std::count](CppCount.md)
 --------------------------
 
  
 
-[std::count](CppCount.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) for counting elements in a
-[container](CppContainer.htm). For conditional counting use
-[std::count\_if](CppCount_if.htm).
+[std::count](CppCount.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) for counting elements in a
+[container](CppContainer.md). For conditional counting use
+[std::count\_if](CppCount_if.md).
 
  
 
@@ -59,13 +59,13 @@ This page is about two different [count](CppCount.htm)s:
 
  
 
-[Count](CppCount.htm)
+[Count](CppCount.md)
 ---------------------
 
  
 
-[Count](CppCount.htm) is a [function](CppFunction.htm) to count elements
-in a two-dimensional [container](CppContainer.htm).
+[Count](CppCount.md) is a [function](CppFunction.md) to count elements
+in a two-dimensional [container](CppContainer.md).
 
  
 
@@ -81,7 +81,7 @@ in a two-dimensional [container](CppContainer.htm).
 
  
 
-### ![C++11](PicCpp11.png)![STL](PicStl.png) [Count](CppCount.htm) using a [C++11](Cpp11.htm) [lambda expression](CppLambdaExpression.htm)
+### ![C++11](PicCpp11.png)![STL](PicStl.png) [Count](CppCount.md) using a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.htm)
 
  
 
@@ -99,11 +99,11 @@ in a two-dimensional [container](CppContainer.htm).
 
  
 
-### ![C++98](PicCpp98.png) [Count](CppCount.htm) using a [for](CppFor.htm)-loop
+### ![C++98](PicCpp98.png) [Count](CppCount.md) using a [for](CppFor.md)-loop
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
@@ -121,16 +121,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops'
 

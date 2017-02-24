@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [AssertExample3](CppAssertExample3.htm)
+([C++](Cpp.md)) [AssertExample3](CppAssertExample3.md)
 ========================================================
 
  
@@ -45,5 +45,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

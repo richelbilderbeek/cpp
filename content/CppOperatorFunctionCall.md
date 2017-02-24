@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [operator()](CppOperatorFunctionCall.htm)
+([C++](Cpp.md)) [operator()](CppOperatorFunctionCall.md)
 ==========================================================
 
  
 
-[operator()()](CppOperatorFunctionCall.htm) (pronounciation: 'function
-call operator') is the [operator](CppOperator.htm) typically used by
-[functors](CppFunctor.htm).
+[operator()()](CppOperatorFunctionCall.md) (pronounciation: 'function
+call operator') is the [operator](CppOperator.md) typically used by
+[functors](CppFunctor.md).
 
  
 
@@ -50,7 +50,7 @@ Example
 
  
 
-Example: [GreaterThan](CppFunctorGreaterThan.htm)
+Example: [GreaterThan](CppFunctorGreaterThan.md)
 -------------------------------------------------
 
  
@@ -69,12 +69,12 @@ Example: [GreaterThan](CppFunctorGreaterThan.htm)
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [operator()()](CppOperatorFunctionCall.htm) for call semantics,
+-   Use [operator()()](CppOperatorFunctionCall.md) for call semantics,
     for subscripting, and for selection based on a multiple values \[1\]
 
  
@@ -87,12 +87,12 @@ Example: [GreaterThan](CppFunctorGreaterThan.htm)
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 19.5.
     Advice. page 576: '\[2\] Use operator()() for call semantics, for
     subscripting, and for selection based on a multiple values'

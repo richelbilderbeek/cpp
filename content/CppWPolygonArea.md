@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPolygonArea](CppWPolygonArea.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPolygonArea](CppWPolygonArea.md)
 =========================================================================
 
  
 
-[Wt::WPolygonArea](CppWPolygonArea.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a [polygon](CppPolygon.htm)[]().
+[Wt::WPolygonArea](CppWPolygonArea.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a [polygon](CppPolygon.md)[]().
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WPolygonArea](CppWPolygonArea.htm) is used in, among others:
+[Wt::WPolygonArea](CppWPolygonArea.md) is used in, among others:
 
 -   ...
 

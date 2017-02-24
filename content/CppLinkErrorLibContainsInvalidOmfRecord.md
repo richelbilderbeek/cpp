@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [\[...\]\\NAME.LIB contains invalid OMF record, type 0x21 (possibly COFF)](CppLinkErrorLibContainsInvalidOmfRecord.htm)
+([C++](Cpp.md)) [\[...\]\\NAME.LIB contains invalid OMF record, type 0x21 (possibly COFF)](CppLinkErrorLibContainsInvalidOmfRecord.md)
 ========================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

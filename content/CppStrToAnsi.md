@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [StrToAnsi](CppStrToAnsi.htm)
+([C++](Cpp.md)) [StrToAnsi](CppStrToAnsi.md)
 ==============================================
 
  
 
-[StrToAnsi](CppStrToAnsi.htm) is a [conversion](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to [AnsiString](CppAnsiString.htm).
+[StrToAnsi](CppStrToAnsi.md) is a [conversion](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to [AnsiString](CppAnsiString.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [IpAddress](CppIpAddress.htm)
+([C++](Cpp.md)) [IpAddress](CppIpAddress.md)
 ==============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[IpAddress](CppIpAddress.htm) is a [class](CppClass.htm) for containing
+[IpAddress](CppIpAddress.md) is a [class](CppClass.md) for containing
 an IP address.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

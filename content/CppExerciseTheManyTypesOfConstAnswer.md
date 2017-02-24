@@ -12,50 +12,46 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#5: The many types of const](CppExerciseTheManyTypesOfConstAnswer.htm)
+([C++](Cpp.md)) [Answer of exercise \#5: The many types of const](CppExerciseTheManyTypesOfConstAnswer.md)
 ============================================================================================================
 
  
 
 This is the answer of [exercise \#5: The many types of
-const](CppExerciseTheManyTypesOfConst.htm).
+const](CppExerciseTheManyTypesOfConst.md).
 
  
 
-The five types of [const](CppConst.htm) are:
+The five types of [const](CppConst.md) are:
 
-1.  [const variable](CppConstVariable.htm)
-2.  [const argument](CppConstArgument.htm)
-3.  [const return type](CppConstReturnType.htm)
-4.  [const member function](CppConstMemberFunction.htm)
-5.  [const member](CppConstMember.htm)
+1.  [const variable](CppConstVariable.md)
+2.  [const argument](CppConstArgument.md)
+3.  [const return type](CppConstReturnType.md)
+4.  [const member function](CppConstMemberFunction.md)
+5.  [const member](CppConstMember.md)
 
  
 
-The five types of [const](CppConst.htm) prevent the following from
+The five types of [const](CppConst.md) prevent the following from
 modification:
 
  
 
-1.  [const variable](CppConstVariable.htm): the
-    [variable](CppVariable.htm)
-2.  [const argument](CppConstArgument.htm): the
-    [argument](CppArgument.htm)
-3.  [const return type](CppConstReturnType.htm): this only mostly
+1.  [const variable](CppConstVariable.md): the
+    [variable](CppVariable.md)
+2.  [const argument](CppConstArgument.md): the
+    [argument](CppArgument.md)
+3.  [const return type](CppConstReturnType.md): this only mostly
     applied to references to members of a class. Then,
-    [const](CppConst.htm) can prevent the original member from
+    [const](CppConst.md) can prevent the original member from
     being modified.
-4.  [const member function](CppConstMemberFunction.htm): all
-    non-[mutable](CppMutable.htm) class members
-5.  [const member](CppConstMember.htm): the member
+4.  [const member function](CppConstMemberFunction.md): all
+    non-[mutable](CppMutable.md) class members
+5.  [const member](CppConstMember.md): the member
 
  
 
-Below are examples of each type of [const](CppConst.htm).
-
- 
-
- 
+Below are examples of each type of [const](CppConst.md).
 
  
 
@@ -63,7 +59,11 @@ Below are examples of each type of [const](CppConst.htm).
 
  
 
-Example of a [const variable](CppConstVariable.htm)
+ 
+
+ 
+
+Example of a [const variable](CppConstVariable.md)
 ---------------------------------------------------
 
  
@@ -86,7 +86,7 @@ This applies to both local and global variables.
 
  
 
-Example of a [const argument](CppConstArgument.htm)
+Example of a [const argument](CppConstArgument.md)
 ---------------------------------------------------
 
  
@@ -105,7 +105,7 @@ Example of a [const argument](CppConstArgument.htm)
 
  
 
-Example of a [const return type](CppConstReturnType.htm)
+Example of a [const return type](CppConstReturnType.md)
 --------------------------------------------------------
 
  
@@ -124,13 +124,13 @@ Example of a [const return type](CppConstReturnType.htm)
 
  
 
-Example of a [const member function](CppConstMemberFunction.htm)
+Example of a [const member function](CppConstMemberFunction.md)
 ----------------------------------------------------------------
 
  
 
 Nearly all 'getters' are [const member
-functions](CppConstMemberFunction.htm).
+functions](CppConstMemberFunction.md).
 
  
 
@@ -148,7 +148,7 @@ functions](CppConstMemberFunction.htm).
 
  
 
-Example of a [const member](CppConstMember.htm)
+Example of a [const member](CppConstMember.md)
 -----------------------------------------------
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Bruce Eckel](CppBruceEckel.htm)
+([C++](Cpp.md)) [Bruce Eckel](CppBruceEckel.md)
 =================================================
 
  
 
-[Bruce Eckel](CppBruceEckel.htm) is the author of some freely
+[Bruce Eckel](CppBruceEckel.md) is the author of some freely
 downloadable programming-related books.
 
  
@@ -30,12 +30,12 @@ downloadable programming-related books.
 
  
 
-List of books (co-)authored by [Bruce Eckel](CppBruceEckel.htm) (incomplete list)
+List of books (co-)authored by [Bruce Eckel](CppBruceEckel.md) (incomplete list)
 ---------------------------------------------------------------------------------
 
  
 
-1.  [Bruce Eckel](CppBruceEckel.htm). Thinking in C++, second edition,
+1.  [Bruce Eckel](CppBruceEckel.md). Thinking in C++, second edition,
     volume 1. 2000. ISBN: 0-13-979809-9.
 
  

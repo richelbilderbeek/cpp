@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [EuclideanVector](CppEuclideanVector.htm)
+([C++](Cpp.md)) [EuclideanVector](CppEuclideanVector.md)
 ==========================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[CppEuclideanVector](CppEuclideanVector.htm) is a [class](CppClass.htm)
+[CppEuclideanVector](CppEuclideanVector.md) is a [class](CppClass.md)
 for an Euclidean (X-Y) vector.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

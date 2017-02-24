@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [AminoAcid](CppAminoAcid.htm)
+([C++](Cpp.md)) [AminoAcid](CppAminoAcid.md)
 ==============================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[AminoAcid](CppAminoAcid.htm) contains some [classes](CppClass.htm) to
+[AminoAcid](CppAminoAcid.md) contains some [classes](CppClass.md) to
 work with amino acids.
 
 Technical facts
@@ -352,5 +352,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

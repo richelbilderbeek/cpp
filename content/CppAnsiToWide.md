@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [AnsiToWide](CppAnsiToWide.htm)
+([C++](Cpp.md)) [AnsiToWide](CppAnsiToWide.md)
 ================================================
 
  
 
-[AnsiToWide](CppAnsiToWide.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[AnsiString](CppAnsiString.htm) to a [WideString](CppWideString.htm).
+[AnsiToWide](CppAnsiToWide.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[AnsiString](CppAnsiString.md) to a [WideString](CppWideString.md).
 
  
 

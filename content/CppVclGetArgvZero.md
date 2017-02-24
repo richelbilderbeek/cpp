@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Get argv\[0\] from VCL](CppVclGetArgvZero.htm)
+([C++](Cpp.md)) [Get argv\[0\] from VCL](CppVclGetArgvZero.md)
 ================================================================
 
  

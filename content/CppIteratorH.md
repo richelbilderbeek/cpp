@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [iterator.h](CppIteratorH.htm)
+([C++](Cpp.md)) [iterator.h](CppIteratorH.md)
 ===============================================
 
  
 
-[iterator.h](CppIteratorH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the
-[definitions](CppDefinition.htm) of some special
-[iterators](CppIterator.htm) (incomplete list):
+[iterator.h](CppIteratorH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the
+[definitions](CppDefinition.md) of some special
+[iterators](CppIterator.md) (incomplete list):
 
--   [std::istream\_iterator](CppIstream_iterator.htm)
--   [std::ostream\_iterator](CppOstream_iterator.htm)
--   [std::istreambuf\_iterator](CppIstreambuf_iterator.htm)
+-   [std::istream\_iterator](CppIstream_iterator.md)
+-   [std::ostream\_iterator](CppOstream_iterator.md)
+-   [std::istreambuf\_iterator](CppIstreambuf_iterator.md)
 
  
 

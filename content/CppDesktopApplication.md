@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Desktop](PicDesktop.png) [Desktop application](CppDesktopApplication.htm)
+([C++](Cpp.md)) ![Desktop](PicDesktop.png) [Desktop application](CppDesktopApplication.md)
 ============================================================================================
 
  
 
-A [desktop application](CppDesktopApplication.htm) is a type of
-[application](CppApplication.htm) that must be installed and executed on
+A [desktop application](CppDesktopApplication.md) is a type of
+[application](CppApplication.md) that must be installed and executed on
 a personal computer.
 
  
@@ -31,22 +31,22 @@ a personal computer.
 
  
 
-[Qt Creator project type](CppQtProjectType.htm)
+[Qt Creator project type](CppQtProjectType.md)
 -----------------------------------------------
 
  
 
-There are multiple [Qt Creator project type](CppQtProjectType.htm) for
-[desktop applications](CppDesktopApplication.htm):
+There are multiple [Qt Creator project type](CppQtProjectType.md) for
+[desktop applications](CppDesktopApplication.md):
 
  
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm): a [desktop
-    applications](CppDesktopApplication.htm) that must be called from
+    application](CppConsoleApplication.md): a [desktop
+    applications](CppDesktopApplication.md) that must be called from
     the command line and/or display plain text only
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm): a
-    [desktop applications](CppDesktopApplication.htm) that displays not
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md): a
+    [desktop applications](CppDesktopApplication.md) that displays not
     just plain text, but, for example, images
 
  

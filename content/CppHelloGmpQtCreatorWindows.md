@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ['Hello GMP' using Qt Creator under Windows](CppHelloGmpQtCreatorWindows.htm)
+([C++](Cpp.md)) ['Hello GMP' using Qt Creator under Windows](CppHelloGmpQtCreatorWindows.md)
 ==============================================================================================
 
  
@@ -21,16 +21,16 @@
 
  
 
-[Hello GMP](CppHelloGmp.htm) using [Qt Creator](CppQtCreator.htm) under
+[Hello GMP](CppHelloGmp.md) using [Qt Creator](CppQtCreator.md) under
 Windows fails.
 
  
 
 After successfully [installing GMP under Cygwin (under
-Windows)](CppGmpInstallCygwin.htm), I tried to [port GMP from Cygwin
-(under Windows) to Windows](CppGmpPortCygwinToWindows.htm). Solving the
+Windows)](CppGmpInstallCygwin.md), I tried to [port GMP from Cygwin
+(under Windows) to Windows](CppGmpPortCygwinToWindows.md). Solving the
 error [undefined reference to
-'\_\_getreent'](CppLinkErrorUndefinedReferenceTo__getreent.htm) failed,
+'\_\_getreent'](CppLinkErrorUndefinedReferenceTo__getreent.md) failed,
 however.
 
  

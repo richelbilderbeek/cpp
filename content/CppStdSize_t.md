@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::size\_t](CppSize_t.htm)
+([C++](Cpp.md)) [std::size\_t](CppSize_t.md)
 ==============================================
 
  
 
-[std::size\_t](CppSize_t.htm) is a [data type](CppDataType.htm) to hold
+[std::size\_t](CppSize_t.md) is a [data type](CppDataType.md) to hold
 a size.
 
  

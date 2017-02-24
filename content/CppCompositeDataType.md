@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [composite data type](CppCompositeDataType.htm)
+([C++](Cpp.md)) [composite data type](CppCompositeDataType.md)
 ================================================================
 
  
 
-A [composite data type](CppCompositeDataType.htm) is a [data
-type](CppDataType.htm) which is constructed by stashing together
-multiple other [data types](CppDataType.htm).
+A [composite data type](CppCompositeDataType.md) is a [data
+type](CppDataType.md) which is constructed by stashing together
+multiple other [data types](CppDataType.md).
 
  
 
@@ -37,13 +37,13 @@ multiple other [data types](CppDataType.htm).
 
  
 
-[Composite data type](CppCompositeDataType.htm) code snippets
+[Composite data type](CppCompositeDataType.md) code snippets
 -------------------------------------------------------------
 
  
 
 -   [Write and read a composite data type to/from a
-    std::stream](CppCompositeDataTypeToStream.htm)
+    std::stream](CppCompositeDataTypeToStream.md)
 
  
 
@@ -64,5 +64,5 @@ multiple other [data types](CppDataType.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

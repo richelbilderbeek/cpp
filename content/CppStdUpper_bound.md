@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [std::upper\_bound](CppUpper_bound.htm)
+([C++](Cpp.md)) [std::upper\_bound](CppUpper_bound.md)
 ========================================================
 
  
 
-[std::upper\_bound](CppUpper_bound.htm) is an
-[algorithm](CppAlgorithm.htm) that [returns](CppReturn.htm) the location
+[std::upper\_bound](CppUpper_bound.md) is an
+[algorithm](CppAlgorithm.md) that [returns](CppReturn.md) the location
 where a given element can be inserted in a sorted
-[container](CppContainer.htm) without violating the order.
+[container](CppContainer.md) without violating the order.
 
  
 
-[std::upper\_bound](CppUpper_bound.htm) is [defined](CppDefinition.htm)
-in the [header file](CppHeaderFile.htm)
-[algorithm.h](CppAlgorithmH.htm).
+[std::upper\_bound](CppUpper_bound.md) is [defined](CppDefinition.md)
+in the [header file](CppHeaderFile.md)
+[algorithm.h](CppAlgorithmH.md).
 
  
 

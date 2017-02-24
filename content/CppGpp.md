@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [G++](CppGpp.htm)
+([C++](Cpp.md)) [G++](CppGpp.md)
 ==================================
 
  
 
-The [GCC](CppGcc.htm)'s [C++](Cpp.htm) [compiler](CppCompiler.htm).
+The [GCC](CppGcc.md)'s [C++](Cpp.md) [compiler](CppCompiler.htm).
 
  
 
@@ -29,7 +29,7 @@ The [GCC](CppGcc.htm)'s [C++](Cpp.htm) [compiler](CppCompiler.htm).
 
  
 
-[G++](CppGpp.htm) tools
+[G++](CppGpp.md) tools
 -----------------------
 
  

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [boost::filesystem::copy\_file](CppCopy_file.htm)
+([C++](Cpp.md)) [boost::filesystem::copy\_file](CppCopy_file.md)
 ==================================================================
 
  
 
-[boost::filesystem::copy\_file](CppCopy_file.htm) is a
-[Boost.Filesystem](CppFilesystem.htm) [file I/O](CppFileIo.htm)
-[function](CppFunction.htm) to copy a file.
+[boost::filesystem::copy\_file](CppCopy_file.md) is a
+[Boost.Filesystem](CppFilesystem.md) [file I/O](CppFileIo.md)
+[function](CppFunction.md) to copy a file.
 
  
 
@@ -37,14 +37,14 @@
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent the [link error](CppLinkError.htm) [undefined reference to
-'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent the [link error](CppLinkError.md) [undefined reference to
+'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.md)):
 
  
 

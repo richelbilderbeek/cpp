@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::showpoint](CppShowpoint.htm)
+([C++](Cpp.md)) [std::showpoint](CppShowpoint.md)
 ===================================================
 
  
 
-[std::showpoint](CppShowpoint.htm) is an [STL](CppStl.htm)
-[stream](CppStream.htm) manipulator to show the zeroes behind the comma
-of a [double](CppDouble.htm).
+[std::showpoint](CppShowpoint.md) is an [STL](CppStl.md)
+[stream](CppStream.md) manipulator to show the zeroes behind the comma
+of a [double](CppDouble.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppShowpoint' (zip)](CppShowpoint.htm)
+    'CppShowpoint' (zip)](CppShowpoint.md)
 
  
 
@@ -61,5 +61,5 @@ Screen output:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

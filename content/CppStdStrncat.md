@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::strncat](CppStrncat.htm)
+([C++](Cpp.md)) [std::strncat](CppStrncat.md)
 ===============================================
 
  
 
-[std::strncat](CppStrncat.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to concatenate two C-style strings, using
+[std::strncat](CppStrncat.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to concatenate two C-style strings, using
 only a number of characters from the string to be appended.
 
  
 
-[std::strncat](CppStrncat.htm) is [defined](CppDefinition.htm) in the
-[cstring.h](CppCstringH.htm) [header file](CppHeaderFile.htm).
+[std::strncat](CppStrncat.md) is [defined](CppDefinition.md) in the
+[cstring.h](CppCstringH.md) [header file](CppHeaderFile.md).
 
  
 
@@ -34,7 +34,7 @@ only a number of characters from the string to be appended.
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  

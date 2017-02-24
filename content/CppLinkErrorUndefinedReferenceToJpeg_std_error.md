@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Undefined reference to 'jpeg\_std\_error'](CppLinkErrorUndefinedReferenceToJpeg_std_error.htm)
+([C++](Cpp.md)) [Undefined reference to 'jpeg\_std\_error'](CppLinkErrorUndefinedReferenceToJpeg_std_error.md)
 ================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
@@ -55,18 +55,18 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.42.0
+[Boost](CppBoost.md) version: 1.42.0
 
-Additional [libraries](CppLibrary.htm): jpeg-8a from the [Independent
+Additional [libraries](CppLibrary.md): jpeg-8a from the [Independent
 JPEG Group](http://www.ijg.org)
 
  
@@ -81,7 +81,7 @@ The following source code was used:
 
  
 
-The following [project file](CppQtProjectFile.htm) was used:
+The following [project file](CppQtProjectFile.md) was used:
 
  
 
@@ -104,9 +104,9 @@ Solution
 
  
 
-You need to [link](CppLink.htm) against the jpeg
-[library](CppLibrary.htm). Add the following line to your [project
-file](CppQtProjectFile.htm):
+You need to [link](CppLink.md) against the jpeg
+[library](CppLibrary.md). Add the following line to your [project
+file](CppQtProjectFile.md):
 
  
 

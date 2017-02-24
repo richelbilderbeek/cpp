@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [\_popen is not a member of std](CppCompileError_popenIsNotAmemberOfStd.htm)
+([C++](Cpp.md)) [\_popen is not a member of std](CppCompileError_popenIsNotAmemberOfStd.md)
 =============================================================================================
 
  
 
-[Compile error](CppCompileError.htm) that might occur when using my
-[Gnuplot Interface](CppGnuplotInterface.htm) [class](CppClass.htm).
+[Compile error](CppCompileError.md) that might occur when using my
+[Gnuplot Interface](CppGnuplotInterface.md) [class](CppClass.md).
 
  
 
@@ -30,7 +30,7 @@ function is unknown under your programming environment, try either
 
  
 
-[Gnuplot Interface](CppGnuplotInterface.htm) was developed under
+[Gnuplot Interface](CppGnuplotInterface.md) was developed under
 KDevelop on a Macintosh.
 
  
@@ -52,5 +52,5 @@ KDevelop on a Macintosh.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,24 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [std::bad\_cast](CppBad_cast.htm)
+([C++](Cpp.md)) [std::bad\_cast](CppBad_cast.md)
 ==================================================
 
  
 
-[std::bad\_cast](CppBad_cast.htm) is an [exception](CppException.htm)
-[derived](CppDerivedClass.htm) from [std::exception](CppException.htm)
-that can be [thrown](CppThrow.htm) by
-[dynamic\_cast](CppDynamic_cast.htm).
+[std::bad\_cast](CppBad_cast.md) is an [exception](CppException.md)
+[derived](CppDerivedClass.md) from [std::exception](CppException.md)
+that can be [thrown](CppThrow.md) by
+[dynamic\_cast](CppDynamic_cast.md).
 
  
 
-[std::bad\_cast](CppBad_cast.htm) is defined in the [header
-file](CppHeaderFile.htm) [typeinfo](CppTypeinfoH.htm).
-
- 
-
- 
+[std::bad\_cast](CppBad_cast.md) is defined in the [header
+file](CppHeaderFile.md) [typeinfo](CppTypeinfoH.md).
 
  
 
@@ -37,6 +33,10 @@ file](CppHeaderFile.htm) [typeinfo](CppTypeinfoH.htm).
 
  
 
+ 
+
+ 
+
 
 
 
@@ -46,5 +46,5 @@ file](CppHeaderFile.htm) [typeinfo](CppTypeinfoH.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

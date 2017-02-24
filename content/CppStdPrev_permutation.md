@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::prev\_permutation](CppPrev_permutation.htm)
+([C++](Cpp.md)) [std::prev\_permutation](CppPrev_permutation.md)
 ==================================================================
 
  
 
-[std::prev\_permutation](CppPrev_permutation.htm) is an
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to obtain the previous
-permutation of a [container](CppContainer.htm).
+[std::prev\_permutation](CppPrev_permutation.md) is an
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to obtain the previous
+permutation of a [container](CppContainer.md).
 
  
 

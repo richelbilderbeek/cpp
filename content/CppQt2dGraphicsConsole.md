@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to create a simple 2D graphics program from a console application?](CppQt2dGraphicsConsole.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to create a simple 2D graphics program from a console application?](CppQt2dGraphicsConsole.md)
 ======================================================================================================================================
 
  
 
-This [simple 2D graphics program](CppQt2dGraphicsConsole.htm) has the
+This [simple 2D graphics program](CppQt2dGraphicsConsole.md) has the
 goal to create a colored gradient by setting the colors of individual
 pixels from a console application.
 
@@ -30,12 +30,12 @@ pixels from a console application.
  
 
 To create this [simple 2D graphics program from a console
-application](CppQt2dGraphicsConsole.htm) in [Qt
-Creator](CppQtCreator.htm), you can follow the steps below:
+application](CppQt2dGraphicsConsole.md) in [Qt
+Creator](CppQtCreator.md), you can follow the steps below:
 
 -   Step \#1: Setting up the Qt4 Console application project
--   Step \#2: Coding the [definition](CppDefinition.htm) of
-    [main](CppMain.htm)
+-   Step \#2: Coding the [definition](CppDefinition.md) of
+    [main](CppMain.md)
 -   Step \#3: Running the program
 
  
@@ -53,7 +53,7 @@ Step \#1: Setting up the Qt4 Console application project
 
  
 
-1.  Start [Qt Creator](CppQtCreator.htm).
+1.  Start [Qt Creator](CppQtCreator.md).
 2.  If you are not shown the welcome screen, click on 'Welcome' on the
     left
 3.  If, in the welcome screen, the 'Develop' tab is not shown, click on
@@ -91,7 +91,7 @@ screen might look like [this](CppQt2dGraphicsConsole1.png).
 
  
 
-Step \#2: Coding the [definition](CppDefinition.htm) of [main](CppMain.htm)
+Step \#2: Coding the [definition](CppDefinition.md) of [main](CppMain.md)
 ---------------------------------------------------------------------------
 
  

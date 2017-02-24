@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::remove\_copy](CppRemove_copy.htm)
+([C++](Cpp.md)) [std::remove\_copy](CppRemove_copy.md)
 ========================================================
 
  
 
-[std::remove\_copy](CppRemove_copy.htm) is an
-[algorithm](CppAlgorithm.htm) to copy a [container](CppContainer.htm),
+[std::remove\_copy](CppRemove_copy.md) is an
+[algorithm](CppAlgorithm.md) to copy a [container](CppContainer.md),
 thereby removing an element value.
 
  

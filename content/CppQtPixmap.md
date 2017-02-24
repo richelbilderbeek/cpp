@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm) [Qt Creator](CppQtCreator.htm)) [Showing an image](CppQtPixmap.htm)
+([C++](Cpp.md) [Qt Creator](CppQtCreator.md)) [Showing an image](CppQtPixmap.htm)
 ===================================================================================
 
  
@@ -27,7 +27,7 @@ Example to do 2D graphics like [this screenshot](CppQtPixmap.png).
 
  
 
-[Project file](CppQtProjectFile.htm):
+[Project file](CppQtProjectFile.md):
 
  
 

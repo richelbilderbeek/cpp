@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [helgrind example 1: two counting threads](CppHelgrindExample1.htm)
+([C++](Cpp.md)) [helgrind example 1: two counting threads](CppHelgrindExample1.md)
 ====================================================================================
 
  
 
-This [helgrind](CppHelgrind.htm) example uses the same code as
-[std::thread example 1: two counting threads](CppThreadExample1.htm).
+This [helgrind](CppHelgrind.md) example uses the same code as
+[std::thread example 1: two counting threads](CppThreadExample1.md).
 
  
 

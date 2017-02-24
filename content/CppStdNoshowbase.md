@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::noshowbase](CppNoshowbase.htm)
+([C++](Cpp.md)) [std::noshowbase](CppNoshowbase.md)
 =====================================================
 
  
 
-[std::noshowbase](CppNoshowbase.htm) is a [stream](CppStream.htm)
+[std::noshowbase](CppNoshowbase.md) is a [stream](CppStream.md)
 manipulator to not show the number system base. For example, the
 (hexidecimal) value of '0x11' will be displayed as '11'.
 
  
 
-The example below shows how to display an [integer](CppInt.htm) in
+The example below shows how to display an [integer](CppInt.md) in
 hexadecimal, octal and decimal with or without showing the number system
 base.
 

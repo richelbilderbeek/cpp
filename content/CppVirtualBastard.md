@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [VirtualBastard](CppVirtualBastard.htm)
+([C++](Cpp.md)) [VirtualBastard](CppVirtualBastard.md)
 ========================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[VirtualBastard](CppVirtualBastard.htm) is a class to do GUI testing.
+[VirtualBastard](CppVirtualBastard.md) is a class to do GUI testing.
 
 Technical facts
 ---------------
@@ -181,5 +181,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

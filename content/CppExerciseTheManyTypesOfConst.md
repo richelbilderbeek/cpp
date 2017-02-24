@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#5: the many types of const](CppExerciseTheManyTypesOfConst.htm)
+([C++](Cpp.md)) [Exercise \#5: the many types of const](CppExerciseTheManyTypesOfConst.md)
 ============================================================================================
 
  
@@ -23,18 +23,18 @@ Date added: 14th of July 2008
 
  
 
-In this [exercise](CppExercise.htm), you will learn the many types of
-[const](CppConst.htm).
+In this [exercise](CppExercise.md), you will learn the many types of
+[const](CppConst.md).
 
  
 
-Question: what are the five different types of [const](CppConst.htm) and
+Question: what are the five different types of [const](CppConst.md) and
 what do they prevent from changing?
 
  
 
 [View the answer of this
-exercise](CppExerciseTheManyTypesOfConstAnswer.htm).
+exercise](CppExerciseTheManyTypesOfConstAnswer.md).
 
  
 
@@ -73,5 +73,5 @@ Heaven](http://www.programmersheaven.com/article/100014-C%2b%2b+exercise%3a+the+
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

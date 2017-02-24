@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [ClassGallery](CppClassGallery.htm)
+([C++](Cpp.md)) [ClassGallery](CppClassGallery.md)
 ====================================================
 
  
 
-My [class gallery](CppClassGallery.htm) shows the
-[classes](CppClass.htm) I've made. I also have a [game
-gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
-[tool gallery](ToolGallery.htm).
+My [class gallery](CppClassGallery.md) shows the
+[classes](CppClass.md) I've made. I also have a [game
+gallery](GameGallery.md), [project gallery](ProjectGallery.md) and
+[tool gallery](ToolGallery.md).
 
  
 
@@ -37,7 +37,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test Approximator](ToolTestApproximator.htm)\
+[Test Approximator](ToolTestApproximator.md)\
   {#test-approximator style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------
 
@@ -56,7 +56,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test BouncingBallsWidget](ToolTestBouncingBallsWidget.htm)\
+[Test BouncingBallsWidget](ToolTestBouncingBallsWidget.md)\
   {#test-bouncingballswidget style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------------------
 
@@ -75,7 +75,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test BouncingRectsWidget](ToolTestBouncingRectsWidget.htm)\
+[Test BouncingRectsWidget](ToolTestBouncingRectsWidget.md)\
   {#test-bouncingrectswidget style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------------------
 
@@ -94,7 +94,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test BroadcastServer](ToolTestBroadcastServer.htm)\
+[Test BroadcastServer](ToolTestBroadcastServer.md)\
   {#test-broadcastserver style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------------
 
@@ -113,7 +113,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test ConceptMap](ToolTestConceptMap.htm)\
+[Test ConceptMap](ToolTestConceptMap.md)\
   {#test-conceptmap style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------
 
@@ -132,7 +132,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test Dial](ToolTestDial.htm)\
+[Test Dial](ToolTestDial.md)\
   {#test-dial style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------
 
@@ -151,7 +151,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test FunctionParser](ToolTestFunctionParser.htm)\
+[Test FunctionParser](ToolTestFunctionParser.md)\
   {#test-functionparser style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------------------
 
@@ -178,7 +178,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test GraphicsProxyWidget](ToolTestGraphicsProxyWidget.htm)\
+[Test GraphicsProxyWidget](ToolTestGraphicsProxyWidget.md)\
   {#test-graphicsproxywidget style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------------------
 
@@ -197,7 +197,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test GravityWidget](ToolTestGravityWidget.htm)\
+[Test GravityWidget](ToolTestGravityWidget.md)\
   {#test-gravitywidget style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------
 
@@ -216,7 +216,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test GroupWidget](ToolTestGroupWidget.htm)\
+[Test GroupWidget](ToolTestGroupWidget.md)\
   {#test-groupwidget style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------------
 
@@ -235,7 +235,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test Led](ToolTestLed.htm)\
+[Test Led](ToolTestLed.md)\
   {#test-led style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------
 
@@ -258,7 +258,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test ManyDigitNewick](ToolTestManyDigitNewick.htm)\
+[Test ManyDigitNewick](ToolTestManyDigitNewick.md)\
   {#test-manydigitnewick style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------------
 
@@ -277,7 +277,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test MultiApproximator](ToolTestMultiApproximator.htm)\
+[Test MultiApproximator](ToolTestMultiApproximator.md)\
   {#test-multiapproximator style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------------------------
 
@@ -296,7 +296,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test ndsmake](ToolTestNdsmake.htm)\
+[Test ndsmake](ToolTestNdsmake.md)\
   {#test-ndsmake style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------
 
@@ -315,7 +315,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test NewickVector](ToolTestNewickVector.htm)\
+[Test NewickVector](ToolTestNewickVector.md)\
   {#test-newickvector style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------
 
@@ -334,7 +334,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test Plane](ToolTestPlane.htm)\
+[Test Plane](ToolTestPlane.md)\
   {#test-plane style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------
 
@@ -353,7 +353,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test Pylos](ToolTestPylos.htm)\
+[Test Pylos](ToolTestPylos.md)\
   {#test-pylos style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------
 
@@ -372,7 +372,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test QrcFile](ToolTestQrcFile.htm)\
+[Test QrcFile](ToolTestQrcFile.md)\
   {#test-qrcfile style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------
 
@@ -391,7 +391,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test QtArrowItems](ToolTestQtArrowItems.htm)\
+[Test QtArrowItems](ToolTestQtArrowItems.md)\
   {#test-qtarrowitems style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------
 
@@ -410,7 +410,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test QtCreatorProFile](ToolTestQtCreatorProFile.htm)\
+[Test QtCreatorProFile](ToolTestQtCreatorProFile.md)\
   {#test-qtcreatorprofile style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------------
 
@@ -429,7 +429,7 @@ gallery](GameGallery.htm), [project gallery](ProjectGallery.htm) and
  
 
  \
-[Test QtKeyboardFriendlyGraphicsView](ToolTestQtKeyboardFriendlyGraphicsView.htm)\
+[Test QtKeyboardFriendlyGraphicsView](ToolTestQtKeyboardFriendlyGraphicsView.md)\
   {#test-qtkeyboardfriendlygraphicsview style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------------------------------------------
 
@@ -449,7 +449,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test QtModels](ToolTestQtModels.htm)\
+[Test QtModels](ToolTestQtModels.md)\
   {#test-qtmodels style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------
 
@@ -468,7 +468,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test QtRoundedEditRectItem](ToolTestQtRoundedEditRectItem.htm)\
+[Test QtRoundedEditRectItem](ToolTestQtRoundedEditRectItem.md)\
   {#test-qtroundededitrectitem style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------------------------
 
@@ -487,7 +487,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test QtRoundedRectItem](ToolTestQtRoundedRectItem.htm)\
+[Test QtRoundedRectItem](ToolTestQtRoundedRectItem.md)\
   {#test-qtroundedrectitem style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------------------------
 
@@ -506,7 +506,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test QtRoundedTextRectItem](ToolTestQtRoundedTextRectItem.htm)\
+[Test QtRoundedTextRectItem](ToolTestQtRoundedTextRectItem.md)\
   {#test-qtroundedtextrectitem style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------------------------
 
@@ -525,7 +525,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test Reversi](ToolTestReversi.htm)\
+[Test Reversi](ToolTestReversi.md)\
   {#test-reversi style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------
 
@@ -544,7 +544,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test SelectFileDialog](ToolTestSelectFileDialog.htm)\
+[Test SelectFileDialog](ToolTestSelectFileDialog.md)\
   {#test-selectfiledialog style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------------
 
@@ -563,7 +563,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test Shape](ToolTestShape.htm)\
+[Test Shape](ToolTestShape.md)\
   {#test-shape style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------
 
@@ -586,7 +586,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test ShinyButton](ToolTestShinyButton.htm)\
+[Test ShinyButton](ToolTestShinyButton.md)\
   {#test-shinybutton style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------------
 
@@ -609,7 +609,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test SimpleLinearRegression](ToolTestSimpleLinearRegression.htm)\
+[Test SimpleLinearRegression](ToolTestSimpleLinearRegression.md)\
   {#test-simplelinearregression style="border:5px solid;background-color:#BBBBBB"}
 ------------------------------------------------------------------
 
@@ -628,7 +628,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test TextPositionWidget](ToolTestTextPositionWidget.htm)\
+[Test TextPositionWidget](ToolTestTextPositionWidget.md)\
   {#test-textpositionwidget style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------------------
 
@@ -647,7 +647,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test TicTacToe](ToolTestTicTacToe.htm)\
+[Test TicTacToe](ToolTestTicTacToe.md)\
   {#test-tictactoe style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------
 
@@ -670,7 +670,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test ToggleButton](ToolTestToggleButton.htm)\
+[Test ToggleButton](ToolTestToggleButton.md)\
   {#test-togglebutton style="border:5px solid;background-color:#BBBBBB"}
 ----------------------------------------------
 
@@ -689,7 +689,7 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
  
 
  \
-[Test TwoDigitNewick](ToolTestTwoDigitNewick.htm)\
+[Test TwoDigitNewick](ToolTestTwoDigitNewick.md)\
   {#test-twodigitnewick style="border:5px solid;background-color:#BBBBBB"}
 --------------------------------------------------
 
@@ -718,5 +718,5 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

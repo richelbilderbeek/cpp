@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::remove\_copy\_if](CppRemove_copy_if.htm)
+([C++](Cpp.md)) [std::remove\_copy\_if](CppRemove_copy_if.md)
 ===============================================================
 
  
 
-[Algorithm](CppAlgorithm.htm) that IMHO could have better be called
+[Algorithm](CppAlgorithm.md) that IMHO could have better be called
 std::copy\_if\_not, as it does not remove anything, and only copies the
 elements that do not fulfull the predicate.
 
  
 
-Prefer [algorithm](CppAlgorithm.htm) calls over hand-written loops
+Prefer [algorithm](CppAlgorithm.md) calls over hand-written loops
 \[1,2\].
 
  
@@ -93,15 +93,15 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms to loops.'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+2.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9. Item 43: 'Prefer algorithm calls over
     hand-written loops'
 

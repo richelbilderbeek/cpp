@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [AddColoredNoise](CppAddColoredNoise.htm)
+([C++](Cpp.md)) [AddColoredNoise](CppAddColoredNoise.md)
 ==========================================================
 
  
 
-[AddColoredNoise](CppAddColoredNoise.htm) is a [VCL
-graphics](CppVclGraphics.htm) [code snippet](CppVclCodeSnippets.htm) to
-add colored noise to a [Extctrls::TImage](CppTImage.htm).
+[AddColoredNoise](CppAddColoredNoise.md) is a [VCL
+graphics](CppVclGraphics.md) [code snippet](CppVclCodeSnippets.md) to
+add colored noise to a [Extctrls::TImage](CppTImage.md).
 
  
 
-The [tool](Tools.htm) [BarbaImage](ToolBarbaImage.htm) uses
-[AddColoredNoise](CppAddColoredNoise.htm) as one of its image
+The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
+[AddColoredNoise](CppAddColoredNoise.md) as one of its image
 operations.
 
  

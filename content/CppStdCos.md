@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::cos](CppCos.htm)
+([C++](Cpp.md)) [std::cos](CppCos.md)
 =======================================
 
  
 
-[std::cos](CppCos.htm) is a [mathematical](CppMath.htm)
-[function](CppFunction.htm) to calculate the cosine.
+[std::cos](CppCos.md) is a [mathematical](CppMath.md)
+[function](CppFunction.md) to calculate the cosine.
 
  
 

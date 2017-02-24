@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [std::mutex](CppMutex.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::mutex](CppMutex.md)
 ==================================================================
 
  
 
-[std::mutex](CppMutex.htm) is a [data type](CppDataType.htm) available
-from the [C++11](Cpp11.htm) [STL](CppStl.htm).
+[std::mutex](CppMutex.md) is a [data type](CppDataType.md) available
+from the [C++11](Cpp11.md) [STL](CppStl.md).
 
  
 
-[std::mutex](CppMutex.htm) is a used a multi-threaded applications to
+[std::mutex](CppMutex.md) is a used a multi-threaded applications to
 prevent data races. See [std::thread example 2: two counting threads
-using std::mutex](CppThreadExample2.htm) for an example.
+using std::mutex](CppThreadExample2.md) for an example.
 
  
 

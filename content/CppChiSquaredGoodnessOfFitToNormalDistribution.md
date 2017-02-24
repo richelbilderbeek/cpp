@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Chi-squared goodness-of-fit to a normal distribution test](CppChiSquaredGoodnessOfFitToNormalDistribution.htm)
+([C++](Cpp.md)) [Chi-squared goodness-of-fit to a normal distribution test](CppChiSquaredGoodnessOfFitToNormalDistribution.md)
 ================================================================================================================================
 
  
 
 [Chi-squared goodness-of-fit to a normal distribution
-test](CppChiSquaredGoodnessOfFitToNormalDistribution.htm) is a
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to perform the
+test](CppChiSquaredGoodnessOfFitToNormalDistribution.md) is a
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to perform the
 same chi-squared goodness-of-fit (to a normal distribution) as \[1\].
 
  
@@ -54,7 +54,7 @@ tally.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [DLL](CppDll.htm)
+([C++](Cpp.md)) [DLL](CppDll.md)
 ==================================
 
  
 
-Working with DLL's is IDE/[compiler](CppCompiler.htm) specific.
+Working with DLL's is IDE/[compiler](CppCompiler.md) specific.
 
--   [DLL in C++ Builder](CppBuilderDll.htm)
--   [DLL in G++](CppGppDll.htm)
+-   [DLL in C++ Builder](CppBuilderDll.md)
+-   [DLL in G++](CppGppDll.md)
 
  
 

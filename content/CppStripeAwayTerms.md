@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [StripeAwayTerms](CppStripeAwayTerms.htm)
+([C++](Cpp.md)) [StripeAwayTerms](CppStripeAwayTerms.md)
 ==========================================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to stripe away
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to stripe away
 equal terms in two sets. For example: for sets n and d, where n =
-{1,2,3,4} and d = {1,2,3}, [StripeAwayTerms](CppStripeAwayTerms.htm)
+{1,2,3,4} and d = {1,2,3}, [StripeAwayTerms](CppStripeAwayTerms.md)
 replaces the 2 and 3 of both sets by a 1. This can be used to divide two
-[factorials](CppFactorial.htm).
+[factorials](CppFactorial.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [RAD Studio installation hangs](CppInstallErrorRadStudioInstallationHangs.htm)
+([C++](Cpp.md)) [RAD Studio installation hangs](CppInstallErrorRadStudioInstallationHangs.md)
 ===============================================================================================
 
  
 
-[Install error](CppInstallError.htm).
+[Install error](CppInstallError.md).
 
  
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [function definition](CppFunctionDefinition.htm)
+([C++](Cpp.md)) [function definition](CppFunctionDefinition.md)
 =================================================================
 
  
 
-A [function definition](CppFunctionDefinition.htm) is consists of (a
-copy of) a [function declaration](CppFunctionDeclaration.htm) and this
+A [function definition](CppFunctionDefinition.md) is consists of (a
+copy of) a [function declaration](CppFunctionDeclaration.md) and this
 function's body.
 
  
 
-[Function definitions](CppFunctionDefinition.htm) are commonly found in
-[implementation (.cpp) files](CppImplementationFile.htm).
+[Function definitions](CppFunctionDefinition.md) are commonly found in
+[implementation (.cpp) files](CppImplementationFile.md).
 
  
 
@@ -35,7 +35,7 @@ function's body.
  
 
 The first line of the function SayHello is (a copy of) the [function
-declaration](CppFunctionDeclaration.htm). The part between the accolades
+declaration](CppFunctionDeclaration.md). The part between the accolades
 is the function body.
 
  

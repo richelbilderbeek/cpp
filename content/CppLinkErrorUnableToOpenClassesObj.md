@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Unable to open file 'CLASSES.OBJ'](CppLinkErrorUnableToOpenClassesObj.htm)
+([C++](Cpp.md)) [Unable to open file 'CLASSES.OBJ'](CppLinkErrorUnableToOpenClassesObj.md)
 ============================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

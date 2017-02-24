@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [FileIo](CppFileIo.htm)
+([C++](Cpp.md)) [FileIo](CppFileIo.md)
 ========================================
 
  
 
-[File I/O](CppFileIo.htm) is working with files, like saving, reading,
+[File I/O](CppFileIo.md) is working with files, like saving, reading,
 copying and searching.
 
  
@@ -30,13 +30,13 @@ copying and searching.
 
  
 
-[File I/O](CppFileIo.htm) [STL](CppStl.htm) [functions](CppFunction.htm) and [data types](CppDataType.htm)
+[File I/O](CppFileIo.md) [STL](CppStl.md) [functions](CppFunction.htm) and [data types](CppDataType.htm)
 ----------------------------------------------------------------------------------------------------------
 
  
 
--   [std::fstream](CppFstream.htm): file [stream](CppStream.htm)
--   [std::remove](CppRemove.htm): remove a file
+-   [std::fstream](CppFstream.md): file [stream](CppStream.md)
+-   [std::remove](CppRemove.md): remove a file
 
  
 
@@ -48,104 +48,104 @@ copying and searching.
 
  
 
-[File I/O](CppFileIo.htm) [code snippets](CppCodeSnippets.htm)
+[File I/O](CppFileIo.md) [code snippets](CppCodeSnippets.md)
 --------------------------------------------------------------
 
  
 
 1.  ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [boost::filesystem::copy\_file, copy a
-    file](CppCopy_file.htm)
+    file](CppCopy_file.md)
 2.  ![Boost](PicBoost.png)![Qt](PicQt.png)![STL](PicStl.png)![
     ](PicSpacer.png) [Check if a file exists,
-    IsRegularFile](CppIsRegularFile.htm)
+    IsRegularFile](CppIsRegularFile.md)
 3.  ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Copy a file,
-    boost::filesystem::copy\_file](CppCopy_file.htm)
+    boost::filesystem::copy\_file](CppCopy_file.md)
 4.  ![Boost](PicBoost.png)![STL](PicStl.png)![VCL](PicVcl.png)![
-    ](PicSpacer.png) [Copy a file, CopyFile](CppCopyFile.htm)
+    ](PicSpacer.png) [Copy a file, CopyFile](CppCopyFile.md)
 5.  ![Boost](PicBoost.png)![STL](PicStl.png)![VCL](PicVcl.png)![
-    ](PicSpacer.png) [CopyFile, copy a file](CppCopyFile.htm)
+    ](PicSpacer.png) [CopyFile, copy a file](CppCopyFile.md)
 6.  ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
-    ](PicSpacer.png) [DeleteFile, delete a file](CppDeleteFile.htm)
+    ](PicSpacer.png) [DeleteFile, delete a file](CppDeleteFile.md)
 7.  ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
-    ](PicSpacer.png) [Delete a file, DeleteFile](CppDeleteFile.htm)
+    ](PicSpacer.png) [Delete a file, DeleteFile](CppDeleteFile.md)
 8.  ![VCL](PicVcl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [FileToStringList, read a file in a
-    TStringList](CppFileToStringList.htm)
+    TStringList](CppFileToStringList.md)
 9.  ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [FileToVector, read a file in a
-    std::vector](CppFileToVector.htm)
+    std::vector](CppFileToVector.md)
 10. ![Boost](PicBoost.png)![STL](PicStl.png)![ ](PicSpacer.png)![
-    ](PicSpacer.png) [Get a file's path, GetPath](CppGetPath.htm)
+    ](PicSpacer.png) [Get a file's path, GetPath](CppGetPath.md)
 11. ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Get all C++ filenames in a folder,
-    GetCppFilesInFolder](CppGetCppFilesInFolder.htm)
+    GetCppFilesInFolder](CppGetCppFilesInFolder.md)
 12. ![Boost](PicBoost.png)![Qt](PicQt.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Get all filenames in a folder,
-    GetFilesInFolder](CppGetFilesInFolder.htm)
+    GetFilesInFolder](CppGetFilesInFolder.md)
 13. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Get the extension of a filename,
-    GetExtension](CppGetExtension.htm)
+    GetExtension](CppGetExtension.md)
 14. ![Boost](PicBoost.png)![STL](PicStl.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Get the name of the folder your application runs
-    in, GetCurrentFolder](CppGetCurrentFolder.htm)
+    in, GetCurrentFolder](CppGetCurrentFolder.md)
 15. ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [GetCppFilesInFolder, get all C++ filenames in a
-    folder](CppGetCppFilesInFolder.htm)
+    folder](CppGetCppFilesInFolder.md)
 16. ![Boost](PicBoost.png)![STL](PicStl.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [GetCurrentFolder, get the name of the folder your
-    application runs in](CppGetCurrentFolder.htm)
+    application runs in](CppGetCurrentFolder.md)
 17. ![Qt](PicQt.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Get the names of the folders in a folder,
-    GetFoldersInFolder](CppGetFoldersInFolder.htm)
+    GetFoldersInFolder](CppGetFoldersInFolder.md)
 18. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [GetExtension, get the extension of a
-    filename](CppGetExtension.htm)
+    filename](CppGetExtension.md)
 19. ![Boost](PicBoost.png)![Qt](PicQt.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [GetFilesInFolder, get all filenames in a
-    folder](CppGetFilesInFolder.htm)
+    folder](CppGetFilesInFolder.md)
 20. ![Qt](PicQt.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [GetFoldersInFolder, get all the names of the
-    folders in a folder](CppGetFoldersInFolder.htm)
+    folders in a folder](CppGetFoldersInFolder.md)
 21. ![Boost](PicBoost.png)![STL](PicStl.png)![ ](PicSpacer.png)![
-    ](PicSpacer.png) [GetPath, get a file's path](CppGetPath.htm)
+    ](PicSpacer.png) [GetPath, get a file's path](CppGetPath.md)
 22. ![Boost](PicBoost.png)![Qt](PicQt.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [IsFolder, check if a path is a
-    folder](CppIsFolder.htm)
+    folder](CppIsFolder.md)
 23. ![Boost](PicBoost.png)![Qt](PicQt.png)![STL](PicStl.png)![
     ](PicSpacer.png) [IsRegularFile, check if a file is a regular
-    file](CppIsRegularFile.htm)
+    file](CppIsRegularFile.md)
 24. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [ReadDoubleFromFile, read a double from
-    file](CppReadDoubleFromFile.htm)
+    file](CppReadDoubleFromFile.md)
 25. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Read a double from file,
-    ReadDoubleFromFile](CppReadDoubleFromFile.htm)
+    ReadDoubleFromFile](CppReadDoubleFromFile.md)
 26. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Read a file in a std::vector,
-    FileToVector](CppFileToVector.htm)
+    FileToVector](CppFileToVector.md)
 27. ![VCL](PicVcl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Read a file in a TStringList,
-    FileToStringList](CppFileToStringList.htm)
+    FileToStringList](CppFileToStringList.md)
 28. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Remove the extension of a filename,
-    RemoveExtension](CppRemoveExtension.htm)
+    RemoveExtension](CppRemoveExtension.md)
 29. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [RemoveExtension, remove the extension of a
-    filename](CppRemoveExtension.htm)
+    filename](CppRemoveExtension.md)
 30. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Run another program and use its
-    output](CppRunOtherProgram.htm)
+    output](CppRunOtherProgram.md)
 31. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [Save a container to file,
-    SaveContainer](CppSaveContainer.htm)
+    SaveContainer](CppSaveContainer.md)
 32. ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [SaveContainer, save a container to
-    file](CppSaveContainer.htm)
+    file](CppSaveContainer.md)
 33. ![Boost](PicBoost.png)![STL](PicStl.png)![ ](PicSpacer.png)![
     ](PicSpacer.png) [SimplifyPath, simplify a
-    path](CppSimplifyPath.htm)
+    path](CppSimplifyPath.md)
 
 Technical facts
 ---------------
@@ -304,5 +304,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

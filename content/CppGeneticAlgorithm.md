@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Genetic algorithm](CppGeneticAlgorithm.htm)
+([C++](Cpp.md)) [Genetic algorithm](CppGeneticAlgorithm.md)
 =============================================================
 
  
 
-The [genetic algorithm](CppGeneticAlgorithm.htm) is 'a search heuristic
+The [genetic algorithm](CppGeneticAlgorithm.md) is 'a search heuristic
 that mimics the process of natural evolution. This heuristic is
 routinely used to generate useful solutions to optimization and search
 problems. Genetic algorithms belong to the larger class of evolutionary
@@ -27,8 +27,8 @@ selection, and crossover' \[1\].
 
  
 
-[genetic algorithm](CppGeneticAlgorithm.htm) [libraries](CppLibrary.htm)
-can be found at the [library](CppLibrary.htm) page.
+[genetic algorithm](CppGeneticAlgorithm.md) [libraries](CppLibrary.md)
+can be found at the [library](CppLibrary.md) page.
 
  
 

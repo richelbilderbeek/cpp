@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [UnicodeQt4.h:197: error: call of overloaded 'toLower(UChar32&)' is ambiguous](CppCompileErrorUnicodeQt4H197Error.htm)
+([C++](Cpp.md)) [UnicodeQt4.h:197: error: call of overloaded 'toLower(UChar32&)' is ambiguous](CppCompileErrorUnicodeQt4H197Error.md)
 =======================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm) ([BEI](CppBei.htm) 8) encountered
-while solving the [Qt FAQ](CppQtFaq.htm) [how to install Qt Creator
-under Cygwin?](CppQtCreatorInstallCygwin.htm).
+[Compile error](CppCompileError.md) ([BEI](CppBei.md) 8) encountered
+while solving the [Qt FAQ](CppQtFaq.md) [how to install Qt Creator
+under Cygwin?](CppQtCreatorInstallCygwin.md).
 
  
 
@@ -79,7 +79,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

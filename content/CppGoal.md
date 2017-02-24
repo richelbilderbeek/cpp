@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Goal of the C++ pages](CppGoal.htm)
+([C++](Cpp.md)) [Goal of the C++ pages](CppGoal.md)
 =====================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 
@@ -29,7 +29,7 @@
 
 I have the following quality standards:
 
-The [C++](Cpp.htm) pages must be able to act as a high quality reference
+The [C++](Cpp.md) pages must be able to act as a high quality reference
 
 -   Page text is concise
 -   Page text and code contains many links (1)
@@ -37,7 +37,7 @@ The [C++](Cpp.htm) pages must be able to act as a high quality reference
     correct coding standard)
 -   All pages can be found in a glossary
 
-The [C++](Cpp.htm) pages must be able to act as a source for high
+The [C++](Cpp.md) pages must be able to act as a source for high
 quality code snippets
 
 -   All code snippets must be copy-pastable
@@ -45,16 +45,16 @@ quality code snippets
 -   All code snippets can be found in a glossary
 -   High quality coding standard
 
-The [C++](Cpp.htm) pages must use a coding standard following the advice
+The [C++](Cpp.md) pages must use a coding standard following the advice
 given by the experts in the literature
 
--   Use of [STL](CppStl.htm) over other [libraries](CppLibrary.htm)
--   Use of [Boost](CppBoost.htm) over other [libraries](CppLibrary.htm),
-    except for the [STL](CppStl.htm)
--   [const-correct](CppConstCorrect.htm)
--   use of [assert](CppAssert.htm)
+-   Use of [STL](CppStl.md) over other [libraries](CppLibrary.md)
+-   Use of [Boost](CppBoost.md) over other [libraries](CppLibrary.md),
+    except for the [STL](CppStl.md)
+-   [const-correct](CppConstCorrect.md)
+-   use of [assert](CppAssert.md)
 
-The [C++](Cpp.htm) pages must show [referenced](CppReferences.htm)
+The [C++](Cpp.md) pages must show [referenced](CppReferences.md)
 advice given by the experts in the literature
 
  

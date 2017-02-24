@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::make\_tuple](CppStdMake_tuple.htm)
+([C++](Cpp.md)) [std::make\_tuple](CppStdMake_tuple.md)
 =========================================================
 
  
 
-[std::make\_tuple](CppStdMake_tuple.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to produce a [std::tuple](CppStdTuple.htm).
+[std::make\_tuple](CppStdMake_tuple.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to produce a [std::tuple](CppStdTuple.md).
 
  
 
@@ -30,15 +30,15 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [std::make\_tuple example 1: std::make\_tuple, boost::make\_tuple
-    comparison](CppStdMake_tupleExample.htm)
+    comparison](CppStdMake_tupleExample.md)
 -   [std::tie example 1: std::tie, boost::tie and boost::tuples::tie
-    comparison](CppStdTieExample.htm)
+    comparison](CppStdTieExample.md)
 
  
 

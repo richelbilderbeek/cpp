@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Canvas](CppCanvas.htm)
+([C++](Cpp.md)) [Canvas](CppCanvas.md)
 ========================================
 
  
@@ -22,11 +22,11 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[Canvas](CppCanvas.htm) is the [(abstract) base
-class](CppAbstractBaseClass.htm) of an ASCII art canvas. [derived
-classes](CppDerivedClass.htm) are, among others,
-[DrawCanvas](CppDrawCanvas.htm), [ImageCanvas](CppImageCanvas.htm) and
-[TextCanvas](CppTextCanvas.htm).
+[Canvas](CppCanvas.md) is the [(abstract) base
+class](CppAbstractBaseClass.md) of an ASCII art canvas. [derived
+classes](CppDerivedClass.md) are, among others,
+[DrawCanvas](CppDrawCanvas.md), [ImageCanvas](CppImageCanvas.md) and
+[TextCanvas](CppTextCanvas.md).
 
 Technical facts
 ---------------
@@ -261,5 +261,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

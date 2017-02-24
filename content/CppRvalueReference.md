@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [rvalue reference](CppRvalueReference.htm)
+([C++](Cpp.md)) [rvalue reference](CppRvalueReference.md)
 ===========================================================
 
  
 
-[rvalue reference](CppRvalueReference.htm) is a [C++11](Cpp11.htm) ...
+[rvalue reference](CppRvalueReference.md) is a [C++11](Cpp11.md) ...
 
  
 
@@ -34,7 +34,7 @@ Examples
 
  
 
--   [rvalue reference example 1: basics](CppRvalueReferenceExample1.htm)
+-   [rvalue reference example 1: basics](CppRvalueReferenceExample1.md)
 
  
 
@@ -46,13 +46,13 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Distinguish [rvalue references](CppRvalueReference.htm) from
-    [universal references](CppUniversalReference.htm) \[1\]
+-   Distinguish [rvalue references](CppRvalueReference.md) from
+    [universal references](CppUniversalReference.md) \[1\]
 
  
 
@@ -64,12 +64,12 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Distinguish Rvalue
     References from Universal References'
 
@@ -92,5 +92,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

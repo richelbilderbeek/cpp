@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtLabeledQuadBezierArrowItem](CppQtLabeledQuadBezierArrowItem.htm)
+([C++](Cpp.md)) [QtLabeledQuadBezierArrowItem](CppQtLabeledQuadBezierArrowItem.md)
 ====================================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtArrowItem](CppQtArrowItem.htm) is a [Qt](CppQt.htm)
-[QGraphicsItem](CppQGraphicsItem.htm) [class](CppClass.htm) that
+[QtArrowItem](CppQtArrowItem.md) is a [Qt](CppQt.md)
+[QGraphicsItem](CppQGraphicsItem.md) [class](CppClass.md) that
 displays a curved arrow.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

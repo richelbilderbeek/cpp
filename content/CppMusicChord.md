@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [MusicChord](CppMusicChord.htm)
+([C++](Cpp.md)) [MusicChord](CppMusicChord.md)
 ================================================
 
  
 
-[MusicChord](CppMusicChord.htm) is a [class](CppClass.htm) for a music
+[MusicChord](CppMusicChord.md) is a [class](CppClass.md) for a music
 chord.
 
  
@@ -77,5 +77,5 @@ musicchord.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

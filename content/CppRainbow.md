@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Rainbow](CppRainbow.htm)
+([C++](Cpp.md)) [Rainbow](CppRainbow.md)
 ==========================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Rainbow](CppRainbow.htm) is a [graphics](CppGraphics.htm)
-[class](CppClass.htm) to create a rainbow.
+[Rainbow](CppRainbow.md) is a [graphics](CppGraphics.md)
+[class](CppClass.md) to create a rainbow.
 
  
 
@@ -111,5 +111,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

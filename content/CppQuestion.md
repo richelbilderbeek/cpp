@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Question](CppQuestion.htm)
+([C++](Cpp.md)) [Question](CppQuestion.md)
 ============================================
 
  
 
-[Question](CppQuestion.htm) is a [class](CppClass.htm) for a question.
+[Question](CppQuestion.md) is a [class](CppClass.md) for a question.
 
 Technical facts
 ---------------
@@ -100,5 +100,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

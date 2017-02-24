@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [GetRootBranches](CppGetRootBranches.htm)
+([C++](Cpp.md)) [GetRootBranches](CppGetRootBranches.md)
 ==========================================================
 
  
 
-[GetRootBranches](CppGetRootBranches.htm) is a [Newick](CppNewick.htm)
-[code snippet](CppCodeSnippets.htm) to obtain the
-[Newick](CppNewick.htm)'s two root branches: from the
-[Newick](CppNewick.htm) '(X,Y)' (where both X and Y might be complex),
+[GetRootBranches](CppGetRootBranches.md) is a [Newick](CppNewick.md)
+[code snippet](CppCodeSnippets.md) to obtain the
+[Newick](CppNewick.md)'s two root branches: from the
+[Newick](CppNewick.md) '(X,Y)' (where both X and Y might be complex),
 it returns 'X' and 'Y'.
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [LIBS (qmake variable)](CppQmakeLibs.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [LIBS (qmake variable)](CppQmakeLibs.md)
 ===========================================================================
 
  
 
-[LIBS](CppQmakeLibs.htm) is a [qmake variable](CppQmakeVariable.htm).
+[LIBS](CppQmakeLibs.md) is a [qmake variable](CppQmakeVariable.md).
 
  
 

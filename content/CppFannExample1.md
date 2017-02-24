@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [FANN example 1: basics](CppFannExample1.htm)
+([C++](Cpp.md)) [FANN example 1: basics](CppFannExample1.md)
 ==============================================================
 
  
 
-This example demonstrates a basic [FANN](CppFann.htm) program.
+This example demonstrates a basic [FANN](CppFann.md) program.
 
  
 
@@ -28,19 +28,17 @@ This example demonstrates a basic [FANN](CppFann.htm) program.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [FANN](CppFann.htm): version 1.2.0-1
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [FANN](CppFann.md): version 1.2.0-1
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -50,7 +48,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

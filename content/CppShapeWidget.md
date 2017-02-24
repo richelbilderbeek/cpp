@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ShapeWidget](CppShapeWidget.htm)
+([C++](Cpp.md)) [ShapeWidget](CppShapeWidget.md)
 ==================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[ShapeWidget](CppShapeWidget.htm) is a [widget](CppWidget.htm)
-[class](CppClass.htm) for a [Shape](CppShape.htm).
+[ShapeWidget](CppShapeWidget.md) is a [widget](CppWidget.md)
+[class](CppClass.md) for a [Shape](CppShape.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

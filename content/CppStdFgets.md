@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::fgets](CppFgets.htm)
+([C++](Cpp.md)) [std::fgets](CppFgets.md)
 ===========================================
 
  
 
-[std::fgets](CppFgets.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) for C-style [file I/O](CppFileIo.htm).
-Personally, I prefer using the [C++](Cpp.htm) file
-[stream](CppStream.htm) called [std::fstream](CppFstream.htm).
+[std::fgets](CppFgets.md) is an [STL](CppStl.md)
+[function](CppFunction.md) for C-style [file I/O](CppFileIo.md).
+Personally, I prefer using the [C++](Cpp.md) file
+[stream](CppStream.md) called [std::fstream](CppFstream.md).
 
  
 
@@ -32,12 +32,12 @@ Personally, I prefer using the [C++](Cpp.htm) file
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::fgets example 1](CppFgetsExample1.htm)
+-   [std::fgets example 1](CppFgetsExample1.md)
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [StrToUpper](CppStrToUpper.htm)
+([C++](Cpp.md)) [StrToUpper](CppStrToUpper.md)
 ================================================
 
  
 
-[std::string](CppString.htm) [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to upper case.
+[std::string](CppString.md) [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to upper case.
 
  
 
@@ -29,13 +29,13 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
 
  
 
-Note that in the [C++ Builder](CppBuilder.htm) [IDE](CppIde.htm)
-[std::ptr\_fun](CppPtr_fun.htm) can be called without its
-[template](CppTemplate.htm) arguments. When using the [G++](CppGpp.htm)
-4.4.1 [compiler](CppCompiler.htm) leaving out the
-[template](CppTemplate.htm) arguments results in the [compile
-error](CppCompileError.htm) [No matching function for call to
-'ptr\_fun'](CppCompileErrorNoMatchingFunctionForCallToPtr_fun.htm).
+Note that in the [C++ Builder](CppBuilder.md) [IDE](CppIde.md)
+[std::ptr\_fun](CppPtr_fun.md) can be called without its
+[template](CppTemplate.md) arguments. When using the [G++](CppGpp.md)
+4.4.1 [compiler](CppCompiler.md) leaving out the
+[template](CppTemplate.md) arguments results in the [compile
+error](CppCompileError.md) [No matching function for call to
+'ptr\_fun'](CppCompileErrorNoMatchingFunctionForCallToPtr_fun.md).
 
  
 
@@ -47,15 +47,15 @@ error](CppCompileError.htm) [No matching function for call to
 
  
 
-[StrToUpper](CppStrToUpper.htm) using a [for](CppFor.htm) loop
+[StrToUpper](CppStrToUpper.md) using a [for](CppFor.md) loop
 --------------------------------------------------------------
 
  
 
-[StrToUpper](CppStrToUpper.htm) can be implemented using a
-[for](CppFor.htm) loop, but prefer [algorithm](CppAlgorithm.htm) calls
+[StrToUpper](CppStrToUpper.md) can be implemented using a
+[for](CppFor.md) loop, but prefer [algorithm](CppAlgorithm.md) calls
 over hand-written loops \[1\]\[2\]. View [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm) for other ways of replacing
+for-loops](CppExerciseNoForLoops.md) for other ways of replacing
 for-loops by algorithms.
 
  
@@ -74,15 +74,15 @@ for-loops by algorithms.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms to loops.
-2.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+2.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9. Item 43: 'Prefer algorithm calls over
     hand-written loops'.
 

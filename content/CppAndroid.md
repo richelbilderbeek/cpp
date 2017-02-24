@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png) [Android](CppAndroid.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png) [Android](CppAndroid.md)
 =====================================================================
 
  
 
-[Android](CppAndroid.htm) is a platform for [mobile
-applications](CppMobileApplication.htm).
+[Android](CppAndroid.md) is a platform for [mobile
+applications](CppMobileApplication.md).
 
  
 
--   [Installing the Android SDK](CppAndroidSdkInstall.htm)
--   [Installing the Android NDK](CppAndroidNdkInstall.htm)
--   [Android development](CppAndroidDevelopment.htm)
+-   [Installing the Android SDK](CppAndroidSdkInstall.md)
+-   [Installing the Android NDK](CppAndroidNdkInstall.md)
+-   [Android development](CppAndroidDevelopment.md)
 -   ['Hello World' using Qt Creator under Ubuntu for
-    Android](CppHelloWorldQtCreatorUbuntuAndroid.htm)
+    Android](CppHelloWorldQtCreatorUbuntuAndroid.md)
 
  
 

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [boost::noncopyable](CppNoncopyable.htm)
+([C++](Cpp.md)) [boost::noncopyable](CppNoncopyable.md)
 =========================================================
 
  
 
-[boost::noncopyable](CppNoncopyable.htm) is a [Boost](CppBoost.htm)
-[base class](CppBaseClass.htm). If any [class](CppClass.htm)
-[derives](CppDerivedClass.htm) from
-[boost::noncopyable](CppNoncopyable.htm), this [class](CppClass.htm)
+[boost::noncopyable](CppNoncopyable.md) is a [Boost](CppBoost.md)
+[base class](CppBaseClass.md). If any [class](CppClass.md)
+[derives](CppDerivedClass.md) from
+[boost::noncopyable](CppNoncopyable.md), this [class](CppClass.md)
 cannot be copied anymore.
 
  
@@ -39,14 +39,14 @@ cannot be copied anymore.
 
  
 
-Testing [boost::noncopyable](CppNoncopyable.htm)
+Testing [boost::noncopyable](CppNoncopyable.md)
 ------------------------------------------------
 
  
 
-The code below shows a [C++98](Cpp98.htm) and [C++11](Cpp11.htm)
-[definition](CppDefinition.htm) of
-[boost::noncopyable](CppNoncopyable.htm).
+The code below shows a [C++98](Cpp98.md) and [C++11](Cpp11.md)
+[definition](CppDefinition.md) of
+[boost::noncopyable](CppNoncopyable.md).
 
  
 

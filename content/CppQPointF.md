@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPointF](CppQPointF.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPointF](CppQPointF.md)
 ===========================================================
 
  
 
-[QPointF](CppQPointF.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QPointF](CppQPointF.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 

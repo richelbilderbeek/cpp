@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Smart\_ptr](CppSmart_ptr.htm)
+([C++](Cpp.md)) [Boost.Smart\_ptr](CppSmart_ptr.md)
 =====================================================
 
  
 
-[Boost.Smart\_ptr](CppSmart_ptr.htm) is the [Boost](CppBoost.htm) [smart
-pointer](CppSmartPointer.htm) [library](CppLibrary.htm).
+[Boost.Smart\_ptr](CppSmart_ptr.md) is the [Boost](CppBoost.md) [smart
+pointer](CppSmartPointer.md) [library](CppLibrary.md).
 
  
 
@@ -30,13 +30,13 @@ pointer](CppSmartPointer.htm) [library](CppLibrary.htm).
 
  
 
-List of [Boost.Smart\_ptr](CppSmart_ptr.htm) types (incomplete)
+List of [Boost.Smart\_ptr](CppSmart_ptr.md) types (incomplete)
 ---------------------------------------------------------------
 
  
 
--   [boost::scoped\_ptr](CppScoped_ptr.htm)
--   [boost::shared\_ptr](CppShared_ptr.htm)
+-   [boost::scoped\_ptr](CppScoped_ptr.md)
+-   [boost::shared\_ptr](CppShared_ptr.md)
 
  
 

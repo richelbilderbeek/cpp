@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::find\_first\_of](CppFind_first_of.htm)
+([C++](Cpp.md)) [std::find\_first\_of](CppFind_first_of.md)
 =============================================================
 
  
 
-[std::find\_first\_of](CppFind_first_of.htm) is an STL algorithm similar
+[std::find\_first\_of](CppFind_first_of.md) is an STL algorithm similar
 to std::find, except that it finds a value from a collection of values.
 
  

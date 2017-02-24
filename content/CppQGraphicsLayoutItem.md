@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsLayoutItem](CppQGraphicsLayoutItem.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsLayoutItem](CppQGraphicsLayoutItem.md)
 ===================================================================================
 
  
 
-[QGraphicsLayoutItem](CppQGraphicsLayoutItem.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QGraphicsLayoutItem](CppQGraphicsLayoutItem.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [std::strchr](CppStrchr.htm)
+([C++](Cpp.md)) [std::strchr](CppStrchr.md)
 =============================================
 
  
 
-[std::strchr](CppStrchr.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to find a character in a C-style string.
+[std::strchr](CppStrchr.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to find a character in a C-style string.
 
  
 
-[std::strchr](CppStrchr.htm) is [defined](CppDefinition.htm) in the
-[cstring.h](CppCstringH.htm) [header file](CppHeaderFile.htm).
-
- 
-
- 
+[std::strchr](CppStrchr.md) is [defined](CppDefinition.md) in the
+[cstring.h](CppCstringH.md) [header file](CppHeaderFile.md).
 
  
 
  
 
-[Examples](CppExample.htm)
+ 
+
+ 
+
+[Examples](CppExample.md)
 --------------------------
 
  

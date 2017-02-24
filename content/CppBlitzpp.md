@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Blitz++](CppBlitzpp.htm)
+([C++](Cpp.md)) [Blitz++](CppBlitzpp.md)
 ==========================================
 
  
 
-[Blitz++](CppBlitzpp.htm) is a cross-platform [library](CppLibrary.htm)
+[Blitz++](CppBlitzpp.md) is a cross-platform [library](CppLibrary.md)
 for scientific computation.
 
  
 
-[Blitz++](CppBlitzpp.htm) needs to be built, which is a no-go for me
-when working under [Windows](CppWindows.htm).
+[Blitz++](CppBlitzpp.md) needs to be built, which is a no-go for me
+when working under [Windows](CppWindows.md).
 
  
 

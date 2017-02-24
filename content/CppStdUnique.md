@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::unique](CppUnique.htm)
+([C++](Cpp.md)) [std::unique](CppUnique.md)
 =============================================
 
  
 
-[std::unique](CppUnique.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to remove duplicates in a sorted
-[container](CppContainer.htm). [std::unique](CppUnique.htm) does not
-resize the [container](CppContainer.htm).
+[std::unique](CppUnique.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to remove duplicates in a sorted
+[container](CppContainer.md). [std::unique](CppUnique.md) does not
+resize the [container](CppContainer.md).
 
  
 

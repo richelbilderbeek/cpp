@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WSortProxyModel](CppWSortProxyModel.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WSortProxyModel](CppWSortProxyModel.md)
 ===============================================================================
 
  
 
-[Wt::WSortProxyModel](CppWSortProxyModel.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WSortProxyModel](CppWSortProxyModel.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WSortProxyModel](CppWSortProxyModel.htm) is used in, among others:
+[Wt::WSortProxyModel](CppWSortProxyModel.md) is used in, among others:
 
 -   ...
 

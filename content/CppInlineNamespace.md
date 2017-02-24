@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [inline namespace](CppInlineNamespace.htm)
+([C++](Cpp.md)) [inline namespace](CppInlineNamespace.md)
 ===========================================================
 
  
@@ -25,17 +25,13 @@
 
  
 
-[inline namespace](CppInlineNamespace.htm) is a
-[keyword](CppKeyword.htm) combination to specify a default
-[namespace](CppNamespace.htm).
+[inline namespace](CppInlineNamespace.md) is a
+[keyword](CppKeyword.md) combination to specify a default
+[namespace](CppNamespace.md).
 
  
 
-Use [inline namespace](CppInlineNamespace.htm) to support versioning.
-
- 
-
- 
+Use [inline namespace](CppInlineNamespace.md) to support versioning.
 
  
 
@@ -43,12 +39,16 @@ Use [inline namespace](CppInlineNamespace.htm) to support versioning.
 
  
 
-[Reference](CppReferences.htm)
+ 
+
+ 
+
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 14.5.
     Advice. page 417: '\[9\] Use inline namespaces to support
     versioning'

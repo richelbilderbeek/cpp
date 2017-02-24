@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Undefined reference to 'QGraphicsScene::QGraphicsScene(QObject\*)'](CppLinkErrorUndefinedReferenceToQGraphicsScene.htm)
+([C++](Cpp.md)) [Undefined reference to 'QGraphicsScene::QGraphicsScene(QObject\*)'](CppLinkErrorUndefinedReferenceToQGraphicsScene.md)
 =========================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
@@ -55,11 +55,11 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.3.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
@@ -85,8 +85,8 @@ Solution
 
  
 
-As the [link error](CppLinkError.htm) indicates,
-[QGraphicsScene](CppQGraphicsScene.htm) is included but not added to
+As the [link error](CppLinkError.md) indicates,
+[QGraphicsScene](CppQGraphicsScene.md) is included but not added to
 project. The project file might look like this:
 
  
@@ -97,7 +97,7 @@ project. The project file might look like this:
 
  
 
-If you want to work with [QGraphicsScene](CppQGraphicsScene.htm) you
+If you want to work with [QGraphicsScene](CppQGraphicsScene.md) you
 will need to add QtGui to your project in the [select required modules
 dialog](CppQtCreatorSelectRequiredModules.png) in the project creation
 wizard. One (correct or incorrect?) way to remove it is by changing the

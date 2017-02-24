@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [static](CppStatic.htm)
+([C++](Cpp.md)) [static](CppStatic.md)
 ========================================
 
  
 
-[Keyword](CppKeyword.htm) enabling in-[class](CppClass.htm) or
-in-[function](CppFunction.htm) static [variables](CppVariable.htm) or
-create [static member function](CppStaticMemberFunction.htm).
+[Keyword](CppKeyword.md) enabling in-[class](CppClass.md) or
+in-[function](CppFunction.md) static [variables](CppVariable.md) or
+create [static member function](CppStaticMemberFunction.md).
 
  
 
-A common use of [static](CppStatic.htm) is when you want to keep track
-of how many [instances](CppInstance.htm) a [class](CppClass.htm) has:
+A common use of [static](CppStatic.md) is when you want to keep track
+of how many [instances](CppInstance.md) a [class](CppClass.md) has:
 
  
 
@@ -42,12 +42,12 @@ of how many [instances](CppInstance.htm) a [class](CppClass.htm) has:
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   See [static member function](CppStaticMemberFunction.htm)
+-   See [static member function](CppStaticMemberFunction.md)
 
  
 
@@ -64,11 +64,11 @@ Notes to self
 
  
 
--   When in doubt if a [variable](CppVariable.htm) should be
-    [static](CppStatic.htm) or not, do not make it
-    [static](CppStatic.htm): I note that I do change
-    [variables](CppVariable.htm) from [static](CppStatic.htm) to
-    non-[static](CppStatic.htm), but never the other way around
+-   When in doubt if a [variable](CppVariable.md) should be
+    [static](CppStatic.md) or not, do not make it
+    [static](CppStatic.md): I note that I do change
+    [variables](CppVariable.md) from [static](CppStatic.md) to
+    non-[static](CppStatic.md), but never the other way around
 
  
 

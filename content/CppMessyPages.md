@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Why are some pages messy?](CppMessyPages.htm)
+([C++](Cpp.md)) [Why are some pages messy?](CppMessyPages.md)
 ===============================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 
@@ -29,7 +29,7 @@ up some markup errors.
  
 
 Some of my activity in cleaning up messy pages can be seen at the
-[recent changes](CppRecentChanges.htm): I often add the description
+[recent changes](CppRecentChanges.md): I often add the description
 'improved page source'.
 
  

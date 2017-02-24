@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WFitLayout](CppWFitLayout.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WFitLayout](CppWFitLayout.md)
 =====================================================================
 
  
 
-[Wt::WFitLayout](CppWFitLayout.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WFitLayout](CppWFitLayout.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WFitLayout](CppWFitLayout.htm) is used in, among others:
+[Wt::WFitLayout](CppWFitLayout.md) is used in, among others:
 
 -   ...
 

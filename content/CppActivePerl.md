@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [ActivePerl](CppActivePerl.htm)
+([C++](Cpp.md)) [ActivePerl](CppActivePerl.md)
 ================================================
 
  
 
-[ActivePerl](CppActivePerl.htm) needs to be installed before
-[Carbide.C++](CppCarbideCpp.htm).
+[ActivePerl](CppActivePerl.md) needs to be installed before
+[Carbide.C++](CppCarbideCpp.md).
 
  
 

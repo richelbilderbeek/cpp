@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Create a DLL in C++ Builder](CppBuilderCreateDll.htm)
+([C++](Cpp.md)) [Create a DLL in C++ Builder](CppBuilderCreateDll.md)
 =======================================================================
 
  
 
-Before being able to [call a DLL](CppBuilderCallDll.htm), one has to
-[create a DLL](CppBuilderCreateDll.htm) first.
+Before being able to [call a DLL](CppBuilderCallDll.md), one has to
+[create a DLL](CppBuilderCreateDll.md) first.
 
  
 
@@ -27,7 +27,7 @@ Before being able to [call a DLL](CppBuilderCallDll.htm), one has to
 
  
 
-To create a [DLL](CppBuilderDll.htm) in C++ Builder, do the following
+To create a [DLL](CppBuilderDll.md) in C++ Builder, do the following
 steps:
 
 -   'File | Close All'
@@ -96,7 +96,7 @@ UnitFunctions.h before adding our function
  
 
 There is nothing in UnitFunctions.h yet, except for an [\#include
-guard](CppIncludeGuard.htm). Below 'UnitFunctions.h' has one function
+guard](CppIncludeGuard.md). Below 'UnitFunctions.h' has one function
 added.
 
  
@@ -121,7 +121,7 @@ UnitFunctions.h after adding our function
  
 
 The function put in the DLL is called GetAnswerOfLife and will return
-the value of 42. Note the [\#ifdef](CppIfdef.htm)'s before and after the
+the value of 42. Note the [\#ifdef](CppIfdef.md)'s before and after the
 function. These are obligatory!
 
  
@@ -176,7 +176,7 @@ UnitFunctions.cpp, after adding own code
 Press F9 and you have just created your first DLL! After it is created
 an error will appear 'One cannot debug project unless a host application
 is defined.'. No problem, as, again, you have just created your first
-DLL. Time to [call a function from your DLL](CppBuilderCallDll.htm).
+DLL. Time to [call a function from your DLL](CppBuilderCallDll.md).
 
  
 
@@ -195,7 +195,7 @@ Adding some diagnostic features (optional)
 
 If you are new to using DLL's, you might want to add some diagnostic
 features to UnitEntryPoint.cpp. If not, perhaps you want to [call a
-DLL](CppBuilderCallDll.htm).
+DLL](CppBuilderCallDll.md).
 
  
 
@@ -210,15 +210,15 @@ UnitEntryPoint.cpp with diagnostic features added
 
  
 
-Note the use MessageBox instead of [ShowMessage](CppVclShowMessage.htm),
+Note the use MessageBox instead of [ShowMessage](CppVclShowMessage.md),
 as MessageBox is a Win32 API function (so it can be found in windows.h),
-where [ShowMessage](CppVclShowMessage.htm) is a [VCL](CppVcl.htm)
+where [ShowMessage](CppVclShowMessage.md) is a [VCL](CppVcl.md)
 function.
 
  
 
 Perhaps you now want to [go to the calling a DLL
-page](CppBuilderCallDll.htm).
+page](CppBuilderCallDll.md).
 
  
 
@@ -239,5 +239,5 @@ page](CppBuilderCallDll.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

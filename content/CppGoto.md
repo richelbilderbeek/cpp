@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [goto](CppGoto.htm)
+([C++](Cpp.md)) [goto](CppGoto.md)
 ====================================
 
  
 
-[goto](CppGoto.htm) is a [keyword](CppKeyword.htm) to jump to a
-[label](CppLabel.htm). Prefer not to use [goto](CppGoto.htm) \[1,2\],
-except when breaking out of multiple [loops](CppLoop.htm) \[1\].
+[goto](CppGoto.md) is a [keyword](CppKeyword.md) to jump to a
+[label](CppLabel.md). Prefer not to use [goto](CppGoto.md) \[1,2\],
+except when breaking out of multiple [loops](CppLoop.md) \[1\].
 
  
 
@@ -37,7 +37,7 @@ except when breaking out of multiple [loops](CppLoop.htm) \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -48,7 +48,7 @@ except when breaking out of multiple [loops](CppLoop.htm) \[1\].
     statement shall not be used.' and 'Exception: A goto may be used to
     break out of multiple nested loops provided the alternative would
     obscure or otherwise significantly complicate the control logic.'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 9.8.
     Advice. page 240: '\[7\] Avoid goto'
 

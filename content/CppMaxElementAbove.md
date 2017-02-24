@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [MaxElementAbove](CppMaxElementAbove.htm)
+([C++](Cpp.md)) [MaxElementAbove](CppMaxElementAbove.md)
 ==========================================================
 
  
 
-[MaxElementAbove](CppMaxElementAbove.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to get the
-[std::max\_element](CppMax_element.htm) above a certain value.
+[MaxElementAbove](CppMaxElementAbove.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to get the
+[std::max\_element](CppMax_element.md) above a certain value.
 
  
 
-Simply use [std::max\_element](CppMax_element.htm).
+Simply use [std::max\_element](CppMax_element.md).
 
  
 

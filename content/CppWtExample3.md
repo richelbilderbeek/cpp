@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Wt example 3: broadcasting](CppWtExample3.htm)
+([C++](Cpp.md)) [Wt example 3: broadcasting](CppWtExample3.md)
 ================================================================
 
  
 
-[Wt example 3: broadcasting](CppWtExample3.htm) is an
-[article](CppArticle.htm) about a simple [Wt](CppWt.htm)
-[example](CppWtExample.htm) in which is shown how multiple clients can
+[Wt example 3: broadcasting](CppWtExample3.md) is an
+[article](CppArticle.md) about a simple [Wt](CppWt.md)
+[example](CppWtExample.md) in which is shown how multiple clients can
 respond to the same data source and be notified when needed.
 
  
@@ -39,9 +39,9 @@ working is explained.
 
  
 
-This [example](CppWtExample.htm) gives a complete view of all
-bookkeeping necessary. [Wt example 4: broadcasting](CppWtExample4.htm)
-shows how to use two [classes](CppClass.htm) to do this bookkeeping for
+This [example](CppWtExample.md) gives a complete view of all
+bookkeeping necessary. [Wt example 4: broadcasting](CppWtExample4.md)
+shows how to use two [classes](CppClass.md) to do this bookkeeping for
 you, resulting in shorter code.
 
  
@@ -71,10 +71,10 @@ you, resulting in shorter code.
 
 This example has the following players:
 
--   Client: a client [class](CppClass.htm)
--   Server: a server [class](CppClass.htm), where Clients can connect
+-   Client: a client [class](CppClass.md)
+-   Server: a server [class](CppClass.md), where Clients can connect
     and disconnect to
--   ClientWidget: [class](CppClass.htm) to display a Client
+-   ClientWidget: [class](CppClass.md) to display a Client
 -   a global Server
 
  
@@ -93,14 +93,14 @@ detail.
 
  
 
-Server has the following [member functions](CppMemberFunction.htm),
+Server has the following [member functions](CppMemberFunction.md),
 which I explain in detail:
 
--   [constructor](CppConstructor.htm): set the data member 'counter\_'
+-   [constructor](CppConstructor.md): set the data member 'counter\_'
     to zero, set the data member 'stop\_' to false and create a
-    [boost::thread](CppThread.htm), 'thread\_', that calls Server::run
--   [destructor](CppDestructor.htm): set the data member 'stop\_' to
-    true and stop the [boost::thread](CppThread.htm) 'thread\_'
+    [boost::thread](CppThread.md), 'thread\_', that calls Server::run
+-   [destructor](CppDestructor.md): set the data member 'stop\_' to
+    true and stop the [boost::thread](CppThread.md) 'thread\_'
 -   Server::run: contains the action: it consists of an infinite loop,
     that starts with doing nothing for a second. Then Server checks if
     it should terminate this loop, by checking 'stop\_'. The only 'real
@@ -111,7 +111,7 @@ which I explain in detail:
     connecting
 -   Server::connect: this method is called by the Clients: a client
     connecting to Server denotes that it wants to have the supplied
-    [boost::function](CppFunction.htm) called. In this example, the
+    [boost::function](CppFunction.md) called. In this example, the
     ClientWidgets want to have their ClientWidget::updateData method
     called: a Client simply wants to be updated when needed!
 -   Server::disconnect: this method is called by a Client when it
@@ -124,15 +124,15 @@ which I explain in detail:
  
 
 ClientWidget has the following [member
-functions](CppMemberFunction.htm):
+functions](CppMemberFunction.md):
 
--   [constructor](CppConstructor.htm): in it, ClientWidget connects to
+-   [constructor](CppConstructor.md): in it, ClientWidget connects to
     Server and gives it the ClientWidget::updateData function to call.
     Or: it lets itself be notified by letting the Server
     call ClientWidget::updateData. Additionaly,
     Wt::WApplication::enableUpdates is set to true and ClientWidget its
     first update is called
--   [destructor](CppDestructor.htm): the ClientWidget notifies the
+-   [destructor](CppDestructor.md): the ClientWidget notifies the
     Server that it does not want to be notified any longer (as it will
     not exist after destruction anymore. Additionaly,
     Wt::WApplication::enableUpdates is set to false

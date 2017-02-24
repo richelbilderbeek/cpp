@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![QuantLib](PicQuantLib.png) [GetQuantLibVersion](CppGetQuantLibVersion.htm)
+([C++](Cpp.md)) ![QuantLib](PicQuantLib.png) [GetQuantLibVersion](CppGetQuantLibVersion.md)
 =============================================================================================
 
  
 
-[GetQuantLibVersion](CppGetQuantLibVersion.htm) is a
-[version](CppVersion.htm) [code snippets](CppCodeSnippets.htm) to obtain
-the [version](CppVersion.htm) of the current [QuantLib](CppQuantLib.htm)
-[library](CppLibrary.htm).
+[GetQuantLibVersion](CppGetQuantLibVersion.md) is a
+[version](CppVersion.md) [code snippets](CppCodeSnippets.md) to obtain
+the [version](CppVersion.md) of the current [QuantLib](CppQuantLib.md)
+[library](CppLibrary.md).
 
  
 
@@ -37,37 +37,37 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.04 (natty)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.04 (natty)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.5.2
+-   [G++](CppGpp.md) 4.5.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![QuantLib](PicQuantLib.png) [QuantLib](CppQuantLib.htm): version
+-   ![QuantLib](PicQuantLib.png) [QuantLib](CppQuantLib.md): version
     1\_1
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.5.2
 
  
@@ -80,7 +80,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppGetQuantLibVersion.pro
+[Qt project file](CppQtProjectFile.md): CppGetQuantLibVersion.pro
 ------------------------------------------------------------------
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [StrToWide](CppStrToWide.htm)
+([C++](Cpp.md)) [StrToWide](CppStrToWide.md)
 ==============================================
 
  
 
-[StrToWide](CppStrToWide.htm) converts a std::string to WideString
+[StrToWide](CppStrToWide.md) converts a std::string to WideString
 
  
 

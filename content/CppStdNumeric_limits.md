@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::numeric\_limits](CppNumeric_limits.htm)
+([C++](Cpp.md)) [std::numeric\_limits](CppNumeric_limits.md)
 ==============================================================
 
  
 
-[std::numeric\_limits](CppNumeric_limits.htm) is an [STL](CppStl.htm)
-[template function](CppTemplateFunction.htm) to obtain numerical limits
-from numerical [data types](CppDataType.htm).
+[std::numeric\_limits](CppNumeric_limits.md) is an [STL](CppStl.md)
+[template function](CppTemplateFunction.md) to obtain numerical limits
+from numerical [data types](CppDataType.md).
 
  
 
@@ -27,14 +27,14 @@ from numerical [data types](CppDataType.htm).
 
  
 
-Example: [GetMaxDouble](CppGetMaxDouble.htm)
+Example: [GetMaxDouble](CppGetMaxDouble.md)
 --------------------------------------------
 
  
 
-[GetMaxDouble](CppGetMaxDouble.htm) is a [check](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) to get the maximal value of a
-[double](CppDouble.htm).
+[GetMaxDouble](CppGetMaxDouble.md) is a [check](CppCheck.md) [code
+snippet](CppCodeSnippets.md) to get the maximal value of a
+[double](CppDouble.md).
 
  
 

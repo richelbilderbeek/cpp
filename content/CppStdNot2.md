@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::not2](CppNot2.htm)
+([C++](Cpp.md)) [std::not2](CppNot2.md)
 =========================================
 
  
 
-[std::not2](CppNot2.htm) is an [STL](CppStl.htm)
-[adapter](CppAdapter.htm) to negate a [predicate](CppPredicate.htm)
-derived from [std::binary\_function](CppBinary_function.htm). To negate
-a [predicate](CppPredicate.htm) derived from
-[std::unary\_function](CppUnary_function.htm), use
-[std::not1](CppNot1.htm).
+[std::not2](CppNot2.md) is an [STL](CppStl.md)
+[adapter](CppAdapter.md) to negate a [predicate](CppPredicate.md)
+derived from [std::binary\_function](CppBinary_function.md). To negate
+a [predicate](CppPredicate.md) derived from
+[std::unary\_function](CppUnary_function.md), use
+[std::not1](CppNot1.md).
 
  
 

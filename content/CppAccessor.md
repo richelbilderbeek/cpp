@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Accessor](CppAccessor.htm)
+([C++](Cpp.md)) [Accessor](CppAccessor.md)
 ============================================
 
  
 
-'An [accessor](CppAccessor.htm) function is a
-[function](CppFunction.htm) which [returns](CppReturn.htm) the value of
-a [data member](CppDataMember.htm).' \[1\]
+'An [accessor](CppAccessor.md) function is a
+[function](CppFunction.md) which [returns](CppReturn.md) the value of
+a [data member](CppDataMember.md).' \[1\]
 
  
 
@@ -31,7 +31,7 @@ a [data member](CppDataMember.htm).' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

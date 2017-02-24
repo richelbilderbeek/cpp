@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::exp](CppExp.htm)
+([C++](Cpp.md)) [std::exp](CppExp.md)
 =======================================
 
  
 
-[std::exp](CppExp.htm) is am [STL](CppStl.htm) [math](CppMath.htm)
-[function](CppFunction.htm) to obtain the natural logarithm of a value.
+[std::exp](CppExp.md) is am [STL](CppStl.md) [math](CppMath.htm)
+[function](CppFunction.md) to obtain the natural logarithm of a value.
 
  
 

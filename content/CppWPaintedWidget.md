@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPaintedWidget](CppWPaintedWidget.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPaintedWidget](CppWPaintedWidget.md)
 =============================================================================
 
  
 
-[Wt::WPaintedWidget](CppWPaintedWidget.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) that can be used as a [base
-class](CppBaseClass.htm) for a widget.
+[Wt::WPaintedWidget](CppWPaintedWidget.md) is a [Wt](CppWt.md)
+[class](CppClass.md) that can be used as a [base
+class](CppBaseClass.md) for a widget.
 
  
 
@@ -36,9 +36,9 @@ Examples
 
  
 
-[Wt::WPaintedWidget](CppWPaintedWidget.htm) is used in, among others:
+[Wt::WPaintedWidget](CppWPaintedWidget.md) is used in, among others:
 
--   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.htm)
+-   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [TicTacToe](CppTicTacToe.htm)
+([C++](Cpp.md)) [TicTacToe](CppTicTacToe.md)
 ==============================================
 
  
@@ -22,15 +22,15 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[TicTacToe](CppTicTacToe.htm) is a [class](CppClass.htm) embodying the
+[TicTacToe](CppTicTacToe.md) is a [class](CppClass.md) embodying the
 game logic of Tic-Tac-Toe.
 
  
 
-[TicTacToe](CppTicTacToe.htm) is used by, among others:
+[TicTacToe](CppTicTacToe.md) is used by, among others:
 
--   [ProjectWtWebsite](ProjectWtWebsite.htm)
--   [TestTicTacToe](ToolTestTicTacToe.htm)
+-   [ProjectWtWebsite](ProjectWtWebsite.md)
+-   [TestTicTacToe](ToolTestTicTacToe.md)
 
 Technical facts
 ---------------
@@ -474,5 +474,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

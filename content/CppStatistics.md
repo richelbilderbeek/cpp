@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [Statistics](CppStatistics.htm)
+([C++](Cpp.md)) [Statistics](CppStatistics.md)
 ================================================
 
  
 
-These are my [code snippets](CppCodeSnippets.htm) on
-[statistics](CppStatistics.htm).
+These are my [code snippets](CppCodeSnippets.md) on
+[statistics](CppStatistics.md).
 
  
 
 1.  [AreMeansSame, test if two means from normal distributions differ
-    significantly](CppAreMeansSame.htm)
+    significantly](CppAreMeansSame.md)
 2.  [Chi-squared goodness-of-fit to a normal distribution
-    test](CppChiSquaredGoodnessOfFitToNormalDistribution.htm): do the
+    test](CppChiSquaredGoodnessOfFitToNormalDistribution.md): do the
     values measured follow a normal distribution?
-3.  [Wilcoxon's signed rank test](CppWilcoxonsSignedRankTest.htm): do
+3.  [Wilcoxon's signed rank test](CppWilcoxonsSignedRankTest.md): do
     means differ for paired samples, in which the values are not
     normally distributed?
 

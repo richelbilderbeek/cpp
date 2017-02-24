@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [volatile](CppVolatile.htm)
+([C++](Cpp.md)) [volatile](CppVolatile.md)
 ============================================
 
  
 
-[volatile](CppVolatile.htm) is a [keyword](CppKeyword.htm) to specify a
-[variable](CppVariable.htm) can change its value without code making it
+[volatile](CppVolatile.md) is a [keyword](CppKeyword.md) to specify a
+[variable](CppVariable.md) can change its value without code making it
 so, for example the time of a (physical) computer clock: its value is
 changed by the CPU.
 
  
 
-Consider never using the [volatile](CppVolatile.htm)
-[keyword](CppKeyword.htm), unless directly interfacing with hardware
+Consider never using the [volatile](CppVolatile.md)
+[keyword](CppKeyword.md), unless directly interfacing with hardware
 \[1\].
 
  
@@ -38,7 +38,7 @@ Consider never using the [volatile](CppVolatile.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -67,5 +67,5 @@ Consider never using the [volatile](CppVolatile.htm)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

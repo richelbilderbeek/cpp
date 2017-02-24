@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::strtod](CppStrtod.htm)
+([C++](Cpp.md)) [std::strtod](CppStrtod.md)
 =============================================
 
  
 
-[std::strtod](CppStrtod.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to [double](CppDouble.htm).
+[std::strtod](CppStrtod.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to [double](CppDouble.md).
 
  
 
@@ -31,7 +31,7 @@
 
  
 
-Example: [ToDouble](CppToDouble.htm)
+Example: [ToDouble](CppToDouble.md)
 ------------------------------------
 
  

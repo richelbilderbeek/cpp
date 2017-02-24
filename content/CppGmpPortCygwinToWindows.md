@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Porting GMP from Cygwin (under Windows) to Windows](CppGmpPortCygwinToWindows.htm)
+([C++](Cpp.md)) [Porting GMP from Cygwin (under Windows) to Windows](CppGmpPortCygwinToWindows.md)
 ====================================================================================================
 
  
@@ -22,13 +22,13 @@
  
 
 After successfully [installing GMP under Cygwin (under
-Windows)](CppGmpInstallCygwin.htm), I tried to run the [Hello
-GMP](CppHelloGmp.htm) program.
+Windows)](CppGmpInstallCygwin.md), I tried to run the [Hello
+GMP](CppHelloGmp.md) program.
 
  
 
 With the Qt project file below, the error [Undefined reference to
-'\_\_getreent'](CppLinkErrorUndefinedReferenceTo__getreent.htm) occurs:
+'\_\_getreent'](CppLinkErrorUndefinedReferenceTo__getreent.md) occurs:
 
  
 

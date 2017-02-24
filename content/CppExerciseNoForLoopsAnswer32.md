@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#32](CppExerciseNoForLoopsAnswer32.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#32](CppExerciseNoForLoopsAnswer32.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,15 +35,15 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#32: Sum all persons' money from a [std::vector](CppVector.htm)&lt;**[const](CppConst.htm)** Person\*&gt;
+Question \#32: Sum all persons' money from a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -------------------------------------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.htm)
--   [boost::bind](CppBind.htm)
+-   [std::accumulate](CppAccumulate.md)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -61,7 +61,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+![C++98](PicCpp98.png)![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Bind
 ------------------------------------------------------------------------------------
 
  
@@ -80,7 +80,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) Answer using the [C++11](Cpp11.htm) [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) Answer using the [C++11](Cpp11.md) [STL](CppStl.md)
 ----------------------------------------------------------------------------------------------
 
  

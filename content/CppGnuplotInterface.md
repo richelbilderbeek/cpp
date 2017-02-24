@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [GnuplotInterface](CppGnuplotInterface.htm)
+([C++](Cpp.md)) [GnuplotInterface](CppGnuplotInterface.md)
 ============================================================
 
  
@@ -22,19 +22,19 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[GnuplotInterface](CppGnuplotInterface.htm) is a [class](CppClass.htm)
+[GnuplotInterface](CppGnuplotInterface.md) is a [class](CppClass.md)
 that enables the user to easily plot values in
-[Gnuplot](CppGnuplot.htm). It handles both the connection to
-[Gnuplot](CppGnuplot.htm) and performs the window management as well. It
+[Gnuplot](CppGnuplot.md). It handles both the connection to
+[Gnuplot](CppGnuplot.md) and performs the window management as well. It
 creates a text-file in which the location of the
-[Gnuplot](CppGnuplot.htm) executable can be entered (without recompiling
+[Gnuplot](CppGnuplot.md) executable can be entered (without recompiling
 the program).
 
  
 
-The [tool](Tools.htm)
-[TestGnuplotInterface](ToolTestGnuplotInterface.htm) tests the
-[GnuplotInterface](CppGnuplotInterface.htm) [class](CppClass.htm).
+The [tool](Tools.md)
+[TestGnuplotInterface](ToolTestGnuplotInterface.md) tests the
+[GnuplotInterface](CppGnuplotInterface.md) [class](CppClass.md).
 
  
 
@@ -44,7 +44,7 @@ The [tool](Tools.htm)
 
  
 
-The one function that this [class](CppClass.htm) is built around is the
+The one function that this [class](CppClass.md) is built around is the
 popen function. This is a non-standard function to open a pipe. If this
 function is unknown under your programming environment, try either
 std::popen, std::\_popen, std::\_\_popen, popen, \_popen or \_\_popen.
@@ -67,17 +67,17 @@ std::popen, std::\_popen, std::\_\_popen, popen, \_popen or \_\_popen.
 
  
 
-Known [compile errors](CppCompileError.htm)
+Known [compile errors](CppCompileError.md)
 -------------------------------------------
 
  
 
 -   [\_popen is not a member of
-    std](CppCompileError_popenIsNotAmemberOfStd.htm)
+    std](CppCompileError_popenIsNotAmemberOfStd.md)
 -   [CLK\_TCK was not declared in this
-    scope](CppCompileErrorCLK_TCKwasNotDeclaredInThisScope.htm)
+    scope](CppCompileErrorCLK_TCKwasNotDeclaredInThisScope.md)
 -   [Duplicate
-    symbol Gnuplot::SetLineStyles()](CppCompileErrorDuplicateSymbol.htm)
+    symbol Gnuplot::SetLineStyles()](CppCompileErrorDuplicateSymbol.md)
 
 Technical facts
 ---------------
@@ -160,5 +160,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

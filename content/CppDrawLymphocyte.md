@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [DrawLymphocyte](CppDrawLymphocyte.htm)
+([C++](Cpp.md)) [DrawLymphocyte](CppDrawLymphocyte.md)
 ========================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to draw
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to draw
 a lymphocyte
 
  

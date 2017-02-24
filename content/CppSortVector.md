@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [SortVector](CppSortVector.htm)
+([C++](Cpp.md)) [SortVector](CppSortVector.md)
 ================================================
 
  
 
-[SortVector](CppSortVector.htm) is a [sorting](CppSort.htm) [code
-snippet](CppCodeSnippets.htm) to [sort](CppSort.htm) a
-[container](CppContainer.htm).
+[SortVector](CppSortVector.md) is a [sorting](CppSort.md) [code
+snippet](CppCodeSnippets.md) to [sort](CppSort.md) a
+[container](CppContainer.md).
 
  
 

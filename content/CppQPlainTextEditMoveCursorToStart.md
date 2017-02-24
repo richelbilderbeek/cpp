@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to scroll a QPlainTextEdit to its top?](CppQPlainTextEditMoveCursorToStart.htm) or [How to set QPlainTextEdit's cursor to the top?](CppQPlainTextEditMoveCursorToStart.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to scroll a QPlainTextEdit to its top?](CppQPlainTextEditMoveCursorToStart.md) or [How to set QPlainTextEdit's cursor to the top?](CppQPlainTextEditMoveCursorToStart.htm)
 ==================================================================================================================================================================================================================
 
  
 
-[Qt FAQ](CppQtFaq.htm).
+[Qt FAQ](CppQtFaq.md).
 
  
 

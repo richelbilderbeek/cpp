@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#3](CppExerciseNoForLoopsAnswer3.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#3](CppExerciseNoForLoopsAnswer3.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,17 +30,17 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#3: [Add](CppAdd.htm)
+Question \#3: [Add](CppAdd.md)
 -------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::back\_inserter](CppBack_inserter.htm)
--   [std::bind2nd](CppBind2nd.htm)
--   [std::plus](CppPlus.htm)
--   [std::transform](CppTransform.htm)
+-   [std::back\_inserter](CppBack_inserter.md)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::plus](CppPlus.md)
+-   [std::transform](CppTransform.md)
 
  
 

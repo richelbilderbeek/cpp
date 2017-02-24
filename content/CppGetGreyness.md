@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetGreyness](CppGetGreyness.htm)
+([C++](Cpp.md)) [GetGreyness](CppGetGreyness.md)
 ==================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to get
-the greyness of one or more pixels of a [VCL](CppVcl.htm)
-[TImage](CppTImage.htm).
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to get
+the greyness of one or more pixels of a [VCL](CppVcl.md)
+[TImage](CppTImage.md).
 
  
 
@@ -28,7 +28,7 @@ it. You can get a single pixel's greyness, or from a square of pixels.
 
  
 
-To set pixels' their greynesses, use [SetGreyness](CppSetGreyness.htm).
+To set pixels' their greynesses, use [SetGreyness](CppSetGreyness.md).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::vprintf](CppVprintf.htm)
+([C++](Cpp.md)) [std::vprintf](CppVprintf.md)
 ===============================================
 
  
 
-[std::vprintf](CppVprintf.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) for formatted output.
+[std::vprintf](CppVprintf.md) is an [STL](CppStl.md)
+[function](CppFunction.md) for formatted output.
 
  
 

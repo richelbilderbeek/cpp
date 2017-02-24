@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::div](CppDiv.htm)
+([C++](Cpp.md)) [std::div](CppDiv.md)
 =======================================
 
  
 
-[std::div](CppDiv.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) for [integer](CppInt.htm) division, which
-creates a [std::div\_t](CppDiv_t.htm) containing the quotient and
+[std::div](CppDiv.md) is an [STL](CppStl.md)
+[function](CppFunction.md) for [integer](CppInt.md) division, which
+creates a [std::div\_t](CppDiv_t.md) containing the quotient and
 remainder of the division.
 
  
@@ -30,8 +30,8 @@ remainder of the division.
 
  
 
-The related [std::ldiv](CppLdiv.htm) [function](CppFunction.htm) works
-on [long ints](CppLongInt.htm).
+The related [std::ldiv](CppLdiv.md) [function](CppFunction.md) works
+on [long ints](CppLongInt.md).
 
  
 

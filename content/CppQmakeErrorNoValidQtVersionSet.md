@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [qmake error: no valid Qt version set](CppQmakeErrorNoValidQtVersionSet.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [qmake error: no valid Qt version set](CppQmakeErrorNoValidQtVersionSet.md)
 ==============================================================================================================
 
  
 
-This [qmake error](CppQmakeError.htm) occurred when [porting code from
+This [qmake error](CppQmakeError.md) occurred when [porting code from
 Qt Creator under Ubuntu to Qt Creator under
-Windows](CppPortQtCreatorUbuntuToQtCreatorWindows.htm).
+Windows](CppPortQtCreatorUbuntuToQtCreatorWindows.md).
 
  
 
@@ -35,7 +35,7 @@ The compile output is:
 
 Following this output, [check Qt's version
 (png)](CppPortQtCreatorUbuntuToQtCreatorWindows1_1.png). In this case,
-the path to [qmake](CppQmake.htm) was still to its Ubuntu location. So,
+the path to [qmake](CppQmake.md) was still to its Ubuntu location. So,
 [set it to a valid location
 (png)](CppPortQtCreatorUbuntuToQtCreatorWindows1_2.png).
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [undefined reference to 'SDL\_Init'](CppLinkErrorUndefinedReferenceToSDL_Init.htm)
+([C++](Cpp.md)) [undefined reference to 'SDL\_Init'](CppLinkErrorUndefinedReferenceToSDL_Init.md)
 ===================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
@@ -55,16 +55,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-Additional [libraries](CppLibrary.htm): [SDL](CppSdl.htm)
+Additional [libraries](CppLibrary.md): [SDL](CppSdl.md)
 
  
 
@@ -79,7 +79,7 @@ tutorial](http://www.libsdl.org/intro.en/usinginit.html):
 
  
 
-The following [project file](CppQtProjectFile.htm) was used:
+The following [project file](CppQtProjectFile.md) was used:
 
  
 
@@ -102,9 +102,9 @@ Solution
 
  
 
-You need to [link](CppLink.htm) against the [SDL](CppSdl.htm)
-[library](CppLibrary.htm). Add the following line to your [project
-file](CppQtProjectFile.htm):
+You need to [link](CppLink.md) against the [SDL](CppSdl.md)
+[library](CppLibrary.md). Add the following line to your [project
+file](CppQtProjectFile.md):
 
  
 

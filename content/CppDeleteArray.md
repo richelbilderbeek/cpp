@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [delete\[\]](CppDeleteArray.htm)
+([C++](Cpp.md)) [delete\[\]](CppDeleteArray.md)
 =================================================
 
  
 
-[delete\[\]](CppDeleteArray.htm) (pronounced as 'delete array') is the
-version of [delete](CppDelete.htm) to [delete](CppDelete.htm)
-[arrays](CppArray.htm). In the example below, calling
-[delete](CppDelete.htm) would only [delete](CppDelete.htm) the first
-element of the [arrays](CppArray.htm), where
-[delete\[\]](CppDeleteArray.htm) really [deletes](CppDelete.htm) the
-[arrays](CppArray.htm).
+[delete\[\]](CppDeleteArray.md) (pronounced as 'delete array') is the
+version of [delete](CppDelete.md) to [delete](CppDelete.md)
+[arrays](CppArray.md). In the example below, calling
+[delete](CppDelete.md) would only [delete](CppDelete.md) the first
+element of the [arrays](CppArray.md), where
+[delete\[\]](CppDeleteArray.md) really [deletes](CppDelete.md) the
+[arrays](CppArray.md).
 
  
 

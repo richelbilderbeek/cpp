@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [AddTwo](CppAddTwo.htm)
+([C++](Cpp.md)) [AddTwo](CppAddTwo.md)
 ========================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to add two to
-all elements in a [container](CppContainer.htm).
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to add two to
+all elements in a [container](CppContainer.md).
 
  
 
-There are multiple ways to implement [AddTwo](CppAddTwo.htm):
+There are multiple ways to implement [AddTwo](CppAddTwo.md):
 
-1.  ![C++98](PicCpp98.png)![STL](PicStl.png) Using a [C++98](Cpp98.htm)
-    [algorithm](CppAlgorithm.htm)
-2.  ![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.htm)
-    [lambda expressions](CppLambdaExpression.htm)
+1.  ![C++98](PicCpp98.png)![STL](PicStl.png) Using a [C++98](Cpp98.md)
+    [algorithm](CppAlgorithm.md)
+2.  ![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.md)
+    [lambda expressions](CppLambdaExpression.md)
 3.  ![C++98](PicCpp98.png) Using a for-loop
 
  
@@ -44,13 +44,13 @@ There are multiple ways to implement [AddTwo](CppAddTwo.htm):
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [AddTwo](CppAddTwo.htm) using an [algorithm](CppAlgorithm.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [AddTwo](CppAddTwo.md) using an [algorithm](CppAlgorithm.md)
 -------------------------------------------------------------------------------------------------------
 
  
 
 This is the anwer of [exercise \#9: No for-loops
-\#1](CppExerciseNoForLoops.htm).
+\#1](CppExerciseNoForLoops.md).
 
  
 
@@ -68,7 +68,7 @@ This is the anwer of [exercise \#9: No for-loops
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.htm) [lambda expressions](CppLambdaExpression.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.md) [lambda expressions](CppLambdaExpression.md)
 -----------------------------------------------------------------------------------------------------------------
 
  
@@ -87,12 +87,12 @@ This is the anwer of [exercise \#9: No for-loops
 
  
 
-![C++98](PicCpp98.png) [AddTwo](CppAddTwo.htm) using a **[for](CppFor.htm)**-loop
+![C++98](PicCpp98.png) [AddTwo](CppAddTwo.md) using a **[for](CppFor.md)**-loop
 ---------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\].
 
  
 
@@ -110,16 +110,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The [C++](Cpp.htm)
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The [C++](Cpp.md)
     Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter
     18.12.1 : 'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). [C++](Cpp.htm) coding
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). [C++](Cpp.md) coding
     standards: 101 rules, guidelines, and best practices.
     ISBN: 0-32-111358-6. Chapter 84: 'Prefer algorithm calls to
     handwritten loops.'

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [apfloat](CppApfloat.htm)
+([C++](Cpp.md)) [apfloat](CppApfloat.md)
 ==========================================
 
  
 
-[apfloat](CppApfloat.htm) is a [library](CppLibrary.htm) to work with
-[arbitrary precision](CppArbitraryPrecision.htm)
-[double](CppDouble.htm).
+[apfloat](CppApfloat.md) is a [library](CppLibrary.md) to work with
+[arbitrary precision](CppArbitraryPrecision.md)
+[double](CppDouble.md).
 
  
 
@@ -31,14 +31,14 @@
 
  
 
-[apfloat](CppApfloat.htm) examples
+[apfloat](CppApfloat.md) examples
 ----------------------------------
 
  
 
--   [1: basics](CppApfloatExample1.htm)
--   [2: basics](CppApfloatExample2.htm)
--   [ApfloatToDouble](CppApfloatToDouble.htm): convert an aploat to
+-   [1: basics](CppApfloatExample1.md)
+-   [2: basics](CppApfloatExample2.md)
+-   [ApfloatToDouble](CppApfloatToDouble.md): convert an aploat to
     double
 
  
@@ -51,12 +51,12 @@
 
  
 
-My [apfloat](CppApfloat.htm) review
+My [apfloat](CppApfloat.md) review
 -----------------------------------
 
  
 
-In general, I'd review [apfloat](CppApfloat.htm) positively.
+In general, I'd review [apfloat](CppApfloat.md) positively.
 
  
 

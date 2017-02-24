@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::set\_intersection](CppSet_intersection.htm)
+([C++](Cpp.md)) [std::set\_intersection](CppSet_intersection.md)
 ==================================================================
 
  
 
-[std::set\_intersection](CppSet_intersection.htm) is an
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to create the
+[std::set\_intersection](CppSet_intersection.md) is an
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to create the
 intersection set of two sets (stored in any type of
-[container](CppContainer.htm)).
+[container](CppContainer.md)).
 
  
 

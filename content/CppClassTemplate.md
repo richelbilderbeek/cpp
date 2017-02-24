@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [class template](CppClassTemplate.htm)
+([C++](Cpp.md)) [class template](CppClassTemplate.md)
 =======================================================
 
  
 
-'A [class template](CppClassTemplate.htm) defines a family of
-[classes](CppClass.htm). A new [class](CppClass.htm) may be created from
-a [class template](CppClassTemplate.htm) by providing values for a
-number of [arguments](CppArgument.htm). These values may be names of
-[types](CppDataType.htm) or [constant
-expressions](CppConstantExpression.htm).' \[1\]
+'A [class template](CppClassTemplate.md) defines a family of
+[classes](CppClass.md). A new [class](CppClass.md) may be created from
+a [class template](CppClassTemplate.md) by providing values for a
+number of [arguments](CppArgument.md). These values may be names of
+[types](CppDataType.md) or [constant
+expressions](CppConstantExpression.md).' \[1\]
 
  
 
@@ -34,7 +34,7 @@ expressions](CppConstantExpression.htm).' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

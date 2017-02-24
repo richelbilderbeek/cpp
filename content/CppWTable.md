@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WTable](CppWTable.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WTable](CppWTable.md)
 =============================================================
 
  
 
-[Wt::WTable](CppWTable.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WTable](CppWTable.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a table.
 
  
@@ -30,7 +30,7 @@ for a table.
 
  
 
-[WTable](CppWTable.htm) example
+[WTable](CppWTable.md) example
 ===============================
 
  
@@ -53,37 +53,37 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
--   ![Web](PicWeb.png) [Web application](CppWebApplication.htm)
+-   ![Web](PicWeb.png) [Web application](CppWebApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.10 (oneiric)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.10 (oneiric)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.3.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.3.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.1
+-   [G++](CppGpp.md) 4.6.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.1
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.10
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.10
 
  
 
@@ -95,7 +95,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppWTable.pro
+[Qt project file](CppQtProjectFile.md): CppWTable.pro
 ------------------------------------------------------
 
  
@@ -142,5 +142,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

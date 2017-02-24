@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtMysteryMachineWidget](CppQtMysteryMachineWidget.htm)
+([C++](Cpp.md)) [QtMysteryMachineWidget](CppQtMysteryMachineWidget.md)
 ========================================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtMysteryMachineWidget](CppQtMysteryMachineWidget.htm) is a
-[Qt](CppQt.htm) [class](CppClass.htm) to display an
-[CppMysteryMachineWidget](CppMysteryMachineWidget.htm).
+[QtMysteryMachineWidget](CppQtMysteryMachineWidget.md) is a
+[Qt](CppQt.md) [class](CppClass.md) to display an
+[CppMysteryMachineWidget](CppMysteryMachineWidget.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

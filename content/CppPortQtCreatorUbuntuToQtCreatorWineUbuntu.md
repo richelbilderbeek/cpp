@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Porting code from Qt Creator under Ubuntu to Qt Creator under Wine under Ubuntu](CppPortQtCreatorUbuntuToQtCreatorWineUbuntu.htm)
+([C++](Cpp.md)) [Porting code from Qt Creator under Ubuntu to Qt Creator under Wine under Ubuntu](CppPortQtCreatorUbuntuToQtCreatorWineUbuntu.md)
 ===================================================================================================================================================
 
  
@@ -23,10 +23,10 @@ Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)
 
  
 
-It should be possible to [port](CppPort.htm) code from:
+It should be possible to [port](CppPort.md) code from:
 
 -   developed on the Ubuntu operating system
--   developed using the [IDE](CppIde.htm) [Qt Creator](CppQtCreator.htm)
+-   developed using the [IDE](CppIde.md) [Qt Creator](CppQtCreator.md)
 
  
 
@@ -36,10 +36,10 @@ to:
 
 -   a working Windows executable
 -   on the Ubuntu operating system
--   using [Wine](CppWine.htm) for a Windows environment to install the
-    [IDE](CppIde.htm) in
--   recompiled using the Windows version of the [IDE](CppIde.htm) [Qt
-    Creator](CppQtCreator.htm)
+-   using [Wine](CppWine.md) for a Windows environment to install the
+    [IDE](CppIde.md) in
+-   recompiled using the Windows version of the [IDE](CppIde.md) [Qt
+    Creator](CppQtCreator.md)
 
  
 

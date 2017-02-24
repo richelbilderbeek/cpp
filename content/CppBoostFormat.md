@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [boost::format](CppFormat.htm)
+([C++](Cpp.md)) [boost::format](CppFormat.md)
 ===============================================
 
  
 
-[boost::format](CppFormat.htm) is the type-safe alternative of
-[std::printf](CppPrintf.htm)(see example below).
+[boost::format](CppFormat.md) is the type-safe alternative of
+[std::printf](CppPrintf.md)(see example below).
 
  
 

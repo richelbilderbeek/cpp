@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Greg Lomow](CppGregLomow.htm)
+([C++](Cpp.md)) [Greg Lomow](CppGregLomow.md)
 ===============================================
 
  
 
-[Greg Lomow](CppGregLomow.htm) is the author of a programming-related
+[Greg Lomow](CppGregLomow.md) is the author of a programming-related
 book.
 
  
@@ -30,13 +30,13 @@ book.
 
  
 
-List of books (co-)authored by [Greg Lomow](CppGregLomow.htm)
+List of books (co-)authored by [Greg Lomow](CppGregLomow.md)
 -------------------------------------------------------------
 
  
 
-1.  [Marshall Cline](CppMarshallCline.htm), [Greg
-    Lomow](CppGregLomow.htm) and [Mike Girou](CppMikeGirou.htm).
+1.  [Marshall Cline](CppMarshallCline.md), [Greg
+    Lomow](CppGregLomow.md) and [Mike Girou](CppMikeGirou.md).
     C++ FAQs. ISBN: 0-201-3098301.
 
  

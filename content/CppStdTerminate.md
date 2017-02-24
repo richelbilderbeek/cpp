@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::terminate](CppTerminate.htm)
+([C++](Cpp.md)) [std::terminate](CppTerminate.md)
 ===================================================
 
  
 
-[std::terminate](CppTerminate.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to terminate a program's execution.
+[std::terminate](CppTerminate.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to terminate a program's execution.
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Call [std::terminate](CppTerminate.htm) in case of serious trouble
+-   Call [std::terminate](CppTerminate.md) in case of serious trouble
     \[1\]
 
  
@@ -50,12 +50,12 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 30.5.
     Advice. page 883: '\[12\] Call terminate in case of serious trouble'
 
@@ -78,5 +78,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

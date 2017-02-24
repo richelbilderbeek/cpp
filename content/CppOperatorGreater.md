@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [operator&gt;](CppOperatorGreater.htm)
+([C++](Cpp.md)) [operator&gt;](CppOperatorGreater.md)
 =======================================================
 
  
 
-[operator&gt;](CppOperatorGreater.htm) is the
-[operator](CppOperator.htm) to determine if the left-hand
-[instance](CppInstance.htm) is greater than the right-hand
-[instance](CppInstance.htm).
+[operator&gt;](CppOperatorGreater.md) is the
+[operator](CppOperator.md) to determine if the left-hand
+[instance](CppInstance.md) is greater than the right-hand
+[instance](CppInstance.md).
 
  
 
-The following code uses [operator&gt;](CppOperatorGreater.htm) to
+The following code uses [operator&gt;](CppOperatorGreater.md) to
 determine that two plus three is greater than four:
 
  
@@ -35,8 +35,8 @@ determine that two plus three is greater than four:
 
  
 
-[operator&gt;](CppOperatorGreater.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::greater](CppGreater.htm).
+[operator&gt;](CppOperatorGreater.md) is encapsulated by the
+[functor](CppFunctor.md) [std::greater](CppGreater.md).
 
  
 

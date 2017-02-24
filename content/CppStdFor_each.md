@@ -12,40 +12,40 @@
 
  
 
-([C++](Cpp.htm) ) [std::for\_each](CppFor_each.htm)
+([C++](Cpp.md) ) [std::for\_each](CppFor_each.md)
 ===================================================
 
  
 
-[Algorithm](CppAlgorithm.htm) to perform a non-modifying
-[function](CppFunction.htm) on the elements of a sequence (on a
-[std::vector](CppVector.htm), for example). Use
-[std::transform](CppTransform.htm) to perform modifying
-[functions](CppFunction.htm) on the elements of a sequence.
+[Algorithm](CppAlgorithm.md) to perform a non-modifying
+[function](CppFunction.md) on the elements of a sequence (on a
+[std::vector](CppVector.md), for example). Use
+[std::transform](CppTransform.md) to perform modifying
+[functions](CppFunction.md) on the elements of a sequence.
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over hand-written loops \[1-3\].
-View [Exercise \#9: No for-loops](CppExerciseNoForLoops.htm) to learn
+Prefer [algorithms](CppAlgorithm.md) over hand-written loops \[1-3\].
+View [Exercise \#9: No for-loops](CppExerciseNoForLoops.md) to learn
 how to remove hand-written loops .
 
  
 
-Note: [std::for\_each](CppFor_each.htm) is supposed to be non-modifying
+Note: [std::for\_each](CppFor_each.md) is supposed to be non-modifying
 \[1\], but I use it for modifying my sequences anyway.
 
  
 
 There are two kinds of examples below. The first uses
-[std::for\_each](CppFor_each.htm) combined with simple
-[functions](CppFunction.htm).
+[std::for\_each](CppFor_each.md) combined with simple
+[functions](CppFunction.md).
 
  
 
-The second piece of code shows the use of [functors](CppFunctor.htm) for
+The second piece of code shows the use of [functors](CppFunctor.md) for
 more advanced functionality. It is advised to use the latter \[3\], but
-I will show the first as an example. There are also [STL](CppStl.htm)
-[functors](CppFunctor.htm).
+I will show the first as an example. There are also [STL](CppStl.md)
+[functors](CppFunctor.md).
 
  
 
@@ -57,7 +57,7 @@ I will show the first as an example. There are also [STL](CppStl.htm)
 
  
 
-Example: Use of plain [functions](CppFunction.htm)
+Example: Use of plain [functions](CppFunction.md)
 --------------------------------------------------
 
  
@@ -76,7 +76,7 @@ Example: Use of plain [functions](CppFunction.htm)
 
  
 
-Example: Use of non-[STL](CppStl.htm) [functors](CppFunctor.htm)
+Example: Use of non-[STL](CppStl.md) [functors](CppFunctor.md)
 ----------------------------------------------------------------
 
  
@@ -95,7 +95,7 @@ Example: Use of non-[STL](CppStl.htm) [functors](CppFunctor.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

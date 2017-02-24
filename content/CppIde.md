@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [IDE](CppIde.htm)
+([C++](Cpp.md)) [IDE](CppIde.md)
 ==================================
 
  
 
-[IDE](CppIde.htm) is an abbreviation of 'Integrated Development
+[IDE](CppIde.md) is an abbreviation of 'Integrated Development
 Environment'. In other words: 'The program you program in'.
 
  
 
-List of [C++](Cpp.htm) [IDE](CppIde.htm)'s \[1\]:
+List of [C++](Cpp.md) [IDE](CppIde.md)'s \[1\]:
 
 1.  Anjuta
-2.  [C++ Builder](CppBuilder.htm)
-3.  [Code::Blocks](CppCodeBlocks.htm)
+2.  [C++ Builder](CppBuilder.md)
+3.  [Code::Blocks](CppCodeBlocks.md)
 4.  Code Crusader IDE
 5.  CodeLite
 6.  Dev-C++
@@ -39,7 +39,7 @@ List of [C++](Cpp.htm) [IDE](CppIde.htm)'s \[1\]:
 13. NetBeans C/C++ pack
 14. OpenWatcom
 15. PellesC
-16. [QT Creator](CppQtCreator.htm)
+16. [QT Creator](CppQtCreator.md)
 17. Sun Studio
 18. Rational Software Architect
 19. Turbo C++ Explorer
@@ -60,13 +60,13 @@ List of [C++](Cpp.htm) [IDE](CppIde.htm)'s \[1\]:
 
  
 
-Comparison of [IDE](CppIde.htm)'s
+Comparison of [IDE](CppIde.md)'s
 ---------------------------------
 
  
 
 1.  [Comparison of C++ Builder and Qt
-    Creator](CppCompareCppBuilderAndQtCreator.htm)
+    Creator](CppCompareCppBuilderAndQtCreator.md)
 
  
 
@@ -97,7 +97,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

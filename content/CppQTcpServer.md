@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QTcpServer](CppQTcpServer.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QTcpServer](CppQTcpServer.md)
 =================================================================
 
  
 
-[QTcpServer](CppQTcpServer.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QTcpServer](CppQTcpServer.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Error processing module JConsts.pas](CppLinkErrorErrorProcessingModuleJConstsPas.htm)
+([C++](Cpp.md)) [Error processing module JConsts.pas](CppLinkErrorErrorProcessingModuleJConstsPas.md)
 =======================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
@@ -64,7 +64,7 @@ Not sure, but I did both two things below:
  
 
 Added the following line to support JPEGs, to only one of the
-[implementation files (.cpp)](CppImplementationFile.htm) that will need
+[implementation files (.cpp)](CppImplementationFile.md) that will need
 it:
 
  
@@ -104,7 +104,7 @@ just did both.
  
 
 I added the following line to the other [implementation files
-(.cpp)](CppImplementationFile.htm) that will need it:
+(.cpp)](CppImplementationFile.md) that will need it:
 
  
 

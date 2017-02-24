@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [PDF](CppPdf.htm)
+([C++](Cpp.md)) [PDF](CppPdf.md)
 ==================================
 
  
 
-[PDF](CppPdf.htm) (an abbreviation of 'Portable Document Format') is a
+[PDF](CppPdf.md) (an abbreviation of 'Portable Document Format') is a
 type of file storing a document.
 
  
@@ -36,9 +36,9 @@ Examples
  
 
 -   [QPrinter example 1: grab a window and write it to
-    PDF](CppQPrinterExample1.htm)
+    PDF](CppQPrinterExample1.md)
 -   [Boost.Graph example 4: four human names and their relationships
-    displayed in Qt (loads and displays a PDF)](CppGraphExample4.htm)
+    displayed in Qt (loads and displays a PDF)](CppGraphExample4.md)
 
  
 
@@ -59,5 +59,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

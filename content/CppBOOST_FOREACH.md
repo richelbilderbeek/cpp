@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [BOOST\_FOREACH](CppBOOST_FOREACH.htm)
+([C++](Cpp.md)) [BOOST\_FOREACH](CppBOOST_FOREACH.md)
 =======================================================
 
  
 
-[BOOST\_FOREACH](CppBOOST_FOREACH.htm) is a [Boost](CppBoost.htm)
-[macro](CppMacro.htm) to replace [for](CppFor.htm)-loops or to simplify
-their corresponding [algorithm](CppAlgorithm.htm).
+[BOOST\_FOREACH](CppBOOST_FOREACH.md) is a [Boost](CppBoost.md)
+[macro](CppMacro.md) to replace [for](CppFor.md)-loops or to simplify
+their corresponding [algorithm](CppAlgorithm.md).
 
  
 
@@ -28,7 +28,7 @@ Examples
 
  
 
--   [BOOST\_FOREACH Example 1](CppBOOST_FOREACHExample1.htm)
+-   [BOOST\_FOREACH Example 1](CppBOOST_FOREACHExample1.md)
 
  
 

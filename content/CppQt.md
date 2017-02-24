@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt](CppQt.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt](CppQt.md)
 =================================================
 
  
 
-The [Qt](CppQt.htm) [library](CppLibrary.htm) is the
-[library](CppLibrary.htm) used by [Qt Creator](CppQtCreator.htm).
+The [Qt](CppQt.md) [library](CppLibrary.md) is the
+[library](CppLibrary.md) used by [Qt Creator](CppQtCreator.md).
 
  
 
-The current [Qt](CppQt.htm) [library](CppLibrary.htm) version (as of the
+The current [Qt](CppQt.md) [library](CppLibrary.md) version (as of the
 27th of March of 2010) is Qt4.
 
  
 
--   [Qt FAQ page](CppQtFaq.htm)
--   [Qt examples](CppQtExample.htm)
--   [Qt classes](CppQtClass.htm)
+-   [Qt FAQ page](CppQtFaq.md)
+-   [Qt examples](CppQtExample.md)
+-   [Qt classes](CppQtClass.md)
 
  
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Wt::WCssStyleSheet](CppWCssStyleSheet.htm)
+([C++](Cpp.md)) [Wt::WCssStyleSheet](CppWCssStyleSheet.md)
 ============================================================
 
  
 
-[Wt::WCssStyleSheet](CppWCssStyleSheet.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) to use a cascading style sheet.
+[Wt::WCssStyleSheet](CppWCssStyleSheet.md) is a [Wt](CppWt.md)
+[class](CppClass.md) to use a cascading style sheet.
 
  
 
 The stylesheet of an application is set in
-[Wt::WApplication](CppWApplication.htm), in multiple ways:
+[Wt::WApplication](CppWApplication.md), in multiple ways:
 
 -   By loading a css file
 -   By adding all css rules in code
@@ -94,7 +94,7 @@ These css rules are identical to the loaded css rules shown above.
 
  
 
-[Wt](CppWt.htm) widget tags
+[Wt](CppWt.md) widget tags
 ---------------------------
 
  
@@ -117,7 +117,7 @@ From \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

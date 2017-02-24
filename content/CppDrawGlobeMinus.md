@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [DrawGlobeMinus](CppDrawGlobeMinus.htm)
+([C++](Cpp.md)) [DrawGlobeMinus](CppDrawGlobeMinus.md)
 ========================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to draw
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to draw
 a globe with a minus on it.
 
  
 
-Assumes that you have already defined the [DrawGlobe](CppDrawGlobe.htm)
+Assumes that you have already defined the [DrawGlobe](CppDrawGlobe.md)
 function.
 
  

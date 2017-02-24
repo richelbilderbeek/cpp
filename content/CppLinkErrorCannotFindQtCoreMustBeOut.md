@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [cannot find -lQtCore, and I don't even want it](CppLinkErrorCannotFindQtCoreMustBeOut.htm)
+([C++](Cpp.md)) [cannot find -lQtCore, and I don't even want it](CppLinkErrorCannotFindQtCoreMustBeOut.md)
 ============================================================================================================
 
  
 
-[link error](CppLinkError.htm): [cannot find
--lQtCore](CppLinkErrorCannotFindQtCore.htm) and I don't even want it.
+[link error](CppLinkError.md): [cannot find
+-lQtCore](CppLinkErrorCannotFindQtCore.md) and I don't even want it.
 
  
 
-Add the following line to the [Qt Creator](CppQtCreator.htm) [project
-file](CppQtProjectFile.htm):
+Add the following line to the [Qt Creator](CppQtCreator.md) [project
+file](CppQtProjectFile.md):
 
  
 

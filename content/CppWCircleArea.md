@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WCircleArea](CppWCircleArea.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WCircleArea](CppWCircleArea.md)
 =======================================================================
 
  
 
-[Wt::WCircleArea](CppWCircleArea.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WCircleArea](CppWCircleArea.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WCircleArea](CppWCircleArea.htm) is used in, among others:
+[Wt::WCircleArea](CppWCircleArea.md) is used in, among others:
 
 -   ...
 

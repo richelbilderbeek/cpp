@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [PlotSurface](CppPlotSurface.htm)
+([C++](Cpp.md)) [PlotSurface](CppPlotSurface.md)
 ==================================================
 
  
 
-[ASCII art](CppAsciiArt.htm) [code snippet](CppCodeSnippets.htm) that
-displays a 2D (y-x-ordered) [std::vector](CppVector.htm) of
-[double](CppDouble.htm) as a surface chart using [ASCII
-art](CppAsciiArt.htm) characters (see an example below the code).
+[ASCII art](CppAsciiArt.md) [code snippet](CppCodeSnippets.md) that
+displays a 2D (y-x-ordered) [std::vector](CppVector.md) of
+[double](CppDouble.md) as a surface chart using [ASCII
+art](CppAsciiArt.md) characters (see an example below the code).
 
  
 
-[PlotSurface](CppPlotSurface.htm) uses
-[GetAsciiArtGradient](CppGetAsciiArtGradient.htm),
-[MinElement](CppMinElement.htm) and [MaxElement](CppMaxElement.htm).
+[PlotSurface](CppPlotSurface.md) uses
+[GetAsciiArtGradient](CppGetAsciiArtGradient.md),
+[MinElement](CppMinElement.md) and [MaxElement](CppMaxElement.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Why don't you correct the spelling errors in your name?](CppWhySpellingError.htm)
+([C++](Cpp.md)) [Why don't you correct the spelling errors in your name?](CppWhySpellingError.md)
 ===================================================================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 

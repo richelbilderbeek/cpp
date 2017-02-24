@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [nested template closer](CppNestedTemplateCloser.htm)
+([C++](Cpp.md)) [nested template closer](CppNestedTemplateCloser.md)
 ======================================================================
 
  
 
-When [template](CppTemplate.htm) [data types](CppDataType.htm) are
-nested, for example a [std::vector](CppVector.htm) of
-[std::vectors](CppVector.htm) of [int](CppInt.htm), its
-[declaration](CppDeclaration.htm) ends with its [nested template
-closer](CppNestedTemplateCloser.htm).
+When [template](CppTemplate.md) [data types](CppDataType.md) are
+nested, for example a [std::vector](CppVector.md) of
+[std::vectors](CppVector.md) of [int](CppInt.md), its
+[declaration](CppDeclaration.md) ends with its [nested template
+closer](CppNestedTemplateCloser.md).
 
  
 
-The [nested template closer](CppNestedTemplateCloser.htm) depends on the
-[standard](CppStandard.htm) used:
+The [nested template closer](CppNestedTemplateCloser.md) depends on the
+[standard](CppStandard.md) used:
 
 -   ![C++98](PicCpp98.png) [nested template
-    closer](CppNestedTemplateCloser.htm) in the [C++98](Cpp98.htm)
-    [standard](CppStandard.htm)
+    closer](CppNestedTemplateCloser.md) in the [C++98](Cpp98.md)
+    [standard](CppStandard.md)
 -   ![C++11](PicCpp11.png) [nested template
-    closer](CppNestedTemplateCloser.htm) in the [C++11](Cpp11.htm)
-    [standard](CppStandard.htm)
+    closer](CppNestedTemplateCloser.md) in the [C++11](Cpp11.md)
+    [standard](CppStandard.md)
 
  
 
@@ -45,12 +45,12 @@ The [nested template closer](CppNestedTemplateCloser.htm) depends on the
 
  
 
-![C++98](PicCpp98.png) [nested template closer](CppNestedTemplateCloser.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [nested template closer](CppNestedTemplateCloser.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 ----------------------------------------------------------------------------------------------------------------------------------
 
  
 
-The [nested template closer](CppNestedTemplateCloser.htm) must be '&gt;
+The [nested template closer](CppNestedTemplateCloser.md) must be '&gt;
 &gt;', instead of just '&gt;&gt;'.
 
  
@@ -69,7 +69,7 @@ The [nested template closer](CppNestedTemplateCloser.htm) must be '&gt;
 
  
 
-![C++11](PicCpp11.png) [nested template closer](CppNestedTemplateCloser.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [nested template closer](CppNestedTemplateCloser.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 ----------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -79,7 +79,7 @@ The [nested template closer](CppNestedTemplateCloser.htm) must be '&gt;
 
  
 
-The [nested template closer](CppNestedTemplateCloser.htm) can be
+The [nested template closer](CppNestedTemplateCloser.md) can be
 '&gt;&gt;'.
 
  
@@ -90,10 +90,10 @@ The [nested template closer](CppNestedTemplateCloser.htm) can be
 
  
 
-Technical note: this code is [compiled](CppCompile.htm) successfully
-using the [G++](CppGpp.htm) 4.4.5 [compiler](CppCompiler.htm), which is
-supplied with the [Qt Creator](CppQtCreator.htm) 2.0.0
-[IDE](CppIde.htm).
+Technical note: this code is [compiled](CppCompile.md) successfully
+using the [G++](CppGpp.md) 4.4.5 [compiler](CppCompiler.md), which is
+supplied with the [Qt Creator](CppQtCreator.md) 2.0.0
+[IDE](CppIde.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtRichelBilderbeekGalleryDialog](CppQtRichelBilderbeekGalleryDialog.htm)
+([C++](Cpp.md)) [QtRichelBilderbeekGalleryDialog](CppQtRichelBilderbeekGalleryDialog.md)
 ==========================================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtRichelBilderbeekGalleryDialog](CppQtRichelBilderbeekGalleryDialog.htm)
-is a [Qt](CppQt.htm) dialog for displaying the status of all
+[QtRichelBilderbeekGalleryDialog](CppQtRichelBilderbeekGalleryDialog.md)
+is a [Qt](CppQt.md) dialog for displaying the status of all
 ProjectRichelBilderbeek programs.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

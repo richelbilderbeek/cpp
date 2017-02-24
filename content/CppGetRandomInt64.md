@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetRandomInt64](CppGetRandomInt64.htm)
+([C++](Cpp.md)) [GetRandomInt64](CppGetRandomInt64.md)
 ========================================================
 
  
 
-[GetRandomInt64](CppGetRandomInt64.htm) is an [integer](CppInt.htm)
-[code snippet](CppCodeSnippets.htm) to obtain a [random](CppRandom.htm)
-[int64\_t](CppInt64_t.htm).
+[GetRandomInt64](CppGetRandomInt64.md) is an [integer](CppInt.md)
+[code snippet](CppCodeSnippets.md) to obtain a [random](CppRandom.md)
+[int64\_t](CppInt64_t.md).
 
  
 
@@ -41,30 +41,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -77,7 +77,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppGetRandomInt64.pro
+[Qt project file](CppQtProjectFile.md): CppGetRandomInt64.pro
 --------------------------------------------------------------
 
  
@@ -124,5 +124,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

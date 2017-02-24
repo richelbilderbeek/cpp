@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [const is not deep](CppConstIsNotDeep.htm)
+([C++](Cpp.md)) [const is not deep](CppConstIsNotDeep.md)
 ===========================================================
 
  
 
-The meaning of '[const is not deep](CppConstIsNotDeep.htm)' can be
+The meaning of '[const is not deep](CppConstIsNotDeep.md)' can be
 viewed in the example below:
 
  
@@ -29,7 +29,7 @@ viewed in the example below:
  
 
 The desired and proper getter of WidgetManager should be the following,
-in which the Widgets themselves are also [const](CppConst.htm):
+in which the Widgets themselves are also [const](CppConst.md):
 
  
 
@@ -39,7 +39,7 @@ in which the Widgets themselves are also [const](CppConst.htm):
 
  
 
-The [compiler](CppCompiler.htm), however, states that is cannot add
+The [compiler](CppCompiler.md), however, states that is cannot add
 const to the Widget:
 
  
@@ -61,7 +61,7 @@ The solution is to write a function to add const yourself:
  
 
 The function needs to be called in the getter [member
-function](CppMemberFunction.htm) as shown below. Note that the getter
+function](CppMemberFunction.md) as shown below. Note that the getter
 cannot return a reference to the original Widgets anymore.
 
  
@@ -89,5 +89,5 @@ cannot return a reference to the original Widgets anymore.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

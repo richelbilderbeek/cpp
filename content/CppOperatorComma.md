@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [operator,](CppOperatorComma.htm)
+([C++](Cpp.md)) [operator,](CppOperatorComma.md)
 ==================================================
 
  
 
-[operator,](CppOperatorComma.htm) (pronounced 'the comma
-[operator](CppOperator.htm)') is a rarely-used
-[operator](CppOperator.htm).
+[operator,](CppOperatorComma.md) (pronounced 'the comma
+[operator](CppOperator.md)') is a rarely-used
+[operator](CppOperator.md).
 
  
 

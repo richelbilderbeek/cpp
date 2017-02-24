@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [std::ostringstream](CppOstringstream.htm)
+([C++](Cpp.md)) [std::ostringstream](CppOstringstream.md)
 ===========================================================
 
  
 
-[std::ostringstream](CppOstringstream.htm) is an [STL](CppStl.htm)
-output [stream](CppStream.htm) interface for
-[std::string](CppString.htm) manipulation.
+[std::ostringstream](CppOstringstream.md) is an [STL](CppStl.md)
+output [stream](CppStream.md) interface for
+[std::string](CppString.md) manipulation.
 
  
 
-In the example below, [int](CppInt.htm) and [std::string](CppString.htm)
-are appended to a [std::ostringstream](CppOstringstream.htm), before the
-[std::ostringstream](CppOstringstream.htm) is finally converted to
-[std::string](CppString.htm).
+In the example below, [int](CppInt.md) and [std::string](CppString.md)
+are appended to a [std::ostringstream](CppOstringstream.md), before the
+[std::ostringstream](CppOstringstream.md) is finally converted to
+[std::string](CppString.md).
 
  
 

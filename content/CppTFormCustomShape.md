@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [TForm custom shape](CppTFormCustomShape.htm)
+([C++](Cpp.md)) [TForm custom shape](CppTFormCustomShape.md)
 ==============================================================
 
  
 
-[VCL](CppVcl.htm) [graphics](CppVclGraphics.htm) [code
-snippet](CppVclCodeSnippets.htm) to use a custom TForm shape.
+[VCL](CppVcl.md) [graphics](CppVclGraphics.md) [code
+snippet](CppVclCodeSnippets.md) to use a custom TForm shape.
 
  
 

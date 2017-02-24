@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Wt::WVBoxLayout](CppWVBoxLayout.htm)
+([C++](Cpp.md)) [Wt::WVBoxLayout](CppWVBoxLayout.md)
 ======================================================
 
  
 
-[Wt::WVBoxLayout](CppWVBoxLayout.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm). that arranges [Wt::WWidget](CppWWidget.htm)s
+[Wt::WVBoxLayout](CppWVBoxLayout.md) is a [Wt](CppWt.md)
+[class](CppClass.md). that arranges [Wt::WWidget](CppWWidget.md)s
 vertically.
 
  
@@ -31,12 +31,12 @@ vertically.
 
  
 
-[Wt::WVBoxLayout](CppWVBoxLayout.htm) examples
+[Wt::WVBoxLayout](CppWVBoxLayout.md) examples
 ----------------------------------------------
 
  
 
--   [Wt example 1](CppWtExample1.htm)
+-   [Wt example 1](CppWtExample1.md)
 
  
 

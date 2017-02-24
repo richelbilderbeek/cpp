@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WApplication](CppWApplication.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WApplication](CppWApplication.md)
 =========================================================================
 
  
 
-[Wt::WApplication](CppWApplication.htm) is a [class](CppClass.htm) in
-the [Wt](CppWt.htm) [library](CppLibrary.htm) that 'represents an
+[Wt::WApplication](CppWApplication.md) is a [class](CppClass.md) in
+the [Wt](CppWt.md) [library](CppLibrary.md) that 'represents an
 application instance for a single session' \[1\].
 
  
 
-[Wt::WApplication](CppWApplication.htm) has only a single
-[instance](CppInstance.htm) that can be accessed through
+[Wt::WApplication](CppWApplication.md) has only a single
+[instance](CppInstance.md) that can be accessed through
 WApplication::instance().
 
  
@@ -37,7 +37,7 @@ WApplication::instance().
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

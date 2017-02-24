@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Qt Creator keyboard shortcuts](CppQtCreatorKeyboardShortcuts.htm)
+([C++](Cpp.md)) [Qt Creator keyboard shortcuts](CppQtCreatorKeyboardShortcuts.md)
 ===================================================================================
 
  
 
-[Qt Creator keyboard shortcuts](CppQtCreatorKeyboardShortcuts.htm)
-contains my favorite [Qt Creator](CppQtCreator.htm) keyboard shortcuts.
+[Qt Creator keyboard shortcuts](CppQtCreatorKeyboardShortcuts.md)
+contains my favorite [Qt Creator](CppQtCreator.md) keyboard shortcuts.
 
  
 
@@ -26,7 +26,7 @@ contains my favorite [Qt Creator](CppQtCreator.htm) keyboard shortcuts.
 -   CTRL + \]: Go to matching bracket downwards
 -   CTRL + SHIFT + F: Find in project
 -   ALT + X: Acticate Projects Pane
--   ALT + 1: view issues (the [compiler](CppCompiler.htm) output)
+-   ALT + 1: view issues (the [compiler](CppCompiler.md) output)
 
  
 
@@ -45,5 +45,5 @@ contains my favorite [Qt Creator](CppQtCreator.htm) keyboard shortcuts.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

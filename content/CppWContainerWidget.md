@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WContainerWidget](CppWContainerWidget.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WContainerWidget](CppWContainerWidget.md)
 =================================================================================
 
  
 
-[Wt::WContainerWidget](CppWContainerWidget.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) that can be used as a [base
-class](CppBaseClass.htm) for a dialog.
+[Wt::WContainerWidget](CppWContainerWidget.md) is a [Wt](CppWt.md)
+[class](CppClass.md) that can be used as a [base
+class](CppBaseClass.md) for a dialog.
 
  
 
@@ -36,15 +36,15 @@ Examples
 
  
 
-[Wt::WContainerWidget](CppWContainerWidget.htm) is used in, among
+[Wt::WContainerWidget](CppWContainerWidget.md) is used in, among
 others:
 
--   [ProjectGtst](ProjectGtst.htm)
--   [ProjectWtWebsite](ProjectWtWebsite.htm)
--   [TestAsciiArter](ToolTestAsciiArter.htm)
--   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.htm)
--   [WtAboutDialog](CppWtAboutDialog.htm)
--   [WtTextUploader](CppWtTextUploader.htm)
+-   [ProjectGtst](ProjectGtst.md)
+-   [ProjectWtWebsite](ProjectWtWebsite.md)
+-   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)
+-   [WtAboutDialog](CppWtAboutDialog.md)
+-   [WtTextUploader](CppWtTextUploader.md)
 
  
 

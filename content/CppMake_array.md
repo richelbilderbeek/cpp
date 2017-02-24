@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Make\_array](CppMake_array.htm)
+([C++](Cpp.md)) [Make\_array](CppMake_array.md)
 =================================================
 
  
@@ -64,5 +64,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

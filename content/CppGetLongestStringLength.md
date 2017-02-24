@@ -12,40 +12,40 @@
 
  
 
-([C++](Cpp.htm)) [GetLongestStringLength](CppGetLongestStringLength.htm)
+([C++](Cpp.md)) [GetLongestStringLength](CppGetLongestStringLength.md)
 ========================================================================
 
  
 
-[GetLongestStringLength](CppGetLongestStringLength.htm) is a
-[std::string](CppString.htm) and [container](CppContainer.htm) [code
-snippet](CppCodeSnippets.htm) to obtain the length/size of the
-longest/largest [std::string](CppString.htm) in a
-[container](CppContainer.htm).
+[GetLongestStringLength](CppGetLongestStringLength.md) is a
+[std::string](CppString.md) and [container](CppContainer.md) [code
+snippet](CppCodeSnippets.md) to obtain the length/size of the
+longest/largest [std::string](CppString.md) in a
+[container](CppContainer.md).
 
  
 
 There are multiple versions of
-[GetLongestStringLength](CppGetLongestStringLength.htm):
+[GetLongestStringLength](CppGetLongestStringLength.md):
 
  
 
 -   ![C++98](PicCpp98.png)
-    [GetLongestStringLength](CppGetLongestStringLength.htm) using
-    [C++98](Cpp98.htm) and a [for](CppFor.htm)-loop
+    [GetLongestStringLength](CppGetLongestStringLength.md) using
+    [C++98](Cpp98.md) and a [for](CppFor.md)-loop
 -   ![C++98](PicCpp98.png)
-    [GetLongestStringLength](CppGetLongestStringLength.htm) using
-    [C++98](Cpp98.htm) and a [global](CppGlobal.htm)
-    [functor](CppFunctor.htm)
+    [GetLongestStringLength](CppGetLongestStringLength.md) using
+    [C++98](Cpp98.md) and a [global](CppGlobal.md)
+    [functor](CppFunctor.md)
 -   ![Boost](PicBoost.png)
-    [GetLongestStringLength](CppGetLongestStringLength.htm) using
+    [GetLongestStringLength](CppGetLongestStringLength.md) using
     boost::bind and boost::lambda
 -   ![Boost](PicBoost.png)
-    [GetLongestStringLength](CppGetLongestStringLength.htm) using
-    [BOOST\_FOREACH](CppBOOST_FOREACH.htm)
+    [GetLongestStringLength](CppGetLongestStringLength.md) using
+    [BOOST\_FOREACH](CppBOOST_FOREACH.md)
 -   ![C++11](PicCpp11.png)
-    [GetLongestStringLength](CppGetLongestStringLength.htm) using
-    [C++11](Cpp11.htm)
+    [GetLongestStringLength](CppGetLongestStringLength.md) using
+    [C++11](Cpp11.md)
 
  
 
@@ -57,7 +57,7 @@ There are multiple versions of
 
  
 
-![C++98](PicCpp98.png) [GetLongestStringLength](CppGetLongestStringLength.htm) using [C++98](Cpp98.htm) and a [for](CppFor.htm)-loop
+![C++98](PicCpp98.png) [GetLongestStringLength](CppGetLongestStringLength.md) using [C++98](Cpp98.md) and a [for](CppFor.htm)-loop
 ------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -76,7 +76,7 @@ There are multiple versions of
 
  
 
-![C++98](PicCpp98.png) [GetLongestStringLength](CppGetLongestStringLength.htm) using [C++98](Cpp98.htm) and a [global](CppGlobal.htm) [functor](CppFunctor.htm)
+![C++98](PicCpp98.png) [GetLongestStringLength](CppGetLongestStringLength.md) using [C++98](Cpp98.md) and a [global](CppGlobal.htm) [functor](CppFunctor.htm)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -95,7 +95,7 @@ There are multiple versions of
 
  
 
-![Boost](PicBoost.png) [GetLongestStringLength](CppGetLongestStringLength.htm) using boost::bind and boost::lambda
+![Boost](PicBoost.png) [GetLongestStringLength](CppGetLongestStringLength.md) using boost::bind and boost::lambda
 ------------------------------------------------------------------------------------------------------------------
 
  
@@ -114,7 +114,7 @@ There are multiple versions of
 
  
 
-![Boost](PicBoost.png) [GetLongestStringLength](CppGetLongestStringLength.htm) using [BOOST\_FOREACH](CppBOOST_FOREACH.htm)
+![Boost](PicBoost.png) [GetLongestStringLength](CppGetLongestStringLength.md) using [BOOST\_FOREACH](CppBOOST_FOREACH.md)
 ---------------------------------------------------------------------------------------------------------------------------
 
  
@@ -133,7 +133,7 @@ There are multiple versions of
 
  
 
-![C++11](PicCpp11.png) [GetLongestStringLength](CppGetLongestStringLength.htm) using [C++11](Cpp11.htm)
+![C++11](PicCpp11.png) [GetLongestStringLength](CppGetLongestStringLength.md) using [C++11](Cpp11.md)
 -------------------------------------------------------------------------------------------------------
 
  
@@ -175,35 +175,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -216,7 +216,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppGetLongestStringLength.pro
+[Qt project file](CppQtProjectFile.md): CppGetLongestStringLength.pro
 ----------------------------------------------------------------------
 
  
@@ -263,5 +263,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

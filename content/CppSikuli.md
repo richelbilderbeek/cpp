@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Sikuli](CppSikuli.htm)
+([C++](Cpp.md)) [Sikuli](CppSikuli.md)
 ========================================
 
  
 
-A [Sikuli](CppSikuli.htm) is a [GUI testing](CppGuiTest.htm) tool.
+A [Sikuli](CppSikuli.md) is a [GUI testing](CppGuiTest.md) tool.
 
  
 
@@ -36,5 +36,5 @@ A [Sikuli](CppSikuli.htm) is a [GUI testing](CppGuiTest.htm) tool.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

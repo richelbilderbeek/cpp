@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsSvgItem](CppQGraphicsSvgItem.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsSvgItem](CppQGraphicsSvgItem.md)
 =============================================================================
 
  
 
-[QGraphicsSvgItem](CppQGraphicsSvgItem.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) that is derived from
-[QGraphicsItem](CppQGraphicsItem.htm) for a [scalable vector graphic
-(.SVG)](CppSvg.htm).
+[QGraphicsSvgItem](CppQGraphicsSvgItem.md) is a [Qt](CppQt.md)
+[class](CppClass.md) that is derived from
+[QGraphicsItem](CppQGraphicsItem.md) for a [scalable vector graphic
+(.SVG)](CppSvg.md).
 
  
 
@@ -32,19 +32,19 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
-[QGraphicsSvgItem](CppQGraphicsSvgItem.htm) is used in, among others:
+[QGraphicsSvgItem](CppQGraphicsSvgItem.md) is used in, among others:
 
 -   [QGraphicsSvgItem example 1: display an
-    SVG](CppQGraphicsSvgItemExample1.htm)
+    SVG](CppQGraphicsSvgItemExample1.md)
 -   [QGraphicsSvgItem example 2: display an SVG, with
-    zoom](CppQGraphicsSvgItemExample2.htm)
+    zoom](CppQGraphicsSvgItemExample2.md)
 -   [QGraphicsSvgItem example 3: create and display an SVG, with
-    zoom](CppQGraphicsSvgItemExample3.htm)
+    zoom](CppQGraphicsSvgItemExample3.md)
 
  
 

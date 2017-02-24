@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [GetDistancesPath](CppGetDistancesPath.htm)
+([C++](Cpp.md)) [GetDistancesPath](CppGetDistancesPath.md)
 ============================================================
 
  
 
-[GetDistancesPath](CppGetDistancesPath.htm) is a [maze](CppMaze.htm)
-[code snippet](CppCodeSnippets.htm): if you have a maze its distances to
+[GetDistancesPath](CppGetDistancesPath.md) is a [maze](CppMaze.md)
+[code snippet](CppCodeSnippets.md): if you have a maze its distances to
 the exit of every free square (for example to solve a maze) you need an
-[algorithm](CppAlgorithm.htm) to 'walk' over these distances to the
-exit. '[GetDistancesPath](CppGetDistancesPath.htm)' does exactly this.
+[algorithm](CppAlgorithm.md) to 'walk' over these distances to the
+exit. '[GetDistancesPath](CppGetDistancesPath.md)' does exactly this.
 
  
 
@@ -40,17 +40,17 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): Qt4 [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

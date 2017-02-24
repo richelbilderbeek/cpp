@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#21](CppExerciseNoForLoopsAnswer21.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#21](CppExerciseNoForLoopsAnswer21.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,14 +30,14 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#21: [CopyFirst](CppCopyFirst.htm)
+Question \#21: [CopyFirst](CppCopyFirst.md)
 --------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [OProfile](OProfile.htm)
+([C++](Cpp.md)) [OProfile](OProfile.md)
 =========================================
 
  
 
-[OProfile](OProfile.htm) is a [profiler](CppProfiler.htm).
+[OProfile](OProfile.md) is a [profiler](CppProfiler.md).
 
  
 
@@ -38,5 +38,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::sqrt](CppSqrt.htm)
+([C++](Cpp.md)) [std::sqrt](CppSqrt.md)
 =========================================
 
  
 
-[std::sqrt](CppSqrt.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to obtain the square root of a
-[double](CppDouble.htm).
+[std::sqrt](CppSqrt.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to obtain the square root of a
+[double](CppDouble.md).
 
  
 

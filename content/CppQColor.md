@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QColor](CppQColor.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QColor](CppQColor.md)
 =========================================================
 
  
 
-[QColor](CppQColor.htm) is a [Qt](CppQt.htm) [class](CppClass.htm) for a
+[QColor](CppQColor.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
 color.
 
  
 
 The code below, adapted from [Qt example 1: moving a sprite over a
-background in 2D](CppQtExample1.htm), shows how to set the color lime to
+background in 2D](CppQtExample1.md), shows how to set the color lime to
 the color made transparent.
 
  

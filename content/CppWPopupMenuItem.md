@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPopupMenuItem](CppWPopupMenuItem.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPopupMenuItem](CppWPopupMenuItem.md)
 =============================================================================
 
  
 
-[Wt::WPopupMenuItem](CppWPopupMenuItem.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WPopupMenuItem](CppWPopupMenuItem.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WPopupMenuItem](CppWPopupMenuItem.htm) is used in, among others:
+[Wt::WPopupMenuItem](CppWPopupMenuItem.md) is used in, among others:
 
 -   ...
 

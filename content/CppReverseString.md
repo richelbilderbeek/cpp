@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [ReverseString](CppReverseString.htm)
+([C++](Cpp.md)) [ReverseString](CppReverseString.md)
 ======================================================
 
  
 
-[ReverseString](CppReverseString.htm) is a [std::string](CppString.htm)
-[code snippets](CppCodeSnippets.htm) to reverse a
-[std::string](CppString.htm).
+[ReverseString](CppReverseString.md) is a [std::string](CppString.md)
+[code snippets](CppCodeSnippets.md) to reverse a
+[std::string](CppString.md).
 
  
 
 Thanks to HK\_MP5KPDW for showing me this (even shorter) version of
-[ReverseString](CppReverseString.htm).
+[ReverseString](CppReverseString.md).
 
  
 

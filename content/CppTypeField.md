@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [type field](CppTypeField.htm)
+([C++](Cpp.md)) [type field](CppTypeField.md)
 ===============================================
 
  
@@ -29,12 +29,12 @@
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Avoid [type fields](CppTypeField.htm) \[1\]
+-   Avoid [type fields](CppTypeField.md) \[1\]
 
  
 
@@ -46,12 +46,12 @@
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 20.7.
     Advice. page 611: '\[1\] Avoid type fields'
 

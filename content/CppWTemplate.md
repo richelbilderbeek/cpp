@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WTemplate](CppWTemplate.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WTemplate](CppWTemplate.md)
 ===================================================================
 
  
 
-[Wt::WTemplate](CppWTemplate.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WTemplate](CppWTemplate.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WTemplate](CppWTemplate.htm) is used in, among others:
+[Wt::WTemplate](CppWTemplate.md) is used in, among others:
 
 -   ...
 

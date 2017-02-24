@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::cosh](CppCosh.htm)
+([C++](Cpp.md)) [std::cosh](CppCosh.md)
 =========================================
 
  
 
-[std::cosh](CppCosh.htm) is an [STL](CppStl.htm)
-[mathematical](CppMath.htm) [function](CppFunction.htm) to calculate the
+[std::cosh](CppCosh.md) is an [STL](CppStl.md)
+[mathematical](CppMath.md) [function](CppFunction.md) to calculate the
 hyperbolic cosine.
 
  

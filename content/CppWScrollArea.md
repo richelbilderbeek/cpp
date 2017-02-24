@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WScrollArea](CppWScrollArea.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WScrollArea](CppWScrollArea.md)
 =======================================================================
 
  
 
-[Wt::WScrollArea](CppWScrollArea.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WScrollArea](CppWScrollArea.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WScrollArea](CppWScrollArea.htm) is used in, among others:
+[Wt::WScrollArea](CppWScrollArea.md) is used in, among others:
 
 -   ...
 

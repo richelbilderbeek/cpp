@@ -12,22 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [std::remove](CppRemove.htm)
+([C++](Cpp.md)) [std::remove](CppRemove.md)
 =============================================
 
  
 
-There exist two different versions of [std::remove](CppRemove.htm) in
-the [STL](CppStl.htm):
+There exist two different versions of [std::remove](CppRemove.md) in
+the [STL](CppStl.md):
 
-1.  [std::remove](CppRemove.htm) in the [header file](CppHeaderFile.htm)
-    [algorithm.h](CppAlgorithmH.htm): [algorithm](CppAlgorithm.htm) to
-    remove elements from a [container](CppContainer.htm)
-2.  [std::remove](CppRemove.htm) in the [header file](CppHeaderFile.htm)
-    [cstdio.h](CppCstdioH.htm): [File I/O](CppFileIo.htm)
-    [function](CppFunction.htm) to remove a file
-
- 
+1.  [std::remove](CppRemove.md) in the [header file](CppHeaderFile.md)
+    [algorithm.h](CppAlgorithmH.md): [algorithm](CppAlgorithm.md) to
+    remove elements from a [container](CppContainer.md)
+2.  [std::remove](CppRemove.md) in the [header file](CppHeaderFile.md)
+    [cstdio.h](CppCstdioH.md): [File I/O](CppFileIo.md)
+    [function](CppFunction.md) to remove a file
 
  
 
@@ -37,12 +35,14 @@ the [STL](CppStl.htm):
 
  
 
-[Examples](CppExample.htm)
+ 
+
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::remove example 1: basics](CppRemoveExample1.htm)
+-   [std::remove example 1: basics](CppRemoveExample1.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm) [Dev C++](CppDevCpp.htm)) [FAQ](CppDevCppFaq.htm)
+([C++](Cpp.md) [Dev C++](CppDevCpp.md)) [FAQ](CppDevCppFaq.htm)
 =================================================================
 
  
@@ -25,7 +25,7 @@
 
  
 
--   [How must I use the debugger?](CppDebugDevCpp.htm)
+-   [How must I use the debugger?](CppDebugDevCpp.md)
 
  
 
@@ -42,12 +42,12 @@ Other FAQ pages
 
  
 
--   ![ ](PicSpacer.png) [C++ FAQ page](CppFaq.htm)
+-   ![ ](PicSpacer.png) [C++ FAQ page](CppFaq.md)
 -   ![C++ Builder](PicCppBuilder.png) [C++ Builder FAQ
-    page](CppBuilderFaq.htm)
--   ![Qt Creator](PicQtCreator.png) [Qt Creator FAQ page](CppQtFaq.htm)
--   ![Symbian](PicSymbian.png) [Symbian FAQ page](CppSymbianFaq.htm)
--   ![Wt](PicWt.png) [Wt FAQ page](CppWtFaq.htm)
+    page](CppBuilderFaq.md)
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator FAQ page](CppQtFaq.md)
+-   ![Symbian](PicSymbian.png) [Symbian FAQ page](CppSymbianFaq.md)
+-   ![Wt](PicWt.png) [Wt FAQ page](CppWtFaq.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [argument](CppArgument.htm)
+([C++](Cpp.md)) [argument](CppArgument.md)
 ============================================
 
  
@@ -28,10 +28,10 @@
 
  
 
-An [argument](CppArgument.htm) is a value that a
-[function](CppFunction.htm) or [member function](CppMemberFunction.htm)
+An [argument](CppArgument.md) is a value that a
+[function](CppFunction.md) or [member function](CppMemberFunction.md)
 needs to perform its task. In a [function
-declaration](CppFunctionDeclaration.htm) [arguments](CppArgument.htm)
+declaration](CppFunctionDeclaration.md) [arguments](CppArgument.md)
 are seperated by comma's.
 
  
@@ -49,8 +49,8 @@ Examples
 
  
 
-The [function](CppFunction.htm) 'SayHello' below does not need an
-[argument](CppArgument.htm): all it does it put the text 'Hello' on
+The [function](CppFunction.md) 'SayHello' below does not need an
+[argument](CppArgument.md): all it does it put the text 'Hello' on
 screen. It does not need additional information to perform its task.
 
  
@@ -61,10 +61,10 @@ screen. It does not need additional information to perform its task.
 
  
 
-The [function](CppFunction.htm) 'SayHelloManyTimes' below needs one
-[argument](CppArgument.htm): how often to put the text 'Hello' on
-screen. The part '[const](CppConst.htm) [int](CppInt.htm) n' is said to
-be the first and only [argument](CppArgument.htm).
+The [function](CppFunction.md) 'SayHelloManyTimes' below needs one
+[argument](CppArgument.md): how often to put the text 'Hello' on
+screen. The part '[const](CppConst.md) [int](CppInt.md) n' is said to
+be the first and only [argument](CppArgument.md).
 
  
 
@@ -82,7 +82,7 @@ be the first and only [argument](CppArgument.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

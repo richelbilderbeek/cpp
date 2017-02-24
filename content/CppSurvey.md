@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Survey](CppSurvey.htm)
+([C++](Cpp.md)) [Survey](CppSurvey.md)
 ========================================
 
  
 
-[Survey](CppSurvey.htm) is a [class](CppClass.htm) for a survey.
+[Survey](CppSurvey.md) is a [class](CppClass.md) for a survey.
 
  
 
@@ -76,5 +76,5 @@ survey.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

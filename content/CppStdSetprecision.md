@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::setprecision](CppSetprecision.htm)
+([C++](Cpp.md)) [std::setprecision](CppSetprecision.md)
 =========================================================
 
  
 
-[std::setprecision](CppSetprecision.htm) is a [stream](CppStream.htm)
+[std::setprecision](CppSetprecision.md) is a [stream](CppStream.md)
 manipulator to set the precion in displaying a floating point number.
 
  
@@ -30,13 +30,13 @@ manipulator to set the precion in displaying a floating point number.
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [std::setprecision example 1: displaying a certain number of digits
-    behind the comma](CppSetprecisionExample1.htm)
+    behind the comma](CppSetprecisionExample1.md)
 
  
 

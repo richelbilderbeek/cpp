@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) [Compiling under Cygwin](CppCompileUnderCygwin.htm)
+([C++](Cpp.md)) [Compiling under Cygwin](CppCompileUnderCygwin.md)
 ====================================================================
 
  
 
-This page is about [compiling under Cygwin](CppCompileUnderCygwin.htm),
-while [running Cygwin under Wine](CppCygwinUnderWine.htm) under Ubuntu.
-The goal of [compiling under Cygwin](CppCompileUnderCygwin.htm) is to
-[port](CppPort.htm) code from Linux to Windows.
+This page is about [compiling under Cygwin](CppCompileUnderCygwin.md),
+while [running Cygwin under Wine](CppCygwinUnderWine.md) under Ubuntu.
+The goal of [compiling under Cygwin](CppCompileUnderCygwin.md) is to
+[port](CppPort.md) code from Linux to Windows.
 
  
 
--   [Compiling STL code under Cygwin](CppCompileStlUnderCygwin.htm)
+-   [Compiling STL code under Cygwin](CppCompileStlUnderCygwin.md)
     (console application)
 -   [Compiling STL code under Cygwin under Wine under
-    Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.htm)
+    Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.md)
     (console application)
 -   [Compiling STL+Boost code under
-    Cygwin](CppCompileBoostUnderCygwin.htm) (console application)
+    Cygwin](CppCompileBoostUnderCygwin.md) (console application)
 -   [Compiling STL+Boost+Qt code under
-    Cygwin](CppCompileQtUnderCygwin.htm) ([GUI](CppGui.htm) application)
+    Cygwin](CppCompileQtUnderCygwin.md) ([GUI](CppGui.md) application)
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Multithreaded RTL must be selected](CppCompileErrorMultithreadedRtlMustBeSelected.htm)
+([C++](Cpp.md)) [Multithreaded RTL must be selected](CppCompileErrorMultithreadedRtlMustBeSelected.md)
 ========================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,8 +53,8 @@ Cause
 
  
 
--   IDE: [C++ Builder](CppBuilder.htm) 6.0
--   [Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+-   IDE: [C++ Builder](CppBuilder.md) 6.0
+-   [Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 -   Boost version: 1.35.0.
 
  
@@ -106,5 +106,5 @@ You must enable multi-thread applications:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

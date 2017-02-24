@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SelectionSort](CppSelectionSort.htm)
+([C++](Cpp.md)) [SelectionSort](CppSelectionSort.md)
 ======================================================
 
  
 
-[SelectionSort](CppSelectionSort.htm) is a [sort](CppSort.htm) [code
-snippet](CppCodeSnippets.htm) to perform a selection sort.
+[SelectionSort](CppSelectionSort.md) is a [sort](CppSort.md) [code
+snippet](CppCodeSnippets.md) to perform a selection sort.
 
  
 

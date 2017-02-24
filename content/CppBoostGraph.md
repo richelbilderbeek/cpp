@@ -12,21 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Graph](CppBoostGraph.htm)
+([C++](Cpp.md)) [Boost.Graph](CppBoostGraph.md)
 =================================================
 
  
 
-[Boost.Graph](CppBoostGraph.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) to work with [graphs](CppGraph.htm).
+[Boost.Graph](CppBoostGraph.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) to work with [graphs](CppGraph.md).
 
  
 
-I have written a [Boost.Graph tutorial](CppBoostGraphTutorial.htm).
-
- 
-
- 
+I have written a [Boost.Graph tutorial](CppBoostGraphTutorial.md).
 
  
 
@@ -34,7 +30,11 @@ I have written a [Boost.Graph tutorial](CppBoostGraphTutorial.htm).
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  

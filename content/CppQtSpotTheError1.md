@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Spot The Error 1](CppQtSpotTheError1.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Spot The Error 1](CppQtSpotTheError1.md)
 ============================================================================
 
  
 
-Try to [Spot The Error](CppQtSpotTheError.htm)...
+Try to [Spot The Error](CppQtSpotTheError.md)...
 
  
 
@@ -41,15 +41,15 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 GUI Application
+[Project type](CppQtProjectType.md): Qt4 GUI Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 

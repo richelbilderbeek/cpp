@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::nth\_element](CppNth_element.htm)
+([C++](Cpp.md)) [std::nth\_element](CppNth_element.md)
 ========================================================
 
  
 
-[std::nth\_element](CppNth_element.htm) is an [STL](CppStl.htm)
-[sorting](CppSort.htm) [algorithm](CppAlgorithm.htm) that
-[sorts](CppSort.htm) a [container](CppContainer.htm) up until the nth
+[std::nth\_element](CppNth_element.md) is an [STL](CppStl.md)
+[sorting](CppSort.md) [algorithm](CppAlgorithm.md) that
+[sorts](CppSort.md) a [container](CppContainer.md) up until the nth
 element and leaves the rest unsorted.
 
  

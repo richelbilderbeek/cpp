@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [map.h](CppMapH.htm)
+([C++](Cpp.md)) [map.h](CppMapH.md)
 =====================================
 
  
 
-[map.h](CppMapH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) that contains the
-[definitions](CppDefinition.htm) of:
+[map.h](CppMapH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) that contains the
+[definitions](CppDefinition.md) of:
 
--   [std::map](CppMap.htm)
--   [std::multi\_map](CppMulti_map.htm)
+-   [std::map](CppMap.md)
+-   [std::multi\_map](CppMulti_map.md)
 
  
 

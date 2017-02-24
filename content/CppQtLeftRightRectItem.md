@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtLeftRightRectItem](CppQtLeftRightRectItem.htm)
+([C++](Cpp.md)) [QtLeftRightRectItem](CppQtLeftRightRectItem.md)
 ==================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtLeftRightRectItem](CppQtLeftRightRectItem.htm) is a [Qt](CppQt.htm)
-[QGraphicsItem](CppQGraphicsItem.htm) [class](CppClass.htm) that has a
+[QtLeftRightRectItem](CppQtLeftRightRectItem.md) is a [Qt](CppQt.md)
+[QGraphicsItem](CppQGraphicsItem.md) [class](CppClass.md) that has a
 left and right focus.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

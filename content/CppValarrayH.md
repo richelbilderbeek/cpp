@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [valarray.h](CppValarrayH.htm)
+([C++](Cpp.md)) [valarray.h](CppValarrayH.md)
 ===============================================
 
  
 
-[valarray.h](CppValarrayH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the [definition](CppDefinition.htm)
-of [std::valarray](CppValarray.htm).
+[valarray.h](CppValarrayH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the [definition](CppDefinition.md)
+of [std::valarray](CppValarray.md).
 
  
 

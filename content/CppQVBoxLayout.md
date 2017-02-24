@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QVBoxLayout](CppQVBoxLayout.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QVBoxLayout](CppQVBoxLayout.md)
 ===================================================================
 
  
 
-[QVBoxLayout](CppQVBoxLayout.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QVBoxLayout](CppQVBoxLayout.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

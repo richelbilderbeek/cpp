@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) ['Hello CLN' using Qt Creator under Ubuntu](CppHelloClnQtCreatorUbuntu.htm)
+([C++](Cpp.md)) ['Hello CLN' using Qt Creator under Ubuntu](CppHelloClnQtCreatorUbuntu.md)
 ============================================================================================
 
  
 
-[Hello CLN](CppHelloCln.htm) is an extension of [Hello
-World](CppHelloWorld.htm). Like [Hello World](CppHelloWorld.htm), [Hello
-CLN](CppHelloCln.htm) is a simple console application. [Hello
-CLN](CppHelloCln.htm), however, also requires the [CLN](CppCln.htm)
-[library](CppLibrary.htm) and to [link](CppLink.htm) against it.
+[Hello CLN](CppHelloCln.md) is an extension of [Hello
+World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md), [Hello
+CLN](CppHelloCln.md) is a simple console application. [Hello
+CLN](CppHelloCln.md), however, also requires the [CLN](CppCln.md)
+[library](CppLibrary.md) and to [link](CppLink.md) against it.
 
  
 
@@ -32,18 +32,16 @@ CLN](CppHelloCln.htm), however, also requires the [CLN](CppCln.htm)
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -53,7 +51,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

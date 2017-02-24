@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [std::bad\_alloc](CppBad_alloc.htm)
+([C++](Cpp.md)) [std::bad\_alloc](CppBad_alloc.md)
 ====================================================
 
  
 
-[std::bad\_alloc](CppBad_alloc.htm) is an [exception](CppException.htm)
-and a [derived class](CppDerivedClass.htm) from
-[std::exception](CppException.htm). [std::bad\_alloc](CppBad_alloc.htm)
-is [thrown](CppThrow.htm) by [new](CppNew.htm) when [new](CppNew.htm)
+[std::bad\_alloc](CppBad_alloc.md) is an [exception](CppException.md)
+and a [derived class](CppDerivedClass.md) from
+[std::exception](CppException.md). [std::bad\_alloc](CppBad_alloc.md)
+is [thrown](CppThrow.md) by [new](CppNew.md) when [new](CppNew.htm)
 fails.
 
  
 
-[std::bad\_alloc](CppBad_alloc.htm) is defined in the [header
-file](CppHeaderFile.htm) [new](CppNewH.htm).
+[std::bad\_alloc](CppBad_alloc.md) is defined in the [header
+file](CppHeaderFile.md) [new](CppNewH.md).
 
  
 
@@ -44,7 +44,7 @@ Example
  
 
 -   [Download the Qt Creator project
-    'CppBad\_alloc' (zip)](CppBad_alloc.htm)
+    'CppBad\_alloc' (zip)](CppBad_alloc.md)
 
  
 

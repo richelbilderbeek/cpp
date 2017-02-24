@@ -12,28 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [std::mem\_fun](CppMem_fun.htm)
+([C++](Cpp.md)) [std::mem\_fun](CppMem_fun.md)
 ================================================
 
  
 
-An [adapter](CppAdapter.htm) to be able to use
-[for\_each](CppFor_each.htm) on a [member
-function](CppMemberFunction.htm) of T stored in a
-[container](CppContainer.htm) as T\* (compare
-[std::mem\_fun\_ref](CppMem_fun_ref.htm), to use
-[for\_each](CppFor_each.htm) on a [member
-function](CppMemberFunction.htm) of T stored in a
-[container](CppContainer.htm) as T ).
+An [adapter](CppAdapter.md) to be able to use
+[for\_each](CppFor_each.md) on a [member
+function](CppMemberFunction.md) of T stored in a
+[container](CppContainer.md) as T\* (compare
+[std::mem\_fun\_ref](CppMem_fun_ref.md), to use
+[for\_each](CppFor_each.md) on a [member
+function](CppMemberFunction.md) of T stored in a
+[container](CppContainer.md) as T ).
 
  
 
-Use a [container](CppContainer.htm) of
-[boost::shared\_ptr](CppShared_ptr.htm)&lt;T&gt; instead.
-
- 
-
- 
+Use a [container](CppContainer.md) of
+[boost::shared\_ptr](CppShared_ptr.md)&lt;T&gt; instead.
 
  
 
@@ -41,7 +37,11 @@ Use a [container](CppContainer.htm) of
 
  
 
-Replacing a [for](CppFor.htm) loop by algorithms using [std::mem\_fun](CppMem_fun.htm)
+ 
+
+ 
+
+Replacing a [for](CppFor.md) loop by algorithms using [std::mem\_fun](CppMem_fun.md)
 --------------------------------------------------------------------------------------
 
  

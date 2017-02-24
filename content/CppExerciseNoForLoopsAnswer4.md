@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#4](CppExerciseNoForLoopsAnswer4.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#4](CppExerciseNoForLoopsAnswer4.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -40,9 +40,9 @@ Question \#4: Widget::DoIt on Widget
 
  
 
-Replace the [for](CppFor.htm)-loop. You will need
-[std::for\_each](CppFor_each.htm) and
-[std::mem\_fun\_ref](CppMem_fun_ref.htm).
+Replace the [for](CppFor.md)-loop. You will need
+[std::for\_each](CppFor_each.md) and
+[std::mem\_fun\_ref](CppMem_fun_ref.md).
 
  
 
@@ -60,7 +60,7 @@ Replace the [for](CppFor.htm)-loop. You will need
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) Answer using [C++98](Cpp98.htm) its [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) Answer using [C++98](Cpp98.md) its [STL](CppStl.md)
 ----------------------------------------------------------------------------------------------
 
  
@@ -79,7 +79,7 @@ Replace the [for](CppFor.htm)-loop. You will need
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) Answer using [C++98](Cpp98.htm) and [Boost](CppBoost.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) Answer using [C++98](Cpp98.md) and [Boost](CppBoost.md)
 ------------------------------------------------------------------------------------------------------
 
  
@@ -98,13 +98,13 @@ Replace the [for](CppFor.htm)-loop. You will need
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) Answer using [C++11](Cpp11.htm) its [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) Answer using [C++11](Cpp11.md) its [STL](CppStl.md)
 ----------------------------------------------------------------------------------------------
 
  
 
-Instead of using a [functor](CppFunctor.htm), use a [lambda
-expressions](CppLambdaExpression.htm).
+Instead of using a [functor](CppFunctor.md), use a [lambda
+expressions](CppLambdaExpression.md).
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   ` #include <algorithm> #include <vector>  void DoIt(const std::vector<Widget>& v) {   std::for_each(v.begin(),v.end(),[](const Widget& w) { w.DoIt(); } ); }`

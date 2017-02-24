@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPrintPreviewDialog](CppQPrintPreviewDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPrintPreviewDialog](CppQPrintPreviewDialog.md)
 ===================================================================================
 
  
 
-[QPrintPreviewDialog](CppQPrintPreviewDialog.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for a print preview dialog.
+[QPrintPreviewDialog](CppQPrintPreviewDialog.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for a print preview dialog.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[QPrintPreviewDialog](CppQPrintPreviewDialog.htm) is used in, among
+[QPrintPreviewDialog](CppQPrintPreviewDialog.md) is used in, among
 others:
 
 -   ...

@@ -12,32 +12,32 @@
 
  
 
-([C++](Cpp.htm)) [helgrind](CppHelgrind.htm)
+([C++](Cpp.md)) [helgrind](CppHelgrind.md)
 ============================================
 
  
 
-[helgrind](CppHelgrind.htm) is one of the [valgrind](CppValgrind.htm)
+[helgrind](CppHelgrind.md) is one of the [valgrind](CppValgrind.md)
 tools that 'a thread debugger which finds data races in multithreaded
 programs' \[1\].
 
  
 
-Using [helgrind](CppHelgrind.htm) depends on your [operating
-system](CppOs.htm) and [IDE](CppIde.htm):
+Using [helgrind](CppHelgrind.md) depends on your [operating
+system](CppOs.md) and [IDE](CppIde.md):
 
  
 
 -   ![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![console](PicConsole.png)![Desktop](PicDesktop.png)
-    [Example 1: two counting threads](CppHelgrindExample1.htm)
+    [Example 1: two counting threads](CppHelgrindExample1.md)
 -   ![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![console](PicConsole.png)![Desktop](PicDesktop.png)
     [Example 2: two counting threads using
-    std::mutex](CppHelgrindExample2.htm)
+    std::mutex](CppHelgrindExample2.md)
 -   ![Wt](PicWt.png)![Qt
     Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![console](PicConsole.png)![Web](PicWeb.png)
-    [Example 3: Hello Wt](CppHelgrindExample3.htm)
+    [Example 3: Hello Wt](CppHelgrindExample3.md)
 
  
 
@@ -66,7 +66,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

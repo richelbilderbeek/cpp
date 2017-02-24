@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [Shallow copy](CppShallowCopy.htm)
+([C++](Cpp.md)) [Shallow copy](CppShallowCopy.md)
 ===================================================
 
  
 
-A [shallow copy](CppShallowCopy.htm) is a type of copy operation and the
-opposite of a [deep copy](CppDeepCopy.htm).
+A [shallow copy](CppShallowCopy.md) is a type of copy operation and the
+opposite of a [deep copy](CppDeepCopy.md).
 
  
 
-Both types of copy operations work on a [class](CppClass.htm), with a
-[pointer](CppPointer.htm) to data member. When this
-[class](CppClass.htm) is copied, two things can happen:
+Both types of copy operations work on a [class](CppClass.md), with a
+[pointer](CppPointer.md) to data member. When this
+[class](CppClass.md) is copied, two things can happen:
 
--   A [shallow copy](CppShallowCopy.htm) only copies the
-    [pointer](CppPointer.htm), so both copies work on the same data
+-   A [shallow copy](CppShallowCopy.md) only copies the
+    [pointer](CppPointer.md), so both copies work on the same data
 -   A deep copy copies the data pointed to as well, so both copies work
     on different data
 
  
 
-The code below shows a [shallow copy](CppShallowCopy.htm):
+The code below shows a [shallow copy](CppShallowCopy.md):
 
  
 

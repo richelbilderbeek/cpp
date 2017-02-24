@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Undefined reference to 'consoleInit'](CppLinkErrorUndefinedReferenceToConsoleInit.htm)
+([C++](Cpp.md)) [Undefined reference to 'consoleInit'](CppLinkErrorUndefinedReferenceToConsoleInit.md)
 ========================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
@@ -26,24 +26,22 @@ Operating system(s):
 -   ![NDS](PicNds.png) Nintendo DS
 -   ![Ubuntu](PicUbuntu.png) Ubuntu 10.04 LTS Lucid Lynx
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
 -   ![Command line](PicCl.png) command line
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Libnds](PicLibnds.png) [Libnds](CppLibnds.htm): version 1.4.7
-
- 
+-   ![Libnds](PicLibnds.png) [Libnds](CppLibnds.md): version 1.4.7
 
  
 
@@ -53,7 +51,9 @@ Operating system(s):
 
  
 
-[Project file](CppQtProjectFile.htm)
+ 
+
+[Project file](CppQtProjectFile.md)
 ------------------------------------
 
  
@@ -96,7 +96,7 @@ Partial solution
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm):
+Add the following line to your [project file](CppQtProjectFile.md):
 
  
 

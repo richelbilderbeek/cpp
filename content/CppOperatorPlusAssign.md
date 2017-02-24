@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator+=](CppOperatorPlusAssign.htm)
+([C++](Cpp.md)) [operator+=](CppOperatorPlusAssign.md)
 ========================================================
 
  
 
-[operator+=](CppOperatorPlusAssign.htm) is the
-[operator](CppOperator.htm) to add a [variable](CppVariable.htm)'s value
+[operator+=](CppOperatorPlusAssign.md) is the
+[operator](CppOperator.md) to add a [variable](CppVariable.md)'s value
 by a certain value, without making a copy.
 
  

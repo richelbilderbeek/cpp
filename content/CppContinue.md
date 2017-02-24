@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [continue](CppContinue.htm)
+([C++](Cpp.md)) [continue](CppContinue.md)
 ============================================
 
  
 
-[continue](CppContinue.htm) is a [keyword](CppKeyword.htm) to skip the
-rest of a [for](CppFor.htm)/[while](CppWhile.htm)-[loop](CppLoop.htm)
+[continue](CppContinue.md) is a [keyword](CppKeyword.md) to skip the
+rest of a [for](CppFor.md)/[while](CppWhile.md)-[loop](CppLoop.htm)
 and continue to perform the next.
 
  
@@ -29,7 +29,7 @@ and continue to perform the next.
 
  
 
-Consider to never use [continue](CppContinue.htm) \[1\].
+Consider to never use [continue](CppContinue.md) \[1\].
 
  
 
@@ -41,7 +41,7 @@ Consider to never use [continue](CppContinue.htm) \[1\].
 
  
 
-Example: [CountDeadEnds](CppCountDeadEnds.htm)
+Example: [CountDeadEnds](CppCountDeadEnds.md)
 ----------------------------------------------
 
  
@@ -60,7 +60,7 @@ Example: [CountDeadEnds](CppCountDeadEnds.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -89,5 +89,5 @@ Example: [CountDeadEnds](CppCountDeadEnds.htm)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

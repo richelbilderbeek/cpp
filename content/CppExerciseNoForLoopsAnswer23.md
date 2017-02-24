@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#23](CppExerciseNoForLoopsAnswer23.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#23](CppExerciseNoForLoopsAnswer23.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,15 +30,15 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#23: [SumFirst](CppSumFirst.htm)
+Question \#23: [SumFirst](CppSumFirst.md)
 ------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
--   [std::plus](CppPlus.htm)
+-   [boost::bind](CppBind.md)
+-   [std::plus](CppPlus.md)
 
  
 
@@ -56,12 +56,12 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![STL](PicStl.png) Answer using [STL](CppStl.htm) only
+![STL](PicStl.png) Answer using [STL](CppStl.md) only
 ------------------------------------------------------
 
  
 
-You may [contact me](Contact.htm) if you have an [STL](CppStl.htm)
+You may [contact me](Contact.md) if you have an [STL](CppStl.md)
 solution...
 
  
@@ -74,7 +74,7 @@ solution...
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Bind
 --------------------------------------------------------------
 
  
@@ -97,7 +97,7 @@ Thanks to 'ofwolfandman':
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Lambda
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Lambda
 ----------------------------------------------------------------
 
  

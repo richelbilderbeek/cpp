@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#11](CppExerciseNoForLoopsAnswer11.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#11](CppExerciseNoForLoopsAnswer11.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,11 +35,11 @@ Question \#11: Replace zero by one
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::replace](CppReplace.htm) (or
-    [std::replace\_if](CppReplace_if.htm) with
-    [std::bind2nd](CppBind2nd.htm))
+-   [std::replace](CppReplace.md) (or
+    [std::replace\_if](CppReplace_if.md) with
+    [std::bind2nd](CppBind2nd.md))
 
  
 
@@ -57,7 +57,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Answer using [std::replace](CppReplace.htm)
+Answer using [std::replace](CppReplace.md)
 -------------------------------------------
 
  
@@ -80,7 +80,7 @@ The preferred way: it is easiest to read and shortest to write.
 
  
 
-Answer using [std::replace\_if](CppReplace_if.htm)
+Answer using [std::replace\_if](CppReplace_if.md)
 --------------------------------------------------
 
  

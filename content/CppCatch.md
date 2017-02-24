@@ -12,26 +12,26 @@
 
  
 
-([C++](Cpp.htm)) [catch](CppCatch.htm)
+([C++](Cpp.md)) [catch](CppCatch.md)
 ======================================
 
  
 
-[catch](CppCatch.htm) is a [keyword](CppKeyword.htm) to mark a
-[catch](CppCatch.htm)-block. A [catch](CppCatch.htm)-block is always
-preceded by a [try](CppTry.htm)-block in which an
-[exception](CppException.htm) might be [thrown](CppThrow.htm). The
-[exception](CppException.htm) can be [caught](CppCatch.htm) by the
-subsequent [catch](CppCatch.htm)-block.
+[catch](CppCatch.md) is a [keyword](CppKeyword.md) to mark a
+[catch](CppCatch.md)-block. A [catch](CppCatch.md)-block is always
+preceded by a [try](CppTry.md)-block in which an
+[exception](CppException.md) might be [thrown](CppThrow.md). The
+[exception](CppException.md) can be [caught](CppCatch.md) by the
+subsequent [catch](CppCatch.md)-block.
 
  
 
-The code below shows the [function](CppFunction.htm)
-[CanLexicalCast](CppCanLexicalCast.htm), which [returns](CppReturn.htm)
-[true](CppTrue.htm) if a certain [std::string](CppString.htm) can be
-[converted](CppConvert.htm) to another [data type](CppDataType.htm) (an
-[int](CppInt.htm), for example). The risky operation, the
-[conversion](CppConvert.htm), is put in the [try](CppTry.htm)-block.
+The code below shows the [function](CppFunction.md)
+[CanLexicalCast](CppCanLexicalCast.md), which [returns](CppReturn.md)
+[true](CppTrue.md) if a certain [std::string](CppString.md) can be
+[converted](CppConvert.md) to another [data type](CppDataType.md) (an
+[int](CppInt.md), for example). The risky operation, the
+[conversion](CppConvert.md), is put in the [try](CppTry.md)-block.
 
  
 
@@ -49,17 +49,17 @@ The code below shows the [function](CppFunction.htm)
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Don't try to [catch](CppCatch.htm) every
-    [exception](CppException.htm) in every [function](CppFunction.htm)
+-   Don't try to [catch](CppCatch.md) every
+    [exception](CppException.md) in every [function](CppFunction.md)
     \[1\]
--   Always [catch](CppCatch.htm) [exception](CppStdException.htm)&
+-   Always [catch](CppCatch.md) [exception](CppStdException.md)&
     and ... \[3\]
--   Have [main](CppMain.htm) [catch](CppCatch.htm) and report every
+-   Have [main](CppMain.md) [catch](CppCatch.md) and report every
     exception \[2\]
 
  
@@ -70,20 +70,20 @@ The code below shows the [function](CppFunction.htm)
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 13.7.
     Advice. page 387: '\[8\] 'Don't try to catch every exception in
     every function'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 13.7.
     Advice. page 387: '\[27\] 'Have main() catch and report every
     exception'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 30.5.
     Advice. page 883: '\[10\] Always catch exception& (for
     standard-library and language support exceptions) and ... (for

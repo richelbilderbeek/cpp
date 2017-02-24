@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [final](CppFinal.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [final](CppFinal.md)
 =============================================================
 
  
 
-[final](CppFinal.htm) is a [C++11](Cpp11.htm) contextual
-[keyword](CppKeyword.htm) to indicate that a [virtual](CppVirtual.htm)
-[member function](CppMemberFunction.htm) cannot be overriden, or that a
+[final](CppFinal.md) is a [C++11](Cpp11.md) contextual
+[keyword](CppKeyword.md) to indicate that a [virtual](CppVirtual.md)
+[member function](CppMemberFunction.md) cannot be overriden, or that a
 class cannot be used as a base class.
 
  
@@ -47,12 +47,12 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [final](CppFinal.htm) only sparingly \[1\]
+-   Use [final](CppFinal.md) only sparingly \[1\]
 
  
 
@@ -69,7 +69,7 @@ References
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 20.7.
     Advice. page 611: '\[5\] Use final only sparingly'
 
@@ -92,5 +92,5 @@ References
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

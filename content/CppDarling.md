@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Darling](CppDarling.htm)
+([C++](Cpp.md)) [Darling](CppDarling.md)
 ==========================================
 
  
 
-[Darling](CppDarling.htm) is an [emulator](CppEmulator.htm) to run
-Darwin/OS X binaries under [linux](CppLinux.htm).
+[Darling](CppDarling.md) is an [emulator](CppEmulator.md) to run
+Darwin/OS X binaries under [linux](CppLinux.md).
 
  
 

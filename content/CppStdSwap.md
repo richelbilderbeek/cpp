@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::swap](CppSwap.htm)
+([C++](Cpp.md)) [std::swap](CppSwap.md)
 =========================================
 
  
 
-[Algorithm](CppAlgorithm.htm) to swap two values of the same [data
-type](CppDataType.htm).
+[Algorithm](CppAlgorithm.md) to swap two values of the same [data
+type](CppDataType.md).
 
  
 
-The [definition](CppDefinition.htm) of [std::swap](CppSwap.htm) is in
-[algorithm.h](CppAlgorithmH.htm).
+The [definition](CppDefinition.md) of [std::swap](CppSwap.md) is in
+[algorithm.h](CppAlgorithmH.md).
 
  
 
@@ -33,9 +33,9 @@ The [definition](CppDefinition.htm) of [std::swap](CppSwap.htm) is in
 
  
 
-Consider specializing std::swap for your own [classes](CppClass.htm)
+Consider specializing std::swap for your own [classes](CppClass.md)
 when you know a more efficient way to exhange their values by calling
-[operator=](CppOperatorAssign.htm) three times \[1\].
+[operator=](CppOperatorAssign.md) three times \[1\].
 
  
 
@@ -45,7 +45,7 @@ when you know a more efficient way to exhange their values by calling
 
  
 
-Example [definition](CppDefinition.htm)
+Example [definition](CppDefinition.md)
 ---------------------------------------
 
  
@@ -70,7 +70,7 @@ XOR swap
  
 
 The XOR swap is another way to swap two values. Prefer using
-[std::swap](CppSwap.htm) \[2\].
+[std::swap](CppSwap.md) \[2\].
 
  
 
@@ -106,12 +106,12 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++ style. 2005.
+1.  [Herb Sutter](CppHerbSutter.md). Exceptional C++ style. 2005.
     ISBN: 0-201-76042-8. Item 6 guideline: 'consider specializing
     std::swap for your own types when objects of your type have a way to
     exhange their values more efficiently than via

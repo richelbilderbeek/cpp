@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [BoostConst\_pointer\_castExample1](CppBoostConst_pointer_castExample1.htm)
+([C++](Cpp.md)) [BoostConst\_pointer\_castExample1](CppBoostConst_pointer_castExample1.md)
 ============================================================================================
 
  
@@ -23,39 +23,39 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [boost::const\_pointer\_cast example
-1](CppBoostConst_pointer_castExample1.htm) is a
-[boost::const\_pointer\_cast](CppBoostConst_pointer_cast.htm)
-[example](CppExample.htm).
+1](CppBoostConst_pointer_castExample1.md) is a
+[boost::const\_pointer\_cast](CppBoostConst_pointer_cast.md)
+[example](CppExample.md).
 
 Technical facts
 ---------------
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -68,7 +68,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppBoostConst\_pointer\_castExample1/CppBoostConst\_pointer\_castExample1.pro
+[Qt project file](CppQtProjectFile.md): ./CppBoostConst\_pointer\_castExample1/CppBoostConst\_pointer\_castExample1.pro
 ------------------------------------------------------------------------------------------------------------------------
 
  
@@ -115,5 +115,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

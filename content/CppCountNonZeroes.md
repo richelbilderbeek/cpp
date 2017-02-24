@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CountNonZeroes](CppCountNonZeroes.htm)
+([C++](Cpp.md)) [CountNonZeroes](CppCountNonZeroes.md)
 ========================================================
 
  
 
-[CountNonZeroes](CppCountNonZeroes.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to count all non-zero elements in a
-[container](CppContainer.htm).
+[CountNonZeroes](CppCountNonZeroes.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to count all non-zero elements in a
+[container](CppContainer.md).
 
  
 

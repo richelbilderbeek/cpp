@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [typeinfo.h](CppTypeinfoH.htm)
+([C++](Cpp.md)) [typeinfo.h](CppTypeinfoH.md)
 ===============================================
 
  
 
-[typeinfo.h](CppTypeinfoH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) that contains the
-[definitions](CppDefinition.htm) of (incomplete list):
+[typeinfo.h](CppTypeinfoH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) that contains the
+[definitions](CppDefinition.md) of (incomplete list):
 
--   [std::typeinfo](CppTypeinfo.htm)
+-   [std::typeinfo](CppTypeinfo.md)
 
  
 

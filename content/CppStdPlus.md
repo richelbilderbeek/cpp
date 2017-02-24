@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::plus](CppPlus.htm)
+([C++](Cpp.md)) [std::plus](CppPlus.md)
 =========================================
 
  
 
-[std::plus](CppPlus.htm) is a [functor](CppFunctor.htm) that
-encapsulates [operator+](CppOperatorPlus.htm).
+[std::plus](CppPlus.md) is a [functor](CppFunctor.md) that
+encapsulates [operator+](CppOperatorPlus.md).
 
  
 

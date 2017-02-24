@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) ![Raspbian](PicRaspbian.png)![qemu](PicQemu.png) [Running raspbian under qemu](CppRaspbianUnderQemu.htm)
+([C++](Cpp.md)) ![Raspbian](PicRaspbian.png)![qemu](PicQemu.png) [Running raspbian under qemu](CppRaspbianUnderQemu.md)
 =========================================================================================================================
 
  
 
-[Running raspbian under qemu](CppRaspbianUnderQemu.htm) describes how to
-run [raspbian](CppRaspbian.htm) under [qemu](CppQemu.htm).
+[Running raspbian under qemu](CppRaspbianUnderQemu.md) describes how to
+run [raspbian](CppRaspbian.md) under [qemu](CppQemu.md).
 
  
 
 Summary from \[1\] (see \[1\] for more detailed instructions):
 
--   Download the [linux](CppLinux.htm) kernel:\
+-   Download the [linux](CppLinux.md) kernel:\
      \
       ------------------------------------------------------------------------
       `     wget http://xecdesign.com/downloads/linux-qemu/kernel-qemu     `
       ------------------------------------------------------------------------
 
      \
--   Download the [raspbian](CppRaspbian.htm) .img file
+-   Download the [raspbian](CppRaspbian.md) .img file
     '2012-10-28-wheezy-raspbian.zip' (or any newer file) from
     <http://www.raspberrypi.org/downloads>
--   Put the [linux](CppLinux.htm) kernel and [raspbian](CppRaspbian.htm)
+-   Put the [linux](CppLinux.md) kernel and [raspbian](CppRaspbian.md)
     image in same working folder
 -   In the working folder, do:\
      \
@@ -65,7 +65,7 @@ Summary from \[1\] (see \[1\] for more detailed instructions):
  
 
 Initially, there is little disk space left on the emulated
-[raspbian](CppRaspbian.htm).
+[raspbian](CppRaspbian.md).
 
  
 
@@ -131,7 +131,7 @@ Solution: use the file '2012-10-28-wheezy-raspbian.zip' from
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

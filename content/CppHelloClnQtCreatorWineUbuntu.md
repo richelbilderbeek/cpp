@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ['Hello CLN' using (a Windows version of) Qt Creator under Wine under Ubuntu](CppHelloClnQtCreatorWineUbuntu.htm)
+([C++](Cpp.md)) ['Hello CLN' using (a Windows version of) Qt Creator under Wine under Ubuntu](CppHelloClnQtCreatorWineUbuntu.md)
 ==================================================================================================================================
 
  
 
-Running ['Hello CLN'](CppHelloCln.htm) using (a Windows version of) [Qt
-Creator](CppQtCreator.htm) under [Wine](CppWine.htm) under Ubuntu fails,
-because the [CLN](CppCln.htm) [library](CppLibrary.htm) cannot be built
+Running ['Hello CLN'](CppHelloCln.md) using (a Windows version of) [Qt
+Creator](CppQtCreator.md) under [Wine](CppWine.md) under Ubuntu fails,
+because the [CLN](CppCln.md) [library](CppLibrary.md) cannot be built
 under Windows.
 
  

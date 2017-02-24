@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtPylos](CppQtPylos.htm)
+([C++](Cpp.md)) [QtPylos](CppQtPylos.md)
 ==========================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CppQtPylos](CppQtPylos.htm) is a [Qt](CppQt.htm) [class](CppClass.htm)
+[CppQtPylos](CppQtPylos.md) is a [Qt](CppQt.md) [class](CppClass.htm)
 for displaying a Pylos game.
 
 Technical facts
@@ -220,5 +220,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [stdio.h:430: error: expected initializer before 'throw'](CppCompileErrorStdioHexpectedInitializerBeforeThrow.htm)
+([C++](Cpp.md)) [stdio.h:430: error: expected initializer before 'throw'](CppCompileErrorStdioHexpectedInitializerBeforeThrow.md)
 ===================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm) ([BEI](CppBei.htm) 2) I encountered
+[Compile error](CppCompileError.md) ([BEI](CppBei.md) 2) I encountered
 while busy solving [How to cross-compile a Qt Creator project from
 Ubuntu to a windows executable: example 3: console application with a
-Boost library](CppQtCrosscompileToWindowsExample3.htm).
+Boost library](CppQtCrosscompileToWindowsExample3.md).
 
  
 
@@ -46,7 +46,7 @@ System specifics
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): gedit
+[IDE](CppIde.md): gedit
 
  
 
@@ -82,9 +82,9 @@ Process
 
  
 
-Because I was trying to solve the [Qt FAQ](CppQtFaq.htm) [How to
+Because I was trying to solve the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm), I compiled the code as
+executable?](CppQtCrosscompileToWindows.md), I compiled the code as
 follows:
 
  
@@ -135,8 +135,8 @@ Take a look at /usr/include/stdio.h line 430:
 
  
 
-It seems as if a re-[throw](CppThrow.htm) (that is, a
-[throw](CppThrow.htm) without arguments) is unsupported by
+It seems as if a re-[throw](CppThrow.md) (that is, a
+[throw](CppThrow.md) without arguments) is unsupported by
 i586-mingw32msvc-g++. Is it true that stdio.h is a C library file, as
 stated in its licence?
 
@@ -168,7 +168,7 @@ Including the mingw32 header files, solves this problem:
 
 But this takes one to the next problem: [boost/filesystem.hpp: No such
 file or
-directory](CppCompileErrorBoostFilesystemHppNoSuchFileOrDirectory.htm).
+directory](CppCompileErrorBoostFilesystemHppNoSuchFileOrDirectory.md).
 
  
 

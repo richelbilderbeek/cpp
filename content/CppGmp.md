@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [GMP](CppGmp.htm)
+([C++](Cpp.md)) [GMP](CppGmp.md)
 ==================================
 
  
 
-[GMP](CppGmp.htm) (abbreviation of GNU Multiple Precision
-[Library](CppLibrary.htm)) is a [library](CppLibrary.htm) to work with
+[GMP](CppGmp.md) (abbreviation of GNU Multiple Precision
+[Library](CppLibrary.md)) is a [library](CppLibrary.md) to work with
 higher-precision data types, for example an infinite-size
-[int](CppInt.htm).
+[int](CppInt.md).
 
  
 
@@ -32,13 +32,13 @@ higher-precision data types, for example an infinite-size
 
  
 
-[Installing GMP](CppGmpInstall.htm)
+[Installing GMP](CppGmpInstall.md)
 -----------------------------------
 
  
 
-For information about [installing GMP](CppGmpInstall.htm), go to the
-page about [installing GMP](CppGmpInstall.htm).
+For information about [installing GMP](CppGmpInstall.md), go to the
+page about [installing GMP](CppGmpInstall.md).
 
  
 
@@ -50,13 +50,13 @@ page about [installing GMP](CppGmpInstall.htm).
 
  
 
-[Porting GMP](CppGmpPort.htm)
+[Porting GMP](CppGmpPort.md)
 -----------------------------
 
  
 
-Information about [porting GMP](CppGmpPort.htm), can be found at the
-page about [porting GMP](CppGmpPort.htm).
+Information about [porting GMP](CppGmpPort.md), can be found at the
+page about [porting GMP](CppGmpPort.md).
 
  
 
@@ -68,13 +68,13 @@ page about [porting GMP](CppGmpPort.htm).
 
  
 
-![Qt Creator](PicQt.png)![Ubuntu](PicUbuntu.png) Note for [Qt Creator](CppQtCreator.htm) under Ubuntu users
+![Qt Creator](PicQt.png)![Ubuntu](PicUbuntu.png) Note for [Qt Creator](CppQtCreator.md) under Ubuntu users
 -----------------------------------------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 

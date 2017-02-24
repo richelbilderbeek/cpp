@@ -14,7 +14,7 @@
 
  
 
-([C++](Cpp.htm)) [Max\_elementExample1](CppMax_elementExample1.htm)
+([C++](Cpp.md)) [Max\_elementExample1](CppMax_elementExample1.md)
 ===================================================================
 
  
@@ -24,31 +24,31 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.10 (saucy)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.10 (saucy)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm)
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md)
     unknown
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.8.1
+-   [G++](CppGpp.md) 4.8.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.8.1
 
  
@@ -61,7 +61,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppMax\_elementExample1/CppMax\_elementExample1.pro
+[Qt project file](CppQtProjectFile.md): ./CppMax\_elementExample1/CppMax\_elementExample1.pro
 ----------------------------------------------------------------------------------------------
 
  

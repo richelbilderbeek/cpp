@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [vector.h](CppVectorH.htm)
+([C++](Cpp.md)) [vector.h](CppVectorH.md)
 ===========================================
 
  
 
-[vector.h](CppVectorH.htm) is a [header file](CppHeaderFile.htm)
-containing the [definition](CppDefinition.htm) of
-[std::vector](CppVector.htm).
+[vector.h](CppVectorH.md) is a [header file](CppHeaderFile.md)
+containing the [definition](CppDefinition.md) of
+[std::vector](CppVector.md).
 
  
 
@@ -29,7 +29,7 @@ containing the [definition](CppDefinition.htm) of
 
  
 
-Note that [vector.h](CppVectorH.htm) is [\#included](CppInclude.htm)
+Note that [vector.h](CppVectorH.md) is [\#included](CppInclude.md)
 without the .h extension.
 
  

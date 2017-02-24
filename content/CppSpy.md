@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Spy](CppSpy.htm)
+([C++](Cpp.md)) [Spy](CppSpy.md)
 ==================================
 
  
 
-A [spy](CppSpy.htm) is 'a [test double](CppTestDouble.htm) that captures
+A [spy](CppSpy.md) is 'a [test double](CppTestDouble.md) that captures
 information sent to it for later verification' \[1\].
 
  
@@ -30,12 +30,12 @@ information sent to it for later verification' \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Jeff Langr](CppJeffLangr.htm). Modern C++ Programming with
+1.  [Jeff Langr](CppJeffLangr.md). Modern C++ Programming with
     Test-Driven Development. 2013. ISBN: 978-1-937785-48-2. Chapter
     5.10, page 136: 'Spy: A test double that captures information sent
     to it for later verification'
@@ -59,5 +59,5 @@ information sent to it for later verification' \[1\].
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

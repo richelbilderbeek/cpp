@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [bzconfig.h: Unknown compiler](CppCompileErrorBzconfigHunknownCompiler.htm)
+([C++](Cpp.md)) [bzconfig.h: Unknown compiler](CppCompileErrorBzconfigHunknownCompiler.md)
 ============================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -51,11 +51,11 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
-[Blitz++](CppBlitzpp.htm) version: 0.9
+[Blitz++](CppBlitzpp.md) version: 0.9
 
 Project type: Console Application
 
@@ -67,7 +67,7 @@ Project type: Console Application
 
  
 
-The [compiler](CppCompiler.htm) will show you the code of
+The [compiler](CppCompiler.md) will show you the code of
 blitz/bzconfig.h:
 
  
@@ -91,7 +91,7 @@ Solution
 
  
 
-Use a [compiler](CppCompiler.htm) that [Blitz++](CppBlitzpp.htm)
+Use a [compiler](CppCompiler.md) that [Blitz++](CppBlitzpp.md)
 supports.
 
  

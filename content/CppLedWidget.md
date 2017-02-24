@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [LedWidget](CppLedWidget.htm)
+([C++](Cpp.md)) [LedWidget](CppLedWidget.md)
 ==============================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[LedWidget](CppLedWidget.htm) is a [Led](CppLed.htm)
-[widget](CppWidget.htm).
+[LedWidget](CppLedWidget.md) is a [Led](CppLed.md)
+[widget](CppWidget.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

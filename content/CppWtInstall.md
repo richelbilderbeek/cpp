@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt install](CppWtInstall.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt install](CppWtInstall.md)
 ================================================================
 
  
 
-[Wt install](CppWtInstall.htm) is about installing [Wt](CppWt.htm).
+[Wt install](CppWtInstall.md) is about installing [Wt](CppWt.md).
 
  
 
@@ -29,7 +29,7 @@
 
  
 
-![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm)
+![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md)
 ----------------------------------------------------
 
  
@@ -46,7 +46,7 @@ Easy, use 'sudo apt-get install wt' or something like that.
 
  
 
-![Windows](PicWindows.png) [Windows](CppWindows.htm)
+![Windows](PicWindows.png) [Windows](CppWindows.md)
 ----------------------------------------------------
 
  

@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::count\_if](CppCount_if.htm)
+([C++](Cpp.md)) [std::count\_if](CppCount_if.md)
 ==================================================
 
  
 
-[std::count\_if](CppCount_if.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) for counting elements in a
-[container](CppContainer.htm) matching a certain
-[predicate](CppPredicate.htm). For counting without a
-[predicate](CppPredicate.htm) use [std::count](CppCount.htm).
+[std::count\_if](CppCount_if.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) for counting elements in a
+[container](CppContainer.md) matching a certain
+[predicate](CppPredicate.md). For counting without a
+[predicate](CppPredicate.md) use [std::count](CppCount.md).
 
  
 
@@ -33,7 +33,7 @@
 
  
 
-Example: [CountNonZeroes](CppCountNonZeroes.htm)
+Example: [CountNonZeroes](CppCountNonZeroes.md)
 ------------------------------------------------
 
  

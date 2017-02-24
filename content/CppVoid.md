@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [void](CppVoid.htm)
+([C++](Cpp.md)) [void](CppVoid.md)
 ====================================
 
  
 
-[void](CppVoid.htm) is a [keyword](CppKeyword.htm) to specify that a
-[function](CppFunction.htm) does not [return](CppReturn.htm) a value.
+[void](CppVoid.md) is a [keyword](CppKeyword.md) to specify that a
+[function](CppFunction.md) does not [return](CppReturn.md) a value.
 
  
 
-In the code below, the [function](CppFunction.htm) 'SayHello' puts the
-text 'Hello' on the screen, but does not [return](CppReturn.htm)
+In the code below, the [function](CppFunction.md) 'SayHello' puts the
+text 'Hello' on the screen, but does not [return](CppReturn.md)
 anything.
 
  

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Artificial intelligence](CppArtificialIntelligence.htm)
+([C++](Cpp.md)) [Artificial intelligence](CppArtificialIntelligence.md)
 =========================================================================
 
  
@@ -30,15 +30,15 @@ learning or computing.
 
  
 
-[Artificial intelligence](CppArtificialIntelligence.htm) [code snippets](CppCodeSnippets.htm)
+[Artificial intelligence](CppArtificialIntelligence.md) [code snippets](CppCodeSnippets.md)
 ---------------------------------------------------------------------------------------------
 
  
 
--   [Finite state machine](CppFiniteStateMachine.htm)
+-   [Finite state machine](CppFiniteStateMachine.md)
 -   [N-armed bandit learner class (example of
-    reinforcement learning)](CppNarmedBanditLearner.htm)
--   [Neural network](CppNeuralNet.htm)
+    reinforcement learning)](CppNarmedBanditLearner.md)
+-   [Neural network](CppNeuralNet.md)
 
  
 
@@ -50,19 +50,19 @@ learning or computing.
 
  
 
-[Artificial intelligence](CppArtificialIntelligence.htm) [libraries](CppLibrary.htm)
+[Artificial intelligence](CppArtificialIntelligence.md) [libraries](CppLibrary.md)
 ------------------------------------------------------------------------------------
 
  
 
--   Annie: [neural networks](CppNeuralNet.htm)
--   [Boost.Statechart](CppStatechart.htm): [finite state
-    machines](CppFiniteStateMachine.htm)
--   [Eo](CppEo.htm): genetic programming
--   [GAlib](CppGalib.htm): genetic algorithms
--   [FANN](CppFann.htm): [neural networks](CppNeuralNet.htm)
--   [Flood](CppFlood.htm): [neural networks](CppNeuralNet.htm)
--   [Shark](CppShark.htm): general machine learning
+-   Annie: [neural networks](CppNeuralNet.md)
+-   [Boost.Statechart](CppStatechart.md): [finite state
+    machines](CppFiniteStateMachine.md)
+-   [Eo](CppEo.md): genetic programming
+-   [GAlib](CppGalib.md): genetic algorithms
+-   [FANN](CppFann.md): [neural networks](CppNeuralNet.md)
+-   [Flood](CppFlood.md): [neural networks](CppNeuralNet.md)
+-   [Shark](CppShark.md): general machine learning
 
  
 

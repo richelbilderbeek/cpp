@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::less\_equal](CppLess_equal.htm)
+([C++](Cpp.md)) [std::less\_equal](CppLess_equal.md)
 ======================================================
 
  
 
-[std::less\_equal](CppLess_equal.htm) is an [STL](CppStl.htm)
-[predicate](CppPredicate.htm) to perform
-[operator&lt;=](CppOperatorLessEqual.htm) on two values.
+[std::less\_equal](CppLess_equal.md) is an [STL](CppStl.md)
+[predicate](CppPredicate.md) to perform
+[operator&lt;=](CppOperatorLessEqual.md) on two values.
 
  
 

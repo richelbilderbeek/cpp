@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm)
+([C++](Cpp.md)) [QGraphicsSceneEvent](CppQGraphicsSceneEvent.md)
 ==================================================================
 
  
 
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm) is the [base
-class](CppBaseClass.htm) for all [QGraphicsView](CppQGraphicsView.htm)
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md) is the [base
+class](CppBaseClass.md) for all [QGraphicsView](CppQGraphicsView.md)
 related events.
 
  
 
-Incomplete list of [derived classes](CppDerivedClass.htm) of
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm):
+Incomplete list of [derived classes](CppDerivedClass.md) of
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md):
 
--   [QGraphicsSceneContextMenuEvent](CppQGraphicsSceneContextMenuEvent.htm):
+-   [QGraphicsSceneContextMenuEvent](CppQGraphicsSceneContextMenuEvent.md):
     context menu event
--   [QGraphicsSceneDragDropEvent](CppQGraphicsSceneDragDropEvent.htm):
+-   [QGraphicsSceneDragDropEvent](CppQGraphicsSceneDragDropEvent.md):
     drag and drop event
--   [QGraphicsSceneHelpEvent](CppQGraphicsSceneHelpEvent.htm): tooltip
+-   [QGraphicsSceneHelpEvent](CppQGraphicsSceneHelpEvent.md): tooltip
     request event
--   [QGraphicsSceneHoverEvent](CppQGraphicsSceneHoverEvent.htm): hover
+-   [QGraphicsSceneHoverEvent](CppQGraphicsSceneHoverEvent.md): hover
     events
--   [QGraphicsSceneMouseEvent](CppQGraphicsSceneMouseEvent.htm): mouse
+-   [QGraphicsSceneMouseEvent](CppQGraphicsSceneMouseEvent.md): mouse
     events
--   [QGraphicsSceneMoveEvent](CppQGraphicsSceneMoveEvent.htm): widget
+-   [QGraphicsSceneMoveEvent](CppQGraphicsSceneMoveEvent.md): widget
     moving event
--   [QGraphicsSceneResizeEvent](CppQGraphicsSceneResizeEvent.htm):
+-   [QGraphicsSceneResizeEvent](CppQGraphicsSceneResizeEvent.md):
     widget resizing event
--   [QGraphicsSceneWheelEvent](CppQGraphicsSceneWheelEvent.htm): mouse
+-   [QGraphicsSceneWheelEvent](CppQGraphicsSceneWheelEvent.md): mouse
     wheel events
 
  
@@ -62,5 +62,5 @@ Incomplete list of [derived classes](CppDerivedClass.htm) of
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

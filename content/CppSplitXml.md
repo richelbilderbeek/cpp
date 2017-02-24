@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SplitXml](CppSplitXml.htm)
+([C++](Cpp.md)) [SplitXml](CppSplitXml.md)
 ============================================
 
  
 
-[SplitXml](CppSplitXml.htm) is an [XML](CppXml.htm) [code
-snippet](CppCodeSnippets.htm).
+[SplitXml](CppSplitXml.md) is an [XML](CppXml.md) [code
+snippet](CppCodeSnippets.md).
 
  
 

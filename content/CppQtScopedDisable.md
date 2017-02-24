@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtScopedDisable](CppQtScopedDisable.htm)
+([C++](Cpp.md)) [QtScopedDisable](CppQtScopedDisable.md)
 ==========================================================
 
  
@@ -64,5 +64,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

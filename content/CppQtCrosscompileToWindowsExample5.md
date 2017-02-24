@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 5: any application, using Qt Creator -spec approach](CppQtCrosscompileToWindowsExample5.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 5: any application, using Qt Creator -spec approach](CppQtCrosscompileToWindowsExample5.md)
 =====================================================================================================================================================================================================
 
  
 
 This is example 5, and a failed solutions of answering the [Qt
-FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm), which
+FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md), which
 follows \[1\].
 
  
@@ -54,7 +54,7 @@ Project information
  
 
 The project is a standard [Hello
-Boost](CppHelloBoostQtCreatorUbuntu.htm) program.
+Boost](CppHelloBoostQtCreatorUbuntu.md) program.
 
  
 
@@ -71,7 +71,7 @@ Process
 
  
 
-I set the [qmake](CppQmake.htm) arguments to '-xplatform win32-g++' and
+I set the [qmake](CppQmake.md) arguments to '-xplatform win32-g++' and
 got the following error:
 
  
@@ -94,7 +94,7 @@ got the following error:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

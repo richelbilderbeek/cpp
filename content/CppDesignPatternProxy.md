@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Proxy](CppDesignPatternProxy.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Proxy](CppDesignPatternProxy.md) ([Design Pattern](CppDesignPattern.htm))
 ============================================================================================
 
  
 
-The [Proxy](CppDesignPatternProxy.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'provide a surrogate or placeholder
+The [Proxy](CppDesignPatternProxy.md) is a [Design
+Pattern](CppDesignPattern.md) to 'provide a surrogate or placeholder
 for another object to control access to it' \[1\]
 
  
@@ -31,14 +31,14 @@ for another object to control access to it' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

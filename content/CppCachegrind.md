@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's tools page](Tools.htm).
+[Go back to Richel Bilderbeek's tools page](Tools.md).
 
  
 
@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [cachegrind](CppCachegrind.htm)
+([C++](Cpp.md)) [cachegrind](CppCachegrind.md)
 ================================================
 
  
 
-[cachegrind](CppCachegrind.htm) is a [C++](Cpp.htm)
-[profiler](CppProfiler.htm) and part of the [valgrind](CppValgrind.htm)
-tool suite. [gprof](CppGprof.htm) is another
-[profiler](CppProfiler.htm).
+[cachegrind](CppCachegrind.md) is a [C++](Cpp.md)
+[profiler](CppProfiler.md) and part of the [valgrind](CppValgrind.md)
+tool suite. [gprof](CppGprof.md) is another
+[profiler](CppProfiler.md).
 
  
 
-[cachegrind](CppCachegrind.htm) can be installed from the Ubuntu
+[cachegrind](CppCachegrind.md) can be installed from the Ubuntu
 Software Center.
 
  
@@ -37,13 +37,13 @@ Software Center.
 
  
 
-[cachegrind](CppCachegrind.htm) examples
+[cachegrind](CppCachegrind.md) examples
 ----------------------------------------
 
  
 
 -   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png) [Answer of
-    exercise \#7: AddOne](CppExerciseAddOneAnswer.htm)
+    exercise \#7: AddOne](CppExerciseAddOneAnswer.md)
 
  
 
@@ -73,7 +73,7 @@ External links
 
  
 
-[Go back to Richel Bilderbeek's tools page](Tools.htm).
+[Go back to Richel Bilderbeek's tools page](Tools.md).
 
 
 

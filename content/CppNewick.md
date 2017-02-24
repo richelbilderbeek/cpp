@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Newick](CppNewick.htm)
+([C++](Cpp.md)) [Newick](CppNewick.md)
 ========================================
 
  
@@ -22,14 +22,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-A [Newick](CppNewick.htm) is a way to write down a phylogeny as a
-[std::string](CppStdString.htm). This page shows how to check this
-[std::string](CppStdString.htm) and how to store a
-[Newick](CppNewick.htm) more efficiently.
+A [Newick](CppNewick.md) is a way to write down a phylogeny as a
+[std::string](CppStdString.md). This page shows how to check this
+[std::string](CppStdString.md) and how to store a
+[Newick](CppNewick.md) more efficiently.
 
  
 
-Because personally, I only work with [Newicks](CppNewick.htm) in the
+Because personally, I only work with [Newicks](CppNewick.md) in the
 form '(((A,B),(C,D)),E)', these algorithms will so as well.
 
  
@@ -42,26 +42,26 @@ form '(((A,B),(C,D)),E)', these algorithms will so as well.
 
  
 
-[Newick](CppNewick.htm) [code snippets](CppCodeSnippets.htm)
+[Newick](CppNewick.md) [code snippets](CppCodeSnippets.md)
 ------------------------------------------------------------
 
  
 
-1.  [CalcComplexity](CppCalcComplexity.htm)
-2.  [CalcNumOfCombinations](CppCalcNumOfCombinations.htm)
-3.  [CalcNumOfSymmetries](CppCalcNumOfSymmetries.htm)
-4.  [CheckNewick](CppCheckNewick.htm)
-5.  [CreateInvalidNewicks](CppCreateInvalidNewicks.htm)
-6.  [CreateValidNewicks](CppCreateValidNewicks.htm)
-7.  [DumbNewickToString](CppDumbNewickToString.htm)
-8.  [GetRootBranches](CppGetRootBranches.htm)
-9.  [GetSimplerNewicks](CppGetSimplerNewicks.htm)
-10. [InspectInvalidNewick](CppInspectInvalidNewick.htm)
-11. [IsBinaryNewick](CppIsBinaryNewick.htm)
-12. [IsNewick](CppIsNewick.htm)
-13. [NewickToString](CppNewickToString.htm)
-14. [BinaryNewickVector](CppBinaryNewickVector.htm)
-15. [StringToNewick](CppStringToNewick.htm)
+1.  [CalcComplexity](CppCalcComplexity.md)
+2.  [CalcNumOfCombinations](CppCalcNumOfCombinations.md)
+3.  [CalcNumOfSymmetries](CppCalcNumOfSymmetries.md)
+4.  [CheckNewick](CppCheckNewick.md)
+5.  [CreateInvalidNewicks](CppCreateInvalidNewicks.md)
+6.  [CreateValidNewicks](CppCreateValidNewicks.md)
+7.  [DumbNewickToString](CppDumbNewickToString.md)
+8.  [GetRootBranches](CppGetRootBranches.md)
+9.  [GetSimplerNewicks](CppGetSimplerNewicks.md)
+10. [InspectInvalidNewick](CppInspectInvalidNewick.md)
+11. [IsBinaryNewick](CppIsBinaryNewick.md)
+12. [IsNewick](CppIsNewick.md)
+13. [NewickToString](CppNewickToString.md)
+14. [BinaryNewickVector](CppBinaryNewickVector.md)
+15. [StringToNewick](CppStringToNewick.md)
 
 Technical facts
 ---------------
@@ -201,5 +201,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

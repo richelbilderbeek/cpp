@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Nothing to be done for 'first'](CppMakeErrorNothingToBeDoneForFirst.htm)
+([C++](Cpp.md)) [Nothing to be done for 'first'](CppMakeErrorNothingToBeDoneForFirst.md)
 ==========================================================================================
 
  
 
-[make error](CppMakeError.htm).
+[make error](CppMakeError.md).
 
  
 
@@ -55,9 +55,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.2.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
 Project type: Qt4 Console Application
 
@@ -110,8 +110,8 @@ Solution
 
  
 
-This [make error](CppMakeError.htm) might not be an error. [Nothing to
-be done for 'first'](CppMakeErrorNothingToBeDoneForFirst.htm) denotes
+This [make error](CppMakeError.md) might not be an error. [Nothing to
+be done for 'first'](CppMakeErrorNothingToBeDoneForFirst.md) denotes
 that the file main.cpp needs not to be recompiled to main.o, because the
 source code of main.cpp has not changed. This saves the programmer
 needless compiling time.

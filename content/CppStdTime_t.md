@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::time\_t](CppTime_t.htm)
+([C++](Cpp.md)) [std::time\_t](CppTime_t.md)
 ==============================================
 
  
 
-[std::time\_t](CppTime_t.htm) is an [STL](CppStl.htm) [data
-type](CppDataType.htm) for [time](CppTime.htm).
+[std::time\_t](CppTime_t.md) is an [STL](CppStl.md) [data
+type](CppDataType.md) for [time](CppTime.md).
 
  
 

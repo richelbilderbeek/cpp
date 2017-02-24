@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [What is the Qt Creator equivalent of C++ Builder's TPanel?](CppQtTPanel.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [What is the Qt Creator equivalent of C++ Builder's TPanel?](CppQtTPanel.md)
 ===============================================================================================================
 
  
 
 [What is the Qt Creator equivalent of C++ Builder's
-TPanel?](CppQtTPanel.htm) is a [QT FAQ](CppQtFaq.htm), especially for
-people with a [C++ Builder](CppBuilder.htm) background (like me).
+TPanel?](CppQtTPanel.md) is a [QT FAQ](CppQtFaq.md), especially for
+people with a [C++ Builder](CppBuilder.md) background (like me).
 
  
 
-The answer is: a [QWidget](CppQWidget.htm).
+The answer is: a [QWidget](CppQWidget.md).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Test](CppBoostTest.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Test](CppBoostTest.md)
 ======================================================================
 
  
 
-[Boost.Test](CppTest.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) for [testing](CppTest.htm).
+[Boost.Test](CppTest.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) for [testing](CppTest.md).
 
  
 
@@ -30,13 +30,13 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [Boost.Test example 1](CppBoostTestExample1.htm): basics
--   [Boost.Test example 2](CppBoostTestExample2.htm): automatic tests
+-   [Boost.Test example 1](CppBoostTestExample1.md): basics
+-   [Boost.Test example 2](CppBoostTestExample2.md): automatic tests
 
  
 
@@ -57,5 +57,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

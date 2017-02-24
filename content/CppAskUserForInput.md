@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [AskUserForInput](CppAskUserForInput.htm)
+([C++](Cpp.md)) [AskUserForInput](CppAskUserForInput.md)
 ==========================================================
 
  
 
-[User I/O](CppUserIo.htm) [code snippet](CppCodeSnippets.htm)
+[User I/O](CppUserIo.md) [code snippet](CppCodeSnippets.md)
 
  
 

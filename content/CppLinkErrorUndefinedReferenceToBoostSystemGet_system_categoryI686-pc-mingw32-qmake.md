@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [undefined reference to 'boost::system::get\_system\_category()' (using i686-pc-mingw32-qmake)](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryI686-pc-mingw32-qmake.htm)
+([C++](Cpp.md)) [undefined reference to 'boost::system::get\_system\_category()' (using i686-pc-mingw32-qmake)](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryI686-pc-mingw32-qmake.md)
 =========================================================================================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm) ([BEI](CppBei.htm) 7) I encountered while
+[Link error](CppLinkError.md) ([BEI](CppBei.md) 7) I encountered while
 busy solving [How to cross-compile a Qt Creator project from Ubuntu to a
 windows executable: example
-15](CppQtCrosscompileToWindowsExample15.htm).
+15](CppQtCrosscompileToWindowsExample15.md).
 
  
 
@@ -46,17 +46,17 @@ System specifics
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Boost](CppBoost.md): version 1.40
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -331,7 +331,7 @@ problem :-(.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

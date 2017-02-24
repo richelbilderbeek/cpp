@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [shared\_ptr.hpp: Assertion failed: px != 0](CppRuntimeErrorShared_ptrAssertPxNotNull.htm)
+([C++](Cpp.md)) [shared\_ptr.hpp: Assertion failed: px != 0](CppRuntimeErrorShared_ptrAssertPxNotNull.md)
 ===========================================================================================================
 
  
 
-[Runtime error](CppRuntimeError.htm).
+[Runtime error](CppRuntimeError.md).
 
  
 
@@ -53,14 +53,14 @@ Cause
 
  
 
-A [boost::shared\_ptr](CppShared_ptr.htm) was used before
+A [boost::shared\_ptr](CppShared_ptr.md) was used before
 initialization.
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
@@ -85,7 +85,7 @@ Solution
 
  
 
-Initialize all [boost::shared\_ptr](CppShared_ptr.htm)s.
+Initialize all [boost::shared\_ptr](CppShared_ptr.md)s.
 
  
 

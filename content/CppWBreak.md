@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WBreak](CppWBreak.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WBreak](CppWBreak.md)
 =============================================================
 
  
 
-[Wt::WBreak](CppWBreak.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WBreak](CppWBreak.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 to start a new line.
 
  
@@ -35,12 +35,12 @@ Examples
 
  
 
-[Wt::WBreak](CppWBreak.htm) is used in, among others:
+[Wt::WBreak](CppWBreak.md) is used in, among others:
 
--   [ProjectGtst](ProjectGtst.htm)
--   [ProjectWtWebsite](ProjectWtWebsite.htm)
--   [TestAsciiArter](ToolTestAsciiArter.htm)
--   [WtTextUploader](CppWtTextUploader.htm)
+-   [ProjectGtst](ProjectGtst.md)
+-   [ProjectWtWebsite](ProjectWtWebsite.md)
+-   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [WtTextUploader](CppWtTextUploader.md)
 
  
 

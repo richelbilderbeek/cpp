@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [StateObserver](CppStateObserver.htm)
+([C++](Cpp.md)) [StateObserver](CppStateObserver.md)
 ======================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[StateObserver](CppStateObserver.htm) is a [class](CppClass.htm) for
+[StateObserver](CppStateObserver.md) is a [class](CppClass.md) for
 state observer.
 
 Technical facts
@@ -429,5 +429,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

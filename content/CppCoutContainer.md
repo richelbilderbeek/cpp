@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [CoutContainer](CppCoutContainer.htm)
+([C++](Cpp.md)) [CoutContainer](CppCoutContainer.md)
 ======================================================
 
  
 
-[Container](CppContainer.htm) [code snippet](CppCodeSnippets.htm) to
-[std::cout](CppCout.htm) a [container](CppContainer.htm), using the
-[algorithm](CppAlgorithm.htm) [std::copy](CppCopy.htm) and the
-[std::ostream\_iterator](CppOstream_iterator.htm).
+[Container](CppContainer.md) [code snippet](CppCodeSnippets.md) to
+[std::cout](CppCout.md) a [container](CppContainer.md), using the
+[algorithm](CppAlgorithm.md) [std::copy](CppCopy.md) and the
+[std::ostream\_iterator](CppOstream_iterator.md).
 
  
 
@@ -30,9 +30,9 @@
 
  
 
-When using the [IDE](CppIde.htm) [C++ Builder 6.0](CppBuilder.htm),
-remove the [keyword](CppKeyword.htm) [typename](CppTypename.htm) to
-prevent a [compile error](CppCompileError.htm).
+When using the [IDE](CppIde.md) [C++ Builder 6.0](CppBuilder.md),
+remove the [keyword](CppKeyword.md) [typename](CppTypename.md) to
+prevent a [compile error](CppCompileError.md).
 
  
 

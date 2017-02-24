@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [concrete type](CppConcreteType.htm)
+([C++](Cpp.md)) [concrete type](CppConcreteType.md)
 =====================================================
 
  
 
-'A [concrete type](CppConcreteType.htm) is a [type](CppType.htm) without
-[virtual](CppVirtual.htm) [functions](CppFunction.htm), so that
-[objects](CppObject.htm) of the [type](CppType.htm) can be
-[allocated](CppAllocate.htm) on the [stack](CppStack.htm) and
-manipulated directly (without a need to use [pointers](CppPointer.htm)
-or [references](CppReference.htm) to allow the possibility for [derived
-classes](CppDerivedClass.htm)). Often, small self-contained
-[classes](CppClass.htm).' \[1\]
+'A [concrete type](CppConcreteType.md) is a [type](CppType.md) without
+[virtual](CppVirtual.md) [functions](CppFunction.md), so that
+[objects](CppObject.md) of the [type](CppType.md) can be
+[allocated](CppAllocate.md) on the [stack](CppStack.md) and
+manipulated directly (without a need to use [pointers](CppPointer.md)
+or [references](CppReference.md) to allow the possibility for [derived
+classes](CppDerivedClass.md)). Often, small self-contained
+[classes](CppClass.md).' \[1\]
 
  
 
@@ -36,7 +36,7 @@ classes](CppDerivedClass.htm)). Often, small self-contained
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

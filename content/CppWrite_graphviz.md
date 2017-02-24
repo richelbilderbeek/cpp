@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [boost::write\_graphviz](CppWrite_graphviz.htm)
+([C++](Cpp.md)) [boost::write\_graphviz](CppWrite_graphviz.md)
 ================================================================
 
  
 
-[boost::write\_graphviz](CppWrite_graphviz.htm) is a
-[Boost.Graph](CppGraph.htm) [algorithm](CppAlgorithm.htm) to store a
+[boost::write\_graphviz](CppWrite_graphviz.md) is a
+[Boost.Graph](CppGraph.md) [algorithm](CppAlgorithm.md) to store a
 graph to file, so it can be visualized.
 
  
@@ -77,7 +77,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

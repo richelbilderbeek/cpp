@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QColorDialog](CppQColorDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QColorDialog](CppQColorDialog.md)
 =====================================================================
 
  
 
-[QColorDialog](CppQColorDialog.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for a color [dialog](CppDialog.htm).
+[QColorDialog](CppQColorDialog.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for a color [dialog](CppDialog.md).
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[QColorDialog](CppQColorDialog.htm) is used in, among others:
+[QColorDialog](CppQColorDialog.md) is used in, among others:
 
 -   ...
 

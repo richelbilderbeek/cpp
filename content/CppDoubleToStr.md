@@ -12,30 +12,30 @@
 
  
 
-([C++](Cpp.htm)) [DoubleToStr](CppDoubleToStr.htm)
+([C++](Cpp.md)) [DoubleToStr](CppDoubleToStr.md)
 ==================================================
 
  
 
-[DoubleToStr](CppDoubleToStr.htm) is a [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[double](CppDouble.htm) to [std::string](CppString.htm). To
-[convert](CppConvert.htm) a [std::string](CppString.htm) to
-[double](CppDouble.htm), use [StrToDouble](CppStrToDouble.htm).
+[DoubleToStr](CppDoubleToStr.md) is a [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[double](CppDouble.md) to [std::string](CppString.md). To
+[convert](CppConvert.md) a [std::string](CppString.md) to
+[double](CppDouble.md), use [StrToDouble](CppStrToDouble.md).
 
  
 
-[DoubleToStr](CppDoubleToStr.htm) has multiple versions:
+[DoubleToStr](CppDoubleToStr.md) has multiple versions:
 
 -   ![C++98](PicCpp98.png)![STL](PicStl.png)
-    [DoubleToStr](CppDoubleToStr.htm) using the [C++98](Cpp98.htm) and
-    the [STL](CppStl.htm)
+    [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and
+    the [STL](CppStl.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png)
-    [DoubleToStr](CppDoubleToStr.htm) using the [C++98](Cpp98.htm) and
-    the [Boost](CppBoost.htm) [library](CppLibrary.htm)
+    [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and
+    the [Boost](CppBoost.md) [library](CppLibrary.md)
 -   ![C++11](PicCpp11.png)![STL](PicStl.png)
-    [DoubleToStr](CppDoubleToStr.htm) using the [C++11](Cpp11.htm) and
-    the [STL](CppStl.htm)
+    [DoubleToStr](CppDoubleToStr.md) using the [C++11](Cpp11.md) and
+    the [STL](CppStl.md)
 
  
 
@@ -52,7 +52,7 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.htm) using the [C++98](Cpp98.htm) and the [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and the [STL](CppStl.htm)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -63,7 +63,7 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
 
  
 
-The [code snippet](CppCodeSnippets.htm) above was modified from [the C++
+The [code snippet](CppCodeSnippets.md) above was modified from [the C++
 FAQ Lite](http://www.parashift.com/c++-faq-lite).
 
  
@@ -76,7 +76,7 @@ FAQ Lite](http://www.parashift.com/c++-faq-lite).
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) [DoubleToStr](CppDoubleToStr.htm) using the [C++98](Cpp98.htm) and the [Boost](CppBoost.htm) [library](CppLibrary.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and the [Boost](CppBoost.htm) [library](CppLibrary.htm)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -95,7 +95,7 @@ FAQ Lite](http://www.parashift.com/c++-faq-lite).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.htm) using the [C++11](Cpp11.htm) and the [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.md) using the [C++11](Cpp11.md) and the [STL](CppStl.htm)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  

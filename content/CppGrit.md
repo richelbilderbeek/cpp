@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [grit](CppGrit.htm)
+([C++](Cpp.md)) [grit](CppGrit.md)
 ====================================
 
  
 
-[grit](CppGrit.htm) is a tool for [DNS](CppNds.htm) development to
+[grit](CppGrit.md) is a tool for [DNS](CppNds.md) development to
 convert images to 'something the NDS can use' \[?\].
 
  

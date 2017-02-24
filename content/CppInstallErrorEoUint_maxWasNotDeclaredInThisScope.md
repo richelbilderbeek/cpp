@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [EO install error: 'UINT\_MAX' was not declared in this scope](CppInstallErrorEoUint_maxWasNotDeclaredInThisScope.htm)
+([C++](Cpp.md)) [EO install error: 'UINT\_MAX' was not declared in this scope](CppInstallErrorEoUint_maxWasNotDeclaredInThisScope.md)
 =======================================================================================================================================
 
  
 
-[Install error](CppInstallError.htm).
+[Install error](CppInstallError.md).
 
  
 
@@ -38,7 +38,7 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-Downloaded the [EO](CppEo.htm) source code, version 1.0.1. Extracted the
+Downloaded the [EO](CppEo.md) source code, version 1.0.1. Extracted the
 files.
 
  

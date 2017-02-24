@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [Binder](CppBinder.htm)
+([C++](Cpp.md)) [Binder](CppBinder.md)
 ========================================
 
  
 
  
 
-A [binder](CppBinder.htm) is a type of [adapter](CppAdapter.htm) that
+A [binder](CppBinder.md) is a type of [adapter](CppAdapter.md) that
 allows a two-argument function object to be used as a single-argument
 function by binding one argument to a value \[1\].
-[Binders](CppBinder.htm) are useful when using
-[algorithms](CppAlgorithm.htm).
+[Binders](CppBinder.md) are useful when using
+[algorithms](CppAlgorithm.md).
 
  
 
-There are two [STL](CppStl.htm) [binders](CppBinder.htm):
+There are two [STL](CppStl.md) [binders](CppBinder.md):
 
--   [std::bind1st](CppBind1st.htm)
--   [std::bind2nd](CppBind2nd.htm)
-
- 
-
-There is one [Boost](CppBoost.htm) [binder](CppBinder.htm):
-
--   [boost::bind](CppBind.htm)
+-   [std::bind1st](CppBind1st.md)
+-   [std::bind2nd](CppBind2nd.md)
 
  
 
-Using [boost::bind](CppBind.htm) results in easier to read and shorter
+There is one [Boost](CppBoost.md) [binder](CppBinder.md):
+
+-   [boost::bind](CppBind.md)
+
+ 
+
+Using [boost::bind](CppBind.md) results in easier to read and shorter
 code.
 
  
@@ -53,7 +53,7 @@ code.
 
  
 
-Replacing a [for](CppFor.htm) loop by an [algorithm](CppAlgorithm.htm) using [std::bind2nd](CppBind2nd.htm) and [boost::bind](CppBind.htm)
+Replacing a [for](CppFor.md) loop by an [algorithm](CppAlgorithm.md) using [std::bind2nd](CppBind2nd.htm) and [boost::bind](CppBind.htm)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -84,13 +84,13 @@ Replacing a [for](CppFor.htm) loop by an [algorithm](CppAlgorithm.htm) using [st
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [Lambda expressions](CppLambdaExpression.htm) over
-    [binders](CppBinder.htm) \[2\]
+-   Prefer [Lambda expressions](CppLambdaExpression.md) over
+    [binders](CppBinder.md) \[2\]
 
  
 
@@ -102,16 +102,16 @@ Replacing a [for](CppFor.htm) loop by an [algorithm](CppAlgorithm.htm) using [st
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.4.4: 'A
     binder allows a two-argument function object to be used as a
     single-argument function by binding one argument to a value.'
-2.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+2.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Prefer Lambdas over
     Binders'
 
@@ -134,5 +134,5 @@ Replacing a [for](CppFor.htm) loop by an [algorithm](CppAlgorithm.htm) using [st
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

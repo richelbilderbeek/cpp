@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [extern](CppExtern.htm)
+([C++](Cpp.md)) [extern](CppExtern.md)
 ========================================
 
  
 
-[Keyword](CppKeyword.htm) to make a variable known over multiple units,
-but keeping the [declaration](CppDeclaration.htm) and initialization
-[local](CppLocal.htm) to a file (probably an [implementation file
-(.cpp)](CppImplementationFile.htm))
+[Keyword](CppKeyword.md) to make a variable known over multiple units,
+but keeping the [declaration](CppDeclaration.md) and initialization
+[local](CppLocal.md) to a file (probably an [implementation file
+(.cpp)](CppImplementationFile.md))
 
  
 
@@ -37,14 +37,14 @@ Example
 
  
 
-In the example below there are two [integer](CppInt.htm)
-[globals](CppGlobal.htm) (note: avoid using [global](CppGlobal.htm) data
-\[1,2\]). The [int](CppInt.htm) x is [declared](CppDeclaration.htm) and
-initialized in unit1.cpp, the [int](CppInt.htm) y in
-[declared](CppDeclaration.htm) in unit2.cpp and initialized by the
-locally unknown [int](CppInt.htm) x. To read the values of both
-[integers](CppInt.htm), two getters are put in the [header
-files](CppHeaderFile.htm).
+In the example below there are two [integer](CppInt.md)
+[globals](CppGlobal.md) (note: avoid using [global](CppGlobal.md) data
+\[1,2\]). The [int](CppInt.md) x is [declared](CppDeclaration.md) and
+initialized in unit1.cpp, the [int](CppInt.md) y in
+[declared](CppDeclaration.md) in unit2.cpp and initialized by the
+locally unknown [int](CppInt.md) x. To read the values of both
+[integers](CppInt.md), two getters are put in the [header
+files](CppHeaderFile.md).
 
  
 
@@ -151,17 +151,17 @@ Unit2.cpp
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 10:
     'Minimize global and shared data'
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 18:
     'Declare variables as locally as possible'
 

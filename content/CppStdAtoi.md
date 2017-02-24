@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::atoi](CppAtoi.htm)
+([C++](Cpp.md)) [std::atoi](CppAtoi.md)
 =========================================
 
  
 
  
 
-[std::atoi](CppAtoi.htm) is a [function](CppFunction.htm) to
-[convert](CppConvert.htm) a [character](CppChar.htm) string to an
-[integer](CppInt.htm).
+[std::atoi](CppAtoi.md) is a [function](CppFunction.md) to
+[convert](CppConvert.md) a [character](CppChar.md) string to an
+[integer](CppInt.md).
 
  
 
@@ -33,7 +33,7 @@
 
  
 
-Example: [StrToInt](CppStrToInt.htm)
+Example: [StrToInt](CppStrToInt.md)
 ------------------------------------
 
  

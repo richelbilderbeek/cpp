@@ -12,12 +12,12 @@
 
  
 
-([C++ tutorials](CppTutorial.htm)) [Travis CI tutorial](CppTravisCiTutorial.htm)
+([C++ tutorials](CppTutorial.md)) [Travis CI tutorial](CppTravisCiTutorial.md)
 ================================================================================
 
  
 
-A [tutorial](CppTutorial.htm) about the [Travis CI](CppTravisCi.htm)
+A [tutorial](CppTutorial.md) about the [Travis CI](CppTravisCi.md)
 that I have written.
 
  

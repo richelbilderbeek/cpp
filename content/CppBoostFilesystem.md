@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Filesystem](CppFilesystem.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Filesystem](CppFilesystem.md)
 =============================================================================
 
  
 
-[Boost.Filesystem](CppFilesystem.htm) is a [library](CppLibrary.htm)
-part of [Boost](CppBoost.htm) for working with files, like
+[Boost.Filesystem](CppFilesystem.md) is a [library](CppLibrary.md)
+part of [Boost](CppBoost.md) for working with files, like
 browsing/adding/removing files and folders.
 
  
@@ -31,25 +31,25 @@ browsing/adding/removing files and folders.
 
  
 
-[Boost.Filesystem](CppFilesystem.htm) examples
+[Boost.Filesystem](CppFilesystem.md) examples
 ----------------------------------------------
 
  
 
 -   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
     [Boost.Filesystem example 1: count C++
-    webpages](CppFilesystemExample1.htm)
+    webpages](CppFilesystemExample1.md)
 -   ![Lubuntu](PicLubuntu.png) [Boost.Filesystem example 2: count C++
-    webpages, GUI](CppFilesystemExample2.htm)
+    webpages, GUI](CppFilesystemExample2.md)
 -   ![Lubuntu](PicLubuntu.png)
-    [GetCurrentFolder](CppGetCurrentFolder.htm)
+    [GetCurrentFolder](CppGetCurrentFolder.md)
 -   ![Lubuntu](PicLubuntu.png)
-    [GetFilesInFolder](CppGetFilesInFolder.htm)
+    [GetFilesInFolder](CppGetFilesInFolder.md)
 -   ![Lubuntu](PicLubuntu.png)
-    [GetCppFilesInFolder](CppGetCppFilesInFolder.htm)
--   ![Lubuntu](PicLubuntu.png) [GetPath](CppGetPath.htm)
+    [GetCppFilesInFolder](CppGetCppFilesInFolder.md)
+-   ![Lubuntu](PicLubuntu.png) [GetPath](CppGetPath.md)
 -   ![Lubuntu](PicLubuntu.png)
-    [boost::filesystem::copy\_file](CppCopy_file.htm)
+    [boost::filesystem::copy\_file](CppCopy_file.md)
 
  
 
@@ -61,14 +61,14 @@ browsing/adding/removing files and folders.
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent the [link error](CppLinkError.htm) [undefined reference to
-'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent the [link error](CppLinkError.md) [undefined reference to
+'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.md)):
 
  
 

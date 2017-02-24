@@ -12,25 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [IntToStrWithSep](CppIntToStrWithSep.htm)
+([C++](Cpp.md)) [IntToStrWithSep](CppIntToStrWithSep.md)
 ==========================================================
 
  
 
-[IntToStrWithSep](CppIntToStrWithSep.htm) is an
-[int](CppInt.htm)/[cln::cl\_I](CppCl_I.htm) [conversion](CppConvert.htm)
-[code snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[int](CppInt.htm) to [std::string](CppString.htm) and adding the
+[IntToStrWithSep](CppIntToStrWithSep.md) is an
+[int](CppInt.md)/[cln::cl\_I](CppCl_I.md) [conversion](CppConvert.htm)
+[code snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[int](CppInt.md) to [std::string](CppString.md) and adding the
 thousands seperators.
 
  
 
-[IntToStrWithSep](CppIntToStrWithSep.htm) has multiple flavors:
+[IntToStrWithSep](CppIntToStrWithSep.md) has multiple flavors:
 
-1.  [STL](CppStl.htm) [IntToStrWithSep](CppIntToStrWithSep.htm)
-2.  [CLN](CppCln.htm) [IntToStrWithSep](CppIntToStrWithSep.htm)
-
- 
+1.  [STL](CppStl.md) [IntToStrWithSep](CppIntToStrWithSep.md)
+2.  [CLN](CppCln.md) [IntToStrWithSep](CppIntToStrWithSep.md)
 
  
 
@@ -40,7 +38,9 @@ thousands seperators.
 
  
 
-[STL](CppStl.htm) [IntToStrWithSep](CppIntToStrWithSep.htm)
+ 
+
+[STL](CppStl.md) [IntToStrWithSep](CppIntToStrWithSep.md)
 -----------------------------------------------------------
 
  
@@ -69,7 +69,7 @@ Screen output:
 
  
 
-[CLN](CppCln.htm) [IntToStrWithSep](CppIntToStrWithSep.htm)
+[CLN](CppCln.md) [IntToStrWithSep](CppIntToStrWithSep.md)
 -----------------------------------------------------------
 
  

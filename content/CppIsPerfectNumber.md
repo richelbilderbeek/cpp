@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [IsPerfectNumber](CppIsPerfectNumber.htm)
+([C++](Cpp.md)) [IsPerfectNumber](CppIsPerfectNumber.md)
 ==========================================================
 
  
 
-[IsPerfectNumber](CppIsPerfectNumber.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to determine if a number is perfect.
+[IsPerfectNumber](CppIsPerfectNumber.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to determine if a number is perfect.
 
  
 

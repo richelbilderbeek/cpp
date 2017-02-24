@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png)![to](PicTo.png)![Boost](PicBoost.png) [From Qt signal to Boost signal](CppFromQtSignalToBoostSignal.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png)![to](PicTo.png)![Boost](PicBoost.png) [From Qt signal to Boost signal](CppFromQtSignalToBoostSignal.md)
 ==========================================================================================================================================
 
  
 
-This [article](CppArticle.htm) describes why and how to move from using
-[Qt signals](CppQtSignal.htm) to using [Boost
-signals](CppBoostSignal.htm).
+This [article](CppArticle.md) describes why and how to move from using
+[Qt signals](CppQtSignal.md) to using [Boost
+signals](CppBoostSignal.md).
 
  
 
@@ -37,9 +37,9 @@ Introduction
  
 
 The first paragraph contains arguments why to move from [Qt
-signals](CppQtSignal.htm) to [Boost signals](CppBoostSignal.htm) and
+signals](CppQtSignal.md) to [Boost signals](CppBoostSignal.md) and
 when you might refrain from it. The second paragraph and beyond follow
-the transition in code for two very simple [classes](CppClass.htm).
+the transition in code for two very simple [classes](CppClass.md).
 
  
 
@@ -51,36 +51,36 @@ the transition in code for two very simple [classes](CppClass.htm).
 
  
 
-Why move from [Qt signals](CppQtSignal.htm) to [Boost signals](CppBoostSignal.htm)?
+Why move from [Qt signals](CppQtSignal.md) to [Boost signals](CppBoostSignal.md)?
 -----------------------------------------------------------------------------------
 
  
 
-My personal reasons for moving from [Qt signals](CppQtSignal.htm) to
-[Boost signals](CppBoostSignal.htm), are:
+My personal reasons for moving from [Qt signals](CppQtSignal.md) to
+[Boost signals](CppBoostSignal.md), are:
 
--   When a [library](CppLibrary.htm) supports [Boost](CppBoost.htm), but
-    conflicts with [Qt](CppQt.htm)
--   [Boost signals](CppBoostSignal.htm) do not require the seperation of
-    a [class](CppClass.htm) in a [header (.h)file](CppHeaderFile.htm)
-    and [implementation (.cpp) file](CppImplementationFile.htm) (because
-    [Boost signals](CppBoostSignal.htm) do not require the use of
-    [moc](CppMoc.htm))
--   Because the [STL](CppStl.htm), [TR1](CppTr1.htm) and
-    [Boost](CppBoost.htm) [libraries](CppLibrary.htm) are 'the number
-    one [libraries](CppLibrary.htm)' \[1\]\[2\]
--   I prefer using standard [C++](Cpp.htm) [keywords](CppKeyword.htm)
+-   When a [library](CppLibrary.md) supports [Boost](CppBoost.md), but
+    conflicts with [Qt](CppQt.md)
+-   [Boost signals](CppBoostSignal.md) do not require the seperation of
+    a [class](CppClass.md) in a [header (.h)file](CppHeaderFile.md)
+    and [implementation (.cpp) file](CppImplementationFile.md) (because
+    [Boost signals](CppBoostSignal.md) do not require the use of
+    [moc](CppMoc.md))
+-   Because the [STL](CppStl.md), [TR1](CppTr1.md) and
+    [Boost](CppBoost.md) [libraries](CppLibrary.md) are 'the number
+    one [libraries](CppLibrary.md)' \[1\]\[2\]
+-   I prefer using standard [C++](Cpp.md) [keywords](CppKeyword.md)
     only
 
  
 
-Arguments against moving from [Qt signals](CppQtSignal.htm) to [Boost
-signals](CppBoostSignal.htm) are:
+Arguments against moving from [Qt signals](CppQtSignal.md) to [Boost
+signals](CppBoostSignal.md) are:
 
--   The [Qt signal](CppQtSignal.htm) syntax is easier to read and write
--   When using only [Qt](CppQt.htm), adding the [Boost
-    signals](CppBoostSignal.htm) [libraries](CppLibrary.htm) increase
-    [compile](CppCompile.htm) time
+-   The [Qt signal](CppQtSignal.md) syntax is easier to read and write
+-   When using only [Qt](CppQt.md), adding the [Boost
+    signals](CppBoostSignal.md) [libraries](CppLibrary.md) increase
+    [compile](CppCompile.md) time
 
  
 
@@ -103,7 +103,7 @@ by the receiver.
 
  
 
-[main](CppMain.htm) should be:
+[main](CppMain.md) should be:
 
  
 
@@ -142,12 +142,12 @@ CppFromQtSignalToBoostSignal1: the ideal starting point
  
 
 The code below would be the ideal starting point. But because
-[moc](CppMoc.htm) requires the seperation of a [class](CppClass.htm) in
-a [header (.h)file](CppHeaderFile.htm) and [implementation (.cpp)
-file](CppImplementationFile.htm), this code results in the [link
-error](CppLinkError.htm) [undefined reference to 'vtable for
-\[...\]'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.htm). Due to
-this, next step is to seperate the [class](CppClass.htm) in a working
+[moc](CppMoc.md) requires the seperation of a [class](CppClass.md) in
+a [header (.h)file](CppHeaderFile.md) and [implementation (.cpp)
+file](CppImplementationFile.md), this code results in the [link
+error](CppLinkError.md) [undefined reference to 'vtable for
+\[...\]'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.md). Due to
+this, next step is to seperate the [class](CppClass.md) in a working
 example.
 
  
@@ -177,8 +177,8 @@ CppFromQtSignalToBoostSignal2: the working starting point
  
 
 The code below would be the working starting point. The next step is to
-replace the [Qt signals](CppQtSignal.htm) by [Boost
-signals](CppBoostSignal.htm).
+replace the [Qt signals](CppQtSignal.md) by [Boost
+signals](CppBoostSignal.md).
 
  
 
@@ -240,7 +240,7 @@ signals](CppBoostSignal.htm).
 
  
 
-CppFromQtSignalToBoostSignal3: the conversion to [Boost signals](CppBoostSignal.htm)
+CppFromQtSignalToBoostSignal3: the conversion to [Boost signals](CppBoostSignal.md)
 ------------------------------------------------------------------------------------
 
  
@@ -250,8 +250,8 @@ CppFromQtSignalToBoostSignal3: the conversion to [Boost signals](CppBoostSignal.
 
  
 
-In the code below, the [Qt signal](CppQtSignal.htm) is replaced by using
-a [Boost signal](CppBoostSignal.htm). The next step is: can we put all
+In the code below, the [Qt signal](CppQtSignal.md) is replaced by using
+a [Boost signal](CppBoostSignal.md). The next step is: can we put all
 this code in a single file?
 
  
@@ -314,7 +314,7 @@ this code in a single file?
 
  
 
-CppFromQtSignalToBoostSignal4: [Boost signals](CppBoostSignal.htm) in a single file
+CppFromQtSignalToBoostSignal4: [Boost signals](CppBoostSignal.md) in a single file
 -----------------------------------------------------------------------------------
 
  
@@ -348,8 +348,8 @@ Conclusion
 
  
 
-There are reasons to move from using [Qt signals](CppQtSignal.htm) to
-using [Boost signals](CppBoostSignal.htm). This article shows that this
+There are reasons to move from using [Qt signals](CppQtSignal.md) to
+using [Boost signals](CppBoostSignal.md). This article shows that this
 is easy.
 
  
@@ -362,15 +362,15 @@ is easy.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 53: Familiarize yourself with the standard
     library, including TR1
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 54: Familiarize yourself with Boost
 
  

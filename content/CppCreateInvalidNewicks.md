@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CreateInvalidNewicks](CppCreateInvalidNewicks.htm)
+([C++](Cpp.md)) [CreateInvalidNewicks](CppCreateInvalidNewicks.md)
 ====================================================================
 
  
 
-[CreateInvalidNewicks](CppCreateInvalidNewicks.htm) is a
-[Newick](CppNewick.htm) [code snippet](CppCodeSnippets.htm) to create
-invalid [Newicks](CppNewick.htm), for testing purposes.
+[CreateInvalidNewicks](CppCreateInvalidNewicks.md) is a
+[Newick](CppNewick.md) [code snippet](CppCodeSnippets.md) to create
+invalid [Newicks](CppNewick.md), for testing purposes.
 
  
 

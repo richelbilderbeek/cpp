@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [Create a stand-alone executable in C++ Builder](CppBuilderStandAloneExecutable.htm)
+([C++](Cpp.md)) [Create a stand-alone executable in C++ Builder](CppBuilderStandAloneExecutable.md)
 =====================================================================================================
 
  
 
-One of the [C++ Builder FAQ](CppBuilderFaq.htm)'s is how to create a
-stand-alone executable in [C++ Builder](CppBuilder.htm).
+One of the [C++ Builder FAQ](CppBuilderFaq.md)'s is how to create a
+stand-alone executable in [C++ Builder](CppBuilder.md).
 
  
 
-It depends on the version of [C++ Builder](CppBuilder.htm) you work
+It depends on the version of [C++ Builder](CppBuilder.md) you work
 with.
 
  
@@ -90,5 +90,5 @@ Do the following:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

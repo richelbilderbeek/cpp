@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [KalmanFilter](CppKalmanFilter.htm)
+([C++](Cpp.md)) [KalmanFilter](CppKalmanFilter.md)
 ====================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-The [Kalman filter](CppKalmanFilter.htm) is a way to do predictions from
+The [Kalman filter](CppKalmanFilter.md) is a way to do predictions from
 noisy measurements. For a (far) more precise definition, see \[1\].
 
  
 
-The [tool](Tools.htm) [KalmanFilterer](ToolKalmanFilterer.htm) allows
-one to work with [Kalman filters](CppKalmanFilter.htm).
+The [tool](Tools.md) [KalmanFilterer](ToolKalmanFilterer.md) allows
+one to work with [Kalman filters](CppKalmanFilter.md).
 
  
 
@@ -44,31 +44,31 @@ Examples
  
 
 -   [Kalman filter example 1: single state, from adapted C
-    code](CppKalmanFilterExample1.htm)
+    code](CppKalmanFilterExample1.md)
 -   [Kalman filter example 2: single state, use of
-    classes](CppKalmanFilterExample2.htm)
+    classes](CppKalmanFilterExample2.md)
 -   [Kalman filter example 3: single state, use of 1x1
-    boost::numeric::ublas::matrix](CppKalmanFilterExample3.htm)
+    boost::numeric::ublas::matrix](CppKalmanFilterExample3.md)
 -   [Kalman filter example 4: single state, use of 1x1
     boost::numeric::ublas::matrix and
-    boost::numeric::ublas::vector](CppKalmanFilterExample4.htm)
--   [Kalman filter example 5](CppKalmanFilterExample5.htm)
--   [Kalman filter example 6](CppKalmanFilterExample6.htm)
--   [Kalman filter example 7](CppKalmanFilterExample7.htm)
+    boost::numeric::ublas::vector](CppKalmanFilterExample4.md)
+-   [Kalman filter example 5](CppKalmanFilterExample5.md)
+-   [Kalman filter example 6](CppKalmanFilterExample6.md)
+-   [Kalman filter example 7](CppKalmanFilterExample7.md)
 -   [Kalman filter example 8: displaying the
-    graphs (initial)](CppKalmanFilterExample8.htm)
+    graphs (initial)](CppKalmanFilterExample8.md)
 -   [Kalman filter example 9: displaying the
-    graphs (better)](CppKalmanFilterExample9.htm)
+    graphs (better)](CppKalmanFilterExample9.md)
 -   [Kalman filter example 10: displaying the graphs
-    (even better)](CppKalmanFilterExample10.htm)
+    (even better)](CppKalmanFilterExample10.md)
 -   [Kalman filter example 11: displaying the
-    graphs (best)](CppKalmanFilterExample11.htm)
+    graphs (best)](CppKalmanFilterExample11.md)
 -   [Kalman filter example 12: displaying the
-    equations](CppKalmanFilterExample12.htm)
+    equations](CppKalmanFilterExample12.md)
 -   [Kalman filter example 13: displaying the equations
-    only](CppKalmanFilterExample13.htm)
--   [KalmanFilterer](ToolKalmanFilterer.htm): [tool](Tools.htm) to work
-    with [Kalman filters](CppKalmanFilter.htm)
+    only](CppKalmanFilterExample13.md)
+-   [KalmanFilterer](ToolKalmanFilterer.md): [tool](Tools.md) to work
+    with [Kalman filters](CppKalmanFilter.md)
 -   [Kalman filter equations](CppKalmanFilterEquations.png)
 
  
@@ -81,7 +81,7 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -1694,5 +1694,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

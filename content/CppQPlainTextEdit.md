@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPlainTextEdit](CppQPlainTextEdit.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPlainTextEdit](CppQPlainTextEdit.md)
 =========================================================================
 
  
 
-[QPlainTextEdit](CppQPlainTextEdit.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for multi-line plain-text editing.
+[QPlainTextEdit](CppQPlainTextEdit.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for multi-line plain-text editing.
 
  
 
@@ -30,15 +30,15 @@
 
  
 
-![Qt](PicQt.png) [Qt FAQ's](CppQtFaq.htm) about [QPlainTextEdit](CppQPlainTextEdit.htm)
+![Qt](PicQt.png) [Qt FAQ's](CppQtFaq.md) about [QPlainTextEdit](CppQPlainTextEdit.md)
 ---------------------------------------------------------------------------------------
 
  
 
 -   [How to scroll a QPlainTextEdit to its
-    top?](CppQPlainTextEditMoveCursorToStart.htm)
+    top?](CppQPlainTextEditMoveCursorToStart.md)
 -   [How to set QPlainTextEdit's cursor to the
-    top?](CppQPlainTextEditMoveCursorToStart.htm)
+    top?](CppQPlainTextEditMoveCursorToStart.md)
 
  
 

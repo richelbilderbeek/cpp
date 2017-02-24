@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [char](CppChar.htm)
+([C++](Cpp.md)) [char](CppChar.md)
 ====================================
 
  
 
-[char](CppChar.htm) is a [keyword](CppKeyword.htm) for a
-(single-)character [data type](CppDataType.htm) to store a [character
-literal](CppCharacterLiteral.htm). [std::string](CppString.htm) can be
-used to store a collection of [char](CppChar.htm).
+[char](CppChar.md) is a [keyword](CppKeyword.md) for a
+(single-)character [data type](CppDataType.md) to store a [character
+literal](CppCharacterLiteral.md). [std::string](CppString.md) can be
+used to store a collection of [char](CppChar.md).
 
  
 
@@ -30,10 +30,10 @@ used to store a collection of [char](CppChar.htm).
 
  
 
-Prefer plain [char](CppChar.htm) over [signed](CppSigned.htm)
-[char](CppChar.htm) and [unsigned](CppUnsigned.htm) [char](CppChar.htm)
-\[1\]. Use [std::string](CppString.htm) rather than zero-terminated
-[arrays](CppArray.htm) of [chars](CppChar.htm) \[2\].
+Prefer plain [char](CppChar.md) over [signed](CppSigned.md)
+[char](CppChar.md) and [unsigned](CppUnsigned.md) [char](CppChar.htm)
+\[1\]. Use [std::string](CppString.md) rather than zero-terminated
+[arrays](CppArray.md) of [chars](CppChar.md) \[2\].
 
  
 
@@ -43,16 +43,16 @@ Prefer plain [char](CppChar.htm) over [signed](CppSigned.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[9\] Prefer plain char over signed char and
     unsigned char'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
     Advice. page 199: '\[7\] Use string rather than zero-terminated
     arrays of chars'

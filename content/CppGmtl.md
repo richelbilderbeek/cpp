@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [GMTL](CppGmtl.htm)
+([C++](Cpp.md)) [GMTL](CppGmtl.md)
 ====================================
 
  
 
-'[GMTL](CppGmtl.htm) stands for (G)eneric (M)ath (T)emplate (L)ibrary.
+'[GMTL](CppGmtl.md) stands for (G)eneric (M)ath (T)emplate (L)ibrary.
 It is a math library designed to be high-performance, extensible, and
 generic. \[1\]'.
 
@@ -66,7 +66,7 @@ Examples
 
  
 
-[References](CppRefererences.htm)
+[References](CppRefererences.md)
 ---------------------------------
 
  

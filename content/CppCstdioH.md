@@ -12,70 +12,70 @@
 
  
 
-([C++](Cpp.htm)) [cstdio.h](CppCstdioH.htm)
+([C++](Cpp.md)) [cstdio.h](CppCstdioH.md)
 ===========================================
 
  
 
-[cstdio.h](CppCstdioH.htm) is a standard [header
-file](CppHeaderFile.htm).
+[cstdio.h](CppCstdioH.md) is a standard [header
+file](CppHeaderFile.md).
 
  
 
-[cstdio.h](CppCstdioH.htm) denotes 'C standard input/output' and it is
-the C++ [header file](CppHeaderFile.htm) version of the C [header
-file](CppHeaderFile.htm) 'stdio.h'.
+[cstdio.h](CppCstdioH.md) denotes 'C standard input/output' and it is
+the C++ [header file](CppHeaderFile.md) version of the C [header
+file](CppHeaderFile.md) 'stdio.h'.
 
  
 
-[cstdio.h](CppCstdioH.htm) contains the [definitions](CppDefinition.htm)
-of the following [functions](CppFunction.htm) (incomplete list, taken
-from the GNU ISO C++ library's [cstdio.h](CppCstdioH.htm) supplied with
-[Qt Creator](CppQtCreator.htm) 1.3.1):
+[cstdio.h](CppCstdioH.md) contains the [definitions](CppDefinition.md)
+of the following [functions](CppFunction.md) (incomplete list, taken
+from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
+[Qt Creator](CppQtCreator.md) 1.3.1):
 
  
 
-1.  [std::clearerr](CppClearerr.htm)
-2.  [std::fclose](CppFclose.htm)
-3.  [std::feof](CppFeof.htm)
-4.  [std::ferror](CppFerror.htm)
-5.  [std::fflush](CppFflush.htm)
-6.  [std::fgetc](CppFgetc.htm)
-7.  [std::fgetpos](CppFgetpos.htm)
-8.  [std::fgets](CppFgets.htm)
-9.  [std::fopen](CppFopen.htm)
-10. [std::fprintf](CppFprintf.htm)
-11. [std::fputc](CppFputc.htm)
-12. [std::fputs](CppFputs.htm)
-13. [std::fread](CppFread.htm)
-14. [std::freopen](CppFreopen.htm)
-15. [std::fscanf](CppFscanf.htm)
-16. [std::fseek](CppFseek.htm)
-17. [std::fsetpos](CppFsetpos.htm)
-18. [std::ftell](CppFtell.htm)
-19. [std::fwrite](CppFwrite.htm)
-20. [std::getc](CppGetc.htm)
-21. [std::getchar](CppGetchar.htm)
-22. [std::gets](CppGets.htm)
-23. [std::perror](CppPerror.htm)
-24. [std::printf](CppPrintf.htm)
-25. [std::putc](CppPutc.htm)
-26. [std::putchar](CppPutchar.htm)
-27. [std::puts](CppPuts.htm)
-28. [std::remove](CppRemove.htm)
-29. [std::rename](CppRename.htm)
-30. [std::rewind](CppRewind.htm)
-31. [std::scanf](CppScanf.htm)
-32. [std::setbuf](CppSetbuf.htm)
-33. [std::setvbuf](CppSetvbuf.htm)
-34. [std::sprintf](CppSprintf.htm)
-35. [std::sscanf](CppSscanf.htm)
-36. [std::tmpfile](CppTmpfile.htm)
-37. [std::tmpnam](CppTmpnam.htm)
-38. [std::ungetc](CppUngetc.htm)
-39. [std::vfprintf](CppVfprintf.htm)
-40. [std::vprintf](CppVprintf.htm)
-41. [std::vsprintf](CppVsprintf.htm)
+1.  [std::clearerr](CppClearerr.md)
+2.  [std::fclose](CppFclose.md)
+3.  [std::feof](CppFeof.md)
+4.  [std::ferror](CppFerror.md)
+5.  [std::fflush](CppFflush.md)
+6.  [std::fgetc](CppFgetc.md)
+7.  [std::fgetpos](CppFgetpos.md)
+8.  [std::fgets](CppFgets.md)
+9.  [std::fopen](CppFopen.md)
+10. [std::fprintf](CppFprintf.md)
+11. [std::fputc](CppFputc.md)
+12. [std::fputs](CppFputs.md)
+13. [std::fread](CppFread.md)
+14. [std::freopen](CppFreopen.md)
+15. [std::fscanf](CppFscanf.md)
+16. [std::fseek](CppFseek.md)
+17. [std::fsetpos](CppFsetpos.md)
+18. [std::ftell](CppFtell.md)
+19. [std::fwrite](CppFwrite.md)
+20. [std::getc](CppGetc.md)
+21. [std::getchar](CppGetchar.md)
+22. [std::gets](CppGets.md)
+23. [std::perror](CppPerror.md)
+24. [std::printf](CppPrintf.md)
+25. [std::putc](CppPutc.md)
+26. [std::putchar](CppPutchar.md)
+27. [std::puts](CppPuts.md)
+28. [std::remove](CppRemove.md)
+29. [std::rename](CppRename.md)
+30. [std::rewind](CppRewind.md)
+31. [std::scanf](CppScanf.md)
+32. [std::setbuf](CppSetbuf.md)
+33. [std::setvbuf](CppSetvbuf.md)
+34. [std::sprintf](CppSprintf.md)
+35. [std::sscanf](CppSscanf.md)
+36. [std::tmpfile](CppTmpfile.md)
+37. [std::tmpnam](CppTmpnam.md)
+38. [std::ungetc](CppUngetc.md)
+39. [std::vfprintf](CppVfprintf.md)
+40. [std::vprintf](CppVprintf.md)
+41. [std::vsprintf](CppVsprintf.md)
 
  
 

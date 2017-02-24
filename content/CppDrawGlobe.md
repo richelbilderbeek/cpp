@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [DrawGlobe](CppDrawGlobe.htm)
+([C++](Cpp.md)) [DrawGlobe](CppDrawGlobe.md)
 ==============================================
 
  
 
-[DrawGlobe](CppDrawGlobe.htm) is a [graphics](CppGraphics.htm) [code
-snippet](CppCodeSnippets.htm) to draw a globe.
+[DrawGlobe](CppDrawGlobe.md) is a [graphics](CppGraphics.md) [code
+snippet](CppCodeSnippets.md) to draw a globe.
 
  
 
@@ -34,7 +34,7 @@ snippet](CppCodeSnippets.htm) to draw a globe.
 
  
 
-[DrawGlobe](CppDrawGlobe.htm) using the [Qt](CppQt.htm) [library](CppLibrary.htm)
+[DrawGlobe](CppDrawGlobe.md) using the [Qt](CppQt.md) [library](CppLibrary.htm)
 ---------------------------------------------------------------------------------
 
  
@@ -42,7 +42,7 @@ snippet](CppCodeSnippets.htm) to draw a globe.
 -   [Download the Qt Creator project
     'CppDrawGlobe' (zip)](CppDrawGlobe.zip)
 -   [View the Qt Creator source code of 'CppDrawGlobe' as a web
-    page (htm)](CppDrawGlobeQt.htm)
+    page (htm)](CppDrawGlobeQt.md)
 
  
 
@@ -60,7 +60,7 @@ snippet](CppCodeSnippets.htm) to draw a globe.
 
  
 
-[DrawGlobe](CppDrawGlobe.htm) using the [VCL](CppVcl.htm) [library](CppLibrary.htm)
+[DrawGlobe](CppDrawGlobe.md) using the [VCL](CppVcl.md) [library](CppLibrary.htm)
 -----------------------------------------------------------------------------------
 
  

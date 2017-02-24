@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#30](CppExerciseNoForLoopsAnswer30.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#30](CppExerciseNoForLoopsAnswer30.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,14 +30,14 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#30: Get maximum value from [std::map](CppMap.htm)&lt;**[const](CppConst.htm)** Person \*,**[int](CppInt.htm)**&gt;
+Question \#30: Get maximum value from [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person \*,**[int](CppInt.htm)**&gt;
 -----------------------------------------------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -55,7 +55,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Bind
 --------------------------------------------------------------
 
  

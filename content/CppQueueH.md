@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [queue.h](CppQueueH.htm)
+([C++](Cpp.md)) [queue.h](CppQueueH.md)
 =========================================
 
  
 
-[queue.h](CppQueueH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the
-[definitions](CppDefinition.htm) of some queues (incomplete list):
+[queue.h](CppQueueH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the
+[definitions](CppDefinition.md) of some queues (incomplete list):
 
--   [std::queue](CppQueue.htm)
+-   [std::queue](CppQueue.md)
 
  
 

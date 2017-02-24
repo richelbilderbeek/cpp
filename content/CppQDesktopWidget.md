@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QDesktopWidget](CppQDesktopWidget.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QDesktopWidget](CppQDesktopWidget.md)
 =========================================================================
 
  
 
-[QDesktopWidget](CppQDesktopWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to get information about the screen/monitor.
+[QDesktopWidget](CppQDesktopWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to get information about the screen/monitor.
 
  
 
 The code below, similar to [How to get the screen
-size?](CppQtGetScreenSize.htm) shows how to use
-[QDesktopWidget](CppQDesktopWidget.htm) to obtain the screen size, like
+size?](CppQtGetScreenSize.md) shows how to use
+[QDesktopWidget](CppQDesktopWidget.md) to obtain the screen size, like
 [this screenshot (png)](CppQDesktopWidget.png).
 
  

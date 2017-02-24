@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [std](CppStd.htm)
+([C++](Cpp.md)) [std](CppStd.md)
 ==================================
 
  
 
-[std](CppStd.htm) is the [namespace](CppNamespace.htm) all
-[STL](CppStl.htm) [functions](CppFunction.htm) and
-[classes](CppClass.htm) reside in, for example, the
-[global](CppGlobal.htm) output stream called '[cout](CppCout.htm)'.
+[std](CppStd.md) is the [namespace](CppNamespace.md) all
+[STL](CppStl.md) [functions](CppFunction.md) and
+[classes](CppClass.md) reside in, for example, the
+[global](CppGlobal.md) output stream called '[cout](CppCout.md)'.
 
  
 
-To call something from a certain [namespace](CppNamespace.htm), write
-the [namespace](CppNamespace.htm)'s name in front, followed by the
-[scope operator, ::](CppOperatorScope.htm).
+To call something from a certain [namespace](CppNamespace.md), write
+the [namespace](CppNamespace.md)'s name in front, followed by the
+[scope operator, ::](CppOperatorScope.md).
 
   ------------------------------------------------------------------------
   ` #include <iostream>  int main() {   std::cout << "Hello World\n"; }`

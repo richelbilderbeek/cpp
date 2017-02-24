@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ['Hello Qt' using (a Windows version of) Qt Creator under Wine under Ubuntu](CppHelloQtQtCreatorWineUbuntu.htm)
+([C++](Cpp.md)) ['Hello Qt' using (a Windows version of) Qt Creator under Wine under Ubuntu](CppHelloQtQtCreatorWineUbuntu.md)
 ================================================================================================================================
 
  
 
-[Hello Qt](CppHelloQt.htm) is an extension of [Hello
-World](CppHelloWorld.htm). Like [Hello World](CppHelloWorld.htm), [Hello
-Qt](CppHelloQt.htm) is a simple application. [Hello Qt](CppHelloQt.htm),
-however, also requires the [Qt](CppQt.htm) [libraries](CppLibrary.htm).
+[Hello Qt](CppHelloQt.md) is an extension of [Hello
+World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md), [Hello
+Qt](CppHelloQt.md) is a simple application. [Hello Qt](CppHelloQt.md),
+however, also requires the [Qt](CppQt.md) [libraries](CppLibrary.md).
 
  
 
@@ -39,19 +39,19 @@ however, also requires the [Qt](CppQt.htm) [libraries](CppLibrary.htm).
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 1.40
+-   [Qt](CppQt.md): version 1.40
 
 Other tools:
 
--   [Wine](CppWine.htm): version 1.2
+-   [Wine](CppWine.md): version 1.2
 
  
 
@@ -63,7 +63,7 @@ Other tools:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

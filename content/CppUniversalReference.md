@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [universal reference](CppUniversalReference.htm)
+([C++](Cpp.md)) [universal reference](CppUniversalReference.md)
 =================================================================
 
  
 
-[universal reference](CppUniversalReference.htm) is a [C++11](Cpp11.htm)
+[universal reference](CppUniversalReference.md) is a [C++11](Cpp11.md)
 ...
 
  
@@ -36,7 +36,7 @@ Examples
  
 
 -   [universal reference example 1:
-    basics](CppUniversalReferenceExample1.htm)
+    basics](CppUniversalReferenceExample1.md)
 
  
 
@@ -48,15 +48,15 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Apply [std::forward](CppStdForward.htm) when passing [universal
-    references](CppUniversalReference.htm) \[1\]
--   Distinguish [Rvalue references](CppRvalueReference.htm) from
-    [universal references](CppUniversalReference.htm) \[2\]
+-   Apply [std::forward](CppStdForward.md) when passing [universal
+    references](CppUniversalReference.md) \[1\]
+-   Distinguish [Rvalue references](CppRvalueReference.md) from
+    [universal references](CppUniversalReference.md) \[2\]
 
  
 
@@ -68,15 +68,15 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Apply universal
     reference when Passing Universal References'
-2.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+2.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Distinguish Rvalue
     References from Universal References'
 
@@ -99,5 +99,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

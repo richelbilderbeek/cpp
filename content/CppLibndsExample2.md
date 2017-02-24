@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [LibndsExample2](CppLibndsExample2.htm)
+([C++](Cpp.md)) [LibndsExample2](CppLibndsExample2.md)
 ========================================================
 
  
@@ -83,5 +83,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [DoPerfectElasticCollision](CppDoPerfectElasticCollision.htm)
+([C++](Cpp.md)) [DoPerfectElasticCollision](CppDoPerfectElasticCollision.md)
 ==============================================================================
 
  
 
-[DoPerfectElasticCollision](CppDoPerfectElasticCollision.htm) is a
-[math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to determine the
+[DoPerfectElasticCollision](CppDoPerfectElasticCollision.md) is a
+[math](CppMath.md) [code snippet](CppCodeSnippets.md) to determine the
 velocities and angles of two 2D round objects after a perfect elastic
 collision.
 
@@ -35,8 +35,8 @@ function's working. The function assumes equals mass of both players.
  
 
 I (re)developed
-[DoPerfectElasticCollision](CppDoPerfectElasticCollision.htm) for the
-[game](Games.htm) [Boenken](GameBoenken.htm).
+[DoPerfectElasticCollision](CppDoPerfectElasticCollision.md) for the
+[game](Games.md) [Boenken](GameBoenken.md).
 
  
 
@@ -45,9 +45,9 @@ I (re)developed
 
  
 
-To use [DoPerfectElasticCollision](CppDoPerfectElasticCollision.htm),
-you must already have [defined](CppDefinition.htm) the
-[GetAngle](CppGetAngle.htm) [function](CppFunction.htm).
+To use [DoPerfectElasticCollision](CppDoPerfectElasticCollision.md),
+you must already have [defined](CppDefinition.md) the
+[GetAngle](CppGetAngle.md) [function](CppFunction.md).
 
  
 

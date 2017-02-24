@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Bridge](CppDesignPatternBridge.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Bridge](CppDesignPatternBridge.md) ([Design Pattern](CppDesignPattern.htm))
 ==============================================================================================
 
  
 
-The [Bridge](CppDesignPatternBridge.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'decouple an abstraction from its
+The [Bridge](CppDesignPatternBridge.md) is a [Design
+Pattern](CppDesignPattern.md) to 'decouple an abstraction from its
 implementation so that the two can vary independently' \[1\]
 
  
@@ -31,14 +31,14 @@ implementation so that the two can vary independently' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

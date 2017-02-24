@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [operator\[\]()](CppOperatorIndex.htm)
+([C++](Cpp.md)) [operator\[\]()](CppOperatorIndex.md)
 =======================================================
 
  
 
-[operator\[\]()](CppOperatorIndex.htm) (pronounced as 'the index
-operator') is an [operator](CppOperator.htm) used to retrieve an indexed
-element from a [container](CppContainer.htm).
+[operator\[\]()](CppOperatorIndex.md) (pronounced as 'the index
+operator') is an [operator](CppOperator.md) used to retrieve an indexed
+element from a [container](CppContainer.md).
 
  
 
@@ -37,15 +37,15 @@ element from a [container](CppContainer.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   [Avoid duplication in const and non-const member
-    functions](CppAvoidDuplicationInConstAndNonConstMemberFunctions.htm)
+    functions](CppAvoidDuplicationInConstAndNonConstMemberFunctions.md)
     \[1\]
--   Use [operator\[\]()](CppOperatorIndex.htm) for subscripting and for
+-   Use [operator\[\]()](CppOperatorIndex.md) for subscripting and for
     selection based on a single value \[2\]
 
  
@@ -58,15 +58,15 @@ element from a [container](CppContainer.htm).
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN:0-321-33487-6. Item 3, paragraph 'Avoid duplication in const
     and non-const member functions'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 19.5.
     Advice. page 576: '\[1\] Use operator\[\]() for subscripting and for
     selection based on a single value'

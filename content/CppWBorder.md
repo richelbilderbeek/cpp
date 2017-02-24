@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WBorder](CppWBorder.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WBorder](CppWBorder.md)
 ===============================================================
 
  
 
-[Wt::WBorder](CppWBorder.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WBorder](CppWBorder.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for ...
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WBorder](CppWBorder.htm) is used in, among others:
+[Wt::WBorder](CppWBorder.md) is used in, among others:
 
 -   ...
 

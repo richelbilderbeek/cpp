@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPushButton](CppQPushButton.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPushButton](CppQPushButton.md)
 ===================================================================
 
  
 
-[QPushButton](CppQPushButton.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QPushButton](CppQPushButton.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

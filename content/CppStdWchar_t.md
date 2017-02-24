@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [wchar\_t](CppWchar_t.htm)
+([C++](Cpp.md)) [wchar\_t](CppWchar_t.md)
 ===========================================
 
  
 
-[Keyword](CppKeyword.htm) for a [data type](CppDataType.htm) for wide
+[Keyword](CppKeyword.md) for a [data type](CppDataType.md) for wide
 chars.
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Symbian](CppSymbian.htm) [What is the Symbian screen size (in pixels)?](CppSymbianScreenSize.htm)
+([C++](Cpp.md)) [Symbian](CppSymbian.md) [What is the Symbian screen size (in pixels)?](CppSymbianScreenSize.htm)
 ===================================================================================================================
 
  
 
-[Symbian FAQ](CppSymbianFaq.htm).
+[Symbian FAQ](CppSymbianFaq.md).
 
  
 

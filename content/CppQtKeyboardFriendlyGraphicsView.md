@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtKeyboardFriendlyGraphicsView](CppQtKeyboardFriendlyGraphicsView.htm)
+([C++](Cpp.md)) [QtKeyboardFriendlyGraphicsView](CppQtKeyboardFriendlyGraphicsView.md)
 ========================================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtKeyboardFriendlyGraphicsView](CppQtKeyboardFriendlyGraphicsView.htm)
-is a [Qt](CppQt.htm) [class](CppClass.htm) for a keyboard friendly
+[QtKeyboardFriendlyGraphicsView](CppQtKeyboardFriendlyGraphicsView.md)
+is a [Qt](CppQt.md) [class](CppClass.md) for a keyboard friendly
 QGraphicsView.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

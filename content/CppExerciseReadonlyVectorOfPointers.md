@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![C++98](PicCpp98.png) [Exercise \#11: Obtaining a std::vector of read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointers.htm)
+([C++](Cpp.md)) ![C++98](PicCpp98.png) [Exercise \#11: Obtaining a std::vector of read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointers.md)
 ========================================================================================================================================================
 
  
@@ -23,13 +23,13 @@ Date added: 30th of March 2011
 
  
 
-This [exercise](CppExercise.htm) shows that working with [smart
-pointers](CppSmartPointer.htm) is not always easy...
+This [exercise](CppExercise.md) shows that working with [smart
+pointers](CppSmartPointer.md) is not always easy...
 
  
 
-This [exercise](CppExercise.htm) is a continuation on [Exercise \#10:
-Obtaining a read-only (smart?) pointer](CppExerciseReadonlyPointer.htm).
+This [exercise](CppExercise.md) is a continuation on [Exercise \#10:
+Obtaining a read-only (smart?) pointer](CppExerciseReadonlyPointer.md).
 
  
 
@@ -47,8 +47,8 @@ The problem
  
 
 Following [Exercise \#10: Obtaining a read-only (smart?)
-pointer](CppExerciseReadonlyPointer.htm) a programmer has written the
-following [class](CppClass.htm):
+pointer](CppExerciseReadonlyPointer.md) a programmer has written the
+following [class](CppClass.md):
 
  
 
@@ -58,24 +58,24 @@ following [class](CppClass.htm):
 
  
 
-Writing such a [class](CppClass.htm) enables safe [forward
-declarations](CppForwardDeclaration.htm) and forces the user of this
-[class](CppClass.htm) to use [smart pointers](CppSmartPointer.htm),
+Writing such a [class](CppClass.md) enables safe [forward
+declarations](CppForwardDeclaration.md) and forces the user of this
+[class](CppClass.md) to use [smart pointers](CppSmartPointer.md),
 which is a good thing \[1\].
 
  
 
-This programmer wants to use a [class](CppClass.htm) managing a
-[std::vector](CppVector.htm) of [boost::shared\_ptr](CppShared_ptr.htm)
+This programmer wants to use a [class](CppClass.md) managing a
+[std::vector](CppVector.md) of [boost::shared\_ptr](CppShared_ptr.md)
 of MyStruct, but he/she also wants to let the user obtain a
-[std::vector](CppVector.htm) of read-only [smart
-pointers](CppSmartPointer.htm)/[pointers](CppPointer.htm), that can be
+[std::vector](CppVector.md) of read-only [smart
+pointers](CppSmartPointer.md)/[pointers](CppPointer.md), that can be
 copied freely.
 
  
 
 The code below shows the choices and some lines that should and should
-not [compile](CppCompiler.htm):
+not [compile](CppCompiler.md):
 
  
 
@@ -90,7 +90,7 @@ What should the question marks be?
  
 
 [View the answer of this part of the
-exercise](CppExerciseReadonlyVectorOfPointersAnswer.htm)
+exercise](CppExerciseReadonlyVectorOfPointersAnswer.md)
 
  
 
@@ -102,13 +102,13 @@ exercise](CppExerciseReadonlyVectorOfPointersAnswer.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 13: 'Ensure resources are owned by objects. Use explicit
     RAII and smart pointers.

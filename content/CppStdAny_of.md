@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::any\_of](CppAny_of.htm)
+([C++](Cpp.md)) [std::any\_of](CppAny_of.md)
 ==============================================
 
  
 
-[std::any\_of](CppAny_of.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) since the [C++11](Cpp11.htm)
-[standard](CppStandard.htm) to [check](CppCheck.htm) if there is an
-element in a [container](CppContainer.htm) that satisfies a certain
-[predicate](CppPredicate.htm).
+[std::any\_of](CppAny_of.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) since the [C++11](Cpp11.md)
+[standard](CppStandard.md) to [check](CppCheck.md) if there is an
+element in a [container](CppContainer.md) that satisfies a certain
+[predicate](CppPredicate.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [const\_cast does not work to remove constness in argument](CppMyQuestions1.htm)
+([C++](Cpp.md)) [const\_cast does not work to remove constness in argument](CppMyQuestions1.md)
 =================================================================================================
 
  
 
-One of my [C++ questions](CppMyQuestions.htm) that has been solved!
+One of my [C++ questions](CppMyQuestions.md) that has been solved!
 
  
 
@@ -34,7 +34,7 @@ Dear fellow PH-users,
 
  
 
-When using [std::seach\_n](CppSearch_n.htm) in a const-correct way I ran
+When using [std::seach\_n](CppSearch_n.md) in a const-correct way I ran
 into problems. I found a workaround, but I hope one of you can give an
 in-depth explanation.
 

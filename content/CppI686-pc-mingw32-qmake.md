@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.htm)
+([C++](Cpp.md)) [i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.md)
 ======================================================================
 
  
 
-[i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.htm) is the executable
-used by the [MXE](CppMxe.htm) ('MinGW X-compiling Environment') and can
+[i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.md) is the executable
+used by the [MXE](CppMxe.md) ('MinGW X-compiling Environment') and can
 be used to [cross-compile a Qt Creator project to a windows
-executable](CppQtCrosscompileToWindows.htm).
+executable](CppQtCrosscompileToWindows.md).
 
  
 
 With Qt 5 installed, and when building MXE, 'make qt' does not generate
-[i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.htm), use 'make qtbase'
+[i686-pc-mingw32-qmake](CppI686-pc-mingw32-qmake.md), use 'make qtbase'
 additionally.
 
  
 
-See [MXE](CppMxe.htm) for examples.
+See [MXE](CppMxe.md) for examples.
 
  
 

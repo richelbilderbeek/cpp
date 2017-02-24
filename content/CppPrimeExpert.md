@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [PrimeExpert](CppPrimeExpert.htm)
+([C++](Cpp.md)) [PrimeExpert](CppPrimeExpert.md)
 ==================================================
 
  
@@ -22,22 +22,22 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[PrimeExpert](CppPrimeExpert.htm) is a [class](CppClass.htm) with only
-one important [member function](CppMemberFunction.htm) called
-[IsPrime](CppIsPrime.htm), which calculates whether a number is prime.
+[PrimeExpert](CppPrimeExpert.md) is a [class](CppClass.md) with only
+one important [member function](CppMemberFunction.md) called
+[IsPrime](CppIsPrime.md), which calculates whether a number is prime.
 
  
 
-[PrimeExpert](CppPrimeExpert.htm) is a trade-off between the speed of
+[PrimeExpert](CppPrimeExpert.md) is a trade-off between the speed of
 determining whether a number is prime (for multiple times) and memory
 consumption: to determine whether a number is prime quicker,
-[PrimeExpert](CppPrimeExpert.htm) maintains a
-[std::vector](CppVector.htm) of known primes (but of known primes only).
+[PrimeExpert](CppPrimeExpert.md) maintains a
+[std::vector](CppVector.md) of known primes (but of known primes only).
 
  
 
-[PrimeExpert](CppPrimeExpert.htm) can be tested using the
-[tool](Tools.htm) [TestPrimeExpert](ToolTestPrimeExpert.htm).
+[PrimeExpert](CppPrimeExpert.md) can be tested using the
+[tool](Tools.md) [TestPrimeExpert](ToolTestPrimeExpert.md).
 
  
 
@@ -111,5 +111,5 @@ primeexpert.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

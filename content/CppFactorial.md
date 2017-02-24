@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Factorial](CppFactorial.htm)
+([C++](Cpp.md)) [Factorial](CppFactorial.md)
 ==============================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to calculate a
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate a
 factorial.
 
 There are multiple ways to calculate a factorial:
@@ -84,8 +84,8 @@ The algorithm way
 
  
 
-The code belows shows a way how to use [algorithms](CppAlgorithm.htm) to
-calculate a [factorial](CppFactorial.htm). This is not the preferred
+The code belows shows a way how to use [algorithms](CppAlgorithm.md) to
+calculate a [factorial](CppFactorial.md). This is not the preferred
 option.
 
  

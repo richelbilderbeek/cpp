@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [RgbToColor](CppRgbToColor.htm)
+([C++](Cpp.md)) [RgbToColor](CppRgbToColor.md)
 ================================================
 
  
 
 Converts an RGB value to a TColor. To convert a TColor to an RGB value,
-use [the ColorToRgb function](CppColorToRgb.htm).
+use [the ColorToRgb function](CppColorToRgb.md).
 
  
 

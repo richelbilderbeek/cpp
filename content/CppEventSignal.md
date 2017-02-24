@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::EventSignal](CppEventSignal.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::EventSignal](CppEventSignal.md)
 =======================================================================
 
  
 
-[Wt::EventSignal](CppEventSignal.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::EventSignal](CppEventSignal.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::EventSignal](CppEventSignal.htm) is used in, among others:
+[Wt::EventSignal](CppEventSignal.md) is used in, among others:
 
 -   ...
 

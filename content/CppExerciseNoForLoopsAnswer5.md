@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#5](CppExerciseNoForLoopsAnswer5.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#5](CppExerciseNoForLoopsAnswer5.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,12 +35,12 @@ Question \#5: Widget::DoItOften on Widget
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm) (or [boost::bind](CppBind.htm))
--   [std::for\_each](CppFor_each.htm)
--   [std::mem\_fun\_ref](CppMem_fun.htm) (or
-    [boost::mem\_fn](CppMem_fn.htm))
+-   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::for\_each](CppFor_each.md)
+-   [std::mem\_fun\_ref](CppMem_fun.md) (or
+    [boost::mem\_fn](CppMem_fn.md))
 
  
 
@@ -58,7 +58,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![STL](PicStl.png) Answer using [STL](CppStl.htm) only
+![STL](PicStl.png) Answer using [STL](CppStl.md) only
 ------------------------------------------------------
 
  
@@ -77,7 +77,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm)
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md)
 ---------------------------------------------------------
 
  
@@ -88,7 +88,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-Note that you do not need [boost::mem\_fn](CppMem_fn.htm), because it is
+Note that you do not need [boost::mem\_fn](CppMem_fn.md), because it is
 added for you. If this is done by hand, like in the code below, the
 solution is still correct.
 

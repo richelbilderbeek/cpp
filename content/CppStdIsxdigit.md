@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::isxdigit](CppIsxdigit.htm)
+([C++](Cpp.md)) [std::isxdigit](CppIsxdigit.md)
 =================================================
 
  
 
-[std::isxdigit](CppIsxdigit.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to test of a character is a hexadecimal
+[std::isxdigit](CppIsxdigit.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to test of a character is a hexadecimal
 digit.
 
  

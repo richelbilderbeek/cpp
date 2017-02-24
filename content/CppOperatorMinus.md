@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [operator-](CppOperatorMinus.htm)
+([C++](Cpp.md)) [operator-](CppOperatorMinus.md)
 ==================================================
 
  
 
-[operator-](CppOperatorMinus.htm) is the [operator](CppOperator.htm) for
+[operator-](CppOperatorMinus.md) is the [operator](CppOperator.md) for
 subtracting.
 
  
 
-The following line of code calls [operator-](CppOperatorMinus.htm) to
-subtract the values of two [integers](CppInt.htm):
+The following line of code calls [operator-](CppOperatorMinus.md) to
+subtract the values of two [integers](CppInt.md):
 
  
 
@@ -33,8 +33,8 @@ subtract the values of two [integers](CppInt.htm):
 
  
 
-[operator-](CppOperatorMinus.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::minus](CppMinus.htm).
+[operator-](CppOperatorMinus.md) is encapsulated by the
+[functor](CppFunctor.md) [std::minus](CppMinus.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [My Questions: Expected init-declarator compiler-error with G++](CppMyQuestions0.htm)
+([C++](Cpp.md)) [My Questions: Expected init-declarator compiler-error with G++](CppMyQuestions0.md)
 ======================================================================================================
 
  
@@ -88,5 +88,5 @@ Thanks [Lundin](http://www.programmersheaven.com/user/Lundin)!
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

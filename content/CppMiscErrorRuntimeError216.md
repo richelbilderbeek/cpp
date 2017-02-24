@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Runtime error 216 at 400367BA](CppMiscErrorRuntimeError216.htm)
+([C++](Cpp.md)) [Runtime error 216 at 400367BA](CppMiscErrorRuntimeError216.md)
 =================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

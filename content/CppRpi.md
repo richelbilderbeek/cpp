@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Raspberry Pi](CppRpi.htm)
+([C++](Cpp.md)) [Raspberry Pi](CppRpi.md)
 ===========================================
 
  
 
-My [Raspberry Pi](CppRpi.htm) notes.
+My [Raspberry Pi](CppRpi.md) notes.
 
  
 
@@ -30,9 +30,9 @@ My [Raspberry Pi](CppRpi.htm) notes.
  
 
 -   [Raspberry Pi example 1: toggle all GPIO pins on and
-    off](CppRpiExample1.htm)
+    off](CppRpiExample1.md)
 -   [Raspberry Pi example 2: turn GPIO pins on and
-    off](CppRpiExample2.htm)
+    off](CppRpiExample2.md)
 
  
 
@@ -157,5 +157,5 @@ Solution: try connecting via LAN
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

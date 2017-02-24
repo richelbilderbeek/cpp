@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [Create a DLL using g++](CppGppCreateDll.htm)
+([C++](Cpp.md)) [Create a DLL using g++](CppGppCreateDll.md)
 ==============================================================
 
  
 
-Before being able to [call a DLL](CppGppCallDll.htm), one has to [create
-a DLL using g++](CppGppCreateDll.htm) first.
+Before being able to [call a DLL](CppGppCallDll.md), one has to [create
+a DLL using g++](CppGppCreateDll.md) first.
 
  
 
-To create a [DLL](CppGppDll.htm) using [g++](CppGpp.htm), do the
+To create a [DLL](CppGppDll.md) using [g++](CppGpp.md), do the
 following steps:
 
--   Create a [DLL](CppDll.htm) entry point with a WinMain
+-   Create a [DLL](CppDll.md) entry point with a WinMain
 -   Create a unit with the functions you want to put in a
-    [DLL](CppDll.htm)
--   Build the [DLL](CppDll.htm)
+    [DLL](CppDll.md)
+-   Build the [DLL](CppDll.md)
 
  
 
@@ -71,7 +71,7 @@ UnitFunctions.h
  
 
 The function put in the DLL is called GetAnswerOfLife and will return
-the value of 42. Note the [\#ifdef](CppIfdef.htm)'s before and after the
+the value of 42. Note the [\#ifdef](CppIfdef.md)'s before and after the
 function. These are obligatory!
 
  
@@ -113,7 +113,7 @@ Building the DLL
 
  
 
-Use the following [g++](CppGpp.htm) commands:
+Use the following [g++](CppGpp.md) commands:
 
  
 
@@ -123,12 +123,12 @@ Use the following [g++](CppGpp.htm) commands:
 
  
 
-This should yield your first [DLL](CppDll.htm).
+This should yield your first [DLL](CppDll.md).
 
  
 
 Perhaps you now want to [go to the calling a DLL page using
-g++](CppGppCallDll.htm).
+g++](CppGppCallDll.md).
 
  
 

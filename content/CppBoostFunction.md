@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [boost::function](CppBoostFunction.htm)
+([C++](Cpp.md)) [boost::function](CppBoostFunction.md)
 ========================================================
 
  
 
-[boost::function](CppFunction.htm) is part of the
-[Boost](CppBoost.htm).Function [library](CppLibrary.htm) for working
-with [functions](CppFunction.htm) in general, including [member
-functions](CppMemberFunction.htm).
+[boost::function](CppFunction.md) is part of the
+[Boost](CppBoost.md).Function [library](CppLibrary.md) for working
+with [functions](CppFunction.md) in general, including [member
+functions](CppMemberFunction.md).
 
  
 
@@ -37,8 +37,8 @@ Examples
 
  
 
--   [boost::function example 1](CppBoostFunctionExample1.htm)
--   [boost::function example 2](CppBoostFunctionExample1.htm)
+-   [boost::function example 1](CppBoostFunctionExample1.md)
+-   [boost::function example 2](CppBoostFunctionExample1.md)
 
  
 

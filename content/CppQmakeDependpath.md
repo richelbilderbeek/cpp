@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [DEPENDPATH (qmake variable)](CppQmakeDependpath.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [DEPENDPATH (qmake variable)](CppQmakeDependpath.md)
 =======================================================================================
 
  
 
-[DEPENDPATH](CppQmakeDependpath.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[DEPENDPATH](CppQmakeDependpath.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

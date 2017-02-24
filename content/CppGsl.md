@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GSL](CppGsl.htm)
+([C++](Cpp.md)) [GSL](CppGsl.md)
 ==================================
 
  
 
-[GSL](CppGsl.htm) (abbreviation of GNU Scientific
-[Library](CppLibrary.htm)) is a [library](CppLibrary.htm) for scientific
+[GSL](CppGsl.md) (abbreviation of GNU Scientific
+[Library](CppLibrary.md)) is a [library](CppLibrary.md) for scientific
 routines like the following:
 
  
@@ -58,8 +58,8 @@ routines like the following:
 
  
 
-[GSL](CppGsl.htm) needs to be built, which is a no-go for me when
-working under [Windows](CppWindows.htm).
+[GSL](CppGsl.md) needs to be built, which is a no-go for me when
+working under [Windows](CppWindows.md).
 
  
 

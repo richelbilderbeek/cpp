@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WMouseEvent](CppWMouseEvent.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WMouseEvent](CppWMouseEvent.md)
 =======================================================================
 
  
 
-[Wt::WMouseEvent](CppWMouseEvent.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) emitted by a mouse event.
+[Wt::WMouseEvent](CppWMouseEvent.md) is a [Wt](CppWt.md)
+[class](CppClass.md) emitted by a mouse event.
 
  
 

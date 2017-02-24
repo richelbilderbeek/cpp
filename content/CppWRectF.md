@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WRectF](CppWRectF.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WRectF](CppWRectF.md)
 =============================================================
 
  
 
-[Wt::WRectF](CppWRectF.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WRectF](CppWRectF.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a timer.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WRectF](CppWRectF.htm) is used in, among others:
+[Wt::WRectF](CppWRectF.md) is used in, among others:
 
 -   ...
 

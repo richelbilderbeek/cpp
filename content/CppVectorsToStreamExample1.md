@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Write and read two std::vectors to/from a std::stream: example 1](CppVectorsToStreamExample1.htm)
+([C++](Cpp.md)) [Write and read two std::vectors to/from a std::stream: example 1](CppVectorsToStreamExample1.md)
 ===================================================================================================================
 
  
 
 This [write and read two std::vectors to/from a
-std::stream](CppVectorsToStream.htm) example demonstrates a
+std::stream](CppVectorsToStream.md) example demonstrates a
 near-foolproof way. The program its setup is fine: a [data
-type](CppDataType.htm) with two [std::vectors](CppVector.htm) is
-created, written to file, a new [data type](CppDataType.htm) is read
+type](CppDataType.md) with two [std::vectors](CppVector.md) is
+created, written to file, a new [data type](CppDataType.md) is read
 from that same file and the program tests if the two [data
-type](CppDataType.htm) are identical.
+type](CppDataType.md) are identical.
 
  
 
@@ -33,7 +33,7 @@ The assumptions for this approach to work are:
 
  
 
-Note that the program will issue a failed [assert](CppAssert.htm) when
+Note that the program will issue a failed [assert](CppAssert.md) when
 the assumption is violated. Wonder, how often have you given a bell
 character as input?
 
@@ -59,35 +59,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -100,7 +100,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppVectorsToStreamExample1.pro
+[Qt project file](CppQtProjectFile.md): CppVectorsToStreamExample1.pro
 -----------------------------------------------------------------------
 
  
@@ -147,5 +147,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

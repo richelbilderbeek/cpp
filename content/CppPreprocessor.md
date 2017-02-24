@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Preprocessor](CppPreprocessor.htm)
+([C++](Cpp.md)) [Preprocessor](CppPreprocessor.md)
 ====================================================
 
  
 
-The [preprocessor](CppPreprocessor.htm) performs modifications
-(especially [macro](CppMacro.htm)'s) to source code, before
-[compiling](CppCompile.htm) takes place.
+The [preprocessor](CppPreprocessor.md) performs modifications
+(especially [macro](CppMacro.md)'s) to source code, before
+[compiling](CppCompile.md) takes place.
 
  
 
-The code below shows that the [preprocessor](CppPreprocessor.htm)
-directive '[\#define](CppDefine.htm) [NDEBUG](CppNDEBUG.htm)' lets the
-[preprocessor](CppPreprocessor.htm) remove all [assert](CppAssert.htm)
+The code below shows that the [preprocessor](CppPreprocessor.md)
+directive '[\#define](CppDefine.md) [NDEBUG](CppNDEBUG.md)' lets the
+[preprocessor](CppPreprocessor.md) remove all [assert](CppAssert.md)
 statements.
 
  

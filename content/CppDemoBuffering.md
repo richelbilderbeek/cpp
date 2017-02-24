@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [DemoBuffering](CppDemoBuffering.htm)
+([C++](Cpp.md)) [DemoBuffering](CppDemoBuffering.md)
 ======================================================
 
  
 
 Program to demonstrate the difference between single buffering and
-[double buffering](CppDoubleBuffering.htm). Licenced under GPL 3.0.
+[double buffering](CppDoubleBuffering.md). Licenced under GPL 3.0.
 
  
 

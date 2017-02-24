@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::rotate\_copy](CppRotate_copy.htm)
+([C++](Cpp.md)) [std::rotate\_copy](CppRotate_copy.md)
 ========================================================
 
  
 
-[std::rotate\_copy](CppRotate_copy.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to rotate-copy a
-[container](CppContainer.htm) to another [container](CppContainer.htm).
+[std::rotate\_copy](CppRotate_copy.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to rotate-copy a
+[container](CppContainer.md) to another [container](CppContainer.md).
 
  
 

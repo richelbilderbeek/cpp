@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WAccordionLayout](CppWAccordionLayout.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WAccordionLayout](CppWAccordionLayout.md)
 =================================================================================
 
  
 
-[Wt::WAccordionLayout](CppWAccordionLayout.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WAccordionLayout](CppWAccordionLayout.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WAccordionLayout](CppWAccordionLayout.htm) is used in, among
+[Wt::WAccordionLayout](CppWAccordionLayout.md) is used in, among
 others:
 
 -   ...

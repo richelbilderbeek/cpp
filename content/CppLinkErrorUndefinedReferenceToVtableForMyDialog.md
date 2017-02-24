@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [undefined reference to 'vtable for MyDialog'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.htm)
+([C++](Cpp.md)) [undefined reference to 'vtable for MyDialog'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.md)
 ======================================================================================================================
 
  
 
-[link error](CppLinkError.htm).
+[link error](CppLinkError.md).
 
  
 
@@ -59,32 +59,32 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  
@@ -97,7 +97,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppLinkErrorUndefinedReferenceToVtableForMyDialog.pro
+[Qt project file](CppQtProjectFile.md): CppLinkErrorUndefinedReferenceToVtableForMyDialog.pro
 ----------------------------------------------------------------------------------------------
 
  
@@ -140,9 +140,9 @@ Solution
 
  
 
-Seperate the MyDialog [class](CppClass.htm) in a [header (.h)
-file](CppHeaderFile.htm) and an [implementation (.cpp)
-file](CppImplementationFile.htm).
+Seperate the MyDialog [class](CppClass.md) in a [header (.h)
+file](CppHeaderFile.md) and an [implementation (.cpp)
+file](CppImplementationFile.md).
 
  
 

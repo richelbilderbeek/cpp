@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [\[ui\_dialog.h\] Error 127](CppMiscErrorUi_dialogHerror127.htm)
+([C++](Cpp.md)) [\[ui\_dialog.h\] Error 127](CppMiscErrorUi_dialogHerror127.md)
 =================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -34,9 +34,9 @@ History
 
  
 
-This error occurred while answering the [Qt FAQ](CppQtFaq.htm) [How to
+This error occurred while answering the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm).
+executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -81,17 +81,15 @@ Project information
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -101,7 +99,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -272,7 +272,7 @@ Unknown.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

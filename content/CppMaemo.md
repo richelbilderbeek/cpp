@@ -12,31 +12,31 @@
 
  
 
-([C++](Cpp.htm)) ![Maemo](PicMaemo.png) [Maemo](CppMaemo.htm)
+([C++](Cpp.md)) ![Maemo](PicMaemo.png) [Maemo](CppMaemo.md)
 =============================================================
 
  
 
-[Maemo](CppMaemo.htm) is an [operating system](CppOs.htm) for [mobile
-applications](CppMobileApplication.htm) based on Debian GNU/Linux.
+[Maemo](CppMaemo.md) is an [operating system](CppOs.md) for [mobile
+applications](CppMobileApplication.md) based on Debian GNU/Linux.
 
  
 
-[Maemo](CppMaemo.htm) development can be done in C, [C++](Cpp.htm),
+[Maemo](CppMaemo.md) development can be done in C, [C++](Cpp.md),
 Java, Mono, Python, and Ruby.
 
  
 
-For [C++](Cpp.htm) development, the [Maemo SDK](CppMaemoSdk.htm) or the
-[Qt Creator](CppQtCreator.htm) [IDE](CppIde.htm) can be used.
+For [C++](Cpp.md) development, the [Maemo SDK](CppMaemoSdk.md) or the
+[Qt Creator](CppQtCreator.md) [IDE](CppIde.md) can be used.
 
  
 
-When using [Qt Creator](CppQtCreator.htm),
-[Maemo](CppMaemo.htm)-specific statements can be performed in the
-[project file](CppQtProjectFile.htm) 'meamo5' is the name of the
+When using [Qt Creator](CppQtCreator.md),
+[Maemo](CppMaemo.md)-specific statements can be performed in the
+[project file](CppQtProjectFile.md) 'meamo5' is the name of the
 conditional variable. can be used, as shown in the following [project
-file](CppQtProjectFile.htm) code:
+file](CppQtProjectFile.md) code:
 
  
 
@@ -46,7 +46,7 @@ file](CppQtProjectFile.htm) code:
 
  
 
-In [C++](Cpp.htm) code, the 'Q\_WS\_MAEMO\_5' [\#define](CppDefine.htm)
+In [C++](Cpp.md) code, the 'Q\_WS\_MAEMO\_5' [\#define](CppDefine.md)
 can be used:
 
  
@@ -95,8 +95,8 @@ like, among others, the name of its icon and the absolute path to the
 executable. If, for example, an application called 'MyApp' is installed,
 there should be a file called
 'usr/share/applications/hildon/MyApp.desktop'. The [file
-I/O](CppFileIo.htm) [code snippet](CppCodeSnippets.htm)
-[GetFoldersInFolder](CppGetFoldersInFolder.htm) can be used to obtain
+I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md)
+[GetFoldersInFolder](CppGetFoldersInFolder.md) can be used to obtain
 these names.
 
  

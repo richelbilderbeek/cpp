@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [MaxElement](CppMaxElement.htm)
+([C++](Cpp.md)) [MaxElement](CppMaxElement.md)
 ================================================
 
  
 
-[Container](CppContainer.htm) [code snippet](CppCodeSnippets.htm)
-similar to [std::max\_element](CppMax_element.htm), but that works on 2D
-[containers](CppContainer.htm) instead.
+[Container](CppContainer.md) [code snippet](CppCodeSnippets.md)
+similar to [std::max\_element](CppMax_element.md), but that works on 2D
+[containers](CppContainer.md) instead.
 
  
 
@@ -37,7 +37,7 @@ similar to [std::max\_element](CppMax_element.htm), but that works on 2D
 
  
 
-[MaxElement](CppMaxElement.htm) test
+[MaxElement](CppMaxElement.md) test
 ------------------------------------
 
  

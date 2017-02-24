@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtConnectThreeWidget](CppWtConnectThreeWidget.htm)
+([C++](Cpp.md)) [WtConnectThreeWidget](CppWtConnectThreeWidget.md)
 ====================================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtConnectThreeWidget](CppWtConnectThreeWidget.htm) is a [Wt](CppWt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) to display an
-[ConnectThreeWidget](CppConnectThreeWidget.htm).
+[WtConnectThreeWidget](CppWtConnectThreeWidget.md) is a [Wt](CppWt.md)
+[widget](CppWidget.md) [class](CppClass.md) to display an
+[ConnectThreeWidget](CppConnectThreeWidget.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::find\_if](CppFind_if.htm)
+([C++](Cpp.md)) [std::find\_if](CppFind_if.md)
 ================================================
 
  
 
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) for searching an
-elements in a [container](CppContainer.htm), satisfying a certain
-[predicate](CppPredicate.htm).
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) for searching an
+elements in a [container](CppContainer.md), satisfying a certain
+[predicate](CppPredicate.md).
 
  
 

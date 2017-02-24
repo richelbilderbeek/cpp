@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm) [Qt](CppQt.htm)) [How to make a clickable QLabel?](CppQtClickableLabel.htm)
+([C++](Cpp.md) [Qt](CppQt.md)) [How to make a clickable QLabel?](CppQtClickableLabel.htm)
 ===========================================================================================
 
  
 
-[How to make a clickable QLabel?](CppQtClickableLabel.htm) is a [QT
-FAQ](CppQtFaq.htm) with multiple answers:
+[How to make a clickable QLabel?](CppQtClickableLabel.md) is a [QT
+FAQ](CppQtFaq.md) with multiple answers:
 
 -   A\) You cannot
 -   B\) You can, if you use QLabel to display text, if you replace the QLabel
     by a (disguised) QPushButton
 -   C\) You can, if you use QLabel to display an image, see [Qt example 17:
-    clickable QLabels showing an image](CppQtExample17.htm)
+    clickable QLabels showing an image](CppQtExample17.md)
 
  
 
@@ -52,15 +52,15 @@ Flat property to true. This looks [like this
 
 Operating system: [Ubuntu](http://www.ubuntu.com)
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): Qt4 [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 

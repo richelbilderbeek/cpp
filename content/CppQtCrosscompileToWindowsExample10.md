@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 10: any application, use of MinGW](CppQtCrosscompileToWindowsExample10.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 10: any application, use of MinGW](CppQtCrosscompileToWindowsExample10.md)
 ====================================================================================================================================================================================
 
  
 
 This is example 10, and perhaps a viable solutions of answering the [Qt
-FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm), which
+FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md), which
 follows \[1,2\].
 
  
@@ -39,7 +39,7 @@ not seem applicable.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

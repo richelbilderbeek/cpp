@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Licence](CppLicence.htm)
+([C++](Cpp.md)) [Licence](CppLicence.md)
 ==========================================
 
  

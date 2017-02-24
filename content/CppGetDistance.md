@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [GetDistance](CppGetDistance.htm)
+([C++](Cpp.md)) [GetDistance](CppGetDistance.md)
 ==================================================
 
  
 
-[GetDistance](CppGetDistance.htm) is a [geometry](CppGeometry.htm) [code
-snippet](CppCodeSnippets.htm) to calculate the distance between two
+[GetDistance](CppGetDistance.md) is a [geometry](CppGeometry.md) [code
+snippet](CppCodeSnippets.md) to calculate the distance between two
 coordinats from their horizontal and vertical distances, using
 Pythagoras.
 
  
 
-[GetDistance](CppGetDistance.htm) is maintained in the
-[CppGeometry](CppGeometry.htm) [class](CppClass.htm), see
-[CppGeometry](CppGeometry.htm) for the heavily tested, debugged and used
+[GetDistance](CppGetDistance.md) is maintained in the
+[CppGeometry](CppGeometry.md) [class](CppClass.md), see
+[CppGeometry](CppGeometry.md) for the heavily tested, debugged and used
 version.
 
  
@@ -38,7 +38,7 @@ version.
  
 
 Below is a complete project for testing
-[GetDistance](CppGetDistance.htm), additionally using the Boost.Geometry
+[GetDistance](CppGetDistance.md), additionally using the Boost.Geometry
 library.
 
  
@@ -76,35 +76,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -117,7 +117,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppGetDistance.pro
+[Qt project file](CppQtProjectFile.md): CppGetDistance.pro
 -----------------------------------------------------------
 
  
@@ -164,5 +164,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

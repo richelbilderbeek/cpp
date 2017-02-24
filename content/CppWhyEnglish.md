@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Why is your website in English?](CppWhyEnglish.htm)
+([C++](Cpp.md)) [Why is your website in English?](CppWhyEnglish.md)
 =====================================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 

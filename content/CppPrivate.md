@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [private](CppPrivate.htm)
+([C++](Cpp.md)) [private](CppPrivate.md)
 ==========================================
 
  
 
-[private](CppPrivate.htm) is a [keyword](CppKeyword.htm) for setting
-[class](CppClass.htm) access level to [private](CppPrivate.htm) (the
-other access levels are [public](CppPublic.htm) and
-[protected](CppProtected.htm)) or for [private
-inheritance](CppPrivateInheritance.htm).
+[private](CppPrivate.md) is a [keyword](CppKeyword.md) for setting
+[class](CppClass.md) access level to [private](CppPrivate.md) (the
+other access levels are [public](CppPublic.md) and
+[protected](CppProtected.md)) or for [private
+inheritance](CppPrivateInheritance.md).
 
  
 
-A [class](CppClass.htm) created with the [keyword](CppKeyword.htm)
-[class](CppClass.htm) has a [private](CppPrivate.htm) access level by
-default, a [class](CppClass.htm) created by the
-[keyword](CppKeyword.htm) [struct](CppStruct.htm) has
-[public](CppPublic.htm) access level by default.
+A [class](CppClass.md) created with the [keyword](CppKeyword.md)
+[class](CppClass.md) has a [private](CppPrivate.md) access level by
+default, a [class](CppClass.md) created by the
+[keyword](CppKeyword.md) [struct](CppStruct.md) has
+[public](CppPublic.md) access level by default.
 
  
 
@@ -46,7 +46,7 @@ Examples
 
  
 
--   [private example 1: basic](CppPrivateExample1.htm)
+-   [private example 1: basic](CppPrivateExample1.md)
 
  
 
@@ -58,26 +58,26 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   [Declare](CppDeclaration.htm) [member
-    variables](CppMemberVariable.htm) [private](CppPrivate.htm) \[1-5\],
-    except in [POD](CppPod.htm)s \[4\]
--   Prefer [private](CppPrivate.htm) [members](CppMember.htm) for
+-   [Declare](CppDeclaration.md) [member
+    variables](CppMemberVariable.md) [private](CppPrivate.md) \[1-5\],
+    except in [POD](CppPod.md)s \[4\]
+-   Prefer [private](CppPrivate.md) [members](CppMember.md) for
     implementation details \[6\]
--   Making the [data members](CppDataMember.htm) of a
-    [class](CppClass.htm) [private](CppPrivate.htm) and the [member
-    functions](CppMemberFunction.htm) of the [class](CppClass.htm)
-    [public](CppPublic.htm) facilitates [debugging](CppDebug.htm) \[7\]
--   An attempt by a [function](CppFunction.htm), which is not a
-    [member](CppMemberFunction.htm) of a particular
-    [class](CppClass.htm) (or a [friend](CppFriend.htm) of that
-    [class](CppClass.htm)) to access a [private](CppPrivate.htm)
-    [member](CppDataMember.htm) of that [class](CppClass.htm) is a
-    [compilation error](CppCompileError.htm) \[8\]
+-   Making the [data members](CppDataMember.md) of a
+    [class](CppClass.md) [private](CppPrivate.md) and the [member
+    functions](CppMemberFunction.md) of the [class](CppClass.md)
+    [public](CppPublic.md) facilitates [debugging](CppDebug.md) \[7\]
+-   An attempt by a [function](CppFunction.md), which is not a
+    [member](CppMemberFunction.md) of a particular
+    [class](CppClass.md) (or a [friend](CppFriend.md) of that
+    [class](CppClass.md)) to access a [private](CppPrivate.md)
+    [member](CppDataMember.md) of that [class](CppClass.md) is a
+    [compilation error](CppCompileError.md) \[8\]
 
  
 
@@ -89,28 +89,28 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Section D.2: Major Design Rules, Chapter
     2, page 820: 'Keep class data members private'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 22: Declare data members private.
-3.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+3.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 11: 'Hide information'.
-4.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+4.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 41: 'Make data members private, except in behaviourless
     aggregates (C-style structs).
-5.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+5.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0.
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 20.7.
     Advice. page 611: '\[10\] Prefer private members for implementation
     details'

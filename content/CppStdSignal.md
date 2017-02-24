@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [std::signal](CppStdSignal.htm)
+([C++](Cpp.md)) [std::signal](CppStdSignal.md)
 ================================================
 
  
 
-[std::signal](CppStdSignal.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to set a [function](CppFunction.htm) to
+[std::signal](CppStdSignal.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to set a [function](CppFunction.md) to
 respond to system signals.
 
  
 
-In the example below, an [assert](CppAssert.htm) is set to fail, causing
-[std::abort](CppAbort.htm), which emits the abort signal ('SIGABRT').
-With [std::signal](CppStdSignal.htm) onAbort is set to handle this.
+In the example below, an [assert](CppAssert.md) is set to fail, causing
+[std::abort](CppAbort.md), which emits the abort signal ('SIGABRT').
+With [std::signal](CppStdSignal.md) onAbort is set to handle this.
 
  
 
@@ -43,14 +43,14 @@ With [std::signal](CppStdSignal.htm) onAbort is set to handle this.
 
  
 
-[Signal](CppSignal.htm) pages
+[Signal](CppSignal.md) pages
 -----------------------------
 
  
 
--   ![Boost](PicBoost.png) [Boost signal](CppBoostSignal.htm)
--   ![STL](PicStl.png) [std::signal](CppStdSignal.htm)
--   ![Qt](PicQt.png) [Qt signal](CppQtSignal.htm)
+-   ![Boost](PicBoost.png) [Boost signal](CppBoostSignal.md)
+-   ![STL](PicStl.png) [std::signal](CppStdSignal.md)
+-   ![Qt](PicQt.png) [Qt signal](CppQtSignal.md)
 
  
 

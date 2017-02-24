@@ -12,24 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Product](CppProduct.htm)
+([C++](Cpp.md)) [Product](CppProduct.md)
 ==========================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to calculate the
-product of the elements of a [std::vector](CppVector.htm).
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate the
+product of the elements of a [std::vector](CppVector.md).
 
  
 
-[Product](CppProduct.htm) can be programmed multiple ways:
+[Product](CppProduct.md) can be programmed multiple ways:
 
--   Using [algorithms](CppAlgorithm.htm) (preferred)
--   Using a [for](CppFor.htm)-loop
-
- 
-
- 
+-   Using [algorithms](CppAlgorithm.md) (preferred)
+-   Using a [for](CppFor.md)-loop
 
  
 
@@ -37,7 +33,11 @@ product of the elements of a [std::vector](CppVector.htm).
 
  
 
-[Product](CppProduct.htm) using [algorithms](CppAlgorithm.htm)
+ 
+
+ 
+
+[Product](CppProduct.md) using [algorithms](CppAlgorithm.md)
 --------------------------------------------------------------
 
  
@@ -56,7 +56,7 @@ product of the elements of a [std::vector](CppVector.htm).
 
  
 
-[Product](CppProduct.htm) using a [for](CppFor.htm)-loop
+[Product](CppProduct.md) using a [for](CppFor.md)-loop
 --------------------------------------------------------
 
  

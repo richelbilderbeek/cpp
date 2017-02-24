@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [std::flush](CppFlush.htm)
+([C++](Cpp.md)) [std::flush](CppFlush.md)
 ===========================================
 
  
 
-[std::flush](CppFlush.htm) is a [stream](CppStream.htm) manipulator to
-display the content of the [stream](CppStream.htm). Normally, a
-[stream](CppStream.htm) can wait until a good moment (the end of the
-program, for example), [std::flush](CppFlush.htm) enforces a direct
-output. [std::cout](CppCout.htm) is a [stream](CppStream.htm) that one
-might want to [flush](CppFlush.htm), [std::clog](CppClog.htm) and
-[std::cerr](CppCerr.htm) always [flush](CppFlush.htm). When writing
-'\\n' to [std::cout](CppCout.htm), [std::cout](CppCout.htm) is not
-[flushed](CppFlush.htm), [std::endl](CppEndl.htm) writes '\\n' and
-[flushes](CppFlush.htm) the [stream](CppStream.htm). Note that
-[flushing](CppFlush.htm) a [stream](CppStream.htm) takes time, so only
-[flush](CppFlush.htm) when needed.
+[std::flush](CppFlush.md) is a [stream](CppStream.md) manipulator to
+display the content of the [stream](CppStream.md). Normally, a
+[stream](CppStream.md) can wait until a good moment (the end of the
+program, for example), [std::flush](CppFlush.md) enforces a direct
+output. [std::cout](CppCout.md) is a [stream](CppStream.md) that one
+might want to [flush](CppFlush.md), [std::clog](CppClog.md) and
+[std::cerr](CppCerr.md) always [flush](CppFlush.md). When writing
+'\\n' to [std::cout](CppCout.md), [std::cout](CppCout.md) is not
+[flushed](CppFlush.md), [std::endl](CppEndl.md) writes '\\n' and
+[flushes](CppFlush.md) the [stream](CppStream.md). Note that
+[flushing](CppFlush.md) a [stream](CppStream.md) takes time, so only
+[flush](CppFlush.md) when needed.
 
  
 

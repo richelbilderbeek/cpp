@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WAbstractItemModel](CppWAbstractItemModel.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WAbstractItemModel](CppWAbstractItemModel.md)
 =====================================================================================
 
  
 
-[Wt::WAbstractItemModel](CppWAbstractItemModel.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WAbstractItemModel](CppWAbstractItemModel.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WAbstractItemModel](CppWAbstractItemModel.htm) is used in, among
+[Wt::WAbstractItemModel](CppWAbstractItemModel.md) is used in, among
 others:
 
 -   ...

@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [operating system](CppOs.htm)
+([C++](Cpp.md)) [operating system](CppOs.md)
 ==============================================
 
  
 
-[C++](Cpp.htm) can be used on many [operating systems](CppOs.htm),
+[C++](Cpp.md) can be used on many [operating systems](CppOs.md),
 distributions, mobile platforms and system environments (incomplete
 list):
 
  
 
--   ![Android](PicAndroid.png) [Android](CppAndroid.htm)
--   ![Cygwin](PicCygwin.png) [Cygwin](CppCygwin.htm)
--   ![Linux](PicLinux.png) [Linux](CppLinux.htm)
+-   ![Android](PicAndroid.png) [Android](CppAndroid.md)
+-   ![Cygwin](PicCygwin.png) [Cygwin](CppCygwin.md)
+-   ![Linux](PicLinux.png) [Linux](CppLinux.md)
 -   ![Mac](PicMac.png) Mac
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm): a
-    [Linux](CppLinux.htm) distribution
--   ![Maemo](PicMaemo.png) [Maemo](CppMaemo.htm)
--   ![Nds](PicNds.png) [NDS](CppNds.htm)
--   ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.htm): a
-    [Linux](CppLinux.htm) distribution
--   ![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.htm): a
-    [Linux](CppLinux.htm) distribution
--   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.htm)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm): a
-    [Linux](CppLinux.htm) distribution
--   ![Unix](PicUnix.png) [UNIX](CppUnix.htm)
--   ![Windows](PicWindows.png) [Windows](CppWindows.htm)
--   ![Wine](PicWine.png) [Wine](CppWine.htm)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md): a
+    [Linux](CppLinux.md) distribution
+-   ![Maemo](PicMaemo.png) [Maemo](CppMaemo.md)
+-   ![Nds](PicNds.png) [NDS](CppNds.md)
+-   ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.md): a
+    [Linux](CppLinux.md) distribution
+-   ![SliTaz](PicSliTaz.png) [SliTaz](CppSliTaz.md): a
+    [Linux](CppLinux.md) distribution
+-   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.md)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md): a
+    [Linux](CppLinux.md) distribution
+-   ![Unix](PicUnix.png) [UNIX](CppUnix.md)
+-   ![Windows](PicWindows.png) [Windows](CppWindows.md)
+-   ![Wine](PicWine.png) [Wine](CppWine.md)
 
  
 

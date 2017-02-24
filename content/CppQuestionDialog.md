@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [QuestionDialog](CppQuestionDialog.htm)
+([C++](Cpp.md)) [QuestionDialog](CppQuestionDialog.md)
 ========================================================
 
  
 
-[QuestionDialog](CppQuestionDialog.htm) is a dialog for
-[Question](CppQuestion.htm).
+[QuestionDialog](CppQuestionDialog.md) is a dialog for
+[Question](CppQuestion.md).
 
 Technical facts
 ---------------
@@ -101,5 +101,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

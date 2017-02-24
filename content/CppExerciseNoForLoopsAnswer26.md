@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#26](CppExerciseNoForLoopsAnswer26.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#26](CppExerciseNoForLoopsAnswer26.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,10 +35,10 @@ Question \#26: HasFemale on std::vector&lt;Person\*&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
--   [std::not](CppNot.htm)
+-   [boost::bind](CppBind.md)
+-   [std::not](CppNot.md)
 
  
 
@@ -58,7 +58,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Bind
 --------------------------------------------------------------
 
  

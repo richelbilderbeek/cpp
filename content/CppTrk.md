@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [TRK](CppTrk.htm)
+([C++](Cpp.md)) [TRK](CppTrk.md)
 ==================================
 
  
 
-[TRK](CppTrk.htm) is 'a small program for [Symbian](CppSymbian.htm)
-mobile phones that allows developers to [debug](CppDebug.htm) their
-[applications](CppMobileApplication.htm) on the phone' \[1\].
+[TRK](CppTrk.md) is 'a small program for [Symbian](CppSymbian.md)
+mobile phones that allows developers to [debug](CppDebug.md) their
+[applications](CppMobileApplication.md) on the phone' \[1\].
 
  
 
@@ -49,7 +49,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

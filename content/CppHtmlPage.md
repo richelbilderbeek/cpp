@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [HtmlPage](CppHtmlPage.htm)
+([C++](Cpp.md)) [HtmlPage](CppHtmlPage.md)
 ============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[HtmlPage](CppHtmlPage.htm) is a [class](CppClass.htm) for processing an
+[HtmlPage](CppHtmlPage.md) is a [class](CppClass.md) for processing an
 HTML page.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

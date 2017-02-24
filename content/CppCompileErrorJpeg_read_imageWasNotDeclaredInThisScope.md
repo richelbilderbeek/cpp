@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['jpeg\_read\_image' was not declared in this scope](CppCompileErrorJpeg_read_imageWasNotDeclaredInThisScope.htm)
+([C++](Cpp.md)) ['jpeg\_read\_image' was not declared in this scope](CppCompileErrorJpeg_read_imageWasNotDeclaredInThisScope.md)
 ==================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,16 +53,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.42.0
+[Boost](CppBoost.md) version: 1.42.0
 
  
 
@@ -76,7 +76,7 @@ The following code caused the error:
 
  
 
-The following [project file](CppQtProjectFile.htm) was used:
+The following [project file](CppQtProjectFile.md) was used:
 
  
 
@@ -99,7 +99,7 @@ Solution
 
  
 
-Unknown. Feel encouraged to [contact me](Contact.htm) if you know the
+Unknown. Feel encouraged to [contact me](Contact.md) if you know the
 solution.
 
  
@@ -125,7 +125,7 @@ Unsuccessfull trials
 
  
 
-### [\#include](CppInclude.htm) the needed header file directly
+### [\#include](CppInclude.md) the needed header file directly
 
  
 
@@ -137,9 +137,9 @@ Unsuccessfull trials
 
  
 
-For me, this resulted in the [compile error](CppCompileError.htm)
+For me, this resulted in the [compile error](CppCompileError.md)
 [jpeglib.h: No such file or
-directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.htm).
+directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.md).
 
  
 

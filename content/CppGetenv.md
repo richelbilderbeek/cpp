@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::getenv](CppGetenv.htm)
+([C++](Cpp.md)) [std::getenv](CppGetenv.md)
 =============================================
 
  
 
-[std::getenv](CppGetenv.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to obtain an environmental variable.
+[std::getenv](CppGetenv.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to obtain an environmental variable.
 
  
 

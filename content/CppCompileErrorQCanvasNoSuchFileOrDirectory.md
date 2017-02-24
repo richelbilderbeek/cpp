@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [QCanvas: No such file or directory](CppCompileErrorQCanvasNoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [QCanvas: No such file or directory](CppCompileErrorQCanvasNoSuchFileOrDirectory.md)
 ======================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -57,17 +57,15 @@ Cause
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Console Application
+[Project type](CppQtProjectType.md): Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -77,7 +75,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -126,14 +126,14 @@ Solution
 
  
 
-As far as I can understand, QCanvas is a Qt3 [class](CppClass.htm) that
-is obsolete in [Qt Creator](CppQtCreator.htm) 2.0.0.
+As far as I can understand, QCanvas is a Qt3 [class](CppClass.md) that
+is obsolete in [Qt Creator](CppQtCreator.md) 2.0.0.
 
  
 
-The code below, although [\#including](CppInclude.htm) the proper
-[header file](CppHeaderFile.htm), will give the [compile
-error](CppCompileError.htm) ':: error: collect2: ld returned 1 exit
+The code below, although [\#including](CppInclude.md) the proper
+[header file](CppHeaderFile.md), will give the [compile
+error](CppCompileError.md) ':: error: collect2: ld returned 1 exit
 status'.
 
  

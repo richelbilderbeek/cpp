@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetAbs](CppGetAbs.htm)
+([C++](Cpp.md)) [GetAbs](CppGetAbs.md)
 ========================================
 
  
 
-[GetAbs](CppGetAbs.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to create a [container](CppContainer.htm)
-with absoluted values of another [container](CppContainer.htm).
+[GetAbs](CppGetAbs.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to create a [container](CppContainer.md)
+with absoluted values of another [container](CppContainer.md).
 
  
 

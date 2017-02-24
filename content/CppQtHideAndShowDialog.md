@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtHideAndShowDialog](CppQtHideAndShowDialog.htm)
+([C++](Cpp.md)) [QtHideAndShowDialog](CppQtHideAndShowDialog.md)
 ==================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtHideAndShowDialog](CppQtHideAndShowDialog.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to allow a dialog display a new modal dialog, with
+[QtHideAndShowDialog](CppQtHideAndShowDialog.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to allow a dialog display a new modal dialog, with
 the parent hiding.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

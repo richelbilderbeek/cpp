@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png) [Android NDK](CppAndroidNdk.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png) [Android NDK](CppAndroidNdk.md)
 ============================================================================
 
  
 
-The [Android NDK](CppAndroidNdk.htm) is the [native development
-kit](CppNdk.htm) for the [Android](CppAndroid.htm)
-[platform](CppOs.htm), which allows for [C++](Cpp.htm) programming
-([Android](CppAndroid.htm)'s [SDK](CppSdk.htm) allows for Java
+The [Android NDK](CppAndroidNdk.md) is the [native development
+kit](CppNdk.md) for the [Android](CppAndroid.md)
+[platform](CppOs.md), which allows for [C++](Cpp.md) programming
+([Android](CppAndroid.md)'s [SDK](CppSdk.md) allows for Java
 programming).
 
  
 
--   [Installing the Android NDK](CppAndroidNdkInstall.htm)
+-   [Installing the Android NDK](CppAndroidNdkInstall.md)
 
  
 
@@ -37,7 +37,7 @@ programming).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

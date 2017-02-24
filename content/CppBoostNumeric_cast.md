@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [boost::numeric\_cast](CppNumeric_cast.htm)
+([C++](Cpp.md)) [boost::numeric\_cast](CppNumeric_cast.md)
 ============================================================
 
  
 
-[boost::numeric\_cast](CppNumeric_cast.htm) is a safe number
-[conversion](CppConvert.htm) [function](CppFunction.htm) that
-[throws](CppThrow.htm) an [exception](CppException.htm) if the
-[conversion](CppConvert.htm) cannot succeed.
+[boost::numeric\_cast](CppNumeric_cast.md) is a safe number
+[conversion](CppConvert.md) [function](CppFunction.md) that
+[throws](CppThrow.md) an [exception](CppException.md) if the
+[conversion](CppConvert.md) cannot succeed.
 
  
 
-In the example below, the highest possible [int](CppInt.htm) is
-[converted](CppConvert.htm) to a [short](CppShort.htm). Because this
-will fail, [boost::numeric\_cast](CppNumeric_cast.htm)
-[throws](CppThrow.htm) an [exception](CppException.htm).
+In the example below, the highest possible [int](CppInt.md) is
+[converted](CppConvert.md) to a [short](CppShort.md). Because this
+will fail, [boost::numeric\_cast](CppNumeric_cast.md)
+[throws](CppThrow.md) an [exception](CppException.md).
 
  
 

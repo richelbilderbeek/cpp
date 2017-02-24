@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Darken](CppDarken.htm)
+([C++](Cpp.md)) [Darken](CppDarken.md)
 ========================================
 
  
 
-[Darken](CppDarken.htm) is a [Graphics](CppVclGraphics.htm) [code
-snippet](CppVclCodeSnippets.htm) to darken a
-[Extctrls::TImage](CppTImage.htm). To bleach a
-[Extctrls::TImage](CppTImage.htm) use [Bleach](CppBleach.htm).
+[Darken](CppDarken.md) is a [Graphics](CppVclGraphics.md) [code
+snippet](CppVclCodeSnippets.md) to darken a
+[Extctrls::TImage](CppTImage.md). To bleach a
+[Extctrls::TImage](CppTImage.md) use [Bleach](CppBleach.md).
 
  
 
-The [tool](Tools.htm) [BarbaImage](ToolBarbaImage.htm) uses
-[Darken](CppDarken.htm) as one of its image operations.
+The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
+[Darken](CppDarken.md) as one of its image operations.
 
  
 

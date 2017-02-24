@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::oct](CppOct.htm)
+([C++](Cpp.md)) [std::oct](CppOct.md)
 =======================================
 
  
 
-[std::oct](CppOct.htm) is a [stream](CppStream.htm) manipulator to let a
-[stream](CppStream.htm) display numbers in octal.
+[std::oct](CppOct.md) is a [stream](CppStream.md) manipulator to let a
+[stream](CppStream.md) display numbers in octal.
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [AbcFile](CppAbcFile.htm)
+([C++](Cpp.md)) [AbcFile](CppAbcFile.md)
 ==========================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
 
  
 
-[AbcFile](CppAbcFile.htm) is a [class](CppClass.htm) for an ABC music
+[AbcFile](CppAbcFile.md) is a [class](CppClass.md) for an ABC music
 notation file.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

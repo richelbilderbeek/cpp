@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [DrawGlobePlus](DrawGlobePlus.htm)
+([C++](Cpp.md)) [DrawGlobePlus](DrawGlobePlus.md)
 ===================================================
 
  
 
-[DrawGlobePlus](CppDrawGlobePlus.htm) is a [VCL
-graphics](CppVclGraphics.htm) [code snippet](CppCodeSnippets.htm) to
+[DrawGlobePlus](CppDrawGlobePlus.md) is a [VCL
+graphics](CppVclGraphics.md) [code snippet](CppCodeSnippets.md) to
 draw a globe with a plus on it.
 
  
 
-[DrawGlobePlus](CppDrawGlobePlus.htm) assumes that you have already
-[defined](CppDefinition.htm) the [DrawGlobe](CppDrawGlobe.htm)
-[function](CppFunction.htm).
+[DrawGlobePlus](CppDrawGlobePlus.md) assumes that you have already
+[defined](CppDefinition.md) the [DrawGlobe](CppDrawGlobe.md)
+[function](CppFunction.md).
 
  
 
@@ -52,5 +52,5 @@ draw a globe with a plus on it.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

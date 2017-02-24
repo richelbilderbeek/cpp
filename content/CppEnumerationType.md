@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [enumeration type](CppEnumerationType.htm)
+([C++](Cpp.md)) [enumeration type](CppEnumerationType.md)
 ===========================================================
 
  
 
-An [enumeration type](CppEnumerationType.htm) is an explicitly
-[declared](CppDeclaration.htm) set of symbolic [integer](CppInteger.htm)
-constants. In C++ it is [declared](CppDeclaration.htm) as an
-[enum](CppEnum.htm).' \[1\]
+An [enumeration type](CppEnumerationType.md) is an explicitly
+[declared](CppDeclaration.md) set of symbolic [integer](CppInteger.md)
+constants. In C++ it is [declared](CppDeclaration.md) as an
+[enum](CppEnum.md).' \[1\]
 
  
 
@@ -32,7 +32,7 @@ constants. In C++ it is [declared](CppDeclaration.htm) as an
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

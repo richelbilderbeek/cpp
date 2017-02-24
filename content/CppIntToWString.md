@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [IntToWString](CppIntToWString.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [IntToWString](CppIntToWString.md)
 =====================================================================
 
  
 
-[IntToWString](CppIntToWString.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[integer](CppInt.htm) to a [Wt::WString](CppWString.htm).
+[IntToWString](CppIntToWString.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[integer](CppInt.md) to a [Wt::WString](CppWString.md).
 
  
 

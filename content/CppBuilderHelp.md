@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Creating and using help files in C++ Builder](CppBuilderHelp.htm)
+([C++](Cpp.md)) [Creating and using help files in C++ Builder](CppBuilderHelp.md)
 ===================================================================================
 
  
@@ -160,8 +160,8 @@ The file can be found at '\\CBuilder6\\Help\\Tools\\HCW.EXE'.
  
 
 -   Now we need to assign values to the topic ID's that are compilable
-    in [C++](Cpp.htm). Create a text document called e.g. 'AnyName.map'
-    and assign numbers using [\#define](CppDefine.htm)s:
+    in [C++](Cpp.md). Create a text document called e.g. 'AnyName.map'
+    and assign numbers using [\#define](CppDefine.md)s:
 
  
 
@@ -240,12 +240,12 @@ The file can be found at '\\CBuilder6\\Help\\Tools\\HCW.EXE'.
 
  
 
-11) Connect these files to [C++ Builder](CppBuilder.htm)
+11) Connect these files to [C++ Builder](CppBuilder.md)
 --------------------------------------------------------
 
  
 
--   In [C++ Builder](CppBuilder.htm) do 'Project', click the tab
+-   In [C++ Builder](CppBuilder.md) do 'Project', click the tab
     'Options', go to right of Help File and click 'Browse' and select
     your help file
 -   To activate your help file, use the following code:
@@ -388,5 +388,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

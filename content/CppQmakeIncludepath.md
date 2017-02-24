@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [INCLUDEPATH (qmake variable)](CppQmakeIncludepath.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [INCLUDEPATH (qmake variable)](CppQmakeIncludepath.md)
 =========================================================================================
 
  
 
-[INCLUDEPATH](CppQmakeIncludepath.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[INCLUDEPATH](CppQmakeIncludepath.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

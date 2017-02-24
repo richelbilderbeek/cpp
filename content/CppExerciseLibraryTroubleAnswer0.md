@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#8: Library trouble \#0](CppExerciseLibraryTroubleAnswer0.htm)
+([C++](Cpp.md)) [Answer of exercise \#8: Library trouble \#0](CppExerciseLibraryTroubleAnswer0.md)
 ====================================================================================================
 
  
 
 This is the answer of [Exercise \#8: library
-trouble](CppExerciseLibraryTrouble.htm).
+trouble](CppExerciseLibraryTrouble.md).
 
  
 

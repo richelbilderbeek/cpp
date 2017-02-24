@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtWidgetsWidget](CppWtWidgetsWidget.htm)
+([C++](Cpp.md)) [WtWidgetsWidget](CppWtWidgetsWidget.md)
 ==========================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtWidgetsWidget](CppWtWidgetsWidget.htm) is a [Wt](CppWt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) to display an
-[WidgetsWidget](CppWidgetsWidget.htm).
+[WtWidgetsWidget](CppWtWidgetsWidget.md) is a [Wt](CppWt.md)
+[widget](CppWidget.md) [class](CppClass.md) to display an
+[WidgetsWidget](CppWidgetsWidget.md).
 
 Technical facts
 ---------------
@@ -88,5 +88,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

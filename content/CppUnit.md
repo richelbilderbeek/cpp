@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [Unit](CppUnit.htm)
+([C++](Cpp.md)) [Unit](CppUnit.md)
 ====================================
 
  
 
-A [unit](CppUnit.htm) consists out of two files:
+A [unit](CppUnit.md) consists out of two files:
 
-1.  a [header (.h) file](CppHeaderFile.htm) with the unit's
-    [class](CppClass.htm) [declaration](CppDeclaration.htm)
-2.  an [implementation (.cpp) file](CppImplementationFile.htm) with the
-    unit's [class](CppClass.htm) [declaration](CppDeclaration.htm)
+1.  a [header (.h) file](CppHeaderFile.md) with the unit's
+    [class](CppClass.md) [declaration](CppDeclaration.md)
+2.  an [implementation (.cpp) file](CppImplementationFile.md) with the
+    unit's [class](CppClass.md) [declaration](CppDeclaration.md)
 
  
 

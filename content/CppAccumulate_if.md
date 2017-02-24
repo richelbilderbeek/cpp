@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [accumulate\_if](CppAccumulate_if.htm)
+([C++](Cpp.md)) [accumulate\_if](CppAccumulate_if.md)
 =======================================================
 
  
 
-[Algorithm](CppAlgorithm.htm) similar to
-[std::accumulate](CppAccumulate.htm), except that
-[accumulate\_if](CppAccumulate_if.htm) also needs a
-[predicate](CppPredicate.htm) [argument](CppArgument.htm).
+[Algorithm](CppAlgorithm.md) similar to
+[std::accumulate](CppAccumulate.md), except that
+[accumulate\_if](CppAccumulate_if.md) also needs a
+[predicate](CppPredicate.md) [argument](CppArgument.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtRichelBilderbeekProgram](CppQtRichelBilderbeekProgram.htm)
+([C++](Cpp.md)) [QtRichelBilderbeekProgram](CppQtRichelBilderbeekProgram.md)
 ==============================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtRichelBilderbeekProgram](CppQtRichelBilderbeekProgram.htm) is a
-[Qt](CppQt.htm) [class](CppClass.htm) for a ProjectRichelBilderbeek
+[QtRichelBilderbeekProgram](CppQtRichelBilderbeekProgram.md) is a
+[Qt](CppQt.md) [class](CppClass.md) for a ProjectRichelBilderbeek
 class.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

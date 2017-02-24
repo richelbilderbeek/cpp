@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::range\_error](CppRange_error.htm)
+([C++](Cpp.md)) [std::range\_error](CppRange_error.md)
 ========================================================
 
  
 
-[std::range\_error](CppRange_error.htm) is an
-[exception](CppException.htm), derived from
-[std::runtime\_error](CppRuntime_error.htm).
+[std::range\_error](CppRange_error.md) is an
+[exception](CppException.md), derived from
+[std::runtime\_error](CppRuntime_error.md).
 
  
 

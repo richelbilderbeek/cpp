@@ -12,33 +12,33 @@
 
  
 
-([C++](Cpp.htm)) [ctime.h](CppCtimeH.htm)
+([C++](Cpp.md)) [ctime.h](CppCtimeH.md)
 =========================================
 
  
 
-[ctime.h](CppCtimeH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the
-[definitions](CppDefinition.htm) of some time related
-[functions](CppFunction.htm) and [classes](CppClass.htm) (incomplete
+[ctime.h](CppCtimeH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the
+[definitions](CppDefinition.md) of some time related
+[functions](CppFunction.md) and [classes](CppClass.md) (incomplete
 list):
 
--   [std::clock\_t](CppClock_t.htm)
--   [std::time\_t](CppTime_t.htm)
--   [std::tm](CppTm.htm)
--   [std::clock](CppClock.htm)
--   [std::difftime](CppDifftime.htm)
--   [std::mktime](CppMktime.htm)
--   [std::time](CppTime.htm)
--   [std::asctime](CppAsctime.htm)
--   [std::ctime](CppCtime.htm)
--   [std::gmtime](CppGmtime.htm)
--   [std::localtime](CppLocaltime.htm)
--   [std::strftime](CppStrftime.htm)
+-   [std::clock\_t](CppClock_t.md)
+-   [std::time\_t](CppTime_t.md)
+-   [std::tm](CppTm.md)
+-   [std::clock](CppClock.md)
+-   [std::difftime](CppDifftime.md)
+-   [std::mktime](CppMktime.md)
+-   [std::time](CppTime.md)
+-   [std::asctime](CppAsctime.md)
+-   [std::ctime](CppCtime.md)
+-   [std::gmtime](CppGmtime.md)
+-   [std::localtime](CppLocaltime.md)
+-   [std::strftime](CppStrftime.md)
 
  
 
-Prefer [clock.h](CppClockH.htm) facilities over [ctime.h](CppCtimeH.htm)
+Prefer [clock.h](CppClockH.md) facilities over [ctime.h](CppCtimeH.md)
 facilities \[1\].
 
  
@@ -51,12 +51,12 @@ facilities \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 35.6.
     Advice. page 159: '\[2\] Prefer &lt;clock&gt; facilities over
     &lt;ctime&gt; facilities'

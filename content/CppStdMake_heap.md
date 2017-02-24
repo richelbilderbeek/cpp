@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::make\_heap](CppMake_heap.htm)
+([C++](Cpp.md)) [std::make\_heap](CppMake_heap.md)
 ====================================================
 
  
 
-[std::make\_heap](CppMake_heap.htm) is an [STL](CppStl.htm) heap
-[algorithm](CppAlgorithm.htm) to rearrange the elements in
-[container](CppContainer.htm) to a sorted binary tree.
+[std::make\_heap](CppMake_heap.md) is an [STL](CppStl.md) heap
+[algorithm](CppAlgorithm.md) to rearrange the elements in
+[container](CppContainer.md) to a sorted binary tree.
 
  
 

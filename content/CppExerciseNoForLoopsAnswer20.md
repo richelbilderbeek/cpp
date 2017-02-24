@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#20](CppExerciseNoForLoopsAnswer20.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#20](CppExerciseNoForLoopsAnswer20.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -28,16 +28,16 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question: [CountNonZeroPositives](CppCountNonZeroPositives.htm)
+Question: [CountNonZeroPositives](CppCountNonZeroPositives.md)
 ---------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.htm)
--   [std::count\_if](CppCount_if.htm)
--   [std::greater](CppGreater.htm)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::count\_if](CppCount_if.md)
+-   [std::greater](CppGreater.md)
 
  
 

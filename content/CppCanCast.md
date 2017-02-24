@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [CanCast](CanCast.htm)
+([C++](Cpp.md)) [CanCast](CanCast.md)
 =======================================
 
  
 
-[CanCast](CanCast.htm) is a [checking](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) that let you check if you **can** convert
-a [std::string](CppString.htm) to another [data type](CppDataType.htm)
-when using [LexicalCast](CppLexicalCast.htm).
+[CanCast](CanCast.md) is a [checking](CppCheck.md) [code
+snippet](CppCodeSnippets.md) that let you check if you **can** convert
+a [std::string](CppString.md) to another [data type](CppDataType.md)
+when using [LexicalCast](CppLexicalCast.md).
 
  
 
-[CanCast](CppCanCast.htm) serves the same purpose as
-[CanLexicalCast](CppCanLexicalCast.htm), but does not
-[throw](CppThrow.htm) an [exception](CppException.htm) and does not use
-[Boost](CppBoost.htm). Note that there are differences between
-[CanCast](CppCanCast.htm) and [CanLexicalCast](CppCanLexicalCast.htm),
-as [CanLexicalCast](CppCanLexicalCast.htm) is more strict. Below the
+[CanCast](CppCanCast.md) serves the same purpose as
+[CanLexicalCast](CppCanLexicalCast.md), but does not
+[throw](CppThrow.md) an [exception](CppException.md) and does not use
+[Boost](CppBoost.md). Note that there are differences between
+[CanCast](CppCanCast.md) and [CanLexicalCast](CppCanLexicalCast.md),
+as [CanLexicalCast](CppCanLexicalCast.md) is more strict. Below the
 code, a comparison between the two is shown.
 
  
@@ -48,21 +48,21 @@ code, a comparison between the two is shown.
 
  
 
-Comparison between [CanCast](CppCanCast.htm) and [CanLexicalCast](CppCanLexicalCast.htm)
+Comparison between [CanCast](CppCanCast.md) and [CanLexicalCast](CppCanLexicalCast.md)
 ----------------------------------------------------------------------------------------
 
  
 
 The table below shows if a std::string can be converted according to
-[CanCast](CppCanCast.htm) (CC) and
-[CanLexicalCast](CppCanLexicalCast.htm) (CLC). Note that the first
+[CanCast](CppCanCast.md) (CC) and
+[CanLexicalCast](CppCanLexicalCast.md) (CLC). Note that the first
 std::string was a space (' '). Below the table I show the code I've used
-to generate this output. [CanCast](CppCanCast.htm) serves the same
-purpose as [CanLexicalCast](CppCanLexicalCast.htm), but does not
-[throw](CppThrow.htm) an [exception](CppException.htm) and does not use
-[Boost](CppBoost.htm). Note that there are differences between
-[CanCast](CppCanCast.htm) and [CanLexicalCast](CppCanLexicalCast.htm),
-as [CanLexicalCast](CppCanLexicalCast.htm) is more strict.
+to generate this output. [CanCast](CppCanCast.md) serves the same
+purpose as [CanLexicalCast](CppCanLexicalCast.md), but does not
+[throw](CppThrow.md) an [exception](CppException.md) and does not use
+[Boost](CppBoost.md). Note that there are differences between
+[CanCast](CppCanCast.md) and [CanLexicalCast](CppCanLexicalCast.md),
+as [CanLexicalCast](CppCanLexicalCast.md) is more strict.
 
  
 
@@ -115,5 +115,5 @@ as [CanLexicalCast](CppCanLexicalCast.htm) is more strict.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

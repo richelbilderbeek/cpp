@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::pop\_heap](CppPop_heap.htm)
+([C++](Cpp.md)) [std::pop\_heap](CppPop_heap.md)
 ==================================================
 
  
 
-[std::pop\_heap](CppPop_heap.htm) is an [STL](CppStl.htm) heap
-[algorithm](CppAlgorithm.htm) to remove the highest value from a heap.
+[std::pop\_heap](CppPop_heap.md) is an [STL](CppStl.md) heap
+[algorithm](CppAlgorithm.md) to remove the highest value from a heap.
 
  
 

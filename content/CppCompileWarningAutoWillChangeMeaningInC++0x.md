@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['auto' will change meaning in C++0x; please remove it](CppCompileWarningAutoWillChangeMeaningInC++0x.htm)
+([C++](Cpp.md)) ['auto' will change meaning in C++0x; please remove it](CppCompileWarningAutoWillChangeMeaningInC++0x.md)
 ===========================================================================================================================
 
  
 
-[Compile warning](CppCompileWarning.htm).
+[Compile warning](CppCompileWarning.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.2.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
 Project type: Qt4 Console Application
 
@@ -80,8 +80,8 @@ Solution
 
  
 
-Remove [auto](CppAuto.htm). Never use [auto](CppAuto.htm) \[1\], until
-[C++11](Cpp11.htm) arrives.
+Remove [auto](CppAuto.md). Never use [auto](CppAuto.md) \[1\], until
+[C++11](Cpp11.md) arrives.
 
  
 
@@ -93,12 +93,12 @@ Remove [auto](CppAuto.htm). Never use [auto](CppAuto.htm) \[1\], until
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++ style. 2005.
+1.  [Herb Sutter](CppHerbSutter.md). Exceptional C++ style. 2005.
     ISBN: 0-201-76042-8. Item 28 guideline: 'Never write auto'.
 
  

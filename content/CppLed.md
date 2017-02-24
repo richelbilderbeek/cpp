@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Led](CppLed.htm)
+([C++](Cpp.md)) [Led](CppLed.md)
 ==================================
 
  
@@ -22,12 +22,12 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Led](CppLed.htm) is a [class](CppClass.htm) for an LED light.
+[Led](CppLed.md) is a [class](CppClass.md) for an LED light.
 
  
 
-[Led](CppLed.htm) is used in the [tool](Tools.htm)
-[TestLed](ToolTestLed.htm).
+[Led](CppLed.md) is used in the [tool](Tools.md)
+[TestLed](ToolTestLed.md).
 
 Technical facts
 ---------------
@@ -110,5 +110,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::partial\_sum](CppPartial_sum.htm)
+([C++](Cpp.md)) [std::partial\_sum](CppPartial_sum.md)
 ========================================================
 
  
 
-[std::partial\_sum](CppPartial_sum.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to calculate the partial sums of a
-[container](CppContainer.htm).
+[std::partial\_sum](CppPartial_sum.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to calculate the partial sums of a
+[container](CppContainer.md).
 
  
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::fsetpos](CppFsetpos.htm)
+([C++](Cpp.md)) [std::fsetpos](CppFsetpos.md)
 ===============================================
 
  
 
-[std::fsetpos](CppFsetpos.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm).
+[std::fsetpos](CppFsetpos.md) is an [STL](CppStl.md)
+[function](CppFunction.md).
 
  
 
-[std::fsetpos](CppFsetpos.htm) is [defined](CppDefinition.htm) in
-[cstdio.h](CppCstdioH.htm).
+[std::fsetpos](CppFsetpos.md) is [defined](CppDefinition.md) in
+[cstdio.h](CppCstdioH.md).
 
  
 

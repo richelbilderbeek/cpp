@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Audio](CppAudio.htm)
+([C++](Cpp.md)) [Audio](CppAudio.md)
 ======================================
 
  
 
-The standard [C++](Cpp.htm) [library](CppLibrary.htm) (the
-[STL](CppStl.htm)) does not supply audio by default. Below some audio
-[libraries](CppLibrary.htm) I have used are described.
+The standard [C++](Cpp.md) [library](CppLibrary.md) (the
+[STL](CppStl.md)) does not supply audio by default. Below some audio
+[libraries](CppLibrary.md) I have used are described.
 
  
 
@@ -36,12 +36,12 @@ Comparison of C++ audio libraries
 
  
 
-This comparison is not thorough. When no [reference](CppReferences.htm)
+This comparison is not thorough. When no [reference](CppReferences.md)
 is given, I know this from personal experience. If I do not know
 something sure, the items starts with a question mark.
 
-My personal goal is to use the [audio](CppAudio.htm)
-[library](CppLibrary.htm) to produce a beep of any frequency in C++
+My personal goal is to use the [audio](CppAudio.md)
+[library](CppLibrary.md) to produce a beep of any frequency in C++
 source code. To me it seems that not all libraries seem to be used from
 source code and omit code examples on their web sites.
 
@@ -50,8 +50,8 @@ source code and omit code examples on their web sites.
 +-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
 | **[Librar | **Comes\  | **Audio\  | **Audio\  | **Could   | **[Licenc | **Support | **Homepag |
 | y](CppLib | with\     | analysis* | synthesis | I\        | e](CppLic | s**       | e**       |
-| rary.htm) | [IDE](Cpp | *         | **        | produce   | ence.htm) |           |           |
-| \         | Ide.htm)* |           |           | a\        | **        |           |           |
+| rary.md) | [IDE](Cpp | *         | **        | produce   | ence.md) |           |           |
+| \         | Ide.md)* |           |           | a\        | **        |           |           |
 | name**    | *         |           |           | beep in   |           |           |           |
 |           |           |           |           | C++\      |           |           |           |
 |           |           |           |           | source    |           |           |           |
@@ -88,12 +88,12 @@ source code and omit code examples on their web sites.
 +-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
 | [Phonon]( | [Qt       | ?         | ?         | No        | Free      | Linux,\   | [Phonon   |
 | CppPhonon | Creator]( |           |           |           | software  | Mac,\     | homepage] |
-| .htm)     | CppQtCrea |           |           |           |           | Windows   | (http://p |
-|           | tor.htm)  |           |           |           |           |           | honon.kde |
+| .md)     | CppQtCrea |           |           |           |           | Windows   | (http://p |
+|           | tor.md)  |           |           |           |           |           | honon.kde |
 |           |           |           |           |           |           |           | .org)     |
 +-----------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+
 | [STK](Cpp | ?none     | No \[1\]  | Yes       | Yes       | LGPL-like | Linux     | [STK      |
-| Stk.htm)  |           |           | \[1\]\[2\ |           | \[3\]     | \[2\],\   | homepage] |
+| Stk.md)  |           |           | \[1\]\[2\ |           | \[3\]     | \[2\],\   | homepage] |
 |           |           |           | ]         |           |           | Mac       | (https:// |
 |           |           |           |           |           |           | \[2\],\   | ccrma.sta |
 |           |           |           |           |           |           | Windows   | nford.edu |
@@ -112,7 +112,7 @@ source code and omit code examples on their web sites.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

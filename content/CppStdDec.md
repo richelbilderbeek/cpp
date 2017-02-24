@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::dec](CppDec.htm)
+([C++](Cpp.md)) [std::dec](CppDec.md)
 =======================================
 
  
 
-[std::dec](CppDec.htm) is a [stream](CppStream.htm) manipulator to
+[std::dec](CppDec.md) is a [stream](CppStream.md) manipulator to
 system the number system to decimal.
 
  
 
-The example below shows how to display an [integer](CppInt.htm) in
+The example below shows how to display an [integer](CppInt.md) in
 hexadecimal, octal and decimal with or without showing the number system
 base.
 

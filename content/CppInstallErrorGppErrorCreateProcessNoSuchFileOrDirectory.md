@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [g++: error: CreateProcess no such file or directory](CppInstallErrorGppErrorCreateProcessNoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [g++: error: CreateProcess no such file or directory](CppInstallErrorGppErrorCreateProcessNoSuchFileOrDirectory.md)
 =====================================================================================================================================
 
  
 
-[Install error](CppInstallError.htm) that can occur when installing
-[Qwt](CppQwt.htm) under [Windows](CppWindows.htm) 7.
+[Install error](CppInstallError.md) that can occur when installing
+[Qwt](CppQwt.md) under [Windows](CppWindows.md) 7.
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [make error: colon expected](CppMakeErrorColonExpected.htm)
+([C++](Cpp.md)) [make error: colon expected](CppMakeErrorColonExpected.md)
 ============================================================================
 
  
 
-[make error](CppMakeError.htm) occurred during [Installing CLN under
-Cygwin (under Windows)](CppClnInstallCygwin.htm) and [Installing GMP
-under Cygwin (under Windows)](CppGmpInstallCygwin.htm).
+[make error](CppMakeError.md) occurred during [Installing CLN under
+Cygwin (under Windows)](CppClnInstallCygwin.md) and [Installing GMP
+under Cygwin (under Windows)](CppGmpInstallCygwin.md).
 
  
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::noshowpoint](CppNoshowpoint.htm)
+([C++](Cpp.md)) [std::noshowpoint](CppNoshowpoint.md)
 =======================================================
 
  
 
-[std::noshowpoint](CppNoshowpoint.htm) is an [STL](CppStl.htm)
-[stream](CppStream.htm) manipulator to not show the zeroes behind the
-comma of a [double](CppDouble.htm).
+[std::noshowpoint](CppNoshowpoint.md) is an [STL](CppStl.md)
+[stream](CppStream.md) manipulator to not show the zeroes behind the
+comma of a [double](CppDouble.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppNoshowpoint' (zip)](CppNoshowpoint.htm)
+    'CppNoshowpoint' (zip)](CppNoshowpoint.md)
 
  
 
@@ -61,5 +61,5 @@ Screen output:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

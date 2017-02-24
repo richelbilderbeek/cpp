@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Thinking Wt 1: general](CppThinkingWt1.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Thinking Wt 1: general](CppThinkingWt1.md)
 ==============================================================================
 
  
 
-This [article](CppArticle.htm) shows one way to think about program
-architecture when using the [Wt](CppWt.htm) [library](CppLibrary.htm).
+This [article](CppArticle.md) shows one way to think about program
+architecture when using the [Wt](CppWt.md) [library](CppLibrary.md).
 
  
 
@@ -75,22 +75,22 @@ Why these guidelines?
 
  
 
-[Wt](CppWt.htm) is 'a widget-centric API' \[1\] for, primarily, dynamic
+[Wt](CppWt.md) is 'a widget-centric API' \[1\] for, primarily, dynamic
 web applications. I see many resemblances in its architecture with the
-[Qt](CppQt.htm) [library](CppLibrary.htm), suitable for, among others,
+[Qt](CppQt.md) [library](CppLibrary.md), suitable for, among others,
 desktop applications. Due to their different running environments,
-[Wt](CppWt.htm) (web) and [Qt](CppQt.htm) (desktop) are mutually
+[Wt](CppWt.md) (web) and [Qt](CppQt.md) (desktop) are mutually
 exclusive. Because I enjoy porting applications to as much platforms as
 possible, I have developed some applications that use both (but not
-simultaneously) a [Wt](CppWt.htm) and a [Qt](CppQt.htm) front-end. To be
+simultaneously) a [Wt](CppWt.md) and a [Qt](CppQt.md) front-end. To be
 able to do this easily, I follow the guidelines presented in this
-[article](CppArticle.htm). Additionally, I like to reuse my own widgets
+[article](CppArticle.md). Additionally, I like to reuse my own widgets
 and dialogs in multiple applications, which is only possible with a
 proper architecture.
 
  
 
-Note that I follow the same guidelines for [Qt](CppQt.htm) front-ends.
+Note that I follow the same guidelines for [Qt](CppQt.md) front-ends.
 
  
 
@@ -107,20 +107,20 @@ Architecture
 
  
 
-The architecture, from biggest to smallest, is: [main](CppMain.htm),
-[Wt::WApplication](CppWApplication.htm), dialog, widget:
+The architecture, from biggest to smallest, is: [main](CppMain.md),
+[Wt::WApplication](CppWApplication.md), dialog, widget:
 
  
 
--   Every C++ program has a single [main](CppMain.htm)
-    [function](CppFunction.htm). The purpose of this [main](CppMain.htm)
-    [function](CppFunction.htm) is to create a
-    [Wt::WApplication](CppWApplication.htm). Optionally,
-    [main](CppMain.htm) can parse the command-line arguments
--   The purpose of the [Wt::WApplication](CppWApplication.htm) is to
-    manage dialogs. Optionally, [Wt::WApplication](CppWApplication.htm)
-    can respond to the [Wt::WEnvironment](CppWEnvironment.htm)
-    parameters given at [construction](CppConstructor.htm)
+-   Every C++ program has a single [main](CppMain.md)
+    [function](CppFunction.md). The purpose of this [main](CppMain.md)
+    [function](CppFunction.md) is to create a
+    [Wt::WApplication](CppWApplication.md). Optionally,
+    [main](CppMain.md) can parse the command-line arguments
+-   The purpose of the [Wt::WApplication](CppWApplication.md) is to
+    manage dialogs. Optionally, [Wt::WApplication](CppWApplication.md)
+    can respond to the [Wt::WEnvironment](CppWEnvironment.md)
+    parameters given at [construction](CppConstructor.md)
 -   A dialog is a collection of at least one widget. The purpose of a
     dialog is to respond to its widgets or creating other dialogs. A
     menu is an example of a dialog that creates other dialogs. A
@@ -143,21 +143,21 @@ The architecture, from biggest to smallest, is: [main](CppMain.htm),
 
  
 
-Implementing [main](CppMain.htm)
+Implementing [main](CppMain.md)
 --------------------------------
 
  
 
-In this example, [main](CppMain.htm) creates a single
-[Wt::WApplication](CppWApplication.htm), and does not respond to
+In this example, [main](CppMain.md) creates a single
+[Wt::WApplication](CppWApplication.md), and does not respond to
 command-line arguments.
 
  
 
-The most basic [main](CppMain.htm) [function](CppFunction.htm) would
-only call WRun with a createApplication [function](CppFunction.htm) that
-only [returns](CppReturn.htm) a [newly](CppNew.htm) created
-[Wt::WApplication](CppWApplication.htm):
+The most basic [main](CppMain.md) [function](CppFunction.md) would
+only call WRun with a createApplication [function](CppFunction.md) that
+only [returns](CppReturn.md) a [newly](CppNew.md) created
+[Wt::WApplication](CppWApplication.md):
 
  
 
@@ -167,7 +167,7 @@ only [returns](CppReturn.htm) a [newly](CppNew.htm) created
 
  
 
-This way of creating a [Wt::WApplication](CppWApplication.htm) is
+This way of creating a [Wt::WApplication](CppWApplication.md) is
 identical to \[2\]\[3\].
 
  
@@ -182,16 +182,16 @@ identical to \[2\]\[3\].
 
  
 
-Implementing the [Wt::WApplication](CppWApplication.htm)
+Implementing the [Wt::WApplication](CppWApplication.md)
 --------------------------------------------------------
 
  
 
-The purpose of the [Wt::WApplication](CppWApplication.htm) is to create
+The purpose of the [Wt::WApplication](CppWApplication.md) is to create
 a dialog. In this example, WtApplication manages a single to pointer to
 a single dialog, called WtDialog. WtApplication does not respond to the
-[Wt::WEnvironment](CppWEnvironment.htm) parameters given at
-[construction](CppConstructor.htm), but sets the WtDialog as its widget.
+[Wt::WEnvironment](CppWEnvironment.md) parameters given at
+[construction](CppConstructor.md), but sets the WtDialog as its widget.
 Additionaly, it sets the browser title to 'My title'.
 
  
@@ -202,10 +202,10 @@ Additionaly, it sets the browser title to 'My title'.
 
  
 
-Because the [pointer](CppPointer.htm) m\_dialog is set to be managed by
-[Wt](CppWt.htm) in the 'addWidget' method, it should not be
-[deleted](CppDelete.htm) (doing so results in a double
-[deletion](CppDelete.htm) warning.
+Because the [pointer](CppPointer.md) m\_dialog is set to be managed by
+[Wt](CppWt.md) in the 'addWidget' method, it should not be
+[deleted](CppDelete.md) (doing so results in a double
+[deletion](CppDelete.md) warning.
 
  
 
@@ -223,8 +223,8 @@ Implementing the dialog
  
 
 Because a dialog is a collection of at least one widget, WtDialog is a
-[derived class](CppDerivedClass.htm) from
-[Wt::WContainerWidget](CppWContainerWidget.htm). WtDialog manages two
+[derived class](CppDerivedClass.md) from
+[Wt::WContainerWidget](CppWContainerWidget.md). WtDialog manages two
 widgets, but does not respond to their signals.
 
  
@@ -235,10 +235,10 @@ widgets, but does not respond to their signals.
 
  
 
-Because the [pointers](CppPointer.htm) m\_widget1 and m\_wiget2 are set
-to be managed by [Wt](CppWt.htm) in the 'addWidget' method, these should
-not be [deleted](CppDelete.htm) (doing so results in a double
-[deletion](CppDelete.htm) warning.
+Because the [pointers](CppPointer.md) m\_widget1 and m\_wiget2 are set
+to be managed by [Wt](CppWt.md) in the 'addWidget' method, these should
+not be [deleted](CppDelete.md) (doing so results in a double
+[deletion](CppDelete.md) warning.
 
  
 
@@ -256,8 +256,8 @@ Implementing the widget
  
 
 A widget is a single visual element. In this example, WtWidget is a
-button (and thus a [derived class](CppDerivedClass.htm) of
-[Wt::WPushButton](CppWPushButton.htm)), that displays how often it is
+button (and thus a [derived class](CppDerivedClass.md) of
+[Wt::WPushButton](CppWPushButton.md)), that displays how often it is
 clicked.
 
  
@@ -285,10 +285,10 @@ Running the Wt application
 
  
 
-Add the following line to your [Qt project file](CppQtProjectFile.htm)
-(to prevent [link errors](CppLinkError.htm) like [undefined reference to
+Add the following line to your [Qt project file](CppQtProjectFile.md)
+(to prevent [link errors](CppLinkError.md) like [undefined reference to
 'Wt::WRun(int, char\*\*, Wt::WApplication\* (\*)(Wt::WEnvironment
-const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)):
+const&))'](CppLinkErrorUndefinedReferenceToWtWrun.md)):
 
  
 
@@ -299,9 +299,9 @@ const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)):
  
 
 Additionally, add the following line to your [Qt project
-file](CppQtProjectFile.htm), as [Wt](CppWt.htm) uses the
-[Boost.Signals](CppBoostSignals.htm) [library](CppLibrary.htm), that
-needs to be [linked](CppLink.htm) to as well:
+file](CppQtProjectFile.md), as [Wt](CppWt.md) uses the
+[Boost.Signals](CppBoostSignals.md) [library](CppLibrary.md), that
+needs to be [linked](CppLink.md) to as well:
 
  
 
@@ -313,9 +313,9 @@ needs to be [linked](CppLink.htm) to as well:
 
 Add the following arguments to the [Run
 Settings](CppQtCreatorRunSettings.png) (to prevent the [misc
-error](CppMiscError.htm) [stat: No such file or directory. Document root
+error](CppMiscError.md) [stat: No such file or directory. Document root
 ("") not
-valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.htm)
+valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.md)
 
  
 
@@ -349,15 +349,15 @@ Conclusion
 
  
 
-In this [article](CppArticle.htm) I have shown one of many
-[Wt](CppWt.htm) program architectures you can use, for a very basic
+In this [article](CppArticle.md) I have shown one of many
+[Wt](CppWt.md) program architectures you can use, for a very basic
 application. In my humble opinion, this architecture makes sense, but I
 am open to discussion on this subject.
 
  
 
-My next article, [Thinking Wt 2: TicTacToe widget](CppThinkingWt2.htm)
-describes how I implement the [Wt](CppWt.htm) widget of a Tic-tac-toe
+My next article, [Thinking Wt 2: TicTacToe widget](CppThinkingWt2.md)
+describes how I implement the [Wt](CppWt.md) widget of a Tic-tac-toe
 game.
 
  
@@ -394,7 +394,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -402,7 +402,7 @@ External links
 1.  [Wt homepage](http://www.webtoolkit.eu/wt)
 2.  [Victor Volkman. Wt: C++ Web Toolkit Library Lets You Write
     Scripting-Independent Web Apps.
-    www.codeguru.com](http://www.codeguru.com/cpp/i-n/internet/browsercontrol/article.php/c15275__2/Wt-C-Web-Toolkit-Library-Lets-You-Write-Scripting-Independent-Web-Apps.htm)
+    www.codeguru.com](http://www.codeguru.com/cpp/i-n/internet/browsercontrol/article.php/c15275__2/Wt-C-Web-Toolkit-Library-Lets-You-Write-Scripting-Independent-Web-Apps.md)
 3.  [Wt homepage, source code of the 'Hello world'
     example](http://www.webtoolkit.eu/wt#/src/hello)
 

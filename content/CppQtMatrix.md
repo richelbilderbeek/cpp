@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtMatrix](CppQtMatrix.htm)
+([C++](Cpp.md)) [QtMatrix](CppQtMatrix.md)
 ============================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtMatrix](CppQtMatrix.htm) is a [Qt](CppQt.htm) [class](CppClass.htm)
-to display an [Matrix](CppMatrix.htm).
+[QtMatrix](CppQtMatrix.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+to display an [Matrix](CppMatrix.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

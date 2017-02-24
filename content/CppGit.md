@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [git](CppGit.htm)
+([C++](Cpp.md)) [git](CppGit.md)
 ==================================
 
  
 
-[Git](CppGit.htm) is a version control system.
+[Git](CppGit.md) is a version control system.
 
  
 
-[Git](CppGit.htm) is supplied with [Qt Creator](CppQtCreator.htm).
+[Git](CppGit.md) is supplied with [Qt Creator](CppQtCreator.md).
 
  
 
-I use [GitHub](CppGitHub.htm) as an online host to my [Git](CppGit.htm)
+I use [GitHub](CppGitHub.md) as an online host to my [Git](CppGit.md)
 repository (see external links).
 
  
@@ -38,7 +38,7 @@ repository (see external links).
 
  
 
-[Git](CppGit.htm) errors (when using it under Qt Creator)
+[Git](CppGit.md) errors (when using it under Qt Creator)
 ---------------------------------------------------------
 
  

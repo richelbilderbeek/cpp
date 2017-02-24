@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [ProductNonZeroPositives](CppProductNonZeroPositives.htm)
+([C++](Cpp.md)) [ProductNonZeroPositives](CppProductNonZeroPositives.md)
 ==========================================================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to calculate the
-product of all positive values in a [std::vector](CppVector.htm).
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate the
+product of all positive values in a [std::vector](CppVector.md).
 
  
 

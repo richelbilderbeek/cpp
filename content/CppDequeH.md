@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [deque.h](CppDequeH.htm)
+([C++](Cpp.md)) [deque.h](CppDequeH.md)
 =========================================
 
  
 
-[deque.h](CppDequeH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the [definition](CppDefinition.htm)
-of [std::deque](CppDeque.htm).
+[deque.h](CppDequeH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the [definition](CppDefinition.md)
+of [std::deque](CppDeque.md).
 
  
 

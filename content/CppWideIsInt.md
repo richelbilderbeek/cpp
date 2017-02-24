@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WideIsInt](CppWideIsInt.htm)
+([C++](Cpp.md)) [WideIsInt](CppWideIsInt.md)
 ==============================================
 
  
@@ -44,5 +44,5 @@ Checks if a WideString can be converted to an integer.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [AnsiToLower](CppAnsiToLower.htm)
+([C++](Cpp.md)) [AnsiToLower](CppAnsiToLower.md)
 ==================================================
 
  
 
-[AnsiToLower](CppAnsiToLower.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to change an
-[AnsiString](CppAnsiString.htm) to lower case.
+[AnsiToLower](CppAnsiToLower.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to change an
+[AnsiString](CppAnsiString.md) to lower case.
 
  
 

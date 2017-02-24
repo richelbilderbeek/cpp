@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [std::cin](CppCin.htm)
+([C++](Cpp.md)) [std::cin](CppCin.md)
 =======================================
 
  
@@ -44,5 +44,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

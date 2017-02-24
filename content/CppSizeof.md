@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [sizeof](CppSizeof.htm)
+([C++](Cpp.md)) [sizeof](CppSizeof.md)
 ========================================
 
  
 
-[sizeof](CppSizeof.htm) is a compile-time [operator](CppOperator.htm) to
-determine the size of a [data type](CppDataType.htm) in bytes.
+[sizeof](CppSizeof.md) is a compile-time [operator](CppOperator.md) to
+determine the size of a [data type](CppDataType.md) in bytes.
 
  
 
@@ -36,18 +36,18 @@ determine the size of a [data type](CppDataType.htm) in bytes.
 
  
 
-[sizeof](CppSizeof.htm) being a compile-time [operator](CppOperator.htm)
+[sizeof](CppSizeof.md) being a compile-time [operator](CppOperator.md)
 ------------------------------------------------------------------------
 
  
 
-Because [sizeof](CppSizeof.htm) is a compile-time
-[operator](CppOperator.htm), one can use on it:
+Because [sizeof](CppSizeof.md) is a compile-time
+[operator](CppOperator.md), one can use on it:
 
 -   ![C++11](PicCpp11.png)![STL](PicStl.png)
-    [static\_assert](CppStatic_assert.htm)
+    [static\_assert](CppStatic_assert.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png)
-    [BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.htm)
+    [BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.md)
 
  
 

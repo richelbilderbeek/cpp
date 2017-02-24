@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Global Wt deployment on a hosted server](CppWtDeployGlobalHosted.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Global Wt deployment on a hosted server](CppWtDeployGlobalHosted.md)
 ========================================================================================================
 
  
 
-[Global Wt deployment on a hosted server](CppWtDeployGlobalHosted.htm)
-is a type of [global Wt deployment](CppWtDeployGlobal.htm) in which an
+[Global Wt deployment on a hosted server](CppWtDeployGlobalHosted.md)
+is a type of [global Wt deployment](CppWtDeployGlobal.md) in which an
 internet host is paid to maintain a computer at a location you often
 don't know, only access by an internet connection. The access rights you
 have varies from FTP-only to root access.
 
  
 
-If you can [deploy Wt globally](CppWtDeployGlobal.htm) depends on your
+If you can [deploy Wt globally](CppWtDeployGlobal.md) depends on your
 access rights:
 
 -   ![?FAIL](PicOrange.png) Hosted server, FTP access: if all you can do
@@ -66,7 +66,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

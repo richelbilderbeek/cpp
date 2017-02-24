@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Plot](CppPlot.htm)
+([C++](Cpp.md)) [Plot](CppPlot.md)
 ====================================
 
  
 
-[Plotting](CppPlot.htm) is creating a chart out of data.
+[Plotting](CppPlot.md) is creating a chart out of data.
 
  
 
@@ -38,12 +38,12 @@ Only FOSS software. This list is incomplete and will remain incomplete.
 
  
 
--   [QWT](CppQwt.htm): C++ library
--   [Maxima](CppMaxima.htm): [Computer algebra system](CppCas.htm) that
+-   [QWT](CppQwt.md): C++ library
+-   [Maxima](CppMaxima.md): [Computer algebra system](CppCas.md) that
     allows easy plotting
--   [Gnuplot](CppGnuplot.htm): plotting environment, used as a workhorse
+-   [Gnuplot](CppGnuplot.md): plotting environment, used as a workhorse
     by many programs
--   [R](R.htm): programming language that has build-in plotting
+-   [R](R.md): programming language that has build-in plotting
 
  
 

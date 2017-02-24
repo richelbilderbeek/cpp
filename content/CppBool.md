@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [bool](CppBool.htm)
+([C++](Cpp.md)) [bool](CppBool.md)
 ====================================
 
  
 
-[bool](CppBool.htm) is the [keyword](CppKeyword.htm) for a standard
-[data type](CppDataType.htm) that can store the truth values
-[true](CppTrue.htm) and [false](CppFalse.htm).
+[bool](CppBool.md) is the [keyword](CppKeyword.md) for a standard
+[data type](CppDataType.md) that can store the truth values
+[true](CppTrue.md) and [false](CppFalse.md).
 
  
 

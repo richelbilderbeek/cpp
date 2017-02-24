@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [Derived class](CppDerivedClass.htm)
+([C++](Cpp.md)) [Derived class](CppDerivedClass.md)
 =====================================================
 
  
 
-A [derived class](CppDerivedClass.htm) is a [class](CppClass.htm) that
-has [inherited](CppInheritance.htm) [member
-variables](CppMemberVariable.htm) and [member
-functions](CppMemberFunction.htm) from a [base class](CppBaseClass.htm).
+A [derived class](CppDerivedClass.md) is a [class](CppClass.md) that
+has [inherited](CppInheritance.md) [member
+variables](CppMemberVariable.md) and [member
+functions](CppMemberFunction.md) from a [base class](CppBaseClass.md).
 
  
 
 The code below shows how an Animal is used as a [base
-class](CppBaseClass.htm) and Cat and Dog are [derived
-classes](CppDerivedClass.htm) (of Animal).
+class](CppBaseClass.md) and Cat and Dog are [derived
+classes](CppDerivedClass.md) (of Animal).
 
  
 
@@ -53,5 +53,5 @@ classes](CppDerivedClass.htm) (of Animal).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

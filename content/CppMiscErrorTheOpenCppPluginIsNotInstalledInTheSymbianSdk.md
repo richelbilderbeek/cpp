@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Misc error: the Open C/C++ plugin is not installed in the Symbian SDK](CppMiscErrorTheOpenCppPluginIsNotInstalledInTheSymbianSdk.htm)
+([C++](Cpp.md)) [Misc error: the Open C/C++ plugin is not installed in the Symbian SDK](CppMiscErrorTheOpenCppPluginIsNotInstalledInTheSymbianSdk.md)
 =======================================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -34,8 +34,8 @@ Error
 
  
 
-This [misc error](CppMiscError.htm) can be found in [Qt
-Creator](CppQtCreator.htm) in the 'Projects' mode, under the Build
+This [misc error](CppMiscError.md) can be found in [Qt
+Creator](CppQtCreator.md) in the 'Projects' mode, under the Build
 settings.
 
  
@@ -64,20 +64,20 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Mobile](PicMobile.png) [Mobile
-    application](CppMobileApplication.htm)
+    application](CppMobileApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.htm)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
--   ![Wine](PicWine.png) [Wine](CppWine.htm) 1.3.4
+-   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.md)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
+-   ![Wine](PicWine.png) [Wine](CppWine.md) 1.3.4
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
  
 
@@ -94,9 +94,9 @@ Process
 
  
 
-Installing [Open C/C++](CppOpenCpp.htm) under [Wine](CppWine.htm)
+Installing [Open C/C++](CppOpenCpp.md) under [Wine](CppWine.md)
 results in the [install error: Open C/C++: No destination folder or no
-features to be selected](CppInstallErrorOpenCpp.htm).
+features to be selected](CppInstallErrorOpenCpp.md).
 
  
 
@@ -113,7 +113,7 @@ Solution
 
  
 
-Unknown, except buying a computer with native [Windows](CppWindows.htm)?
+Unknown, except buying a computer with native [Windows](CppWindows.md)?
 
  
 
@@ -129,7 +129,7 @@ Perhaps \[1\] is a solution, but I have not gotten this to work yet...
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

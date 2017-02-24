@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::forward](CppStdForward.htm)
+([C++](Cpp.md)) [std::forward](CppStdForward.md)
 ==================================================
 
  
 
-[std::forward](CppStdForward.htm) is a [C++11](Cpp11.htm) ...
+[std::forward](CppStdForward.md) is a [C++11](Cpp11.md) ...
 
  
 
@@ -34,7 +34,7 @@ Examples
 
  
 
--   [std::forward example 1: basics](CppStdForwardExample1.htm)
+-   [std::forward example 1: basics](CppStdForwardExample1.md)
 
  
 
@@ -46,13 +46,13 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Apply [std::forward](CppStdForward.htm) when passing [universal
-    references](CppUniversalReference.htm) \[1\]
+-   Apply [std::forward](CppStdForward.md) when passing [universal
+    references](CppUniversalReference.md) \[1\]
 
  
 
@@ -64,12 +64,12 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Apply std::forward
     when Passing Universal References'
 
@@ -92,5 +92,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,20 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [initializer-list](CppInitializerList.htm)
+([C++](Cpp.md)) [initializer-list](CppInitializerList.md)
 ===========================================================
 
  
 
-An [initializer-list](CppInitializerList.htm) is on option that can be
-used, depending on the [standard](CppStandard.htm) used:
+An [initializer-list](CppInitializerList.md) is on option that can be
+used, depending on the [standard](CppStandard.md) used:
 
--   ![C++98](PicCpp98.png) [initializer list](CppInitializerList.htm) in
-    the [C++98](Cpp98.htm) [standard](CppStandard.htm)
--   ![C++11](PicCpp11.png) [initializer list](CppInitializerList.htm) in
-    the [C++11](Cpp11.htm) [standard](CppStandard.htm)
-
- 
+-   ![C++98](PicCpp98.png) [initializer list](CppInitializerList.md) in
+    the [C++98](Cpp98.md) [standard](CppStandard.md)
+-   ![C++11](PicCpp11.png) [initializer list](CppInitializerList.md) in
+    the [C++11](Cpp11.md) [standard](CppStandard.md)
 
  
 
@@ -35,13 +33,15 @@ used, depending on the [standard](CppStandard.htm) used:
 
  
 
-![C++98](PicCpp98.png) [initializer list](CppInitializerList.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+ 
+
+![C++98](PicCpp98.png) [initializer list](CppInitializerList.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 -----------------------------------------------------------------------------------------------------------------------
 
  
 
-[initializer list](CppInitializerList.htm) is not supported in
-[C++98](Cpp98.htm).
+[initializer list](CppInitializerList.md) is not supported in
+[C++98](Cpp98.md).
 
  
 
@@ -51,7 +51,7 @@ used, depending on the [standard](CppStandard.htm) used:
 
  
 
-[Compiler](CppCompiler.htm) output:
+[Compiler](CppCompiler.md) output:
 
  
 
@@ -69,7 +69,7 @@ used, depending on the [standard](CppStandard.htm) used:
 
  
 
-![C++11](PicCpp11.png) [initializer list](CppInitializerList.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [initializer list](CppInitializerList.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 -----------------------------------------------------------------------------------------------------------------------
 
  
@@ -79,7 +79,7 @@ used, depending on the [standard](CppStandard.htm) used:
 
  
 
-An [initializer list](CppInitializerList.htm) is an additional
+An [initializer list](CppInitializerList.md) is an additional
 initialization option:
 
  
@@ -98,14 +98,14 @@ initialization option:
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   If a [class](CppClass.htm) is a [container](CppContainer.htm), give
-    it an [initializer-list](CppInitializerList.htm)
-    [constructor](CppConstructor.htm) \[1\]
+-   If a [class](CppClass.md) is a [container](CppContainer.md), give
+    it an [initializer-list](CppInitializerList.md)
+    [constructor](CppConstructor.md) \[1\]
 
  
 
@@ -117,12 +117,12 @@ initialization option:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
     Advice. page 525: '\[8\] If a class is a container, give it an
     initializer-list constructor'

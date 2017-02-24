@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Assertion failed: 0, file C:\\src\\ilink\\modmap.c, line 177](CppMiscErrorAssertionFailedModmapC.htm)
+([C++](Cpp.md)) [Assertion failed: 0, file C:\\src\\ilink\\modmap.c, line 177](CppMiscErrorAssertionFailedModmapC.md)
 =======================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
@@ -80,7 +80,7 @@ Solution
 
  
 
-Restart [C++ Builder](CppBuilder.htm). Nothing has been lost.
+Restart [C++ Builder](CppBuilder.md). Nothing has been lost.
 
  
 

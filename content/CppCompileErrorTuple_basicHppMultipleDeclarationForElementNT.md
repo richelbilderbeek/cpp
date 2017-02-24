@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [tuple\_basic.hpp: Multiple declaration for 'element&lt;N,T&gt;'](CppCompileErrorTuple_basicHppMultipleDeclarationForElementNT.htm)
+([C++](Cpp.md)) [tuple\_basic.hpp: Multiple declaration for 'element&lt;N,T&gt;'](CppCompileErrorTuple_basicHppMultipleDeclarationForElementNT.md)
 ====================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Boost version: 1.35.0.
 
@@ -80,7 +80,7 @@ Solution/workaround
 
  
 
-Add a [\#define](CppDefine.htm) before the [\#include](CppInclude.htm).
+Add a [\#define](CppDefine.md) before the [\#include](CppInclude.md).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [FindEquilibrium](CppFindEquilibrium.htm)
+([C++](Cpp.md)) [FindEquilibrium](CppFindEquilibrium.md)
 ==========================================================
 
  
 
-[FindEquilibrium](CppFindEquilibrium.htm) is a [biology](CppBiology.htm)
-[code snippet](CppCodeSnippets.htm) to find the equilibrium of a cycle.
+[FindEquilibrium](CppFindEquilibrium.md) is a [biology](CppBiology.md)
+[code snippet](CppCodeSnippets.md) to find the equilibrium of a cycle.
 
  
 
@@ -134,5 +134,5 @@ generations. Therefore, the period length is not found. Also ***r*** =
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

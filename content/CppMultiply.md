@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Multiply](CppMultiply.htm)
+([C++](Cpp.md)) ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Multiply](CppMultiply.md)
 =========================================================================================
 
  
 
-[Multiply](CppMultiply.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to multiply each element in a
-[std::vector](CppVector.htm) by a certain value.
+[Multiply](CppMultiply.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to multiply each element in a
+[std::vector](CppVector.md) by a certain value.
 
  
 
-[Multiply](CppMultiply.htm) can be [defined](CppDefinition.htm) in
+[Multiply](CppMultiply.md) can be [defined](CppDefinition.md) in
 multiple ways:
 
-1.  ![C++11](PicCpp11.png)![STL](PicStl.png) [Multiply](CppMultiply.htm)
-    using an [algorithm](CppAlgorithm.htm) and the [C++11](Cpp11.htm)
-    [STL](CppStl.htm)
+1.  ![C++11](PicCpp11.png)![STL](PicStl.png) [Multiply](CppMultiply.md)
+    using an [algorithm](CppAlgorithm.md) and the [C++11](Cpp11.md)
+    [STL](CppStl.md)
 2.  ![C++98](PicCpp98.png)![STL](PicStl.png) Using an
-    [algorithm](CppAlgorithm.htm) and the [STL](CppStl.htm)
+    [algorithm](CppAlgorithm.md) and the [STL](CppStl.md)
 3.  ![C++98](PicCpp98.png)![Boost](PicBoost.png) Using an
-    [algorithm](CppAlgorithm.htm) and [Boost](CppBoost.htm)
-4.  ![C++98](PicCpp98.png) Using a [for](CppFor.htm) loop
+    [algorithm](CppAlgorithm.md) and [Boost](CppBoost.md)
+4.  ![C++98](PicCpp98.png) Using a [for](CppFor.md) loop
 
  
 
@@ -42,7 +42,7 @@ multiple ways:
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\].
 
  
 
@@ -54,7 +54,7 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [Multiply](CppMultiply.htm) using an [algorithm](CppAlgorithm.htm) and the [C++11](Cpp11.htm) [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and the [C++11](Cpp11.htm) [STL](CppStl.htm)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -73,13 +73,13 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [Multiply](CppMultiply.htm) using an [algorithm](CppAlgorithm.htm) and the [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and the [STL](CppStl.htm)
 -------------------------------------------------------------------------------------------------------------------------------------
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -97,13 +97,13 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) [Multiply](CppMultiply.htm) using an [algorithm](CppAlgorithm.htm) and [Boost](CppBoost.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and [Boost](CppBoost.htm)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -121,7 +121,7 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-![C++98](PicCpp98.png) [Multiply](CppMultiply.htm) using a [for](CppFor.htm) loop
+![C++98](PicCpp98.png) [Multiply](CppMultiply.md) using a [for](CppFor.md) loop
 ---------------------------------------------------------------------------------
 
  
@@ -132,7 +132,7 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\].
 
  
 
@@ -144,16 +144,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops'
 

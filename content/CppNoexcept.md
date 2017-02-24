@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [noexcept](CppNoexcept.htm)
+([C++](Cpp.md)) [noexcept](CppNoexcept.md)
 ============================================
 
  
 
-[noexcept](CppNoexcept.htm) is a [keyword](CppKeyword.htm) to indicate
-that a [function](CppFunction.htm) may not [throw](CppThrow.htm) an
-[exception](CppException.htm). If the [function](CppFunction.htm) does
-[throw](CppThrow.htm) an [exception](CppException.htm),
-[std::terminate](CppTerminate.htm) is called.
+[noexcept](CppNoexcept.md) is a [keyword](CppKeyword.md) to indicate
+that a [function](CppFunction.md) may not [throw](CppThrow.md) an
+[exception](CppException.md). If the [function](CppFunction.md) does
+[throw](CppThrow.md) an [exception](CppException.md),
+[std::terminate](CppTerminate.md) is called.
 
  
 
@@ -33,12 +33,12 @@ that a [function](CppFunction.htm) may not [throw](CppThrow.htm) an
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [noexcept example 1: basics](CppNoexceptExample1.htm)
+-   [noexcept example 1: basics](CppNoexceptExample1.md)
 
  
 
@@ -50,22 +50,22 @@ that a [function](CppFunction.htm) may not [throw](CppThrow.htm) an
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   If a [function](CppFunction.htm) may not [throw](CppThrow.htm),
-    [declare](CppDeclaration.htm) it [noexcept](CppNoexcept.htm) \[1\]
--   Generated [destructors](CppDestructor.htm) are implicitly
-    [noexcept](CppNoexcept.htm), as [destructors](CppDestructor.htm)
-    should not [throw](CppThrow.htm) \[2\]
+-   If a [function](CppFunction.md) may not [throw](CppThrow.md),
+    [declare](CppDeclaration.md) it [noexcept](CppNoexcept.md) \[1\]
+-   Generated [destructors](CppDestructor.md) are implicitly
+    [noexcept](CppNoexcept.md), as [destructors](CppDestructor.md)
+    should not [throw](CppThrow.md) \[2\]
 -   A generated copy or move operation is implicitly
-    [noexcept](CppNoexcept.htm) if all of the copy or move operations it
-    uses on members of its class have [noexcept](CppNoexcept.htm)
-    [destructors](CppDestructor.htm) \[3\]. Declare a move operation
-    [noexcept](CppNoexcept.htm), as it should not throw \[3\]
--   Reserve [noexcept](CppNoexcept.htm) for [functions](CppFunction.htm)
+    [noexcept](CppNoexcept.md) if all of the copy or move operations it
+    uses on members of its class have [noexcept](CppNoexcept.md)
+    [destructors](CppDestructor.md) \[3\]. Declare a move operation
+    [noexcept](CppNoexcept.md), as it should not throw \[3\]
+-   Reserve [noexcept](CppNoexcept.md) for [functions](CppFunction.md)
     with wide interfaces \[4\]
 
  
@@ -78,12 +78,12 @@ that a [function](CppFunction.htm) may not [throw](CppThrow.htm) an
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 13.7.
     Advice, page 387: '\[23\] If your function may not throw, declare it
     noexcept'
@@ -99,7 +99,7 @@ that a [function](CppFunction.htm) may not [throw](CppThrow.htm) an
     operation is implicitly noexcept if all of the copy or move
     operations it uses on members of its class have noexcept
     destructors.'
-4.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+4.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Reserve noexcept for
     Functions with Wide Interfaces'
 

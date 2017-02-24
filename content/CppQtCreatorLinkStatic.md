@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [static linking in Qt Creator](CppQtCreatorLinkStatic.htm)
+([C++](Cpp.md)) [static linking in Qt Creator](CppQtCreatorLinkStatic.md)
 ===========================================================================
 
  
@@ -23,11 +23,11 @@
 
 When you want to create a stand-alone application (that is: no DLL's nor
 LIB's, just one single executable file) you will need to do static
-[linking](CppLink.htm).
+[linking](CppLink.md).
 
  
 
-In [Qt Creator](CppQtCreator.htm), add the following line to your
+In [Qt Creator](CppQtCreator.md), add the following line to your
 project file:
 
  

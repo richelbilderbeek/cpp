@@ -12,27 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [long long int](CppLongLongInt.htm)
+([C++](Cpp.md)) [long long int](CppLongLongInt.md)
 ====================================================
 
  
 
-[long long int](CppLongLongInt.htm) is a 64-bit [integer](CppInt.htm)
-[data type](CppDataType.htm).
+[long long int](CppLongLongInt.md) is a 64-bit [integer](CppInt.md)
+[data type](CppDataType.md).
 
  
 
-An [long long int](CppLongLongInt.htm) is a [keyword](CppKeyword.htm)
-that can be used, depending on the [standard](CppStandard.htm) used:
+An [long long int](CppLongLongInt.md) is a [keyword](CppKeyword.md)
+that can be used, depending on the [standard](CppStandard.md) used:
 
--   ![C++98](PicCpp98.png) [long long int](CppLongLongInt.htm) in the
-    [C++98](Cpp98.htm) [standard](CppStandard.htm)
--   ![C++11](PicCpp11.png) [long long int](CppLongLongInt.htm) in the
-    [C++11](Cpp11.htm) [standard](CppStandard.htm)
-
- 
-
- 
+-   ![C++98](PicCpp98.png) [long long int](CppLongLongInt.md) in the
+    [C++98](Cpp98.md) [standard](CppStandard.md)
+-   ![C++11](PicCpp11.png) [long long int](CppLongLongInt.md) in the
+    [C++11](Cpp11.md) [standard](CppStandard.md)
 
  
 
@@ -40,13 +36,17 @@ that can be used, depending on the [standard](CppStandard.htm) used:
 
  
 
-![C++98](PicCpp98.png) [long long int](CppLongLongInt.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+ 
+
+ 
+
+![C++98](PicCpp98.png) [long long int](CppLongLongInt.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 ----------------------------------------------------------------------------------------------------------------
 
  
 
-[long long int](CppLongLongInt.htm) is not guaranteed to be 64-bit in
-the [C++98](Cpp98.htm) [standard](CppStandard.htm).
+[long long int](CppLongLongInt.md) is not guaranteed to be 64-bit in
+the [C++98](Cpp98.md) [standard](CppStandard.md).
 
  
 
@@ -74,7 +74,7 @@ Screen output:
 
  
 
-![C++11](PicCpp11.png) [long long int](CppLongLongInt.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [long long int](CppLongLongInt.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 ----------------------------------------------------------------------------------------------------------------
 
  
@@ -84,8 +84,8 @@ Screen output:
 
  
 
-[long long int](CppLongLongInt.htm) is guaranteed to be 64-bit in the
-[C++11](Cpp11.htm) [standard](CppStandard.htm).
+[long long int](CppLongLongInt.md) is guaranteed to be 64-bit in the
+[C++11](Cpp11.md) [standard](CppStandard.md).
 
  
 
@@ -105,10 +105,10 @@ Screen output:
 
  
 
-Technical note: the code shown is [compiled](CppCompile.htm)
-successfully using the [G++](CppGpp.htm) 4.4.5
-[compiler](CppCompiler.htm), which is supplied with the [Qt
-Creator](CppQtCreator.htm) 2.0.0 [IDE](CppIde.htm).
+Technical note: the code shown is [compiled](CppCompile.md)
+successfully using the [G++](CppGpp.md) 4.4.5
+[compiler](CppCompiler.md), which is supplied with the [Qt
+Creator](CppQtCreator.md) 2.0.0 [IDE](CppIde.md).
 
  
 

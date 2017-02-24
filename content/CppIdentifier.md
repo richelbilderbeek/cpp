@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [identifier](CppIdentifier.htm)
+([C++](Cpp.md)) [identifier](CppIdentifier.md)
 ================================================
 
  
 
-An [identifier](CppIdentifier.htm) is the name given to a
-[variable](CppVariable.htm).
+An [identifier](CppIdentifier.md) is the name given to a
+[variable](CppVariable.md).
 
  
 
-In the example below, a [variable](CppVariable.htm) is
-[defined](CppDefinition.htm) with the [int](CppInt.htm) [data
-type](CppDataType.htm) and the [identifier](CppIdentifier.htm) 'x':
+In the example below, a [variable](CppVariable.md) is
+[defined](CppDefinition.md) with the [int](CppInt.md) [data
+type](CppDataType.md) and the [identifier](CppIdentifier.md) 'x':
 
  
 
@@ -42,7 +42,7 @@ type](CppDataType.htm) and the [identifier](CppIdentifier.htm) 'x':
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
@@ -50,20 +50,20 @@ type](CppDataType.htm) and the [identifier](CppIdentifier.htm) 'x':
 -   Keep common and local names short, and keep uncommon and nonlocal
     names longer \[4\]
 -   Avoid similar-looking names \[5\]
--   Be consistent about [identifier](CppIdentifier.htm) names \[1,7\]
+-   Be consistent about [identifier](CppIdentifier.md) names \[1,7\]
 -   Use either uppercase or underscore but not both to delimit words
     \[1\]
 -   -   Use meaningful names \[2,12\], as these make the code
     self-documenting \[12\]
--   Consider not letting [identifiers](CppIdentifier.htm) start with a
+-   Consider not letting [identifiers](CppIdentifier.md) start with a
     leading underscore \[3,14\], as it might cause name collision
     \[3,14\]
 -   Name an object to reflect its meaning rather than its type \[6\]
--   -   Avoid using [Hungarian notation](CppHungarianNotation.htm)
+-   -   Avoid using [Hungarian notation](CppHungarianNotation.md)
     \[9-10\]
 -   Avoid using abbreviations in identifiers \[13\]
 -   Avoid ALL\_CAPS names \[8\]
--   Use [identifiers](CppIdentifier.htm) of 31 characters or fewer to
+-   Use [identifiers](CppIdentifier.md) of 31 characters or fewer to
     ensure portability \[11\]
 
  
@@ -76,16 +76,16 @@ type](CppDataType.htm) and the [identifier](CppIdentifier.htm) 'x':
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.7: 'Be consistent about
     identifier names; use either uppercase or underscore but not both to
     delimit words in identifiers'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). Programming. 2009.
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). Programming. 2009.
     ISBN: 978-0-321-54372-1. Chapter 5.9.1: 'Use meaningful names'
 3.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
     Development and Demonstration Program. Document Number 2RDU00001
@@ -94,21 +94,21 @@ type](CppDataType.htm) and the [identifier](CppIdentifier.htm) 'x':
     first character in the name of library functions (e.g. \_main,
     \_exit, etc.) In order to avoid name collisions, identifiers should
     not begin with '\_'.'
-4.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+4.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[12\] Keep common and local names short, and
     keep uncommon and nonlocal names longer'
-5.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+5.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[13\] Avoid similar-looking names'
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[14\] Name an object to reflect its meaning
     rather than its type'
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[15\] Maintain a consistent naming style'
-8.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[16\] Avoid ALL\_CAPS names'
 9.  [Bjarne Stroustrup's C++
@@ -118,8 +118,8 @@ type](CppDataType.htm) and the [identifier](CppIdentifier.htm) 'x':
     checking in weakly-typed or untyped languages. It is totally
     unsuitable for C++ where it complicates maintenance and gets in the
     way of abstraction'
-10. [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+10. [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Item 0, example 3: 'Therefore, no C++ coding standard should require
     Hungarian notation, though a C++ coding standard might legitimately

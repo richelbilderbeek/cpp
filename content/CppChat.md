@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Chat](CppChat.htm)
+([C++](Cpp.md)) [Chat](CppChat.md)
 ====================================
 
  
 
-'Online [chat](CppChat.htm) can refer to any kind of communication over
+'Online [chat](CppChat.md) can refer to any kind of communication over
 the Internet, but is primarily meant to refer to direct one-on-one chat
 or text-based group chat' \[1\].
 
@@ -31,17 +31,15 @@ or text-based group chat' \[1\].
 
  
 
-Creating a [chat](CppChat.htm) program
+Creating a [chat](CppChat.md) program
 --------------------------------------
 
  
 
-How to create a [chat](CppChat.htm) program depends on the
-[library](CppLibrary.htm) you want to use:
+How to create a [chat](CppChat.md) program depends on the
+[library](CppLibrary.md) you want to use:
 
--   ![Wt](PicWt.png) [Creating a chat program using Wt](CppWtChat.htm)
-
- 
+-   ![Wt](PicWt.png) [Creating a chat program using Wt](CppWtChat.md)
 
  
 
@@ -51,7 +49,9 @@ How to create a [chat](CppChat.htm) program depends on the
 
  
 
-[References](CppReferences.htm)
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  

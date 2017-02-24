@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Example 18: STL only console application, use of '-spec win32-g++'](CppQtCrosscompileToWindowsExample18.htm)
+([C++](Cpp.md)) [Example 18: STL only console application, use of '-spec win32-g++'](CppQtCrosscompileToWindowsExample18.md)
 ==============================================================================================================================
 
  
 
 Sure fail attempt at solving [How to cross-compile a Qt Creator project
-from Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
+from Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -26,16 +26,16 @@ from Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
 Project options:
 
@@ -55,7 +55,7 @@ Project options:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -112,7 +112,7 @@ In the project's subfolder 'Debug' there was a file
 
  
 
-Starting the executable with [Wine](CppWine.htm):
+Starting the executable with [Wine](CppWine.md):
 
  
 

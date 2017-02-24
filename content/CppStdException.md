@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [std::exception](CppStdException.htm)
+([C++](Cpp.md)) [std::exception](CppStdException.md)
 ======================================================
 
  
 
-[std::exception](CppStdException.htm) is the [STL](CppStl.htm)
-[class](CppClass.htm) for an [exceptions](CppException.htm).
+[std::exception](CppStdException.md) is the [STL](CppStl.md)
+[class](CppClass.md) for an [exceptions](CppException.md).
 
  
 
-[std::exception](CppStdException.htm) is the [base
-class](CppBaseClass.htm) of the [STL](CppStl.htm) [exception
-hierarchy](CppExceptionHierarchy.htm)
+[std::exception](CppStdException.md) is the [base
+class](CppBaseClass.md) of the [STL](CppStl.md) [exception
+hierarchy](CppExceptionHierarchy.md)
 
  
 
-Prefer to use a [derived class](CppDerivedClass.htm) of
-[std::exception](CppStdException.htm) to a built-in
-[type](CppDataType.htm) (like [int](CppInt.htm)) \[1\].
+Prefer to use a [derived class](CppDerivedClass.md) of
+[std::exception](CppStdException.md) to a built-in
+[type](CppDataType.md) (like [int](CppInt.md)) \[1\].
 
  
 
@@ -46,7 +46,7 @@ Examples
  
 
 -   [std::exception 1: throwing a custom
-    exception](CppStdExceptionExample1.htm)
+    exception](CppStdExceptionExample1.md)
 
  
 
@@ -58,12 +58,12 @@ Examples
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 13.7.
     Advice. page 386: '\[4\] Use purpose-designed user-defined types as
     exceptions (not built-in types)'

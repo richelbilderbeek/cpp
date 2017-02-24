@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [MakeScreenschot](CppMakeScreenschot.htm)
+([C++](Cpp.md)) [MakeScreenschot](CppMakeScreenschot.md)
 ==========================================================
 
  
 
-[MakeScreenschot](CppMakeScreenschot.htm) is a [Windows](CppWindows.htm)
-and [VCL](CppVcl.htm) [graphics](CppVclGraphics.htm) [code
-snippet](CppVclCodeSnippets.htm) to make a screenshot and store it in a
+[MakeScreenschot](CppMakeScreenschot.md) is a [Windows](CppWindows.md)
+and [VCL](CppVcl.md) [graphics](CppVclGraphics.md) [code
+snippet](CppVclCodeSnippets.md) to make a screenshot and store it in a
 Graphics::TBitmap.
 
  
@@ -47,5 +47,5 @@ Graphics::TBitmap.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

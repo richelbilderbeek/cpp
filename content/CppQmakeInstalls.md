@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [INSTALLS (qmake variable)](CppQmakeInstalls.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [INSTALLS (qmake variable)](CppQmakeInstalls.md)
 ===================================================================================
 
  
 
-[INSTALLS](CppQmakeInstalls.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[INSTALLS](CppQmakeInstalls.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

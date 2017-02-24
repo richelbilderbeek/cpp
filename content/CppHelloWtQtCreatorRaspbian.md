@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ['Hello Wt' using Qt Creator under Raspian](CppHelloWtQtCreatorRpi.htm)
+([C++](Cpp.md)) ['Hello Wt' using Qt Creator under Raspian](CppHelloWtQtCreatorRpi.md)
 ========================================================================================
 
  
 
-[Hello Wt](CppHelloWt.htm) application using [Qt
-Creator](CppQtCreator.htm) under [Raspian](CppRpi.htm).
+[Hello Wt](CppHelloWt.md) application using [Qt
+Creator](CppQtCreator.md) under [Raspian](CppRpi.md).
 
  
 
@@ -32,39 +32,37 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
--   ![Web](PicWeb.png) [Web application](CppWebApplication.htm)
+-   ![Web](PicWeb.png) [Web application](CppWebApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.htm)
+-   ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.md)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.3
+-   [G++](CppGpp.md) 4.6.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm)
--   ![Qt](PicQt.png) [Qt](CppQt.htm)
--   ![STL](PicStl.png) [STL](CppStl.htm)
--   ![Wt](PicWt.png) [Wt](CppWt.htm)
-
- 
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md)
+-   ![Qt](PicQt.png) [Qt](CppQt.md)
+-   ![STL](PicStl.png) [STL](CppStl.md)
+-   ![Wt](PicWt.png) [Wt](CppWt.md)
 
  
 
@@ -74,7 +72,9 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppHelloWtQtCreatorRaspbian.pro
+ 
+
+[Qt project file](CppQtProjectFile.md): CppHelloWtQtCreatorRaspbian.pro
 ------------------------------------------------------------------------
 
  
@@ -131,7 +131,7 @@ start.sh
 
  
 
-[Deploying the Wt application locally](CppWtDeployLocal.htm)
+[Deploying the Wt application locally](CppWtDeployLocal.md)
 ------------------------------------------------------------
 
  
@@ -166,9 +166,9 @@ Now, start your web browser and go to the following address:
  
 
 You will see the 'Hello Wt' dynamic website. You just [deployed your Wt
-application locally](CppWtDeployLocal.htm). This is just fine for
+application locally](CppWtDeployLocal.md). This is just fine for
 debugging. If the application is ready to be put on the web, [deploy the
-Wt application globally](CppWtDeployGlobal.htm).
+Wt application globally](CppWtDeployGlobal.md).
 
  
 

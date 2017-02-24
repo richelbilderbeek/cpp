@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [SeperateString](CppSeperateString.htm)
+([C++](Cpp.md)) [SeperateString](CppSeperateString.md)
 ========================================================
 
  
@@ -22,11 +22,11 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[SeperateString](CppSeperateString.htm) is a
-[std::string](CppStdString.htm) [code snippet](CppCodeSnippets.htm) that
-seperates a [std::string](CppStdString.htm) into a multiple
-[std::strings](CppStdString.htm) (in a
-[std::vector](CppVector.htm)&lt;[std::string](CppStdString.htm)&gt;) by
+[SeperateString](CppSeperateString.md) is a
+[std::string](CppStdString.md) [code snippet](CppCodeSnippets.md) that
+seperates a [std::string](CppStdString.md) into a multiple
+[std::strings](CppStdString.md) (in a
+[std::vector](CppVector.md)&lt;[std::string](CppStdString.md)&gt;) by
 a certain seperator.
 
  
@@ -34,23 +34,23 @@ a certain seperator.
 I have multiple versions of SeperateString:
 
 1.  ![Boost](PicBoost.png) SeperateString \#1: Seperator is a
-    [char](CppChar.htm), uses Boost String Algorithms Library
+    [char](CppChar.md), uses Boost String Algorithms Library
 2.  ![STL](PicStl.png) SeperateString \#2: Seperator is a
-    [char](CppChar.htm), uses [algorithms](CppAlgorithm.htm), short
+    [char](CppChar.md), uses [algorithms](CppAlgorithm.md), short
     version
 3.  ![STL](PicStl.png)SeperateString \#3: Seperator is a
-    [char](CppChar.htm), uses [algorithms](CppAlgorithm.htm), long
+    [char](CppChar.md), uses [algorithms](CppAlgorithm.md), long
     version
 4.  ![STL](PicStl.png)SeperateString \#4: Seperator is a
-    [char](CppChar.htm), does not use algorithms
+    [char](CppChar.md), does not use algorithms
 5.  ![STL](PicStl.png)SeperateString \#5: Seperator is a
-    [std::string](CppStdString.htm), uses algorithms
+    [std::string](CppStdString.md), uses algorithms
 6.  ![STL](PicStl.png)SeperateString \#6: Seperator is a
-    [std::string](CppStdString.htm), does not use algorithms
+    [std::string](CppStdString.md), does not use algorithms
 
  
 
-Of each version of [SeperateString](CppSeperateString.htm), I also wrote
+Of each version of [SeperateString](CppSeperateString.md), I also wrote
 some test code on it.
 
  
@@ -63,30 +63,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -99,7 +99,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppSeperateString/CppSeperateString.pro
+[Qt project file](CppQtProjectFile.md): ./CppSeperateString/CppSeperateString.pro
 ----------------------------------------------------------------------------------
 
  
@@ -146,5 +146,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

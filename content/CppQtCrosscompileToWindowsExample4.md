@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 4: any application, changing makefile](CppQtCrosscompileToWindowsExample4.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 4: any application, changing makefile](CppQtCrosscompileToWindowsExample4.md)
 =======================================================================================================================================================================================
 
  
 
 This is example 4, and a failed attempt of answering the [Qt
-FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
+FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -37,7 +37,7 @@ Project information
  
 
 The project is a standard [Hello
-World](CppHelloWorldQtCreatorUbuntu.htm) program.
+World](CppHelloWorldQtCreatorUbuntu.md) program.
 
  
 
@@ -93,7 +93,7 @@ Screen output:
 
  
 
-[\[ui\_dialog.h\] Error 127](CppMiscErrorUi_dialogHerror127.htm) is a
+[\[ui\_dialog.h\] Error 127](CppMiscErrorUi_dialogHerror127.md) is a
 known (yet unsolved) error.
 
  
@@ -106,7 +106,7 @@ known (yet unsolved) error.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

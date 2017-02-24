@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Size of @\_STL@%vector%78\_STL@... is unknown or zero](CppCompileErrorSizeOfVector.htm)
+([C++](Cpp.md)) [Size of @\_STL@%vector%78\_STL@... is unknown or zero](CppCompileErrorSizeOfVector.md)
 =========================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -56,16 +56,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): version supplied with [C++
-    Builder](CppBuilder.htm) 6.0
+-   [STL](CppStl.md): version supplied with [C++
+    Builder](CppBuilder.md) 6.0
 
  
 
@@ -88,10 +88,10 @@ Project type: Console Application
  
 
 The cause is that the member variable question\_scores is of type
-'[std::vector](CppVector.htm)&lt;[std::pair](CppPair.htm)&lt;[std::string](CppString.htm),**[int](CppInt.htm)**&gt;
-&gt;', instead of '[void](CppVoid.htm)
-[std::vector](CppVector.htm)&lt;[std::pair](CppPair.htm)&lt;[std::string](CppString.htm),**[int](CppInt.htm)**&gt;
-&gt;' ([void](CppVoid.htm) is used erroneously).
+'[std::vector](CppVector.md)&lt;[std::pair](CppPair.md)&lt;[std::string](CppString.htm),**[int](CppInt.htm)**&gt;
+&gt;', instead of '[void](CppVoid.md)
+[std::vector](CppVector.md)&lt;[std::pair](CppPair.md)&lt;[std::string](CppString.htm),**[int](CppInt.htm)**&gt;
+&gt;' ([void](CppVoid.md) is used erroneously).
 
  
 
@@ -108,7 +108,7 @@ Solution
 
  
 
-Remove the '[void](CppVoid.htm)' [keyword](CppKeyword.htm):
+Remove the '[void](CppVoid.md)' [keyword](CppKeyword.md):
 
  
 

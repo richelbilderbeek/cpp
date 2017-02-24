@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [stdio.h](CppStdioH.htm)
+([C++](Cpp.md)) [stdio.h](CppStdioH.md)
 =========================================
 
  
 
-[stdio.h](CppStdioH.htm) is the name of a C [header
-file](CppHeaderFile.htm). In [C++](Cpp.htm), use
-[cstdio.h](CppCstdioH.htm) instead.
+[stdio.h](CppStdioH.md) is the name of a C [header
+file](CppHeaderFile.md). In [C++](Cpp.md), use
+[cstdio.h](CppCstdioH.md) instead.
 
  
 

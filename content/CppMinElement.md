@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [MinElement](CppMinElement.htm)
+([C++](Cpp.md)) [MinElement](CppMinElement.md)
 ================================================
 
  
 
-[Container](CppContainer.htm) [code snippet](CppCodeSnippets.htm)
-similar to [std::min\_element](CppMin_element.htm), but that works on 2D
-[containers](CppContainer.htm) instead.
+[Container](CppContainer.md) [code snippet](CppCodeSnippets.md)
+similar to [std::min\_element](CppMin_element.md), but that works on 2D
+[containers](CppContainer.md) instead.
 
  
 
@@ -37,18 +37,18 @@ similar to [std::min\_element](CppMin_element.htm), but that works on 2D
 
  
 
-General version of [MinElement](CppMinElement.htm)
+General version of [MinElement](CppMinElement.md)
 --------------------------------------------------
 
  
 
-When using the [C++ Builder](CppBuilder.htm) 6.0 [IDE](CppIde.htm) the
+When using the [C++ Builder](CppBuilder.md) 6.0 [IDE](CppIde.md) the
 code compiles without problems.
 
-When using the [Qt Creator](CppQtCreator.htm) 1.3.1 [IDE](CppIde.htm)
-the code below results in the [compile error](CppCompileError.htm)
+When using the [Qt Creator](CppQtCreator.md) 1.3.1 [IDE](CppIde.md)
+the code below results in the [compile error](CppCompileError.md)
 ['Container::value\_type' is not a
-type](CppCompileErrorContainerValue_typeIsNotAtype.htm).
+type](CppCompileErrorContainerValue_typeIsNotAtype.md).
 
  
 
@@ -66,7 +66,7 @@ type](CppCompileErrorContainerValue_typeIsNotAtype.htm).
 
  
 
-[MinElement](CppMinElement.htm) test
+[MinElement](CppMinElement.md) test
 ------------------------------------
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [FORMS3 (qmake variable)](CppQmakeForms3.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [FORMS3 (qmake variable)](CppQmakeForms3.md)
 ===============================================================================
 
  
 
-[FORMS3](CppQmakeForms3.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[FORMS3](CppQmakeForms3.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

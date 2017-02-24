@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [AnsiString](CppAnsiString.htm)
+([C++](Cpp.md)) [AnsiString](CppAnsiString.md)
 ================================================
 
  
 
-[AnsiString](CppAnsiString.htm) is the [C++ Builder](CppBuilder.htm)
-equivalent of the standard [data type](CppDataType.htm)
-[std::string](CppString.htm).
+[AnsiString](CppAnsiString.md) is the [C++ Builder](CppBuilder.md)
+equivalent of the standard [data type](CppDataType.md)
+[std::string](CppString.md).
 
  
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::string](CppString.htm)
+([C++](Cpp.md)) [std::string](CppString.md)
 =============================================
 
  
 
-[std::string](CppString.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) for storing [char](CppChar.htm). Or: 'the
+[std::string](CppString.md) is an [STL](CppStl.md)
+[container](CppContainer.md) for storing [char](CppChar.md). Or: 'the
 thing you use for storing words'.
 
  
 
-The [definition](CppDefinition.htm) of [std::string](CppString.htm) is
-in [string.h](CppStringH.htm).
+The [definition](CppDefinition.md) of [std::string](CppString.md) is
+in [string.h](CppStringH.md).
 
  
 
@@ -34,8 +34,8 @@ in [string.h](CppStringH.htm).
 
  
 
-Prefer using [std::string](CppString.htm) over an [array](CppArray.htm)
-of [char](CppChar.htm) \[1\]\[2\]\[3\]\[4\].
+Prefer using [std::string](CppString.md) over an [array](CppArray.md)
+of [char](CppChar.md) \[1\]\[2\]\[3\]\[4\].
 
  
 
@@ -47,7 +47,7 @@ of [char](CppChar.htm) \[1\]\[2\]\[3\]\[4\].
 
  
 
-[std::string](CppString.htm) example
+[std::string](CppString.md) example
 ------------------------------------
 
  
@@ -66,92 +66,92 @@ of [char](CppChar.htm) \[1\]\[2\]\[3\]\[4\].
 
  
 
-[std::string](CppString.htm) [code snippets](CppCodeSnippets.htm)
+[std::string](CppString.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------------
 
  
 
 Note that among these are also the more general
-[container](CppContainer.htm) [code snippets](CppCodeSnippets.htm).
+[container](CppContainer.md) [code snippets](CppCodeSnippets.md).
 
  
 
-1.  [AnsiToStr, convert AnsiString to std::string](CppAnsiToStr.htm)
-2.  [Append two std::strings, Append](CppAppend.htm)
-3.  [Append, append two std::strings](CppAppend.htm)
+1.  [AnsiToStr, convert AnsiString to std::string](CppAnsiToStr.md)
+2.  [Append two std::strings, Append](CppAppend.md)
+3.  [Append, append two std::strings](CppAppend.md)
 4.  [Ask user to input a double,
-    AskUserForDouble](CppAskUserForDouble.htm)
+    AskUserForDouble](CppAskUserForDouble.md)
 5.  [Ask user to input a std::string,
-    AskUserForString](CppAskUserForString.htm)
+    AskUserForString](CppAskUserForString.md)
 6.  [AskUserForDouble, ask user to input a
-    double](CppAskUserForDouble.htm)
+    double](CppAskUserForDouble.md)
 7.  [AskUserForString, ask user to input a
-    std::string](CppAskUserForString.htm)
+    std::string](CppAskUserForString.md)
 8.  [Check if std::string can be converted to double,
-    IsDouble](CppIsDouble.htm)
+    IsDouble](CppIsDouble.md)
 9.  [Check if std::string can be converted to integer,
-    IsInt](CppIsInt.htm)
-10. [Convert AnsiString to std::string](CppAnsiToStr.htm)
-11. [Convert double to std::string](CppDoubleToStr.htm)
-12. [Convert integer to std::string](CppIntToStr.htm)
-13. [Convert std::string to AnsiString](CppStrToAnsi.htm)
-14. [Convert std::string to double](CppStrToDouble.htm)
-15. [Convert std::string to integer](CppStrToInt.htm)
-16. [Convert std::string to lower case](CppStrToLower.htm)
-17. [Convert std::string to upper case](CppStrToUpper.htm)
-18. [Convert std::string to WideString](CppStrToWide.htm)
-19. [Convert WideString to std::string](CppWideToStr.htm)
-20. [DoubleToStr, convert double to std::string](CppDoubleToStr.htm)
-21. [Find std::string in std::string](CppFindString.htm)
-22. [FindString, find std::string in std::string](CppFindString.htm)
-23. [Get the extension of a filename](CppGetExtension.htm)
-24. [Get the path of a filename, GetPath](CppGetPath.htm)
-25. [GetExtension, get the extension of a filename](CppGetExtension.htm)
+    IsInt](CppIsInt.md)
+10. [Convert AnsiString to std::string](CppAnsiToStr.md)
+11. [Convert double to std::string](CppDoubleToStr.md)
+12. [Convert integer to std::string](CppIntToStr.md)
+13. [Convert std::string to AnsiString](CppStrToAnsi.md)
+14. [Convert std::string to double](CppStrToDouble.md)
+15. [Convert std::string to integer](CppStrToInt.md)
+16. [Convert std::string to lower case](CppStrToLower.md)
+17. [Convert std::string to upper case](CppStrToUpper.md)
+18. [Convert std::string to WideString](CppStrToWide.md)
+19. [Convert WideString to std::string](CppWideToStr.md)
+20. [DoubleToStr, convert double to std::string](CppDoubleToStr.md)
+21. [Find std::string in std::string](CppFindString.md)
+22. [FindString, find std::string in std::string](CppFindString.md)
+23. [Get the extension of a filename](CppGetExtension.md)
+24. [Get the path of a filename, GetPath](CppGetPath.md)
+25. [GetExtension, get the extension of a filename](CppGetExtension.md)
 26. [GetLongestString, find the length of the std::string with the most
-    characters in a container](CppGetLongestStringLength.htm)
-27. [GetPath, get the path of a filename](CppGetPath.htm)
+    characters in a container](CppGetLongestStringLength.md)
+27. [GetPath, get the path of a filename](CppGetPath.md)
 28. [GetShortestString, find the length of the std::string with the
-    least characters in a container](CppGetShortestStringLength.htm)
-29. [IntToStr, convert integer to std::string](CppIntToStr.htm)
+    least characters in a container](CppGetShortestStringLength.md)
+29. [IntToStr, convert integer to std::string](CppIntToStr.md)
 30. [IsDouble, check if std::string can be converted to
-    double](CppIsDouble.htm)
+    double](CppIsDouble.md)
 31. [IsInt, check if std::string can be converted to
-    integer](CppIsInt.htm)
-32. [LoopReader, reading a container looped](CppLoopReader.htm)
-33. [Reading a container looped, LoopReader](CppLoopReader.htm)
-34. [Remove the extension of a filename](CppRemoveExtension.htm)
-35. [Remove the path of a filename, RemovePath](CppRemovePath.htm)
+    integer](CppIsInt.md)
+32. [LoopReader, reading a container looped](CppLoopReader.md)
+33. [Reading a container looped, LoopReader](CppLoopReader.md)
+34. [Remove the extension of a filename](CppRemoveExtension.md)
+35. [Remove the path of a filename, RemovePath](CppRemovePath.md)
 36. [RemoveExtension, remove the extension of a
-    filename](CppRemoveExtension.htm)
-37. [RemovePath, remove the path of a filename](CppRemovePath.htm)
+    filename](CppRemoveExtension.md)
+37. [RemovePath, remove the path of a filename](CppRemovePath.md)
 38. [Replace a substring by another in a certain std::string once,
-    ReplaceOnce](CppReplaceOnce.htm)
+    ReplaceOnce](CppReplaceOnce.md)
 39. [Replace all substrings by another in a certain std::string,
-    ReplaceAll](CppReplaceAll.htm)
+    ReplaceAll](CppReplaceAll.md)
 40. [ReplaceAll, replace all substrings by another in a certain
-    std::string](CppReplaceAll.htm)
+    std::string](CppReplaceAll.md)
 41. [ReplaceOnce, replace a substring by another in a certain
-    std::string once](CppReplaceOnce.htm)
-42. [ReverseString, reverse a std::string](CppReverseString.htm)
-43. [Reverse a std::string, ReverseString](CppReverseString.htm)
+    std::string once](CppReplaceOnce.md)
+42. [ReverseString, reverse a std::string](CppReverseString.md)
+43. [Reverse a std::string, ReverseString](CppReverseString.md)
 44. [Seperate a std::string into multiple std::strings, seperated by a
-    seperator](CppSeperateString.htm)
+    seperator](CppSeperateString.md)
 45. [SeperateString, seperate a std::string into multiple std::strings,
-    seperated by a seperator](CppSeperateString.htm)
-46. [SimplifyPath, simplify a path](CppSimplifyPath.htm)
-47. [StrToAnsi, convert std::string to AnsiString](CppStrToAnsi.htm)
-48. [StrToDouble, convert std::string to double](CppStrToDouble.htm)
-49. [StrToInt, convert std::string to integer](CppStrToInt.htm)
-50. [StrToLower, convert std::string to lower case](CppStrToLower.htm)
-51. [StrToUpper, convert std::string to upper case](CppStrToUpper.htm)
-52. [StrToWide, convert std::string to WideString](CppStrToWide.htm)
+    seperated by a seperator](CppSeperateString.md)
+46. [SimplifyPath, simplify a path](CppSimplifyPath.md)
+47. [StrToAnsi, convert std::string to AnsiString](CppStrToAnsi.md)
+48. [StrToDouble, convert std::string to double](CppStrToDouble.md)
+49. [StrToInt, convert std::string to integer](CppStrToInt.md)
+50. [StrToLower, convert std::string to lower case](CppStrToLower.md)
+51. [StrToUpper, convert std::string to upper case](CppStrToUpper.md)
+52. [StrToWide, convert std::string to WideString](CppStrToWide.md)
 53. [SumStringLength, sum the lengths of std::strings irn a
-    container](CppSumStringLength.htm)
+    container](CppSumStringLength.md)
 54. [Trim the leading and trailing spaces from a
-    std::string](CppTrim.htm)
+    std::string](CppTrim.md)
 55. [Trim, trim the leading and trailing spaces from a
-    std::string](CppTrim.htm)
-56. [WideToStr, convert WideString to std::string](CppWideToStr.htm)
+    std::string](CppTrim.md)
+56. [WideToStr, convert WideString to std::string](CppWideToStr.md)
 
  
 
@@ -183,24 +183,24 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Chapter 5.8.5:
     'Use string rather then zero-terminated arrays of char'.
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 77: 'Use vector and string instead of arrays'.
-3.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+3.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9. Item 13: 'Prefer vector and string to
     dynamically allocated arrays'
-4.  [Jarrod Hollingworth](CppJarrodHollingworth.htm), [Bob
-    Swart](CppBobSwart.htm), [Mark Cashman](CppMarkCashman.htm), [Paul
-    Gustavson](CppPaulGustavson.htm). Sams C++ Builder 6
+4.  [Jarrod Hollingworth](CppJarrodHollingworth.md), [Bob
+    Swart](CppBobSwart.md), [Mark Cashman](CppMarkCashman.md), [Paul
+    Gustavson](CppPaulGustavson.md). Sams C++ Builder 6
     Developer's Guide. ISBN: 0-672-32480-6. Chapter 3.1: 'Use a string
     class instead of char\*'
 

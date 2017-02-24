@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [QmakeErrorUnknownModulesInQtSvg](CppQmakeErrorUnknownModulesInQtSvg.htm)
+([C++](Cpp.md)) [QmakeErrorUnknownModulesInQtSvg](CppQmakeErrorUnknownModulesInQtSvg.md)
 ==========================================================================================
 
  
 
-[Unknown module(s) in QT: svg](CppQmakeErrorUnknownModulesInQtSvg.htm)
-is a [qmake error](CppQmakeError.htm).
+[Unknown module(s) in QT: svg](CppQmakeErrorUnknownModulesInQtSvg.md)
+is a [qmake error](CppQmakeError.md).
 
  
 
@@ -55,5 +55,5 @@ Solution:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

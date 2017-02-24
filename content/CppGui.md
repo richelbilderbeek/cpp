@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [GUI](CppGui.htm)
+([C++](Cpp.md)) [GUI](CppGui.md)
 ==================================
 
  
 
-[GUI](CppGui.htm) is an abbreviation of 'Graphical User Interface'.
-Console applications do not have a [GUI](CppGui.htm), programs running
+[GUI](CppGui.md) is an abbreviation of 'Graphical User Interface'.
+Console applications do not have a [GUI](CppGui.md), programs running
 in windows do.
 
  
 
-Some [libraries](CppLibrary.htm) for [GUI](CppGui.htm) design are
-[QT](CppQt.htm) (cross-platform) and [VCL](CppVcl.htm) (Windows).
+Some [libraries](CppLibrary.md) for [GUI](CppGui.md) design are
+[QT](CppQt.md) (cross-platform) and [VCL](CppVcl.md) (Windows).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Builder](CppDesignPatternBuilder.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Builder](CppDesignPatternBuilder.md) ([Design Pattern](CppDesignPattern.htm))
 ================================================================================================
 
  
 
-The [Builder](CppDesignPatternBuilder.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'seperate the construction of complex
+The [Builder](CppDesignPatternBuilder.md) is a [Design
+Pattern](CppDesignPattern.md) to 'seperate the construction of complex
 objects from its representation so that the same construction process
 can create different representations' \[1\]
 
@@ -32,14 +32,14 @@ can create different representations' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

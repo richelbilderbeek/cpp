@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [member variable](CppMemberVariable.htm)
+([C++](Cpp.md)) [member variable](CppMemberVariable.md)
 =========================================================
 
  
 
-A [member variable](CppMemberVariable.htm) is a type of [class
-member](CppMember.htm) for an in-[class](CppClass.htm)
-[variable](CppVariable.htm). For example, a Person [class](CppClass.htm)
-might have a [member variable](CppMemberVariable.htm) to hold a Person
+A [member variable](CppMemberVariable.md) is a type of [class
+member](CppMember.md) for an in-[class](CppClass.md)
+[variable](CppVariable.md). For example, a Person [class](CppClass.md)
+might have a [member variable](CppMemberVariable.md) to hold a Person
 his/her name.
 
  
@@ -31,10 +31,10 @@ his/her name.
 
  
 
-[LocalVersusGlobal](CppLocalVersusGlobal.htm) is a simple
-[benchmark](CppBenchmark.htm) that tests the speed of
-[local](CppLocal.htm) versus [member variables](CppMemberVariable.htm)
-versus [global](CppGlobal.htm) [variables](CppVariable.htm).
+[LocalVersusGlobal](CppLocalVersusGlobal.md) is a simple
+[benchmark](CppBenchmark.md) that tests the speed of
+[local](CppLocal.md) versus [member variables](CppMemberVariable.md)
+versus [global](CppGlobal.md) [variables](CppVariable.md).
 
  
 
@@ -46,18 +46,18 @@ versus [global](CppGlobal.htm) [variables](CppVariable.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   Use a consistent method (such as a d\_ prefix) to highlight [member
-    variables](CppMemberVariable.htm) \[1\]
--   [Declare](CppDeclaration.htm) [member
-    variables](CppMemberVariable.htm) [private](CppPrivate.htm) \[2-5\],
-    except in [POD](CppPod.htm)s \[4\]
--   Avoid [member variables](CppMemberVariable.htm) in [abstract
-    classes](AbstractClass.htm) \[6\]
+    variables](CppMemberVariable.md) \[1\]
+-   [Declare](CppDeclaration.md) [member
+    variables](CppMemberVariable.md) [private](CppPrivate.md) \[2-5\],
+    except in [POD](CppPod.md)s \[4\]
+-   Avoid [member variables](CppMemberVariable.md) in [abstract
+    classes](AbstractClass.md) \[6\]
 
  
 
@@ -69,28 +69,28 @@ versus [global](CppGlobal.htm) [variables](CppVariable.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.7: 'Use a consistent method
     (such as a d\_ prefix) to highlight class data members'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 22: Declare data members private.
-3.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+3.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 11: 'Hide information'.
-4.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+4.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 41: 'Make data members private, except in behaviourless
     aggregates (C-style structs).
-5.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+5.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0.
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 21.4.
     Advice. page 640: '\[2\] Avoid data members in base classes intended
     as interfaces'
@@ -114,5 +114,5 @@ versus [global](CppGlobal.htm) [variables](CppVariable.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

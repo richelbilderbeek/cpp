@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Time](CppTime.htm)
+([C++](Cpp.md)) [Time](CppTime.md)
 ====================================
 
  
 
-This page is about time in general, and less about the [STL](CppStl.htm)
-[function](CppFunction.htm) [std::time](CppTime.htm).
+This page is about time in general, and less about the [STL](CppStl.md)
+[function](CppFunction.md) [std::time](CppTime.md).
 
  
 
-When you need to work with time and dates, the [STL](CppStl.htm) or the
-[Boost.Date\_Time](CppDate_Time.htm) [libraries](CppLibrary.htm) can be
+When you need to work with time and dates, the [STL](CppStl.md) or the
+[Boost.Date\_Time](CppDate_Time.md) [libraries](CppLibrary.md) can be
 used.
 
  
@@ -36,29 +36,29 @@ used.
 
  
 
-[Time](CppTime.htm) [code snippets](CppCodeSnippets.htm)
+[Time](CppTime.md) [code snippets](CppCodeSnippets.md)
 --------------------------------------------------------
 
  
 
-1.  [Convert std::time\_t to std::string, TimeToStr](CppTimeToStr.htm)
+1.  [Convert std::time\_t to std::string, TimeToStr](CppTimeToStr.md)
 2.  [GetDateIso8601, get today's date in ISO 8601
-    format](CppGetDateIso8601.htm)
+    format](CppGetDateIso8601.md)
 3.  [GetLastModifiedTime, get last time a file was
-    modified](CppGetLastModifiedTime.htm)
-4.  [GetTime, get local time](CppGetTime.htm)
-5.  [GetTimestamp](CppGetTimestamp.htm), get a timestamp of today's date
+    modified](CppGetLastModifiedTime.md)
+4.  [GetTime, get local time](CppGetTime.md)
+5.  [GetTimestamp](CppGetTimestamp.md), get a timestamp of today's date
     and time
-6.  [GetToday, Get today's date](CppGetToday.htm)
+6.  [GetToday, Get today's date](CppGetToday.md)
 7.  [Get last time a file was modified,
-    GetLastModifiedTime](CppGetLastModifiedTime.htm)
-8.  [Get local time, GetTime](CppGetTime.htm)
-9.  [Get now's time, GetTime](CppGetTime.htm)
-10. [Get today's date, GetToday](CppGetToday.htm)
+    GetLastModifiedTime](CppGetLastModifiedTime.md)
+8.  [Get local time, GetTime](CppGetTime.md)
+9.  [Get now's time, GetTime](CppGetTime.md)
+10. [Get today's date, GetToday](CppGetToday.md)
 11. [Get today's date in ISO 8601 format,
-    GetDateIso8601](CppGetDateIso8601.htm)
-12. [Stopwatch, stopwatch class](CppStopwatch.htm)
-13. [TimeToStr, convert std::time\_t to std::string](CppTimeToStr.htm)
+    GetDateIso8601](CppGetDateIso8601.md)
+12. [Stopwatch, stopwatch class](CppStopwatch.md)
+13. [TimeToStr, convert std::time\_t to std::string](CppTimeToStr.md)
 
  
 
@@ -70,16 +70,16 @@ used.
 
  
 
-[STL](CppStl.htm) time [functions](CppFunction.htm) and [structs](CppStruct.htm)
+[STL](CppStl.md) time [functions](CppFunction.md) and [structs](CppStruct.htm)
 --------------------------------------------------------------------------------
 
  
 
--   [std::asctime](CppAsctime.htm)
--   [std::localtime](CppLocaltime.htm)
--   [std::time](CppTime.htm)
--   [std::time\_t](CppTime_t.htm)
--   [std::tm](CppTm.htm)
+-   [std::asctime](CppAsctime.md)
+-   [std::localtime](CppLocaltime.md)
+-   [std::time](CppTime.md)
+-   [std::time\_t](CppTime_t.md)
+-   [std::tm](CppTm.md)
 
  
 

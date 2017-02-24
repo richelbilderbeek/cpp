@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::fill](CppFill.htm)
+([C++](Cpp.md)) [std::fill](CppFill.md)
 =========================================
 
  
 
-[std::fill](CppFill.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to assign values to a
-[container](CppContainer.htm).
+[std::fill](CppFill.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to assign values to a
+[container](CppContainer.md).
 
  
 

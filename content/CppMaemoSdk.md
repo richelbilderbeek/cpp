@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Maemo](PicMaemo.png) [Maemo SDK](CppMaemoSdk.htm)
+([C++](Cpp.md)) ![Maemo](PicMaemo.png) [Maemo SDK](CppMaemoSdk.md)
 ====================================================================
 
  
 
-The [Maemo SDK](CppMaemoSdk.htm) is the [SDK](CppSdk.htm) to develop for
-the [Maemo](CppMaemo.htm) [platform](CppOs.htm).
+The [Maemo SDK](CppMaemoSdk.md) is the [SDK](CppSdk.md) to develop for
+the [Maemo](CppMaemo.md) [platform](CppOs.md).
 
  
 

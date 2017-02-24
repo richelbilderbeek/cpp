@@ -12,26 +12,26 @@
 
  
 
-([C++](Cpp.htm)) [ImageToAscii](CppImageToAscii.htm)
+([C++](Cpp.md)) [ImageToAscii](CppImageToAscii.md)
 ====================================================
 
  
 
-[ASCII art](CppAsciiArt.htm) [code snippet](CppCodeSnippets.htm) to
-convert a [VCL](CppVcl.htm) [TImage](CppTImage.htm) to a
-[std::vector](CppVector.htm) of [std::string](CppString.htm).
+[ASCII art](CppAsciiArt.md) [code snippet](CppCodeSnippets.md) to
+convert a [VCL](CppVcl.md) [TImage](CppTImage.md) to a
+[std::vector](CppVector.md) of [std::string](CppString.md).
 
  
 
-The [tool](Tools.htm) [AsciiArter](ToolAsciiArter.htm) demonstrates
-[ImageToAscii](CppImageToAscii.htm).
+The [tool](Tools.md) [AsciiArter](ToolAsciiArter.md) demonstrates
+[ImageToAscii](CppImageToAscii.md).
 
  
 
-[ImageToAscii](CppImageToAscii.htm) uses the
-[functions](CppFunction.htm)
-[GetAsciiArtGradient](CppGetAsciiArtGradient.htm) and
-[GetFractionGrey](CppGetFractionGrey.htm).
+[ImageToAscii](CppImageToAscii.md) uses the
+[functions](CppFunction.md)
+[GetAsciiArtGradient](CppGetAsciiArtGradient.md) and
+[GetFractionGrey](CppGetFractionGrey.md).
 
  
 

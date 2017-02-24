@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::cerr](CppCerr.htm)
+([C++](Cpp.md)) [std::cerr](CppCerr.md)
 =========================================
 
  
 
-[std::cerr](CppCerr.htm) (abbreviation of 'character error stream') is a
-[stream](CppStream.htm) for error information.
+[std::cerr](CppCerr.md) (abbreviation of 'character error stream') is a
+[stream](CppStream.md) for error information.
 
  
 
@@ -38,7 +38,7 @@ Screen output:
 
  
 
-[Qt Creator](CppQtCreator.htm) [IDE](CppIde.htm) output (while in
+[Qt Creator](CppQtCreator.md) [IDE](CppIde.md) output (while in
 debugging mode):
 
  

@@ -12,26 +12,22 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Asio](CppAsio.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Asio](CppAsio.md)
 ===========================================================
 
  
 
-The [Asio](CppAsio.htm) is a cross-platform [library](CppLibrary.htm)
-for networking and part of [Boost](CppBoost.htm).
+The [Asio](CppAsio.md) is a cross-platform [library](CppLibrary.md)
+for networking and part of [Boost](CppBoost.md).
 
  
 
-[Asio](CppAsio.htm) can be installed from the Ubuntu Software Center.
+[Asio](CppAsio.md) can be installed from the Ubuntu Software Center.
 
  
 
--   [1: chat server](CppAsioExample1.htm)
--   [2: chat client](CppAsioExample2.htm)
-
- 
-
- 
+-   [1: chat server](CppAsioExample1.md)
+-   [2: chat client](CppAsioExample2.md)
 
  
 
@@ -39,14 +35,18 @@ for networking and part of [Boost](CppBoost.htm).
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+ 
+
+ 
+
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent the [link error](CppLinkError.htm) [undefined reference to
-'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent the [link error](CppLinkError.md) [undefined reference to
+'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.md)):
 
  
 

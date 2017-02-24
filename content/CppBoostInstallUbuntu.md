@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Installing Boost under Ubuntu](CppBoostInstallUbuntu.htm)
+([C++](Cpp.md)) [Installing Boost under Ubuntu](CppBoostInstallUbuntu.md)
 ===========================================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[Installing Boost](CppBoostInstall.htm) under Ubuntu is easy: it can be
+[Installing Boost](CppBoostInstall.md) under Ubuntu is easy: it can be
 installed from the Ubuntu Software Center.
 
  

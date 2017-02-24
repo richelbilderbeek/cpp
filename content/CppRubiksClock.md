@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [RubiksClock](CppRubiksClock.htm)
+([C++](Cpp.md)) [RubiksClock](CppRubiksClock.md)
 ==================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[RubiksClock](CppRubiksClock.htm) is a [class](CppClass.htm) for a
+[RubiksClock](CppRubiksClock.md) is a [class](CppClass.md) for a
 Rubik's Clock.
 
 Technical facts
@@ -239,5 +239,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

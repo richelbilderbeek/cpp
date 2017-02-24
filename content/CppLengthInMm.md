@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [LengthInMm](CppLengthInMm.htm)
+([C++](Cpp.md)) [LengthInMm](CppLengthInMm.md)
 ================================================
 
  
@@ -98,5 +98,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

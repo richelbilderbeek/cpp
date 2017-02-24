@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [&"warning: GDB: Failed to set controlling terminal: Invalid argument\\n"](CppMiscErrorGdbFailedToSetControllingTerminal.htm)
+([C++](Cpp.md)) [&"warning: GDB: Failed to set controlling terminal: Invalid argument\\n"](CppMiscErrorGdbFailedToSetControllingTerminal.md)
 ==============================================================================================================================================
 
  
@@ -25,11 +25,11 @@
 
  
 
-[Error type](CppError.htm): [misc](CppMiscError.htm)
+[Error type](CppError.md): [misc](CppMiscError.md)
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.2.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
 Project type: Qt4 Console Application
 
@@ -104,9 +104,9 @@ Solution
 
  
 
-After installing [Qt Creator](CppQt.htm) 2.0 next to [Qt
-Creator](CppQt.htm) 1.2.1, this error did not occur anymore in [Qt
-Creator](CppQt.htm) 1.2.1.
+After installing [Qt Creator](CppQt.md) 2.0 next to [Qt
+Creator](CppQt.md) 1.2.1, this error did not occur anymore in [Qt
+Creator](CppQt.md) 1.2.1.
 
  
 

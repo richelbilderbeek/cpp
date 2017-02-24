@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [incomplete type](CppIncompleteType.htm)
+([C++](Cpp.md)) [incomplete type](CppIncompleteType.md)
 =========================================================
 
  
 
-An [incomplete type](CppIncompleteType.htm) is a [type](CppType.htm)
-that has been [declared](CppDeclaration.htm), but not
-[defined](CppDefinition.htm) \[1,2\].
+An [incomplete type](CppIncompleteType.md) is a [type](CppType.md)
+that has been [declared](CppDeclaration.md), but not
+[defined](CppDefinition.md) \[1,2\].
 
  
 
@@ -31,12 +31,12 @@ that has been [declared](CppDeclaration.htm), but not
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective Modern C++
+1.  [Scott Meyers](CppScottMeyers.md). Effective Modern C++
     (1st Edition). 2014. ISBN: 978-1-491-90399-5. Item 22, page 148: 'A
     type that has been declared, but not defined, is known as an
     incomplete type.'

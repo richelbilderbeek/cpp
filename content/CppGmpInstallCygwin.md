@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [How to install GMP under Cygwin (under Windows)?](CppGmpInstallCygwin.htm)
+([C++](Cpp.md)) [How to install GMP under Cygwin (under Windows)?](CppGmpInstallCygwin.md)
 ============================================================================================
 
  
 
-[Installing GMP](CppGmpInstall.htm) under [Cygwin](CppCygwin.htm) (under
+[Installing GMP](CppGmpInstall.md) under [Cygwin](CppCygwin.md) (under
 Windows) is indentical to [How to install GMP under
-Ubuntu?](CppGmpInstallUbuntu.htm). Copy the source files to your
-[Cygwin](CppCygwin.htm) home, and follow the steps in INSTALL.
+Ubuntu?](CppGmpInstallUbuntu.md). Copy the source files to your
+[Cygwin](CppCygwin.md) home, and follow the steps in INSTALL.
 
  
 
 If 'make' results in the [make error: colon
-expected](CppMakeErrorColonExpected.htm), follow the instructions on
+expected](CppMakeErrorColonExpected.md), follow the instructions on
 that page.
 
  

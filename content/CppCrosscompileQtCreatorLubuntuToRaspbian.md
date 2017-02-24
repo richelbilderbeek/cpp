@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![to](PicTo.png)![Raspbian](PicRaspbian.png) [How to cross-compile a Qt Creator project from Lubuntu to Raspbian?](CppCrossCompileQtCreatorLubuntuToRaspbian.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![to](PicTo.png)![Raspbian](PicRaspbian.png) [How to cross-compile a Qt Creator project from Lubuntu to Raspbian?](CppCrossCompileQtCreatorLubuntuToRaspbian.md)
 ===========================================================================================================================================================================================================================================
 
  
 
 [How to cross-compile a Qt Creator project from Lubuntu to
-Raspbian?](CppCrossCompileQtCreatorLubuntuToRaspbian.htm) describes hoe
-to [cross compile](CppCrossCompile.htm) a [Qt Creator](CppQtCreator.htm)
-project from [Lubuntu](CppLubuntu.htm) to [Raspbian](CppRaspbian.htm).
+Raspbian?](CppCrossCompileQtCreatorLubuntuToRaspbian.md) describes hoe
+to [cross compile](CppCrossCompile.md) a [Qt Creator](CppQtCreator.md)
+project from [Lubuntu](CppLubuntu.md) to [Raspbian](CppRaspbian.md).
 
 http://www.kitware.com/blog/home/post/426 Downloaded wget
 http://crosstool-ng.org/download/crosstool-ng/crosstool-ng-1.18.0.tar.bz2

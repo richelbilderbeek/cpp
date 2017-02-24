@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QMouseEvent](CppQMouseEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QMouseEvent](CppQMouseEvent.md)
 ===================================================================
 
  
 
-[QMouseEvent](CppQMouseEvent.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QMouseEvent](CppQMouseEvent.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

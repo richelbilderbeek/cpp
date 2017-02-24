@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [undefined reference to 'boost::basic\_regex&lt;char, boost::regex\_traits&lt;char, boost::cpp\_regex\_traits&lt;char&gt; &gt; &gt;::do\_assign(char const\*, char const\*, unsigned int)'](CppLinkErrorUndefinedReferenceToBoostBasic_regexDo_assign.htm)
+([C++](Cpp.md)) [undefined reference to 'boost::basic\_regex&lt;char, boost::regex\_traits&lt;char, boost::cpp\_regex\_traits&lt;char&gt; &gt; &gt;::do\_assign(char const\*, char const\*, unsigned int)'](CppLinkErrorUndefinedReferenceToBoostBasic_regexDo_assign.md)
 ===========================================================================================================================================================================================================================================================================
 
  
 
-[link error](CppLinkError.htm).
+[link error](CppLinkError.md).
 
  
 
@@ -55,15 +55,15 @@ Cause
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Console Application
+[Project type](CppQtProjectType.md): Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
+-   [Boost](CppBoost.md): version 1.40
 
  
 
@@ -80,7 +80,7 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -123,8 +123,8 @@ Solution
 
  
 
-Add the following line to the [Qt Creator](CppQtCreator.htm) [project
-file](CppQtProjectFile.htm):
+Add the following line to the [Qt Creator](CppQtCreator.md) [project
+file](CppQtProjectFile.md):
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::equal](CppEqual.htm)
+([C++](Cpp.md)) [std::equal](CppEqual.md)
 ===========================================
 
  
 
-[std::equal](CppEqual.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to compare two ranges for equality.
+[std::equal](CppEqual.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to compare two ranges for equality.
 
  
 

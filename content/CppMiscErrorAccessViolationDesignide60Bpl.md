@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Access violation in module 'designide60.bpl'](CppMiscErrorAccessViolationDesignide60Bpl.htm)
+([C++](Cpp.md)) [Access violation in module 'designide60.bpl'](CppMiscErrorAccessViolationDesignide60Bpl.md)
 ==============================================================================================================
 
  
@@ -25,13 +25,13 @@
 
  
 
-[Error type](CppError.htm): [misc](CppMiscError.htm)
+[Error type](CppError.md): [misc](CppMiscError.md)
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0 Enterprise edition
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0 Enterprise edition
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
@@ -106,7 +106,7 @@ Solution
 
  
 
-Restart [C++ Builder](CppBuilder.htm).
+Restart [C++ Builder](CppBuilder.md).
 
  
 

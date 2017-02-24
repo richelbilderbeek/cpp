@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ToggleButton](CppToggleButton.htm)
+([C++](Cpp.md)) [ToggleButton](CppToggleButton.md)
 ====================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[ToggleButton](CppToggleButton.htm) is a [class](CppClass.htm) for a
+[ToggleButton](CppToggleButton.md) is a [class](CppClass.md) for a
 toggle button.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

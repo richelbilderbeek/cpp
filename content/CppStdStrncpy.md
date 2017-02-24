@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::strncpy](CppStrncpy.htm)
+([C++](Cpp.md)) [std::strncpy](CppStrncpy.md)
 ===============================================
 
  
 
-[std::strncpy](CppStrncpy.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to copy a number of characters of a C-style
+[std::strncpy](CppStrncpy.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to copy a number of characters of a C-style
 string.
 
  
 
-[std::strncpy](CppStrncpy.htm) is [defined](CppDefinition.htm) in the
-[cstring.h](CppCstringH.htm) [header file](CppHeaderFile.htm).
+[std::strncpy](CppStrncpy.md) is [defined](CppDefinition.md) in the
+[cstring.h](CppCstringH.md) [header file](CppHeaderFile.md).
 
  
 
@@ -34,7 +34,7 @@ string.
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  

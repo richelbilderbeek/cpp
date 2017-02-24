@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [FileToStringList](CppFileToStringList.htm)
+([C++](Cpp.md)) [FileToStringList](CppFileToStringList.md)
 ============================================================
 
  
 
-[FileToStringList](CppFileToStringList.htm) is a [file
-I/O](CppFileIo.htm) [code snippet](CppCodeSnippets.htm) to obtain the
+[FileToStringList](CppFileToStringList.md) is a [file
+I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md) to obtain the
 contents of a file as a TStringList.
 
  

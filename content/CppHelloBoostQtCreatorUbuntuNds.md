@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![NDS](PicNds.png) ['Hello Boost' using Qt Creator under Ubuntu](CppHelloBoostQtCreatorUbuntu.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![NDS](PicNds.png) ['Hello Boost' using Qt Creator under Ubuntu](CppHelloBoostQtCreatorUbuntu.md)
 ================================================================================================================================================================================================
 
  
 
-[Hello Boost](CppHelloBoost.htm) is an extension of [Hello
-World](CppHelloWorld.htm). Like [Hello World](CppHelloWorld.htm), [Hello
-Boost](CppHelloBoost.htm) is a simple console application. [Hello
-Boost](CppHelloBoost.htm), however, also requires the
-[Boost](CppBoost.htm) [library](CppLibrary.htm) and to
-[link](CppLink.htm) against the [Boost.Regex](CppRegex.htm)
-[library](CppLibrary.htm).
+[Hello Boost](CppHelloBoost.md) is an extension of [Hello
+World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md), [Hello
+Boost](CppHelloBoost.md) is a simple console application. [Hello
+Boost](CppHelloBoost.md), however, also requires the
+[Boost](CppBoost.md) [library](CppLibrary.md) and to
+[link](CppLink.md) against the [Boost.Regex](CppRegex.md)
+[library](CppLibrary.md).
 
  
 
@@ -45,30 +45,28 @@ Project environment
 
  
 
--   ![NDS](PicNds.png) [NDS](CppNds.htm)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.04 LTS Lucid
+-   ![NDS](PicNds.png) [NDS](CppNds.md)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.04 LTS Lucid
     Lynx
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.40
--   ![libnds](PicLibnds.png) [libnds](CppLibnds.htm): version 1.4.7
--   ![STL](PicStl.png) [STL](CppStl.htm): from [GCC](CppGcc.htm),
-    shipped with [Qt Creator](CppQt.htm) 2.0.0
-
- 
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.40
+-   ![libnds](PicLibnds.png) [libnds](CppLibnds.md): version 1.4.7
+-   ![STL](PicStl.png) [STL](CppStl.md): from [GCC](CppGcc.md),
+    shipped with [Qt Creator](CppQt.md) 2.0.0
 
  
 
@@ -78,7 +76,9 @@ Project environment
 
  
 
-[Project file](CppQtProjectFile.htm)
+ 
+
+[Project file](CppQtProjectFile.md)
 ------------------------------------
 
  
@@ -95,7 +95,7 @@ Project environment
 
  
 
-[Makefile](CppMakefile.htm)
+[Makefile](CppMakefile.md)
 ---------------------------
 
  
@@ -119,8 +119,8 @@ Process
 
  
 
-The project was made from the command line using [make](CppMake.htm) on
-the [makefile](CppMakefile.htm) above. The project has a complex
+The project was made from the command line using [make](CppMake.md) on
+the [makefile](CppMakefile.md) above. The project has a complex
 directory structure, and both the ...
 
  

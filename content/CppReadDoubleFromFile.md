@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [ReadDoubleFromFile](CppReadDoubleFromFile.htm)
+([C++](Cpp.md)) [ReadDoubleFromFile](CppReadDoubleFromFile.md)
 ================================================================
 
  
 
-[File I/O](CppFileIo.htm) [code snippets](CppCodeSnippets.htm) to read
-the first line of a file and [convert](CppConvert.htm) it to a
-[double](CppDouble.htm).
+[File I/O](CppFileIo.md) [code snippets](CppCodeSnippets.md) to read
+the first line of a file and [convert](CppConvert.md) it to a
+[double](CppDouble.md).
 
  
 

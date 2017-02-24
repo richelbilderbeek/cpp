@@ -12,48 +12,48 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [cstring.h](CppCstringH.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [cstring.h](CppCstringH.md)
 ====================================================================
 
  
 
-[cstring.h](CppCstringH.htm) is a standard [header
-file](CppHeaderFile.htm)
+[cstring.h](CppCstringH.md) is a standard [header
+file](CppHeaderFile.md)
 
  
 
-[cstring.h](CppCstringH.htm) contains the
-[definitions](CppDefinition.htm) of (list and descriptions from \[1\]):
+[cstring.h](CppCstringH.md) contains the
+[definitions](CppDefinition.md) of (list and descriptions from \[1\]):
 
  
 
 -   NULL
--   [std::memchr](CppMemchr.htm): locate character in block of memory
--   [std::memcmp](CppMemcmp.htm): compare two blocks of memory
--   [std::memcpy](CppMemcpy.htm): copy block of memory
--   [std::memmove](CppMemmove.htm): move block of memory
--   [std::memset](CppMemset.htm): fill block of memory
--   [std::size\_t](CppSize_t.htm): unsigned integral type
--   [std::strcat](CppStrcat.htm): concatenate strings
--   [std::strchr](CppStrchr.htm): locate first occurrence of character
+-   [std::memchr](CppMemchr.md): locate character in block of memory
+-   [std::memcmp](CppMemcmp.md): compare two blocks of memory
+-   [std::memcpy](CppMemcpy.md): copy block of memory
+-   [std::memmove](CppMemmove.md): move block of memory
+-   [std::memset](CppMemset.md): fill block of memory
+-   [std::size\_t](CppSize_t.md): unsigned integral type
+-   [std::strcat](CppStrcat.md): concatenate strings
+-   [std::strchr](CppStrchr.md): locate first occurrence of character
     in string
--   [std::strcmp](CppStrcmp.htm): compare two strings
--   [std::strcoll](CppStrcoll.htm): compare two strings using locale
--   [std::strcpy](CppStrcpy.htm): copy string
--   [std::strcspn](CppStrcspn.htm): get span until character in string
--   [std::strerror](CppStrerror.htm): get pointer to error message
+-   [std::strcmp](CppStrcmp.md): compare two strings
+-   [std::strcoll](CppStrcoll.md): compare two strings using locale
+-   [std::strcpy](CppStrcpy.md): copy string
+-   [std::strcspn](CppStrcspn.md): get span until character in string
+-   [std::strerror](CppStrerror.md): get pointer to error message
     string
--   [std::strlen](CppStrlen.htm): get string length
--   [std::strncat](CppStrncat.htm): append characters from string
--   [std::strncmp](CppStrncmp.htm): compare characters of two strings
--   [std::strncpy](CppStrncpy.htm): copy characters from string
--   [std::strpbrk](CppStrpbrk.htm): locate characters in string
--   [std::strrchr](CppStrrchr.htm): locate last occurrence of character
+-   [std::strlen](CppStrlen.md): get string length
+-   [std::strncat](CppStrncat.md): append characters from string
+-   [std::strncmp](CppStrncmp.md): compare characters of two strings
+-   [std::strncpy](CppStrncpy.md): copy characters from string
+-   [std::strpbrk](CppStrpbrk.md): locate characters in string
+-   [std::strrchr](CppStrrchr.md): locate last occurrence of character
     in string
--   [std::strrspn](CppStrspn.htm): get span of character set in string
--   [std::strstr](CppStrstr.htm): locate substring
--   [std::strtok](CppStrtok.htm): split string into tokens
--   [std::strxfrm](CppStrxfrm.htm): transform string using locale
+-   [std::strrspn](CppStrspn.md): get span of character set in string
+-   [std::strstr](CppStrstr.md): locate substring
+-   [std::strtok](CppStrtok.md): split string into tokens
+-   [std::strxfrm](CppStrxfrm.md): transform string using locale
 
  
 
@@ -65,7 +65,7 @@ file](CppHeaderFile.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

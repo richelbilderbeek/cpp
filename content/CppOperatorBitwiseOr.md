@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator|](CppOperatorBitwiseOr.htm)
+([C++](Cpp.md)) [operator|](CppOperatorBitwiseOr.md)
 ======================================================
 
  
 
-[operator|](CppOperatorBitwiseOr.htm) (pronounces as 'bitwise or
-[operator](CppOperator.htm)') is an [operator](CppOperator.htm) to
+[operator|](CppOperatorBitwiseOr.md) (pronounces as 'bitwise or
+[operator](CppOperator.md)') is an [operator](CppOperator.md) to
 perform bitwise or operations. The example below shows how to
 reconstruct a truth table:
 

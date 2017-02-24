@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::inner\_product](CppStdInner_product.htm)
+([C++](Cpp.md)) [std::inner\_product](CppStdInner_product.md)
 ===============================================================
 
  
 
-[std::inner\_product](CppStdInner_product.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to calculate the inner product of one or
-two [containers](CppContainer.htm), but can be used to do other
+[std::inner\_product](CppStdInner_product.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to calculate the inner product of one or
+two [containers](CppContainer.md), but can be used to do other
 operations than (!) summing the results, and (2) multiplying the
 pairwise elements.
 

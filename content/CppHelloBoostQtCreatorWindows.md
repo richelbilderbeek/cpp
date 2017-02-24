@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) ['Hello Boost' using Qt Creator under Windows](CppHelloBoostQtCreatorWindows.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) ['Hello Boost' using Qt Creator under Windows](CppHelloBoostQtCreatorWindows.md)
 ==================================================================================================================================================================================
 
  
 
-[Hello Boost](CppHelloBoost.htm) is an extension of [Hello
-World](CppHelloWorld.htm). Like [Hello World](CppHelloWorld.htm), [Hello
-Boost](CppHelloBoost.htm) is a simple console application. [Hello
-Boost](CppHelloBoost.htm), however, also requires the
-[Boost](CppBoost.htm) [library](CppLibrary.htm) and to
-[link](CppLink.htm) against the [Boost.Regex](CppRegex.htm)
-[library](CppLibrary.htm).
+[Hello Boost](CppHelloBoost.md) is an extension of [Hello
+World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md), [Hello
+Boost](CppHelloBoost.md) is a simple console application. [Hello
+Boost](CppHelloBoost.md), however, also requires the
+[Boost](CppBoost.md) [library](CppLibrary.md) and to
+[link](CppLink.md) against the [Boost.Regex](CppRegex.md)
+[library](CppLibrary.md).
 
  
 
@@ -44,19 +44,17 @@ Boost](CppHelloBoost.htm), however, also requires the
 
 Operating system: Windows XP
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -66,7 +64,9 @@ Operating system: Windows XP
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

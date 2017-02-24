@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtEntrance](CppWtEntrance.htm)
+([C++](Cpp.md)) [WtEntrance](CppWtEntrance.md)
 ================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtEntrance](CppWtEntrance.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) to manage user logins.
+[WtEntrance](CppWtEntrance.md) is a [Wt](CppWt.md)
+[class](CppClass.md) to manage user logins.
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

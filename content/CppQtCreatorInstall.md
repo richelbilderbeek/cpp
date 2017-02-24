@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png) [How to install Qt Creator?](CppQtCreatorInstall.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png) [How to install Qt Creator?](CppQtCreatorInstall.md)
 ======================================================================================================
 
  
 
-[Qt FAQ page](CppQtFaq.htm) about how to install [Qt
-Creator](CppQtCreator.htm), depending on the operating
+[Qt FAQ page](CppQtFaq.md) about how to install [Qt
+Creator](CppQtCreator.md), depending on the operating
 system/environment:
 
 -   ![Cygwin](PicCygwin.png) [How to install Qt Creator under
-    Cygwin?](CppQtCreatorInstallCygwin.htm)
+    Cygwin?](CppQtCreatorInstallCygwin.md)
 -   ![Ubuntu](PicUbuntu.png) [How to install Qt Creator under
-    Ubuntu?](CppQtCreatorInstallUbuntu.htm)
+    Ubuntu?](CppQtCreatorInstallUbuntu.md)
 -   ![Windows](PicWindows.png) [How to install Qt Creator under
-    Windows?](CppQtCreatorInstallWindows.htm)
+    Windows?](CppQtCreatorInstallWindows.md)
 
  
 

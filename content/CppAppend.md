@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Append](CppAppend.htm)
+([C++](Cpp.md)) [Append](CppAppend.md)
 ========================================
 
  
 
-Appends two containers using the [algorithm](CppAlgorithm.htm)
-[std::copy](CppCopy.htm) and a
-[std::back\_inserter](CppBack_inserter.htm)
+Appends two containers using the [algorithm](CppAlgorithm.md)
+[std::copy](CppCopy.md) and a
+[std::back\_inserter](CppBack_inserter.md)
 
  
 

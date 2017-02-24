@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [trigraph](CppTrigraph.htm)
+([C++](Cpp.md)) [trigraph](CppTrigraph.md)
 ============================================
 
  
 
-A [trigraph](CppTrigraph.htm) is a three-character-combinatition to
+A [trigraph](CppTrigraph.md) is a three-character-combinatition to
 replace certain characters.
 
  
@@ -36,7 +36,7 @@ replace certain characters.
 
  
 
-[Hello World](CppHelloWorld.htm) with [trigraphs](CppTrigraph.htm)
+[Hello World](CppHelloWorld.md) with [trigraphs](CppTrigraph.md)
 ------------------------------------------------------------------
 
  
@@ -55,13 +55,13 @@ replace certain characters.
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [Qt project file](CppQtProjectFile.htm)
-to enable [trigraphs](CppTrigraph.htm):
+Add the following line to your [Qt project file](CppQtProjectFile.md)
+to enable [trigraphs](CppTrigraph.md):
 
  
 

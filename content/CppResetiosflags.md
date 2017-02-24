@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::resetiosflags](CppResetiosflags.htm)
+([C++](Cpp.md)) [std::resetiosflags](CppResetiosflags.md)
 ===========================================================
 
  
 
-[std::resetiosflags](CppResetiosflags.htm) is an [STL](CppStl.htm)
+[std::resetiosflags](CppResetiosflags.md) is an [STL](CppStl.md)
 stream manipulator to toggle a std::ios flag.
 
  
@@ -60,5 +60,5 @@ Screen output:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

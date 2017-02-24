@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WAnchor](CppWAnchor.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WAnchor](CppWAnchor.md)
 ===============================================================
 
  
 
-[Wt::WAnchor](CppWAnchor.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WAnchor](CppWAnchor.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a timer.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WAnchor](CppWAnchor.htm) is used in, among others:
+[Wt::WAnchor](CppWAnchor.md) is used in, among others:
 
 -   ...
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Unresolved external 'std::\_String\_base::\_Xlen() const' referenced from C:\\...\\CBUILDER6\\LIB\\LIBBOOST\_REGEX-BCB-1\_38.LIB|cpp\_regex\_traits](CppLinkErrorUnresolvedExternalStd_String_base_Xlen.htm)
+([C++](Cpp.md)) [Unresolved external 'std::\_String\_base::\_Xlen() const' referenced from C:\\...\\CBUILDER6\\LIB\\LIBBOOST\_REGEX-BCB-1\_38.LIB|cpp\_regex\_traits](CppLinkErrorUnresolvedExternalStd_String_base_Xlen.md)
 ==============================================================================================================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: Console Application, [VCL](CppVcl.htm) disabled,
-[CLX](CppClx.htm) disabled, multithreading disabled
+Project type: Console Application, [VCL](CppVcl.md) disabled,
+[CLX](CppClx.md) disabled, multithreading disabled
 
 Boost version: 1.38.0
 
@@ -62,7 +62,7 @@ Cause
 
  
 
-[Link error](CppLinkError.htm) appears when trying to execute the
+[Link error](CppLinkError.md) appears when trying to execute the
 following code:
 
  

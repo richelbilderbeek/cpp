@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [constexpr](CppConstexpr.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [constexpr](CppConstexpr.md)
 =====================================================================
 
  
 
-[constexpr](CppConstexpr.htm) is a [C++11](Cpp11.htm)
-[keyword](CppKeyword.htm) for generalized constant expressions. In other
-words, [constexpr](CppConstexpr.htm) indicates that an expression will
-always [return](CppReturn.htm) the same values, thus rendering this
-[return](CppReturn.htm) value a compile-time constant.
+[constexpr](CppConstexpr.md) is a [C++11](Cpp11.md)
+[keyword](CppKeyword.md) for generalized constant expressions. In other
+words, [constexpr](CppConstexpr.md) indicates that an expression will
+always [return](CppReturn.md) the same values, thus rendering this
+[return](CppReturn.md) value a compile-time constant.
 
  
 
@@ -33,13 +33,13 @@ always [return](CppReturn.htm) the same values, thus rendering this
 
  
 
-[Examples](CppExamples.htm)
+[Examples](CppExamples.md)
 ---------------------------
 
  
 
 -   [constexpr example 1: use constexpr to set an array its
-    size](CppConstexprExample1.htm)
+    size](CppConstexprExample1.md)
 
  
 
@@ -51,7 +51,7 @@ always [return](CppReturn.htm) the same values, thus rendering this
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
@@ -68,18 +68,18 @@ always [return](CppReturn.htm) the same values, thus rendering this
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
 1.  [GCC page about C++0x
     support](http://gcc.gnu.org/projects/cxx0x.html)
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
     Advice. page 341: '\[5\] If a function may have to be evaluated at
     compile time, declare it constexpr'
-3.  [Scott Meyers](CppScottMeyers.htm). Effective Modern C++
+3.  [Scott Meyers](CppScottMeyers.md). Effective Modern C++
     (1st Edition). 2014. ISBN: 978-1-491-90399-5. Item 15 'Use constexpr
     whenever possible'
 

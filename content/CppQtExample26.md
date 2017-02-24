@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtExample26](CppQtExample26.htm)
+([C++](Cpp.md)) [QtExample26](CppQtExample26.md)
 ==================================================
 
  
@@ -22,15 +22,15 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Ubuntu](PicUbuntu.png)
 
  
 
-[Qt example 26: create a text positioning widget](CppQtExample26.htm) is
+[Qt example 26: create a text positioning widget](CppQtExample26.md) is
 an elaboration of [Qt example 24: create a simple text positioning
-widget](CppQtExample24.htm). This [Qt Example](CppQtExample.htm) that
-uses [QGraphicsView](CppQGraphicsView.htm) to create a simple text
-positioning [widget](CppWidget.htm): in the
-[constructor](CppConstructor.htm) the different
-[std::strings](CppStdString.htm) are specified, upon which the
-[widget](CppWidget.htm) puts these overlapping in the center. Then, the
-[std::strings](CppStdString.htm) can dragged.
+widget](CppQtExample24.md). This [Qt Example](CppQtExample.md) that
+uses [QGraphicsView](CppQGraphicsView.md) to create a simple text
+positioning [widget](CppWidget.md): in the
+[constructor](CppConstructor.md) the different
+[std::strings](CppStdString.md) are specified, upon which the
+[widget](CppWidget.md) puts these overlapping in the center. Then, the
+[std::strings](CppStdString.md) can dragged.
 
  
 
@@ -56,35 +56,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -97,7 +97,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppQtExample26/CppQtExample26.pro
+[Qt project file](CppQtProjectFile.md): ./CppQtExample26/CppQtExample26.pro
 ----------------------------------------------------------------------------
 
  
@@ -258,5 +258,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

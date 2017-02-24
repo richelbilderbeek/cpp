@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.htm)
+([C++](Cpp.md)) [Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.md)
 ================================================================================
 
  
 
-[Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.htm) is a
-[Flood](CppFlood.htm) [data type](CppDataType.htm) for a multilayer
+[Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.md) is a
+[Flood](CppFlood.md) [data type](CppDataType.md) for a multilayer
 perceptron.
 
  
@@ -31,12 +31,12 @@ perceptron.
 
  
 
-[Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.htm) bug
+[Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.md) bug
 -------------------------------------------------------------------
 
  
 
-Note: this bug is known to the author of [Flood](CppFlood.htm) and he
+Note: this bug is known to the author of [Flood](CppFlood.md) and he
 kindly delivered the following patch: [download the patch of this
 bug](CppFloodMultilayerPerceptron.patch).
 
@@ -55,17 +55,15 @@ below.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Flood](CppFlood.htm): version 3
-
- 
+-   [Flood](CppFlood.md): version 3
 
  
 
@@ -75,7 +73,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

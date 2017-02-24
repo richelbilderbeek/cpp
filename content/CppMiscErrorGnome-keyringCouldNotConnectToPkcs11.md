@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [gnome-keyring:: couldn't connect to: /run/user/richel/keyring-tyuu40/pkcs11](CppMiscErrorGnome-keyringCouldNotConnectToPkcs11.htm)
+([C++](Cpp.md)) [gnome-keyring:: couldn't connect to: /run/user/richel/keyring-tyuu40/pkcs11](CppMiscErrorGnome-keyringCouldNotConnectToPkcs11.md)
 ====================================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -63,5 +63,5 @@ Solution
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::priority\_queue](CppPriority_queue.htm)
+([C++](Cpp.md)) [std::priority\_queue](CppPriority_queue.md)
 ==============================================================
 
  
 
-[std::priority\_queue](CppPriority_queue.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) that stores elements in a sorted order.
+[std::priority\_queue](CppPriority_queue.md) is an [STL](CppStl.md)
+[container](CppContainer.md) that stores elements in a sorted order.
 
  
 

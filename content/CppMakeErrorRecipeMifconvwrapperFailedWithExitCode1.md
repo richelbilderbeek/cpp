@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [make error: FAILED mifconvwrapper for arm.v5.udeb.gcce4\_4\_1: BITMAP](CppMakeErrorRecipeMifconvwrapperFailedWithExitCode1.htm)
+([C++](Cpp.md)) [make error: FAILED mifconvwrapper for arm.v5.udeb.gcce4\_4\_1: BITMAP](CppMakeErrorRecipeMifconvwrapperFailedWithExitCode1.md)
 =================================================================================================================================================
 
  
 
-[Make error](CppMakeError.htm).
+[Make error](CppMakeError.md).
 
  
 
@@ -96,33 +96,33 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Mobile](PicMobile.png) [Mobile
-    application](CppMobileApplication.htm)
+    application](CppMobileApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.htm): deploying,
+-   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.md): deploying,
     Nokia N8
--   ![Windows](PicWindows.png) [Windows](CppWindows.htm) XP: compiling
+-   ![Windows](PicWindows.png) [Windows](CppWindows.md) XP: compiling
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  
@@ -135,7 +135,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppQtCreatorSymbian3NokiaN8Logging.pro
+[Qt project file](CppQtProjectFile.md): CppQtCreatorSymbian3NokiaN8Logging.pro
 -------------------------------------------------------------------------------
 
  
@@ -211,7 +211,7 @@ mainwindow.h
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

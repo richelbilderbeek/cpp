@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [DeleteFile](CppDeleteFile.htm)
+([C++](Cpp.md)) [DeleteFile](CppDeleteFile.md)
 ================================================
 
  
 
-[DeleteFile](CppDeleteFile.htm) is a [file I/O](CppFileIo.htm) [code
-snippet](CppCodeSnippets.htm) to delete a file.
+[DeleteFile](CppDeleteFile.md) is a [file I/O](CppFileIo.md) [code
+snippet](CppCodeSnippets.md) to delete a file.
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [atomic.h](CppAtomicH.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [atomic.h](CppAtomicH.md)
 ==================================================================
 
  
 
-[atomic.h](CppAtomicH.htm) is a standard [header
-file](CppHeaderFile.htm) (since the [C++11](Cpp11.htm)
-[standard](CppStandard.htm)).
+[atomic.h](CppAtomicH.md) is a standard [header
+file](CppHeaderFile.md) (since the [C++11](Cpp11.md)
+[standard](CppStandard.md)).
 
  
 

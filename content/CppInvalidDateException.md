@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::InvalidDateException](CppInvalidDateException.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::InvalidDateException](CppInvalidDateException.md)
 =========================================================================================
 
  
 
-[Wt::InvalidDateException](CppInvalidDateException.htm) is a
-[Wt](CppWt.htm) [class](CppClass.htm) for a timer.
+[Wt::InvalidDateException](CppInvalidDateException.md) is a
+[Wt](CppWt.md) [class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::InvalidDateException](CppInvalidDateException.htm) is used in,
+[Wt::InvalidDateException](CppInvalidDateException.md) is used in,
 among others:
 
 -   ...

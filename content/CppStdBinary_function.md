@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::binary\_function](CppStdBinary_function.htm)
+([C++](Cpp.md)) [std::binary\_function](CppStdBinary_function.md)
 ===================================================================
 
  
 
-[std::binary\_function](CppStdBinary_function.htm) is deprecated \[1\].
+[std::binary\_function](CppStdBinary_function.md) is deprecated \[1\].
 
  
 
@@ -29,7 +29,7 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

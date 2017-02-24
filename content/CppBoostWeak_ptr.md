@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [boost::weak\_ptr](CppBoostWeak_ptr.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [boost::weak\_ptr](CppBoostWeak_ptr.md)
 ================================================================================
 
  
 
-[boost::weak\_ptr](CppBoostWeak_ptr.htm) is a [Boost](CppBoost.htm)
-[smart pointer](CppSmartPointer.htm) [class](CppClass.htm) that 'stores
+[boost::weak\_ptr](CppBoostWeak_ptr.md) is a [Boost](CppBoost.md)
+[smart pointer](CppSmartPointer.md) [class](CppClass.md) that 'stores
 a "weak reference" to an object that's already managed by a
-[shared\_ptr](CppBoostShared_ptr.htm)..' \[1\].
+[shared\_ptr](CppBoostShared_ptr.md)..' \[1\].
 
  
 
-[boost::weak\_ptr](CppBoostWeak_ptr.htm) can be used to obtain a
-read-only [pointer](CppPointer.htm) from a
-[boost::shared\_ptr](CppBoostShared_ptr.htm) that detects if the
-original [boost::shared\_ptr](CppBoostShared_ptr.htm) still exists.
+[boost::weak\_ptr](CppBoostWeak_ptr.md) can be used to obtain a
+read-only [pointer](CppPointer.md) from a
+[boost::shared\_ptr](CppBoostShared_ptr.md) that detects if the
+original [boost::shared\_ptr](CppBoostShared_ptr.md) still exists.
 
  
 
@@ -42,7 +42,7 @@ Examples
 
  
 
--   [boost::weak\_ptr example 1](CppBoostWeak_ptrExample1.htm)
+-   [boost::weak\_ptr example 1](CppBoostWeak_ptrExample1.md)
 
  
 
@@ -54,13 +54,13 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
 1.  [Boost boost::weak\_ptr
-    documentation](http://www.boost.org/doc/libs/1_42_0/libs/smart_ptr/weak_ptr.htm)
+    documentation](http://www.boost.org/doc/libs/1_42_0/libs/smart_ptr/weak_ptr.md)
 
  
 

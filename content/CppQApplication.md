@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QApplication](CppQApplication.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QApplication](CppQApplication.md)
 =====================================================================
 
  
 
-[QApplication](CppQApplication.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) that 'manages the [GUI](CppGui.htm) application's
+[QApplication](CppQApplication.md) is a [Qt](CppQt.md)
+[class](CppClass.md) that 'manages the [GUI](CppGui.md) application's
 control flow and main settings' \[1\].
 
  
@@ -37,12 +37,12 @@ control flow and main settings' \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-[Qt Creator](CppQtCreator.htm) 2.0 help
+[Qt Creator](CppQtCreator.md) 2.0 help
 
  
 

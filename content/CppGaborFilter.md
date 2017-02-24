@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [GaborFilter](CppGaborFilter.htm)
+([C++](Cpp.md)) [GaborFilter](CppGaborFilter.md)
 ==================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[GaborFilter](CppGaborFilter.htm) is a [class](CppClass.htm) for a Gabor
+[GaborFilter](CppGaborFilter.md) is a [class](CppClass.md) for a Gabor
 filter.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

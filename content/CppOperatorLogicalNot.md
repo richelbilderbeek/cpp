@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [operator!](CppOperatorLogicalNot.htm)
+([C++](Cpp.md)) [operator!](CppOperatorLogicalNot.md)
 =======================================================
 
  
 
-[operator!](CppOperatorLogicalNot.htm) (pronounced 'logical not
-[operator](CppOperator.htm)') is an [operator](CppOperator.htm) to do a
-logical not on a [boolean](CppBool.htm). In other words:
-[!](CppOperatorLogicalNot.htm)[true](CppTrue.htm) is
-[false](CppFalse.htm), and
-[!](CppOperatorLogicalNot.htm)[false](CppFalse.htm) is
-[true](CppTrue.htm).
+[operator!](CppOperatorLogicalNot.md) (pronounced 'logical not
+[operator](CppOperator.md)') is an [operator](CppOperator.md) to do a
+logical not on a [boolean](CppBool.md). In other words:
+[!](CppOperatorLogicalNot.md)[true](CppTrue.md) is
+[false](CppFalse.md), and
+[!](CppOperatorLogicalNot.md)[false](CppFalse.md) is
+[true](CppTrue.md).
 
  
 
-The example code below [asserts](CppAssert.htm) that a
-[std::string](CppString.htm) is not empty, before
-[returning](CppReturn.htm) the first [character](CppChar.htm) of it.
+The example code below [asserts](CppAssert.md) that a
+[std::string](CppString.md) is not empty, before
+[returning](CppReturn.md) the first [character](CppChar.md) of it.
 
  
 

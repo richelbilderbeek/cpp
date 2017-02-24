@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [union](CppUnion.htm)
+([C++](Cpp.md)) [union](CppUnion.md)
 ======================================
 
  
 
-[union](CppUnion.htm) is a [C++](Cpp.htm) [keyword](CppKeyword.htm) to
-[declare](CppDeclaration.htm) a [struct](CppStruct.htm) that uses the
+[union](CppUnion.md) is a [C++](Cpp.md) [keyword](CppKeyword.htm) to
+[declare](CppDeclaration.md) a [struct](CppStruct.md) that uses the
 same memory for all elements.
 
  
 
-In the example below, a [union](CppUnion.htm) is created consisting of a
-[double](CppDouble.htm) and an [int](CppInt.htm). When the
-[int](CppInt.htm) is modified, the [double](CppDouble.htm) is modified
+In the example below, a [union](CppUnion.md) is created consisting of a
+[double](CppDouble.md) and an [int](CppInt.md). When the
+[int](CppInt.md) is modified, the [double](CppDouble.md) is modified
 as well (and vice versa).
 
  
@@ -50,9 +50,9 @@ Screen output:
 
  
 
-Consider never using [unions](CppUnion.htm) \[1\]. Use
-[unions](CppUnion.htm) to save space \[2\]. Never use
-[unions](CppUnion.htm) for type conversion \[2\].
+Consider never using [unions](CppUnion.md) \[1\]. Use
+[unions](CppUnion.md) to save space \[2\]. Never use
+[unions](CppUnion.md) for type conversion \[2\].
 
  
 
@@ -64,7 +64,7 @@ Consider never using [unions](CppUnion.htm) \[1\]. Use
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -73,7 +73,7 @@ Consider never using [unions](CppUnion.htm) \[1\]. Use
     Development and Demonstration Program. Document Number 2RDU00001
     Rev C. December 2005. AV Rule 153 (MISRA Rule 110, Revised): 'Unions
     shall not be used.'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 8.5.
     Advice. page 224: '\[4\] Use unions to save space (represent
     alternatives and never for type conversion'

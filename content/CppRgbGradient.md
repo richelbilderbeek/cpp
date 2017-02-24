@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [RgbGradient](CppRgbGradient.htm)
+([C++](Cpp.md)) [RgbGradient](CppRgbGradient.md)
 ==================================================
 
  
 
 For a value from 0.0 to 1.0, return three unsigned chars that when
 aligned show more or less a rainbow-like gradient (but for the real
-rainbow gradient see the [Rainbow](CppRainbow.htm) function), like the
+rainbow gradient see the [Rainbow](CppRainbow.md) function), like the
 second row of the picture [here](CppRainbow.PNG). The full CLX code to
 obtain that picture is shown below the function.
 

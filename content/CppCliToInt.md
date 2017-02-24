@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [CliToInt](CppCliToInt.htm)
+([C++](Cpp.md)) [CliToInt](CppCliToInt.md)
 ============================================
 
  
 
-[CliToInt](CppCliToInt.htm) is a [cln::cl\_I](CppCl_I.htm)
-[conversion](CppConvert.htm) [code snippets](CppCodeSnippets.htm) to
-[convert](CppConvert.htm) a [cln::cl\_I](CppCl_I.htm) to an
-[int](CppInt.htm).
+[CliToInt](CppCliToInt.md) is a [cln::cl\_I](CppCl_I.md)
+[conversion](CppConvert.md) [code snippets](CppCodeSnippets.md) to
+[convert](CppConvert.md) a [cln::cl\_I](CppCl_I.md) to an
+[int](CppInt.md).
 
  
 

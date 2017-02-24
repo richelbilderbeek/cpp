@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Thinking Wt](CppThinkingWt.htm)
+([C++](Cpp.md)) [Thinking Wt](CppThinkingWt.md)
 =================================================
 
  

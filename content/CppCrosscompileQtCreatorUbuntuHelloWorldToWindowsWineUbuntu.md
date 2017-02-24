@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a 'Hello World' Qt Creator project from Ubuntu to a Windows executable under Wine under Ubuntu?](CppCrossCompileQtCreatorUbuntuHelloWorldToWindowsWineUbuntu.htm)
+([C++](Cpp.md)) [How to cross-compile a 'Hello World' Qt Creator project from Ubuntu to a Windows executable under Wine under Ubuntu?](CppCrossCompileQtCreatorUbuntuHelloWorldToWindowsWineUbuntu.md)
 ========================================================================================================================================================================================================
 
  
@@ -22,10 +22,10 @@ Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Console](PicConsole.png)![to
 
  
 
-To [cross compile](CppCrossCompile.htm) a ['Hello
-World'](CppHelloWorld.htm) [Qt Creator](CppQtCreator.htm) project from
-[Ubuntu](CppUbuntu.htm) to a [Windows](CppWindows.htm) executable under
-[Wine](CppWine.htm) under [Ubuntu](CppUbuntu.htm), do the following:
+To [cross compile](CppCrossCompile.md) a ['Hello
+World'](CppHelloWorld.md) [Qt Creator](CppQtCreator.md) project from
+[Ubuntu](CppUbuntu.md) to a [Windows](CppWindows.md) executable under
+[Wine](CppWine.md) under [Ubuntu](CppUbuntu.md), do the following:
 
  
 

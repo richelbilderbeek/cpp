@@ -12,30 +12,30 @@
 
  
 
-([C++](Cpp.htm)) [Policy](CppPolicy.htm)
+([C++](Cpp.md)) [Policy](CppPolicy.md)
 ========================================
 
  
 
-A [policy](CppPolicy.htm) is a [class](CppClass.htm) behaviour set at
+A [policy](CppPolicy.md) is a [class](CppClass.md) behaviour set at
 compile-time.
 
  
 
-A [policy](CppPolicy.htm) consts of a [host class](CppHostClass.htm) and
-[policy classes](CppPolicyClass.htm). The user of a
-[policy](CppPolicy.htm) chooses which [policy class](CppPolicyClass.htm)
+A [policy](CppPolicy.md) consts of a [host class](CppHostClass.md) and
+[policy classes](CppPolicyClass.md). The user of a
+[policy](CppPolicy.md) chooses which [policy class](CppPolicyClass.md)
 is used, by template.
 
  
 
-A [policy class](CppPolicyClass.htm) is a [base
-class](CppBaseClass.htm). All [base class](CppBaseClass.htm)
-[destructors](CppDestructor.htm) should be [public](CppPublic.htm) and
-[virtual](CppVirtual.htm), or [protected](CppProtected.htm) and
-non[virtual](CppVirtual.htm)' \[1\]. The [destructor](CppDestructor.htm)
-of a [policy class](CppPolicyClass.htm) should be
-[protected](CppProtected.htm) and non[virtual](CppVirtual.htm) \[2\].
+A [policy class](CppPolicyClass.md) is a [base
+class](CppBaseClass.md). All [base class](CppBaseClass.md)
+[destructors](CppDestructor.md) should be [public](CppPublic.md) and
+[virtual](CppVirtual.md), or [protected](CppProtected.md) and
+non[virtual](CppVirtual.md)' \[1\]. The [destructor](CppDestructor.md)
+of a [policy class](CppPolicyClass.md) should be
+[protected](CppProtected.md) and non[virtual](CppVirtual.md) \[2\].
 
  
 
@@ -54,11 +54,11 @@ Example
 
 During debugging, you might want to trace (keep track of) variables.
 
-Sometimes, you might want to write it to [std::cout](CppCout.htm), file
+Sometimes, you might want to write it to [std::cout](CppCout.md), file
 or other ways.
 
-The example below shows a Tracer [class](CppClass.htm), whose behavior
-is set at [compile-time](CppCompileTime.htm).
+The example below shows a Tracer [class](CppClass.md), whose behavior
+is set at [compile-time](CppCompileTime.md).
 
  
 
@@ -68,14 +68,14 @@ is set at [compile-time](CppCompileTime.htm).
 
  
 
-In this example, Tracer is the [host class](CppHostClass.htm), where
+In this example, Tracer is the [host class](CppHostClass.md), where
 OutputPolicyCout and OutputPolicyFile are [policy
-classes](CppPolicyClass.htm).
+classes](CppPolicyClass.md).
 
  
 
 Note that p1 and p2 have types as different as
-[std::vectors](CppVector.htm) with different elements.
+[std::vectors](CppVector.md) with different elements.
 
  
 
@@ -87,17 +87,17 @@ Note that p1 and p2 have types as different as
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 50:
     'Make base class destructors public and virtual, or protected and
     nonvirtual'
-2.  [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+2.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315. Page 13. Section 1.7: 'The lightweight,
     effective solution that policies should use is to define a
     nonvirtual protected destructor'

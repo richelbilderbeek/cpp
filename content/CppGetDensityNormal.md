@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [GetDensityNormal](CppGetDensityNormal.htm)
+([C++](Cpp.md)) [GetDensityNormal](CppGetDensityNormal.md)
 ============================================================
 
  

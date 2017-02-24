@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::minus](CppMinus.htm)
+([C++](Cpp.md)) [std::minus](CppMinus.md)
 ===========================================
 
  
 
-[std::minus](CppMinus.htm) is a [functor](CppFunctor.htm) that
-encapsulates [operator-](CppOperatorMinus.htm).
+[std::minus](CppMinus.md) is a [functor](CppFunctor.md) that
+encapsulates [operator-](CppOperatorMinus.md).
 
  
 

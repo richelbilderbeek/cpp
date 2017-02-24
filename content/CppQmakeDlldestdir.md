@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [DLLDESTDIR (qmake variable)](CppQmakeDlldestdir.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [DLLDESTDIR (qmake variable)](CppQmakeDlldestdir.md)
 =======================================================================================
 
  
 
-[DLLDESTDIR](CppQmakeDlldestdir.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[DLLDESTDIR](CppQmakeDlldestdir.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Mark Cashman](CppMarkCashman.htm)
+([C++](Cpp.md)) [Mark Cashman](CppMarkCashman.md)
 ===================================================
 
  
 
-[Mark Cashman](CppMarkCashman.htm) is one of the authors of\[1\].
+[Mark Cashman](CppMarkCashman.md) is one of the authors of\[1\].
 
  
 
@@ -29,14 +29,14 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Jarrod Hollingworth](CppJarrodHollingworth.htm), [Bob
-    Swart](CppBobSwart.htm), [Mark Cashman](CppMarkCashman.htm), [Paul
-    Gustavson](CppPaulGustavson.htm). 2003. Sams C++ Builder 6
+1.  [Jarrod Hollingworth](CppJarrodHollingworth.md), [Bob
+    Swart](CppBobSwart.md), [Mark Cashman](CppMarkCashman.md), [Paul
+    Gustavson](CppPaulGustavson.md). 2003. Sams C++ Builder 6
     Developer's Guide. ISBN:0-672-32480-6.
 
  
@@ -58,5 +58,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

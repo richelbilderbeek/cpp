@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [GAlib example 1: binary triplets evolution](CppGalibExample1.htm)
+([C++](Cpp.md)) [GAlib example 1: binary triplets evolution](CppGalibExample1.md)
 ===================================================================================
 
  
 
-This [GAlib](CppGalib.htm) example shows how to use genetic algorithms
+This [GAlib](CppGalib.md) example shows how to use genetic algorithms
 for a binary string genome to evolve to triplets of zeroes and ones.
 
  
@@ -29,18 +29,18 @@ for a binary string genome to evolve to triplets of zeroes and ones.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Galib](CppGalib.htm): version 2.4.7-3, from Ubuntu Software
+-   [Galib](CppGalib.md): version 2.4.7-3, from Ubuntu Software
     centre ('libga-dev')
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -52,7 +52,7 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

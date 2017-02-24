@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [CliToStr](CppCliToStr.htm)
+([C++](Cpp.md)) [CliToStr](CppCliToStr.md)
 ============================================
 
  
 
-[CliToStr](CppCliToStr.htm) is a [cln::cl\_I](CppCl_I.htm)
-[conversion](CppConvert.htm) [code snippets](CppCodeSnippets.htm) to
-[convert](CppConvert.htm) a [cln::cl\_I](CppCl_I.htm) to an
-[std::string](CppString.htm).
+[CliToStr](CppCliToStr.md) is a [cln::cl\_I](CppCl_I.md)
+[conversion](CppConvert.md) [code snippets](CppCodeSnippets.md) to
+[convert](CppConvert.md) a [cln::cl\_I](CppCl_I.md) to an
+[std::string](CppString.md).
 
  
 

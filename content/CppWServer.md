@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Wt::WServer](CppWServer.htm)
+([C++](Cpp.md)) [Wt::WServer](CppWServer.md)
 ==============================================
 
  
 
-[Wt::WServer](CppWServer.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm).
+[Wt::WServer](CppWServer.md) is a [Wt](CppWt.md)
+[class](CppClass.md).
 
  
 

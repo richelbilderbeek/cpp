@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#18](CppExerciseNoForLoopsAnswer18.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#18](CppExerciseNoForLoopsAnswer18.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,10 +35,10 @@ Question
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::greater.htm](CppGreater.htm)
--   A conditional [std::accumulate](CppAccumulate.htm)
+-   [std::greater.htm](CppGreater.md)
+-   A conditional [std::accumulate](CppAccumulate.md)
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [RoundOff](CppRoundOff.htm)
+([C++](Cpp.md)) [RoundOff](CppRoundOff.md)
 ============================================
 
  
 
-[RoundOff](CppRoundOff.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to round a [double](CppDouble.htm) to the
-nearest [integer](CppInt.htm).
+[RoundOff](CppRoundOff.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to round a [double](CppDouble.md) to the
+nearest [integer](CppInt.md).
 
  
 
@@ -37,7 +37,7 @@ nearest [integer](CppInt.htm).
 
  
 
-[RoundOff](CppRoundOff.htm) test
+[RoundOff](CppRoundOff.md) test
 --------------------------------
 
  

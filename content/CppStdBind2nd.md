@@ -12,32 +12,32 @@
 
  
 
-([C++](Cpp.htm)) [std::bind2nd](CppBind2nd.htm)
+([C++](Cpp.md)) [std::bind2nd](CppBind2nd.md)
 ===============================================
 
  
 
-[std::bind2nd](CppBind2nd.htm) is deprecated \[2\]. The function
-template [std::bind](CppBind.htm) provides a better solution \[2\].
+[std::bind2nd](CppBind2nd.md) is deprecated \[2\]. The function
+template [std::bind](CppBind.md) provides a better solution \[2\].
 
  
 
-[std::bind2nd](CppBind2nd.htm) is a [binder](CppBinder.htm) to call a
+[std::bind2nd](CppBind2nd.md) is a [binder](CppBinder.md) to call a
 binary function with the value bound as second argument. If the first
-argument needs to be bound, use [std::bind1st](CppBind1st.htm) instead.
+argument needs to be bound, use [std::bind1st](CppBind1st.md) instead.
 
  
 
-The distinction between [std::bind1st](CppBind1st.htm) and
-[std::bind2nd](CppBind2nd.htm) gets clear in division:
+The distinction between [std::bind1st](CppBind1st.md) and
+[std::bind2nd](CppBind2nd.md) gets clear in division:
 
 -   If on all elements, an element called x, you want to perform 'x /
-    2.0', use [std::bind2nd](CppBind2nd.htm) on the 2.0. This is
-    demonstrated in the function [Halve](CppHalve.htm), which is shown
+    2.0', use [std::bind2nd](CppBind2nd.md) on the 2.0. This is
+    demonstrated in the function [Halve](CppHalve.md), which is shown
     below in the example
 -   If on all elements, an element called x, you want to perform '1.0 /
-    x', use [std::bind1st](CppBind1st.htm) one the 1.0. This is
-    demonstrated in the function [Reciprocal](CppReciprocal.htm)
+    x', use [std::bind1st](CppBind1st.md) one the 1.0. This is
+    demonstrated in the function [Reciprocal](CppReciprocal.md)
 
  
 
@@ -63,13 +63,13 @@ The distinction between [std::bind1st](CppBind1st.htm) and
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [Lambda expressions](CppLambdaExpression.htm) over
-    [binders](CppBinder.htm) \[1\]
+-   Prefer [Lambda expressions](CppLambdaExpression.md) over
+    [binders](CppBinder.md) \[1\]
 
  
 
@@ -81,12 +81,12 @@ The distinction between [std::bind1st](CppBind1st.htm) and
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Prefer Lambdas over
     Binders'
 2.  Working Draft, Standard for Programming Language C++.

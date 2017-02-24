@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::ws](CppWs.htm)
+([C++](Cpp.md)) [std::ws](CppWs.md)
 =====================================
 
  
 
-[std::ws](CppWs.htm) is an [STL](CppStl.htm) [stream](CppStream.htm)
+[std::ws](CppWs.md) is an [STL](CppStl.md) [stream](CppStream.htm)
 modifier to discard whitespace up until the following character.
 
  

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::boolalpha](CppBoolalpha.htm)
+([C++](Cpp.md)) [std::boolalpha](CppBoolalpha.md)
 ===================================================
 
  
 
-[std::boolalpha](CppBoolalpha.htm) is a stream manipulator to print the
-[boolian](CppBool.htm) values [false](CppFalse.htm) and
-[true](CppTrue.htm) as 'false' and 'true' instead of '0' and '1'.
+[std::boolalpha](CppBoolalpha.md) is a stream manipulator to print the
+[boolian](CppBool.md) values [false](CppFalse.md) and
+[true](CppTrue.md) as 'false' and 'true' instead of '0' and '1'.
 
  
 
@@ -38,16 +38,16 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

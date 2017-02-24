@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [operator+](CppOperatorPlus.htm)
+([C++](Cpp.md)) [operator+](CppOperatorPlus.md)
 =================================================
 
  
 
-[operator+](CppOperatorPlus.htm) is the [operator](CppOperator.htm) for
+[operator+](CppOperatorPlus.md) is the [operator](CppOperator.md) for
 adding.
 
  
 
-The following line of code calls [operator+](CppOperatorPlus.htm) to add
-the values of two [integers](CppInt.htm):
+The following line of code calls [operator+](CppOperatorPlus.md) to add
+the values of two [integers](CppInt.md):
 
  
 
@@ -33,8 +33,8 @@ the values of two [integers](CppInt.htm):
 
  
 
-[operator+](CppOperatorPlus.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::plus](CppPlus.htm).
+[operator+](CppOperatorPlus.md) is encapsulated by the
+[functor](CppFunctor.md) [std::plus](CppPlus.md).
 
  
 

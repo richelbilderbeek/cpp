@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [asm](CppAsm.htm)
+([C++](Cpp.md)) [asm](CppAsm.md)
 ==================================
 
  
 
-[Keyword](CppKeyword.htm) to start an Assembly code block.
+[Keyword](CppKeyword.md) to start an Assembly code block.
 
  
 

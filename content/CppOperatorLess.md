@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [operator&lt;](CppOperatorLess.htm)
+([C++](Cpp.md)) [operator&lt;](CppOperatorLess.md)
 ====================================================
 
  
 
-[operator&lt;](CppOperatorLess.htm) is the [operator](CppOperator.htm)
-to determine if the left-hand [instance](CppInstance.htm) is less or
-equal the right-hand [instance](CppInstance.htm).
+[operator&lt;](CppOperatorLess.md) is the [operator](CppOperator.md)
+to determine if the left-hand [instance](CppInstance.md) is less or
+equal the right-hand [instance](CppInstance.md).
 
  
 
-The following code uses [operator&lt;](CppOperatorLess.htm) to determine
+The following code uses [operator&lt;](CppOperatorLess.md) to determine
 that one plus two is less than four:
 
  
@@ -34,8 +34,8 @@ that one plus two is less than four:
 
  
 
-[operator&lt;](CppOperatorLess.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::less](CppLess.htm).
+[operator&lt;](CppOperatorLess.md) is encapsulated by the
+[functor](CppFunctor.md) [std::less](CppLess.md).
 
  
 

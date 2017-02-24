@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [HFLOAT](CppHfloat.htm)
+([C++](Cpp.md)) [HFLOAT](CppHfloat.md)
 ========================================
 
  
 
-[HFLOAT](CppHfloat.htm) is a [library](CppLibrary.htm) to work with
-[arbitrary precision](CppArbitraryPrecision.htm) numbers.
+[HFLOAT](CppHfloat.md) is a [library](CppLibrary.md) to work with
+[arbitrary precision](CppArbitraryPrecision.md) numbers.
 
  
 
@@ -30,7 +30,7 @@
 
  
 
-[HFLOAT](CppHfloat.htm) examples
+[HFLOAT](CppHfloat.md) examples
 --------------------------------
 
  
@@ -47,12 +47,12 @@
 
  
 
-My [HFLOAT](CppHfloat.htm) review
+My [HFLOAT](CppHfloat.md) review
 ---------------------------------
 
  
 
-In general, I'd review [HFLOAT](CppHfloat.htm) neutrally, as I could not
+In general, I'd review [HFLOAT](CppHfloat.md) neutrally, as I could not
 get it installed under Windows.
 
  

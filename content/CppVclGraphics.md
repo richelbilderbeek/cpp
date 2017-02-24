@@ -12,115 +12,115 @@
 
  
 
-([C++](Cpp.htm)) [VCL graphics](CppVclGraphics.htm)
+([C++](Cpp.md)) [VCL graphics](CppVclGraphics.md)
 ===================================================
 
  
 
-[VCL code snippets](CppVclCodeSnippets.htm) for working with graphics
-using the [STL](CppStl.htm) and [VCL](CppVcl.htm) library.
+[VCL code snippets](CppVclCodeSnippets.md) for working with graphics
+using the [STL](CppStl.md) and [VCL](CppVcl.md) library.
 
  
 
-For [STL](CppStl.htm) and [Boost](CppBoost.htm) graphics code snippets,
-[go to the STL and Boost graphics code snippet page](CppGraphics.htm).
+For [STL](CppStl.md) and [Boost](CppBoost.md) graphics code snippets,
+[go to the STL and Boost graphics code snippet page](CppGraphics.md).
 
  
 
-For conversions between [VCL](CppVcl.htm) [data types](CppDataType.htm)
-and [STL](CppStl.htm)/[Boost](CppBoost.htm) [data
-types](CppDataType.htm), see the .
+For conversions between [VCL](CppVcl.md) [data types](CppDataType.md)
+and [STL](CppStl.md)/[Boost](CppBoost.md) [data
+types](CppDataType.md), see the .
 
  
 
--   [Add colored noise, AddColoredNoise](CppAddColoredNoise.htm)
--   [AddColoredNoise, add colored noise](CppAddColoredNoise.htm)
--   [ASCII art, see the ASCII art page](CppAsciiArt.htm)
--   [Bleach](CppBleach.htm)
+-   [Add colored noise, AddColoredNoise](CppAddColoredNoise.md)
+-   [AddColoredNoise, add colored noise](CppAddColoredNoise.md)
+-   [ASCII art, see the ASCII art page](CppAsciiArt.md)
+-   [Bleach](CppBleach.md)
 -   [Calculate the average greyness of a TImage,
-    GetAverageGreyness](CppGetAverageGreyness.htm)
--   [ColorToRgb, convert TColor to RGB values](CppColorToRgb.htm)
+    GetAverageGreyness](CppGetAverageGreyness.md)
+-   [ColorToRgb, convert TColor to RGB values](CppColorToRgb.md)
 -   [Convert a color VCL TImage to a grey TImage,
-    ConvertToGrey](CppConvertToGrey.htm)
--   [Convert RGB values to TColor](CppRgbToColor.htm)
--   [Convert TColor to RGB values](CppColorToRgb.htm)
+    ConvertToGrey](CppConvertToGrey.md)
+-   [Convert RGB values to TColor](CppRgbToColor.md)
+-   [Convert TColor to RGB values](CppColorToRgb.md)
 -   [ConvertToGrey, convert a color VCL TImage to a grey
-    TImage](CppConvertToGrey.htm)
--   [Custom TForm shape](CppTFormCustomShape.htm)
--   [Darken](CppDarken.htm)
+    TImage](CppConvertToGrey.md)
+-   [Custom TForm shape](CppTFormCustomShape.md)
+-   [Darken](CppDarken.md)
 -   [DoHistogramEqualization, perform a histogram
-    equalization](CppDoHistogramEqualization.htm)
--   [Double buffering](CppDoubleBuffering.htm)
--   [Draw a globe](CppDrawGlobe.htm)
--   [Draw a globe with a minus on it](CppDrawGlobeMinus.htm)
--   [Draw a globe with a plus on it](CppDrawGlobePlus.htm)
--   [Draw a lymphocyte](CppDrawLymphocyte.htm)
--   [Draw text centered on image](CppDrawTextCentered.htm)
--   [DrawGlobe, draw a globe](CppDrawGlobe.htm)
+    equalization](CppDoHistogramEqualization.md)
+-   [Double buffering](CppDoubleBuffering.md)
+-   [Draw a globe](CppDrawGlobe.md)
+-   [Draw a globe with a minus on it](CppDrawGlobeMinus.md)
+-   [Draw a globe with a plus on it](CppDrawGlobePlus.md)
+-   [Draw a lymphocyte](CppDrawLymphocyte.md)
+-   [Draw text centered on image](CppDrawTextCentered.md)
+-   [DrawGlobe, draw a globe](CppDrawGlobe.md)
 -   [DrawGlobeMinus, draw a globe with a minus on
-    it](CppDrawGlobeMinus.htm)
+    it](CppDrawGlobeMinus.md)
 -   [DrawGlobePlus, draw a globe with a plus on
-    it](CppDrawGlobePlus.htm)
--   [DrawLymphocyte, draw a lymphocyte](CppDrawLymphocyte.htm)
+    it](CppDrawGlobePlus.md)
+-   [DrawLymphocyte, draw a lymphocyte](CppDrawLymphocyte.md)
 -   [DrawTextCentered, draw text centered on
-    image](CppDrawTextCentered.htm)
+    image](CppDrawTextCentered.md)
 -   [Enhance the contrast of a grey image,
-    EnhanceContrast](CppEnhanceContrast.htm)
+    EnhanceContrast](CppEnhanceContrast.md)
 -   [EnhanceContrast, enhances the contrast of a grey
-    image](CppEnhanceContrast.htm)
--   [Erase a color](CppRemoveColor.htm)
--   [Get a Font's height](CppGetFontHeight.htm)
+    image](CppEnhanceContrast.md)
+-   [Erase a color](CppRemoveColor.md)
+-   [Get a Font's height](CppGetFontHeight.md)
 -   [Get a histogram of color values of an image,
-    GetImageHistogram](CppGetImageHistogram.htm)
--   [Get a pixel's color](CppGetPixel.htm)
--   [Get a pixel's greyness](CppGetGreyness.htm)
--   [Get a rainbow-like color gradient](CppRainbow.htm)
--   [Get a TForm in a TForm](CppTFormInTForm.htm)
--   [Get an RGB gradient](CppRgbGradient.htm)
--   [Get some pixels' greynesses](CppGetGreyness.htm)
+    GetImageHistogram](CppGetImageHistogram.md)
+-   [Get a pixel's color](CppGetPixel.md)
+-   [Get a pixel's greyness](CppGetGreyness.md)
+-   [Get a rainbow-like color gradient](CppRainbow.md)
+-   [Get a TForm in a TForm](CppTFormInTForm.md)
+-   [Get an RGB gradient](CppRgbGradient.md)
+-   [Get some pixels' greynesses](CppGetGreyness.md)
 -   [GetAverageGreyness, calculates the average greyness of a
-    TImage](CppGetAverageGreyness.htm)
--   [GetFontHeight, get a Font's height](CppGetFontHeight.htm)
--   [GetGreyness, get a pixel's greyness](CppGetGreyness.htm)
--   [GetGreyness, get some pixels' greynesses](CppGetGreyness.htm)
+    TImage](CppGetAverageGreyness.md)
+-   [GetFontHeight, get a Font's height](CppGetFontHeight.md)
+-   [GetGreyness, get a pixel's greyness](CppGetGreyness.md)
+-   [GetGreyness, get some pixels' greynesses](CppGetGreyness.md)
 -   [GetImageHistogram, get a histogram of an image's grey
-    intensities](CppGetImageHistogram.htm)
+    intensities](CppGetImageHistogram.md)
 -   [GetImageHistogram, get a histogram of color values of an
-    image](CppGetImageHistogram.htm)
--   [GetPixel, get a pixel's color](CppGetPixel.htm)
+    image](CppGetImageHistogram.md)
+-   [GetPixel, get a pixel's color](CppGetPixel.md)
 -   [Histogram equalization,
-    DoHistogramEqualization](CppDoHistogramEqualization.htm)
+    DoHistogramEqualization](CppDoHistogramEqualization.md)
 -   [Histogram of an image's grey intensities,
-    GetImageHistogram](CppGetImageHistogram.htm)
+    GetImageHistogram](CppGetImageHistogram.md)
 -   [Make a screenshot and store it as a bitmap,
-    MakeScreenshot](CppMakeScreenshot.htm)
+    MakeScreenshot](CppMakeScreenshot.md)
 -   [MakeScreenshot, make a screenshot and store it as a
-    bitmap](CppMakeScreenshot.htm)
--   [Paint TImage fast](CppPaint.htm)
--   [Paint, paint TImage fast](CppPaint.htm)
--   [Pixelate](CppPixelate.htm)
--   [Rainbow, get a rainbow-like color gradient](CppRainbow.htm)
--   [Remove a color](CppRemoveColor.htm)
--   [RemoveColor, erase a color](CppRemoveColor.htm)
--   [RemoveColor, remove a color](CppRemoveColor.htm)
--   [RgbGradient, get an RGB gradient](CppRgbGradient.htm)
--   [RgbToColor, convert RGB values to TColor](CppRgbToColor.htm)
--   [Rotate an image](CppRotate.htm)
--   [Rotate, rotate an image](CppRotate.htm)
--   [Set a pixel's color](CppSetPixel.htm)
--   [Set a pixel's greyness](CppSetGreyness.htm)
--   [Set some pixels' greynesses](CppSetGreyness.htm)
--   [SetGreyness, set a pixel's greyness](CppSetGreyness.htm)
--   [SetGreyness, set some pixels' greynesses](CppSetGreyness.htm)
--   [SetPixel, set a pixel's color](CppSetPixel.htm)
--   [SurfacePlot for TImage](CppSurfacePlotterTImage.htm)
+    bitmap](CppMakeScreenshot.md)
+-   [Paint TImage fast](CppPaint.md)
+-   [Paint, paint TImage fast](CppPaint.md)
+-   [Pixelate](CppPixelate.md)
+-   [Rainbow, get a rainbow-like color gradient](CppRainbow.md)
+-   [Remove a color](CppRemoveColor.md)
+-   [RemoveColor, erase a color](CppRemoveColor.md)
+-   [RemoveColor, remove a color](CppRemoveColor.md)
+-   [RgbGradient, get an RGB gradient](CppRgbGradient.md)
+-   [RgbToColor, convert RGB values to TColor](CppRgbToColor.md)
+-   [Rotate an image](CppRotate.md)
+-   [Rotate, rotate an image](CppRotate.md)
+-   [Set a pixel's color](CppSetPixel.md)
+-   [Set a pixel's greyness](CppSetGreyness.md)
+-   [Set some pixels' greynesses](CppSetGreyness.md)
+-   [SetGreyness, set a pixel's greyness](CppSetGreyness.md)
+-   [SetGreyness, set some pixels' greynesses](CppSetGreyness.md)
+-   [SetPixel, set a pixel's color](CppSetPixel.md)
+-   [SurfacePlot for TImage](CppSurfacePlotterTImage.md)
 -   [SurfacePlotterTImage, surfacePlot for
-    TImage](CppSurfacePlotterTImage.htm)
--   [TForm, custom shape](CppTFormCustomShape.htm)
--   [TForm, get a TForm in a TForm](CppTFormInTForm.htm)
--   [Threshold Filter](CppThresholdFilter.htm)
--   [TImage, see the TImage page](CppTImage.htm)
--   [Use a custom TForm shape](CppTFormCustomShape.htm)
+    TImage](CppSurfacePlotterTImage.md)
+-   [TForm, custom shape](CppTFormCustomShape.md)
+-   [TForm, get a TForm in a TForm](CppTFormInTForm.md)
+-   [Threshold Filter](CppThresholdFilter.md)
+-   [TImage, see the TImage page](CppTImage.md)
+-   [Use a custom TForm shape](CppTFormCustomShape.md)
 
  
 

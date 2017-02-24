@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [TriangleMesh](CppTriangleMesh.htm)
+([C++](Cpp.md)) [TriangleMesh](CppTriangleMesh.md)
 ====================================================
 
  
@@ -1029,5 +1029,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

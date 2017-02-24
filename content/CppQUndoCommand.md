@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QUndoCommand](CppQUndoCommand.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoCommand](CppQUndoCommand.md)
 =====================================================================
 
  
 
-[QUndoCommand](CppQUndoCommand.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for undo commands.
+[QUndoCommand](CppQUndoCommand.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for undo commands.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
--   [QUndoCommand example 1](CppQUndoCommandExample1.htm)
+-   [QUndoCommand example 1](CppQUndoCommandExample1.md)
 
  
 
@@ -56,5 +56,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

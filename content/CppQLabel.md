@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QLabel](CppQLabel.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QLabel](CppQLabel.md)
 =========================================================
 
  
 
-[QLabel](CppQLabel.htm) is a visual [Qt](CppQt.htm)
-[class](CppClass.htm) to show text or images.
+[QLabel](CppQLabel.md) is a visual [Qt](CppQt.md)
+[class](CppClass.md) to show text or images.
 
  
 
-[QLabel](CppQLabel.htm) does not [emit](CppEmit.htm) a clicked()
-[signal](CppSignal.htm).
+[QLabel](CppQLabel.md) does not [emit](CppEmit.md) a clicked()
+[signal](CppSignal.md).
 
  
 
-[How to make a clickable QLabel?](CppQtClickableLabel.htm) explains how
-to make a clickable [QLabel](CppQLabel.htm).
+[How to make a clickable QLabel?](CppQtClickableLabel.md) explains how
+to make a clickable [QLabel](CppQLabel.md).
 
  
 

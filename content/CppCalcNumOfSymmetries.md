@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CalcNumOfSymmetries](CppCalcNumOfSymmetries.htm)
+([C++](Cpp.md)) [CalcNumOfSymmetries](CppCalcNumOfSymmetries.md)
 ==================================================================
 
  
 
-[CalcNumOfSymmetries](CppCalcNumOfSymmetries.htm) is a
-[Newick](CppNewick.htm) [code snippets](CppCodeSnippets.htm) to
-calculate the number of symmetries a [Newick](CppNewick.htm) has.
+[CalcNumOfSymmetries](CppCalcNumOfSymmetries.md) is a
+[Newick](CppNewick.md) [code snippets](CppCodeSnippets.md) to
+calculate the number of symmetries a [Newick](CppNewick.md) has.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPoint](CppWPoint.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPoint](CppWPoint.md)
 =============================================================
 
  
 
-[Wt::WPoint](CppWPoint.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WPoint](CppWPoint.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for ...
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WPoint](CppWPoint.htm) is used in, among others:
+[Wt::WPoint](CppWPoint.md) is used in, among others:
 
 -   ...
 

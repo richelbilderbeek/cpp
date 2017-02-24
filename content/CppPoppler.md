@@ -12,22 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Poppler](CppPoppler.htm)
+([C++](Cpp.md)) [Poppler](CppPoppler.md)
 ==========================================
 
  
 
-[Poppler](CppPoppler.htm) is a [library](CppLibrary.htm) to render
-[PDF](CppPdf.htm) documents.
+[Poppler](CppPoppler.md) is a [library](CppLibrary.md) to render
+[PDF](CppPdf.md) documents.
 
  
 
-The [Qt](CppQt.htm) [class](CppClass.htm) [QPrinter](CppQPrinter.htm)
-can also be used to render [PDF](CppPdf.htm) documents.
-
- 
-
- 
+The [Qt](CppQt.md) [class](CppClass.md) [QPrinter](CppQPrinter.htm)
+can also be used to render [PDF](CppPdf.md) documents.
 
  
 
@@ -35,13 +31,17 @@ can also be used to render [PDF](CppPdf.htm) documents.
 
  
 
-[Poppler](CppPoppler.htm) [examples](CppExample.htm)
+ 
+
+ 
+
+[Poppler](CppPoppler.md) [examples](CppExample.md)
 ----------------------------------------------------
 
  
 
 -   [Boost.Graph example 4: four human names and their relationships
-    displayed in Qt](CppGraphExample4.htm)
+    displayed in Qt](CppGraphExample4.md)
 
  
 
@@ -53,13 +53,13 @@ can also be used to render [PDF](CppPdf.htm) documents.
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 

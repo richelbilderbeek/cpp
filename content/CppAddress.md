@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [address](CppAddress.htm)
+([C++](Cpp.md)) [address](CppAddress.md)
 ==========================================
 
  
 
-An [address](CppAddress.htm) is location in a a computer's
-[memory](CppMemory.htm) where it stores all its
-[variables](CppVariable.htm).
+An [address](CppAddress.md) is location in a a computer's
+[memory](CppMemory.md) where it stores all its
+[variables](CppVariable.md).
 
  
 
@@ -39,8 +39,8 @@ Screen output:
 
  
 
-A [pointer](CppPointer.htm) is a [data type](CppDataType.htm) for
-[addresses](CppAddress.htm).
+A [pointer](CppPointer.md) is a [data type](CppDataType.md) for
+[addresses](CppAddress.md).
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [data member](CppDataMember.htm)
+([C++](Cpp.md)) [data member](CppDataMember.md)
 =================================================
 
  
 
-[Data member](CppDataMember.htm) is a synonym for [member
-variable](CppMemberVariable.htm). See [member
-variable](CppMemberVariable.htm).
+[Data member](CppDataMember.md) is a synonym for [member
+variable](CppMemberVariable.md). See [member
+variable](CppMemberVariable.md).
 
  
 

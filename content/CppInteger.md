@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Integer](CppInteger.htm)
+([C++](Cpp.md)) [Boost.Integer](CppInteger.md)
 ================================================
 
  
 
-[Boost.Integer](CppInteger.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) for working with [integers](CppInt.htm).
+[Boost.Integer](CppInteger.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) for working with [integers](CppInt.md).
 
  
 

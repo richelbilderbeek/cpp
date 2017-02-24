@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::fstream](CppFstream.htm)
+([C++](Cpp.md)) [std::fstream](CppFstream.md)
 ===============================================
 
  
 
-[std::fstream](CppFstream.htm) is an [STL](CppStl.htm)
-[stream](CppStream.htm) for [file I/O](CppFileIo.htm).
+[std::fstream](CppFstream.md) is an [STL](CppStl.md)
+[stream](CppStream.md) for [file I/O](CppFileIo.md).
 
  
 

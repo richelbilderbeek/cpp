@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Recent changes](CppRecentChanges.htm)
+([C++](Cpp.md)) [Recent changes](CppRecentChanges.md)
 =======================================================
 
  
@@ -23,7 +23,7 @@ repository](http://code.google.com/p/richelbilderbeek)
  
 
 Older changes can be viewed at the [recent changes
-archives](CppRecentChangesArchive.htm).
+archives](CppRecentChangesArchive.md).
 
  
 

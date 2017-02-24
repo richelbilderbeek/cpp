@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [locale.h](CppLocaleH.htm)
+([C++](Cpp.md)) [locale.h](CppLocaleH.md)
 ===========================================
 
  
 
-[locale.h](CppLocaleH.htm) is a C [header file](CppHeaderFile.htm) for
-localization. [clocale.h](CppClocaleH.htm) is its [STL](CppStl.htm)
+[locale.h](CppLocaleH.md) is a C [header file](CppHeaderFile.md) for
+localization. [clocale.h](CppClocaleH.md) is its [STL](CppStl.md)
 equivalent.
 
  

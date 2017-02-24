@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtTicTacToeWidget](CppQtTicTacToeWidget.htm)
+([C++](Cpp.md)) [QtTicTacToeWidget](CppQtTicTacToeWidget.md)
 ==============================================================
 
  
@@ -22,16 +22,16 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtTicTacToeWidget](CppQtTicTacToeWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to display the [TicTacToe](CppTicTacToe.htm)
-[class](CppClass.htm).
+[QtTicTacToeWidget](CppQtTicTacToeWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to display the [TicTacToe](CppTicTacToe.md)
+[class](CppClass.md).
 
  
 
-[QtTicTacToeWidget](CppQtTicTacToeWidget.htm) is used by:
+[QtTicTacToeWidget](CppQtTicTacToeWidget.md) is used by:
 
--   [(Game) TicTacToe](GameTicTacToe.htm)
--   [(Tool) TestTicTacToe](ToolTestTicTacToe.htm)
+-   [(Game) TicTacToe](GameTicTacToe.md)
+-   [(Tool) TestTicTacToe](ToolTestTicTacToe.md)
 
 Technical facts
 ---------------
@@ -114,5 +114,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

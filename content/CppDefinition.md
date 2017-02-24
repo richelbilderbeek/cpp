@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [definition](CppDefinition.htm)
+([C++](Cpp.md)) [definition](CppDefinition.md)
 ================================================
 
  
 
-'A [definition](CppDefinition.htm) of a [function](CppFunction.htm)
-tells the [compiler](CppCompiler.htm) how the
-[function](CppFunction.htm) works. It shows what instructions are
-executed for the [function](CppFunction.htm).' \[3\]
+'A [definition](CppDefinition.md) of a [function](CppFunction.md)
+tells the [compiler](CppCompiler.md) how the
+[function](CppFunction.md) works. It shows what instructions are
+executed for the [function](CppFunction.md).' \[3\]
 
  
 
-'A [definition](CppDefinition.htm) provides a unique description of an
-entity (for example, [type](CppDataType.htm),
-[instance](CppInstance.htm), [function](CppFunction.htm)) within a
+'A [definition](CppDefinition.md) provides a unique description of an
+entity (for example, [type](CppDataType.md),
+[instance](CppInstance.md), [function](CppFunction.md)) within a
 program' \[1\].
 
  
 
-There are two types of [definitions](CppDefinition.htm):
+There are two types of [definitions](CppDefinition.md):
 
  
 
-1.  A [variable](CppVariable.htm) [definition](CppDefinition.htm) is a
-    [variable](CppVariable.htm) [declaration](CppDeclaration.htm) with
+1.  A [variable](CppVariable.md) [definition](CppDefinition.md) is a
+    [variable](CppVariable.md) [declaration](CppDeclaration.md) with
     specifying an initial value
-2.  A [function](CppFunction.htm) [definition](CppDefinition.htm) is a
-    [function](CppFunction.htm) [declaration](CppDeclaration.htm) with
-    specifying the [function](CppFunction.htm) body
+2.  A [function](CppFunction.md) [definition](CppDefinition.md) is a
+    [function](CppFunction.md) [declaration](CppDeclaration.md) with
+    specifying the [function](CppFunction.md) body
 
  
 
@@ -52,13 +52,13 @@ There are two types of [definitions](CppDefinition.htm):
 
  
 
-[Variable](CppVariable.htm) [definition](CppDefinition.htm)
+[Variable](CppVariable.md) [definition](CppDefinition.md)
 -----------------------------------------------------------
 
  
 
-A [variable](CppVariable.htm) [definition](CppDefinition.htm) is a
-[variable](CppVariable.htm) [declaration](CppDeclaration.htm) with
+A [variable](CppVariable.md) [definition](CppDefinition.md) is a
+[variable](CppVariable.md) [declaration](CppDeclaration.md) with
 specifying an initial value.
 
  
@@ -79,14 +79,14 @@ specifying an initial value.
 
  
 
-[Function](CppFunction.htm) [definition](CppDefinition.htm)
+[Function](CppFunction.md) [definition](CppDefinition.md)
 -----------------------------------------------------------
 
  
 
-A [function](CppFunction.htm) [definition](CppDefinition.htm) is a
-[function](CppFunction.htm) [declaration](CppDeclaration.htm) with
-specifying the [function](CppFunction.htm) body.
+A [function](CppFunction.md) [definition](CppDefinition.md) is a
+[function](CppFunction.md) [declaration](CppDeclaration.md) with
+specifying the [function](CppFunction.md) body.
 
  
 
@@ -104,16 +104,16 @@ specifying the [function](CppFunction.htm) body.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Postpone [variable](CppVariable.htm)
-    [definitions](CppDefinition.htm) as long as possible \[2\]
--   Forgetting the semicolon at the end of a [class](CppClass.htm)
-    [definition](CppDefinition.htm) is a [syntax
-    error](CppSyntaxError.htm) \[3\]
+-   Postpone [variable](CppVariable.md)
+    [definitions](CppDefinition.md) as long as possible \[2\]
+-   Forgetting the semicolon at the end of a [class](CppClass.md)
+    [definition](CppDefinition.md) is a [syntax
+    error](CppSyntaxError.md) \[3\]
 
  
 
@@ -125,14 +125,14 @@ specifying the [function](CppFunction.htm) body.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 1.1.1
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 26: 'Postpone variable definitions as long
     as possible'.
 3.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System

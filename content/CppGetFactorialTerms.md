@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [GetFactorialTerms](CppGetFactorialTerms.htm)
+([C++](Cpp.md)) [GetFactorialTerms](CppGetFactorialTerms.md)
 ==============================================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to obtain the
-product terms of a [factorial](CppFactorial.htm). One can use this
-approach with [DivideTerms](CppDivideTerms.htm) to calculate the
-division of large [factorials](CppFactorial.htm).
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to obtain the
+product terms of a [factorial](CppFactorial.md). One can use this
+approach with [DivideTerms](CppDivideTerms.md) to calculate the
+division of large [factorials](CppFactorial.md).
 
  
 

@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Will it pay off to replace the use of doubles by a custom class using integers?](CppReplaceDoubleByCustomClassUsingIntegers.htm)
+([C++](Cpp.md)) [Will it pay off to replace the use of doubles by a custom class using integers?](CppReplaceDoubleByCustomClassUsingIntegers.md)
 ==================================================================================================================================================
 
  
 
 [Will it pay off to replace the use of doubles by a custom class using
-integers?](CppReplaceDoubleByCustomClassUsingIntegers.htm) is an
-[FAQ](CppFaq.htm) about the expected gains of replacing floating point
-(that is [double](CppDouble.htm)) calculations by using a custom
-[class](CppClass.htm) that uses [integers](CppInt.htm) to emulate a
+integers?](CppReplaceDoubleByCustomClassUsingIntegers.md) is an
+[FAQ](CppFaq.md) about the expected gains of replacing floating point
+(that is [double](CppDouble.md)) calculations by using a custom
+[class](CppClass.md) that uses [integers](CppInt.md) to emulate a
 floating point.
 
  
@@ -113,7 +113,7 @@ As such a custom class uses two integers, my guess will be: no.
 
  
 
-To draw a conclusion, use a [profiler](CppProfiler.htm).
+To draw a conclusion, use a [profiler](CppProfiler.md).
 
  
 
@@ -134,5 +134,5 @@ To draw a conclusion, use a [profiler](CppProfiler.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

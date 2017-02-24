@@ -12,42 +12,42 @@
 
  
 
-([C++](Cpp.htm)) [forward declaration](CppForwardDeclaration.htm)
+([C++](Cpp.md)) [forward declaration](CppForwardDeclaration.md)
 =================================================================
 
  
 
-A [forward declaration](CppForwardDeclaration.htm) is the
-[declaration](CppDeclaration.htm) of a [data type](CppDataType.htm) the
-[compiler](CppCompiler.htm) will encounter further on. Because this lets
-the [compiler](CppCompiler.htm) check less code, [forward
-declarations](CppForwardDeclaration.htm) speed up compilation.
+A [forward declaration](CppForwardDeclaration.md) is the
+[declaration](CppDeclaration.md) of a [data type](CppDataType.md) the
+[compiler](CppCompiler.md) will encounter further on. Because this lets
+the [compiler](CppCompiler.md) check less code, [forward
+declarations](CppForwardDeclaration.md) speed up compilation.
 
  
 
-Never [\#include](CppInclude.htm) a [header file](CppHeaderFile.htm)
-when a [forward declaration](CppForwardDeclaration.htm) will suffice
+Never [\#include](CppInclude.md) a [header file](CppHeaderFile.md)
+when a [forward declaration](CppForwardDeclaration.md) will suffice
 \[1\].
 
  
 
-A [forward declaration](CppForwardDeclaration.htm) of a
-[class](CppClass.htm) can be used when nothing needs to be known about
-that [class](CppClass.htm):
+A [forward declaration](CppForwardDeclaration.md) of a
+[class](CppClass.md) can be used when nothing needs to be known about
+that [class](CppClass.md):
 
  
 
--   The [member functions](CppMemberFunction.htm) of the
-    [class](CppClass.htm) are not called
--   Only a [reference](CppReference.htm) to the [class](CppClass.htm) is
+-   The [member functions](CppMemberFunction.md) of the
+    [class](CppClass.md) are not called
+-   Only a [reference](CppReference.md) to the [class](CppClass.md) is
     used (all references occupy the same space in memory)
--   Only a [pointer](CppPointer.htm) to the [class](CppClass.htm) is
+-   Only a [pointer](CppPointer.md) to the [class](CppClass.md) is
     used (all pointers occupy the same space in memory)
 
  
 
-For a list of [VCL forward declarations](CppVclForwardDeclaration.htm),
-[go to the VCL forward declaration page](CppVclForwardDeclaration.htm).
+For a list of [VCL forward declarations](CppVclForwardDeclaration.md),
+[go to the VCL forward declaration page](CppVclForwardDeclaration.md).
 
  
 
@@ -65,7 +65,7 @@ Example
  
 
 This example shows the header file of a class before and after using as
-much [forward declarations](CppForwardDeclaration.htm) as possible.
+much [forward declarations](CppForwardDeclaration.md) as possible.
 
  
 
@@ -103,12 +103,12 @@ much [forward declarations](CppForwardDeclaration.htm) as possible.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++.
+1.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN: 0-201-61562-2. Item 26: 'Never \#include a header when a
     forward declaration will suffice'
 

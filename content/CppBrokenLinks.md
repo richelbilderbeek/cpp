@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Why are so many links broken?](CppBrokenLinks.htm)
+([C++](Cpp.md)) [Why are so many links broken?](CppBrokenLinks.md)
 ====================================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 

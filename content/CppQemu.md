@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) ![qemu](PicQemu.png) [qemu](CppQemu.htm)
+([C++](Cpp.md)) ![qemu](PicQemu.png) [qemu](CppQemu.md)
 =========================================================
 
  
 
-[qemu](CppQemu.htm) is a program to run an [operating system](CppOs.htm)
-natively under another [operating system](CppOs.htm).
+[qemu](CppQemu.md) is a program to run an [operating system](CppOs.md)
+natively under another [operating system](CppOs.md).
 
  
 
-A similar program is [VirtualBox](CppVirtualBox.htm). Note that
-[VirtualBox](CppVirtualBox.htm) cannot run [Raspbian](CppRaspbian.htm),
-use [qemu](CppQemu.htm) to do so.
+A similar program is [VirtualBox](CppVirtualBox.md). Note that
+[VirtualBox](CppVirtualBox.md) cannot run [Raspbian](CppRaspbian.md),
+use [qemu](CppQemu.md) to do so.
 
  
 
 -   ![OKAY](PicGreen.png)![Raspbian](PicRaspbian.png)![qemu](PicQemu.png)
-    [Running raspbian under qemu](CppRaspbianUnderQemu.htm)
+    [Running raspbian under qemu](CppRaspbianUnderQemu.md)
 
  
 

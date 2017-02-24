@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::multiset](CppMultiset.htm)
+([C++](Cpp.md)) [std::multiset](CppMultiset.md)
 =================================================
 
  
 
-[std::multiset](CppMultiset.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) similar to [std::set](CppSet.htm), except
+[std::multiset](CppMultiset.md) is an [STL](CppStl.md)
+[container](CppContainer.md) similar to [std::set](CppSet.md), except
 it can contain multiple identical elements.
 
  

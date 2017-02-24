@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [RemoveColor](CppRemoveColor.htm)
+([C++](Cpp.md)) [RemoveColor](CppRemoveColor.md)
 ==================================================
 
  

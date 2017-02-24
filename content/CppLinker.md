@@ -12,23 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Linker](CppLinker.htm)
+([C++](Cpp.md)) [Linker](CppLinker.md)
 ========================================
 
  
 
-The [linker](CppLinker.htm) [links](CppLink.htm) [compilation
-units](CppUnit.htm) of a project into a single executable.
+The [linker](CppLinker.md) [links](CppLink.md) [compilation
+units](CppUnit.md) of a project into a single executable.
 
  
 
-[Linking](CppLink.htm) takes place after [compiling](CppCompile.htm). An
-[error](CppError.htm) during [linking](CppLink.htm) is called a [link
-error](CppLinkError.htm).
-
- 
-
- 
+[Linking](CppLink.md) takes place after [compiling](CppCompile.md). An
+[error](CppError.md) during [linking](CppLink.md) is called a [link
+error](CppLinkError.md).
 
  
 
@@ -36,13 +32,17 @@ error](CppLinkError.htm).
 
  
 
-![Qt Creator](PicQtCreator.png) Use a custom [linker](CppLinker.htm) in [Qt Creator](CppQtCreator.htm)
+ 
+
+ 
+
+![Qt Creator](PicQtCreator.png) Use a custom [linker](CppLinker.md) in [Qt Creator](CppQtCreator.md)
 ------------------------------------------------------------------------------------------------------
 
  
 
 Add (something like) the following lines to your [Qt project
-file](CppQtProjectFile.htm) (from \[1\]):
+file](CppQtProjectFile.md) (from \[1\]):
 
  
 
@@ -78,7 +78,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

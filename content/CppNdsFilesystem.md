@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![NDS](PicNds.png) [Can I use the NDS filesystem?](CppNdsFilesystem.htm)
+([C++](Cpp.md)) ![NDS](PicNds.png) [Can I use the NDS filesystem?](CppNdsFilesystem.md)
 =========================================================================================
 
  
 
-[FAQ](CppFaq.htm) page about [NDS](CppNds.htm) development.
+[FAQ](CppFaq.md) page about [NDS](CppNds.md) development.
 
  
 

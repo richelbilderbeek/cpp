@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator!](CppOperatorBitwiseNot.htm)
+([C++](Cpp.md)) [operator!](CppOperatorBitwiseNot.md)
 =======================================================
 
  
 
-[operator!](CppOperatorBitwiseNot.htm) (pronounces as 'bitwise not
-[operator](CppOperator.htm)') is an [operator](CppOperator.htm) to
+[operator!](CppOperatorBitwiseNot.md) (pronounces as 'bitwise not
+[operator](CppOperator.md)') is an [operator](CppOperator.md) to
 perform bitwise not. The example below shows how to reconstruct its
 truth table:
 

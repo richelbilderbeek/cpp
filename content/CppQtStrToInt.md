@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QtStrToInt](CppQtStrToInt.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QtStrToInt](CppQtStrToInt.md)
 =================================================================
 
  
 
-[QtStrToInt](CppQtStrToInt.htm) is a [conversion](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[QString](CppQString.htm) to an [integer](CppInt.htm).
+[QtStrToInt](CppQtStrToInt.md) is a [conversion](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[QString](CppQString.md) to an [integer](CppInt.md).
 
  
 

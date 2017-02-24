@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::search](CppSearch.htm)
+([C++](Cpp.md)) [std::search](CppSearch.md)
 =============================================
 
  
 
-[std::search](CppSearch.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) for searching a sequence of elements in
-[containers](CppContainer.htm). It is similar to
-[std::find](CppFind.htm), except that [std::find](CppFind.htm) searches
+[std::search](CppSearch.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) for searching a sequence of elements in
+[containers](CppContainer.md). It is similar to
+[std::find](CppFind.md), except that [std::find](CppFind.md) searches
 for a single element.
 
  
@@ -38,10 +38,10 @@ Example
 
  
 
-Assume you work with a [std::vector](CppVector.htm) of
-[integers](CppInt.htm) in which two sequences are forbidden: zero-zero
-and one-zero. With [std::search](CppSearch.htm) these sequences can be
-used to find if our exemplary [std::vector](CppVector.htm) is valid.
+Assume you work with a [std::vector](CppVector.md) of
+[integers](CppInt.md) in which two sequences are forbidden: zero-zero
+and one-zero. With [std::search](CppSearch.md) these sequences can be
+used to find if our exemplary [std::vector](CppVector.md) is valid.
 
  
 
@@ -59,7 +59,7 @@ used to find if our exemplary [std::vector](CppVector.htm) is valid.
 
  
 
-Example: [SeperateString](CppSeperateString.htm)
+Example: [SeperateString](CppSeperateString.md)
 ------------------------------------------------
 
  

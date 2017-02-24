@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [memory.h](CppMemoryH.htm)
+([C++](Cpp.md)) [memory.h](CppMemoryH.md)
 ===========================================
 
  
 
-[memory.h](CppMemoryH.htm) is a standard [header
-file](CppHeaderFile.htm).
+[memory.h](CppMemoryH.md) is a standard [header
+file](CppHeaderFile.md).
 
  
 
-[memory.h](CppMemoryH.htm) contains the [definition](CppDefinition.htm)
-of [std::auto\_ptr](CppAuto_ptr.htm).
+[memory.h](CppMemoryH.md) contains the [definition](CppDefinition.md)
+of [std::auto\_ptr](CppAuto_ptr.md).
 
  
 

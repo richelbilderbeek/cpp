@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtAboutDialog](CppWtAboutDialog.htm)
+([C++](Cpp.md)) [WtAboutDialog](CppWtAboutDialog.md)
 ======================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtAboutDialog](CppWtAboutDialog.htm) is a [class](CppClass.htm) for a
-[Wt](CppWt.htm) dialog displaying the [About](CppAbout.htm)
-[class](CppClass.htm).
+[WtAboutDialog](CppWtAboutDialog.md) is a [class](CppClass.md) for a
+[Wt](CppWt.md) dialog displaying the [About](CppAbout.md)
+[class](CppClass.md).
 
  
 
-[WtAboutDialog](CppWtAboutDialog.htm) is used in nearly all my web
+[WtAboutDialog](CppWtAboutDialog.md) is used in nearly all my web
 applications.
 
 Technical facts
@@ -112,5 +112,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

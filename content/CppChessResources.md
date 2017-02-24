@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ChessResources](CppChessResources.htm)
+([C++](Cpp.md)) [ChessResources](CppChessResources.md)
 ========================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[ChessResources](CppChessResources.htm) contains and manages
-[chess](CppChess.htm) resources
+[ChessResources](CppChessResources.md) contains and manages
+[chess](CppChess.md) resources
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

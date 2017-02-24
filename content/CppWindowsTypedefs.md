@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Windows typedefs](CppWindowsTypedefs.htm)
+([C++](Cpp.md)) [Windows typedefs](CppWindowsTypedefs.md)
 ===========================================================
 
  
 
-The [header file](CppHeaderFile.htm) 'windows.h' contains some
-[typedefs](CppTypedef.htm). I list some here:
+The [header file](CppHeaderFile.md) 'windows.h' contains some
+[typedefs](CppTypedef.md). I list some here:
 
  
 

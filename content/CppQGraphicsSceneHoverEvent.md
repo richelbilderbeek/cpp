@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsSceneHoverEvent](CppQGraphicsSceneHoverEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsSceneHoverEvent](CppQGraphicsSceneHoverEvent.md)
 =============================================================================================
 
  
 
-[QGraphicsSceneHoverEvent](CppQGraphicsSceneHoverEvent.htm) is a
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm).
+[QGraphicsSceneHoverEvent](CppQGraphicsSceneHoverEvent.md) is a
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md).
 
 related events.
 
@@ -43,5 +43,5 @@ related events.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

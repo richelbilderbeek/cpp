@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [SumSecond](SumSecond.htm)
+([C++](Cpp.md)) [SumSecond](SumSecond.md)
 ===========================================
 
  
@@ -25,12 +25,12 @@
 
  
 
-![STL](PicStl.png) [STL](CppStl.htm) [SumSecond](SumSecond.htm)
+![STL](PicStl.png) [STL](CppStl.md) [SumSecond](SumSecond.md)
 ---------------------------------------------------------------
 
  
 
-You may [contact me](Contact.htm) if you have an [STL](CppStl.htm)
+You may [contact me](Contact.md) if you have an [STL](CppStl.md)
 solution...
 
  
@@ -43,7 +43,7 @@ solution...
 
  
 
-![Boost](PicBoost.png) [Boost](CppBoost.htm).Bind [SumSecond](SumSecond.htm)
+![Boost](PicBoost.png) [Boost](CppBoost.md).Bind [SumSecond](SumSecond.md)
 ----------------------------------------------------------------------------
 
  
@@ -66,7 +66,7 @@ Thanks to 'ofwolfandman':
 
  
 
-![Boost](PicBoost.png) [Boost](CppBoost.htm).Lambda [SumSecond](SumSecond.htm)
+![Boost](PicBoost.png) [Boost](CppBoost.md).Lambda [SumSecond](SumSecond.md)
 ------------------------------------------------------------------------------
 
  

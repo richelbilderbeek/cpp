@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png)![Ubuntu](PicUbuntu.png) [Installing the Android SDK under Ubuntu](CppAndroidSdkInstallUbuntu.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png)![Ubuntu](PicUbuntu.png) [Installing the Android SDK under Ubuntu](CppAndroidSdkInstallUbuntu.md)
 =============================================================================================================================================
 
  
 
 This page describes how to [install the Android
-SDK](CppAndroidSdkInstall.htm) under [Ubuntu](CppUbuntu.htm):
+SDK](CppAndroidSdkInstall.md) under [Ubuntu](CppUbuntu.md):
 
  
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::stringstream](CppStringstream.htm)
+([C++](Cpp.md)) [std::stringstream](CppStringstream.md)
 =========================================================
 
  
 
-[std::stringstream](CppStringstream.htm) is a [stream](CppStream.htm)
-for [std::strings](CppString.htm).
+[std::stringstream](CppStringstream.md) is a [stream](CppStream.md)
+for [std::strings](CppString.md).
 
  
 
 The example below shows how to use
-[std::stringstream](CppStringstream.htm) to concatenate
-[container](CppContainer.htm) elements.
+[std::stringstream](CppStringstream.md) to concatenate
+[container](CppContainer.md) elements.
 
  
 

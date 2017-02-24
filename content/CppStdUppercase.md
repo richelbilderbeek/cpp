@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::uppercase](CppUppercase.htm)
+([C++](Cpp.md)) [std::uppercase](CppUppercase.md)
 ===================================================
 
  
 
-[std::uppercase](CppUppercase.htm) is a [stream](CppStream.htm)
+[std::uppercase](CppUppercase.md) is a [stream](CppStream.md)
 manipulator: when a number's base and/or non-decimal digits are show,
-[std::uppercase](CppUppercase.htm) displays these in uppercase.
+[std::uppercase](CppUppercase.md) displays these in uppercase.
 
  
 

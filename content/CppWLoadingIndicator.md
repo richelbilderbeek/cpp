@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WLoadingIndicator](CppWLoadingIndicator.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WLoadingIndicator](CppWLoadingIndicator.md)
 ===================================================================================
 
  
 
-[Wt::WLoadingIndicator](CppWLoadingIndicator.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WLoadingIndicator](CppWLoadingIndicator.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WLoadingIndicator](CppWLoadingIndicator.htm) is used in, among
+[Wt::WLoadingIndicator](CppWLoadingIndicator.md) is used in, among
 others:
 
 -   ...

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [gnuplot example 6: creating and displaying a scatter plot](CppGnuplotExample6.htm)
+([C++](Cpp.md)) [gnuplot example 6: creating and displaying a scatter plot](CppGnuplotExample6.md)
 ====================================================================================================
 
  
 
-[gnuplot example 6](CppGnuplotExample6.htm) is a
-[gnuplot](CppGnuplot.htm) example.
+[gnuplot example 6](CppGnuplotExample6.md) is a
+[gnuplot](CppGnuplot.md) example.
 
  
 
@@ -41,33 +41,33 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.04 (precise)
--   ![Windows](PicWindows.png) [Windows](CppWindows.htm) XP
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.04 (precise)
+-   ![Windows](PicWindows.png) [Windows](CppWindows.md) XP
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.4.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.4.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.3
+-   [G++](CppGpp.md) 4.6.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.3
 
  
@@ -80,7 +80,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppGnuplotExample6.pro
+[Qt project file](CppQtProjectFile.md): CppGnuplotExample6.pro
 ---------------------------------------------------------------
 
  
@@ -127,5 +127,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

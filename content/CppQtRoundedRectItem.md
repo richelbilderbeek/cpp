@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtRoundedRectItem](CppQtRoundedRectItem.htm)
+([C++](Cpp.md)) [QtRoundedRectItem](CppQtRoundedRectItem.md)
 ==============================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtRoundedEditRectItem](CppQtRoundedEditRectItem.htm) is a
-[Qt](CppQt.htm) [QGraphicsItem](CppQGraphicsItem.htm)
-[class](CppClass.htm) that displays a rounded rectangle.
+[QtRoundedEditRectItem](CppQtRoundedEditRectItem.md) is a
+[Qt](CppQt.md) [QGraphicsItem](CppQGraphicsItem.md)
+[class](CppClass.md) that displays a rounded rectangle.
 
 Technical facts
 ---------------
@@ -164,5 +164,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [\_algo.c: Call to undefined function 'rand'](CppCompileError_algoCcallToUndefinedFunctionRand.htm)
+([C++](Cpp.md)) [\_algo.c: Call to undefined function 'rand'](CppCompileError_algoCcallToUndefinedFunctionRand.md)
 ====================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -59,18 +59,18 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
  
 
-The [compiler](CppCompiler.htm) cannot find the function rand (note that
-it does not complain that it cannot find [std::rand](CppRand.htm)). But
+The [compiler](CppCompiler.md) cannot find the function rand (note that
+it does not complain that it cannot find [std::rand](CppRand.md)). But
 it will only need rand when making use of the function above. For
-example, when you use [std::random\_shuffle](CppRandom_shuffle.htm).
+example, when you use [std::random\_shuffle](CppRandom_shuffle.md).
 
  
 
@@ -94,9 +94,9 @@ Solution
  
 
 It is not a good idea to modify standard [header
-files](CppHeaderFile.htm). But the [compiler](CppCompiler.htm) cannot
-find rand, but it can find [std::rand](CppRand.htm). So I add the
-[namespace](CppNamespace.htm) [std](CppStd.htm) to rand. And I have
+files](CppHeaderFile.md). But the [compiler](CppCompiler.md) cannot
+find rand, but it can find [std::rand](CppRand.md). So I add the
+[namespace](CppNamespace.md) [std](CppStd.md) to rand. And I have
 never had trouble with this.
 
  

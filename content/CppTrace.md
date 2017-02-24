@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Trace](CppTrace.htm)
+([C++](Cpp.md)) [Trace](CppTrace.md)
 ======================================
 
  
@@ -64,5 +64,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

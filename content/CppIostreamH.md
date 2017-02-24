@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [iostream.h](CppIostreamH.htm)
+([C++](Cpp.md)) [iostream.h](CppIostreamH.md)
 ===============================================
 
  
 
-[iostream.h](CppIostreamH.htm) is the [header file](CppHeaderFile.htm)
-containg the [definitions](CppDefinition.htm) from input and output
-[streams](CppStream.htm) like [std::cout](CppCout.htm) and
-[std::cin](CppCin.htm).
+[iostream.h](CppIostreamH.md) is the [header file](CppHeaderFile.md)
+containg the [definitions](CppDefinition.md) from input and output
+[streams](CppStream.md) like [std::cout](CppCout.md) and
+[std::cin](CppCin.md).
 
  
 
@@ -46,17 +46,17 @@ containg the [definitions](CppDefinition.htm) from input and output
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Forgetting to [include](CppInclude.htm) the
-    &lt;[iostream](CppIostreamH.htm)&gt; [header](CppHeaderFile.htm) in
+-   Forgetting to [include](CppInclude.md) the
+    &lt;[iostream](CppIostreamH.md)&gt; [header](CppHeaderFile.md) in
     a program that inputs data from the keyboard or outputs data to the
-    screen causes the [compiler](CppCompiler.htm) to issue an
-    [error](CppCompileError.htm) message \[1\], for example ['cout' is
-    not a member of 'std'](CppCompileErrorCoutIsNotAmemberOfStd.htm)
+    screen causes the [compiler](CppCompiler.md) to issue an
+    [error](CppCompileError.md) message \[1\], for example ['cout' is
+    not a member of 'std'](CppCompileErrorCoutIsNotAmemberOfStd.md)
 
  
 
@@ -68,7 +68,7 @@ containg the [definitions](CppDefinition.htm) from input and output
 
  
 
-[References](CppReference.htm)
+[References](CppReference.md)
 ------------------------------
 
  

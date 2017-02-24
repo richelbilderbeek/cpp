@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WDefaultLoadingIndicator](CppWDefaultLoadingIndicator.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WDefaultLoadingIndicator](CppWDefaultLoadingIndicator.md)
 =================================================================================================
 
  
 
-[Wt::WDefaultLoadingIndicator](CppWDefaultLoadingIndicator.htm) is a
-[Wt](CppWt.htm) [class](CppClass.htm) for ...
+[Wt::WDefaultLoadingIndicator](CppWDefaultLoadingIndicator.md) is a
+[Wt](CppWt.md) [class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WDefaultLoadingIndicator](CppWDefaultLoadingIndicator.htm) is used
+[Wt::WDefaultLoadingIndicator](CppWDefaultLoadingIndicator.md) is used
 in, among others:
 
 -   ...

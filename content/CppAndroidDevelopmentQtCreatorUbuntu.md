@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Android development using Qt Creator under Ubuntu](CppAndroidDevelopmentQtCreatorUbuntu.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Android development using Qt Creator under Ubuntu](CppAndroidDevelopmentQtCreatorUbuntu.md)
 ================================================================================================================================================================================================
 
  
 
-This page describes [Android development](CppAndroidDevelopment.htm)
-using the [Qt Creator](CppQtCreator.htm) [IDE](CppIde.htm) under the
-[Ubuntu](CppUbuntu.htm) [operating system](CppOs.htm).
+This page describes [Android development](CppAndroidDevelopment.md)
+using the [Qt Creator](CppQtCreator.md) [IDE](CppIde.md) under the
+[Ubuntu](CppUbuntu.md) [operating system](CppOs.md).
 
  
 
--   [Install the Android SDK](CppAndroidSdkInstall.htm)
--   [Install the Android NDK](CppAndroidNdkInstall.htm)
+-   [Install the Android SDK](CppAndroidSdkInstall.md)
+-   [Install the Android NDK](CppAndroidNdkInstall.md)
 -   From now, I follow the instructions of \[1\] in some more detail,
     for the android-lighthouse version of the 20th January of 2011
 -   Obtain the source code, by typing at command-line:\
@@ -107,7 +107,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

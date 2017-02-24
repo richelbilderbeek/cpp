@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::setfill](CppSetfill.htm)
+([C++](Cpp.md)) [std::setfill](CppSetfill.md)
 ===============================================
 
  
 
-[std::setfill](CppSetfill.htm) is an [STL](CppStl.htm)
-[std::iostream](CppIostream.htm) manipulator to determine the
-filling/padding character used by [std::setw](CppSetw.htm).
+[std::setfill](CppSetfill.md) is an [STL](CppStl.md)
+[std::iostream](CppIostream.md) manipulator to determine the
+filling/padding character used by [std::setw](CppSetw.md).
 
  
 

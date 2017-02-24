@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::initializer\_list](CppInitializer_list.htm)
+([C++](Cpp.md)) [std::initializer\_list](CppInitializer_list.md)
 ==================================================================
 
  
 
-[std::initializer\_list](CppInitializer_list.htm) is an
-[STL](CppStl.htm) [container](CppContainer.htm) to store elements as an
+[std::initializer\_list](CppInitializer_list.md) is an
+[STL](CppStl.md) [container](CppContainer.md) to store elements as an
 initializer\_list.
 
  
@@ -31,7 +31,7 @@ initializer\_list.
 
  
 
-[std::initializer\_list](CppInitializer_list.htm) [examples](CppExample.htm)
+[std::initializer\_list](CppInitializer_list.md) [examples](CppExample.md)
 ----------------------------------------------------------------------------
 
  
@@ -51,13 +51,13 @@ initializer\_list.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Remember that [auto](CppAuto.htm) + { expr } ==
-    [std::initializer\_list](CppStdInitializer_list.htm) \[1\]
+-   Remember that [auto](CppAuto.md) + { expr } ==
+    [std::initializer\_list](CppStdInitializer_list.md) \[1\]
 
  
 
@@ -69,12 +69,12 @@ initializer\_list.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Remember that auto + {
     expr } == std::initializer\_list'
 
@@ -97,5 +97,5 @@ initializer\_list.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

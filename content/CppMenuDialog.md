@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MenuDialog](CppMenuDialog.htm)
+([C++](Cpp.md)) [MenuDialog](CppMenuDialog.md)
 ================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[MenuDialog](CppMenuDialog.htm) is a [class](CppClass.htm) for a menu
+[MenuDialog](CppMenuDialog.md) is a [class](CppClass.md) for a menu
 dialog.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

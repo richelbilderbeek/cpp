@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ClnExample2](CppClnExample2.htm)
+([C++](Cpp.md)) [ClnExample2](CppClnExample2.md)
 ==================================================
 
  
@@ -22,40 +22,40 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CLN example 2](CppClnExample2.htm) is a [CLN](CppCln.htm) example that
-shows how to to [convert](CppConvert.htm) an [cln::cl\_I](CppCl_I.htm)
-to [std::string](CppStdString.htm) and adding the thousands seperators.
+[CLN example 2](CppClnExample2.md) is a [CLN](CppCln.md) example that
+shows how to to [convert](CppConvert.md) an [cln::cl\_I](CppCl_I.md)
+to [std::string](CppStdString.md) and adding the thousands seperators.
 
 Technical facts
 ---------------
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -68,7 +68,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppClnExample2/CppClnExample2.pro
+[Qt project file](CppQtProjectFile.md): ./CppClnExample2/CppClnExample2.pro
 ----------------------------------------------------------------------------
 
  
@@ -115,5 +115,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

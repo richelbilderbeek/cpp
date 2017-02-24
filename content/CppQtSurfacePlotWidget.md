@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtSurfacePlotWidget](CppQtSurfacePlotWidget.htm)
+([C++](Cpp.md)) [QtSurfacePlotWidget](CppQtSurfacePlotWidget.md)
 ==================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtSurfacePlotWidget](CppQtSurfacePlotWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for displaying a surface plot.
+[QtSurfacePlotWidget](CppQtSurfacePlotWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for displaying a surface plot.
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

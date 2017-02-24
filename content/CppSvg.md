@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) [SVG](CppSvg.htm)
+([C++](Cpp.md)) [SVG](CppSvg.md)
 ==================================
 
  
 
-[SVG](CppSvg.htm) (an abbreviation of 'Scalable Vector Graphic' is a
+[SVG](CppSvg.md) (an abbreviation of 'Scalable Vector Graphic' is a
 graphic format, with the .svg file extension
 
  
 
-[SVG](CppSvg.htm) [classes](CppClass.htm):
+[SVG](CppSvg.md) [classes](CppClass.md):
 
 -   ![Boost](PicBoost.png)
     boost::geometry::svg\_mapper&lt;point\_type&gt; in
     'boost/geometry/extensions/io/svg/svg\_mapper.hpp'
--   ![Qt](PicQt.png) [QtSvg](CppQSvg.htm): a [Qt
-    module](CppQtModule.htm)
--   ![Qt](PicQt.png) [QSvgWidget](CppQSvgWidget.htm)
--   ![Qt](PicQt.png) [QGraphicsSvgItem](CppQGraphicsSvgItem.htm)
+-   ![Qt](PicQt.png) [QtSvg](CppQSvg.md): a [Qt
+    module](CppQtModule.md)
+-   ![Qt](PicQt.png) [QSvgWidget](CppQSvgWidget.md)
+-   ![Qt](PicQt.png) [QGraphicsSvgItem](CppQGraphicsSvgItem.md)
 
-[QmakeErrorUnknownModulesInQtSvg](CppQmakeErrorUnknownModulesInQtSvg.htm)
+[QmakeErrorUnknownModulesInQtSvg](CppQmakeErrorUnknownModulesInQtSvg.md)
 
  
 

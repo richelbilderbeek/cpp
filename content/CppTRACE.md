@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Trace](CppTrace.htm)
+([C++](Cpp.md)) [Trace](CppTrace.md)
 ======================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[To trace](CppTrace.htm) something (for example, the value of a
-[variable](CppVariable.htm)), denotes displaying it while
-[debugging](CppDebug.htm).
+[To trace](CppTrace.md) something (for example, the value of a
+[variable](CppVariable.md)), denotes displaying it while
+[debugging](CppDebug.md).
 
  
 
@@ -79,5 +79,5 @@ trace.h
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

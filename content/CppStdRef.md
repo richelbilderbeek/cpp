@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [std::ref](CppRef.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::ref](CppRef.md)
 ==============================================================
 
  
 
-The [std::ref](CppRef.htm) is a [C++11](Cpp11.htm) [class](CppClass.htm)
-for wrapping [references](CppReference.htm).
+The [std::ref](CppRef.md) is a [C++11](Cpp11.md) [class](CppClass.htm)
+for wrapping [references](CppReference.md).
 
  
 
--   [std::ref example 1: basics](CppStdRefExample1.htm)
+-   [std::ref example 1: basics](CppStdRefExample1.md)
 -   [std::ref example 2: putting references in a
-    vector](CppStdRefExample2.htm)
+    vector](CppStdRefExample2.md)
 
  
 

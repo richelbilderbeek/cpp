@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [ALGLIB](CppAlglib.htm)
+([C++](Cpp.md)) [ALGLIB](CppAlglib.md)
 ========================================
 
  
 
-The [ALGLIB](CppAlglib.htm) is 'a cross-platform open source numerical
-analysis and data processing [library](CppLibrary.htm) \[1\]'.
+The [ALGLIB](CppAlglib.md) is 'a cross-platform open source numerical
+analysis and data processing [library](CppLibrary.md) \[1\]'.
 
  
 
@@ -50,8 +50,8 @@ Examples
 
  
 
-1.  [ALGLIB example 1: linear fit](CppAlglibExample1.htm)
-2.  [ALGLIB example 2: linear fit](CppAlglibExample2.htm)
+1.  [ALGLIB example 1: linear fit](CppAlglibExample1.md)
+2.  [ALGLIB example 2: linear fit](CppAlglibExample2.md)
 
  
 
@@ -63,7 +63,7 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

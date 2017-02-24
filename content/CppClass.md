@@ -12,48 +12,44 @@
 
  
 
-([C++](Cpp.htm)) [class](CppClass.htm)
+([C++](Cpp.md)) [class](CppClass.md)
 ======================================
 
  
 
-[class](CppClass.htm) is a [keyword](CppKeyword.htm) to start a
-[class](CppClass.htm) [declaration](CppDeclaration.htm). A
-[class](CppClass.htm) is a user-defined [data type](CppDataType.htm) for
-a concept There are multiple [class access levels](CppAccessLevel.htm).
-There are multiple [class types](CppClassType.htm). There are multiple
-[class examples](CppClassExample.htm).
+[class](CppClass.md) is a [keyword](CppKeyword.md) to start a
+[class](CppClass.md) [declaration](CppDeclaration.md). A
+[class](CppClass.md) is a user-defined [data type](CppDataType.md) for
+a concept There are multiple [class access levels](CppAccessLevel.md).
+There are multiple [class types](CppClassType.md). There are multiple
+[class examples](CppClassExample.md).
 
  
 
-'A [class](CppClass.htm) is a user-defined [data type](CppDataType.htm)
-which consists of data elements and [functions](CppFunction.htm) which
-operate on that data. In C++, this may be [declared](CppDeclaration.htm)
-as a [class](CppClass.htm); it may also be
-[declared](CppDeclaration.htm) as a [struct](CppStruct.htm) or a
-[union](CppUnion.htm). Data defined in a [class](CppClass.htm) is called
-[member data](CppMemberData.htm) and [functions](CppFunction.htm)
-[defined](CppDefinition.htm) in a [class](CppClass.htm) are called
-[member functions](CppMemberFunction.htm).' \[2\]
+'A [class](CppClass.md) is a user-defined [data type](CppDataType.md)
+which consists of data elements and [functions](CppFunction.md) which
+operate on that data. In C++, this may be [declared](CppDeclaration.md)
+as a [class](CppClass.md); it may also be
+[declared](CppDeclaration.md) as a [struct](CppStruct.md) or a
+[union](CppUnion.md). Data defined in a [class](CppClass.md) is called
+[member data](CppMemberData.md) and [functions](CppFunction.md)
+[defined](CppDefinition.md) in a [class](CppClass.md) are called
+[member functions](CppMemberFunction.md).' \[2\]
 
  
 
 Class elements are:
 
--   [constructor](CppConstructor.htm)
--   [copy assignment operator](CppCopyAssignmentOperator.htm)
--   [destructor](CppDestructor.htm)
--   [members](CppMember.htm)
--   [helper functions](CppHelperFunction.htm)
+-   [constructor](CppConstructor.md)
+-   [copy assignment operator](CppCopyAssignmentOperator.md)
+-   [destructor](CppDestructor.md)
+-   [members](CppMember.md)
+-   [helper functions](CppHelperFunction.md)
 
  
 
-The [class](CppClass.htm) [keyword](CppKeyword.htm) also be used to
-create a [template function](CppTemplateFunction.htm).
-
- 
-
- 
+The [class](CppClass.md) [keyword](CppKeyword.md) also be used to
+create a [template function](CppTemplateFunction.md).
 
  
 
@@ -61,7 +57,11 @@ create a [template function](CppTemplateFunction.htm).
 
  
 
-![C++98](PicCpp98.png)![C++11](PicCpp11.png) Example [class](CppClass.htm)
+ 
+
+ 
+
+![C++98](PicCpp98.png)![C++11](PicCpp11.png) Example [class](CppClass.md)
 --------------------------------------------------------------------------
 
  
@@ -80,18 +80,18 @@ create a [template function](CppTemplateFunction.htm).
 
  
 
-![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Class](CppClass.htm) elements
+![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Class](CppClass.md) elements
 ---------------------------------------------------------------------------
 
  
 
-A [class](CppClass.htm) can have many types of [members](CppMember.htm):
+A [class](CppClass.md) can have many types of [members](CppMember.md):
 
--   [member functions](CppMemberFunction.htm) or member
-    [functions](CppFunction.htm), of which the [Big
-    Four](CppBigFour.htm) are especially important
--   [data members](CppDataMember.htm) or member
-    [variables](CppVariable.htm)
+-   [member functions](CppMemberFunction.md) or member
+    [functions](CppFunction.md), of which the [Big
+    Four](CppBigFour.md) are especially important
+-   [data members](CppDataMember.md) or member
+    [variables](CppVariable.md)
 -   member constants
 -   member types
 
@@ -103,11 +103,11 @@ A [class](CppClass.htm) can have many types of [members](CppMember.htm):
 
  
 
-All [classes](CppClass.htm) have a four special methods called the [Big
-Four](CppBigFour.htm): [default constructor](CppDefaultConstructor.htm),
-[destructor](CppDestructor.htm), [copy
-constructor](CppCopyConstructor.htm) and [copy assignment
-operator](CppCopyAssignmentOperator.htm):
+All [classes](CppClass.md) have a four special methods called the [Big
+Four](CppBigFour.md): [default constructor](CppDefaultConstructor.md),
+[destructor](CppDestructor.md), [copy
+constructor](CppCopyConstructor.md) and [copy assignment
+operator](CppCopyAssignmentOperator.md):
 
  
 
@@ -118,7 +118,7 @@ operator](CppCopyAssignmentOperator.htm):
  
 
 This class called NoClass is silently converted by your
-[compiler](CppCompiler.htm) to the following (from \[1\]):
+[compiler](CppCompiler.md) to the following (from \[1\]):
 
  
 
@@ -136,15 +136,15 @@ This class called NoClass is silently converted by your
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   Know what functions C++ silently writes and calls \[1\]
--   Forgetting the semicolon at the end of a [class](CppClass.htm)
-    [definition](CppDefinition.htm) is a [syntax
-    error](CppSyntaxError.htm) \[3\]
+-   Forgetting the semicolon at the end of a [class](CppClass.md)
+    [definition](CppDefinition.md) is a [syntax
+    error](CppSyntaxError.md) \[3\]
 -   Use UpperCamelCase for class names \[4\]
 
  
@@ -157,12 +157,12 @@ This class called NoClass is silently converted by your
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 5: 'Know what functions C++ silently
     writes and calls'
 2.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System

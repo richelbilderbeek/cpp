@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png)![Qt Creator](PicQtCreator.png) [How to use C++11 under Qt Creator?](CppQtCpp11.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png)![Qt Creator](PicQtCreator.png) [How to use C++11 under Qt Creator?](CppQtCpp11.md)
 ===========================================================================================================================
 
  
 
-[FAQ](CppQtFaq.htm)
+[FAQ](CppQtFaq.md)
 
  
 
-In the [project file](CppQtProjectFile.htm), add the following line to
-enable [C++11](Cpp11.htm):
+In the [project file](CppQtProjectFile.md), add the following line to
+enable [C++11](Cpp11.md):
 
  
 

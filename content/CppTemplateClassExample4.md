@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [TemplateClassExample4](CppTemplateClassExample4.htm)
+([C++](Cpp.md)) [TemplateClassExample4](CppTemplateClassExample4.md)
 ======================================================================
 
  
@@ -23,8 +23,8 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
  
 
 [Template class example 4: class that has an enum class template
-type](CppTemplateClassExample4.htm) is a [template
-class](CppTemplateClass.htm) [example](CppExample.htm).
+type](CppTemplateClassExample4.md) is a [template
+class](CppTemplateClass.md) [example](CppExample.md).
 
  
 
@@ -36,30 +36,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -72,7 +72,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppTemplateClassExample4/CppTemplateClassExample4.pro
+[Qt project file](CppQtProjectFile.md): ./CppTemplateClassExample4/CppTemplateClassExample4.pro
 ------------------------------------------------------------------------------------------------
 
  
@@ -119,5 +119,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

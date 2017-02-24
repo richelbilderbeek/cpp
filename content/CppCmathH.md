@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [cmath.h](CppCmathH.htm)
+([C++](Cpp.md)) [cmath.h](CppCmathH.md)
 =========================================
 
  
 
-[cmath.h](CppCmathH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) for mathematical [functions](CppFunction.htm).
+[cmath.h](CppCmathH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) for mathematical [functions](CppFunction.md).
 
  
 
@@ -36,7 +36,7 @@ file](CppHeaderFile.htm) for mathematical [functions](CppFunction.htm).
 
  
 
-List of functions in [cmath.h](CppCmathH.htm) (incomplete)
+List of functions in [cmath.h](CppCmathH.md) (incomplete)
 ----------------------------------------------------------
 
  

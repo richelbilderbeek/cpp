@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtToggleButtonWidget](CppWtToggleButtonWidget.htm)
+([C++](Cpp.md)) [WtToggleButtonWidget](CppWtToggleButtonWidget.md)
 ====================================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtToggleButtonWidget](CppWtToggleButtonWidget.htm) is a [Wt](CppWt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) to display an
-[ToggleButtonWidget](CppToggleButtonWidget.htm).
+[WtToggleButtonWidget](CppWtToggleButtonWidget.md) is a [Wt](CppWt.md)
+[widget](CppWidget.md) [class](CppClass.md) to display an
+[ToggleButtonWidget](CppToggleButtonWidget.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

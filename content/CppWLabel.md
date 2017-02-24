@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WLabel](CppWLabel.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WLabel](CppWLabel.md)
 =============================================================
 
  
 
-[Wt::WLabel](CppWLabel.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
-for a single-line text. It is not possible to use [XHTML](CppXhtml.htm)
-markup in this text, use [Wt::WText](CppWText.htm) if this is desired.
+[Wt::WLabel](CppWLabel.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+for a single-line text. It is not possible to use [XHTML](CppXhtml.md)
+markup in this text, use [Wt::WText](CppWText.md) if this is desired.
 
  
 
@@ -36,7 +36,7 @@ Examples
 
  
 
-[Wt::WLabel](CppWLabel.htm) is used in, among others:
+[Wt::WLabel](CppWLabel.md) is used in, among others:
 
 -   ...
 

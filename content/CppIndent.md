@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [indent](CppIndent.htm)
+([C++](Cpp.md)) [indent](CppIndent.md)
 ========================================
 
  
 
-[Indenting](CppIndent.htm) is adding whitespace to make code easier to
+[Indenting](CppIndent.md) is adding whitespace to make code easier to
 read
 
  
@@ -30,20 +30,20 @@ read
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   [Indent](CppIndent.htm) the body of each [function](CppFunction.htm)
+-   [Indent](CppIndent.md) the body of each [function](CppFunction.md)
     one level within the braces that delimit the
-    [function](CppFunction.htm)'s body \[1\]
--   [Indent](CppIndent.htm) block statements \[3\]
--   [Indent](CppIndent.htm) statements after a label \[4\]
--   Set a convention for the size of the [indent](CppIndent.htm) you
+    [function](CppFunction.md)'s body \[1\]
+-   [Indent](CppIndent.md) block statements \[3\]
+-   [Indent](CppIndent.md) statements after a label \[4\]
+-   Set a convention for the size of the [indent](CppIndent.md) you
     prefer, then apply it uniformly \[2\]
 -   Some standards allow for tabs \[2\], others forbid them \[5\], to
-    create [indent](CppIndent.htm)
+    create [indent](CppIndent.md)
 
  
 
@@ -55,7 +55,7 @@ read
 
  
 
-[References](CppReference.htm)
+[References](CppReference.md)
 ------------------------------
 
  

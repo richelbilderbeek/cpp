@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [\#else](CppPreElse.htm)
+([C++](Cpp.md)) [\#else](CppPreElse.md)
 =========================================
 
  
 
-[\#else](CppPreElse.htm) is the [preprocessor](CppPreprocessor.htm)
-equivalent of [else](CppElse.htm).
+[\#else](CppPreElse.md) is the [preprocessor](CppPreprocessor.md)
+equivalent of [else](CppElse.md).
 
  
 

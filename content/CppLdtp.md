@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [ldtp](CppLdtp.htm)
+([C++](Cpp.md)) [ldtp](CppLdtp.md)
 ====================================
 
  
 
-[ldtp](CppLdtp.htm) is a cross platform [GUI](CppGui.htm) test
-automation tool for [Linux](CppLinux.htm). For
-[Windows](CppWindows.htm), it is called 'Cobra' and for
-[Mac](CppMac.htm) it is called 'PyATOM'.
+[ldtp](CppLdtp.md) is a cross platform [GUI](CppGui.md) test
+automation tool for [Linux](CppLinux.md). For
+[Windows](CppWindows.md), it is called 'Cobra' and for
+[Mac](CppMac.md) it is called 'PyATOM'.
 
  
 
 Make sure you have run the following command at least once in the
-command line, otherwise [ldtp](CppLdtp.htm) will not be detected in
-[Python](CppPython.htm):
+command line, otherwise [ldtp](CppLdtp.md) will not be detected in
+[Python](CppPython.md):
 
  
 
@@ -49,7 +49,7 @@ Examples
 
  
 
--   [ldtp example 1: don't press the red button](CppLdtpExample1.htm)
+-   [ldtp example 1: don't press the red button](CppLdtpExample1.md)
 
  
 
@@ -66,9 +66,9 @@ Platforms
 
  
 
--   ![FAIL](PicRed.png) [Kubuntu](CppKubuntu.htm)
--   ![FAIL](PicRed.png) [Lubuntu](CppLubuntu.htm)
--   ![TODO](PicSpacer.png) [OpenSUSE](CppOpenSUSE.htm)
+-   ![FAIL](PicRed.png) [Kubuntu](CppKubuntu.md)
+-   ![FAIL](PicRed.png) [Lubuntu](CppLubuntu.md)
+-   ![TODO](PicSpacer.png) [OpenSUSE](CppOpenSUSE.md)
 
  
 

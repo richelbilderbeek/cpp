@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Coordinat](CppCoordinat.htm)
+([C++](Cpp.md)) [Coordinat](CppCoordinat.md)
 ==============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Coordinat](CppCoordinat.htm) is a [class](CppClass.htm) for a
+[Coordinat](CppCoordinat.md) is a [class](CppClass.md) for a
 coordinat.
 
 Technical facts
@@ -220,5 +220,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

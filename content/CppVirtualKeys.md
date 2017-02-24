@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Windows Virtual keys](CppVirtualKeys.htm)
+([C++](Cpp.md)) [Windows Virtual keys](CppVirtualKeys.md)
 ===========================================================
 
  
 
-In [C++ Builder](CppBuilder.htm) 6.0 all [windows virtual
-keys](CppVirtualKeys.htm) are defined in 'winuser.h', as shown in the
+In [C++ Builder](CppBuilder.md) 6.0 all [windows virtual
+keys](CppVirtualKeys.md) are defined in 'winuser.h', as shown in the
 code below.
 
  

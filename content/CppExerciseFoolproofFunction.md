@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#1: a foolproof function](CppExerciseFoolproofFunction.htm)
+([C++](Cpp.md)) [Exercise \#1: a foolproof function](CppExerciseFoolproofFunction.md)
 =======================================================================================
 
  
@@ -23,12 +23,12 @@ Date added: 10th of June 2008
 
  
 
-In this [exercise](CppExercise.htm), you must write a foolproof
-[function](CppFunction.htm).
+In this [exercise](CppExercise.md), you must write a foolproof
+[function](CppFunction.md).
 
  
 
-You are the maintainer of a Thing and the [function](CppFunction.htm)
+You are the maintainer of a Thing and the [function](CppFunction.md)
 ReadThing below.
 
  
@@ -39,7 +39,7 @@ ReadThing below.
 
  
 
-Make the [function](CppFunction.htm) ReadThing foolproof. There are four
+Make the [function](CppFunction.md) ReadThing foolproof. There are four
 different modifications to do:
 
 1.  prevent that Thing is modified
@@ -50,7 +50,7 @@ different modifications to do:
  
 
 [View the answer of this
-exercise](CppExerciseFoolproofFunctionAnswer.htm).
+exercise](CppExerciseFoolproofFunctionAnswer.md).
 
  
 

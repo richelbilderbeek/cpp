@@ -12,32 +12,32 @@
 
  
 
-([C++](Cpp.htm)) [Version](CppVersion.htm)
+([C++](Cpp.md)) [Version](CppVersion.md)
 ==========================================
 
  
 
-This page contains [code snippets](CppCodeSnippets.htm) to obtain the
-[version](CppVersion.htm) of some [libraries](CppLibrary.htm).
+This page contains [code snippets](CppCodeSnippets.md) to obtain the
+[version](CppVersion.md) of some [libraries](CppLibrary.md).
 
  
 
-1.  ![Boost](PicBoost.png) [GetBoostVersion](CppGetBoostVersion.htm)
-2.  ![ ](PicSpacer.png) [GetGccVersion](CppGetGccVersion.htm)
+1.  ![Boost](PicBoost.png) [GetBoostVersion](CppGetBoostVersion.md)
+2.  ![ ](PicSpacer.png) [GetGccVersion](CppGetGccVersion.md)
 3.  ![Lubuntu](PicLubuntu.png)
-    [GetLubuntuVersion](CppGetLubuntuVersion.htm)
+    [GetLubuntuVersion](CppGetLubuntuVersion.md)
 4.  ![Lubuntu](PicLubuntu.png)
-    [GetLubuntuVersionCodename](CppGetLubuntuVersionCodename.htm)
+    [GetLubuntuVersionCodename](CppGetLubuntuVersionCodename.md)
 5.  ![QuantLib](PicQuantLib.png)
-    [GetQuantLibVersion](CppGetQuantLibVersion.htm)
-6.  ![Qt](PicQt.png) [GetQtVersion](CppGetQtVersion.htm)
+    [GetQuantLibVersion](CppGetQuantLibVersion.md)
+6.  ![Qt](PicQt.png) [GetQtVersion](CppGetQtVersion.md)
 7.  ![Qt Creator](PicQtCreator.png)
-    [GetQtCreatorVersion](CppGetQtCreatorVersion.htm)
-8.  ![STL](PicStl.png) [GetStlVersion](CppGetStlVersion.htm)
-9.  ![Ubuntu](PicUbuntu.png) [GetUbuntuVersion](CppGetUbuntuVersion.htm)
+    [GetQtCreatorVersion](CppGetQtCreatorVersion.md)
+8.  ![STL](PicStl.png) [GetStlVersion](CppGetStlVersion.md)
+9.  ![Ubuntu](PicUbuntu.png) [GetUbuntuVersion](CppGetUbuntuVersion.md)
 10. ![Ubuntu](PicUbuntu.png)
-    [GetUbuntuVersionCodename](CppGetUbuntuVersionCodename.htm)
-11. ![Wt](PicWt.png) [GetWtVersion](CppGetWtVersion.htm)
+    [GetUbuntuVersionCodename](CppGetUbuntuVersionCodename.md)
+11. ![Wt](PicWt.png) [GetWtVersion](CppGetWtVersion.md)
 
  
 

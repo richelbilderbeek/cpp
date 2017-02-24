@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![C++98](PicCpp98.png) [Answer of exercise \#11: Obtaining a std::vector of read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointersAnswer.htm)
+([C++](Cpp.md)) ![C++98](PicCpp98.png) [Answer of exercise \#11: Obtaining a std::vector of read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointersAnswer.md)
 ========================================================================================================================================================================
 
  
 
 This is the answer of [Exercise \#11: Obtaining a std::vector of
-read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointers.htm).
+read-only (smart?) pointers](CppExerciseReadonlyVectorOfPointers.md).
 
  
 

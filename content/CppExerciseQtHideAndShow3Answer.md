@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise: Qt hide and show \#3](CppExerciseQtHideAndShow3Answer.htm)
+([C++](Cpp.md)) [Answer of exercise: Qt hide and show \#3](CppExerciseQtHideAndShow3Answer.md)
 ================================================================================================
 
  
 
 [Answer of exercise: Qt hide and show
-\#3](CppExerciseQtHideAndShow3Answer.htm) is the answer of the
-[exercise](CppExercise.htm) [Qt hide and show
-\#3](CppExerciseQtHideAndShow3.htm).
+\#3](CppExerciseQtHideAndShow3Answer.md) is the answer of the
+[exercise](CppExercise.md) [Qt hide and show
+\#3](CppExerciseQtHideAndShow3.md).
 
  
 
@@ -52,7 +52,7 @@ Solution
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppExerciseQtHideAndShow3Answer.pro
+[Qt project file](CppQtProjectFile.md): CppExerciseQtHideAndShow3Answer.pro
 ----------------------------------------------------------------------------
 
  
@@ -251,5 +251,5 @@ thirddialog.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

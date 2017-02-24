@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [GAlib](CppGalib.htm)
+([C++](Cpp.md)) [GAlib](CppGalib.md)
 ======================================
 
  
 
-The [GAlib](CppGalib.htm) (an abbreviation of 'Genetic Algorithm
-[library](CppLibrary.htm)') is a cross-platform [artificial
-intelligence](CppArtificialIntelligence.htm) [library](CppLibrary.htm)
+The [GAlib](CppGalib.md) (an abbreviation of 'Genetic Algorithm
+[library](CppLibrary.md)') is a cross-platform [artificial
+intelligence](CppArtificialIntelligence.md) [library](CppLibrary.md)
 for genetic algorithms.
 
  
 
-[GAlib](CppGalib.htm) can be installed from the Ubuntu Software Center.
+[GAlib](CppGalib.md) can be installed from the Ubuntu Software Center.
 
  
 
@@ -36,12 +36,12 @@ for genetic algorithms.
 
  
 
-[GAlib](CppGalib.htm) examples
+[GAlib](CppGalib.md) examples
 ------------------------------
 
  
 
--   [1: binary triplets evolution](CppGalibExample1.htm)
+-   [1: binary triplets evolution](CppGalibExample1.md)
 
  
 
@@ -53,12 +53,12 @@ for genetic algorithms.
 
  
 
-My personal [GAlib](CppGalib.htm) remarks
+My personal [GAlib](CppGalib.md) remarks
 -----------------------------------------
 
  
 
--   [GAlib](CppGalib.htm) does not save its neural networks in the PMML
+-   [GAlib](CppGalib.md) does not save its neural networks in the PMML
     language
 
  
@@ -71,13 +71,13 @@ My personal [GAlib](CppGalib.htm) remarks
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 

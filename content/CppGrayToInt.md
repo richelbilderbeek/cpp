@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [GrayToInt](CppGrayToInt.htm)
+([C++](Cpp.md)) [GrayToInt](CppGrayToInt.md)
 ==============================================
 
  
 
-[GrayToInt](CppGrayToInt.htm) is a [bit operation](CppBitOperation.htm)
-[conversion](CppConvert.htm) [code snippet](CppCodeSnippets.htm) to
-[convert](CppConvert.htm) the [integer](CppInt.htm) value from a Gray
-code. To [convert](CppConvert.htm) a Gray code to an integer, use
-[IntToGray](CppIntToGray.htm).
+[GrayToInt](CppGrayToInt.md) is a [bit operation](CppBitOperation.md)
+[conversion](CppConvert.md) [code snippet](CppCodeSnippets.md) to
+[convert](CppConvert.md) the [integer](CppInt.md) value from a Gray
+code. To [convert](CppConvert.md) a Gray code to an integer, use
+[IntToGray](CppIntToGray.md).
 
  
 

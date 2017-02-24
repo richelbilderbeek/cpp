@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::mktime](CppMktime.htm)
+([C++](Cpp.md)) [std::mktime](CppMktime.md)
 =============================================
 
  
 
-[std::mktime](CppMktime.htm) does some things \[1\], but the example
+[std::mktime](CppMktime.md) does some things \[1\], but the example
 below will not detect any changes:
 
  
@@ -64,7 +64,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

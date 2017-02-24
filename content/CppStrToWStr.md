@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [StrToWStr](CppStrToWStr.htm)
+([C++](Cpp.md)) [StrToWStr](CppStrToWStr.md)
 ==============================================
 
  
 
-[StrToWStr](CppStrToWStr.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to [Wt::WString](CppWString.htm).
+[StrToWStr](CppStrToWStr.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to [Wt::WString](CppWString.md).
 
  
 
@@ -42,37 +42,37 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.2
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  
 
@@ -84,7 +84,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppWString.pro
+[Qt project file](CppQtProjectFile.md): CppWString.pro
 -------------------------------------------------------
 
  

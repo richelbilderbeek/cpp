@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetUbuntuVersionCodename](CppGetUbuntuVersionCodename.htm)
+([C++](Cpp.md)) [GetUbuntuVersionCodename](CppGetUbuntuVersionCodename.md)
 ============================================================================
 
  
 
-[GetUbuntuVersionCodename](CppGetUbuntuVersionCodename.htm) is a
-[version](CppVersion.htm) [code snippets](CppCodeSnippets.htm) to obtain
-the [version](CppVersion.htm) of the current [Ubuntu](CppUbuntu.htm)
+[GetUbuntuVersionCodename](CppGetUbuntuVersionCodename.md) is a
+[version](CppVersion.md) [code snippets](CppCodeSnippets.md) to obtain
+the [version](CppVersion.md) of the current [Ubuntu](CppUbuntu.md)
 distibution's codename.
 
  

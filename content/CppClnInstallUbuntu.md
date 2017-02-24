@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![CLN](PicCln.png)![Ubuntu](PicUbuntu.png) [Installing CLN under Ubuntu](CppClnInstallUbuntu.htm)
+([C++](Cpp.md)) ![CLN](PicCln.png)![Ubuntu](PicUbuntu.png) [Installing CLN under Ubuntu](CppClnInstallUbuntu.md)
 ==================================================================================================================
 
  
 
-Installing [CLN](CppCln.htm) under Ubuntu is easy, because
-[CLN](CppCln.htm) can be installed from the Ubuntu Software Center.
+Installing [CLN](CppCln.md) under Ubuntu is easy, because
+[CLN](CppCln.md) can be installed from the Ubuntu Software Center.
 
  
 

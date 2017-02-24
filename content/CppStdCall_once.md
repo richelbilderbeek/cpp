@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::call\_once](CppCall_once.htm)
+([C++](Cpp.md)) [std::call\_once](CppCall_once.md)
 ====================================================
 
  
 
-[std::call\_once](CppCall_once.htm) is a [C++11](Cpp11.htm) standard
-[function](CppFunction.htm) to call another [function](CppFunction.htm)
+[std::call\_once](CppCall_once.md) is a [C++11](Cpp11.md) standard
+[function](CppFunction.md) to call another [function](CppFunction.md)
 exactly one time.
 
  
@@ -41,35 +41,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.10 (oneiric)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.10 (oneiric)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.3.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.3.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.1
+-   [G++](CppGpp.md) 4.6.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.1
 
  
@@ -82,7 +82,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppCall\_once.pro
+[Qt project file](CppQtProjectFile.md): CppCall\_once.pro
 ----------------------------------------------------------
 
  
@@ -139,5 +139,5 @@ Screen output:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

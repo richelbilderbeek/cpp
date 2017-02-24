@@ -12,18 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::iota](CppStdIota.htm)
+([C++](Cpp.md)) [std::iota](CppStdIota.md)
 ============================================
 
  
 
-[std::iota](CppStdIota.htm) is a [C++11](Cpp11.htm) [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm).
+[std::iota](CppStdIota.md) is a [C++11](Cpp11.md) [STL](CppStl.htm)
+[algorithm](CppAlgorithm.md).
 
-[std::iota](CppStdIota.htm) can be found in the [header
-file](CppHeaderFile.htm) [algorithm.h](CppAlgorithmH.htm).
-
- 
+[std::iota](CppStdIota.md) can be found in the [header
+file](CppHeaderFile.md) [algorithm.h](CppAlgorithmH.md).
 
  
 
@@ -33,12 +31,14 @@ file](CppHeaderFile.htm) [algorithm.h](CppAlgorithmH.htm).
 
  
 
-[Examples](CppExample.htm)
+ 
+
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::iota example 1: basics](CppStdIotaExample1.htm)
+-   [std::iota example 1: basics](CppStdIotaExample1.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtReversi](CppQtReversi.htm)
+([C++](Cpp.md)) [QtReversi](CppQtReversi.md)
 ==============================================
 
  
@@ -98,5 +98,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#6: refactoring quadratic solver](CppExerciseRefactoringQuadraticSolverAnswer.htm)
+([C++](Cpp.md)) [Answer of exercise \#6: refactoring quadratic solver](CppExerciseRefactoringQuadraticSolverAnswer.md)
 ========================================================================================================================
 
  
 
 This is the answer of [exercise \#6: refactoring quadratic
-solver](CppExerciseRefactoringQuadraticSolver.htm).
+solver](CppExerciseRefactoringQuadraticSolver.md).
 
  
 
@@ -33,14 +33,14 @@ Below the original code is shown:
  
 
 There are many ways to Rome to improve this class, but I'll start at
-looking at the [member functions](CppMemberFunction.htm) 'coeff' and
+looking at the [member functions](CppMemberFunction.md) 'coeff' and
 'solve': why is it necessary to temporarily store three
-[doubles](CppDouble.htm) when you want to solve a quadratic equation
-using these three [doubles](CppDouble.htm)? Or: why does the user first
+[doubles](CppDouble.md) when you want to solve a quadratic equation
+using these three [doubles](CppDouble.md)? Or: why does the user first
 needs to set these three values, before solving them? In my humble
 opinion, the place to start improving this class is to remove the
-[member functions](CppMemberFunction.htm) 'coeff' and directly pass
-these three [doubles](CppDouble.htm) to 'solve'.
+[member functions](CppMemberFunction.md) 'coeff' and directly pass
+these three [doubles](CppDouble.md) to 'solve'.
 
  
 
@@ -50,11 +50,11 @@ these three [doubles](CppDouble.htm) to 'solve'.
 
  
 
-In the resulting piece of code, the [variables](CppVariable.htm) 'a','b'
-and 'c' are needed only [locally](CppLocal.htm) to 'solve' (instead of
-[class](CppClass.htm) [scope](CppScope.htm)). This removes the need to
-internally store these three [doubles](CppDouble.htm) in the
-[private](CppPrivate.htm) section:
+In the resulting piece of code, the [variables](CppVariable.md) 'a','b'
+and 'c' are needed only [locally](CppLocal.md) to 'solve' (instead of
+[class](CppClass.md) [scope](CppScope.md)). This removes the need to
+internally store these three [doubles](CppDouble.md) in the
+[private](CppPrivate.md) section:
 
  
 
@@ -79,8 +79,8 @@ or two. In the code above we face the following design problems:
  
 
 The solution to these problems is to let the method 'solve' return a
-[std::vector](CppVector.htm) containg all solutions (returning an empty
-[std::vector](CppVector.htm) for zero solution):
+[std::vector](CppVector.md) containg all solutions (returning an empty
+[std::vector](CppVector.md) for zero solution):
 
  
 
@@ -90,9 +90,9 @@ The solution to these problems is to let the method 'solve' return a
 
  
 
-In the resulting piece of code, the [variables](CppVariable.htm) 'x1'
-and 'x2' are needed only [locally](CppLocal.htm) to 'solve' (instead of
-[class](CppClass.htm) [scope](CppScope.htm)) and the methods 'root1' and
+In the resulting piece of code, the [variables](CppVariable.md) 'x1'
+and 'x2' are needed only [locally](CppLocal.md) to 'solve' (instead of
+[class](CppClass.md) [scope](CppScope.md)) and the methods 'root1' and
 'root2' are no longer needed. This results in the following code:
 
  
@@ -103,9 +103,9 @@ and 'x2' are needed only [locally](CppLocal.htm) to 'solve' (instead of
 
  
 
-Now, we have ended up with a stateless [class](CppClass.htm) with only
-one [member function](CppMemberFunction.htm)! Therefore, nothing stops
-you from making it a [function](CppFunction.htm):
+Now, we have ended up with a stateless [class](CppClass.md) with only
+one [member function](CppMemberFunction.md)! Therefore, nothing stops
+you from making it a [function](CppFunction.md):
 
  
 
@@ -128,14 +128,14 @@ zero and 'b' equals zero, the solution is x = 0.
 
  
 
-The [function](CppFunction.htm) above works fine. The only thing left to
+The [function](CppFunction.md) above works fine. The only thing left to
 do is doing some cleaning:
 
--   Make all [const](CppConst.htm) [variables](CppVariable.htm)
-    [const](CppConst.htm)
--   Instead of using '0' or '2' for [doubles](CppDouble.htm), make it
-    '0.0' or '2.0', as it yields an implicit [cast](CppCast.htm) from
-    [int](CppInt.htm) to [double](CppDouble.htm)
+-   Make all [const](CppConst.md) [variables](CppVariable.md)
+    [const](CppConst.md)
+-   Instead of using '0' or '2' for [doubles](CppDouble.md), make it
+    '0.0' or '2.0', as it yields an implicit [cast](CppCast.md) from
+    [int](CppInt.md) to [double](CppDouble.md)
 -   The math is not clear, because there are no brackets showing the
     order of evaluation. To be sure the program does the math in the
     order we want, show this with brackets
@@ -165,23 +165,23 @@ but I personally like it better:
  
 
 Of course, I already had the function
-[SolveQuadratic](CppSolveQuadratic.htm) on my website :-D.
+[SolveQuadratic](CppSolveQuadratic.md) on my website :-D.
 
  
 
 About the literature I took the example from \[1\]: it was written in
 2001 and therefore written before the [most important C++
-books](CppMostImportantCppBooks.htm) about [class
-design](CppClassDesign.htm). The author admitted in the example that the
-[class](CppClass.htm) indeed could have been written as a
-[function](CppFunction.htm). Also, the [class](CppClass.htm) example was
-given before the student knew about [std::vector](CppVector.htm).
+books](CppMostImportantCppBooks.md) about [class
+design](CppClassDesign.md). The author admitted in the example that the
+[class](CppClass.md) indeed could have been written as a
+[function](CppFunction.md). Also, the [class](CppClass.md) example was
+given before the student knew about [std::vector](CppVector.md).
 
  
 
 But in my humble opinion, it still is an example of bad [class
-design](CppClassDesign.htm). I would suggest the following
-[class](CppClass.htm):
+design](CppClassDesign.md). I would suggest the following
+[class](CppClass.md):
 
  
 
@@ -199,7 +199,7 @@ design](CppClassDesign.htm). I would suggest the following
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

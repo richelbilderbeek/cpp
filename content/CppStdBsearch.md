@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::bsearch](CppBsearch.htm)
+([C++](Cpp.md)) [std::bsearch](CppBsearch.md)
 ===============================================
 
  
 
-[std::bsearch](CppBsearch.htm) ('bsearch' is an abbreviation of 'binary
-search') is an [STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to search
-for a value in a sorted [container](CppContainer.htm).
+[std::bsearch](CppBsearch.md) ('bsearch' is an abbreviation of 'binary
+search') is an [STL](CppStl.md) [algorithm](CppAlgorithm.md) to search
+for a value in a sorted [container](CppContainer.md).
 
  
 
@@ -60,5 +60,5 @@ Screen output:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

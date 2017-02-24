@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) [Compile-time Strategy Design Pattern](CppCtStrategyDesignPattern.htm)
+([C++](Cpp.md)) [Compile-time Strategy Design Pattern](CppCtStrategyDesignPattern.md)
 =======================================================================================
 
  
 
-[Compile-time Strategy Design Pattern](CppCtStrategyDesignPattern.htm)
-is a [compile-time](CppCompileTime.htm)
-[Strategy](CppDesignPatternStrategy.htm) [Design
-Pattern](CppDesignPattern.htm).
+[Compile-time Strategy Design Pattern](CppCtStrategyDesignPattern.md)
+is a [compile-time](CppCompileTime.md)
+[Strategy](CppDesignPatternStrategy.md) [Design
+Pattern](CppDesignPattern.md).
 
  
 
 -   [Compile-time Strategy Design Pattern example:
-    DoIt](CppCtStrategyDesignPatternExampleDoIt.htm)
+    DoIt](CppCtStrategyDesignPatternExampleDoIt.md)
 -   [Compile-time Strategy Design Pattern example:
-    StrToDouble](CppCtStrategyDesignPatternExampleStrToDouble.htm)
+    StrToDouble](CppCtStrategyDesignPatternExampleStrToDouble.md)
 
  
 
 You can also employ a [run-time Strategy Design
-Pattern](CppStrategyDesignPatternExampleStrToDouble.htm).
+Pattern](CppStrategyDesignPatternExampleStrToDouble.md).
 
  
 
@@ -53,5 +53,5 @@ Pattern](CppStrategyDesignPatternExampleStrToDouble.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

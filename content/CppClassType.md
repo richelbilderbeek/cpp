@@ -12,34 +12,34 @@
 
  
 
-([C++](Cpp.htm)) [class type](CppClassType.htm)
+([C++](Cpp.md)) [class type](CppClassType.md)
 ===============================================
 
  
 
-A [class type](CppClassType.htm) is a type of [class](CppClass.htm).
+A [class type](CppClassType.md) is a type of [class](CppClass.md).
 Examples are:
 
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Abstract base
-    class](CppAbstractBaseClass.htm)
+    class](CppAbstractBaseClass.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Abstract
-    class](CppAbstractClass.htm)
+    class](CppAbstractClass.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Base
-    class](CppBaseClass.htm)
+    class](CppBaseClass.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)
-    [Container](CppContainer.htm)
+    [Container](CppContainer.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Derived
-    class](CppDerivedClass.htm)
+    class](CppDerivedClass.md)
 -   ![ ](PicSpacer.png)![C++11](PicCpp11.png) [Enum
-    class](CppEnumClass.htm)
+    class](CppEnumClass.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)
-    [Functor](CppFunctor.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [POD](CppPod.htm) (a
+    [Functor](CppFunctor.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [POD](CppPod.md) (a
     C-style struct)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Template
-    class](CppTemplateClass.htm)
+    class](CppTemplateClass.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Winnebago
-    class](CppWinnebagoClass.htm): a do-it-all [class](CppClass.htm)
+    class](CppWinnebagoClass.md): a do-it-all [class](CppClass.md)
 
  
 

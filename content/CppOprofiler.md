@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's tools page](Tools.htm).
+[Go back to Richel Bilderbeek's tools page](Tools.md).
 
  
 
@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [OProfiler](CppOprofiler.htm)
+([C++](Cpp.md)) [OProfiler](CppOprofiler.md)
 ==============================================
 
  
 
-[OProfiler](CppOprofiler.htm) is a Linux-only [C++](Cpp.htm)
-[profiler](CppProfiler.htm).
+[OProfiler](CppOprofiler.md) is a Linux-only [C++](Cpp.md)
+[profiler](CppProfiler.md).
 
  
 
-[OProfiler](CppOprofiler.htm) can be installed from the command-line:
+[OProfiler](CppOprofiler.md) can be installed from the command-line:
 
  
 
@@ -34,7 +34,7 @@
 
 -   ![FAIL](PicRed.png)![Qt Creator](PicQtCreator.png) [1: profiling a
     simple console application in Qt Creator, using Qt project
-    file](CppOprofilerQtCreatorExample1.htm)
+    file](CppOprofilerQtCreatorExample1.md)
 
  
 
@@ -63,7 +63,7 @@ External links
 
  
 
-[Go back to Richel Bilderbeek's tools page](Tools.htm).
+[Go back to Richel Bilderbeek's tools page](Tools.md).
 
 
 

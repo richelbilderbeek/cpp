@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [dynamic type](CppDynamicType.htm)
+([C++](Cpp.md)) [dynamic type](CppDynamicType.md)
 ===================================================
 
  
 
--   [dynamic type](CppDynamicType.htm) &lt;glvalue&gt; type of the most
+-   [dynamic type](CppDynamicType.md) &lt;glvalue&gt; type of the most
     derived object to which the glvalue denoted by a glvalue
     expression refers. Example: if a pointer p whose static type is
     'pointer to class B' is pointing to an object of class D, derived
     from B, the dynamic type of the expression \*p is 'D'. References
     are treated similarly \[1\]
--   [dynamic type](CppDynamicType.htm) &lt;prvalue&gt; static type of
+-   [dynamic type](CppDynamicType.md) &lt;prvalue&gt; static type of
     the prvalue expression \[2\]
 
  
@@ -36,7 +36,7 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

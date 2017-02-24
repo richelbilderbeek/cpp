@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator-=](CppOperatorMinusAssign.htm)
+([C++](Cpp.md)) [operator-=](CppOperatorMinusAssign.md)
 =========================================================
 
  
 
-[operator-=](CppOperatorMinusAssign.htm) is the
-[operator](CppOperator.htm) to decrease a [variable](CppVariable.htm)'s
+[operator-=](CppOperatorMinusAssign.md) is the
+[operator](CppOperator.md) to decrease a [variable](CppVariable.md)'s
 value by a certain value, without making a copy.
 
  

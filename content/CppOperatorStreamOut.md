@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [operator&lt;&lt;](CppOperatorStreamOut.htm)
+([C++](Cpp.md)) [operator&lt;&lt;](CppOperatorStreamOut.md)
 =============================================================
 
  
 
-[operator&lt;&lt;](CppOperatorStreamOut.htm) (pronounced as 'stream out
-operator') is an [operator](CppOperator.htm) to sending data to a
-[stream](CppStream.htm). Use [operator&gt;&gt;](CppOperatorStreamIn.htm)
-to read data from a [stream](CppStream.htm).
+[operator&lt;&lt;](CppOperatorStreamOut.md) (pronounced as 'stream out
+operator') is an [operator](CppOperator.md) to sending data to a
+[stream](CppStream.md). Use [operator&gt;&gt;](CppOperatorStreamIn.md)
+to read data from a [stream](CppStream.md).
 
  
 
@@ -32,14 +32,14 @@ to read data from a [stream](CppStream.htm).
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [Hello World](CppHelloWorld.htm)
+-   [Hello World](CppHelloWorld.md)
 -   [operator &lt;&lt; example 1:
-    overloading](CppOperatorStreamOutExample1.htm)
+    overloading](CppOperatorStreamOutExample1.md)
 
  
 
@@ -51,20 +51,20 @@ to read data from a [stream](CppStream.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [overloading](CppOverload.htm)
-    [operator&lt;&lt;](CppOperatorStreamOut.htm) with a free
-    [function](CppFunction.htm) \[1\]
--   Note to self: prefer [overloading](CppOverload.htm)
-    [operator&lt;&lt;](CppOperatorStreamOut.htm) over a 'ToStr' [member
-    function](CppMemberFunction.htm), because a [stream](CppStream.htm)
+-   Prefer [overloading](CppOverload.md)
+    [operator&lt;&lt;](CppOperatorStreamOut.md) with a free
+    [function](CppFunction.md) \[1\]
+-   Note to self: prefer [overloading](CppOverload.md)
+    [operator&lt;&lt;](CppOperatorStreamOut.md) over a 'ToStr' [member
+    function](CppMemberFunction.md), because a [stream](CppStream.md)
     can be more flexibly manipulated (consider streaming a
-    [std::setprecision](CppStdSetprecision.htm) before streaming a
-    [class](CppClass.htm) [instance](CppInstance.htm)
+    [std::setprecision](CppStdSetprecision.md) before streaming a
+    [class](CppClass.md) [instance](CppInstance.md)
 
  
 
@@ -76,12 +76,12 @@ to read data from a [stream](CppStream.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++.
+1.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN: 0-201-61562-2.
 
  

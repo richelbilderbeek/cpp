@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [This application has failed to start because QtCored4.dll was not found](CppRuntimeErrorMissingQtCored4Dll.htm)
+([C++](Cpp.md)) [This application has failed to start because QtCored4.dll was not found](CppRuntimeErrorMissingQtCored4Dll.md)
 =================================================================================================================================
 
  
 
-[Runtime error](CppRuntimeError.htm).
+[Runtime error](CppRuntimeError.md).
 
  
 
@@ -38,21 +38,21 @@ Operating system(s):
 
 -   ![Windows](PicWindows.png) Windows XP
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CountNonZeroPositives](CppCountNonZeroPositives.htm)
+([C++](Cpp.md)) [CountNonZeroPositives](CppCountNonZeroPositives.md)
 ======================================================================
 
  
 
-[Code snippet](CppCodeSnippets.htm) to count the number of non-zero
-positive values in a [std::vector](CppVector.htm).
+[Code snippet](CppCodeSnippets.md) to count the number of non-zero
+positive values in a [std::vector](CppVector.md).
 
  
 
@@ -36,7 +36,7 @@ positive values in a [std::vector](CppVector.htm).
 
  
 
-[CountNonZeroPositives](CppCountNonZeroPositives.htm) test
+[CountNonZeroPositives](CppCountNonZeroPositives.md) test
 ----------------------------------------------------------
 
  

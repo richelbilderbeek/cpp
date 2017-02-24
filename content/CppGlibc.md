@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [glibc](CppGlibc.htm)
+([C++](Cpp.md)) [glibc](CppGlibc.md)
 ======================================
 
  
 
-[glibc](CppGlibc.htm) is the GNU C library. Or to quote from \[1\]:
+[glibc](CppGlibc.md) is the GNU C library. Or to quote from \[1\]:
 
  
 
@@ -52,7 +52,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

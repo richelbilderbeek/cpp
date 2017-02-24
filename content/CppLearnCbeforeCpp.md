@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Should I learn C before learning C++?](CppLearnCbeforeCpp.htm)
+([C++](Cpp.md)) [Should I learn C before learning C++?](CppLearnCbeforeCpp.md)
 ================================================================================
 
  
@@ -48,7 +48,7 @@ Reasons are:
 
 After having learned the common subset of C and C++, it is easier to
 find out the trickier parts of C \[1,2\]. See [C++
-keywords](CppKeyword.htm) for a list of C++ keywords.
+keywords](CppKeyword.md) for a list of C++ keywords.
 
  
 
@@ -60,7 +60,7 @@ keywords](CppKeyword.htm) for a list of C++ keywords.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

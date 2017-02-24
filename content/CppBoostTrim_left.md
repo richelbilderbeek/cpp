@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [boost::algorithm::trim\_left](CppTrim_left.htm)
+([C++](Cpp.md)) [boost::algorithm::trim\_left](CppTrim_left.md)
 =================================================================
 
  
 
-[boost::algorithm::trim\_left](CppTrim_left.htm) is a
-[Boost](CppBoost.htm) [std::string](CppString.htm)
-[algorithm](CppAlgorithm.htm) to trim whitespace away from the left side
-of a [std::string](CppString.htm).
+[boost::algorithm::trim\_left](CppTrim_left.md) is a
+[Boost](CppBoost.md) [std::string](CppString.md)
+[algorithm](CppAlgorithm.md) to trim whitespace away from the left side
+of a [std::string](CppString.md).
 
  
 

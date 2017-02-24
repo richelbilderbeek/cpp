@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [Template metaprogram](CppTemplateMetaprogram.htm)
+([C++](Cpp.md)) [Template metaprogram](CppTemplateMetaprogram.md)
 ===================================================================
 
  
 
-[Template metaprogramming](CppTemplateMetaprogram.htm) is a technique to
-perform calculations during [compiling](CppCompile.htm) only.
+[Template metaprogramming](CppTemplateMetaprogram.md) is a technique to
+perform calculations during [compiling](CppCompile.md) only.
 
  
 
-There is no semantic difference between [class](CppClass.htm) and
-[typename](CppTypename.htm) in a template-parameter \[1\].
+There is no semantic difference between [class](CppClass.md) and
+[typename](CppTypename.md) in a template-parameter \[1\].
 
  
 
-Below is an example to calculate the [factorial](CppFactorial.htm) of an
-([unsigned](CppUnsigned.htm)) [integer](CppInt.htm) during compile-time.
+Below is an example to calculate the [factorial](CppFactorial.md) of an
+([unsigned](CppUnsigned.md)) [integer](CppInt.md) during compile-time.
 So when the program starts to run, all factorials are already
 calculated.
 
@@ -44,7 +44,7 @@ Other examples:
  
 
 -   [Compile-time Strategy Design
-    Pattern](CppCtStrategyDesignPattern.htm)
+    Pattern](CppCtStrategyDesignPattern.md)
 
  
 
@@ -61,35 +61,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -102,7 +102,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppTemplateMetaprogram.pro
+[Qt project file](CppQtProjectFile.md): CppTemplateMetaprogram.pro
 -------------------------------------------------------------------
 
  
@@ -140,7 +140,7 @@ main.cpp
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -167,5 +167,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

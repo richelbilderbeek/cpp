@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [operator/](CppOperatorDivide.htm)
+([C++](Cpp.md)) [operator/](CppOperatorDivide.md)
 ===================================================
 
  
 
-[operator/](CppOperatorDivide.htm) is the [operator](CppOperator.htm)
+[operator/](CppOperatorDivide.md) is the [operator](CppOperator.md)
 for dividing.
 
  
 
-The following line of code calls [operator/](CppOperatorDivide.htm) to
-divide the values of two [integers](CppInt.htm):
+The following line of code calls [operator/](CppOperatorDivide.md) to
+divide the values of two [integers](CppInt.md):
 
  
 
@@ -33,8 +33,8 @@ divide the values of two [integers](CppInt.htm):
 
  
 
-[operator/](CppOperatorDivide.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::divides](CppDivides.htm).
+[operator/](CppOperatorDivide.md) is encapsulated by the
+[functor](CppFunctor.md) [std::divides](CppDivides.md).
 
  
 

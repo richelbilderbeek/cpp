@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [enable\_if\_does\_not\_work\_on\_this\_compiler&lt;void&gt;](CppCompileErrorEnable_if_does_not_work_on_this_compilerVoid.htm)
+([C++](Cpp.md)) [enable\_if\_does\_not\_work\_on\_this\_compiler&lt;void&gt;](CppCompileErrorEnable_if_does_not_work_on_this_compilerVoid.md)
 ===============================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -51,8 +51,8 @@ Cause
 
  
 
--   IDE: [C++ Builder](CppBuilder.htm) 6.0
--   [Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+-   IDE: [C++ Builder](CppBuilder.md) 6.0
+-   [Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 -   Boost version: 1.35.0.
 
  
@@ -115,5 +115,5 @@ This approach did not work:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::feof](CppFeof.htm)
+([C++](Cpp.md)) [std::feof](CppFeof.md)
 =========================================
 
  
 
-[std::feof](CppFeof.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm).
+[std::feof](CppFeof.md) is an [STL](CppStl.md)
+[function](CppFunction.md).
 
  
 
-[std::feof](CppFeof.htm) is [defined](CppDefinition.htm) in
-[cstdio.h](CppCstdioH.htm).
+[std::feof](CppFeof.md) is [defined](CppDefinition.md) in
+[cstdio.h](CppCstdioH.md).
 
  
 

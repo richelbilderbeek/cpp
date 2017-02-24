@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Irrlicht](CppIrrlicht.htm)
+([C++](Cpp.md)) [Irrlicht](CppIrrlicht.md)
 ============================================
 
  
 
-[Irrlicht](CppIrrlicht.htm) is a [3D](Cpp3d.htm) rendering
-[library](CppLibrary.htm).
+[Irrlicht](CppIrrlicht.md) is a [3D](Cpp3d.md) rendering
+[library](CppLibrary.md).
 
  
 

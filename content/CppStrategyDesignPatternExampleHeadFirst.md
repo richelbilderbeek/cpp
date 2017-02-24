@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Example from 'Head First Design Patterns'](CppStrategyDesignPatternExampleHeadFirst.htm)
+([C++](Cpp.md)) [Example from 'Head First Design Patterns'](CppStrategyDesignPatternExampleHeadFirst.md)
 ==========================================================================================================
 
  
 
 [Example from 'Head First Design
-Patterns'](CppStrategyDesignPatternExampleHeadFirst.htm) \[1\] is an
-example of a [Strategy](CppDesignPatternStrategy.htm) [Design
-Pattern](CppDesignPattern.htm) (converted from Java to C++).
+Patterns'](CppStrategyDesignPatternExampleHeadFirst.md) \[1\] is an
+example of a [Strategy](CppDesignPatternStrategy.md) [Design
+Pattern](CppDesignPattern.md) (converted from Java to C++).
 
  
 
@@ -30,7 +30,7 @@ Pattern](CppDesignPattern.htm) (converted from Java to C++).
  
 
 Both the FlyBehavior and QuackBehavior are
-[Strategies](CppDesignPatternStrategy.htm).
+[Strategies](CppDesignPatternStrategy.md).
 
  
 
@@ -47,36 +47,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
--   ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.htm)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
+-   ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.md)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -89,7 +89,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppStrategyDesignPatternExampleHeadFirst.pro
+[Qt project file](CppQtProjectFile.md): CppStrategyDesignPatternExampleHeadFirst.pro
 -------------------------------------------------------------------------------------
 
  
@@ -241,13 +241,13 @@ quackbehavior.cpp
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Eric Freeman](CppEricFreeman.htm), [Elisabeth
-    Freeman](CppElisabethFreeman.htm). Head First Design Patterns. 2004.
+1.  [Eric Freeman](CppEricFreeman.md), [Elisabeth
+    Freeman](CppElisabethFreeman.md). Head First Design Patterns. 2004.
     ISBN: 978-0-596-00712-6.
 
  

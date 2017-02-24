@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [RaspberryPi](CppRaspberryPi.htm)
+([C++](Cpp.md)) [RaspberryPi](CppRaspberryPi.md)
 ==================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[RaspberryPi](CppRaspberryPi.htm) is a collection of
-[class](CppClass.htm) for working with a Raspberry Pi.
+[RaspberryPi](CppRaspberryPi.md) is a collection of
+[class](CppClass.md) for working with a Raspberry Pi.
 
 Technical facts
 ---------------
@@ -125,5 +125,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

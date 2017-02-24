@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [range-for](CppRangeFor.htm)
+([C++](Cpp.md)) [range-for](CppRangeFor.md)
 =============================================
 
  
 
-A [range-for](CppRangeFor.htm) is a type of [for](CppFor.htm) available
-in [C++11](Cpp11.htm).
+A [range-for](CppRangeFor.md) is a type of [for](CppFor.md) available
+in [C++11](Cpp11.md).
 
  
 
@@ -30,12 +30,12 @@ in [C++11](Cpp11.htm).
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [range-for example 1: basics](CppRangeFor.htm)
+-   [range-for example 1: basics](CppRangeFor.md)
 
  
 
@@ -52,7 +52,7 @@ Advice
 
  
 
--   Prefer a [range-for](CppRangeFor.htm)-statement to a for-statement
+-   Prefer a [range-for](CppRangeFor.md)-statement to a for-statement
     when there is a choice \[1\]
 
  
@@ -65,12 +65,12 @@ Advice
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 9.8.
     Advice. page 240: '\[3\] Prefer a range-for-statement to a
     for-statement when there is a choice'

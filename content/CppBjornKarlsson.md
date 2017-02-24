@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Bjorn Karlsson](CppBjornKarlsson.htm)
+([C++](Cpp.md)) [Bjorn Karlsson](CppBjornKarlsson.md)
 =======================================================
 
  
 
-[Bjorn Karlsson](CppBjornKarlsson.htm) is the (co-)author of one or more
-[C++](Cpp.htm) books.
+[Bjorn Karlsson](CppBjornKarlsson.md) is the (co-)author of one or more
+[C++](Cpp.md) books.
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-List of books co-authored by [Bjorn Karlsson](CppBjornKarlsson.htm)
+List of books co-authored by [Bjorn Karlsson](CppBjornKarlsson.md)
 -------------------------------------------------------------------
 
  
 
--   [Bjorn Karlsson](CppBjornKarlsson.htm). Beyond the C++ standard
+-   [Bjorn Karlsson](CppBjornKarlsson.md). Beyond the C++ standard
     library: an introduction to Boost ISBN: 0-321-13354-4.
 
  

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [VCL dialog](CppVclDialog.htm)
+([C++](Cpp.md)) [VCL dialog](CppVclDialog.md)
 ===============================================
 
  
@@ -35,15 +35,15 @@ List of dialogs (incomplete)
 
  
 
--   [ShowMessage](CppVclShowMessage.htm): the [VCL](CppVcl.htm)
-    equivalent of [std::cout](CppCout.htm)
--   [MessageDlg](CppVclMessageDlg.htm): A yes/no/cancel/etc. dialog box.
--   [InputBox](CppVclInputBox.htm): Ask the user for a value
--   [InputQuery](CppVclInputQuery.htm): Ask the user for a value
+-   [ShowMessage](CppVclShowMessage.md): the [VCL](CppVcl.md)
+    equivalent of [std::cout](CppCout.md)
+-   [MessageDlg](CppVclMessageDlg.md): A yes/no/cancel/etc. dialog box.
+-   [InputBox](CppVclInputBox.md): Ask the user for a value
+-   [InputQuery](CppVclInputQuery.md): Ask the user for a value
 
  
 
-These dialogs can be found in the [header file](CppHeaderFile.htm)
+These dialogs can be found in the [header file](CppHeaderFile.md)
 **dialogs.hpp**.
 
  

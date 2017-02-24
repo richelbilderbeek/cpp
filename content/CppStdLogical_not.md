@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::logical\_not](CppLogical_not.htm)
+([C++](Cpp.md)) [std::logical\_not](CppLogical_not.md)
 ========================================================
 
  
 
-[std::logical\_not](CppLogical_not.htm) is a [functor](CppFunctor.htm)
-that performs a [operator!](CppOperatorLogicalNot.htm) on an element.
+[std::logical\_not](CppLogical_not.md) is a [functor](CppFunctor.md)
+that performs a [operator!](CppOperatorLogicalNot.md) on an element.
 
  
 

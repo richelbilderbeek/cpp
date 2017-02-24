@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png)![Ubuntu](PicUbuntu.png) [Global Wt deployment on a home server with the Ubuntu Server operating system](CppWtDeployGlobalHomeUbuntuServer.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png)![Ubuntu](PicUbuntu.png) [Global Wt deployment on a home server with the Ubuntu Server operating system](CppWtDeployGlobalHomeUbuntuServer.md)
 ================================================================================================================================================================================
 
  
 
 [Global Wt deployment on a home server with the Ubuntu Server operating
-system](CppWtDeployGlobalHomeUbuntuServer.htm) is a type of [global Wt
-deployment on a home server](CppWtDeployGlobalHome.htm) where the server
+system](CppWtDeployGlobalHomeUbuntuServer.md) is a type of [global Wt
+deployment on a home server](CppWtDeployGlobalHome.md) where the server
 has the Ubuntu Server operating system.
 
  
@@ -146,7 +146,7 @@ Starting the Wt application
 
  
 
-If you haven't installed the [Wt](CppWt.htm) [library](CppLibrary.htm),
+If you haven't installed the [Wt](CppWt.md) [library](CppLibrary.md),
 do so:
 
   -------------------------------
@@ -155,7 +155,7 @@ do so:
 
  
 
-Start the [Wt](CppWt.htm) application (in this case
+Start the [Wt](CppWt.md) application (in this case
 'CppHelloWorldQtCreatorUbuntu'):
 
  
@@ -229,7 +229,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

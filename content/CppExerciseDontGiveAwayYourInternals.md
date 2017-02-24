@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#3: Don't give away your internals](CppExerciseDontGiveAwayYourInternals.htm)
+([C++](Cpp.md)) [Exercise \#3: Don't give away your internals](CppExerciseDontGiveAwayYourInternals.md)
 =========================================================================================================
 
  
@@ -23,7 +23,7 @@ Date added: 16th of June 2008
 
  
 
-In this [exercise](CppExercise.htm), you must follow the following
+In this [exercise](CppExercise.md), you must follow the following
 advice: 'Don't give away your internals' \[1\]. You will learn something
 about method design and a 'loophole' in constness.
 
@@ -37,14 +37,14 @@ about method design and a 'loophole' in constness.
 
  
 
-Part \#0: checking your [member function design](CppMemberFunctionDesign.htm)
+Part \#0: checking your [member function design](CppMemberFunctionDesign.md)
 -----------------------------------------------------------------------------
 
  
 
 You are programming on a Zoo class, containing a
-[std::vector](CppVector.htm) of Animal. An Animal is an ordinary
-[struct](CppStruct.htm) containg member variables only (also called a
+[std::vector](CppVector.md) of Animal. An Animal is an ordinary
+[struct](CppStruct.md) containg member variables only (also called a
 plain old data type). Your code so far is shown below.
 
  
@@ -55,13 +55,13 @@ plain old data type). Your code so far is shown below.
 
  
 
-Write a [member function](CppMemberFunction.htm) called 'GetAnimals' to
-read, and only read, the [std::vector](CppVector.htm) of Animal.
+Write a [member function](CppMemberFunction.md) called 'GetAnimals' to
+read, and only read, the [std::vector](CppVector.md) of Animal.
 
  
 
 [View the answer of this
-exercise](CppExerciseDontGiveAwayYourInternalsAnswer0.htm).
+exercise](CppExerciseDontGiveAwayYourInternalsAnswer0.md).
 
  
 
@@ -79,9 +79,9 @@ Part \#1: checking you checking
  
 
 You still work on the same Zoo and Animal class. But you redesigned
-Animal to be an [abstract base class](CppAbstractBaseClass.htm). You
-have decided to store [pointers](CppPointer.htm) to Animal in a
-[boost::shared\_ptr](CppShared_ptr.htm). Your redesigned code is shown
+Animal to be an [abstract base class](CppAbstractBaseClass.md). You
+have decided to store [pointers](CppPointer.md) to Animal in a
+[boost::shared\_ptr](CppShared_ptr.md). Your redesigned code is shown
 below.
 
  
@@ -92,14 +92,14 @@ below.
 
  
 
-Write a [member function](CppMemberFunction.htm) called 'GetAnimals' to
-read, and only read, the [std::vector](CppVector.htm) of
-[boost::shared\_ptr](CppShared_ptr.htm) of Animal. Check this method.
+Write a [member function](CppMemberFunction.md) called 'GetAnimals' to
+read, and only read, the [std::vector](CppVector.md) of
+[boost::shared\_ptr](CppShared_ptr.md) of Animal. Check this method.
 
  
 
 [View the answer of this
-exercise](CppExerciseDontGiveAwayYourInternalsAnswer1.htm).
+exercise](CppExerciseDontGiveAwayYourInternalsAnswer1.md).
 
  
 
@@ -129,13 +129,13 @@ article](http://www.programmersheaven.com/article/100053-C%2b%2b+exercise%3a+don
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 28:
     'Don't give away your internals'
 

@@ -12,37 +12,37 @@
 
  
 
-([C++](Cpp.htm)) [C++ Builder](CppBuilder.htm)
+([C++](Cpp.md)) [C++ Builder](CppBuilder.md)
 ==============================================
 
  
 
-[C++ Builder](CppBuilder.htm) is a [Windows-only](CppWindows.htm)
-[C++](Cpp.htm) [IDE](CppIde.htm) that uses the [VCL](CppVcl.htm)
-[library](CppLibrary.htm) for [GUI](CppGui.htm) development.
+[C++ Builder](CppBuilder.md) is a [Windows-only](CppWindows.md)
+[C++](Cpp.md) [IDE](CppIde.md) that uses the [VCL](CppVcl.htm)
+[library](CppLibrary.md) for [GUI](CppGui.md) development.
 
  
 
 Because I have moved to the cross-platform [Qt
-Creator](CppQtCreator.htm) [IDE](CppIde.htm), I will not work a lot on
-the [C++ Builder](CppBuilder.htm) pages anymore.
+Creator](CppQtCreator.md) [IDE](CppIde.md), I will not work a lot on
+the [C++ Builder](CppBuilder.md) pages anymore.
 
  
 
-Nowadays [C++ Builder](CppBuilder.htm) is called 'Borland Developer
+Nowadays [C++ Builder](CppBuilder.md) is called 'Borland Developer
 Studio', 'Turbo C++ Explorer' or RAD Studio .
 
  
 
--   [VCL Code Snippets](CppVclCodeSnippets.htm): handy short pieces of
+-   [VCL Code Snippets](CppVclCodeSnippets.md): handy short pieces of
     code
--   [C++ Builder FAQ](CppBuilderFaq.htm): the Frequently Asked Questions
+-   [C++ Builder FAQ](CppBuilderFaq.md): the Frequently Asked Questions
     section
--   [C++ Builder Glossary](CppBuilderGlossary.htm): an overview of all
+-   [C++ Builder Glossary](CppBuilderGlossary.md): an overview of all
     my C++ Builder pages
--   [C++ Builder 'Hello World' program](CppBuilderHelloWorld.htm): the
+-   [C++ Builder 'Hello World' program](CppBuilderHelloWorld.md): the
     standard starting point
--   [C++ Builder features](CppBuilderFeatures.htm): an overview of the
+-   [C++ Builder features](CppBuilderFeatures.md): an overview of the
     C++ Builder IDE features
 
  

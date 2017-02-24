@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [shared\_ptr.hpp: call to undefined function 'assert'](CppCompileErrorShared_ptrCallToUndefinedFunctionAssert.htm)
+([C++](Cpp.md)) [shared\_ptr.hpp: call to undefined function 'assert'](CppCompileErrorShared_ptrCallToUndefinedFunctionAssert.md)
 ===================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -34,16 +34,16 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
 The compiler takes you to shared\_ptr.hpp, to the
-[BOOST\_ASSERT](CppBOOST_ASSERT.htm):
+[BOOST\_ASSERT](CppBOOST_ASSERT.md):
 
  
 
@@ -54,7 +54,7 @@ The compiler takes you to shared\_ptr.hpp, to the
  
 
 I still do not understand why it occurs (as on top of the header file
-boost/assert.hpp is [\#included](CppInclude.htm)).
+boost/assert.hpp is [\#included](CppInclude.md)).
 
  
 

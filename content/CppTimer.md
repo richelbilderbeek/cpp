@@ -12,24 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [timer](CppTimer.htm)
+([C++](Cpp.md)) [timer](CppTimer.md)
 ======================================
 
  
 
-A [timer](CppTimer.htm) is a [class](CppClass.htm) that triggers
+A [timer](CppTimer.md) is a [class](CppClass.md) that triggers
 something to happen after some amount of time.
 
  
 
-List of [timer](CppTimer.htm) [classes](CppClass.htm) (incomplete list):
+List of [timer](CppTimer.md) [classes](CppClass.md) (incomplete list):
 
--   ![Boost](PicBoost.png) [boost::timer](CppBoostTimer.htm) (in the
-    [Boost.Timer](CppBoostTimer.htm) [library](CppLibrary.htm))
--   ![Qt](PicQt.png) [QTimer](CppQTimer.htm)
--   ![Wt](PicWt.png) [Wt::WTimer](CppWTimer.htm)
-
- 
+-   ![Boost](PicBoost.png) [boost::timer](CppBoostTimer.md) (in the
+    [Boost.Timer](CppBoostTimer.md) [library](CppLibrary.md))
+-   ![Qt](PicQt.png) [QTimer](CppQTimer.md)
+-   ![Wt](PicWt.png) [Wt::WTimer](CppWTimer.md)
 
  
 
@@ -39,6 +37,8 @@ List of [timer](CppTimer.htm) [classes](CppClass.htm) (incomplete list):
 
  
 
+ 
+
 
 
 
@@ -48,5 +48,5 @@ List of [timer](CppTimer.htm) [classes](CppClass.htm) (incomplete list):
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

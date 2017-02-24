@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [boost::get](CppGet.htm)
+([C++](Cpp.md)) [boost::get](CppGet.md)
 =========================================
 
  
 
-[boost::get](CppGet.htm) is a [Boost](CppBoost.htm)
-[function](CppFunction.htm) to access an element from a
-[container](CppContainer.htm), for example a
-[boost::tuple](CppTuple.htm).
+[boost::get](CppGet.md) is a [Boost](CppBoost.md)
+[function](CppFunction.md) to access an element from a
+[container](CppContainer.md), for example a
+[boost::tuple](CppTuple.md).
 
  
 

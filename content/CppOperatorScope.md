@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [operator::](CppOperatorScope.htm)
+([C++](Cpp.md)) [operator::](CppOperatorScope.md)
 ===================================================
 
  
 
-[operator::](CppOperatorScope.htm) (pronounced as 'scope
-[operator](CppOperator.htm)') is an [operator](CppOperator.htm) to
-determine the [namespace](CppNamespace.htm) used.
+[operator::](CppOperatorScope.md) (pronounced as 'scope
+[operator](CppOperator.md)') is an [operator](CppOperator.md) to
+determine the [namespace](CppNamespace.md) used.
 
  
 
-The example below shows how to call a [function](CppFunction.htm) in the
-[global](CppGlobal.htm) [namespace](CppNamespace.htm) and that
-[std::cout](CppCout.htm) is in the [std](CppStd.htm)
-[namespace](CppNamespace.htm).
+The example below shows how to call a [function](CppFunction.md) in the
+[global](CppGlobal.md) [namespace](CppNamespace.md) and that
+[std::cout](CppCout.md) is in the [std](CppStd.md)
+[namespace](CppNamespace.md).
 
  
 

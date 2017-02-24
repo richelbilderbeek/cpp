@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [FastaFile](CppFastaFile.htm)
+([C++](Cpp.md)) [FastaFile](CppFastaFile.md)
 ==============================================
 
  
@@ -98,5 +98,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [GetPixel](CppGetPixel.htm)
+([C++](Cpp.md)) [GetPixel](CppGetPixel.md)
 ============================================
 
  
 
-[GetPixel](CppGetPixel.htm) is a [VCL graphics](CppVclGraphics.htm)
-[code snippet](CppCodeSnippets.htm) to get one single
-[TImage](CppTImage.htm) pixel's color.
+[GetPixel](CppGetPixel.md) is a [VCL graphics](CppVclGraphics.md)
+[code snippet](CppCodeSnippets.md) to get one single
+[TImage](CppTImage.md) pixel's color.
 
  
 
-One version of [GetPixel](CppGetPixel.htm) uses RGB values, the other
+One version of [GetPixel](CppGetPixel.md) uses RGB values, the other
 uses a TColor value. The version using TColor is already used for the
 Win32 API. Therefore, I call the VCL function of
-[GetPixel](CppGetPixel.htm) [GetPixelVcl](CppGetPixel.htm).
+[GetPixel](CppGetPixel.md) [GetPixelVcl](CppGetPixel.md).
 
  
 
-For the [VCL](CppVcl.htm) version of [GetPixel](CppGetPixel.htm), I've
+For the [VCL](CppVcl.md) version of [GetPixel](CppGetPixel.md), I've
 also added two functions to obtain the average RGB values of a line and
 square of pixels.
 
@@ -44,7 +44,7 @@ square of pixels.
 
  
 
-[CLX](CppClx.htm) version of [GetPixel](CppGetPixel.htm)
+[CLX](CppClx.md) version of [GetPixel](CppGetPixel.md)
 --------------------------------------------------------
 
  
@@ -63,7 +63,7 @@ square of pixels.
 
  
 
-[VCL](CppVcl.htm) version of [GetPixel](CppGetPixel.htm)
+[VCL](CppVcl.md) version of [GetPixel](CppGetPixel.md)
 --------------------------------------------------------
 
  

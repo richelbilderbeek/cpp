@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [OpenCV](CppOpenCv.htm)
+([C++](Cpp.md)) [OpenCV](CppOpenCv.md)
 ========================================
 
  
 
-[OpenCV](CppOpenCv.htm) (an abbreviation of 'Open Computer Vision
-library') is a cross-platform computer vision [library](CppLibrary.htm).
+[OpenCV](CppOpenCv.md) (an abbreviation of 'Open Computer Vision
+library') is a cross-platform computer vision [library](CppLibrary.md).
 
  
 
 -   [OpenCV example 1: loading an image, displaying an image, converting
-    an image to greyscale](CppOpenCvExample1.htm)
+    an image to greyscale](CppOpenCvExample1.md)
 
  
 
-[libcvautomation](CppLibcvautomation.htm) is a [GUI
-testing](CppGuiTest.htm) tool that relies heavily on
-[OpenCV](CppOpenCv.htm).
+[libcvautomation](CppLibcvautomation.md) is a [GUI
+testing](CppGuiTest.md) tool that relies heavily on
+[OpenCV](CppOpenCv.md).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [C++ Builder tutorial](CppBuilderTutorial.htm)
+([C++](Cpp.md)) [C++ Builder tutorial](CppBuilderTutorial.md)
 ===============================================================
 
  
 
 I do write tutorials for C++ and C++ Builder for the
-[courses](Courses.htm) I give:
+[courses](Courses.md) I give:
 
  
 
@@ -44,5 +44,5 @@ I do write tutorials for C++ and C++ Builder for the
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) ![Symbian](PicSymbian.png) [Symbian SDK](CppSymbianSdk.htm)
+([C++](Cpp.md)) ![Symbian](PicSymbian.png) [Symbian SDK](CppSymbianSdk.md)
 ============================================================================
 
  
 
-The [Symbian SDK](CppSymbianSdk.htm) is the [SDK](CppSdk.htm) to develop
-for the [Symbian](CppSymbian.htm) [platform](CppOs.htm).
+The [Symbian SDK](CppSymbianSdk.md) is the [SDK](CppSdk.md) to develop
+for the [Symbian](CppSymbian.md) [platform](CppOs.md).
 
  
 
-The [Symbian SDK](CppSymbianSdk.htm) is developed for the
-[Windows](CppWindows.htm) [operating system](CppOs.htm). Those using the
-[Ubuntu](CppUbuntu.htm) [operating system](CppOs.htm) can use
-[Wine](CppWine.htm) to simulate a [Windows](CppWindows.htm) environment.
+The [Symbian SDK](CppSymbianSdk.md) is developed for the
+[Windows](CppWindows.md) [operating system](CppOs.md). Those using the
+[Ubuntu](CppUbuntu.md) [operating system](CppOs.md) can use
+[Wine](CppWine.md) to simulate a [Windows](CppWindows.md) environment.
 
  
 
-You will also need to download the [Open C/C++](CppOpenCpp.htm) Plug-in.
+You will also need to download the [Open C/C++](CppOpenCpp.md) Plug-in.
 
  
 

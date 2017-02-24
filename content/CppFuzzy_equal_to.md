@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Fuzzy\_equal\_to](CppFuzzy_equal_to.htm)
+([C++](Cpp.md)) [Fuzzy\_equal\_to](CppFuzzy_equal_to.md)
 ==========================================================
 
  
@@ -64,5 +64,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

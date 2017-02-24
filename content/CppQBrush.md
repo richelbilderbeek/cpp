@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QBrush](CppQBrush.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QBrush](CppQBrush.md)
 =========================================================
 
  
 
-[QBrush](CppQBrush.htm) is a [Qt](CppQt.htm) [class](CppClass.htm) for a
+[QBrush](CppQBrush.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
 brush.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[QBrush](CppQBrush.htm) is used in, among others:
+[QBrush](CppQBrush.md) is used in, among others:
 
 -   ...
 

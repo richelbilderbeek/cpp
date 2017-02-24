@@ -12,13 +12,13 @@
 
  
 
-([C++ Builder](CppBuilder.htm)) [Call a dynamically loaded DLL in C++ Builder](CppBuilderCallDllDynamic.htm)
+([C++ Builder](CppBuilder.md)) [Call a dynamically loaded DLL in C++ Builder](CppBuilderCallDllDynamic.md)
 ============================================================================================================
 
  
 
-[Calling a dynamically loaded DLL](CppBuilderCallDll.htm) is one of the
-two ways to [call a DLL](CppBuilderCallDll.htm), the other way is to
+[Calling a dynamically loaded DLL](CppBuilderCallDll.md) is one of the
+two ways to [call a DLL](CppBuilderCallDll.md), the other way is to
 call a statically loaded DLL.
 
  
@@ -53,7 +53,7 @@ My favorite and more exception safe solution.
  
 
 When you look at the GetProcAddress function, you'll note that [C++
-Builder](CppBuilder.htm) add a leading underscore in the function name.
+Builder](CppBuilder.md) add a leading underscore in the function name.
 
  
 
@@ -83,7 +83,7 @@ Example \#1: Without using a struct
  
 
 When you look at the GetProcAddress function, you'll note that [C++
-Builder](CppBuilder.htm) add a leading underscore in the function name.
+Builder](CppBuilder.md) add a leading underscore in the function name.
 
  
 
@@ -110,5 +110,5 @@ Builder](CppBuilder.htm) add a leading underscore in the function name.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

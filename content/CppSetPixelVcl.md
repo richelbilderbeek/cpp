@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SetPixelVcl](CppSetPixelVcl.htm)
+([C++](Cpp.md)) [SetPixelVcl](CppSetPixelVcl.md)
 ==================================================
 
  
 
-[SetPixelVcl](CppSetPixelVcl.htm) is a [VCL](CppVcl.htm)
-[graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to set
+[SetPixelVcl](CppSetPixelVcl.md) is a [VCL](CppVcl.md)
+[graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to set
 the color of a pixel.
 
  

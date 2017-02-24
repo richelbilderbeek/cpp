@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Package](CppPackage.htm)
+([C++](Cpp.md)) [Package](CppPackage.md)
 ==========================================
 
  
 
-A [package](CppPackage.htm) is similar to a [library](CppLibrary.htm),
+A [package](CppPackage.md) is similar to a [library](CppLibrary.md),
 but is easy to install from a online repository.
 
  

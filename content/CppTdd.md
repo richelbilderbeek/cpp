@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [TDD](CppTdd.htm)
+([C++](Cpp.md)) [TDD](CppTdd.md)
 ==================================
 
  
 
-'[Test Driven Development (TDD)](CppTdd.htm) is a software design
+'[Test Driven Development (TDD)](CppTdd.md) is a software design
 technique' \[1\].
 
  
 
-Here is an example of a set of rules to work following [TDD](CppTdd.htm)
+Here is an example of a set of rules to work following [TDD](CppTdd.md)
 \[2\](citing \[3\]):
 
  
@@ -46,7 +46,7 @@ Notes to self
 
  
 
--   Classes used in a [desktop application](CppDesktopApplication.htm)
+-   Classes used in a [desktop application](CppDesktopApplication.md)
     take much longer to write tests for. Consider writing 'TestMyClass'
     applications to see the class in isolation. If visual class has
     non-visual data members, these non-visual data members must be
@@ -65,16 +65,16 @@ Notes to self
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Jeff Langr](CppJeffLangr.htm). Modern C++ Programming with
+1.  [Jeff Langr](CppJeffLangr.md). Modern C++ Programming with
     Test-Driven Development. 2013. ISBN: 978-1-937785-48-2. Introduction
     chapter, page xiv: 'Test-Driven Development (TDD), a software design
     technique devised in the late 1990s, \[...\]'
-2.  [Jeff Langr](CppJeffLangr.htm). Modern C++ Programming with
+2.  [Jeff Langr](CppJeffLangr.md). Modern C++ Programming with
     Test-Driven Development. 2013. ISBN: 978-1-937785-48-2. Chapter 3.4,
     page 59.
 3.  Robert C. Martin ('Uncle Bob').
@@ -99,5 +99,5 @@ Notes to self
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

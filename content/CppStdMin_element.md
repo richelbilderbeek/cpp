@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::min\_element](CppMin_element.htm)
+([C++](Cpp.md)) [std::min\_element](CppMin_element.md)
 ========================================================
 
  
 
-[std::min\_element](CppMin_element.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to find the lowest value in a
-[container](CppContainer.htm).
+[std::min\_element](CppMin_element.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to find the lowest value in a
+[container](CppContainer.md).
 
  
 

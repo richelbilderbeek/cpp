@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WInteractWidget](CppWInteractWidget.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WInteractWidget](CppWInteractWidget.md)
 ===============================================================================
 
  
 
-[Wt::WInteractWidget](CppWInteractWidget.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WInteractWidget](CppWInteractWidget.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WInteractWidget](CppWInteractWidget.htm) is used in, among others:
+[Wt::WInteractWidget](CppWInteractWidget.md) is used in, among others:
 
 -   ...
 

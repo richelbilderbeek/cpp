@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [emit](CppEmit.htm)
+([C++](Cpp.md)) [emit](CppEmit.md)
 ====================================
 
  
 
-[emit](CppEmit.htm) is a [Qt](CppQt.htm) [keyword](CppKeyword.htm) to
-[emit](CppEmit.htm) a [Qt signal](CppQtSignal.htm).
+[emit](CppEmit.md) is a [Qt](CppQt.md) [keyword](CppKeyword.htm) to
+[emit](CppEmit.md) a [Qt signal](CppQtSignal.md).
 
  
 

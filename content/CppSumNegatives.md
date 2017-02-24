@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [SumNegatives](CppSumNegatives.htm)
+([C++](Cpp.md)) [SumNegatives](CppSumNegatives.md)
 ====================================================
 
  
 
-[SumNegatives](CppSumNegatives.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to sum all negative elements in a
-[container](CppContainer.htm).
+[SumNegatives](CppSumNegatives.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to sum all negative elements in a
+[container](CppContainer.md).
 
  
 

@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [purpose of using functions](CppFunctionPurpose.htm)
+([C++](Cpp.md)) [purpose of using functions](CppFunctionPurpose.md)
 =====================================================================
 
  
 
-Possible purposes of using [functions](CppFunction.htm) are (incomplete
+Possible purposes of using [functions](CppFunction.md) are (incomplete
 list):
 
 -   Avoid code duplication
 -   Improving the readability of your code
--   Decrease [scope](CppScope.htm) bloat
--   Increasing [const-correctness](CppConstCorrect.htm)
+-   Decrease [scope](CppScope.md) bloat
+-   Increasing [const-correctness](CppConstCorrect.md)
 
  
 
 Below is an example that asks the user for two values and calculates
-whether these and the sum of these values are [prime](CppPrime.htm). The
-first piece of code does not use [functions](CppFunction.htm), the
+whether these and the sum of these values are [prime](CppPrime.md). The
+first piece of code does not use [functions](CppFunction.md), the
 second does. In comment is shown which of the four purposes are served.
 
  
@@ -42,7 +42,7 @@ second does. In comment is shown which of the four purposes are served.
 
  
 
-Example without [functions](CppFunction.htm)
+Example without [functions](CppFunction.md)
 --------------------------------------------
 
  
@@ -61,7 +61,7 @@ Example without [functions](CppFunction.htm)
 
  
 
-Example with [functions](CppFunction.htm)
+Example with [functions](CppFunction.md)
 -----------------------------------------
 
  

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::rope](CppRope.htm)
+([C++](Cpp.md)) [std::rope](CppRope.md)
 =========================================
 
  
 
-[std::rope](CppRope.htm) is a heavy-duty [std::string](CppString.htm)
-supplied additionaly with some [STL](CppStl.htm) distributions. It is
-absent in both the [C++ Builder](CppBuilder.htm) and [Qt
-Creator](CppQtCreator.htm) [STL](CppStl.htm).
+[std::rope](CppRope.md) is a heavy-duty [std::string](CppString.md)
+supplied additionaly with some [STL](CppStl.md) distributions. It is
+absent in both the [C++ Builder](CppBuilder.md) and [Qt
+Creator](CppQtCreator.md) [STL](CppStl.md).
 
  
 

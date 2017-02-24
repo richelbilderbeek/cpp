@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WTextEdit](CppWTextEdit.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WTextEdit](CppWTextEdit.md)
 ===================================================================
 
  
 
-[Wt::WTextEdit](CppWTextEdit.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WTextEdit](CppWTextEdit.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WTextEdit](CppWTextEdit.htm) is used in, among others:
+[Wt::WTextEdit](CppWTextEdit.md) is used in, among others:
 
 -   ...
 

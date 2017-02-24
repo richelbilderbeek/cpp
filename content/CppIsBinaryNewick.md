@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [IsBinaryNewick](CppIsBinaryNewick.htm)
+([C++](Cpp.md)) [IsBinaryNewick](CppIsBinaryNewick.md)
 ========================================================
 
  
 
-[IsBinaryNewick](CppIsBinaryNewick.htm) is a [Newick](CppNewick.htm)
-[code snippet](CppCodeSnippets.htm) to determine if the
-[Newick](CppNewick.htm) is a binary tree.
+[IsBinaryNewick](CppIsBinaryNewick.md) is a [Newick](CppNewick.md)
+[code snippet](CppCodeSnippets.md) to determine if the
+[Newick](CppNewick.md) is a binary tree.
 
  
 

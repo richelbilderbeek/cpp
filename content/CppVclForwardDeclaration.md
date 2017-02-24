@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [VCL forward declarations](CppVclForwardDeclaration.htm)
+([C++](Cpp.md)) [VCL forward declarations](CppVclForwardDeclaration.md)
 =========================================================================
 
  
 
-[VCL](CppVcl.htm) [forward declarations](CppForwardDeclaration.htm).
+[VCL](CppVcl.md) [forward declarations](CppForwardDeclaration.md).
 
  
 

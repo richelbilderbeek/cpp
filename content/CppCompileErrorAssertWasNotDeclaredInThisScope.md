@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ['assert' was not declared in this scope](CppCompileErrorAssertWasNotDeclaredInThisScope.htm)
+([C++](Cpp.md)) ['assert' was not declared in this scope](CppCompileErrorAssertWasNotDeclaredInThisScope.md)
 ==============================================================================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -40,22 +40,22 @@ Operating system(s):
 
 -   ![Windows](PicWindows.png) Windows XP
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 1.3.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): from [GCC](CppGcc.htm),
-    shipped with [Qt Creator](CppQt.htm) 2.0.0
+-   ![STL](PicStl.png) [STL](CppStl.md): from [GCC](CppGcc.md),
+    shipped with [Qt Creator](CppQt.md) 2.0.0
 
  
 

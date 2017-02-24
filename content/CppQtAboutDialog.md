@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtAboutDialog](CppQtAboutDialog.htm)
+([C++](Cpp.md)) [QtAboutDialog](CppQtAboutDialog.md)
 ======================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtAboutDialog](CppQtAboutDialog.htm) is a [Qt](CppQt.htm) dialog
-[class](CppClass.htm) to display an [About](CppAbout.htm).
+[QtAboutDialog](CppQtAboutDialog.md) is a [Qt](CppQt.md) dialog
+[class](CppClass.md) to display an [About](CppAbout.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

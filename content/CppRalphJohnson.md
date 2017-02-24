@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Ralph Johnson](CppRalphJohnson.htm)
+([C++](Cpp.md)) [Ralph Johnson](CppRalphJohnson.md)
 =====================================================
 
  
 
-[Ralph Johnson](CppRalphJohnson.htm) is one of 'The Gang Of Four' that
+[Ralph Johnson](CppRalphJohnson.md) is one of 'The Gang Of Four' that
 wrote 'Design Patterns' \[1\], which is/was one of the [most important
-C++ books](CppMostImportantCppBooks.htm) \[2\].
+C++ books](CppMostImportantCppBooks.md) \[2\].
 
  
 
@@ -31,14 +31,14 @@ C++ books](CppMostImportantCppBooks.htm) \[2\].
 
  
 
-List of books co-authored by [Ralph Johnson](CppRalphJohnson.htm)
+List of books co-authored by [Ralph Johnson](CppRalphJohnson.md)
 -----------------------------------------------------------------
 
  
 
--   [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+-   [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  
@@ -71,16 +71,16 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
-2.  [Scott Meyers](CppScottMeyers.htm). The Most Important
+2.  [Scott Meyers](CppScottMeyers.md). The Most Important
     C++ Books...Ever. Online at
     http://www.artima.com/cppsource/top\_cpp\_books.html
 
@@ -103,5 +103,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png)![to](PicTo.png)![Symbian](PicSymbian.png) [From desktop to Symbian application, using Qt Creator under Ubuntu](CppFromQtCreatorUbuntuDesktopToSymbian.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png)![to](PicTo.png)![Symbian](PicSymbian.png) [From desktop to Symbian application, using Qt Creator under Ubuntu](CppFromQtCreatorUbuntuDesktopToSymbian.md)
 =============================================================================================================================================================================================================================================================
 
  
 
-This [article](CppArticle.htm) describes how to [port](CppPort.htm) a
-[desktop application](CppDesktopApplication.htm) using the
-[Qt](CppQt.htm) [library](CppLibrary.htm) and developed with the [Qt
-Creator](CppQtCreator.htm) [IDE](CppIde.htm) under
-[Ubuntu](CppUbuntu.htm) to a [Symbian](CppSymbian.htm) [mobile
-application](CppMobileApplication.htm).
+This [article](CppArticle.md) describes how to [port](CppPort.md) a
+[desktop application](CppDesktopApplication.md) using the
+[Qt](CppQt.md) [library](CppLibrary.md) and developed with the [Qt
+Creator](CppQtCreator.md) [IDE](CppIde.md) under
+[Ubuntu](CppUbuntu.md) to a [Symbian](CppSymbian.md) [mobile
+application](CppMobileApplication.md).
 
  
 

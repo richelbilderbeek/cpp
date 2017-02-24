@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::function](CppStdFunction.htm)
+([C++](Cpp.md)) [std::function](CppStdFunction.md)
 ====================================================
 
  
 
-[std::function](CppFunction.htm) is part of the [C++11](Cpp11.htm)
-[STL](CppStl.htm) for working with [functions](CppFunction.htm) in
-general, including [member functions](CppMemberFunction.htm).
+[std::function](CppFunction.md) is part of the [C++11](Cpp11.md)
+[STL](CppStl.md) for working with [functions](CppFunction.md) in
+general, including [member functions](CppMemberFunction.md).
 
  
 
@@ -31,17 +31,17 @@ general, including [member functions](CppMemberFunction.htm).
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [std::function example 1: global
-    functions](CppStdFunctionExample1.htm)
+    functions](CppStdFunctionExample1.md)
 -   [std::function example 2: member
-    functions](CppStdFunctionExample2.htm)
+    functions](CppStdFunctionExample2.md)
 -   [std::function example 3: member functions with
-    arguments](CppStdFunctionExample3.htm)
+    arguments](CppStdFunctionExample3.md)
 
  
 

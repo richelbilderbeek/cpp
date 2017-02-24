@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [boost::algorithm::split](CppBoostSplit.htm)
+([C++](Cpp.md)) [boost::algorithm::split](CppBoostSplit.md)
 =============================================================
 
  
 
-[boost::algorithm::split](CppBoostSplit.htm) is a [Boost](CppBoost.htm)
-[algorithm](CppAlgorithm.htm) used in, among others, the
-[SeperateString](CppSeperateString.htm) [algorithm](CppAlgorithm.htm).
+[boost::algorithm::split](CppBoostSplit.md) is a [Boost](CppBoost.md)
+[algorithm](CppAlgorithm.md) used in, among others, the
+[SeperateString](CppSeperateString.md) [algorithm](CppAlgorithm.md).
 
  
 
@@ -40,5 +40,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

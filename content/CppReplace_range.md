@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Replace\_range](CppReplace_range.htm)
+([C++](Cpp.md)) [Replace\_range](CppReplace_range.md)
 =======================================================
 
  
 
-[Replace](CppReplace.htm) [code snippet](CppCodeSnippets.htm) that
-[replaces](CppReplace.htm) a range by another range.
+[Replace](CppReplace.md) [code snippet](CppCodeSnippets.md) that
+[replaces](CppReplace.md) a range by another range.
 
  
 
@@ -36,7 +36,7 @@
 
  
 
-[Replace\_range](CppReplace_range.htm) test
+[Replace\_range](CppReplace_range.md) test
 -------------------------------------------
 
  

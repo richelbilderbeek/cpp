@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QObject](CppQObject.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QObject](CppQObject.md)
 ===========================================================
 
  
 
-[QObject](CppQObject.htm) is the [base class](CppBaseClass.htm) of all
-[Qt](CppQt.htm) [classes](CppClass.htm).
+[QObject](CppQObject.md) is the [base class](CppBaseClass.md) of all
+[Qt](CppQt.md) [classes](CppClass.md).
 
  
 
-[QObject](CppQObject.htm) allows to create own [derived
-classes](CppDerivedClass.htm) that can [emit](CppEmit.htm)
-[signals](CppSignal.htm) and respond to them.
+[QObject](CppQObject.md) allows to create own [derived
+classes](CppDerivedClass.md) that can [emit](CppEmit.md)
+[signals](CppSignal.md) and respond to them.
 
  
 

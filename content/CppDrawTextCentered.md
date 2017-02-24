@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [DrawTextCentered](CppDrawTextCentered.htm)
+([C++](Cpp.md)) [DrawTextCentered](CppDrawTextCentered.md)
 ============================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to draw
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to draw
 some text centered on a TImage.
 
  
 
-Assumes you have already defined [GetFontHeight](CppGetFontHeight.htm).
+Assumes you have already defined [GetFontHeight](CppGetFontHeight.md).
 
  
 

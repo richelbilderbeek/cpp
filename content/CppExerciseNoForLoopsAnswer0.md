@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#0](CppExerciseNoForLoopsAnswer0.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#0](CppExerciseNoForLoopsAnswer0.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -37,9 +37,9 @@ Question
 
 Replace the for-loop. You will need the following:
 
--   [std::for\_each](CppFor_each.htm)
--   [std::bind2nd](CppBind2nd.htm)
--   [std::multiplies](CppMultiplies.htm)
+-   [std::for\_each](CppFor_each.md)
+-   [std::bind2nd](CppBind2nd.md)
+-   [std::multiplies](CppMultiplies.md)
 
  
 

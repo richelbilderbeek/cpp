@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [slots](CppSlots.htm)
+([C++](Cpp.md)) [slots](CppSlots.md)
 ======================================
 
  
 
-[slots](CppSlots.htm) is a [Qt](CppQt.htm) [keyword](CppKeyword.htm) to
-[declare](CppDeclaration.htm) slots, so [Qt signals](CppQtSignal.htm)
+[slots](CppSlots.md) is a [Qt](CppQt.md) [keyword](CppKeyword.htm) to
+[declare](CppDeclaration.md) slots, so [Qt signals](CppQtSignal.md)
 can be connected with them.
 
  
 
 In the example below (from [How to StretchDraw an
-image?](CppQtStretchDraw.htm)), the slot 'onTimer' is
-[declared](CppDeclaration.htm). Probably there's a timer that needs to
+image?](CppQtStretchDraw.md)), the slot 'onTimer' is
+[declared](CppDeclaration.md). Probably there's a timer that needs to
 call the onTimer slot (note: there is in the full example).
 
  

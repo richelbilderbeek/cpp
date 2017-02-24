@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [SDK](CppSdk.htm)
+([C++](Cpp.md)) [SDK](CppSdk.md)
 ==================================
 
  
 
-An [SDK](CppSdk.htm) (an abbreviation of 'Software Development Kit',
-also called 'devkit') is a collection of [libraries](CppLibrary.htm) and
-[tools](Tools.htm) (for example, an [emulator](CppEmulator.htm)) to
+An [SDK](CppSdk.md) (an abbreviation of 'Software Development Kit',
+also called 'devkit') is a collection of [libraries](CppLibrary.md) and
+[tools](Tools.md) (for example, an [emulator](CppEmulator.md)) to
 develop for certain [operating system, environment or
-platform](CppOs.htm).
+platform](CppOs.md).
 
  
 
@@ -33,15 +33,15 @@ platform](CppOs.htm).
 
  
 
-Example [SDK](CppSdk.htm)'s
+Example [SDK](CppSdk.md)'s
 ---------------------------
 
  
 
--   ![Android](PicAndroid.png) [Android SDK](CppAndroidSdk.htm)
--   ![Maemo](PicMaemo.png) [Maemo SDK](CppMaemoSdk.htm)
--   ![Qt](PicQt.png) [Qt SDK](CppQtSdk.htm)
--   ![Symbian](PicSymbian.png) [Symbian SDK](CppSymbianSdk.htm)
+-   ![Android](PicAndroid.png) [Android SDK](CppAndroidSdk.md)
+-   ![Maemo](PicMaemo.png) [Maemo SDK](CppMaemoSdk.md)
+-   ![Qt](PicQt.png) [Qt SDK](CppQtSdk.md)
+-   ![Symbian](PicSymbian.png) [Symbian SDK](CppSymbianSdk.md)
 
  
 

@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [std::remove\_if](CppRemove_if.htm)
+([C++](Cpp.md)) [std::remove\_if](CppRemove_if.md)
 ====================================================
 
  
 
-[std::remove\_if](CppRemove_if.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to removed elements from a
-[container](CppContainer.htm).
+[std::remove\_if](CppRemove_if.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to removed elements from a
+[container](CppContainer.md).
 
  
 
-[std::remove\_if](CppRemove_if.htm) does the following:
+[std::remove\_if](CppRemove_if.md) does the following:
 
--   [std::remove\_if](CppRemove_if.htm) overwrites values that must be
+-   [std::remove\_if](CppRemove_if.md) overwrites values that must be
     removed by values that must not be removed with preserving
     the order. For example: removing '1' from '01112' generates '02112'
--   [std::remove\_if](CppRemove_if.htm) [returns](CppReturn.htm) an
-    [iterator](CppIterator.htm) to where the
-    [container](CppContainer.htm) would end would these values
+-   [std::remove\_if](CppRemove_if.md) [returns](CppReturn.md) an
+    [iterator](CppIterator.md) to where the
+    [container](CppContainer.md) would end would these values
     be removed. For example: after removing '1' from '01112', which
-    generates '02112', [returns](CppReturn.htm) an
-    [iterator](CppIterator.htm) pointing to the first '1'
+    generates '02112', [returns](CppReturn.md) an
+    [iterator](CppIterator.md) pointing to the first '1'
 
  
 

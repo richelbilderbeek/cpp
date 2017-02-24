@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::is\_heap](CppIs_heap.htm)
+([C++](Cpp.md)) [std::is\_heap](CppIs_heap.md)
 ================================================
 
  
 
-[std::is\_heap](CppIs_heap.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to check **[if](CppIf.htm)** a
-[container](CppContainer.htm) is ordered like a heap.
+[std::is\_heap](CppIs_heap.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to check **[if](CppIf.md)** a
+[container](CppContainer.md) is ordered like a heap.
 
  
 
@@ -51,5 +51,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

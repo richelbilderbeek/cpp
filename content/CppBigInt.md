@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![BigInt](PicBigInt.png) [BigInt](CppBigInt.htm)
+([C++](Cpp.md)) ![BigInt](PicBigInt.png) [BigInt](CppBigInt.md)
 =================================================================
 
  
 
-[BigInt](CppBigInt.htm) is a [library](CppLibrary.htm) for
-[integers](CppInt.htm) of near-infinite size.
+[BigInt](CppBigInt.md) is a [library](CppLibrary.md) for
+[integers](CppInt.md) of near-infinite size.
 
  
 
@@ -30,13 +30,13 @@
 
  
 
-'[Hello BigInt](CppHelloBigInt.htm)' program
+'[Hello BigInt](CppHelloBigInt.md)' program
 --------------------------------------------
 
  
 
-For a '[Hello BigInt](CppHelloBigInt.htm)' program, go to the page about
-the '[Hello BigInt](CppHelloBigInt.htm)' program.
+For a '[Hello BigInt](CppHelloBigInt.md)' program, go to the page about
+the '[Hello BigInt](CppHelloBigInt.md)' program.
 
  
 

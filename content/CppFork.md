@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [fork](CppFork.htm)
+([C++](Cpp.md)) [fork](CppFork.md)
 ====================================
 
  
 
-[fork](CppFork.htm) is a non-[STL](CppStl.htm) C
-[function](CppFunction.htm) to fork a process.
+[fork](CppFork.md) is a non-[STL](CppStl.md) C
+[function](CppFunction.md) to fork a process.
 
  
 

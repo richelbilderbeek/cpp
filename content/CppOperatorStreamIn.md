@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [operator&gt;&gt;](CppOperatorStreamIn.htm)
+([C++](Cpp.md)) [operator&gt;&gt;](CppOperatorStreamIn.md)
 ============================================================
 
  
 
-[operator&gt;&gt;](CppOperatorStreamIn.htm) (pronounced 'Stream in
-[operator](CppOperator.htm)') is an [operator](CppOperator.htm) for
-sending data from a [stream](CppStream.htm) to something. For doing the
-other way around, use [operator&lt;&lt;](CppOperatorStreamOut.htm).
+[operator&gt;&gt;](CppOperatorStreamIn.md) (pronounced 'Stream in
+[operator](CppOperator.md)') is an [operator](CppOperator.md) for
+sending data from a [stream](CppStream.md) to something. For doing the
+other way around, use [operator&lt;&lt;](CppOperatorStreamOut.md).
 
  
 
@@ -32,16 +32,16 @@ other way around, use [operator&lt;&lt;](CppOperatorStreamOut.htm).
 
  
 
-[Overloading](CppOverload.htm) [operator&gt;&gt;](CppOperatorStreamIn.htm)
+[Overloading](CppOverload.md) [operator&gt;&gt;](CppOperatorStreamIn.md)
 --------------------------------------------------------------------------
 
  
 
-Prefer [overloading](CppOverload.htm)
-[operator&gt;&gt;](CppOperatorStreamIn.htm) with a free
-[function](CppFunction.htm) \[1\]. To be able to access the
-[private](CppPrivate.htm) member variables, make this
-[function](CppFunction.htm) a [friend](CppFriend.htm).
+Prefer [overloading](CppOverload.md)
+[operator&gt;&gt;](CppOperatorStreamIn.md) with a free
+[function](CppFunction.md) \[1\]. To be able to access the
+[private](CppPrivate.md) member variables, make this
+[function](CppFunction.md) a [friend](CppFriend.md).
 
  
 
@@ -83,12 +83,12 @@ Another example
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++.
+1.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN: 0-201-61562-2.
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CLK\_TCK was not declared in this scope](CppCompileErrorCLK_TCKwasNotDeclaredInThisScope.htm)
+([C++](Cpp.md)) [CLK\_TCK was not declared in this scope](CppCompileErrorCLK_TCKwasNotDeclaredInThisScope.md)
 ===============================================================================================================
 
  
 
-[Compile error](CppCompileError.htm) that might occur when using my
-[Gnuplot Interface](CppGnuplotInterface.htm) [class](CppClass.htm).
+[Compile error](CppCompileError.md) that might occur when using my
+[Gnuplot Interface](CppGnuplotInterface.md) [class](CppClass.md).
 
  
 
@@ -50,5 +50,5 @@ it, use the code below instead.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [AnsiToUpper](CppAnsiToUpper.htm)
+([C++](Cpp.md)) [AnsiToUpper](CppAnsiToUpper.md)
 ==================================================
 
  
 
-[AnsiToUpper](CppAnsiToUpper.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[AnsiString](CppAnsiString.htm) to uppercase.
+[AnsiToUpper](CppAnsiToUpper.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[AnsiString](CppAnsiString.md) to uppercase.
 
  
 

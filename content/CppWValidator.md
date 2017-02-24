@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WValidator](CppWValidator.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WValidator](CppWValidator.md)
 =====================================================================
 
  
 
-[Wt::WValidator](CppWValidator.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WValidator](CppWValidator.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WValidator](CppWValidator.htm) is used in, among others:
+[Wt::WValidator](CppWValidator.md) is used in, among others:
 
 -   ...
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [BrownianMotion](CppBrownianMotion.htm)
+([C++](Cpp.md)) [BrownianMotion](CppBrownianMotion.md)
 ========================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[BrownianMotion](CppBrownianMotion.htm) contains some classes that are
+[BrownianMotion](CppBrownianMotion.md) contains some classes that are
 related to the Brownian motion process.
 
 Technical facts
@@ -219,5 +219,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

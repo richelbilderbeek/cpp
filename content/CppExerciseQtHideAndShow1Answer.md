@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise: Qt hide and show \#1](CppExerciseQtHideAndShow1Answer.htm)
+([C++](Cpp.md)) [Answer of exercise: Qt hide and show \#1](CppExerciseQtHideAndShow1Answer.md)
 ================================================================================================
 
  
 
 [Answer of exercise: Qt hide and show
-\#1](CppExerciseQtHideAndShow1Answer.htm) is the answer of the
-[exercise](CppExercise.htm) [Qt hide and show
-\#1](CppExerciseQtHideAndShow1.htm).
+\#1](CppExerciseQtHideAndShow1Answer.md) is the answer of the
+[exercise](CppExercise.md) [Qt hide and show
+\#1](CppExerciseQtHideAndShow1.md).
 
  
 
@@ -42,7 +42,7 @@ Solution
 
  
 
-The uninteded behavior is coded in [main](CppMain.htm):
+The uninteded behavior is coded in [main](CppMain.md):
 
  
 
@@ -59,7 +59,7 @@ FirstDialog::exec finishes with an error code of zero.
  
 
 Instead, I want that that moment is bridged until the first dialog
-closes. In that case [main](CppMain.htm) should be:
+closes. In that case [main](CppMain.md) should be:
 
  
 
@@ -91,5 +91,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

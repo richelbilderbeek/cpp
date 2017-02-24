@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [i586-mingw32msvc](CppI586-mingw32msvc.htm)
+([C++](Cpp.md)) [i586-mingw32msvc](CppI586-mingw32msvc.md)
 ============================================================
 
  
 
-[i586-mingw32msvc](CppI586-mingw32msvc.htm) is an element of
-[MinGW](CppMinGw.htm), (but what it is exactly, I do not know yet).
+[i586-mingw32msvc](CppI586-mingw32msvc.md) is an element of
+[MinGW](CppMinGw.md), (but what it is exactly, I do not know yet).
 
  
 

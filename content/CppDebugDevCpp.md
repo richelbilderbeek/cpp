@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [How must I use the Dev C++ debugger?](CppDebugDevCpp.htm)
+([C++](Cpp.md)) [How must I use the Dev C++ debugger?](CppDebugDevCpp.md)
 ===========================================================================
 
  
 
-A [C++ FAQ](CppFaq.htm).
+A [C++ FAQ](CppFaq.md).
 
  
 

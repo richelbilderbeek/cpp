@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MysteryMachine](CppMysteryMachine.htm)
+([C++](Cpp.md)) [MysteryMachine](CppMysteryMachine.md)
 ========================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[MysteryMachine](CppMysteryMachine.htm) is a [class](CppClass.htm) to
+[MysteryMachine](CppMysteryMachine.md) is a [class](CppClass.md) to
 simulate my mystery machine.
 
  
 
-[MysteryMachine](CppMysteryMachine.htm) is used in the [tool](Tools.htm)
-[SimMysteryMachine](ToolSimMysteryMachine.htm).
+[MysteryMachine](CppMysteryMachine.md) is used in the [tool](Tools.md)
+[SimMysteryMachine](ToolSimMysteryMachine.md).
 
 Technical facts
 ---------------
@@ -111,5 +111,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

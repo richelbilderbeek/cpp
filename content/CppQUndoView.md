@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QUndoView](CppQUndoView.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoView](CppQUndoView.md)
 ===============================================================
 
  
 
-[QUndoView](CppQUndoView.htm) is a [Qt](CppQt.htm) [class](CppClass.htm)
-to view a [QUndoStack](CppQUndoStack.htm).
+[QUndoView](CppQUndoView.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+to view a [QUndoStack](CppQUndoStack.md).
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
--   [QUndoView example 1](CppQUndoViewExample1.htm)
+-   [QUndoView example 1](CppQUndoViewExample1.md)
 
  
 
@@ -56,5 +56,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

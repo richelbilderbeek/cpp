@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::typeinfo](CppTypeinfo.htm)
+([C++](Cpp.md)) [std::typeinfo](CppTypeinfo.md)
 =================================================
 
  
 
-[std::typeinfo](CppTypeinfo.htm) is an [STL](CppStl.htm)
-[class](CppClass.htm) [returned](CppReturn.htm) by
-[typeid](CppTypeid.htm).
+[std::typeinfo](CppTypeinfo.md) is an [STL](CppStl.md)
+[class](CppClass.md) [returned](CppReturn.md) by
+[typeid](CppTypeid.md).
 
  
 

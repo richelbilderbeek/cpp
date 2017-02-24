@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [From Ubuntu using Qt Creator to Windows using Qt Creator](CppPortUbuntuQtCreatorToWindowsQtCreator.htm)
+([C++](Cpp.md)) [From Ubuntu using Qt Creator to Windows using Qt Creator](CppPortUbuntuQtCreatorToWindowsQtCreator.md)
 =========================================================================================================================
 
  
 
-It should be possible to [port](CppPort.htm) code from:
+It should be possible to [port](CppPort.md) code from:
 
 -   developed on the Ubuntu operating system
--   developed using the [IDE](CppIde.htm) [Qt Creator](CppQtCreator.htm)
+-   developed using the [IDE](CppIde.md) [Qt Creator](CppQtCreator.md)
 
  
 
@@ -30,8 +30,8 @@ to:
 
 -   a working Windows executable
 -   on the Windows XP operating system
--   recompiled using (the Windows version of) the [IDE](CppIde.htm) [Qt
-    Creator](CppQtCreator.htm)
+-   recompiled using (the Windows version of) the [IDE](CppIde.md) [Qt
+    Creator](CppQtCreator.md)
 
  
 
@@ -43,7 +43,7 @@ to:
 
  
 
-Test 1: a [Hello World](CppHelloWorld.htm) program
+Test 1: a [Hello World](CppHelloWorld.md) program
 --------------------------------------------------
 
  
@@ -90,7 +90,7 @@ Then it worked!
 
  
 
-Test 2: a [Hello Boost](CppHelloBoost.htm) program
+Test 2: a [Hello Boost](CppHelloBoost.md) program
 --------------------------------------------------
 
  

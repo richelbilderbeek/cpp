@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) ![C++98](PicCpp98.png)![Boost](PicBoost.png) [Boost.Xpressive](CppBoostXpressive.htm)
+([C++](Cpp.md)) ![C++98](PicCpp98.png)![Boost](PicBoost.png) [Boost.Xpressive](CppBoostXpressive.md)
 ======================================================================================================
 
  
 
-[Boost.Xpressive](CppBoostXpressive.htm) is a [C++98](Cpp98.htm)
-[Boost](CppBoost.htm) [library](CppLibrary.htm) for regular expressions.
+[Boost.Xpressive](CppBoostXpressive.md) is a [C++98](Cpp98.md)
+[Boost](CppBoost.md) [library](CppLibrary.md) for regular expressions.
 
  
 
--   [Boost.Xpressive example 1: basics](CppBoostXpressiveExample1.htm)
+-   [Boost.Xpressive example 1: basics](CppBoostXpressiveExample1.md)
 -   [Boost.Xpressive example 2: replace by a regular
-    expression](CppBoostXpressiveExample2.htm)
+    expression](CppBoostXpressiveExample2.md)
 -   [Boost.Xpressive example 3: iteration over regelar expression
-    matches](CppBoostXpressiveExample3.htm)
+    matches](CppBoostXpressiveExample3.md)
 
  
 

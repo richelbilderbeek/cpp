@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [ReplaceNegativeByZero](CppReplaceNegativeByZero.htm)
+([C++](Cpp.md)) [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
 ======================================================================
 
  
 
-[Code snippet](CppCodeSnippets.htm) to replace negative values in a
-[std::vector](CppVector.htm) by a zero.
+[Code snippet](CppCodeSnippets.md) to replace negative values in a
+[std::vector](CppVector.md) by a zero.
 
  
 

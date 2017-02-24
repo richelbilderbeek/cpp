@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::tanh](CppTanh.htm)
+([C++](Cpp.md)) [std::tanh](CppTanh.md)
 =========================================
 
  
 
-[std::tanh](CppTanh.htm) is an [STL](CppStl.htm)
-[mathematical](CppMath.htm) [function](CppFunction.htm) to calculate the
+[std::tanh](CppTanh.md) is an [STL](CppStl.md)
+[mathematical](CppMath.md) [function](CppFunction.md) to calculate the
 hyperbolic tangent.
 
  

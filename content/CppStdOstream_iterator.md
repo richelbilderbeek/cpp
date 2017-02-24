@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) std::ostream\_iterator
+([C++](Cpp.md)) std::ostream\_iterator
 =======================================
 
  
 
-An [iterator](CppIterator.htm).
+An [iterator](CppIterator.md).
 
  
 
@@ -29,7 +29,7 @@ An [iterator](CppIterator.htm).
 
  
 
-Example: [CoutVector](CppCoutVector.htm)
+Example: [CoutVector](CppCoutVector.md)
 ----------------------------------------
 
  

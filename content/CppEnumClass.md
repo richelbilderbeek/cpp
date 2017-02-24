@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [enum class](CppEnumClass.htm)
+([C++](Cpp.md)) [enum class](CppEnumClass.md)
 ===============================================
 
  
 
-An [enum class](CppEnumClass.htm) is a [C++11](Cpp11.htm) type-safe
-[enumeration](CppEnum.htm). Prefer [class enums](CppEnumClass.htm) over
-plain [enums](CppEnum.htm) to minimize surprise \[1\].
+An [enum class](CppEnumClass.md) is a [C++11](Cpp11.md) type-safe
+[enumeration](CppEnum.md). Prefer [class enums](CppEnumClass.md) over
+plain [enums](CppEnum.md) to minimize surprise \[1\].
 
  
 
@@ -39,8 +39,8 @@ Example
 
  
 
-An [enum class](CppEnumClass.htm) is a conversion-safe
-[enum](CppEnum.htm):
+An [enum class](CppEnumClass.md) is a conversion-safe
+[enum](CppEnum.md):
 
  
 
@@ -60,10 +60,10 @@ Screen output:
 
  
 
-Technical note: the code shown is [compiled](CppCompile.htm)
-successfully using the [G++](CppGpp.htm) 4.4.5
-[compiler](CppCompiler.htm), which is supplied with the [Qt
-Creator](CppQtCreator.htm) 2.0.0 [IDE](CppIde.htm).
+Technical note: the code shown is [compiled](CppCompile.md)
+successfully using the [G++](CppGpp.md) 4.4.5
+[compiler](CppCompiler.md), which is supplied with the [Qt
+Creator](CppQtCreator.md) 2.0.0 [IDE](CppIde.md).
 
  
 
@@ -75,12 +75,12 @@ Creator](CppQtCreator.htm) 2.0.0 [IDE](CppIde.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [enum classes](CppEnumClass.htm) to [enums](CppEnum.htm)
+-   Prefer [enum classes](CppEnumClass.md) to [enums](CppEnum.md)
     \[1,2\]
 
  
@@ -93,16 +93,16 @@ Creator](CppQtCreator.htm) 2.0.0 [IDE](CppIde.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 8.5.
     Advice. page 224: '\[6\] Prefer class enums over "plain" enums to
     minimize surprises'
-2.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+2.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. ' Prefer enum classes
     to enums'
 

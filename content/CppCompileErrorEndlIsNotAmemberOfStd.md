@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['endl' is not a member of 'std'](CppCompileErrorEndlIsNotAmemberOfStd.htm)
+([C++](Cpp.md)) ['endl' is not a member of 'std'](CppCompileErrorEndlIsNotAmemberOfStd.md)
 ============================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -51,9 +51,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
@@ -78,10 +78,10 @@ Solution
 
  
 
-The [compiler](CppCompiler.htm) was unable to find the
-[definition](CppDefinition.htm) of [std::endl](CppEndl.htm).
-[\#include](CppInclude.htm) the [header file](CppHeaderFile.htm)
-[iostream](CppIostreamH.htm) so it does:
+The [compiler](CppCompiler.md) was unable to find the
+[definition](CppDefinition.md) of [std::endl](CppEndl.md).
+[\#include](CppInclude.md) the [header file](CppHeaderFile.md)
+[iostream](CppIostreamH.md) so it does:
 
  
 

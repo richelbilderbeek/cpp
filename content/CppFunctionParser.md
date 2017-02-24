@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [function parser](CppFunctionParser.htm)
+([C++](Cpp.md)) [function parser](CppFunctionParser.md)
 =========================================================
 
  
 
-A [function parser](CppFunctionParser.htm) is a [parser](CppParser.htm)
+A [function parser](CppFunctionParser.md) is a [parser](CppParser.md)
 for mathematical functions.
 
  
@@ -44,5 +44,5 @@ for mathematical functions.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

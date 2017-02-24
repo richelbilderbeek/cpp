@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MysteryMachineWidget](CppMysteryMachineWidget.htm)
+([C++](Cpp.md)) [MysteryMachineWidget](CppMysteryMachineWidget.md)
 ====================================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[MysteryMachineWidget](CppMysteryMachineWidget.htm) is a
-[MysteryMachineWidget](CppMysteryMachineWidget.htm)
-[widget](CppWidget.htm).
+[MysteryMachineWidget](CppMysteryMachineWidget.md) is a
+[MysteryMachineWidget](CppMysteryMachineWidget.md)
+[widget](CppWidget.md).
 
 Technical facts
 ---------------
@@ -145,5 +145,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

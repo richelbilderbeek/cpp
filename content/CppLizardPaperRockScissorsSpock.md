@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [LizardPaperRockScissorsSpock](CppLizardPaperRockScissorsSpock.htm)
+([C++](Cpp.md)) [LizardPaperRockScissorsSpock](CppLizardPaperRockScissorsSpock.md)
 ====================================================================================
 
  
@@ -117,5 +117,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

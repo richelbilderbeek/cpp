@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Request for member 'mX' in 'w', which is of non-class type 'Widget()'](CppCompileErrorErrorRequestForMemberWhichIsOfNonClassType.htm)
+([C++](Cpp.md)) [Request for member 'mX' in 'w', which is of non-class type 'Widget()'](CppCompileErrorErrorRequestForMemberWhichIsOfNonClassType.md)
 =======================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,14 +53,14 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
  
 
@@ -87,8 +87,8 @@ Solution
 
  
 
-[Instanciate](CppInstance.htm) the default-constructed
-[class](CppClass.htm) without brackets:
+[Instanciate](CppInstance.md) the default-constructed
+[class](CppClass.md) without brackets:
 
  
 
@@ -106,14 +106,14 @@ Solution
 
  
 
-(Advanced) What caused this [compile error](CppCompileError.htm) exactly?
+(Advanced) What caused this [compile error](CppCompileError.md) exactly?
 -------------------------------------------------------------------------
 
  
 
-From \[1\]: 'The code does not [declare](CppDeclaration.htm) a Widget
-named w, it [declares](CppDeclaration.htm) a [function](CppFunction.htm)
-named w that takes nothing and [returns](CppReturn.htm) a Widget'.
+From \[1\]: 'The code does not [declare](CppDeclaration.md) a Widget
+named w, it [declares](CppDeclaration.md) a [function](CppFunction.md)
+named w that takes nothing and [returns](CppReturn.md) a Widget'.
 
  
 
@@ -125,12 +125,12 @@ named w that takes nothing and [returns](CppReturn.htm) a Widget'.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+1.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9. Item 6: 'Containers', page 35
 
  

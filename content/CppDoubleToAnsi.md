@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [DoubleToAnsi](CppDoubleToAnsi.htm)
+([C++](Cpp.md)) [DoubleToAnsi](CppDoubleToAnsi.md)
 ====================================================
 
  

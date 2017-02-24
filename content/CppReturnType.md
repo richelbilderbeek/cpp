@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [return type](CppReturnType.htm)
+([C++](Cpp.md)) [return type](CppReturnType.md)
 =================================================
 
  
 
-The [return type](CppReturnType.htm) of a [function](CppFunction.htm)
-denotes the [data type](CppDataType.htm) it [returns](CppReturn.htm).
+The [return type](CppReturnType.md) of a [function](CppFunction.md)
+denotes the [data type](CppDataType.md) it [returns](CppReturn.md).
 
  
 
-For example, the [function](CppFunction.htm) below,
-[ToInt](CppToInt.htm), [returns](CppReturn.htm) an [int](CppInt.htm), so
-its [return type](CppReturnType.htm) is [int](CppInt.htm).
+For example, the [function](CppFunction.md) below,
+[ToInt](CppToInt.md), [returns](CppReturn.md) an [int](CppInt.htm), so
+its [return type](CppReturnType.md) is [int](CppInt.md).
 
  
 
@@ -42,16 +42,16 @@ its [return type](CppReturnType.htm) is [int](CppInt.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Don't return [pointers](CppPointer.htm) or
-    [references](CppReference.htm) to [local](CppLocal.htm)
-    [variables](CppVariable.htm) \[1\]
--   For large [return type](CppReturnType.htm), use a [move
-    constructor](CppMoveConstructor.htm) \[2\]
+-   Don't return [pointers](CppPointer.md) or
+    [references](CppReference.md) to [local](CppLocal.md)
+    [variables](CppVariable.md) \[1\]
+-   For large [return type](CppReturnType.md), use a [move
+    constructor](CppMoveConstructor.md) \[2\]
 
  
 
@@ -63,16 +63,16 @@ its [return type](CppReturnType.htm) is [int](CppInt.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
     Advice. page 341: '\[4\] Don't return pointers or references to
     local variables'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 18.5.
     Advice. page 547: '\[4\] For large results, use a move constructor'
 

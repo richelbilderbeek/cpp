@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [boost/filesystem.hpp: No such file or directory](CppCompileErrorBoostFilesystemHppNoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [boost/filesystem.hpp: No such file or directory](CppCompileErrorBoostFilesystemHppNoSuchFileOrDirectory.md)
 ==============================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm) ([BEI](CppBei.htm) 3) I encountered
+[Compile error](CppCompileError.md) ([BEI](CppBei.md) 3) I encountered
 while busy solving [How to cross-compile a Qt Creator project from
 Ubuntu to a windows executable: example 3: console application with a
-Boost library](CppQtCrosscompileToWindowsExample3.htm).
+Boost library](CppQtCrosscompileToWindowsExample3.md).
 
  
 
@@ -46,7 +46,7 @@ System specifics
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): gedit
+[IDE](CppIde.md): gedit
 
  
 
@@ -82,9 +82,9 @@ Process
 
  
 
-Because I was trying to solve the [Qt FAQ](CppQtFaq.htm) [How to
+Because I was trying to solve the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm), I compiled the code as
+executable?](CppQtCrosscompileToWindows.md), I compiled the code as
 follows:
 
  
@@ -118,7 +118,7 @@ this case, one has to copy the Boost source code to
  
 
 This solves this problem, and takes you to the next: [cannot find
--lboost\_filesystem](CppLinkErrorCannotFindBoost_filesystem.htm).
+-lboost\_filesystem](CppLinkErrorCannotFindBoost_filesystem.md).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Legacy code](CppLegacyCode.htm)
+([C++](Cpp.md)) [Legacy code](CppLegacyCode.md)
 =================================================
 
  
 
-A [Legacy code](CppLegacyCode.htm) is 'vast amounts of existing code
-that was not built using [TDD](CppTdd.htm)' \[1\].
+A [Legacy code](CppLegacyCode.md) is 'vast amounts of existing code
+that was not built using [TDD](CppTdd.md)' \[1\].
 
  
 
@@ -30,12 +30,12 @@ that was not built using [TDD](CppTdd.htm)' \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Jeff Langr](CppJeffLangr.htm). Modern C++ Programming with
+1.  [Jeff Langr](CppJeffLangr.md). Modern C++ Programming with
     Test-Driven Development. 2013. ISBN: 978-1-937785-48-2. Chapter 8.1,
     page 195: 'Instead you are slogging through vast amounts of existing
     code that was not built using TDD - legacy code'
@@ -59,5 +59,5 @@ that was not built using [TDD](CppTdd.htm)' \[1\].
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

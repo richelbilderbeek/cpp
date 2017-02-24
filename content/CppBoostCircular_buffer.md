@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [boost::circular\_buffer](CppCircular_buffer.htm)
+([C++](Cpp.md)) [boost::circular\_buffer](CppCircular_buffer.md)
 ==================================================================
 
  
 
-[boost::circular\_buffer](CppCircular_buffer.htm) is an
-'[STL](CppStl.htm) compliant [container](CppContainer.htm) also known as
+[boost::circular\_buffer](CppCircular_buffer.md) is an
+'[STL](CppStl.md) compliant [container](CppContainer.md) also known as
 ring or cyclic buffer' \[1\].
 
  
@@ -55,7 +55,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

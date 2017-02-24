@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Why do you put multiple versions of the same code on your site?](CppWhyMultipleCode.htm)
+([C++](Cpp.md)) [Why do you put multiple versions of the same code on your site?](CppWhyMultipleCode.md)
 ==========================================================================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 
@@ -27,7 +27,7 @@ is recommended in most situations.
 
  
 
-For example, the function [Triple](CppTriple.htm) has the following
+For example, the function [Triple](CppTriple.md) has the following
 general or 'best' solution:
 
  

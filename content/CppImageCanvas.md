@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ImageCanvas](CppImageCanvas.htm)
+([C++](Cpp.md)) [ImageCanvas](CppImageCanvas.md)
 ==================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[ImageCanvas](CppImageCanvas.htm) is a [Canvas](CppCanvas.htm) to load
+[ImageCanvas](CppImageCanvas.md) is a [Canvas](CppCanvas.md) to load
 images.
 
 Technical facts
@@ -125,5 +125,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

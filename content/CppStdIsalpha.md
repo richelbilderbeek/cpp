@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::isalpha](CppIsalpha.htm)
+([C++](Cpp.md)) [std::isalpha](CppIsalpha.md)
 ===============================================
 
  
 
-[std::isalpha](CppIsalpha.htm) is a [function](CppFunction.htm) to test
+[std::isalpha](CppIsalpha.md) is a [function](CppFunction.md) to test
 if the given character is in the locale's alphabet.
 
  
 
--   [Download the Qt Creator Project 'CppIsalpha' (zip)](CppIsalpha.htm)
+-   [Download the Qt Creator Project 'CppIsalpha' (zip)](CppIsalpha.md)
 
  
 
@@ -49,5 +49,5 @@ if the given character is in the locale's alphabet.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

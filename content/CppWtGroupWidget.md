@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtGroupWidget](CppWtGroupWidget.htm)
+([C++](Cpp.md)) [WtGroupWidget](CppWtGroupWidget.md)
 ======================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtGroupWidget](CppWtGroupWidget.htm) is a [Wt](CppWt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) to display an
-[GroupWidget](CppGroupWidget.htm).
+[WtGroupWidget](CppWtGroupWidget.md) is a [Wt](CppWt.md)
+[widget](CppWidget.md) [class](CppClass.md) to display an
+[GroupWidget](CppGroupWidget.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

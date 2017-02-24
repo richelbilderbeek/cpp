@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![VCL](PicVcl.png) [WideToInt](CppWideToInt.htm)
+([C++](Cpp.md)) ![VCL](PicVcl.png) [WideToInt](CppWideToInt.md)
 =================================================================
 
  
 
-[WideToInt](CppWideToInt.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm)
-[WideString](CppWideString.htm) to [integer](CppInt.htm).
+[WideToInt](CppWideToInt.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md)
+[WideString](CppWideString.md) to [integer](CppInt.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Copy\_if](CppCopy_if.htm)
+([C++](Cpp.md)) [Copy\_if](CppCopy_if.md)
 ===========================================
 
  
@@ -64,5 +64,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

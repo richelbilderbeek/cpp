@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [copy constructor](CppCopyConstructor.htm)
+([C++](Cpp.md)) [copy constructor](CppCopyConstructor.md)
 ===========================================================
 
  
 
-A [copy constructor](CppCopyConstructor.htm) is the
-[constructor](CppConstructor.htm) called when an
-[instance](CppInstance.htm) is copied.
+A [copy constructor](CppCopyConstructor.md) is the
+[constructor](CppConstructor.md) called when an
+[instance](CppInstance.md) is copied.
 
  
 
-A [copy constructor](CppCopyConstructor.htm) is a
-[constructor](CppConstructor.htm) in which the first
-[argument](CppArgument.htm) is a [reference](CppReference.htm) to an
-[object](CppObject.htm) that has the same type as the object to be
+A [copy constructor](CppCopyConstructor.md) is a
+[constructor](CppConstructor.md) in which the first
+[argument](CppArgument.md) is a [reference](CppReference.md) to an
+[object](CppObject.md) that has the same type as the object to be
 initialized.
 
  
@@ -45,7 +45,7 @@ initialized.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

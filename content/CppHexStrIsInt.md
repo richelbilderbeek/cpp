@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [HexStrIsInt](CppHexStrIsInt.htm)
+([C++](Cpp.md)) [HexStrIsInt](CppHexStrIsInt.md)
 ==================================================
 
  

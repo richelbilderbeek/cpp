@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [DrawCanvas](CppDrawCanvas.htm)
+([C++](Cpp.md)) [DrawCanvas](CppDrawCanvas.md)
 ================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[DrawCanvas](CppDrawCanvas.htm) is a [Canvas](CppCanvas.htm) to draw on.
+[DrawCanvas](CppDrawCanvas.md) is a [Canvas](CppCanvas.md) to draw on.
 
 Technical facts
 ---------------
@@ -105,5 +105,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

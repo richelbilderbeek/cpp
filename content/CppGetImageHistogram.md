@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetImageHistogram](CppGetImageHistogram.htm)
+([C++](Cpp.md)) [GetImageHistogram](CppGetImageHistogram.md)
 ==============================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to get a
-histogram of a [VCL](CppVcl.htm) [TImage](CppTImage.htm) its color
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to get a
+histogram of a [VCL](CppVcl.md) [TImage](CppTImage.md) its color
 values.
 
  

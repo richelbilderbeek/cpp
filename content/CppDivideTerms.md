@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [DivideTerms](CppDivideTerms.htm)
+([C++](Cpp.md)) [DivideTerms](CppDivideTerms.md)
 ==================================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to divide two
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to divide two
 sets of product terms. For example: for sets n and d, where n =
-{1,2,3,4} and d = {1,2,3}, [DivideTerms](CppDivideTerms.htm) returns
+{1,2,3,4} and d = {1,2,3}, [DivideTerms](CppDivideTerms.md) returns
 (1\*2\*3\*4)/(1\*2\*3)=4. This can be used to divide two
-[factorials](CppFactorial.htm).
+[factorials](CppFactorial.md).
 
  
 
@@ -39,7 +39,7 @@ sets of product terms. For example: for sets n and d, where n =
 
  
 
-[DivideTerms](CppDivideTerms.htm) test
+[DivideTerms](CppDivideTerms.md) test
 --------------------------------------
 
  

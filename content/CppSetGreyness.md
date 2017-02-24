@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [SetGreyness](CppSetGreyness.htm)
+([C++](Cpp.md)) [SetGreyness](CppSetGreyness.md)
 ==================================================
 
  
@@ -23,7 +23,7 @@ of pixels.
 
  
 
-To get pixels' their greynesses, use [GetGreyness](CppGetGreyness.htm).
+To get pixels' their greynesses, use [GetGreyness](CppGetGreyness.md).
 
  
 

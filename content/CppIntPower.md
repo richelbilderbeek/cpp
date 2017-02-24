@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [IntPower](CppIntPower.htm)
+([C++](Cpp.md)) [IntPower](CppIntPower.md)
 ============================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to calculate
-([integer](CppInt.htm)) X to the power of ([integer](CppInt.htm)) Y.
-[IntPower](CppIntPower.htm) is the [integer](CppInt.htm) variant of
-[std::pow](CppPow.htm).
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate
+([integer](CppInt.md)) X to the power of ([integer](CppInt.md)) Y.
+[IntPower](CppIntPower.md) is the [integer](CppInt.md) variant of
+[std::pow](CppPow.md).
 
  
 
@@ -38,7 +38,7 @@
 
  
 
-[IntPower](CppIntPower.htm) test
+[IntPower](CppIntPower.md) test
 --------------------------------
 
  

@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to allow a Dialog to be resized by the user?](CppQtAllowResize.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to allow a Dialog to be resized by the user?](CppQtAllowResize.md)
 ==========================================================================================================
 
  
 
-[How to allow a Dialog to be resized by the user?](CppQtAllowResize.htm)
-is a [QT FAQ](CppQtFaq.htm) that one is confronted with when one uses
-[QDialog](CppQDialog.htm): it cannot be resized and has no minimize or
+[How to allow a Dialog to be resized by the user?](CppQtAllowResize.md)
+is a [QT FAQ](CppQtFaq.md) that one is confronted with when one uses
+[QDialog](CppQDialog.md): it cannot be resized and has no minimize or
 maximize button in its window title bar. How the steps below to solve
 this.
 
  
 
-Below is the default [QDialog](CppQDialog.htm)
-[constructor](CppConstructor.htm) code:
+Below is the default [QDialog](CppQDialog.md)
+[constructor](CppConstructor.md) code:
 
  
 

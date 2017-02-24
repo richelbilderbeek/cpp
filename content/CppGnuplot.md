@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) [gnuplot](CppGnuplot.htm)
+([C++](Cpp.md)) [gnuplot](CppGnuplot.md)
 ==========================================
 
  
 
-[gnuplot](CppGnuplot.htm) (no capital 'g') is a [tool](Tools.htm) to
+[gnuplot](CppGnuplot.md) (no capital 'g') is a [tool](Tools.md) to
 plot graphs.
 
--   ![STL](PicStl.png) [gnuplot example 1](CppGnuplotExample1.htm):
+-   ![STL](PicStl.png) [gnuplot example 1](CppGnuplotExample1.md):
     creating and saving a plot
--   ![Qt](PicQt.png) [gnuplot example 2](CppGnuplotExample2.htm):
+-   ![Qt](PicQt.png) [gnuplot example 2](CppGnuplotExample2.md):
     creating and displaying a plot
--   ![Qt](PicQt.png) [gnuplot example 3](CppGnuplotExample3.htm):
+-   ![Qt](PicQt.png) [gnuplot example 3](CppGnuplotExample3.md):
     creating and displaying a wireframe surface plot
--   ![Qt](PicQt.png) [gnuplot example 4](CppGnuplotExample4.htm):
+-   ![Qt](PicQt.png) [gnuplot example 4](CppGnuplotExample4.md):
     creating and displaying a surface plot
--   ![Qt](PicQt.png) [gnuplot example 5](CppGnuplotExample5.htm):
+-   ![Qt](PicQt.png) [gnuplot example 5](CppGnuplotExample5.md):
     creating and displaying a contour plot
--   ![Qt](PicQt.png) [gnuplot example 6](CppGnuplotExample6.htm):
+-   ![Qt](PicQt.png) [gnuplot example 6](CppGnuplotExample6.md):
     creating and displaying a scatter plot
--   [C++ gnuplot interface class](CppGnuplotInterface.htm): gnuplot
+-   [C++ gnuplot interface class](CppGnuplotInterface.md): gnuplot
     interface class
 
  

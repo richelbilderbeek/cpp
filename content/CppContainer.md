@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [Container](CppContainer.htm)
+([C++](Cpp.md)) [Container](CppContainer.md)
 ==============================================
 
  
 
-A [container](CppContainer.htm) is a [class type](CppClassType.htm) for
+A [container](CppContainer.md) is a [class type](CppClassType.md) for
 containing zero, one or multiple instances of one or more [data
-type](CppDataType.htm)s.
+type](CppDataType.md)s.
 
  
 
-Every [container](CppContainer.htm) has its own advantages and
-disadvantages. For example a [std::vector](CppVector.htm) has
+Every [container](CppContainer.md) has its own advantages and
+disadvantages. For example a [std::vector](CppVector.md) has
 random-access reading/writing, but new elements can only be added at the
-begin and end of the [container](CppContainer.htm). For a
-[std::list](CppList.htm), this is the other way around.
+begin and end of the [container](CppContainer.md). For a
+[std::list](CppList.md), this is the other way around.
 
  
 
@@ -41,31 +41,31 @@ begin and end of the [container](CppContainer.htm). For a
 
  
 
-[STL](CppStl.htm) [container](CppContainer.htm)s (incomplete list)
+[STL](CppStl.md) [container](CppContainer.md)s (incomplete list)
 ------------------------------------------------------------------
 
  
 
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)
-    [std::bitset](CppBitset.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::deque](CppDeque.htm)
+    [std::bitset](CppBitset.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::deque](CppDeque.md)
 -   ![
-    ](PicSpacer.png)![C++11](PicCpp11.png)[std::forward\_list](CppForward_list.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::list](CppList.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::map](CppMap.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multimap](CppMultimap.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multiset](CppMultiset.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::pair](CppPair.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::priority\_queue](CppPriority_queue.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::set](CppSet.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::slist](CppSlist.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::stack](CppStack.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::string](CppStdString.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::queue](CppQueue.htm)
+    ](PicSpacer.png)![C++11](PicCpp11.png)[std::forward\_list](CppForward_list.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::list](CppList.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::map](CppMap.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multimap](CppMultimap.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multiset](CppMultiset.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::pair](CppPair.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::priority\_queue](CppPriority_queue.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::set](CppSet.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::slist](CppSlist.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::stack](CppStack.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::string](CppStdString.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::queue](CppQueue.md)
 -   ![
-    ](PicSpacer.png)![C++11](PicCpp11.png)[std::unordered\_map](CppUnordered_map.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::valarray](CppValarray.htm)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::vector](CppVector.htm)
+    ](PicSpacer.png)![C++11](PicCpp11.png)[std::unordered\_map](CppUnordered_map.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::valarray](CppValarray.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::vector](CppVector.md)
 
  
 
@@ -77,13 +77,13 @@ begin and end of the [container](CppContainer.htm). For a
 
  
 
-SGI extension [containers](CppContainer.htm) (incomplete list)
+SGI extension [containers](CppContainer.md) (incomplete list)
 --------------------------------------------------------------
 
  
 
 -   bit\_vector
--   [hash\_set](CppHash_set.htm)
+-   [hash\_set](CppHash_set.md)
 -   hash\_map
 -   hash\_multiset
 -   hash\_multimap
@@ -100,26 +100,26 @@ SGI extension [containers](CppContainer.htm) (incomplete list)
 
  
 
-[Boost](CppBoost.htm) [container](CppContainer.htm)s (incomplete list)
+[Boost](CppBoost.md) [container](CppContainer.md)s (incomplete list)
 ----------------------------------------------------------------------
 
  
 
--   [boost::any](CppAny.htm)
--   [boost::array](CppBoostArray.htm)
+-   [boost::any](CppAny.md)
+-   [boost::array](CppBoostArray.md)
 -   boost::compressed\_pair
 -   boost::dynamic\_bitset
--   [boost::multi\_array](CppMulti_array.htm)
+-   [boost::multi\_array](CppMulti_array.md)
 -   boost::ptr\_array
 -   boost::ptr\_deque
 -   boost::ptr\_list
 -   boost::ptr\_map
 -   boost::ptr\_multimap
 -   boost::ptr\_multiset
--   [boost::ptr\_set](CppPtr_set.htm)
+-   [boost::ptr\_set](CppPtr_set.md)
 -   boost::ptr\_vector
 -   boost::shared\_array
--   [boost::tuple](CppBoostTuple.htm)
+-   [boost::tuple](CppBoostTuple.md)
 -   boost::variant
 
  
@@ -132,50 +132,50 @@ SGI extension [containers](CppContainer.htm) (incomplete list)
 
  
 
-[Container](CppContainer.htm) [code snippets](CppCodeSnippets.htm)
+[Container](CppContainer.md) [code snippets](CppCodeSnippets.md)
 ------------------------------------------------------------------
 
  
 
 -   [ContainerToStr, convert a container to a
-    std::string](CppContainerToStr.htm)
+    std::string](CppContainerToStr.md)
 -   [Convert a container to a std::string,
-    ContainerToStr](CppContainerToStr.htm)
+    ContainerToStr](CppContainerToStr.md)
 -   [Copy the first element of the std::pairs in a std::vector,
-    CopyFirst](CppCopyFirst.htm)
+    CopyFirst](CppCopyFirst.md)
 -   [Copy the second element of the std::pairs in a std::vector,
-    CopySecond](CppCopySecond.htm)
+    CopySecond](CppCopySecond.md)
 -   [CopyFirst, copy the first element of the std::pairs in a
-    std::vector](CppCopyFirst.htm)
+    std::vector](CppCopyFirst.md)
 -   [CopySecond, copy the second element of the std::pairs in a
-    std::vector](CppCopySecond.htm)
--   [CoutContainer, std::cout a container](CppCoutContainer.htm)
+    std::vector](CppCopySecond.md)
+-   [CoutContainer, std::cout a container](CppCoutContainer.md)
 -   [ExtractIds, extract the ID's for a std::vector of
-    Persons](CppExtractIds.htm)
+    Persons](CppExtractIds.md)
 -   [Extract the ID's for a std::vector of Persons,
-    ExtractIds](CppExtractIds.htm)
+    ExtractIds](CppExtractIds.md)
 -   [Get the mean value of all elements in a container,
-    GetMean](CppGetMean.htm)
--   [Get the sum of all elements in a container, GetSum](CppGetSum.htm)
+    GetMean](CppGetMean.md)
+-   [Get the sum of all elements in a container, GetSum](CppGetSum.md)
 -   [Get the three lowest elements of a container,
-    GetMinThree](CppGetMinThree.htm)
+    GetMinThree](CppGetMinThree.md)
 -   [GetMean, get the mean value of all elements in a
-    container](CppGetMean.htm)
+    container](CppGetMean.md)
 -   [GetMinThree, obtain the three lowest elements of a
-    container](CppGetMinThree.htm)
--   [GetSum, get the sum of all elements in a container](CppGetSum.htm)
--   [LoopReader, reading a container looped](CppLoopReader.htm)
--   [Matrix](CppMatrix.htm)
--   [Reading a container looped, LoopReader](CppLoopReader.htm)
+    container](CppGetMinThree.md)
+-   [GetSum, get the sum of all elements in a container](CppGetSum.md)
+-   [LoopReader, reading a container looped](CppLoopReader.md)
+-   [Matrix](CppMatrix.md)
+-   [Reading a container looped, LoopReader](CppLoopReader.md)
 -   [Reciprocal, replace all values in a container by their
-    reciprocal](CppReciprocal.htm)
+    reciprocal](CppReciprocal.md)
 -   [Replace all values in a container by their reciprocal,
-    Reciprocal](CppReciprocal.htm)
--   [Save a container to file, SaveContainer](CppSaveContainer.htm)
--   [SaveContainer, save a container to file](CppSaveContainer.htm)
--   [std::cout a container, CoutContainer](CppCoutContainer.htm)
--   [Triple all values in a container, Triple](CppTriple.htm)
--   [Triple, triple all values in a container](CppTriple.htm)
+    Reciprocal](CppReciprocal.md)
+-   [Save a container to file, SaveContainer](CppSaveContainer.md)
+-   [SaveContainer, save a container to file](CppSaveContainer.md)
+-   [std::cout a container, CoutContainer](CppCoutContainer.md)
+-   [Triple all values in a container, Triple](CppTriple.md)
+-   [Triple, triple all values in a container](CppTriple.md)
 
  
 
@@ -187,38 +187,38 @@ SGI extension [containers](CppContainer.htm) (incomplete list)
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   [STL](CppStl.htm) [containers](CppContainer.htm) are resource
+-   [STL](CppStl.md) [containers](CppContainer.md) are resource
     handles \[6\]
--   If a [class](CppClass.htm) is a [container](CppContainer.htm), give
-    it an [initializer-list](CppInitializerList.htm)
-    [constructor](CppContructor.htm) \[1\]
--   Use [templates](CppTemplate.htm) to express
-    [containers](CppContainer.htm) \[2\]
--   An [STL](CppStl.htm) [container](CppContainer.htm) defines a
+-   If a [class](CppClass.md) is a [container](CppContainer.md), give
+    it an [initializer-list](CppInitializerList.md)
+    [constructor](CppContructor.md) \[1\]
+-   Use [templates](CppTemplate.md) to express
+    [containers](CppContainer.md) \[2\]
+-   An [STL](CppStl.md) [container](CppContainer.md) defines a
     sequence \[3\]
--   Use [std::vector](CppVector.htm) as your default
-    [container](CppContainer.htm) \[4\]
+-   Use [std::vector](CppVector.md) as your default
+    [container](CppContainer.md) \[4\]
 -   Insertion operators, such as insert() and push\_back() are often
-    more efficient on a [std::vector](CppVector.htm) than on a
-    [std::list](CppList.htm) \[5\]
--   Pass a [container](CppContainer.htm) by
-    [reference](CppReference.htm) and [return](CppReturn.htm) a
-    [container](CppContainer.htm) by value \[7\]
--   For a [container](CppContainer.htm), use the ()-syntax for sizes and
-    the [list initialization](CppListInitialization.htm) syntax for
+    more efficient on a [std::vector](CppVector.md) than on a
+    [std::list](CppList.md) \[5\]
+-   Pass a [container](CppContainer.md) by
+    [reference](CppReference.md) and [return](CppReturn.md) a
+    [container](CppContainer.md) by value \[7\]
+-   For a [container](CppContainer.md), use the ()-syntax for sizes and
+    the [list initialization](CppListInitialization.md) syntax for
     lists of elements \[8\]
--   For simple traversal of a [container](CppContainer.htm), use a
-    [range-for](CppRangeFor.htm)-loop or a begin/end pair of
-    [iterators](CppIterator.htm) \[9\]
--   Use push\_back() or resize() on a [container](CppContainer.htm),
-    rather than [std::realloc](CppRealloc.htm) on an
-    [array](CppArray.htm) \[10\]
--   Do not assume that [operator\[\]](CppOperatorIndex.htm) range checks
+-   For simple traversal of a [container](CppContainer.md), use a
+    [range-for](CppRangeFor.md)-loop or a begin/end pair of
+    [iterators](CppIterator.md) \[9\]
+-   Use push\_back() or resize() on a [container](CppContainer.md),
+    rather than [std::realloc](CppRealloc.md) on an
+    [array](CppArray.md) \[10\]
+-   Do not assume that [operator\[\]](CppOperatorIndex.md) range checks
     \[11\]
 
  
@@ -231,49 +231,49 @@ SGI extension [containers](CppContainer.htm) (incomplete list)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
     Advice. page 525: '\[8\] If a class is a container, give it an
     initializer-list constructor'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 23.8,
     page 698: '\[2\] Use templates to express containers'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[1\] An STL container defines a sequence'
-4.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+4.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[2\] Use vector as your default container'
-5.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+5.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[3\] Insertion operators, such as insert()
     and push\_back() are often more efficient on a vector than on a
     list'
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[7\] STL containers are resource handles'
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[13\] Pass a container by reference and return a
     container by value'
-8.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[14\] For a container, use the ()-syntax for
     sizes and the {}-initializer syntax for lists of elements'
-9.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+9.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[15\] For simple traversal of a container, use a
     range-for-loop or a begin/end pair of iterators'
-10. [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+10. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[20\] Use push\_back() or resize() on a
     container, rather than realloc() on an array'
-11. [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+11. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[23\] Do not assume that \[\] range checks'
 
@@ -358,5 +358,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

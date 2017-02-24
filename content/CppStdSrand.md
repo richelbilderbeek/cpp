@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::srand](CppSrand.htm)
+([C++](Cpp.md)) [std::srand](CppSrand.md)
 ===========================================
 
  
 
-[std::srand](CppSrand.htm) sets the seed of the random number sequence
-that can be created by [std::rand](CppRand.htm) sequence.
+[std::srand](CppSrand.md) sets the seed of the random number sequence
+that can be created by [std::rand](CppRand.md) sequence.
 
  
 
@@ -41,12 +41,12 @@ The code below demonstrates that after setting a seed of zero, the first
 
  
 
-Example: [RandomizeTimer](CppRandomizeTimer.htm)
+Example: [RandomizeTimer](CppRandomizeTimer.md)
 ------------------------------------------------
 
  
 
-[RandomizeTimer](CppRandomizeTimer.htm) can be used to set a seed based
+[RandomizeTimer](CppRandomizeTimer.md) can be used to set a seed based
 on the system time.
 
  
@@ -65,7 +65,7 @@ on the system time.
 
  
 
-Setting the seed of the [Boost](CppBoost.htm) Random library
+Setting the seed of the [Boost](CppBoost.md) Random library
 ------------------------------------------------------------
 
  

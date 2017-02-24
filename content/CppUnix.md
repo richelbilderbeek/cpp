@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Unix](PicUnix.png) [UNIX](CppUnix.htm)
+([C++](Cpp.md)) ![Unix](PicUnix.png) [UNIX](CppUnix.md)
 =========================================================
 
  
 
-[UNIX](CppUnix.htm) is a type of [operating system](CppOs.htm).
+[UNIX](CppUnix.md) is a type of [operating system](CppOs.md).
 
  
 
-[Linux](CppLinux.htm) is a [UNIX](CppUnix.htm)-like [operating
-system](CppOs.htm).
+[Linux](CppLinux.md) is a [UNIX](CppUnix.md)-like [operating
+system](CppOs.md).
 
  
 

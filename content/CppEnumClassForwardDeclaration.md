@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [enum class forward declaration](CppEnumClassForwardDeclaration.htm)
+([C++](Cpp.md)) [enum class forward declaration](CppEnumClassForwardDeclaration.md)
 =====================================================================================
 
  
 
-[enum class forward declaration](CppEnumClassForwardDeclaration.htm) is
+[enum class forward declaration](CppEnumClassForwardDeclaration.md) is
 a technique that has different meanings, depending on the
-[standard](CppStandard.htm) used:
+[standard](CppStandard.md) used:
 
 -   ![C++98](PicCpp98.png) [enum class forward
-    declaration](CppEnumClassForwardDeclaration.htm) in the
-    [C++98](Cpp98.htm) [standard](CppStandard.htm)
+    declaration](CppEnumClassForwardDeclaration.md) in the
+    [C++98](Cpp98.md) [standard](CppStandard.md)
 -   ![C++11](PicCpp11.png) [enum class forward
-    declaration](CppEnumClassForwardDeclaration.htm) in the
-    [C++11](Cpp11.htm) [standard](CppStandard.htm)
+    declaration](CppEnumClassForwardDeclaration.md) in the
+    [C++11](Cpp11.md) [standard](CppStandard.md)
 
  
 
@@ -38,13 +38,13 @@ a technique that has different meanings, depending on the
 
  
 
-![C++98](PicCpp98.png) [enum class forward declaration](CppEnumClassForwardDeclaration.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [enum class forward declaration](CppEnumClassForwardDeclaration.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
  
 
-[enum class forward declaration](CppEnumClassForwardDeclaration.htm) is
-not supported in [C++98](Cpp98.htm).
+[enum class forward declaration](CppEnumClassForwardDeclaration.md) is
+not supported in [C++98](Cpp98.md).
 
  
 
@@ -56,7 +56,7 @@ not supported in [C++98](Cpp98.htm).
 
  
 
-![C++11](PicCpp11.png) [enum class forward declaration](CppEnumClassForwardDeclaration.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [enum class forward declaration](CppEnumClassForwardDeclaration.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -66,9 +66,9 @@ not supported in [C++98](Cpp98.htm).
 
  
 
-An [enum class forward declaration](CppEnumClassForwardDeclaration.htm)
-is technique to do a [forward declaration](CppForwardDeclaration.htm) on
-an [enum class](CppEnumClass.htm):
+An [enum class forward declaration](CppEnumClassForwardDeclaration.md)
+is technique to do a [forward declaration](CppForwardDeclaration.md) on
+an [enum class](CppEnumClass.md):
 
  
 
@@ -78,11 +78,11 @@ an [enum class](CppEnumClass.htm):
 
  
 
-Technical note: the code shown did not [compile](CppCompile.htm) using
-the [G++](CppGpp.htm) 4.4.5 [compiler](CppCompiler.htm), which is
-supplied with the [Qt Creator](CppQtCreator.htm) 2.0.0
-[IDE](CppIde.htm), but is expected to [compile](CppCompile.htm) in
-[G++](CppGpp.htm) version 4.6 \[1\].
+Technical note: the code shown did not [compile](CppCompile.md) using
+the [G++](CppGpp.md) 4.4.5 [compiler](CppCompiler.md), which is
+supplied with the [Qt Creator](CppQtCreator.md) 2.0.0
+[IDE](CppIde.md), but is expected to [compile](CppCompile.md) in
+[G++](CppGpp.md) version 4.6 \[1\].
 
  
 
@@ -94,7 +94,7 @@ supplied with the [Qt Creator](CppQtCreator.htm) 2.0.0
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

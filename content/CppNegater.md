@@ -12,22 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Negater](CppNegater.htm)
+([C++](Cpp.md)) [Negater](CppNegater.md)
 ==========================================
 
  
 
-A [negater](CppNegater.htm) is a type of [functor](CppFunctor.htm) that
-allows to express the opposite of a [predicate](CppPredicate.htm) \[1\].
+A [negater](CppNegater.md) is a type of [functor](CppFunctor.md) that
+allows to express the opposite of a [predicate](CppPredicate.md) \[1\].
 
  
 
-[Negaters](CppNegater.htm) are useful when using
-[algorithms](CppAlgorithm.htm).
-
- 
-
- 
+[Negaters](CppNegater.md) are useful when using
+[algorithms](CppAlgorithm.md).
 
  
 
@@ -35,13 +31,17 @@ allows to express the opposite of a [predicate](CppPredicate.htm) \[1\].
 
  
 
-![Boost](PicBoost.png) Example (using [Boost](CppBoost.htm).Bind)
+ 
+
+ 
+
+![Boost](PicBoost.png) Example (using [Boost](CppBoost.md).Bind)
 -----------------------------------------------------------------
 
  
 
 The example below demonstrates how to a find a not-male (that is, a
-female) using the [std::not1](CppNot1.htm) [negater](CppNegater.htm).
+female) using the [std::not1](CppNot1.md) [negater](CppNegater.md).
 
  
 
@@ -59,12 +59,12 @@ female) using the [std::not1](CppNot1.htm) [negater](CppNegater.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.4.4: 'A
     negater allows us to express the opposite of a predicate'
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtModel](CppQtModel.htm)
+([C++](Cpp.md)) [QtModel](CppQtModel.md)
 ==========================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtModel](CppQtModel.htm) are some [Qt](CppQt.htm) model
-[classes](CppClass.htm).
+[QtModel](CppQtModel.md) are some [Qt](CppQt.md) model
+[classes](CppClass.md).
 
 Technical facts
 ---------------
@@ -296,5 +296,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

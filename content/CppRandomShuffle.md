@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [RandomShuffle](CppRandomShuffle.htm)
+([C++](Cpp.md)) [RandomShuffle](CppRandomShuffle.md)
 ======================================================
 
  
 
-The [algorithm](CppAlgorithm.htm) to shuffle a
-[std::vector](CppVector.htm) to a random order is already present in the
-[STL](CppStl.htm). It is called
-[std::random\_shuffle](CppRandom_shuffle.htm) and can be found in the
-[header file](CppHeaderFile.htm) [algorithm](CppAlgorithmH.htm).
+The [algorithm](CppAlgorithm.md) to shuffle a
+[std::vector](CppVector.md) to a random order is already present in the
+[STL](CppStl.md). It is called
+[std::random\_shuffle](CppRandom_shuffle.md) and can be found in the
+[header file](CppHeaderFile.md) [algorithm](CppAlgorithmH.md).
 
  
 

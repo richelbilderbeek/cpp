@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtExample16](CppQtExample16.htm)
+([C++](Cpp.md)) [QtExample16](CppQtExample16.md)
 ==================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Ubuntu](PicUbuntu.png)
 
  
 
-This [Qt](CppQt.htm) example shows how to using resources, like [this
+This [Qt](CppQt.md) example shows how to using resources, like [this
 screenshot (png)](CppQtExample16.png).
 
  
@@ -39,13 +39,13 @@ screenshot (png)](CppQtExample16.png).
 
  
 
-Using resources in [Qt Creator](CppQt.htm) 2.0.0
+Using resources in [Qt Creator](CppQt.md) 2.0.0
 ------------------------------------------------
 
  
 
 Here follows a step-by-step guide to add a bitmap as a resource to a [Qt
-Creator](CppQt.htm) project:
+Creator](CppQt.md) project:
 
  
 
@@ -69,7 +69,7 @@ Creator](CppQt.htm) project:
 13. [View screenshot](CppQtExample16_7.png)
 14. Click 'Add -&gt; Add Files' and add an image. In this example, this
     is a file called 'BeerSmall.bmp' (a sprite from
-    [BeerWanter](GameBeerWanter.htm))
+    [BeerWanter](GameBeerWanter.md))
 15. [View screenshot](CppQtExample16_8.png)
 16. Now, the file has been added to your resources. The image can be
     accessed with the filename ':/MyImages/BeerSmall.bmp'
@@ -82,35 +82,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -123,7 +123,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppQtExample16/CppQtExample16.pro
+[Qt project file](CppQtProjectFile.md): ./CppQtExample16/CppQtExample16.pro
 ----------------------------------------------------------------------------
 
  
@@ -170,5 +170,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

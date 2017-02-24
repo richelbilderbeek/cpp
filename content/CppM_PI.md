@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [M\_PI](CppM_PI.htm)
+([C++](Cpp.md)) [M\_PI](CppM_PI.md)
 =====================================
 
  
 
-[M\_PI](CppM_PI.htm) is the [STL](CppStl.htm) constant for the value of
+[M\_PI](CppM_PI.md) is the [STL](CppStl.md) constant for the value of
 pi (that is: 3.141592...).
 
  

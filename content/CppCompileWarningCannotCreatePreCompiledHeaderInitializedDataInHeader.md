@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Cannot create pre-compiled header: initialized data in header](CppCompileWarningCannotCreatePreCompiledHeaderInitializedDataInHeader.htm)
+([C++](Cpp.md)) [Cannot create pre-compiled header: initialized data in header](CppCompileWarningCannotCreatePreCompiledHeaderInitializedDataInHeader.md)
 ===========================================================================================================================================================
 
  
 
-[Compile warning](CppCompileError.htm).
+[Compile warning](CppCompileError.md).
 
  
 
-If you get this [compile warning](CppCompileWarning.htm), compiling will
+If you get this [compile warning](CppCompileWarning.md), compiling will
 be significantly slowed down. Luckily, the problem is easy to solve.
 
  
@@ -79,13 +79,13 @@ Which takes you to the following line in 'include/stlport/locale':
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
-[Boost](CppBoost.htm) version: 1.35.0
+[Boost](CppBoost.md) version: 1.35.0
 
  
 

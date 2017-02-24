@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Open C/C++](CppOpenCpp.htm)
+([C++](Cpp.md)) [Open C/C++](CppOpenCpp.md)
 =============================================
 
  
 
-[Open C/C++](CppOpenCpp.htm) is a plugin that needs to be installed with
-the [Symbian SDK](CppSymbianSdk.htm).
+[Open C/C++](CppOpenCpp.md) is a plugin that needs to be installed with
+the [Symbian SDK](CppSymbianSdk.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QmakeErrorUnknownModulesInQtLocationSensors](CppQmakeErrorUnknownModulesInQtLocationSensors.htm)
+([C++](Cpp.md)) [QmakeErrorUnknownModulesInQtLocationSensors](CppQmakeErrorUnknownModulesInQtLocationSensors.md)
 ==================================================================================================================
 
  
@@ -23,8 +23,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [Unknown module(s) in QT: location
-sensors](CppQmakeErrorUnknownModulesInQtLocationSensors.htm) is a [qmake
-error](CppQmakeError.htm).
+sensors](CppQmakeErrorUnknownModulesInQtLocationSensors.md) is a [qmake
+error](CppQmakeError.md).
 
  
 
@@ -35,42 +35,42 @@ error](CppQmakeError.htm).
  
 
 -   [Download the Qt Creator project
-    'CppQmakeErrorUnknownModulesInQtLocationSensors' (zip)](CppQmakeErrorUnknownModulesInQtLocationSensors.htm)
+    'CppQmakeErrorUnknownModulesInQtLocationSensors' (zip)](CppQmakeErrorUnknownModulesInQtLocationSensors.md)
 
 Technical facts
 ---------------
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -83,7 +83,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppQmakeErrorUnknownModulesInQtLocationSensors/CppQmakeErrorUnknownModulesInQtLocationSensors.pro
+[Qt project file](CppQtProjectFile.md): ./CppQmakeErrorUnknownModulesInQtLocationSensors/CppQmakeErrorUnknownModulesInQtLocationSensors.pro
 --------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -130,5 +130,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

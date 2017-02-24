@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtLedDisplayWidget](CppQtLedDisplayWidget.htm)
+([C++](Cpp.md)) [QtLedDisplayWidget](CppQtLedDisplayWidget.md)
 ================================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtLedWidget](CppQtLedWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to display an [Led](CppLed.htm).
+[QtLedWidget](CppQtLedWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to display an [Led](CppLed.md).
 
  
 
-[QtLedWidget](CppQtLedWidget.htm) is used in the [tool](Tools.htm)
-[TestLed](ToolTestLed.htm).
+[QtLedWidget](CppQtLedWidget.md) is used in the [tool](Tools.md)
+[TestLed](ToolTestLed.md).
 
 Technical facts
 ---------------
@@ -111,5 +111,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

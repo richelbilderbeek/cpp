@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::abort](CppAbort.htm)
+([C++](Cpp.md)) [std::abort](CppAbort.md)
 ===========================================
 
  
 
-[std::abort](CppAbort.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to abort the program from any point.
+[std::abort](CppAbort.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to abort the program from any point.
 
  
 
-In the example below, [std::signal](CppStdSignal.htm) sets the function
-onAbort to handle a possible abort. Then [std::abort](CppAbort.htm) is
+In the example below, [std::signal](CppStdSignal.md) sets the function
+onAbort to handle a possible abort. Then [std::abort](CppAbort.md) is
 called and handled by onAbort.
 
  

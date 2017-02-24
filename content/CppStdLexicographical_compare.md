@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::lexicographical\_compare](CppLexicographical_compare.htm)
+([C++](Cpp.md)) [std::lexicographical\_compare](CppLexicographical_compare.md)
 ================================================================================
 
  
 
-[std::lexicographical\_compare](CppLexicographical_compare.htm) is an
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to determine if two
-sequences of [characters](CppChar.htm) are in an alphabetically sorted
-order. Note that [std::strings](CppString.htm) are compared this way by
+[std::lexicographical\_compare](CppLexicographical_compare.md) is an
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to determine if two
+sequences of [characters](CppChar.md) are in an alphabetically sorted
+order. Note that [std::strings](CppString.md) are compared this way by
 default.
 
  

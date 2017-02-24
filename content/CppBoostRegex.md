@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Regex](CppBoostRegex.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Regex](CppBoostRegex.md)
 ========================================================================
 
  
 
-[Boost.Regex](CppBoostRegex.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) for [regular expressions](CppRegex.htm).
+[Boost.Regex](CppBoostRegex.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) for [regular expressions](CppRegex.md).
 
  
 
@@ -30,24 +30,24 @@
 
  
 
-Example programs and [code snippets](CppCodeSnippets.htm)
+Example programs and [code snippets](CppCodeSnippets.md)
 ---------------------------------------------------------
 
  
 
 -   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex
-    example 1: basics](CppBoostRegexExample1.htm)
+    example 1: basics](CppBoostRegexExample1.md)
 -   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex
-    example 2: replace](CppBoostRegexExample2.htm)
+    example 2: replace](CppBoostRegexExample2.md)
 -   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex
-    example 3: basics](CppBoostRegexExample3.htm)
--   ![Lubuntu](PicLubuntu.png) [RegexTester](ToolRegexTester.htm): tool
+    example 3: basics](CppBoostRegexExample3.md)
+-   ![Lubuntu](PicLubuntu.png) [RegexTester](ToolRegexTester.md): tool
     to test regular expressions
 -   ![Lubuntu](PicLubuntu.png)
-    [GetCppFilesInFolder](CppGetCppFilesInFolder.htm): uses regex on
+    [GetCppFilesInFolder](CppGetCppFilesInFolder.md): uses regex on
     filename
 -   ![Lubuntu](PicLubuntu.png)
-    [GetRegexMatches](CppGetRegexMatches.htm): obtain all regex matches
+    [GetRegexMatches](CppGetRegexMatches.md): obtain all regex matches
     from a std::string
 
  
@@ -60,7 +60,7 @@ Example programs and [code snippets](CppCodeSnippets.htm)
 
  
 
-Example [boost::regex](CppBoostRegex.htm)es
+Example [boost::regex](CppBoostRegex.md)es
 -------------------------------------------
 
  
@@ -78,7 +78,7 @@ Example [boost::regex](CppBoostRegex.htm)es
 | [here](CppRegexDomain.txt)           | Internet domain that checks for      |
 |                                      | valid extensions                     |
 +--------------------------------------+--------------------------------------+
-| `(\(\d,\(\d,\d\)\))|(\(\(\d,\d\),\d\ | Simple [Newick](CppNewick.htm)       |
+| `(\(\d,\(\d,\d\)\))|(\(\(\d,\d\),\d\ | Simple [Newick](CppNewick.md)       |
 | ))`                                  |                                      |
 +--------------------------------------+--------------------------------------+
 
@@ -92,13 +92,13 @@ Example [boost::regex](CppBoostRegex.htm)es
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 

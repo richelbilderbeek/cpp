@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [while](CppWhile.htm)
+([C++](Cpp.md)) [while](CppWhile.md)
 ======================================
 
  
 
  
 
-[Keyword](CppKeyword.htm) for program flow, similar to a
-[for](CppFor.htm) loop.
+[Keyword](CppKeyword.md) for program flow, similar to a
+[for](CppFor.md) loop.
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-Prefer a [for](CppFor.htm)-[statement](CppStatement.htm) to a
-[while](CppWhile.htm)-[statement](CppStatement.htm) when there is an
-obvious loop [variable](CppVariable.htm) \[5\]. Prefer a
-[while](CppWhile.htm)-[statement](CppStatement.htm) to a
-[for](CppFor.htm)-[statement](CppStatement.htm) when there is no obvious
-loop [variable](CppVariable.htm) \[6\].
+Prefer a [for](CppFor.md)-[statement](CppStatement.md) to a
+[while](CppWhile.md)-[statement](CppStatement.md) when there is an
+obvious loop [variable](CppVariable.md) \[5\]. Prefer a
+[while](CppWhile.md)-[statement](CppStatement.md) to a
+[for](CppFor.md)-[statement](CppStatement.md) when there is no obvious
+loop [variable](CppVariable.md) \[6\].
 
  
 
@@ -45,16 +45,16 @@ loop [variable](CppVariable.htm) \[6\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 9.8.
     Advice. page 240: '\[4\] Prefer a for-statement to a while-statement
     when there is an obvious loop variable'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 9.8.
     Advice. page 240: '\[5\] Prefer a while-statement to a for-statement
     when there is no obvious loop variable'
@@ -78,5 +78,5 @@ loop [variable](CppVariable.htm) \[6\].
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

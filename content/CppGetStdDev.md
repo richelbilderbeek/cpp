@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetStdDev](CppGetStdDev.htm)
+([C++](Cpp.md)) [GetStdDev](CppGetStdDev.md)
 ==============================================
 
  
 
-[GetStdDev](CppGetStdDev.htm) is a [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to calculate the standard deviation of the
-values in a [container](CppContainer.htm).
+[GetStdDev](CppGetStdDev.md) is a [math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to calculate the standard deviation of the
+values in a [container](CppContainer.md).
 
  
 
@@ -37,12 +37,12 @@ values in a [container](CppContainer.htm).
 
  
 
-[GetStdDev](CppGetStdDev.htm) test
+[GetStdDev](CppGetStdDev.md) test
 ----------------------------------
 
  
 
-[GetStdDev](CppGetStdDev.htm) was tested by a previous version of this
+[GetStdDev](CppGetStdDev.md) was tested by a previous version of this
 code snippet.
 
  

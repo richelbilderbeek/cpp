@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Xpresser](CppXpresser.htm)
+([C++](Cpp.md)) [Xpresser](CppXpresser.md)
 ============================================
 
  
 
-A [Xpresser](CppXpresser.htm) is a [GUI testing](CppGuiTest.htm) tool.
+A [Xpresser](CppXpresser.md) is a [GUI testing](CppGuiTest.md) tool.
 
  
 
@@ -29,7 +29,7 @@ A [Xpresser](CppXpresser.htm) is a [GUI testing](CppGuiTest.htm) tool.
 
  
 
-[Xpresser](CppXpresser.htm) installation error
+[Xpresser](CppXpresser.md) installation error
 ----------------------------------------------
 
  
@@ -75,5 +75,5 @@ I tried some potential fixes, but I could not get it to work.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

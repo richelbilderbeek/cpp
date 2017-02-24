@@ -12,60 +12,60 @@
 
  
 
-([C++](Cpp.htm)) [VCL convert](CppVclConvert.htm)
+([C++](Cpp.md)) [VCL convert](CppVclConvert.md)
 =================================================
 
  
 
-[Code snippets](CppCodeSnippets.htm) to convert a certain
-[VCL](CppVcl.htm) [data type](CppDataType.htm) to another one.
+[Code snippets](CppCodeSnippets.md) to convert a certain
+[VCL](CppVcl.md) [data type](CppDataType.md) to another one.
 
  
 
-For conversions from and to [STL](CppStl.htm) and [boost](CppBoost.htm)
-[classes](CppClass.htm), [go to the STL and boost convert
-page](CppConvert.htm).
+For conversions from and to [STL](CppStl.md) and [boost](CppBoost.md)
+[classes](CppClass.md), [go to the STL and boost convert
+page](CppConvert.md).
 
  
 
-[Checks](CppCheck.htm) [code snippets](CppCodeSnippets.htm) check if
+[Checks](CppCheck.md) [code snippets](CppCodeSnippets.md) check if
 this conversion can be succesfull.
 
  
 
 -   [Convert 2D std::vector to TImage,
-    VectorToImage](CppVectorToImage.htm)
--   [Convert AnsiString to double](CppAnsiToDouble.htm)
--   [Convert AnsiString to integer](CppAnsiToInt.htm)
--   [Convert AnsiString to lower case](CppAnsiToLower.htm)
--   [Convert AnsiString to std::string](CppAnsiToStr.htm)
--   [Convert AnsiString to upper case](CppAnsiToUpper.htm)
--   [Convert AnsiString to WideString](CppAnsiToWide.htm)
--   [Convert double to AnsiString](CppDoubleToAnsi.htm)
--   [Convert integer to AnsiString](CppIntToAnsi.htm)
--   [Convert RGB values to TColor](CppColorToRgb.htm)
--   [Convert std::string to AnsiString](CppStrToAnsi.htm)
--   [Convert std::string to WideString](CppStrToWide.htm)
--   [Convert TColor to RGB values](CppColorToRgb.htm)
+    VectorToImage](CppVectorToImage.md)
+-   [Convert AnsiString to double](CppAnsiToDouble.md)
+-   [Convert AnsiString to integer](CppAnsiToInt.md)
+-   [Convert AnsiString to lower case](CppAnsiToLower.md)
+-   [Convert AnsiString to std::string](CppAnsiToStr.md)
+-   [Convert AnsiString to upper case](CppAnsiToUpper.md)
+-   [Convert AnsiString to WideString](CppAnsiToWide.md)
+-   [Convert double to AnsiString](CppDoubleToAnsi.md)
+-   [Convert integer to AnsiString](CppIntToAnsi.md)
+-   [Convert RGB values to TColor](CppColorToRgb.md)
+-   [Convert std::string to AnsiString](CppStrToAnsi.md)
+-   [Convert std::string to WideString](CppStrToWide.md)
+-   [Convert TColor to RGB values](CppColorToRgb.md)
 -   [Convert TImage to 2D std::vector,
-    ImageToVector](CppImageToVector.htm)
--   [Convert TImage to TStringList](CppImageToStringList.htm) ([ASCII
-    art](CppAsciiArt.htm))
+    ImageToVector](CppImageToVector.md)
+-   [Convert TImage to TStringList](CppImageToStringList.md) ([ASCII
+    art](CppAsciiArt.md))
 -   [Convert TStringGrid to 2D std::vector,
-    StringGridToVector](CppStringGridToVector.htm)
--   [Convert WideString to AnsiString](CppWideToAnsi.htm)
--   [Convert WideString to double](CppWideToDouble.htm)
--   [Convert WideString to integer](CppWideToInt.htm)
--   [Convert WideString to std::string](CppWideToStr.htm)
+    StringGridToVector](CppStringGridToVector.md)
+-   [Convert WideString to AnsiString](CppWideToAnsi.md)
+-   [Convert WideString to double](CppWideToDouble.md)
+-   [Convert WideString to integer](CppWideToInt.md)
+-   [Convert WideString to std::string](CppWideToStr.md)
 -   [ImageToVector, converts TImage to 2D
-    std::vector](CppImageToVector.htm)
+    std::vector](CppImageToVector.md)
 -   [StringGridToVector, converts a TStringGrid to 2D
-    std::vector](CppStringGridToVector.htm)
+    std::vector](CppStringGridToVector.md)
 -   [ImageToStringList, convert TImage to
-    TStringList](CppImageToStringList.htm) ([ASCII
-    art](CppAsciiArt.htm))
+    TStringList](CppImageToStringList.md) ([ASCII
+    art](CppAsciiArt.md))
 -   [VectorToImage, converts a 2D std::vector to
-    TImage](CppVectorToImage.htm)
+    TImage](CppVectorToImage.md)
 
  
 

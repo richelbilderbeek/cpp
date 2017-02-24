@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Quotes](CppQuotes.htm)
+([C++](Cpp.md)) [Quotes](CppQuotes.md)
 ========================================
 
  
@@ -144,7 +144,7 @@ your friend and later it becomes your girlfriend.
  
 
 Translation: I am really sure that this is a valid index in my
-[std::vector](CppVector.htm)
+[std::vector](CppVector.md)
 
  
 

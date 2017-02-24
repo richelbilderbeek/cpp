@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Xml](CppXml.htm)
+([C++](Cpp.md)) [Xml](CppXml.md)
 ==================================
 
  
 
-'Extensible Markup Language ([XML](CppXml.htm)) is a set of rules for
+'Extensible Markup Language ([XML](CppXml.md)) is a set of rules for
 encoding documents in machine-readable form' \[1\].
 
  
@@ -30,13 +30,13 @@ encoding documents in machine-readable form' \[1\].
 
  
 
-[XML](CppXml.htm) [code snippets](CppCodeSnippets.htm)
+[XML](CppXml.md) [code snippets](CppCodeSnippets.md)
 ------------------------------------------------------
 
  
 
--   [SplitXml](CppSplitXml.htm)
--   [XmlToPretty](CppXmlToPretty.htm)
+-   [SplitXml](CppSplitXml.md)
+-   [XmlToPretty](CppXmlToPretty.md)
 
  
 
@@ -48,7 +48,7 @@ encoding documents in machine-readable form' \[1\].
 
  
 
-[C++](Cpp.htm) [XML](CppXml.htm) [parsers](CppParser.htm)
+[C++](Cpp.md) [XML](CppXml.md) [parsers](CppParser.htm)
 ---------------------------------------------------------
 
  
@@ -57,7 +57,7 @@ Incomplete list.
 
  
 
--   [boost::property\_tree](CppProperty_tree.htm)
+-   [boost::property\_tree](CppProperty_tree.md)
 -   RapidXML
 
  
@@ -70,7 +70,7 @@ Incomplete list.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -158,5 +158,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

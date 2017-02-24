@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WAbstractProxyModel](CppWAbstractProxyModel.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WAbstractProxyModel](CppWAbstractProxyModel.md)
 =======================================================================================
 
  
 
-[Wt::WAbstractProxyModel](CppWAbstractProxyModel.htm) is a
-[Wt](CppWt.htm) [class](CppClass.htm) for a timer.
+[Wt::WAbstractProxyModel](CppWAbstractProxyModel.md) is a
+[Wt](CppWt.md) [class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WAbstractProxyModel](CppWAbstractProxyModel.htm) is used in, among
+[Wt::WAbstractProxyModel](CppWAbstractProxyModel.md) is used in, among
 others:
 
 -   ...

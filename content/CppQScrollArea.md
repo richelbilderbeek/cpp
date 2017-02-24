@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QScrollArea](CppQScrollArea.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QScrollArea](CppQScrollArea.md)
 ===================================================================
 
  
 
-[QScrollArea](CppQScrollArea.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for that will get scrollbars if its contents gets
+[QScrollArea](CppQScrollArea.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for that will get scrollbars if its contents gets
 to big to display.
 
  
 
--   [QScrollArea example 1](CppQScrollAreaExample1.htm)
+-   [QScrollArea example 1](CppQScrollAreaExample1.md)
 
  
 
@@ -44,5 +44,5 @@ to big to display.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

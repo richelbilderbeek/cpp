@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#2: correct function declarations](CppExerciseCorrectFunctionDeclarationsAnswer.htm)
+([C++](Cpp.md)) [Answer of exercise \#2: correct function declarations](CppExerciseCorrectFunctionDeclarationsAnswer.md)
 ==========================================================================================================================
 
  
 
 This is the answer of [Exercise \#2: correct function
-declarations](CppExerciseCorrectFunctionDeclarations.htm).
+declarations](CppExerciseCorrectFunctionDeclarations.md).
 
  
 
@@ -34,7 +34,7 @@ declarations](CppExerciseCorrectFunctionDeclarations.htm).
  
 
 This function probably only read from a Database (due to the [const
-argument](CppConstArgument.htm)). But instead of reading from the
+argument](CppConstArgument.md)). But instead of reading from the
 original database, a (probably expensive) copy of the database is passed
 into the function. This makes the answer:
 
@@ -54,7 +54,7 @@ into the function. This makes the answer:
 
  
 
-1) [Declare](CppDeclaration.htm) the [main](CppMain.htm) [function](CppFunction.htm)
+1) [Declare](CppDeclaration.md) the [main](CppMain.md) [function](CppFunction.htm)
 ------------------------------------------------------------------------------------
 
  
@@ -65,7 +65,7 @@ into the function. This makes the answer:
 
  
 
-[main](CppMain.htm) has return type [int](CppInt.htm) \[1-5\].
+[main](CppMain.md) has return type [int](CppInt.md) \[1-5\].
 
  
 
@@ -204,15 +204,15 @@ function will always return a no-error code (often zero).
  
 
 Except for that, why return an error code, when you can also throw an
-error type (that is, an [exception](CppException.htm))? The purpose of
-[exceptions](CppException.htm) are to replace error codes, because these
+error type (that is, an [exception](CppException.md))? The purpose of
+[exceptions](CppException.md) are to replace error codes, because these
 are less ambiguent then error code (for example, zero is not always the
 no-error code).
 
  
 
 Finally, if std::cout fails, it will throw an
-[exception](CppException.htm) in the first place! The purpose of
+[exception](CppException.md) in the first place! The purpose of
 SayHello is (next to, std::cout the word hello) not to catch this
 exception and convert it to an error code.
 
@@ -410,7 +410,7 @@ multiple squares (at a certain position) in a certain direction.
 
  
 
-[References](CppReference.htm)
+[References](CppReference.md)
 ------------------------------
 
  
@@ -423,7 +423,7 @@ multiple squares (at a certain position) in a certain direction.
     that is non-standard and shouldn't be used. Instead use int main()
 3.  Herb Sutter. Exceptional C++. ISBN: 0-201-61562-2. Item 21:
     void main() is nonstandard and nonportable.
-4.  [Bjarne Stroustrup](CppBjarneStroustrup.htm)'s homepage
+4.  [Bjarne Stroustrup](CppBjarneStroustrup.md)'s homepage
     (http://www.research.att.com/\~bs/bs\_faq2.html\#void-main): 'The
     definition 'void main() { /\* ... \*/ }' is not and never has been
     C++, nor has it even been C.'

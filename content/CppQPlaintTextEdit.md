@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPlainTextEdit](CppQPlainTextEdit.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPlainTextEdit](CppQPlainTextEdit.md)
 =========================================================================
 
  
 
-[QPlainTextEdit](CppQPlainTextEdit.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QPlainTextEdit](CppQPlainTextEdit.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Configuration unchanged, skipping QMake step](CppQmakeErrorConfigurationUnchanged.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Configuration unchanged, skipping QMake step](CppQmakeErrorConfigurationUnchanged.md)
 =========================================================================================================================
 
  
 
-[make error](CppMakeError.htm).
+[make error](CppMakeError.md).
 
  
 
@@ -55,9 +55,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.2.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
 Project type: Qt4 Console Application
 
@@ -110,9 +110,9 @@ Solution
 
  
 
-This [qmake error](CppQmakeError.htm) might not be an error.
+This [qmake error](CppQmakeError.md) might not be an error.
 [Configuration unchanged, skipping QMake
-step](CppQmakeErrorConfigurationUnchanged.htm) denotes that the makefile
+step](CppQmakeErrorConfigurationUnchanged.md) denotes that the makefile
 needs not to be recreated, because nothing in its configuration has
 changed.
 

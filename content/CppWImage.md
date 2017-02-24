@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WImage](CppWImage.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WImage](CppWImage.md)
 =============================================================
 
  
 
-[Wt::WImage](CppWImage.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WImage](CppWImage.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for an image.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WImage](CppWImage.htm) is used in, among others:
+[Wt::WImage](CppWImage.md) is used in, among others:
 
 -   ...
 

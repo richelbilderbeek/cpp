@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.htm)
+([C++](Cpp.md)) [GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.md)
 ================================================================================
 
  
 
-[GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.htm) is a
-[normal distribution](CppNormalDistribution.htm) [code
-snippets](CppCodeSnippets.htm) that calculates the cumulative density at
+[GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.md) is a
+[normal distribution](CppNormalDistribution.md) [code
+snippets](CppCodeSnippets.md) that calculates the cumulative density at
 a certain x of a normal distribution with a mean of 0.0 and standard
 deviation of 1.0.
 
@@ -39,7 +39,7 @@ deviation of 1.0.
 
  
 
-[GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.htm) test
+[GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.md) test
 --------------------------------------------------------------------
 
  
@@ -73,7 +73,7 @@ Original code
 
  
 
-[GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.htm) is
+[GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.md) is
 adapted from the code snippet below:
 
  

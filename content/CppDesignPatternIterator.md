@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Iterator](CppDesignPatternIterator.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Iterator](CppDesignPatternIterator.md) ([Design Pattern](CppDesignPattern.htm))
 ==================================================================================================
 
  
 
-The [Iterator](CppDesignPatternIterator.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'provide a way to access the elements
+The [Iterator](CppDesignPatternIterator.md) is a [Design
+Pattern](CppDesignPattern.md) to 'provide a way to access the elements
 of an aggregate object sequentially without exposing its underlying
 representation' \[1\]
 
@@ -37,7 +37,7 @@ Example: IntVectorIterator
 
  
 
--   [IntVectorIterator](CppDesignPatternIteratorIntVectorIterator.htm)
+-   [IntVectorIterator](CppDesignPatternIteratorIntVectorIterator.md)
 
  
 
@@ -54,35 +54,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.04 (natty)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.04 (natty)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.5.2
+-   [G++](CppGpp.md) 4.5.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.5.2
 
  
@@ -95,7 +95,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppDesignPatternIterator.pro
+[Qt project file](CppQtProjectFile.md): CppDesignPatternIterator.pro
 ---------------------------------------------------------------------
 
  
@@ -171,14 +171,14 @@ main.cpp
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

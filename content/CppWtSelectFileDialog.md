@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtSelectFileDialog](CppWtSelectFileDialog.htm)
+([C++](Cpp.md)) [WtSelectFileDialog](CppWtSelectFileDialog.md)
 ================================================================
 
  
@@ -22,17 +22,17 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtSelectFileDialog](CppWtSelectFileDialog.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) to let a user select a file from the server. To
+[WtSelectFileDialog](CppWtSelectFileDialog.md) is a [Wt](CppWt.md)
+[class](CppClass.md) to let a user select a file from the server. To
 let a user select a file from his/her computer, the
-[Wt::WFileUpload](CppWFileUpload.htm) [class](CppClass.htm) might be
+[Wt::WFileUpload](CppWFileUpload.md) [class](CppClass.md) might be
 convenient.
 
  
 
-[TestSelectFileDialog](ToolTestSelectFileDialog.htm) is a
-[tool](Tools.htm) to test the
-[WtSelectFileDialog](CppWtSelectFileDialog.htm) [class](CppClass.htm).
+[TestSelectFileDialog](ToolTestSelectFileDialog.md) is a
+[tool](Tools.md) to test the
+[WtSelectFileDialog](CppWtSelectFileDialog.md) [class](CppClass.md).
 
 Technical facts
 ---------------
@@ -115,5 +115,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

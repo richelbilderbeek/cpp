@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [BOOST\_FOREACH Example1](CppBOOST_FOREACHExample1.htm)
+([C++](Cpp.md)) [BOOST\_FOREACH Example1](CppBOOST_FOREACHExample1.md)
 ========================================================================
 
  
 
-[BOOST\_FOREACH Example1](CppBOOST_FOREACHExample1.htm) is a
-[BOOST\_FOREACH](CppBOOST_FOREACH.htm) example.
+[BOOST\_FOREACH Example1](CppBOOST_FOREACHExample1.md) is a
+[BOOST\_FOREACH](CppBOOST_FOREACH.md) example.
 
  
 
@@ -38,36 +38,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.10 (oneiric)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.10 (oneiric)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.3.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.3.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.1
+-   [G++](CppGpp.md) 4.6.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.1
 
  
@@ -80,7 +80,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppBOOST\_FOREACH Example1.pro
+[Qt project file](CppQtProjectFile.md): CppBOOST\_FOREACH Example1.pro
 -----------------------------------------------------------------------
 
  
@@ -127,5 +127,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

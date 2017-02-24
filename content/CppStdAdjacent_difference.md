@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::adjacent\_difference](CppAdjacent_difference.htm)
+([C++](Cpp.md)) [std::adjacent\_difference](CppAdjacent_difference.md)
 ========================================================================
 
  
 
-[std::adjacent\_difference](CppAdjacent_difference.htm) is an
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to perform operations on
-two adjacent [container](CppContainer.htm) elements (which, by default
-is [std::minus](CppMinus.htm)).
+[std::adjacent\_difference](CppAdjacent_difference.md) is an
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to perform operations on
+two adjacent [container](CppContainer.md) elements (which, by default
+is [std::minus](CppMinus.md)).
 
  
 

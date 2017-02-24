@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [false](CppFalse.htm)
+([C++](Cpp.md)) [false](CppFalse.md)
 ======================================
 
  
 
-[false](CppFalse.htm) is a [keyword](CppKeyword.htm) and one of the two
-posible values of the [bool](CppBool.htm) [data type](CppDataType.htm),
-the other value being [true](CppTrue.htm).
+[false](CppFalse.md) is a [keyword](CppKeyword.md) and one of the two
+posible values of the [bool](CppBool.md) [data type](CppDataType.md),
+the other value being [true](CppTrue.md).
 
  
 

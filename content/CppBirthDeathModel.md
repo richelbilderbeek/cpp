@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [BirthDeathModel](CppBirthDeathModel.htm)
+([C++](Cpp.md)) [BirthDeathModel](CppBirthDeathModel.md)
 ==========================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[BirthDeathModel](CppBirthDeathModel.htm) contains some classes that are
+[BirthDeathModel](CppBirthDeathModel.md) contains some classes that are
 related to the birth-death speciation model.
 
 Technical facts
@@ -181,5 +181,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

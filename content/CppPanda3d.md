@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Panda3D](CppPanda3d.htm)
+([C++](Cpp.md)) [Panda3D](CppPanda3d.md)
 ==========================================
 
  
 
-[Panda3D](CppPanda3d.htm) is a [3D](Cpp3d.htm) rendering
-[library](CppLibrary.htm).
+[Panda3D](CppPanda3d.md) is a [3D](Cpp3d.md) rendering
+[library](CppLibrary.md).
 
  
 

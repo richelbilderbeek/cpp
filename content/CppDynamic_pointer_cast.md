@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [boost::dynamic\_pointer\_cast](CppDynamic_pointer_cast.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [boost::dynamic\_pointer\_cast](CppDynamic_pointer_cast.md)
 ====================================================================================================
 
  
 
-[boost::dynamic\_pointer\_cast](CppDynamic_pointer_cast.htm) is a
-[template function](CppTemplateFunction.htm) to
-[dynamic\_cast](CppDynamic_cast.htm) on a
-[boost::shared\_ptr](CppShared_ptr.htm).
+[boost::dynamic\_pointer\_cast](CppDynamic_pointer_cast.md) is a
+[template function](CppTemplateFunction.md) to
+[dynamic\_cast](CppDynamic_cast.md) on a
+[boost::shared\_ptr](CppShared_ptr.md).
 
  
 
@@ -42,36 +42,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.49
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.49
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -84,7 +84,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppDynamic\_pointer\_cast.pro
+[Qt project file](CppQtProjectFile.md): CppDynamic\_pointer\_cast.pro
 ----------------------------------------------------------------------
 
  
@@ -131,5 +131,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

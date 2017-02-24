@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::clog](CppClog.htm)
+([C++](Cpp.md)) [std::clog](CppClog.md)
 =========================================
 
  
 
-[std::clog](CppClog.htm) (abbreviation of 'character log stream') is a
-[stream](CppStream.htm) for logging information.
+[std::clog](CppClog.md) (abbreviation of 'character log stream') is a
+[stream](CppStream.md) for logging information.
 
  
 
@@ -38,7 +38,7 @@ Screen output:
 
  
 
-[Qt Creator](CppQtCreator.htm) [IDE](CppIde.htm) output (while in
+[Qt Creator](CppQtCreator.md) [IDE](CppIde.md) output (while in
 debugging mode):
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt Creator gprof example 1: profiling a simple console application](CppQtGprofExample1.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt Creator gprof example 1: profiling a simple console application](CppQtGprofExample1.md)
 ==============================================================================================================================
 
  
 
-This [Qt](CppQt.htm) example shows how to use [gprof](ToolGprof.htm)
-under [Qt Creator](CppQt.htm) to profile a simple console application.
+This [Qt](CppQt.md) example shows how to use [gprof](ToolGprof.md)
+under [Qt Creator](CppQt.md) to profile a simple console application.
 
  
 
@@ -29,18 +29,16 @@ under [Qt Creator](CppQt.htm) to profile a simple console application.
 
 Operating system: [Ubuntu](http://www.ubuntu.com)
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 GUI Application
+[Project type](CppQtProjectType.md): Qt4 GUI Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -50,13 +48,15 @@ Operating system: [Ubuntu](http://www.ubuntu.com)
 
  
 
-Using [gprof](ToolGprof.htm) in [Qt Creator](CppQt.htm) 2.0.0
+ 
+
+Using [gprof](ToolGprof.md) in [Qt Creator](CppQt.md) 2.0.0
 -------------------------------------------------------------
 
  
 
-Here follows a step-by-step guide to use [gprof](ToolGprof.htm) to do
-the profiling of a simple [Qt Creator](CppQt.htm) project:
+Here follows a step-by-step guide to use [gprof](ToolGprof.md) to do
+the profiling of a simple [Qt Creator](CppQt.md) project:
 
  
 
@@ -87,7 +87,7 @@ the profiling of a simple [Qt Creator](CppQt.htm) project:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

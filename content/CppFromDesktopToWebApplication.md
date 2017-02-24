@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Desktop](PicDesktop.png)![to](PicTo.png)![Web](PicWeb.png) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Create a web application from a desktop application](CppFromDesktopToWebApplication.htm)
+([C++](Cpp.md)) ![Desktop](PicDesktop.png)![to](PicTo.png)![Web](PicWeb.png) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Create a web application from a desktop application](CppFromDesktopToWebApplication.md)
 ===============================================================================================================================================================================================================================
 
  
 
-This [article](CppArticle.htm) describes how to create a [Wt](CppWt.htm)
-[web application](CppWebApplication.htm) from a [desktop
-application](CppDesktopApplication.htm), leaving both to be used.
+This [article](CppArticle.md) describes how to create a [Wt](CppWt.md)
+[web application](CppWebApplication.md) from a [desktop
+application](CppDesktopApplication.md), leaving both to be used.
 
  
 
-This [article](CppArticle.htm) uses the architecture described in the
-[article](CppArticle.htm) [Thinking Qt 1: general](CppThinkingQt1.htm)
-and [Thinking Wt 1: general](CppThinkingWt1.htm).
+This [article](CppArticle.md) uses the architecture described in the
+[article](CppArticle.md) [Thinking Qt 1: general](CppThinkingQt1.md)
+and [Thinking Wt 1: general](CppThinkingWt1.md).
 
  
 
@@ -42,7 +42,7 @@ Overview
 
  
 
-This [article](CppArticle.htm) follows these steps:
+This [article](CppArticle.md) follows these steps:
 
 1.  Discussing the starting point
 
@@ -61,11 +61,11 @@ Starting point
 
  
 
-This [article](CppArticle.htm)'s starting point is the code from
-[AsciiArter source code version 4.0](ToolAsciiArterSource_4_0.htm),
-which was described in the [article](CppArticle.htm) [Porting an
+This [article](CppArticle.md)'s starting point is the code from
+[AsciiArter source code version 4.0](ToolAsciiArterSource_4_0.md),
+which was described in the [article](CppArticle.md) [Porting an
 application from C++ Builder to Qt
-Creator](CppFromCppBuilderToQtCreator.htm).
+Creator](CppFromCppBuilderToQtCreator.md).
 
  
 
@@ -75,12 +75,12 @@ This change in architecture can be displayed graphically:
 
 -   ![C++ Builder](PicCppBuilder.png) [C++ Builder
     architecture (png)](CppFromCppBuilderToQtCreatorBefore.png): all
-    functionality in one [class](CppClass.htm)
+    functionality in one [class](CppClass.md)
 -   ![Qt Creator](PicQtCreator.png) [Qt Creator
     architecture (png)](CppFromCppBuilderToQtCreator.png): all
-    functionality distributed over multiple [classes](CppClass.htm),
-    keeping open the possibility to transform it into a [Wt](CppWt.htm)
-    [web applications](CppWebApplication.htm) (in dashed lines)
+    functionality distributed over multiple [classes](CppClass.md),
+    keeping open the possibility to transform it into a [Wt](CppWt.md)
+    [web applications](CppWebApplication.md) (in dashed lines)
 
  
 
@@ -92,20 +92,20 @@ This change in architecture can be displayed graphically:
 
  
 
-Put all Ascii-arter functionality in a [class](CppClass.htm) called [AsciiArter](CppAsciiArter.htm)
+Put all Ascii-arter functionality in a [class](CppClass.md) called [AsciiArter](CppAsciiArter.md)
 ---------------------------------------------------------------------------------------------------
 
  
 
 I did the following things:
 
--   Removed the use of the [Windows](CppWindows.htm)-only
-    [TImage](CppTImage.htm) [class](CppClass.htm), replaced it by
-    requesting a Y-X ordered 2D [std::vector](CppVector.htm) of
+-   Removed the use of the [Windows](CppWindows.md)-only
+    [TImage](CppTImage.md) [class](CppClass.md), replaced it by
+    requesting a Y-X ordered 2D [std::vector](CppVector.md) of
     greyscales
--   Put all [global](CppGlobal.htm) [functions](CppFunction.htm) in the
-    [AsciiArter](CppAsciiArter.htm) [class](CppClass.htm)
-    [namespace](CppNamespace.htm)
+-   Put all [global](CppGlobal.md) [functions](CppFunction.md) in the
+    [AsciiArter](CppAsciiArter.md) [class](CppClass.md)
+    [namespace](CppNamespace.md)
 -   Added versioning
 
  
@@ -154,16 +154,16 @@ I did the following things:
 
  
 
-Put the [GUI](CppGui.htm) logic in a platform-independent [class](CppClass.htm) called [TestAsciiArterDialog](CppTestAsciiArterDialog.htm)
+Put the [GUI](CppGui.md) logic in a platform-independent [class](CppClass.md) called [TestAsciiArterDialog](CppTestAsciiArterDialog.htm)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  
 
 I did the following things:
 
--   Removed the use of the [Windows](CppWindows.htm)-only
-    [TImage](CppTImage.htm) [class](CppClass.htm), replaced it by
-    requesting a Y-X ordered 2D [std::vector](CppVector.htm) of
+-   Removed the use of the [Windows](CppWindows.md)-only
+    [TImage](CppTImage.md) [class](CppClass.md), replaced it by
+    requesting a Y-X ordered 2D [std::vector](CppVector.md) of
     greyscales
 -   Added versioning
 
@@ -213,7 +213,7 @@ I did the following things:
 
  
 
-Put the [Qt](CppQt.htm) [GUI](CppGui.htm) functionality in a [class](CppClass.htm) called [QtTestAsciiArterDialog](CppQtTestAsciiArterDialog.htm)
+Put the [Qt](CppQt.md) [GUI](CppGui.md) functionality in a [class](CppClass.htm) called [QtTestAsciiArterDialog](CppQtTestAsciiArterDialog.htm)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -221,7 +221,7 @@ Put the [Qt](CppQt.htm) [GUI](CppGui.htm) functionality in a [class](CppClass.ht
 I did the following things:
 
 -   Let GUI library used, Qt in this case, convert the QImage to the
-    requested Y-X ordered 2D [std::vector](CppVector.htm) of greyscales
+    requested Y-X ordered 2D [std::vector](CppVector.md) of greyscales
 
  
 
@@ -275,19 +275,19 @@ Conclusion
  
 
 Instead of explaining all steps in detail, this
-[article](CppArticle.htm) shows a change in architecture from
+[article](CppArticle.md) shows a change in architecture from
 Windows-only GUI-dependent to platform-independent as described in the
-[article](CppArticle.htm) [Thinking Qt 1: general](CppThinkingQt1.htm).
+[article](CppArticle.md) [Thinking Qt 1: general](CppThinkingQt1.md).
 These changes can be viewed in in image and in code:
 
  
 
 -   ![C++ Builder](PicCppBuilder.png) [C++ Builder
     architecture (png)](CppFromCppBuilderToQtCreatorBefore.png):
-    [AsciiArter source code version 1.0](ToolAsciiArterSource_1_0.htm)
+    [AsciiArter source code version 1.0](ToolAsciiArterSource_1_0.md)
 -   ![Qt Creator](PicQtCreator.png) [Qt Creator
     architecture (png)](CppFromCppBuilderToQtCreator.png): [AsciiArter
-    source code version 4.0](ToolTestAsciiArterSource_4_0.htm)
+    source code version 4.0](ToolTestAsciiArterSource_4_0.md)
 
  
 

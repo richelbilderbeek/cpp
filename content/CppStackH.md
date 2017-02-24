@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [stack.h](CppStackH.htm)
+([C++](Cpp.md)) [stack.h](CppStackH.md)
 =========================================
 
  
 
-[stack.h](CppStackH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) that contains the
-[definition](CppDefinition.htm) of [std::stack](CppStack.htm).
+[stack.h](CppStackH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md) that contains the
+[definition](CppDefinition.md) of [std::stack](CppStack.md).
 
  
 

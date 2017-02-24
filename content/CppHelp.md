@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Help](CppHelp.htm)
+([C++](Cpp.md)) [Help](CppHelp.md)
 ====================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Help](CppHelp.htm) is a [class](CppClass.htm) to display help
+[Help](CppHelp.md) is a [class](CppClass.md) to display help
 information in a command-line application.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

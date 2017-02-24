@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Host class](CppHostClass.htm)
+([C++](Cpp.md)) [Host class](CppHostClass.md)
 ===============================================
 
  
 
-A [Host class](CppHostClass.htm) is a [class](CppClass.htm) that takes a
-[template](CppTemplate.htm) parameter of a policy. Or: a [Host
-class](CppHostClass.htm) defines how a group of [classes](CppClass.htm)
-should be generated, as opposed to a [class](CppClass.htm) in C++ as
+A [Host class](CppHostClass.md) is a [class](CppClass.md) that takes a
+[template](CppTemplate.md) parameter of a policy. Or: a [Host
+class](CppHostClass.md) defines how a group of [classes](CppClass.md)
+should be generated, as opposed to a [class](CppClass.md) in C++ as
 being how the group of objects should be generated:
 
  
@@ -31,13 +31,13 @@ being how the group of objects should be generated:
 
  
 
-Many [STL](CppStl.htm) [classes](CppClass.htm) are [Host
-classes](CppHostClass.htm).
+Many [STL](CppStl.md) [classes](CppClass.md) are [Host
+classes](CppHostClass.md).
 
  
 
-There is no semantic difference between [class](CppClass.htm) and
-[typename](CppTypename.htm) in a template-parameter \[1\].
+There is no semantic difference between [class](CppClass.md) and
+[typename](CppTypename.md) in a template-parameter \[1\].
 
  
 
@@ -54,9 +54,9 @@ Examples
 
  
 
--   [Example 1: basics](CppHostClassExample1.htm)
--   [Example 2: ...](CppHostClassExample2.htm)
--   [Example 3: ...](CppHostClassExample3.htm)
+-   [Example 1: basics](CppHostClassExample1.md)
+-   [Example 2: ...](CppHostClassExample2.md)
+-   [Example 3: ...](CppHostClassExample3.md)
 
  
 
@@ -68,7 +68,7 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -95,5 +95,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

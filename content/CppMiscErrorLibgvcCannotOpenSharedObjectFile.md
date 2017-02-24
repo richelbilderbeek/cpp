@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [libgvc.so.5: cannot open shared object file: No such file or directory](CppMiscErrorLibgvcCannotOpenSharedObjectFile.htm)
+([C++](Cpp.md)) [libgvc.so.5: cannot open shared object file: No such file or directory](CppMiscErrorLibgvcCannotOpenSharedObjectFile.md)
 ===========================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -57,18 +57,18 @@ Cause
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.42.0
+[Boost](CppBoost.md) version: 1.42.0
 
-Additional [libraries](CppLibrary.htm): jpeg-8a from the [Independent
+Additional [libraries](CppLibrary.md): jpeg-8a from the [Independent
 JPEG Group](http://www.ijg.org)
 
  

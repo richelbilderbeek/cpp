@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [global](CppGlobal.htm)
+([C++](Cpp.md)) [global](CppGlobal.md)
 ========================================
 
  
 
-A [global](CppGlobal.htm) (also: [global variable](CppGlobal.htm)) is a
-[variable](CppVariable.htm) that is visible by all code (as opposite of
-a [local](CppLocal.htm) [variable](CppVariable.htm), which is only
-visible in its [scope](CppScope.htm)). A non-[const](CppConst.htm)
-[global](CppGlobal.htm) is one of the biggest contributors of increasing
-[state](CppState.htm)-space.
+A [global](CppGlobal.md) (also: [global variable](CppGlobal.md)) is a
+[variable](CppVariable.md) that is visible by all code (as opposite of
+a [local](CppLocal.md) [variable](CppVariable.md), which is only
+visible in its [scope](CppScope.md)). A non-[const](CppConst.md)
+[global](CppGlobal.md) is one of the biggest contributors of increasing
+[state](CppState.md)-space.
 
  
 
 [Compare the speed of local versus global
-variables](CppLocalVersusGlobal.htm).
+variables](CppLocalVersusGlobal.md).
 
  
 
@@ -39,14 +39,14 @@ variables](CppLocalVersusGlobal.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Avoid using [global](CppGlobal.htm) data \[1-6,8\]. Instead,
-    [declare](CppDeclaration.htm) [variables](CppVariable.htm) as
-    [locally](CppLocal.htm) as possible \[7\]
+-   Avoid using [global](CppGlobal.md) data \[1-6,8\]. Instead,
+    [declare](CppDeclaration.md) [variables](CppVariable.md) as
+    [locally](CppLocal.md) as possible \[7\]
 
  
 
@@ -60,12 +60,12 @@ variables](CppLocalVersusGlobal.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+1.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
 2.  Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. Gotcha
     \#3: 'Avoid global variables'.
@@ -73,17 +73,17 @@ variables](CppLocalVersusGlobal.htm).
     'The names of global variables should start with //' and 'Instead of
     using a global variable, you should seriously consider if there are
     ways to limit the variable's visibility and/or lifetime'.
-4.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+4.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition).ISBN: 0-201-88954-4. Chapter 1.8.2.a: 'Don't
     use global data (use members)'
-5.  [Jarrod Hollingworth](CppJarrodHollingworth.htm) , Bob Swart, Mark
+5.  [Jarrod Hollingworth](CppJarrodHollingworth.md) , Bob Swart, Mark
     Cashman, Paul Gustavson. Sams C++ Builder 6 Developer's Guide.
     ISBN: 0-672-32480-6. Chapter 3: 'Avoid using global variables'
-6.  [Jesse Liberty](CppJesseLiberty.htm) . Sams teach yourself C++ in
+6.  [Jesse Liberty](CppJesseLiberty.md) . Sams teach yourself C++ in
     24 hours. ISBN: 0-672-32224-2. Hour 5, paragraph 'Global variables':
     'In C++, global variables are avoided because they can create very
     confusing code that is hard to maintain.'
-7.  [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+7.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315. Item 18: 'Declare variables as locally
     as possible'.
 8.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
@@ -110,5 +110,5 @@ variables](CppLocalVersusGlobal.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::make\_shared](CppStdMake_shared.htm)
+([C++](Cpp.md)) [std::make\_shared](CppStdMake_shared.md)
 ===========================================================
 
  
 
-[std::make\_shared](CppStdMake_shared.htm) is part of the
-[C++11](Cpp11.htm) [STL](CppStl.htm) [library](CppLibrary.htm) to create
-a [std::shared\_ptr](CppStdShared_ptr.htm).
+[std::make\_shared](CppStdMake_shared.md) is part of the
+[C++11](Cpp11.md) [STL](CppStl.md) [library](CppLibrary.htm) to create
+a [std::shared\_ptr](CppStdShared_ptr.md).
 
  
 
@@ -31,7 +31,7 @@ a [std::shared\_ptr](CppStdShared_ptr.htm).
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
@@ -48,12 +48,12 @@ a [std::shared\_ptr](CppStdShared_ptr.htm).
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [std::make\_shared](CppStdMake_shared.htm) whenever possible
+-   Use [std::make\_shared](CppStdMake_shared.md) whenever possible
     \[1\]
 
  
@@ -66,12 +66,12 @@ a [std::shared\_ptr](CppStdShared_ptr.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). C++ And Beyond 2012 session:
+1.  [Scott Meyers](CppScottMeyers.md). C++ And Beyond 2012 session:
     'Initial thoughts on Effective C++11'. 2012. 'Use std::make\_shared
     Whenever Possible'
 

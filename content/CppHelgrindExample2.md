@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [helgrind example 2: two counting threads using std::mutex](CppHelgrindExample2.htm)
+([C++](Cpp.md)) [helgrind example 2: two counting threads using std::mutex](CppHelgrindExample2.md)
 =====================================================================================================
 
  
 
-This [helgrind](CppHelgrind.htm) example uses the same code as
+This [helgrind](CppHelgrind.md) example uses the same code as
 [std::thread example 2: two counting threads using
-std::mutex](CppThreadExample2.htm).
+std::mutex](CppThreadExample2.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppHelgrindExample2' (zip)](CppHelgrindExample2.htm)
+    'CppHelgrindExample2' (zip)](CppHelgrindExample2.md)
 
  
 
@@ -36,7 +36,7 @@ std::mutex](CppThreadExample2.htm).
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppHelgrindExample2.pro
+[Qt project file](CppQtProjectFile.md): CppHelgrindExample2.pro
 ----------------------------------------------------------------
 
  
@@ -98,7 +98,7 @@ Screen output
 
  
 
-When starting the program using [helgrind](CppHelgrind.htm).sh, the
+When starting the program using [helgrind](CppHelgrind.md).sh, the
 following screen output is produced:
 
  
@@ -110,7 +110,7 @@ following screen output is produced:
  
 
 This is the same screen output when not using
-[helgrind](CppHelgrind.htm).
+[helgrind](CppHelgrind.md).
 
  
 
@@ -127,7 +127,7 @@ helgrind.txt
 
  
 
-helgrind.txt is the output file created by [helgrind](CppHelgrind.htm):
+helgrind.txt is the output file created by [helgrind](CppHelgrind.md):
 
  
 

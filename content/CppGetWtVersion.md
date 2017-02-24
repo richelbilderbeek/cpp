@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetWtVersion](CppGetWtVersion.htm)
+([C++](Cpp.md)) [GetWtVersion](CppGetWtVersion.md)
 ====================================================
 
  
 
-[GetWtVersion](CppGetWtVersion.htm) is a [version](CppVersion.htm) [code
-snippets](CppCodeSnippets.htm) to obtain the [version](CppVersion.htm)
-of the current [Wt](CppWt.htm) [library](CppLibrary.htm) in use.
+[GetWtVersion](CppGetWtVersion.md) is a [version](CppVersion.md) [code
+snippets](CppCodeSnippets.md) to obtain the [version](CppVersion.md)
+of the current [Wt](CppWt.md) [library](CppLibrary.md) in use.
 
  
 

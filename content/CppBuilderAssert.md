@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [C++ Builder assert](CppBuilderAssert.htm)
+([C++](Cpp.md)) [C++ Builder assert](CppBuilderAssert.md)
 ===========================================================
 
  
 
-The standard [assert](CppAssert.htm) does not work nice in [C++
-Builder](CppBuilder.htm) when working on a console application. Instead,
+The standard [assert](CppAssert.md) does not work nice in [C++
+Builder](CppBuilder.md) when working on a console application. Instead,
 one can use the code below, which does wait for a key press.
 
  
@@ -54,5 +54,5 @@ one can use the code below, which does wait for a key press.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

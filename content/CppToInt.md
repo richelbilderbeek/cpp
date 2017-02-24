@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [ToInt](CppToInt.htm)
+([C++](Cpp.md)) [ToInt](CppToInt.md)
 ======================================
 
  
 
-[ToInt](CppToInt.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm)
-[std::string](CppString.htm) to [int](CppInt.htm).
+[ToInt](CppToInt.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md)
+[std::string](CppString.md) to [int](CppInt.md).
 
  
 
-[LexicalCast](CppLexicalCast.htm) and
-[boost::lexical\_cast](CppLexical_cast.htm) are more general then
-[ToInt](CppToInt.htm) and [convert](CppConvert.htm) a
-[std::string](CppString.htm) to any [data type](CppDataType.htm).
+[LexicalCast](CppLexicalCast.md) and
+[boost::lexical\_cast](CppLexical_cast.md) are more general then
+[ToInt](CppToInt.md) and [convert](CppConvert.md) a
+[std::string](CppString.md) to any [data type](CppDataType.md).
 
  
 

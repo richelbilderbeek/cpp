@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Asio example 1: a chat server](CppAsioExample1.htm)
+([C++](Cpp.md)) [Asio example 1: a chat server](CppAsioExample1.md)
 =====================================================================
 
  
 
-This [Asio](CppAsio.htm) example shows how to create a chat server.
+This [Asio](CppAsio.md) example shows how to create a chat server.
 
  
 
@@ -35,20 +35,18 @@ This [Asio](CppAsio.htm) example shows how to create a chat server.
 Operating system:
 [Ubuntu](http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29)
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -58,7 +56,9 @@ Operating system:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -150,8 +150,8 @@ Getting the chat program to work
  
 
 For the chat program to work, you need the executables from both [Asio
-example 1: a chat server](CppAsioExample1.htm) and [Asio example 2: a
-chat client](CppAsioExample2.htm).
+example 1: a chat server](CppAsioExample1.md) and [Asio example 2: a
+chat client](CppAsioExample2.md).
 
  
 

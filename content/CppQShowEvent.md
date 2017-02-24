@@ -12,22 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QShowEvent](CppQShowEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QShowEvent](CppQShowEvent.md)
 =================================================================
 
  
 
-[QShowEvent](CppQShowEvent.htm) is a [QEvent](CppQEvent.htm) passed to a
-[QWidget](CppQWidget.htm) its showEvent [member
-function](CppMemberFunction.htm).
+[QShowEvent](CppQShowEvent.md) is a [QEvent](CppQEvent.md) passed to a
+[QWidget](CppQWidget.md) its showEvent [member
+function](CppMemberFunction.md).
 
  
 
--   [QShowEvent example 1: visibility](CppQShowEventExample1.htm)
-
- 
-
- 
+-   [QShowEvent example 1: visibility](CppQShowEventExample1.md)
 
  
 
@@ -35,6 +31,10 @@ function](CppMemberFunction.htm).
 
  
 
+ 
+
+ 
+
 
 
 
@@ -44,5 +44,5 @@ function](CppMemberFunction.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

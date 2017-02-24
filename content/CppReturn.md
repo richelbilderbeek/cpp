@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [return](CppReturn.htm)
+([C++](Cpp.md)) [return](CppReturn.md)
 ========================================
 
  
 
-[return](CppReturn.htm) is a [keyword](CppKeyword.htm) that ends a
-[function](CppFunction.htm) (or [member
-function](CppMemberFunction.htm)). Depending on the
-[function](CppFunction.htm), [return](CppReturn.htm) might
-[return](CppReturn.htm) anything or nothing.
+[return](CppReturn.md) is a [keyword](CppKeyword.md) that ends a
+[function](CppFunction.md) (or [member
+function](CppMemberFunction.md)). Depending on the
+[function](CppFunction.md), [return](CppReturn.md) might
+[return](CppReturn.md) anything or nothing.
 
  
 
-The following [function](CppFunction.htm) calculates the square of an
-[integer](CppInt.htm):
+The following [function](CppFunction.md) calculates the square of an
+[integer](CppInt.md):
 
  
 
@@ -44,9 +44,9 @@ The following [function](CppFunction.htm) calculates the square of an
 
  
 
-If a [function](CppFunction.htm) [returns](CppReturn.htm) nothing (that
-is, a [return](CppReturn.htm) type of [void](CppVoid.htm)), one can omit
-the final [return](CppReturn.htm):
+If a [function](CppFunction.md) [returns](CppReturn.md) nothing (that
+is, a [return](CppReturn.md) type of [void](CppVoid.md)), one can omit
+the final [return](CppReturn.md):
 
  
 
@@ -64,15 +64,15 @@ the final [return](CppReturn.htm):
 
  
 
-Exception: [main](CppMain.htm)
+Exception: [main](CppMain.md)
 ------------------------------
 
  
 
-The [function](CppFunction.htm) [main](CppMain.htm) is special. It
-[returns](CppReturn.htm) an [integer](CppInt.htm) error code of the
+The [function](CppFunction.md) [main](CppMain.md) is special. It
+[returns](CppReturn.md) an [integer](CppInt.md) error code of the
 program, where a zero denotes a no-failure run. When
-[main](CppMain.htm)'s closing bracket is reached, the effect is
+[main](CppMain.md)'s closing bracket is reached, the effect is
 equivalent to (Standard, 3.6.1.5):
 
  
@@ -107,7 +107,7 @@ Therefore, the following two pieces of code are equivalent:
 
  
 
-![C++11](PicCpp11.png) [return](CppReturn.htm) in a [C++11](Cpp11.htm) [lambda expression](CppLambdaExpression.htm)
+![C++11](PicCpp11.png) [return](CppReturn.md) in a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.htm)
 -------------------------------------------------------------------------------------------------------------------
 
  
@@ -117,13 +117,13 @@ Therefore, the following two pieces of code are equivalent:
 
  
 
-Program flow in a [C++11](Cpp11.htm) [lambda
-expression](CppLambdaExpression.htm) differs from a [C++98](Cpp98.htm)
-[lambda expression](CppLambdaExpression.htm) or
-[BOOST\_FOREACH](CppBOOST_FOREACH.htm): if you want to
-[return](CppReturn.htm) from a [function](CppFunction.htm), all that
-happens is that the [std::for\_each](CppFor_each.htm) (or other
-[algorithm](CppAlgorithm.htm)) is terminated. The example below shows
+Program flow in a [C++11](Cpp11.md) [lambda
+expression](CppLambdaExpression.md) differs from a [C++98](Cpp98.md)
+[lambda expression](CppLambdaExpression.md) or
+[BOOST\_FOREACH](CppBOOST_FOREACH.md): if you want to
+[return](CppReturn.md) from a [function](CppFunction.md), all that
+happens is that the [std::for\_each](CppFor_each.md) (or other
+[algorithm](CppAlgorithm.md)) is terminated. The example below shows
 this.
 
  

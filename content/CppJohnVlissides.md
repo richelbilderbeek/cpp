@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [John Vlissides](CppJohnVlissides.htm)
+([C++](Cpp.md)) [John Vlissides](CppJohnVlissides.md)
 =======================================================
 
  
 
-[John Vlissides](CppJohnVlissides.htm) was one of 'The Gang Of Four'
+[John Vlissides](CppJohnVlissides.md) was one of 'The Gang Of Four'
 that wrote 'Design Patterns' \[1\], which is/was one of the [most
-important C++ books](CppMostImportantCppBooks.htm) \[2\].
+important C++ books](CppMostImportantCppBooks.md) \[2\].
 
  
 
-[John Vlissides](CppJohnVlissides.htm) died on November the 24th of
+[John Vlissides](CppJohnVlissides.md) died on November the 24th of
 2005.
 
  
@@ -34,14 +34,14 @@ important C++ books](CppMostImportantCppBooks.htm) \[2\].
 
  
 
-List of books co-authored by [John Vlissides](CppJohnVlissides.htm)
+List of books co-authored by [John Vlissides](CppJohnVlissides.md)
 -------------------------------------------------------------------
 
  
 
--   [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+-   [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  
@@ -72,16 +72,16 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
-2.  [Scott Meyers](CppScottMeyers.htm). The Most Important
+2.  [Scott Meyers](CppScottMeyers.md). The Most Important
     C++ Books...Ever. Online at
     http://www.artima.com/cppsource/top\_cpp\_books.html
 
@@ -104,5 +104,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

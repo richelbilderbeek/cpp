@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Error](CppError.htm)
+([C++](Cpp.md)) [Error](CppError.md)
 ======================================
 
  
@@ -21,33 +21,29 @@ When 'something goes wrong'.
 
  
 
-There are multiple types of [errors](CppError.htm) (listed in
-chronology, except for the [misc errors](CppMiscError.htm)):
+There are multiple types of [errors](CppError.md) (listed in
+chronology, except for the [misc errors](CppMiscError.md)):
 
-1.  [Install errors](CppInstallError.htm), when installation fails
-2.  [qmake errors](CppQmakeError.htm), when [qmake](CppQmake.htm) does
+1.  [Install errors](CppInstallError.md), when installation fails
+2.  [qmake errors](CppQmakeError.md), when [qmake](CppQmake.md) does
     something unexpected
-3.  [make errors](CppMakeError.htm), when [make](CppMake.htm) does
+3.  [make errors](CppMakeError.md), when [make](CppMake.md) does
     something unexpected
-4.  [Compile errors](CppCompileError.htm), emitted by the
-    [compiler](CppCompiler.htm).
-5.  [Link errors](CppLinkError.htm), emitted by the
-    [linker](CppLinker.htm).
-6.  [Runtime errors](CppRuntimeError.htm), emitted during program
+4.  [Compile errors](CppCompileError.md), emitted by the
+    [compiler](CppCompiler.md).
+5.  [Link errors](CppLinkError.md), emitted by the
+    [linker](CppLinker.md).
+6.  [Runtime errors](CppRuntimeError.md), emitted during program
     execution, causing your program to quit
-7.  [Misc errors](CppMiscError.htm), all other errors
+7.  [Misc errors](CppMiscError.md), all other errors
 
  
 
-Prefer [compile time errors](CppCompileError.htm) and [link time
-errors](CppLinkError.htm) to [run time errors](CppRuntimeError.htm)
-\[2\]. [Runtime errors](CppRuntimeError.htm) are the type of
-[errors](CppError.htm) that take most time [debugging](CppDebug.htm). At
-[run time](CppRunTime.htm), distinguish between errors and non-errors.
-
- 
-
- 
+Prefer [compile time errors](CppCompileError.md) and [link time
+errors](CppLinkError.md) to [run time errors](CppRuntimeError.md)
+\[2\]. [Runtime errors](CppRuntimeError.md) are the type of
+[errors](CppError.md) that take most time [debugging](CppDebug.md). At
+[run time](CppRunTime.md), distinguish between errors and non-errors.
 
  
 
@@ -55,17 +51,21 @@ errors](CppLinkError.htm) to [run time errors](CppRuntimeError.htm)
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 70:
     'Distinguish between errors and non-errors'.
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 14:
     'Prefer compile- and link-time errors to run-time errors'.
 

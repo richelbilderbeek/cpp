@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [boost::algorithm::find\_first](CppFind_first.htm)
+([C++](Cpp.md)) [boost::algorithm::find\_first](CppFind_first.md)
 ===================================================================
 
  
 
-[boost::algorithm::find\_first](CppFind_first.htm) is a
-[Boost](CppBoost.htm) [std::string](CppString.htm)
-[algorithm](CppAlgorithm.htm) to find the first
-[std::string](CppString.htm) in a [std::string](CppString.htm).
+[boost::algorithm::find\_first](CppFind_first.md) is a
+[Boost](CppBoost.md) [std::string](CppString.md)
+[algorithm](CppAlgorithm.md) to find the first
+[std::string](CppString.md) in a [std::string](CppString.md).
 
  
 

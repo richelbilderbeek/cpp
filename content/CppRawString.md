@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [raw string](CppRawString.htm)
+([C++](Cpp.md)) [raw string](CppRawString.md)
 ===============================================
 
  
 
-A [raw string](CppRawString.htm) is a type of [string
-literal](CppStringLiteral.htm) that has no escape sequences.
+A [raw string](CppRawString.md) is a type of [string
+literal](CppStringLiteral.md) that has no escape sequences.
 
  
 
@@ -28,8 +28,8 @@ literal](CppStringLiteral.htm) that has no escape sequences.
 
  
 
-Use [raw strings](CppRawString.htm) for [string
-literals](CppStringLiteral.htm.htm) with complicated uses of backslash
+Use [raw strings](CppRawString.md) for [string
+literals](CppStringLiteral.htm.md) with complicated uses of backslash
 \[1\].
 
  
@@ -47,7 +47,7 @@ Examples
 
  
 
--   [String literal example 1: basics](CppStringLiteralExample1.htm)
+-   [String literal example 1: basics](CppStringLiteralExample1.md)
 
  
 
@@ -59,14 +59,14 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
 qt
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
     Advice, page 199: '\[8\] Use raw strings for string literals with
     complicated uses of backslash'

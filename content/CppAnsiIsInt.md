@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [AnsiIsInt](CppAnsiIsInt.htm)
+([C++](Cpp.md)) [AnsiIsInt](CppAnsiIsInt.md)
 ==============================================
 
  
 
-[AnsiIsInt](CppAnsiIsInt.htm) is a [check](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) to see if an
-[AnsiString](CppAnsiString.htm) can be [converted](CppConvert.htm) to an
-[integer](CppInt.htm).
+[AnsiIsInt](CppAnsiIsInt.md) is a [check](CppCheck.md) [code
+snippet](CppCodeSnippets.md) to see if an
+[AnsiString](CppAnsiString.md) can be [converted](CppConvert.md) to an
+[integer](CppInt.md).
 
  
 

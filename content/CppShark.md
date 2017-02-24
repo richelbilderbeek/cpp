@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Shark](CppShark.htm)
+([C++](Cpp.md)) [Shark](CppShark.md)
 ======================================
 
  
 
-[Shark](CppShark.htm) is a [C++](Cpp.htm) [library](CppLibrary.htm) for
+[Shark](CppShark.md) is a [C++](Cpp.md) [library](CppLibrary.htm) for
 machine learning.
 
  
@@ -30,18 +30,18 @@ machine learning.
 
  
 
-[Shark](CppShark.htm) examples
+[Shark](CppShark.md) examples
 ------------------------------
 
  
 
 -   [Example 1: neural net solving the XOR
-    problem](CppSharkExample1.htm)
+    problem](CppSharkExample1.md)
 -   [Example 2: 'friendly' neural net getting ready to tackle the XOR
-    problem](CppSharkExample2.htm)
+    problem](CppSharkExample2.md)
 -   [Example 3: evolving neural net solving the XOR
-    problem](CppSharkExample3.htm)
--   [TicTacToeLearner](ToolTicTacToeLearner.htm)
+    problem](CppSharkExample3.md)
+-   [TicTacToeLearner](ToolTicTacToeLearner.md)
 
  
 
@@ -53,13 +53,13 @@ machine learning.
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 
@@ -77,12 +77,12 @@ prevent [link errors](CppLinkError.htm)):
 
  
 
-[Shark](CppShark.htm) suggestions
+[Shark](CppShark.md) suggestions
 ---------------------------------
 
  
 
--   [Shark](CppShark.htm) does not save its neural networks in the PMML
+-   [Shark](CppShark.md) does not save its neural networks in the PMML
     language
 -   The method 'FFNet::outputValue(i)', where 'i' is the (integer) index
     of an output neuron, does not check if this index exists. I would
@@ -99,7 +99,7 @@ prevent [link errors](CppLinkError.htm)):
     does not change the network itself: the structure and weights
     are unchanged. Personally, I would make the stored outputs mutable
     and the FFNet::activate method a const method.
--   The [Shark](CppShark.htm) data type 'Array&lt;double&gt;' should be
+-   The [Shark](CppShark.md) data type 'Array&lt;double&gt;' should be
     replaced by the std::vector, Boost::Array or Boost::Multi\_array
     data type: the data types mentioned are better known and less (!)
     complex

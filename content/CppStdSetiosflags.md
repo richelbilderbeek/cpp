@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::setiosflags](CppSetiosflags.htm)
+([C++](Cpp.md)) [std::setiosflags](CppSetiosflags.md)
 =======================================================
 
  
 
-[std::setiosflags](CppSetiosflags.htm) (an abbreviation of 'set
-input/output [stream](CppStream.htm) flags') is a
-[stream](CppStream.htm) modifier.
+[std::setiosflags](CppSetiosflags.md) (an abbreviation of 'set
+input/output [stream](CppStream.md) flags') is a
+[stream](CppStream.md) modifier.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [unused parameter 'seq'](CppCompileWarningUnusedParameterSeq.htm)
+([C++](Cpp.md)) [unused parameter 'seq'](CppCompileWarningUnusedParameterSeq.md)
 ==================================================================================
 
  
 
-[Compile warning](CppCompileError.htm).
+[Compile warning](CppCompileError.md).
 
  
 
@@ -70,16 +70,16 @@ Which takes you to the following line in
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.42.0
+[Boost](CppBoost.md) version: 1.42.0
 
  
 

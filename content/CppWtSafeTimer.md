@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtSafeTimer](CppWtSafeTimer.htm)
+([C++](Cpp.md)) [WtSafeTimer](CppWtSafeTimer.md)
 ==================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtSafeTimer](CppWtSafeTimer.htm) is a
-[forward-declaration](CppForwardDeclaration.htm)-safe
-[Wt::WTimer](CppWTimer.htm).
+[WtSafeTimer](CppWtSafeTimer.md) is a
+[forward-declaration](CppForwardDeclaration.md)-safe
+[Wt::WTimer](CppWTimer.md).
 
 Technical facts
 ---------------
@@ -88,5 +88,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

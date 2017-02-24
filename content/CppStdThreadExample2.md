@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [std::thread example 2: two counting threads using std::mutex](CppThreadExample2.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::thread example 2: two counting threads using std::mutex](CppThreadExample2.md)
 =============================================================================================================================
 
  
 
-This [std::thread](CppThread.htm) examples demonstrates how to use
-[std::mutexes](CppMutex.htm) to share [std::cout](CppCout.htm) nicely,
+This [std::thread](CppThread.md) examples demonstrates how to use
+[std::mutexes](CppMutex.md) to share [std::cout](CppCout.md) nicely,
 as in the previous example, [std::thread example 1: two counting
-threads](CppThreadExample1.htm), the output to [std::cout](CppCout.htm)
+threads](CppThreadExample1.md), the output to [std::cout](CppCout.md)
 was messy.
 
  
@@ -47,8 +47,8 @@ Screen output:
  
 
 This example is checked for errors in [helgrind example 2: two counting
-threads using std::mutex](CppHelgrindExample2.htm), where
-[helgrind](CppHelgrind.htm) is shown to detect no errors.
+threads using std::mutex](CppHelgrindExample2.md), where
+[helgrind](CppHelgrind.md) is shown to detect no errors.
 
  
 
@@ -60,7 +60,7 @@ threads using std::mutex](CppHelgrindExample2.htm), where
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

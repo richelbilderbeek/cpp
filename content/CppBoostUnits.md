@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Units](CppUnits.htm)
+([C++](Cpp.md)) [Boost.Units](CppUnits.md)
 ============================================
 
  
 
-[Boost.Units](CppUnits.htm) is the [Boost](CppBoost.htm)
-[library](CppLibrary.htm) to specify SI units (meter, kilogram, second,
+[Boost.Units](CppUnits.md) is the [Boost](CppBoost.md)
+[library](CppLibrary.md) to specify SI units (meter, kilogram, second,
 ampere, kelvin, candela, mole) for values. This allows the
-[compiler](CppCompiler.htm) to check your calculations at compile-time.
+[compiler](CppCompiler.md) to check your calculations at compile-time.
 
  
 
@@ -38,7 +38,7 @@ Example
  
 
 In the example below, two lengths are added with success. Also the
-[compiler](CppCompiler.htm) prevented the adding of a force and a
+[compiler](CppCompiler.md) prevented the adding of a force and a
 length.
 
  
@@ -49,7 +49,7 @@ length.
 
  
 
--   [Download the Qt Creator project 'CppUnits' (zip)](CppUnits.htm)
+-   [Download the Qt Creator project 'CppUnits' (zip)](CppUnits.md)
 
  
 
@@ -66,40 +66,40 @@ Other examples
 
  
 
--   [Units example 1: example from Boost](CppBoostUnitsExample1.htm)
+-   [Units example 1: example from Boost](CppBoostUnitsExample1.md)
 -   [Units example 2: calculate the area from two
-    lengths](CppBoostUnitsExample2.htm)
+    lengths](CppBoostUnitsExample2.md)
 -   [Units example 3: creating a Length, Width and Area
-    classes](CppBoostUnitsExample3.htm)
+    classes](CppBoostUnitsExample3.md)
 -   [Units example 4: creating a Length, Width and Area classes with
-    some typedefs](CppBoostUnitsExample4.htm)
+    some typedefs](CppBoostUnitsExample4.md)
 -   [Units example 5: averaging multiple
-    lengths](CppBoostUnitsExample5.htm)
--   [Units example 6: using an angle](CppBoostUnitsExample6.htm)
+    lengths](CppBoostUnitsExample5.md)
+-   [Units example 6: using an angle](CppBoostUnitsExample6.md)
 -   [Units example 7: calculating a force from a mass and an
-    acceleration](CppBoostUnitsExample7.htm)
+    acceleration](CppBoostUnitsExample7.md)
 -   [Units example 8: calculating mass from a volume and a mass
-    density](CppBoostUnitsExample8.htm)
+    density](CppBoostUnitsExample8.md)
 -   [Units example 9: calculating pressure from a force and an
-    area](CppBoostUnitsExample9.htm)
+    area](CppBoostUnitsExample9.md)
 -   [Units example 10: calculating angular acceleration and
-    torque](CppBoostUnitsExample10.htm)
+    torque](CppBoostUnitsExample10.md)
 -   [Units example 11: creating the quantity volumetric
-    flow](CppBoostUnitsExample11.htm)
+    flow](CppBoostUnitsExample11.md)
 -   [Units example 12: creating the quantity volumetric flow and mass
-    flow](CppBoostUnitsExample12.htm)
+    flow](CppBoostUnitsExample12.md)
 -   [Units example 13: removing the unit, converting back to plain
-    double](CppBoostUnitsExample13.htm)
+    double](CppBoostUnitsExample13.md)
 -   [Units example 14: creating the quantity species
-    density](CppBoostUnitsExample14.htm)
+    density](CppBoostUnitsExample14.md)
 -   [Units example 15: creating the quantity number of sulfide molecules
-    (in mole)](CppBoostUnitsExample15.htm)
+    (in mole)](CppBoostUnitsExample15.md)
 -   [Units example 16: creating the quantity number of sulfide molecules
     (in mole) and hydrogen molecules (in mole) that can be
-    added](CppBoostUnitsExample16.htm)
+    added](CppBoostUnitsExample16.md)
 -   TODO [Units example 17: creating the quantity number of sulfide
     molecules (in mole) and hydrogen molecules (in mole) that cannot be
-    added](CppBoostUnitsExample17.htm)
+    added](CppBoostUnitsExample17.md)
 
  
 
@@ -111,12 +111,12 @@ Other examples
 
  
 
-[Boost.Units](CppUnits.htm) [bug](CppBug.htm)
+[Boost.Units](CppUnits.md) [bug](CppBug.md)
 ---------------------------------------------
 
  
 
-See [Boost.Units bug](CppUnitsBug.htm).
+See [Boost.Units bug](CppUnitsBug.md).
 
  
 

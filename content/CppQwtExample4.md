@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QwtExample4](CppQwtExample4.htm)
+([C++](Cpp.md)) [QwtExample4](CppQwtExample4.md)
 ==================================================
 
  
@@ -23,8 +23,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Ubuntu](PicUbuntu.png)![Wi
  
 
 [Qwt example 4: alpha beta filter with variable
-parameters](CppQwtExample4.htm) is a [Qwt](CppQwt.htm)
-[example](CppExample.htm) that shows how to add a QwtPlot to a form.
+parameters](CppQwtExample4.md) is a [Qwt](CppQwt.md)
+[example](CppExample.md) that shows how to add a QwtPlot to a form.
 
  
 

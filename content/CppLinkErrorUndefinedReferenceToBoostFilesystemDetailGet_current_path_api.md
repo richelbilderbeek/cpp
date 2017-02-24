@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [undefined reference to 'boost::filesystem::detail::get\_current\_path\_api'](CppLinkErrorUndefinedReferenceToBoostFilesystemDetailGet_current_path_api.htm)
+([C++](Cpp.md)) [undefined reference to 'boost::filesystem::detail::get\_current\_path\_api'](CppLinkErrorUndefinedReferenceToBoostFilesystemDetailGet_current_path_api.md)
 =============================================================================================================================================================================
 
  
 
-[link error](CppLinkError.htm).
+[link error](CppLinkError.md).
 
  
 
@@ -55,18 +55,16 @@ Cause
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Console Application
+[Project type](CppQtProjectType.md): Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -76,7 +74,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -121,7 +121,7 @@ Solution
 
  
 
-Add the following line to the [Qt project file](CppQtProjectFile.htm):
+Add the following line to the [Qt project file](CppQtProjectFile.md):
 
  
 

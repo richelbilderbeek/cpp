@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtQuestionDialog](CppWtQuestionDialog.htm)
+([C++](Cpp.md)) [WtQuestionDialog](CppWtQuestionDialog.md)
 ============================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtQuestionDialog](CppWtQuestionDialog.htm) is a [Wt](CppWt.htm) dialog
-for [QuestionDialog](CppQuestionDialog.htm).
+[WtQuestionDialog](CppWtQuestionDialog.md) is a [Wt](CppWt.md) dialog
+for [QuestionDialog](CppQuestionDialog.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

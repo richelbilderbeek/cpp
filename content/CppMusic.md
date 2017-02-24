@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Music](CppMusic.htm)
+([C++](Cpp.md)) [Music](CppMusic.md)
 ======================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Music](CppMusic.htm) contains music [classes](CppClass.htm).
+[Music](CppMusic.md) contains music [classes](CppClass.md).
 
 Technical facts
 ---------------
@@ -238,5 +238,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

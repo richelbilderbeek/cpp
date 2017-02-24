@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [operator&gt;=](CppOperatorGreaterEqual.htm)
+([C++](Cpp.md)) [operator&gt;=](CppOperatorGreaterEqual.md)
 =============================================================
 
  
 
-[operator&gt;=](CppOperatorGreaterEqual.htm) is the
-[operator](CppOperator.htm) to determine if the left-hand
-[instance](CppInstance.htm) is greater or equal the right-hand
-[instance](CppInstance.htm).
+[operator&gt;=](CppOperatorGreaterEqual.md) is the
+[operator](CppOperator.md) to determine if the left-hand
+[instance](CppInstance.md) is greater or equal the right-hand
+[instance](CppInstance.md).
 
  
 
-The following code uses [operator&gt;=](CppOperatorGreaterEqual.htm) to
+The following code uses [operator&gt;=](CppOperatorGreaterEqual.md) to
 determine that one plus two is greater or equal equal to three:
 
  
@@ -35,8 +35,8 @@ determine that one plus two is greater or equal equal to three:
 
  
 
-[operator&gt;=](CppOperatorGreaterEqual.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::greater\_equal](CppGreater_equal.htm).
+[operator&gt;=](CppOperatorGreaterEqual.md) is encapsulated by the
+[functor](CppFunctor.md) [std::greater\_equal](CppGreater_equal.md).
 
  
 
@@ -48,7 +48,7 @@ determine that one plus two is greater or equal equal to three:
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
@@ -56,10 +56,10 @@ determine that one plus two is greater or equal equal to three:
  
 
 -   Reversing the order of the pair of symbols in the
-    [operators](CppOperator.htm) [!=](CppOperatorNotEqual.htm),
-    [&gt;=](CppOperatorGreaterEqual.htm) and
-    [&lt;=](CppOperatorLessEqual.htm) (by writing them as =!, =&gt; and
-    =&lt; respectively) is normally a [syntax error](CppSyntaxError.htm)
+    [operators](CppOperator.md) [!=](CppOperatorNotEqual.md),
+    [&gt;=](CppOperatorGreaterEqual.md) and
+    [&lt;=](CppOperatorLessEqual.md) (by writing them as =!, =&gt; and
+    =&lt; respectively) is normally a [syntax error](CppSyntaxError.md)
     \[1\]
 
  
@@ -72,7 +72,7 @@ determine that one plus two is greater or equal equal to three:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

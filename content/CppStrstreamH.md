@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [strstream.h](CppStrstreamH.htm)
+([C++](Cpp.md)) [strstream.h](CppStrstreamH.md)
 =================================================
 
  
 
-[strstream.h](CppStrstreamH.htm) is a depreciated [header
-file](CppHeaderFile.htm). Use [sstream.h](CppSstreamH.htm) instead.
+[strstream.h](CppStrstreamH.md) is a depreciated [header
+file](CppHeaderFile.md). Use [sstream.h](CppSstreamH.md) instead.
 
  
 
@@ -37,21 +37,21 @@ Example
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
-The example below [\#includes](CppInclude.htm)
-[strstream.h](CppStrstreamH.htm):
+The example below [\#includes](CppInclude.md)
+[strstream.h](CppStrstreamH.md):
 
  
 
@@ -66,8 +66,8 @@ The example below [\#includes](CppInclude.htm)
 
  
 
-The [G++](CppGpp.htm) [compiler](CppCompiler.htm) emits the following
-[compile warning](CppCompileWarning.htm):
+The [G++](CppGpp.md) [compiler](CppCompiler.md) emits the following
+[compile warning](CppCompileWarning.md):
 
  
 

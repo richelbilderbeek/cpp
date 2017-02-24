@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [SameXandY functor](CppFunctorSameXandY.htm)
+([C++](Cpp.md)) [SameXandY functor](CppFunctorSameXandY.md)
 =============================================================
 
  

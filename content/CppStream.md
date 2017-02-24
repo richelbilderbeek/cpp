@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [stream](CppStream.htm)
+([C++](Cpp.md)) [stream](CppStream.md)
 ========================================
 
  
 
-[Streams](CppStream.htm) are like flexible flow-through
-[containers](CppContainer.htm).
+[Streams](CppStream.md) are like flexible flow-through
+[containers](CppContainer.md).
 
  
 
@@ -46,19 +46,17 @@ Screen output:
 
  
 
-[Global](CppGlobal.htm) [streams](CppStream.htm)
+[Global](CppGlobal.md) [streams](CppStream.md)
 ------------------------------------------------
 
  
 
-Examples of [global](CppGlobal.htm) [streams](CppStream.htm) are:
+Examples of [global](CppGlobal.md) [streams](CppStream.md) are:
 
--   [std::cout](CppCout.htm) (an [std::ostream](CppOstream.htm))
--   [std::cin](CppCin.htm) (an [std::istream](CppIstream.htm))
--   [std::clog](CppClog.htm) (an [std::ostream](CppOstream.htm))
--   [std::cerr](CppCerr.htm) (an [std::ostream](CppOstream.htm))
-
- 
+-   [std::cout](CppCout.md) (an [std::ostream](CppOstream.md))
+-   [std::cin](CppCin.md) (an [std::istream](CppIstream.md))
+-   [std::clog](CppClog.md) (an [std::ostream](CppOstream.md))
+-   [std::cerr](CppCerr.md) (an [std::ostream](CppOstream.md))
 
  
 
@@ -68,20 +66,20 @@ Examples of [global](CppGlobal.htm) [streams](CppStream.htm) are:
 
  
 
-[stream](CppStream.htm) [(data) types](CppDataType.htm)
+ 
+
+[stream](CppStream.md) [(data) types](CppDataType.md)
 -------------------------------------------------------
 
  
 
-Types of [streams](CppStream.htm) are:
+Types of [streams](CppStream.md) are:
 
--   [std::stringstream](CppStringstream.htm): a
-    [std::string](CppString.htm) [stream](CppStream.htm)
--   [std::ostream](CppOstream.htm): output [stream](CppStream.htm)
--   [std::istream](CppIstream.htm): input [stream](CppStream.htm)
--   [std::fstream](CppFstream.htm): file [stream](CppStream.htm)
-
- 
+-   [std::stringstream](CppStringstream.md): a
+    [std::string](CppString.md) [stream](CppStream.md)
+-   [std::ostream](CppOstream.md): output [stream](CppStream.md)
+-   [std::istream](CppIstream.md): input [stream](CppStream.md)
+-   [std::fstream](CppFstream.md): file [stream](CppStream.md)
 
  
 
@@ -91,23 +89,21 @@ Types of [streams](CppStream.htm) are:
 
  
 
-[stream](CppStream.htm) operations
+ 
+
+[stream](CppStream.md) operations
 ----------------------------------
 
  
 
-Things one can do on a [stream](CppStream.htm):
+Things one can do on a [stream](CppStream.md):
 
  
 
--   [std::endl](CppEndl.htm): adds newline ('\\n') and flushes the
-    [stream](CppStream.htm)
--   [std::ends](CppEnds.htm): adds null ('\\0') to the
-    [stream](CppStream.htm)
-
- 
-
- 
+-   [std::endl](CppEndl.md): adds newline ('\\n') and flushes the
+    [stream](CppStream.md)
+-   [std::ends](CppEnds.md): adds null ('\\0') to the
+    [stream](CppStream.md)
 
  
 
@@ -115,13 +111,17 @@ Things one can do on a [stream](CppStream.htm):
 
  
 
-[Stream](CppStream.htm) format flags
+ 
+
+ 
+
+[Stream](CppStream.md) format flags
 ------------------------------------
 
  
 
-A [stream](CppStream.htm) format flag is something that can be on or
-off. [Stream](CppStream.htm) format flags are:
+A [stream](CppStream.md) format flag is something that can be on or
+off. [Stream](CppStream.md) format flags are:
 
  
 
@@ -154,19 +154,19 @@ Turning a flag on and off is shown in the code below.
 
  
 
-[Stream](CppStream.htm) flag field
+[Stream](CppStream.md) flag field
 ----------------------------------
 
  
 
-A [stream](CppStream.htm) flag field is a group of options of which only
+A [stream](CppStream.md) flag field is a group of options of which only
 one can be in effect, similar to a radiogroup control. To set a certain
 option, one needs to clear the flag group field, then set the desired
 option.
 
  
 
-[Stream](CppStream.htm) format flags are:
+[Stream](CppStream.md) format flags are:
 
 -   std::ios::basefield: std::ios::dec, std::ios::hex, std::ios::oct
 -   std::ios::floatfield: std::ios::fixed, std::ios::scientific
@@ -189,41 +189,41 @@ option.
 
  
 
-[Stream](CppStream.htm) manipulators
+[Stream](CppStream.md) manipulators
 ------------------------------------
 
  
 
-[Stream](CppStream.htm) manipulators are like [stream](CppStream.htm)
+[Stream](CppStream.md) manipulators are like [stream](CppStream.md)
 formatting flags and formatting fields, except that manipulators are the
 streamable version of flags and fields.
 
  
 
-[Stream](CppStream.htm) manipulators are:
+[Stream](CppStream.md) manipulators are:
 
--   [nl](CppNl.htm)
--   [std::fixed](CppFixed.htm)
--   [std::internal](CppInternal.htm)
--   [std::left](CppLeft.htm)
--   [std::noshowbase](CppNoshowbase.htm)
--   [std::noshowpoint](CppNoshowpoint.htm)
--   [std::noshowpos](CppNoshowpos.htm)
--   [std::noskipws](CppNoskipws.htm)
--   [std::nouppercase](CppNouppercase.htm)
--   [std::resetiosflags](CppResetiosflags.htm)
--   [std::right](CppRight.htm)
--   [std::scientific](CppScientific.htm)
--   [std::setbase](CppSetbase.htm)
--   [std::setfill](CppSetfill.htm)
--   [std::setiosflags](CppSetiosflags.htm)
--   [std::setprecision](CppSetprecision.htm)
--   [std::setw](CppSetw.htm)
--   [std::showbase](CppShowbase.htm)
--   [std::showpoint](CppShowpoint.htm)
--   [std::showpos](CppShowpos.htm)
--   [std::skipws](CppSkipws.htm)
--   [std::uppercase](CppUppercase.htm)
+-   [nl](CppNl.md)
+-   [std::fixed](CppFixed.md)
+-   [std::internal](CppInternal.md)
+-   [std::left](CppLeft.md)
+-   [std::noshowbase](CppNoshowbase.md)
+-   [std::noshowpoint](CppNoshowpoint.md)
+-   [std::noshowpos](CppNoshowpos.md)
+-   [std::noskipws](CppNoskipws.md)
+-   [std::nouppercase](CppNouppercase.md)
+-   [std::resetiosflags](CppResetiosflags.md)
+-   [std::right](CppRight.md)
+-   [std::scientific](CppScientific.md)
+-   [std::setbase](CppSetbase.md)
+-   [std::setfill](CppSetfill.md)
+-   [std::setiosflags](CppSetiosflags.md)
+-   [std::setprecision](CppSetprecision.md)
+-   [std::setw](CppSetw.md)
+-   [std::showbase](CppShowbase.md)
+-   [std::showpoint](CppShowpoint.md)
+-   [std::showpos](CppShowpos.md)
+-   [std::skipws](CppSkipws.md)
+-   [std::uppercase](CppUppercase.md)
 
  
 
@@ -241,20 +241,20 @@ streamable version of flags and fields.
 
  
 
-[stream](CppStream.htm) code snippets
+[stream](CppStream.md) code snippets
 -------------------------------------
 
  
 
 Some code snippets one can use when working witj
-[stream](CppStream.htm):
+[stream](CppStream.md):
 
  
 
 -   [Read and write a std::vector from/to a
-    std::stream](CppVectorToStream.htm)
+    std::stream](CppVectorToStream.md)
 -   [Write and read a std::vector to/from a
-    std::stream](CppVectorToStream.htm)
+    std::stream](CppVectorToStream.md)
 
  
 

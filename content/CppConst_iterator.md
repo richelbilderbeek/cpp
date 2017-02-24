@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [const\_iterator](CppConst_iterator.htm)
+([C++](Cpp.md)) [const\_iterator](CppConst_iterator.md)
 =========================================================
 
  
 
-[const\_iterator](CppConst_iterator.htm) is a common
-[typedef](CppTypedef.htm) in [containers](CppContainer.htm) for an
-[iterator](CppIterator.htm)-type that can only read the element it is
+[const\_iterator](CppConst_iterator.md) is a common
+[typedef](CppTypedef.md) in [containers](CppContainer.md) for an
+[iterator](CppIterator.md)-type that can only read the element it is
 located at.
 
  
@@ -30,7 +30,7 @@ located at.
 
  
 
-Closer inspection (of [vector.h](CppVectorH.htm) for example) yields the
+Closer inspection (of [vector.h](CppVectorH.md) for example) yields the
 following typedefs:
 
  
@@ -41,7 +41,7 @@ following typedefs:
 
  
 
-This concludes that the following two [data types](CppDataType.htm) are
+This concludes that the following two [data types](CppDataType.md) are
 equivalent:
 
  

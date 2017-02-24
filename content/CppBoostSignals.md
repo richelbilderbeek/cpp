@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Signals](CppSignals.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Signals](CppSignals.md)
 =======================================================================
 
  
 
-[Boost.Signals](CppSignals.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) for [signals](CppBoostSignal.htm).
+[Boost.Signals](CppSignals.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) for [signals](CppBoostSignal.md).
 
  
 

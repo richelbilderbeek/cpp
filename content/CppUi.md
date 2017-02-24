@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Ui](CppUi.htm)
+([C++](Cpp.md)) [Ui](CppUi.md)
 ================================
 
  
 
-[Ui](CppUi.htm) is the [namespace](CppNamespace.htm) that [Qt
-Creator](CppQtCreator.htm) puts the designed [GUI](CppGui.htm)'s in.
+[Ui](CppUi.md) is the [namespace](CppNamespace.md) that [Qt
+Creator](CppQtCreator.md) puts the designed [GUI](CppGui.md)'s in.
 
  
 
 The code below shows the code of a default-created [Qt
-Creator](CppQtCreator.htm) dialog, with added
-[comments](CppComment.htm).
+Creator](CppQtCreator.md) dialog, with added
+[comments](CppComment.md).
 
  
 

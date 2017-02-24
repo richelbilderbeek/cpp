@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [\#endif](CppEndif.htm)
+([C++](Cpp.md)) [\#endif](CppEndif.md)
 ========================================
 
  
 
-[\#endif](CppEndif.htm) is the [preprocessor](CppPreprocessor.htm)
-statement that ends an [\#ifdef](CppIfdef.htm),[\#ifndef](CppIfndef.htm)
-or [\#else](CppPreElse.htm) block.
+[\#endif](CppEndif.md) is the [preprocessor](CppPreprocessor.md)
+statement that ends an [\#ifdef](CppIfdef.md),[\#ifndef](CppIfndef.md)
+or [\#else](CppPreElse.md) block.
 
  
 

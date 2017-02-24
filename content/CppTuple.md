@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [tuple](CppTuple.htm)
+([C++](Cpp.md)) [tuple](CppTuple.md)
 ======================================
 
  
 
-A [tuple](CppTuple.htm) is an on-the-fly [data type](CppDataType.htm)
-similar to [std::pair](CppPair.htm), except for a bigger number of
+A [tuple](CppTuple.md) is an on-the-fly [data type](CppDataType.md)
+similar to [std::pair](CppPair.md), except for a bigger number of
 possible elements.
 
  
 
-There are multiple [tuple](CppTuple.htm) [classes](CppClass.htm):
+There are multiple [tuple](CppTuple.md) [classes](CppClass.md):
 
  
 
 -   ![C++11](PicCpp11.png)![STL](PicStl.png)
-    [std::tuple](CppStdTuple.htm)
+    [std::tuple](CppStdTuple.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png)
-    [boost::tuple](CppBoostTuple.htm)
+    [boost::tuple](CppBoostTuple.md)
 
  
 

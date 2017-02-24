@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [CalcComplexity](CppCalcComplexity.htm)
+([C++](Cpp.md)) [CalcComplexity](CppCalcComplexity.md)
 ========================================================
 
  
 
-[CalcComplexity](CppCalcComplexity.htm) is a [Newick](CppNewick.htm)
-[code snippets](CppCodeSnippets.htm) to calculate the complexity of a
-[Newick](CppNewick.htm).
+[CalcComplexity](CppCalcComplexity.md) is a [Newick](CppNewick.md)
+[code snippets](CppCodeSnippets.md) to calculate the complexity of a
+[Newick](CppNewick.md).
 
  
 
-[CalcComplexity](CppCalcComplexity.htm) has two flavors:
+[CalcComplexity](CppCalcComplexity.md) has two flavors:
 
-1.  [STL](CppStl.htm) [CalcComplexity](CppCalcComplexity.htm): for
+1.  [STL](CppStl.md) [CalcComplexity](CppCalcComplexity.md): for
     complexities to around 2 billion
-2.  [CLN](CppCln.htm) [CalcComplexity](CppCalcComplexity.htm): for
+2.  [CLN](CppCln.md) [CalcComplexity](CppCalcComplexity.md): for
     nearly any complexity
 
  
@@ -38,14 +38,14 @@
 
  
 
-[STL](CppStl.htm) [CalcComplexity](CppCalcComplexity.htm)
+[STL](CppStl.md) [CalcComplexity](CppCalcComplexity.md)
 ---------------------------------------------------------
 
  
 
-If the complexity exceeds the maximum [integer](CppInt.htm) value, a
-[std::range\_error](CppRange_error.htm) is [thrown](CppThrow.htm). Use
-the [CLN](CppCln.htm) version if you do need to calculate higher
+If the complexity exceeds the maximum [integer](CppInt.md) value, a
+[std::range\_error](CppRange_error.md) is [thrown](CppThrow.md). Use
+the [CLN](CppCln.md) version if you do need to calculate higher
 complexities.
 
  
@@ -64,7 +64,7 @@ complexities.
 
  
 
-[CLN](CppCln.htm) [CalcComplexity](CppCalcComplexity.htm)
+[CLN](CppCln.md) [CalcComplexity](CppCalcComplexity.md)
 ---------------------------------------------------------
 
  

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to create a windowed 'Hello World' program?](CppQtHelloWorldWindowed.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to create a windowed 'Hello World' program?](CppQtHelloWorldWindowed.md)
 ================================================================================================================
 
  
@@ -26,7 +26,7 @@ a GUI. This example does the following:
  
 
 To create a windowed 'Hello World' program in [Qt
-Creator](CppQtCreator.htm), you can follow the steps below:
+Creator](CppQtCreator.md), you can follow the steps below:
 
 -   Step \#1: Setting up the Qt4 console application project
 -   Step \#2: Coding
@@ -47,7 +47,7 @@ Step \#1: Setting up the Qt4 Gui application project
 
  
 
-1.  Start [Qt Creator](CppQtCreator.htm).
+1.  Start [Qt Creator](CppQtCreator.md).
 2.  If you are not shown the welcome screen, click on 'Welcome' on the
     left
 3.  If, in the welcome screen, the 'Develop' tab is not shown, click on
@@ -123,7 +123,7 @@ like [this](CppQtHelloWorldWindowedGui4.png).
 
  
 
-Step \#3: Coding the [declaration](CppDeclaration.htm) of the slot OnClick
+Step \#3: Coding the [declaration](CppDeclaration.md) of the slot OnClick
 --------------------------------------------------------------------------
 
  
@@ -144,7 +144,7 @@ Step \#3: Coding the [declaration](CppDeclaration.htm) of the slot OnClick
  
 
 Note that if you try to execute the program, you get the following
-[(link) error](CppLinkError.htm):
+[(link) error](CppLinkError.md):
 
   ----------------------------------------------------------------------------------------------------------------------------
   ` /MyFolder/CppQtHelloWorldWindowed/QtHelloWorldGui/moc_mainwindow.cpp:66: undefined reference to 'MainWindow::OnClick()'`
@@ -152,9 +152,9 @@ Note that if you try to execute the program, you get the following
 
  
 
-This [(link) error](CppLinkError.htm) is correct: the [member
-function](CppMemberFunction.htm) MainWindow::OnClick is
-[declared](CppDeclaration.htm) but not yet [defined](CppDefinition.htm).
+This [(link) error](CppLinkError.md) is correct: the [member
+function](CppMemberFunction.md) MainWindow::OnClick is
+[declared](CppDeclaration.md) but not yet [defined](CppDefinition.md).
 
  
 
@@ -166,7 +166,7 @@ function](CppMemberFunction.htm) MainWindow::OnClick is
 
  
 
-Step \#4: Coding the [definition](CppDefinition.htm) of the slot OnClick
+Step \#4: Coding the [definition](CppDefinition.md) of the slot OnClick
 ------------------------------------------------------------------------
 
  

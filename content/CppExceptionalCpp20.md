@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Exceptional C++: item 20](CppExceptionalCpp20.htm)
+([C++](Cpp.md)) [Exceptional C++: item 20](CppExceptionalCpp20.md)
 ====================================================================
 
  
 
-[Exceptional C++: item 20](CppExceptionalCpp20.htm) contains the code
-from [Exceptional C++](CppExceptionalCpp.htm) item 20.
+[Exceptional C++: item 20](CppExceptionalCpp20.md) contains the code
+from [Exceptional C++](CppExceptionalCpp.md) item 20.
 
  
 
@@ -49,13 +49,13 @@ from [Exceptional C++](CppExceptionalCpp.htm) item 20.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). [Exceptional
-    C++](CppExceptionalCpp.htm). ISBN: 0-201-61562-2.
+1.  [Herb Sutter](CppHerbSutter.md). [Exceptional
+    C++](CppExceptionalCpp.md). ISBN: 0-201-61562-2.
 
  
 
@@ -76,5 +76,5 @@ from [Exceptional C++](CppExceptionalCpp.htm) item 20.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

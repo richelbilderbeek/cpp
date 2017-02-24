@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [std::replace\_if](CppReplace_if.htm)
+([C++](Cpp.md)) [std::replace\_if](CppReplace_if.md)
 ======================================================
 
  
 
-[std::replace\_if](CppReplace_if.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to replace elements of a sequence (on a
-[std::vector](CppVector.htm), for example) that satisfy a certain
-predicate. Use [std::replace](CppReplace.htm) if no
-[predicate](CppPredicate.htm) is needed (that is: a certain value must
+[std::replace\_if](CppReplace_if.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to replace elements of a sequence (on a
+[std::vector](CppVector.md), for example) that satisfy a certain
+predicate. Use [std::replace](CppReplace.md) if no
+[predicate](CppPredicate.md) is needed (that is: a certain value must
 always be replaced).
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over hand-written loops \[1-3\].
-[Exercise \#9: No for-loops](CppExerciseNoForLoops.htm) shows how to
+Prefer [algorithms](CppAlgorithm.md) over hand-written loops \[1-3\].
+[Exercise \#9: No for-loops](CppExerciseNoForLoops.md) shows how to
 remove hand-written loops.
 
  
@@ -64,13 +64,13 @@ zero:
 
  
 
-[replace\_if](CppReplace_if.htm) [function](CppFunction.htm) [definition](CppDefinition.htm)
+[replace\_if](CppReplace_if.md) [function](CppFunction.md) [definition](CppDefinition.htm)
 --------------------------------------------------------------------------------------------
 
  
 
-Simplified and modified from the [STL](CppStl.htm) that ships with [C++
-Builder 6.0](CppBuilder.htm):
+Simplified and modified from the [STL](CppStl.md) that ships with [C++
+Builder 6.0](CppBuilder.md):
 
  
 
@@ -106,20 +106,20 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1 :
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops.'
-3.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+3.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     88: 'Prefer function objects over functions as algorithm and
     comparer arguments.'

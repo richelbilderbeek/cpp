@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [WTL](CppWtl.htm)
+([C++](Cpp.md)) [WTL](CppWtl.md)
 ==================================
 
  
 
-The [WTL](CppWtl.htm) is a free object-oriented
-[library](CppLibrary.htm) for Windows programming.
+The [WTL](CppWtl.md) is a free object-oriented
+[library](CppLibrary.md) for Windows programming.
 
  
 

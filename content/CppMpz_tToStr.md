@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Mpz\_tToStr](CppMpz_tToStr.htm)
+([C++](Cpp.md)) [Mpz\_tToStr](CppMpz_tToStr.md)
 =================================================
 
  
 
-[Mpz\_tToStr](CppMpz_tToStr.htm) is a [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[GMP](CppGmp.htm) mpz\_t [data type](CppDataType.htm%22) to a
-[std::string](CppString.htm).
+[Mpz\_tToStr](CppMpz_tToStr.md) is a [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[GMP](CppGmp.md) mpz\_t [data type](CppDataType.htm%22) to a
+[std::string](CppString.md).
 
  
 
@@ -30,7 +30,7 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
 
  
 
-For full example, [go to the 'Hello Gmp' page](CppHelloGmp.htm).
+For full example, [go to the 'Hello Gmp' page](CppHelloGmp.md).
 
  
 
@@ -51,5 +51,5 @@ For full example, [go to the 'Hello Gmp' page](CppHelloGmp.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

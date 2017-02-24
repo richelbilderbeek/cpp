@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [AsciiArter](CppAsciiArter.htm)
+([C++](Cpp.md)) [AsciiArter](CppAsciiArter.md)
 ================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
 
  
 
-[AsciiArter](CppAsciiArter.htm) is a GUI-independent
-[class](CppClass.htm) to [convert](CppConvert.htm) images to [ASCII
-art](CppAsciiArt.htm).
+[AsciiArter](CppAsciiArter.md) is a GUI-independent
+[class](CppClass.md) to [convert](CppConvert.md) images to [ASCII
+art](CppAsciiArt.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#15](CppExerciseNoForLoopsAnswer15.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#15](CppExerciseNoForLoopsAnswer15.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,17 +30,17 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#15: write to [std::cout](CppCout.htm)
+Question \#15: write to [std::cout](CppCout.md)
 ------------------------------------------------
 
  
 
-Replace the [for](CppFor.htm)-loop. You will need:
+Replace the [for](CppFor.md)-loop. You will need:
 
  
 
--   [std::copy](CppCopy.htm)
--   [std::ostream\_iterator](CppOstream_iterator.htm)
+-   [std::copy](CppCopy.md)
+-   [std::ostream\_iterator](CppOstream_iterator.md)
 
  
 

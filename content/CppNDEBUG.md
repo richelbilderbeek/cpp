@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [NDEBUG](CppNDEBUG.htm)
+([C++](Cpp.md)) [NDEBUG](CppNDEBUG.md)
 ========================================
 
  
 
-[\#define](CppDefine.htm) [NDEBUG](CppNDEBUG.htm) to let the
-[preprocessor](CppPreprocessor.htm) remove all [asserts](CppAssert.htm)
+[\#define](CppDefine.md) [NDEBUG](CppNDEBUG.md) to let the
+[preprocessor](CppPreprocessor.md) remove all [asserts](CppAssert.md)
 from your code.
 
  
 
-The code below has a failing [assert](CppAssert.htm), but due to
-[NDEBUG](CppNDEBUG.htm) it will not abort the program. Commonly, one
-[\#defines](CppDefine.htm) [NDEBUG](CppNDEBUG.htm) after
-[debugging](CppDebug.htm).
+The code below has a failing [assert](CppAssert.md), but due to
+[NDEBUG](CppNDEBUG.md) it will not abort the program. Commonly, one
+[\#defines](CppDefine.md) [NDEBUG](CppNDEBUG.md) after
+[debugging](CppDebug.md).
 
  
 

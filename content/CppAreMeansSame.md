@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [AreMeansSame](CppAreMeansSame.htm)
+([C++](Cpp.md)) [AreMeansSame](CppAreMeansSame.md)
 ====================================================
 
  
 
-[AreMeansSame](CppAreMeansSame.htm) is a [Math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to test if two means are the same,
+[AreMeansSame](CppAreMeansSame.md) is a [Math](CppMath.md) [code
+snippet](CppCodeSnippets.md) to test if two means are the same,
 assuming both distributions are normally distributed, on the same data
 as \[1\].
 
@@ -43,7 +43,7 @@ documentation](http://www.boost.org/doc/libs/1_42_0/libs/math/doc/sf_and_dist/ht
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WTime](CppWTime.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WTime](CppWTime.md)
 ===========================================================
 
  
 
-[Wt::WTime](CppWTime.htm) is a [Wt](CppWt.htm) [class](CppClass.htm) for
+[Wt::WTime](CppWTime.md) is a [Wt](CppWt.md) [class](CppClass.htm) for
 ...
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WTime](CppWTime.htm) is used in, among others:
+[Wt::WTime](CppWTime.md) is used in, among others:
 
 -   ...
 

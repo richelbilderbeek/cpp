@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Geometry](CppGeometry.htm)
+([C++](Cpp.md)) [Geometry](CppGeometry.md)
 ============================================
 
  
@@ -22,18 +22,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CppGeometry](CppGeometry.htm) is a folder with my geometry
-[functions](CppFunction.htm).
+[CppGeometry](CppGeometry.md) is a folder with my geometry
+[functions](CppFunction.md).
 
  
 
-For the [Boost.Geometry](CppBoostGeometry.htm)
-[library](CppLibrary.htm), go to the page about
-[Boost.Geometry](CppBoostGeometry.htm).
-
- 
-
- 
+For the [Boost.Geometry](CppBoostGeometry.md)
+[library](CppLibrary.md), go to the page about
+[Boost.Geometry](CppBoostGeometry.md).
 
  
 
@@ -41,32 +37,36 @@ For the [Boost.Geometry](CppBoostGeometry.htm)
 
  
 
-[CppGeometry](CppGeometry.htm) code snippets
+ 
+
+ 
+
+[CppGeometry](CppGeometry.md) code snippets
 --------------------------------------------
 
  
 
 -   [CalcCrossProduct: determine the cross-product of two 3D
-    points](CppBoostGeometryExample4.htm)
+    points](CppBoostGeometryExample4.md)
 -   [CalcPlane: determine the 3D plane passing through three 3D
-    points](CppBoostGeometryExample4.htm)
+    points](CppBoostGeometryExample4.md)
 -   [Determine if a 2D polygon is convex or concave,
-    IsConvex](CppBoostGeometryExample3.htm)
+    IsConvex](CppBoostGeometryExample3.md)
 -   [Determine if a 2D point is within a
-    polygon](CppBoostGeometryExample1.htm)
+    polygon](CppBoostGeometryExample1.md)
 -   [Determine the 2D convex hull of a concave
-    polygon](CppBoostGeometryExample3.htm)
+    polygon](CppBoostGeometryExample3.md)
 -   [Determine the 3D area of a 2D
-    polygon](CppBoostGeometryExample2.htm)
+    polygon](CppBoostGeometryExample2.md)
 -   [Determine the 3D plane passing through three 3D points,
-    CalcPlane](CppBoostGeometryExample4.htm)
+    CalcPlane](CppBoostGeometryExample4.md)
 -   [Determine the cross-product of two 3D
-    points](CppBoostGeometryExample4.htm)
--   [GetAngle: calculate the angle between two points](CppGetAngle.htm)
+    points](CppBoostGeometryExample4.md)
+-   [GetAngle: calculate the angle between two points](CppGetAngle.md)
 -   [GetDistance: calculate the distance between two
-    points](CppGetDistance.htm)
+    points](CppGetDistance.md)
 -   [IsConvex: determine if a 2D polygon is convex or
-    concave](CppBoostGeometryExample3.htm)
+    concave](CppBoostGeometryExample3.md)
 
  
 
@@ -273,5 +273,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [limits.h](CppLimitsH.htm)
+([C++](Cpp.md)) [limits.h](CppLimitsH.md)
 ===========================================
 
  
 
-[limits.h](CppLimitsH.htm) is a C [header file](CppHeaderFile.htm).
-[climits.h](CppClimitsH.htm) is its [STL](CppStl.htm) equivalent.
+[limits.h](CppLimitsH.md) is a C [header file](CppHeaderFile.md).
+[climits.h](CppClimitsH.md) is its [STL](CppStl.md) equivalent.
 
  
 

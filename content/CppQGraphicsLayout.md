@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsLayout](CppQGraphicsLayout.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsLayout](CppQGraphicsLayout.md)
 ===========================================================================
 
  
 
-[QGraphicsLayout](CppQGraphicsLayout.htm) is the [base
-class](CppBaseClass.htm) for all layouts in a
-[QGraphicsView](CppQGraphicsView.htm).
+[QGraphicsLayout](CppQGraphicsLayout.md) is the [base
+class](CppBaseClass.md) for all layouts in a
+[QGraphicsView](CppQGraphicsView.md).
 
  
 
-Incomplete list of [derived classes](CppDerivedClass.htm) of
-[QGraphicsLayout](CppQGraphicsLayout.htm):
+Incomplete list of [derived classes](CppDerivedClass.md) of
+[QGraphicsLayout](CppQGraphicsLayout.md):
 
--   [QGraphicsAnchorLayout](CppQGraphicsAnchorLayout.htm): Layout where
-    one can anchor (using [QGraphicsAnchor](CppQGraphicsAnchor.htm))
-    widgets together in [QGraphicsView](CppQGraphicsView.htm)
--   [QGraphicsGridLayout](CppQGraphicsGridLayout.htm): Horizontal or
+-   [QGraphicsAnchorLayout](CppQGraphicsAnchorLayout.md): Layout where
+    one can anchor (using [QGraphicsAnchor](CppQGraphicsAnchor.md))
+    widgets together in [QGraphicsView](CppQGraphicsView.md)
+-   [QGraphicsGridLayout](CppQGraphicsGridLayout.md): Horizontal or
     vertical layout for managing widgets in
-    [QGraphicsView](CppQGraphicsView.htm)
--   [QGraphicsLinearLayout](CppQGraphicsLinearLayout.htm): Grid layout
-    for managing widgets in [QGraphicsView](CppQGraphicsView.htm)
--   [QGraphicsLayoutItem](CppQGraphicsLayoutItem.htm): Can be inherited
+    [QGraphicsView](CppQGraphicsView.md)
+-   [QGraphicsLinearLayout](CppQGraphicsLinearLayout.md): Grid layout
+    for managing widgets in [QGraphicsView](CppQGraphicsView.md)
+-   [QGraphicsLayoutItem](CppQGraphicsLayoutItem.md): Can be inherited
     to allow your custom items to be managed by layouts
 
  
@@ -56,5 +56,5 @@ Incomplete list of [derived classes](CppDerivedClass.htm) of
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

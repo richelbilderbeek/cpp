@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetAverageGreyness](CppGetAverageGreyness.htm)
+([C++](Cpp.md)) [GetAverageGreyness](CppGetAverageGreyness.md)
 ================================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to
-calculate the average grey value of a [VCL](CppVcl.htm)
-[TImage](CppTImage.htm).
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to
+calculate the average grey value of a [VCL](CppVcl.md)
+[TImage](CppTImage.md).
 
  
 

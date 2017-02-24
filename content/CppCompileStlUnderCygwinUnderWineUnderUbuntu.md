@@ -14,19 +14,19 @@ s
 
  
 
-([C++](Cpp.htm)) [Compiling STL code under Cygwin under Wine under Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.htm)
+([C++](Cpp.md)) [Compiling STL code under Cygwin under Wine under Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.md)
 ============================================================================================================================
 
  
 
 [Compiling STL code under Cygwin under Wine under
-Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.htm) is expected to
+Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.md) is expected to
 be the simplest example of [compiling under Cygwin under Wine under
-Ubuntu](CppCompilingUnderCygwinUnderWineUnderUbuntu.htm), while [running
-Cygwin under Wine](CppCygwinUnderWine.htm) under Ubuntu. The goal of
+Ubuntu](CppCompilingUnderCygwinUnderWineUnderUbuntu.md), while [running
+Cygwin under Wine](CppCygwinUnderWine.md) under Ubuntu. The goal of
 [compiling under Cygwin under Wine under
-Ubuntu](CppCompileUnderCygwinUnderWineUnderUbuntu.htm) is to
-[port](CppPort.htm) code from Linux to Windows.
+Ubuntu](CppCompileUnderCygwinUnderWineUnderUbuntu.md) is to
+[port](CppPort.md) code from Linux to Windows.
 
  
 
@@ -45,16 +45,16 @@ Environment
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
 Project options:
 
@@ -71,7 +71,7 @@ Project options:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -208,7 +208,7 @@ Follow the approach described in \[1\]:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

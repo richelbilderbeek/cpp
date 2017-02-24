@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [FindString](CppFindString.htm)
+([C++](Cpp.md)) [FindString](CppFindString.md)
 ================================================
 
  

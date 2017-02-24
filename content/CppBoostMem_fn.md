@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [boost::mem\_fn](CppMem_fn.htm)
+([C++](Cpp.md)) [boost::mem\_fn](CppMem_fn.md)
 ================================================
 
  
 
-[boost::mem\_fn](CppMem_fn.htm) is an [adapter](CppAdapter.htm),
-intended to be more flexible than [STL](CppStl.htm)
-[adapters](CppAdapter.htm) like [std::mem\_fun](CppMem_fun.htm) and
-[std::mem\_fun\_ref](CppMem_fun_ref.htm).
+[boost::mem\_fn](CppMem_fn.md) is an [adapter](CppAdapter.md),
+intended to be more flexible than [STL](CppStl.md)
+[adapters](CppAdapter.md) like [std::mem\_fun](CppMem_fun.md) and
+[std::mem\_fun\_ref](CppMem_fun_ref.md).
 
  
 
-[boost::mem\_fn](CppMem_fn.htm) can often replace both
-[std::mem\_fun](CppMem_fun.htm) and
-[std::mem\_fun\_ref](CppMem_fun_ref.htm).
+[boost::mem\_fn](CppMem_fn.md) can often replace both
+[std::mem\_fun](CppMem_fun.md) and
+[std::mem\_fun\_ref](CppMem_fun_ref.md).
 
  
 

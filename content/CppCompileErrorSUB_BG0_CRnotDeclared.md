@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['SUB\_BG0\_CR' was not declared in this scope](CppCompileErrorSUB_BG0_CRnotDeclared.htm)
+([C++](Cpp.md)) ['SUB\_BG0\_CR' was not declared in this scope](CppCompileErrorSUB_BG0_CRnotDeclared.md)
 ==========================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -32,22 +32,22 @@ Operating system(s):
 -   ![NDS](PicNds.png) Nintendo DS
 -   ![Ubuntu](PicUbuntu.png) Ubuntu 10.04 LTS Lucid Lynx
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
 -   ![Command line](PicCl.png) command line
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Libnds](PicLibnds.png) [Libnds](CppLibnds.htm): version 1.4.7
+-   ![Libnds](PicLibnds.png) [Libnds](CppLibnds.md): version 1.4.7
 
  
 
@@ -84,7 +84,7 @@ Solution
  
 
 Due to new version architecture, add the following line to the
-[\#includes](CppInclude.htm):
+[\#includes](CppInclude.md):
 
  
 

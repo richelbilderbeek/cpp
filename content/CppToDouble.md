@@ -12,35 +12,31 @@
 
  
 
-([C++](Cpp.htm)) [ToDouble](CppToDouble.htm)
+([C++](Cpp.md)) [ToDouble](CppToDouble.md)
 ============================================
 
  
 
-[ToDouble](CppToDouble.htm) is a [conversion](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to [double](CppDouble.htm).
+[ToDouble](CppToDouble.md) is a [conversion](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to [double](CppDouble.md).
 
  
 
-[ToDouble](CppToDouble.htm) can be implemented in multiple equivalent
+[ToDouble](CppToDouble.md) can be implemented in multiple equivalent
 ways (incomplete list):
 
-1.  [ToDouble](CppToDouble.htm) using [std::atof](CppAtof.htm)
-2.  [ToDouble](CppToDouble.htm) using [std::strtod](CppStrtod.htm)
-3.  [ToDouble](CppToDouble.htm) using
-    [std::istringstream](CppIstringstream.htm)
+1.  [ToDouble](CppToDouble.md) using [std::atof](CppAtof.md)
+2.  [ToDouble](CppToDouble.md) using [std::strtod](CppStrtod.md)
+3.  [ToDouble](CppToDouble.md) using
+    [std::istringstream](CppIstringstream.md)
 
  
 
-To [conversion](CppConvert.htm) a [std::string](CppString.htm) to any
-[data type](CppDataType.htm) one can use
-[LexicalCast](CppLexicalCast.htm) and
-[boost::lexical\_cast](CppLexical_cast.htm).
-
- 
-
- 
+To [conversion](CppConvert.md) a [std::string](CppString.md) to any
+[data type](CppDataType.md) one can use
+[LexicalCast](CppLexicalCast.md) and
+[boost::lexical\_cast](CppLexical_cast.md).
 
  
 
@@ -48,7 +44,11 @@ To [conversion](CppConvert.htm) a [std::string](CppString.htm) to any
 
  
 
-[ToDouble](CppToDouble.htm) using [std::atof](CppAtof.htm)
+ 
+
+ 
+
+[ToDouble](CppToDouble.md) using [std::atof](CppAtof.md)
 ----------------------------------------------------------
 
  
@@ -67,7 +67,7 @@ To [conversion](CppConvert.htm) a [std::string](CppString.htm) to any
 
  
 
-[ToDouble](CppToDouble.htm) using [std::istringstream](CppIstringstream.htm)
+[ToDouble](CppToDouble.md) using [std::istringstream](CppIstringstream.md)
 ----------------------------------------------------------------------------
 
  
@@ -92,7 +92,7 @@ snippet](http://www.parashift.com/c++-faq-lite/misc-technical-issues.html#faq-39
 
  
 
-[ToDouble](CppToDouble.htm) using [std::strtod](CppStrtod.htm)
+[ToDouble](CppToDouble.md) using [std::strtod](CppStrtod.md)
 --------------------------------------------------------------
 
  
@@ -111,12 +111,12 @@ snippet](http://www.parashift.com/c++-faq-lite/misc-technical-issues.html#faq-39
 
  
 
-[ToDouble](CppToDouble.htm) tests
+[ToDouble](CppToDouble.md) tests
 ---------------------------------
 
  
 
-In the code below, all [ToDouble](CppToDouble.htm) flavors are compared
+In the code below, all [ToDouble](CppToDouble.md) flavors are compared
 and found out equivalent.
 
  

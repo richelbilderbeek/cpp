@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Flyweight](CppDesignPatternFlyweight.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Flyweight](CppDesignPatternFlyweight.md) ([Design Pattern](CppDesignPattern.htm))
 ====================================================================================================
 
  
 
-The [Flyweight](CppDesignPatternFlyweight.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'use sharing to support large number
+The [Flyweight](CppDesignPatternFlyweight.md) is a [Design
+Pattern](CppDesignPattern.md) to 'use sharing to support large number
 of fine-grained objects efficiently' \[1\]
 
  
@@ -31,14 +31,14 @@ of fine-grained objects efficiently' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

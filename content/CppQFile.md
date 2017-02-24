@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QFile](CppQFile.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QFile](CppQFile.md)
 =======================================================
 
  
 
-[QFile](CppQFile.htm) is a [Qt](CppQt.htm) [class](CppClass.htm) for a
+[QFile](CppQFile.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
 file.
 
  
@@ -36,7 +36,7 @@ Examples
  
 
 -   [QFile example 1: copying file and checking if the copy
-    exists](CppQFileExample1.htm)
+    exists](CppQFileExample1.md)
 
  
 

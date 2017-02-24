@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Fmod](CppFmod.htm)
+([C++](Cpp.md)) [Fmod](CppFmod.md)
 ====================================
 
  
 
-[Fmod](CppFmod.htm) is a [math](CppMath.htm) [function](CppFunction.htm)
-to perform a [modulus operation](CppOperatorModulus.htm) on
-[doubles](CppDouble.htm).
+[Fmod](CppFmod.md) is a [math](CppMath.md) [function](CppFunction.htm)
+to perform a [modulus operation](CppOperatorModulus.md) on
+[doubles](CppDouble.md).
 
  
 
-[std::modf](CppModf.htm) has a different purpose as [Fmod](CppFmod.htm):
-[std::modf](CppModf.htm) splits a [double](CppDouble.htm) into its
-[integer](CppInt.htm) and a fractional part, for example it splits 12.34
+[std::modf](CppModf.md) has a different purpose as [Fmod](CppFmod.md):
+[std::modf](CppModf.md) splits a [double](CppDouble.md) into its
+[integer](CppInt.md) and a fractional part, for example it splits 12.34
 into 12 and 0.34
 
  

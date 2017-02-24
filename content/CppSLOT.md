@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SLOT](CppSLOT.htm)
+([C++](Cpp.md)) [SLOT](CppSLOT.md)
 ====================================
 
  
 
-[SLOT](CppSLOT.htm) is a [Qt](CppQt.htm) [macro](CppMacro.htm) that
-basically converts a [slot](CppSlot.htm) to a string.
+[SLOT](CppSLOT.md) is a [Qt](CppQt.md) [macro](CppMacro.htm) that
+basically converts a [slot](CppSlot.md) to a string.
 
  
 

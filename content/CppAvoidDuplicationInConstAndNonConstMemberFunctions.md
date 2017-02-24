@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Avoid duplication in const and non-const member functions](CppAvoidDuplicationInConstAndNonConstMemberFunctions.htm)
+([C++](Cpp.md)) [Avoid duplication in const and non-const member functions](CppAvoidDuplicationInConstAndNonConstMemberFunctions.md)
 ======================================================================================================================================
 
  
 
-In good [member function design](CppMemberFunctionDesign.htm), avoid
+In good [member function design](CppMemberFunctionDesign.md), avoid
 duplication in const and non-const member functions \[1,2\]. Instead,
-have the non-const [member function](CppMemberFunction.htm) call the
-[const member function](CppConstMemberFunction.htm).
+have the non-const [member function](CppMemberFunction.md) call the
+[const member function](CppConstMemberFunction.md).
 
  
 
@@ -38,16 +38,16 @@ have the non-const [member function](CppMemberFunction.htm) call the
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 94: 'Avoid casting away const', item 'Exceptions'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 3, paragraph 'Avoid duplication in const
     and non-const member functions'
 

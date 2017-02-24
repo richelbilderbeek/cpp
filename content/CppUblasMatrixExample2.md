@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [boost::numeric::ublas::matrix example 2: transposition](CppUblasMatrixExample2.htm)
+([C++](Cpp.md)) [boost::numeric::ublas::matrix example 2: transposition](CppUblasMatrixExample2.md)
 =====================================================================================================
 
  
 
 [boost::numeric::ublas::matrix example 2:
-transposition](CppUblasMatrixExample2.htm) is a
-[Boost.uBLAS](CppUblas.htm) [library](CppLibrary.htm) example.
+transposition](CppUblasMatrixExample2.md) is a
+[Boost.uBLAS](CppUblas.md) [library](CppLibrary.md) example.
 
  
 
@@ -41,35 +41,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -82,7 +82,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppUblasMatrixExample2.pro
+[Qt project file](CppQtProjectFile.md): CppUblasMatrixExample2.pro
 -------------------------------------------------------------------
 
  
@@ -129,5 +129,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

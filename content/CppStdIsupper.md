@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::isupper](CppIsupper.htm)
+([C++](Cpp.md)) [std::isupper](CppIsupper.md)
 ===============================================
 
  
 
-[std::isupper](CppIsupper.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to check if a [character](CppChar.htm) is an
+[std::isupper](CppIsupper.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to check if a [character](CppChar.md) is an
 uppercase alphabetic letter.
 
  
@@ -50,5 +50,5 @@ uppercase alphabetic letter.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

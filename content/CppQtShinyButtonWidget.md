@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtShinyButtonWidget](CppQtShinyButtonWidget.htm)
+([C++](Cpp.md)) [QtShinyButtonWidget](CppQtShinyButtonWidget.md)
 ==================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtShinyButtonWidget](CppQtShinyButtonWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for displaying a shiny button.
+[QtShinyButtonWidget](CppQtShinyButtonWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for displaying a shiny button.
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

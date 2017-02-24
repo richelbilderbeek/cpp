@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [std::copy](CppCopy.htm)
+([C++](Cpp.md)) [std::copy](CppCopy.md)
 =========================================
 
  
 
-[STL](CppStl.htm) [algorithm](CppAlgorithm.htm) to copy
-[container](CppContainer.htm) elements.
+[STL](CppStl.md) [algorithm](CppAlgorithm.md) to copy
+[container](CppContainer.md) elements.
 
  
 
-[std::copy](CppCopy.htm) assumes that the memory data is copied to is
-valid. For example, if you copy a [std::vector](CppVector.htm) of size
-10 to another [std::vector](CppVector.htm), the latter must have a size
+[std::copy](CppCopy.md) assumes that the memory data is copied to is
+valid. For example, if you copy a [std::vector](CppVector.md) of size
+10 to another [std::vector](CppVector.md), the latter must have a size
 of 10 at least. But if the size is unknown, use an
-[inserter](CppInserter.htm) like
-[std::back\_inserter](CppBack_inserter.htm).
+[inserter](CppInserter.md) like
+[std::back\_inserter](CppBack_inserter.md).
 
  
 
 Related algorithms are:
 
--   [std::copy\_backward](CppCopy_backward.htm): copy values to the back
-    of a [container](CppContainer.htm)
--   [std::copy\_if](CppCopy_if.htm): for performing a conditional copy
--   [std::transform](CppTransform.htm): for copy and modify
+-   [std::copy\_backward](CppCopy_backward.md): copy values to the back
+    of a [container](CppContainer.md)
+-   [std::copy\_if](CppCopy_if.md): for performing a conditional copy
+-   [std::transform](CppTransform.md): for copy and modify
 
  
 
-Prefer [algorithm](CppAlgorithm.htm) calls over hand-written loops
+Prefer [algorithm](CppAlgorithm.md) calls over hand-written loops
 \[1\]\[2\].
 
  
@@ -53,7 +53,7 @@ Prefer [algorithm](CppAlgorithm.htm) calls over hand-written loops
 
  
 
-Example without using an [inserter](CppInserter.htm)
+Example without using an [inserter](CppInserter.md)
 ----------------------------------------------------
 
  
@@ -72,12 +72,12 @@ Example without using an [inserter](CppInserter.htm)
 
  
 
-Example with using an [inserter](CppInserter.htm)
+Example with using an [inserter](CppInserter.md)
 -------------------------------------------------
 
  
 
-Copies a [std::map](CppMap.htm) to a [std::vector](CppVector.htm).
+Copies a [std::map](CppMap.md) to a [std::vector](CppVector.md).
 
  
 
@@ -95,7 +95,7 @@ Copies a [std::map](CppMap.htm) to a [std::vector](CppVector.htm).
 
  
 
-Example: [Append](CppAppend.htm)
+Example: [Append](CppAppend.md)
 --------------------------------
 
  
@@ -114,7 +114,7 @@ Example: [Append](CppAppend.htm)
 
  
 
-Example: [CoutVector](CppCoutVector.htm)
+Example: [CoutVector](CppCoutVector.md)
 ----------------------------------------
 
  
@@ -133,7 +133,7 @@ Example: [CoutVector](CppCoutVector.htm)
 
  
 
-Example: [CoutContainer](CppCoutContainer.htm)
+Example: [CoutContainer](CppCoutContainer.md)
 ----------------------------------------------
 
  
@@ -171,15 +171,15 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms to loops.
-2.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+2.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9. Item 43: 'Prefer algorithm calls over
     hand-written loops'
 

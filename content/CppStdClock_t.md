@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::clock\_t](CppClock_t.htm)
+([C++](Cpp.md)) [std::clock\_t](CppClock_t.md)
 ================================================
 
  
 
-[std::clock\_t](CppClock_t.htm) is an [STL](CppStl.htm)
-[struct](CppStruct.htm) for storing [time](CppTime.htm).
+[std::clock\_t](CppClock_t.md) is an [STL](CppStl.md)
+[struct](CppStruct.md) for storing [time](CppTime.md).
 
  
 
-[std::clock\_t](CppClock_t.htm) is [defined](CppDefinition.htm) in the
-[header file](CppHeaderFile.htm) [ctime.h](CppCtimeH.htm).
+[std::clock\_t](CppClock_t.md) is [defined](CppDefinition.md) in the
+[header file](CppHeaderFile.md) [ctime.h](CppCtimeH.md).
 
  
 

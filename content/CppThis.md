@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [this](CppThis.htm)
+([C++](Cpp.md)) [this](CppThis.md)
 ====================================
 
  
 
  
 
-[this](CppThis.htm) is a [keyword](CppKeyword.htm) to obtain a
-[pointer](CppPointer.htm) to a [class](CppClass.htm)
-[instance](CppInstance.htm)'s own address.
+[this](CppThis.md) is a [keyword](CppKeyword.md) to obtain a
+[pointer](CppPointer.md) to a [class](CppClass.md)
+[instance](CppInstance.md)'s own address.
 
  
 
-When using [this](CppThis.htm) to access member variables or [member
-functions](CppMemberFunction.htm), [this](CppThis.htm) can be left out.
+When using [this](CppThis.md) to access member variables or [member
+functions](CppMemberFunction.md), [this](CppThis.md) can be left out.
 
  
 

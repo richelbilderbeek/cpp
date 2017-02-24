@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPixmap](CppQPixmap.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPixmap](CppQPixmap.md)
 ===========================================================
 
  
 
-[QPixmap](CppQPixmap.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QPixmap](CppQPixmap.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 
@@ -29,13 +29,13 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [QPixmap example 1: Create a QPixmap (will fail in
-    console application)](CppQPixmapExample1.htm)
+    console application)](CppQPixmapExample1.md)
 
  
 

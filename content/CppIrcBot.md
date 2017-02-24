@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [IrcBot](CppIrcBot.htm)
+([C++](Cpp.md)) [IrcBot](CppIrcBot.md)
 ========================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[IrcBot](CppIrcBot.htm) is a [class](CppClass.htm) for an IRC bot. Its
+[IrcBot](CppIrcBot.md) is a [class](CppClass.md) for an IRC bot. Its
 default name is 'lambda'.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

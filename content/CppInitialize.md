@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [initialize](CppInitialize.htm)
+([C++](Cpp.md)) [initialize](CppInitialize.md)
 ================================================
 
  
 
-To [initialize](CppInitialize.htm) an object is to give it an initial
+To [initialize](CppInitialize.md) an object is to give it an initial
 value.
 
  
 
-There are multiple types of [initialize](CppInitialize.htm):
+There are multiple types of [initialize](CppInitialize.md):
 
--   [list initialization](CppListInitialization.htm)
--   [memberwise initialization](CppMemberwiseInitialization.htm)
+-   [list initialization](CppListInitialization.md)
+-   [memberwise initialization](CppMemberwiseInitialization.md)
 
  
 
-There are four [initialization](CppInitialize.htm) styles, prefer the
-first (called [list initialization](CppListInitialization.htm)) \[1\].
+There are four [initialization](CppInitialize.md) styles, prefer the
+first (called [list initialization](CppListInitialization.md)) \[1\].
 
  
 
@@ -49,18 +49,18 @@ first (called [list initialization](CppListInitialization.htm)) \[1\].
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [{} initialization](CppListInitialization.htm) over = and ()
+-   Prefer [{} initialization](CppListInitialization.md) over = and ()
     initialization \[1\]
--   [Initialize](CppInitialize.htm) [members](CppClassMember.htm) and
-    [bases](CppBaseClass.htm) in their order of
-    [declaration](CppDeclaration.htm) \[2\]
+-   [Initialize](CppInitialize.md) [members](CppClassMember.md) and
+    [bases](CppBaseClass.md) in their order of
+    [declaration](CppDeclaration.md) \[2\]
 -   Although it is not always necessary to
-    [initialize](CppInitialize.htm) every [variable](CppVariable.htm)
+    [initialize](CppInitialize.md) every [variable](CppVariable.md)
     explicitly, doing so will help you avoid many kinds of problems
     \[3\]
 
@@ -74,15 +74,15 @@ first (called [list initialization](CppListInitialization.htm)) \[1\].
 
  
 
-[Examples](CppExamples.htm)
+[Examples](CppExamples.md)
 ---------------------------
 
  
 
 -   [initialize example 1: a difference between {} and = with
-    references](CppInitializeExample1.htm)
+    references](CppInitializeExample1.md)
 -   [initialize example 2: initializing a reference member
-    variable](CppInitializeExample2.htm)
+    variable](CppInitializeExample2.md)
 
  
 
@@ -94,16 +94,16 @@ first (called [list initialization](CppListInitialization.htm)) \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
     Advice, page 525: '\[6\] Prefer {} initialization over = and ()
     initialization'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
     Advice, page 525: '\[9\] Initialize members and bases in their order
     of declaration'

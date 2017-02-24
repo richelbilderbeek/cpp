@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Makefile](CppMakefile.htm)
+([C++](Cpp.md)) [Makefile](CppMakefile.md)
 ============================================
 
  
 
-A [makefile](CppMakefile.htm) (often with the filename 'Makefile') is a
-file used by [make](CppMake.htm) to produce an executable
+A [makefile](CppMakefile.md) (often with the filename 'Makefile') is a
+file used by [make](CppMake.md) to produce an executable
 
  
 
-A [Qt Creator](CppQtCreator.htm) [project file](CppQtProjectFile.htm) is
-used by [qmake](CppQmake.htm) to generate a [makefile](CppMakefile.htm).
+A [Qt Creator](CppQtCreator.md) [project file](CppQtProjectFile.md) is
+used by [qmake](CppQmake.md) to generate a [makefile](CppMakefile.md).
 
  
 

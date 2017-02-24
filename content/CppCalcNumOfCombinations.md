@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CalcNumOfCombinations](CppCalcNumOfCombinations.htm)
+([C++](Cpp.md)) [CalcNumOfCombinations](CppCalcNumOfCombinations.md)
 ======================================================================
 
  
 
-[CalcNumOfCombinations](CppCalcNumOfCombinations.htm) is a
-[Newick](CppNewick.htm) [code snippets](CppCodeSnippets.htm) to
-calculate the number of combinations a [Newick](CppNewick.htm) has.
+[CalcNumOfCombinations](CppCalcNumOfCombinations.md) is a
+[Newick](CppNewick.md) [code snippets](CppCodeSnippets.md) to
+calculate the number of combinations a [Newick](CppNewick.md) has.
 
  
 

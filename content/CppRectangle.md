@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Rectangle](CppRectangle.htm)
+([C++](Cpp.md)) [Rectangle](CppRectangle.md)
 ==============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Rectangle](CppRectangle.htm) is a [class](CppClass.htm) for a
+[Rectangle](CppRectangle.md) is a [class](CppClass.md) for a
 rectangle.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

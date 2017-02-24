@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Observer](CppDesignPatternObserver.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Observer](CppDesignPatternObserver.md) ([Design Pattern](CppDesignPattern.htm))
 ==================================================================================================
 
  
 
-The [Observer](CppDesignPatternObserver.htm) [Design
-Pattern](CppDesignPattern.htm) allows to 'define a one-to-many
+The [Observer](CppDesignPatternObserver.md) [Design
+Pattern](CppDesignPattern.md) allows to 'define a one-to-many
 dependency between objects so that when one object changes state, all
 its dependents are notified and updated automatically' \[1\].
 
@@ -32,7 +32,7 @@ its dependents are notified and updated automatically' \[1\].
 
  
 
-![Boost](PicBoost.png) [Observer](CppDesignPatternObserver.htm) example using [Boost.Signals2](CppSignals2.htm)
+![Boost](PicBoost.png) [Observer](CppDesignPatternObserver.md) example using [Boost.Signals2](CppSignals2.md)
 ---------------------------------------------------------------------------------------------------------------
 
  
@@ -71,7 +71,7 @@ Screen output:
 
  
 
-![STL](PicStl.png) [Observer](CppDesignPatternObserver.htm) example using the [STL](CppStl.htm) only
+![STL](PicStl.png) [Observer](CppDesignPatternObserver.md) example using the [STL](CppStl.md) only
 ----------------------------------------------------------------------------------------------------
 
  
@@ -82,7 +82,7 @@ Screen output:
  
 
 The name of this example is misleading: this version uses hand-crafted
-slot management, instead of using [Boost.Signals2](CppSignals2.htm).
+slot management, instead of using [Boost.Signals2](CppSignals2.md).
 
  
 
@@ -110,14 +110,14 @@ Screen output:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

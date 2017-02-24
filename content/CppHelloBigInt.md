@@ -12,33 +12,33 @@
 
  
 
-([C++](Cpp.htm)) ![BigInt](PicBigInt.png) [Hello BigInt](CppHelloBigInt.htm)
+([C++](Cpp.md)) ![BigInt](PicBigInt.png) [Hello BigInt](CppHelloBigInt.md)
 ============================================================================
 
  
 
-'[Hello BigInt](CppHelloBigInt.htm)' is like a '[Hello
-World](CppHelloWorld.htm)' program, except for additionally using the
-[BigInt](CppBigInt.htm) [library](CppLibrary.htm).
+'[Hello BigInt](CppHelloBigInt.md)' is like a '[Hello
+World](CppHelloWorld.md)' program, except for additionally using the
+[BigInt](CppBigInt.md) [library](CppLibrary.md).
 
  
 
-Running [Hello BigInt](CppHelloBigInt.htm) depends on your operating
+Running [Hello BigInt](CppHelloBigInt.md) depends on your operating
 system or system environment:
 
  
 
 -   ![OKAY](PicGreen.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) ['Hello BigInt'
-    using Qt Creator under Ubuntu](CppHelloBigIntQtCreatorUbuntu.htm)
+    using Qt Creator under Ubuntu](CppHelloBigIntQtCreatorUbuntu.md)
 -   ![OKAY](PicGreen.png)![Qt
     Creator](PicQtCreator.png)![Windows](PicWindows.png) ['Hello BigInt'
-    using Qt Creator under Windows](CppHelloBigIntQtCreatorWindows.htm)
+    using Qt Creator under Windows](CppHelloBigIntQtCreatorWindows.md)
 
  
 
-The code of [Hello BigInt](CppHelloBigInt.htm) is the sample code given
-by [BigInt](CppBigInt.htm)'s author on the [BigInt](CppBigInt.htm)
+The code of [Hello BigInt](CppHelloBigInt.md) is the sample code given
+by [BigInt](CppBigInt.md)'s author on the [BigInt](CppBigInt.md)
 website. This code is shown below.
 
  

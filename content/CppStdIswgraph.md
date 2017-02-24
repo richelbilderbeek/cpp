@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::iswgraph](CppIswgraph.htm)
+([C++](Cpp.md)) [std::iswgraph](CppIswgraph.md)
 =================================================
 
  
 
-[std::iswgraph](CppIswgraph.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to [check](CppCheck.htm) if a
-[wchar\_t](CppWchar_t.htm) is a printable character other than a space.
+[std::iswgraph](CppIswgraph.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to [check](CppCheck.md) if a
+[wchar\_t](CppWchar_t.md) is a printable character other than a space.
 
  
 

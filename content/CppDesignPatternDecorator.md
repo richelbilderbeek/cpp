@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Decorator](CppDesignPatternDecorator.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Decorator](CppDesignPatternDecorator.md) ([Design Pattern](CppDesignPattern.htm))
 ====================================================================================================
 
  
 
-The [Decorator](CppDesignPatternDecorator.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'attach additional responsibilities to
+The [Decorator](CppDesignPatternDecorator.md) is a [Design
+Pattern](CppDesignPattern.md) to 'attach additional responsibilities to
 an object dynamically. Decorators provide a flexible alternative to
 subclassing for extending functionality' \[1\]
 
@@ -32,14 +32,14 @@ subclassing for extending functionality' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

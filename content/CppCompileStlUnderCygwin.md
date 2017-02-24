@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Compiling STL code under Cygwin](CppCompileStlUnderCygwin.htm)
+([C++](Cpp.md)) [Compiling STL code under Cygwin](CppCompileStlUnderCygwin.md)
 ================================================================================
 
  
 
-[Compiling STL code under Cygwin](CppCompileStlUnderCygwin.htm) is
+[Compiling STL code under Cygwin](CppCompileStlUnderCygwin.md) is
 expected to be the simplest example of [compiling under
-Cygwin](CppCompilingUnderCygwin.htm), under Windows. The goal of
-[compiling under Cygwin](CppCompileUnderCygwin.htm) is to
-[port](CppPort.htm) code from Linux to Windows.
+Cygwin](CppCompilingUnderCygwin.md), under Windows. The goal of
+[compiling under Cygwin](CppCompileUnderCygwin.md) is to
+[port](CppPort.md) code from Linux to Windows.
 
  
 
@@ -40,17 +40,17 @@ Environment
 
 Operating system: Windows XP
 
-[IDE](CppIde.htm): any text editor (but code was developed under [Qt
-Creator](CppQtCreator.htm) 2.0.0)
+[IDE](CppIde.md): any text editor (but code was developed under [Qt
+Creator](CppQtCreator.md) 2.0.0)
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
 Project options:
 

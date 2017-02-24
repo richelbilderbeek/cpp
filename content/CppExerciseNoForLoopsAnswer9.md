@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#9](CppExerciseNoForLoopsAnswer9.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#9](CppExerciseNoForLoopsAnswer9.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -35,10 +35,10 @@ Question \#9: Product of std::vector&lt;int&gt;
 
  
 
-Replace the [for](CppFor.htm)-loop. You will need:
+Replace the [for](CppFor.md)-loop. You will need:
 
--   [std::accumulate](CppAccumulate.htm)
--   [std::multiplies](CppMultiplies.htm)
+-   [std::accumulate](CppAccumulate.md)
+-   [std::multiplies](CppMultiplies.md)
 
  
 

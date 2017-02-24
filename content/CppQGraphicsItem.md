@@ -12,39 +12,39 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsItem](CppQGraphicsItem.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsItem](CppQGraphicsItem.md)
 =======================================================================
 
  
 
-[QGraphicsItem](CppQGraphicsItem.htm) is the [base
-class](CppBaseClass.htm) for all graphical items in a
-[QGraphicsScene](CppQGraphicsScene.htm).
+[QGraphicsItem](CppQGraphicsItem.md) is the [base
+class](CppBaseClass.md) for all graphical items in a
+[QGraphicsScene](CppQGraphicsScene.md).
 
  
 
-Incomplete list of [derived classes](CppDerivedClass.htm) of
-[QGraphicsItem](CppQGraphicsItem.htm):
+Incomplete list of [derived classes](CppDerivedClass.md) of
+[QGraphicsItem](CppQGraphicsItem.md):
 
--   [QGraphicsEllipseItem](CppQGraphicsEllipseItem.htm): ellipse
--   [QGraphicsItemGroup](CppQGraphicsItemGroup.htm): a group of
-    [QGraphicsItems](CppQGraphicsItem.htm)
--   [QGraphicsLineItem](CppQGraphicsLineItem.htm): line
--   [QGraphicsObject](CppQGraphicsObject.htm): all graphics items that
-    require [Qt signals](CppQtSignal.htm), [slots](CppSlots.htm) and
+-   [QGraphicsEllipseItem](CppQGraphicsEllipseItem.md): ellipse
+-   [QGraphicsItemGroup](CppQGraphicsItemGroup.md): a group of
+    [QGraphicsItems](CppQGraphicsItem.md)
+-   [QGraphicsLineItem](CppQGraphicsLineItem.md): line
+-   [QGraphicsObject](CppQGraphicsObject.md): all graphics items that
+    require [Qt signals](CppQtSignal.md), [slots](CppSlots.md) and
     properties
--   [QGraphicsPathItem](CppQGraphicsPathItem.htm): path
--   [QGraphicsPixmapItem](CppQGraphicsPixmapItem.htm): pixmap
--   [QGraphicsPolygonItem](CppQGraphicsPolygonItem.htm): polygon
--   [QGraphicsProxyWidget](CppQGraphicsProxyWidget.htm): proxy layer for
+-   [QGraphicsPathItem](CppQGraphicsPathItem.md): path
+-   [QGraphicsPixmapItem](CppQGraphicsPixmapItem.md): pixmap
+-   [QGraphicsPolygonItem](CppQGraphicsPolygonItem.md): polygon
+-   [QGraphicsProxyWidget](CppQGraphicsProxyWidget.md): proxy layer for
     embedding a QWidget
--   [QGraphicsRectItem](CppQGraphicsRectItem.htm): rectangle
--   [QGraphicsSimpleTextItem](CppQGraphicsSimpleTextItem.htm): simple
+-   [QGraphicsRectItem](CppQGraphicsRectItem.md): rectangle
+-   [QGraphicsSimpleTextItem](CppQGraphicsSimpleTextItem.md): simple
     text
--   [QGraphicsSvgItem](CppQGraphicsSvgItem.htm): Scalable Vector
+-   [QGraphicsSvgItem](CppQGraphicsSvgItem.md): Scalable Vector
     Graphics
--   [QGraphicsTextItem](CppQGraphicsTextItem.htm): formatted text
--   [QGraphicsWidget](CppQGraphicsWidget.htm): widget items
+-   [QGraphicsTextItem](CppQGraphicsTextItem.md): formatted text
+-   [QGraphicsWidget](CppQGraphicsWidget.md): widget items
 
  
 
@@ -65,5 +65,5 @@ Incomplete list of [derived classes](CppDerivedClass.htm) of
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 13: any application, Bezemer way](CppQtCrosscompileToWindowsExample13.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 13: any application, Bezemer way](CppQtCrosscompileToWindowsExample13.md)
 ===================================================================================================================================================================================
 
  
 
 This is example 10, and perhaps a viable solutions of answering the [Qt
-FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm), which
+FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md), which
 follows \[1\].
 
  
@@ -55,19 +55,17 @@ Project information
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -77,7 +75,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -122,7 +122,7 @@ Process
 
 For this example, I use a console project that calls the Boost
 libraries. If you only need the STL, [example 1: console application, no
-libaries](CppQtCrosscompileToWindowsExample1.htm) shows an easy and
+libaries](CppQtCrosscompileToWindowsExample1.md) shows an easy and
 successfull approach.
 
  
@@ -145,7 +145,7 @@ Settings -&gt; Build Steps -&gt; qmake -&gt; Additional arguments' edit.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

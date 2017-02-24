@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Cannot create a QWidget when no GUI is being used](CppRuntimeErrorCannotCreateAqwidgetWhenNoGuiIsBeingUsed.htm)
+([C++](Cpp.md)) [Cannot create a QWidget when no GUI is being used](CppRuntimeErrorCannotCreateAqwidgetWhenNoGuiIsBeingUsed.md)
 =================================================================================================================================
 
  
 
-[Runtime error](CppRuntimeError.htm).
+[Runtime error](CppRuntimeError.md).
 
  
 
@@ -57,17 +57,15 @@ Cause
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -77,7 +75,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -125,8 +125,8 @@ Solution
 
  
 
-Do not use [QCoreApplication](CppQCoreApplication.htm), but use
-[QApplication](CppQApplication.htm) instead.
+Do not use [QCoreApplication](CppQCoreApplication.md), but use
+[QApplication](CppQApplication.md) instead.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WTimer](CppWTimer.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WTimer](CppWTimer.md)
 =============================================================
 
  
 
-[Wt::WTimer](CppWTimer.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WTimer](CppWTimer.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a timer.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WTimer](CppWTimer.htm) is used in, among others:
+[Wt::WTimer](CppWTimer.md) is used in, among others:
 
 -   ...
 

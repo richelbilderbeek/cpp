@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Undefined reference to 'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.htm)
+([C++](Cpp.md)) [Undefined reference to 'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.md)
 ======================================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm) I encountered in multiple contexts:
+[Link error](CppLinkError.md) I encountered in multiple contexts:
 
  
 
 -   [Qt
-    Creator](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryQtCreator.htm)
--   [MinGW](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryMingw.htm)
+    Creator](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryQtCreator.md)
+-   [MinGW](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryMingw.md)
 -   [using
-    i686-pc-mingw32-qmake](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryI686-pc-mingw32-qmake.htm)
+    i686-pc-mingw32-qmake](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryI686-pc-mingw32-qmake.md)
 
  
 

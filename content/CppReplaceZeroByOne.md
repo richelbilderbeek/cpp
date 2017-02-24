@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [ReplaceZeroByOne](CppReplaceZeroByOne.htm)
+([C++](Cpp.md)) [ReplaceZeroByOne](CppReplaceZeroByOne.md)
 ============================================================
 
  
 
-[Code snippet](CppCodeSnippets.htm) to replace all zeroes in a
-[std::vector](CppVector.htm) by a one.
+[Code snippet](CppCodeSnippets.md) to replace all zeroes in a
+[std::vector](CppVector.md) by a one.
 
  
 

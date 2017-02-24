@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [RandomizeTimer](CppRandomizeTimer.htm)
+([C++](Cpp.md)) [RandomizeTimer](CppRandomizeTimer.md)
 ========================================================
 
  
 
-[RandomizeTimer](CppRandomizeTimer.htm) is [random
-numbers](CppRandomNumber.htm) [code snippet](CppCodeSnippets.htm) to set
+[RandomizeTimer](CppRandomizeTimer.md) is [random
+numbers](CppRandomNumber.md) [code snippet](CppCodeSnippets.md) to set
 a random seed using the computer timer. The function name comes from the
 QBasic command 'RANDOMIZE TIMER', which served the same purpose.
 

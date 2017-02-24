@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [DSP\_TEMPLATE (qmake variable)](CppQmakeDsp_template.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [DSP\_TEMPLATE (qmake variable)](CppQmakeDsp_template.md)
 ============================================================================================
 
  
 
-[DSP\_TEMPLATE](CppQmakeDsp_template.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[DSP\_TEMPLATE](CppQmakeDsp_template.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

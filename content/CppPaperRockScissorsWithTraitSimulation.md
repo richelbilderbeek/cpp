@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [PaperRockScissorsWithTraitSimulation](CppPaperRockScissorsWithTraitSimulation.htm)
+([C++](Cpp.md)) [PaperRockScissorsWithTraitSimulation](CppPaperRockScissorsWithTraitSimulation.md)
 ====================================================================================================
 
  
@@ -212,5 +212,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

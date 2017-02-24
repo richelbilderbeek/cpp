@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPdfImage](CppWPdfImage.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPdfImage](CppWPdfImage.md)
 ===================================================================
 
  
 
-[Wt::WPdfImage](CppWPdfImage.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WPdfImage](CppWPdfImage.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WPdfImage](CppWPdfImage.htm) is used in, among others:
+[Wt::WPdfImage](CppWPdfImage.md) is used in, among others:
 
 -   ...
 

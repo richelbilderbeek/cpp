@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [CreateMaze](CppCreateMaze.htm)
+([C++](Cpp.md)) [CreateMaze](CppCreateMaze.md)
 ================================================
 
  
 
-[Maze](CppMaze.htm) [code snippet](CppCodeSnippets.htm) to create a
-square maze. The [tool](Tools.htm) [Maze Creator](ToolMazeCreator.htm)
-demonstrates [CreateMaze](CppCreateMaze.htm).
+[Maze](CppMaze.md) [code snippet](CppCodeSnippets.md) to create a
+square maze. The [tool](Tools.md) [Maze Creator](ToolMazeCreator.md)
+demonstrates [CreateMaze](CppCreateMaze.md).
 
  
 
-[CreateMaze](CppCreateMaze.htm) is an improved version of
-[CreateMazeSlowly](CppCreateMazeSlowly.htm).
+[CreateMaze](CppCreateMaze.md) is an improved version of
+[CreateMazeSlowly](CppCreateMazeSlowly.md).
 
  
 
 -   [View a screenshot of 'Maze Creator', showing a generated
     maze](ToolMazeCreator.png).
--   [Go to the page of 'Maze Creator'](ToolMazeCreator.htm).
+-   [Go to the page of 'Maze Creator'](ToolMazeCreator.md).
 
  
 
@@ -49,17 +49,17 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): Qt4 [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

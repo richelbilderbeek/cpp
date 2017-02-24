@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::ends](CppStdEnds.htm)
+([C++](Cpp.md)) [std::ends](CppStdEnds.md)
 ============================================
 
  
 
-[std::ends](CppStdEnds.htm) is a [stream](CppStream.htm) operation that
-adds a null ('\\0') to a [stream](CppStream.htm).
+[std::ends](CppStdEnds.md) is a [stream](CppStream.md) operation that
+adds a null ('\\0') to a [stream](CppStream.md).
 
  
 

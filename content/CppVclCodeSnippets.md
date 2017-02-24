@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [VCL code Snippets](CppVclCodeSnippets.htm)
+([C++](Cpp.md)) [VCL code Snippets](CppVclCodeSnippets.md)
 ============================================================
 
  
 
-My own favorite [C++](Cpp.htm) [VCL](CppVcl.htm) code snippets. Note
+My own favorite [C++](Cpp.md) [VCL](CppVcl.md) code snippets. Note
 that some snippets fall under multiple categories. Some snippets are
 trivial for most people, but I put them here for completeness and for
 newbies (including my own students).
@@ -25,7 +25,7 @@ newbies (including my own students).
  
 
 For STL and Boost code snippets, [go to the (standard) code snippets
-page](CppCodeSnippets.htm).
+page](CppCodeSnippets.md).
 
  
 
@@ -36,11 +36,11 @@ me when one snippet does not ([view my E-mail address](Email.png)).
 
  
 
--   [ASCII art](CppAsciiArt.htm) (both [STL](CppStl.htm) and
-    [VCL](CppVcl.htm))
--   [Convert](CppVclConvert.htm)
--   [Graphics](CppVclGraphics.htm)
--   [TChart](CppTChart.htm)
+-   [ASCII art](CppAsciiArt.md) (both [STL](CppStl.md) and
+    [VCL](CppVcl.md))
+-   [Convert](CppVclConvert.md)
+-   [Graphics](CppVclGraphics.md)
+-   [TChart](CppTChart.md)
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CreateVector](CppCreateVector.htm)
+([C++](Cpp.md)) [CreateVector](CppCreateVector.md)
 ====================================================
 
  
 
-[CreateVector](CppCreateVector.htm) is a [std::vector](CppVector.htm)
-[code snippet](CppCodeSnippets.htm) to create a
-[std::vector](CppVector.htm) from three values.
+[CreateVector](CppCreateVector.md) is a [std::vector](CppVector.md)
+[code snippet](CppCodeSnippets.md) to create a
+[std::vector](CppVector.md) from three values.
 
  
 

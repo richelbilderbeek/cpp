@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [OpenGL](CppOpenGl.htm)
+([C++](Cpp.md)) [OpenGL](CppOpenGl.md)
 ========================================
 
  
 
-[OpenGL](CppOpenGl.htm) (an abbreviation of 'Open Graphics Library') is
+[OpenGL](CppOpenGl.md) (an abbreviation of 'Open Graphics Library') is
 a cross-platform cross-language 2D and 3D graphics
-[library](CppLibrary.htm).
+[library](CppLibrary.md).
 
  
 

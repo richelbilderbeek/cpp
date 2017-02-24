@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [TimeToStr](CppTimeToStr.htm)
+([C++](Cpp.md)) [TimeToStr](CppTimeToStr.md)
 ==============================================
 
  
 
-[TimeToStr](CppTimeToStr.htm) is a [time](CppTime.htm)
-[conversion](CppConvert.htm) [code snippet](CppCodeSnippets.htm) to
-[convert](CppConvert.htm) [std::time\_t](CppTime_t.htm) to
-[std::string](CppString.htm).
+[TimeToStr](CppTimeToStr.md) is a [time](CppTime.md)
+[conversion](CppConvert.md) [code snippet](CppCodeSnippets.md) to
+[convert](CppConvert.md) [std::time\_t](CppTime_t.md) to
+[std::string](CppString.md).
 
  
 

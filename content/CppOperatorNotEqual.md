@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [operator!=](CppOperatorNotEqual.htm)
+([C++](Cpp.md)) [operator!=](CppOperatorNotEqual.md)
 ======================================================
 
  
 
-[operator!=](CppOperatorNotEqual.htm) is the [operator](CppOperator.htm)
-to determine if two [instances](CppInstance.htm) are different.
+[operator!=](CppOperatorNotEqual.md) is the [operator](CppOperator.md)
+to determine if two [instances](CppInstance.md) are different.
 
  
 
-The following code uses [operator!=](CppOperatorNotEqual.htm) to
+The following code uses [operator!=](CppOperatorNotEqual.md) to
 determine that three is not equal to four:
 
  
@@ -33,8 +33,8 @@ determine that three is not equal to four:
 
  
 
-[operator!=](CppOperatorNotEqual.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::not\_equal\_to](CppNot_equal_to.htm).
+[operator!=](CppOperatorNotEqual.md) is encapsulated by the
+[functor](CppFunctor.md) [std::not\_equal\_to](CppNot_equal_to.md).
 
  
 
@@ -46,16 +46,16 @@ determine that three is not equal to four:
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
  
 
--   In some cases, writing [!=](CppOperatorNotEqual.htm) as =! will not
-    be a [syntax error](CppSyntaxError.htm), but almost certainly will
-    be a [logic error](CppLogicError.htm) that has an effect at
+-   In some cases, writing [!=](CppOperatorNotEqual.md) as =! will not
+    be a [syntax error](CppSyntaxError.md), but almost certainly will
+    be a [logic error](CppLogicError.md) that has an effect at
     execution time \[1\]
 
  
@@ -68,7 +68,7 @@ determine that three is not equal to four:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

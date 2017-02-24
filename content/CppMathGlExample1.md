@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [MathGL example 1: a simple 3D plot](CppMathGlExample1.htm)
+([C++](Cpp.md)) [MathGL example 1: a simple 3D plot](CppMathGlExample1.md)
 ============================================================================
 
  
 
-This [MathGL](CppMathGl.htm) example shows how to use
-[MathGL](CppMathGl.htm) to write a simple 3D plot to file. Then
-[Qt](CppQt.htm) is used to display this plot, like [this screenshot
+This [MathGL](CppMathGl.md) example shows how to use
+[MathGL](CppMathGl.md) to write a simple 3D plot to file. Then
+[Qt](CppQt.md) is used to display this plot, like [this screenshot
 (png)](CppMathGlExample1.png).
 
  
@@ -31,17 +31,17 @@ This [MathGL](CppMathGl.htm) example shows how to use
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [MathGL](CppMathGl.htm): version 1.9-2build1, from Ubuntu Software
+-   [MathGL](CppMathGl.md): version 1.9-2build1, from Ubuntu Software
     centre ('libmgl-dev')
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -53,7 +53,7 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

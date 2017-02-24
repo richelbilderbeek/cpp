@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [OpenSceneGraph](CppOpenSceneGraph.htm)
+([C++](Cpp.md)) [OpenSceneGraph](CppOpenSceneGraph.md)
 ========================================================
 
  
 
-[OpenSceneGraph](CppOpenSceneGraph.htm) is a [3D](Cpp3d.htm) rendering
-[library](CppLibrary.htm).
+[OpenSceneGraph](CppOpenSceneGraph.md) is a [3D](Cpp3d.md) rendering
+[library](CppLibrary.md).
 
  
 

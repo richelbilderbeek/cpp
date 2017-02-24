@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QUndoStack](CppQUndoStack.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoStack](CppQUndoStack.md)
 =================================================================
 
  
 
-[QUndoStack](CppQUndoStack.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to store [QUndoCommand](CppQUndoCommand.htm)
-[instances](CppInstance.htm). [QUndoStack](CppQUndoStack.htm) can be
-viewed with a [QUndoView](CppQUndoView.htm)
+[QUndoStack](CppQUndoStack.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to store [QUndoCommand](CppQUndoCommand.md)
+[instances](CppInstance.md). [QUndoStack](CppQUndoStack.md) can be
+viewed with a [QUndoView](CppQUndoView.md)
 
  
 
@@ -41,5 +41,5 @@ viewed with a [QUndoView](CppQUndoView.htm)
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

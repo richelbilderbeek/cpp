@@ -12,27 +12,27 @@
 
  
 
-([C++](Cpp.htm)) [std::realloc](CppRealloc.htm)
+([C++](Cpp.md)) [std::realloc](CppRealloc.md)
 ===============================================
 
  
 
-[std::realloc](CppRealloc.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) used in C-style memory management:
+[std::realloc](CppRealloc.md) is an [STL](CppStl.md)
+[function](CppFunction.md) used in C-style memory management:
 
--   [std::malloc](CppMalloc.htm): allocates memory
--   [std::realloc](CppRealloc.htm): reallocates memory
--   [std::free](CppFree.htm): releases memory
+-   [std::malloc](CppMalloc.md): allocates memory
+-   [std::realloc](CppRealloc.md): reallocates memory
+-   [std::free](CppFree.md): releases memory
 
  
 
-Prefer to use the [C++](Cpp.htm) [keyword](CppKeyword.htm)
-[new](CppNew.htm) over [std::malloc](CppMalloc.htm), as
-[std::malloc](CppMalloc.htm) does not call a
-[constructor](CppConstructor.htm). Prefer to use the [C++](Cpp.htm)
-[keyword](CppKeyword.htm) [delete](CppDelete.htm) over
-[std::free](CppFree.htm), as [std::free](CppFree.htm) does not call a
-[destructor](CppDestructor.htm).
+Prefer to use the [C++](Cpp.md) [keyword](CppKeyword.md)
+[new](CppNew.md) over [std::malloc](CppMalloc.md), as
+[std::malloc](CppMalloc.md) does not call a
+[constructor](CppConstructor.md). Prefer to use the [C++](Cpp.md)
+[keyword](CppKeyword.md) [delete](CppDelete.md) over
+[std::free](CppFree.md), as [std::free](CppFree.md) does not call a
+[destructor](CppDestructor.md).
 
  
 

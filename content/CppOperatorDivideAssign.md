@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator/=](CppOperatorDivideAssign.htm)
+([C++](Cpp.md)) [operator/=](CppOperatorDivideAssign.md)
 ==========================================================
 
  
 
-[operator/=](CppOperatorDivideAssign.htm) is the
-[operator](CppOperator.htm) to divide a [variable](CppVariable.htm)'s
+[operator/=](CppOperatorDivideAssign.md) is the
+[operator](CppOperator.md) to divide a [variable](CppVariable.md)'s
 value by a certain value, without making a copy.
 
  

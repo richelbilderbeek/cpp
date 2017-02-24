@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WAbstractArea](CppWAbstractArea.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WAbstractArea](CppWAbstractArea.md)
 ===========================================================================
 
  
 
-[Wt::WAbstractArea](CppWAbstractArea.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WAbstractArea](CppWAbstractArea.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WAbstractArea](CppWAbstractArea.htm) is used in, among others:
+[Wt::WAbstractArea](CppWAbstractArea.md) is used in, among others:
 
 -   ...
 

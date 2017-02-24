@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPrintDialog](CppQPrintDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPrintDialog](CppQPrintDialog.md)
 =====================================================================
 
  
 
-[QPrintDialog](CppQPrintDialog.htm) is the [Qt](CppQt.htm)
-[class](CppClass.htm) for a printing [dialog](CppDialog.htm).
+[QPrintDialog](CppQPrintDialog.md) is the [Qt](CppQt.md)
+[class](CppClass.md) for a printing [dialog](CppDialog.md).
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
--   [QPrintDialog example 1](CppQPrintDialogExample1.htm)
+-   [QPrintDialog example 1](CppQPrintDialogExample1.md)
 
  
 
@@ -56,5 +56,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ArrayExample1](CppArrayExample1.htm)
+([C++](Cpp.md)) [ArrayExample1](CppArrayExample1.md)
 ======================================================
 
  
@@ -22,16 +22,16 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-([C++](Cpp.htm)) [array/std::array/boost::array example 1: comparison](CppArrayExample1.htm)
+([C++](Cpp.md)) [array/std::array/boost::array example 1: comparison](CppArrayExample1.md)
 ============================================================================================
 
  
 
 [array/std::array/boost::array example 1:
-comparison](CppArrayExample1.htm) is a comparison between a plain
-[array](CppArray.htm), [std::array](CppStdArray.htm),
-[std::tr1::array](CppTr1Array.htm) and
-[boost::array](CppBoostArray.htm).
+comparison](CppArrayExample1.md) is a comparison between a plain
+[array](CppArray.md), [std::array](CppStdArray.md),
+[std::tr1::array](CppTr1Array.md) and
+[boost::array](CppBoostArray.md).
 
  
 
@@ -47,7 +47,7 @@ The conclusions draws are (note that every 'Yes' is 'a good thing'):
  
 
   -------------------------------------------------------------- ---------------------------------- ----------------------------------- ------------------------------------ ------------------------------- -----------------------------------
-  Property tested                                                Statically allocated plain array   Dynamically allocated plain array   [std::tr1::array](CppTr1Array.htm)   [std::array](CppStdArray.htm)   [boost::array](CppBoostArray.htm)
+  Property tested                                                Statically allocated plain array   Dynamically allocated plain array   [std::tr1::array](CppTr1Array.md)   [std::array](CppStdArray.md)   [boost::array](CppBoostArray.htm)
   Initialization at creation                                     Yes                                No                                  Yes                                  Yes                             Yes
   Initialization at creation checked against too few elements    No                                 N/A                                 No                                   No                              No
   Initialization at creation checked against too many elements   Yes                                N/A                                 Yes                                  Yes                             Yes
@@ -60,30 +60,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -96,7 +96,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppArrayExample1/CppArrayExample1.pro
+[Qt project file](CppQtProjectFile.md): ./CppArrayExample1/CppArrayExample1.pro
 --------------------------------------------------------------------------------
 
  
@@ -143,5 +143,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

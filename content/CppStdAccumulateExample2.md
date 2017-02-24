@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::accumulate example 2: summing a std::vector of a custom class using a C++11 lambda expression](CppAccumulateExample2.htm)
+([C++](Cpp.md)) [std::accumulate example 2: summing a std::vector of a custom class using a C++11 lambda expression](CppAccumulateExample2.md)
 ================================================================================================================================================
 
  
 
 [std::accumulate example 2: summing a std::vector of a custom class
-using a C++11 lambda expression](CppAccumulateExample2.htm) is a
-[std::accumulate](CppAccumulate.htm) example to sum a
-[std::vector](CppVector.htm) of a custom [class](CppClass.htm) using a
-[C++11](Cpp11.htm) [lambda expression](CppLambdaExpression.htm).
+using a C++11 lambda expression](CppAccumulateExample2.md) is a
+[std::accumulate](CppAccumulate.md) example to sum a
+[std::vector](CppVector.md) of a custom [class](CppClass.md) using a
+[C++11](Cpp11.md) [lambda expression](CppLambdaExpression.md).
 
  
 
@@ -42,30 +42,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -78,7 +78,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppAccumulateExample2.pro
+[Qt project file](CppQtProjectFile.md): CppAccumulateExample2.pro
 ------------------------------------------------------------------
 
  
@@ -125,5 +125,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

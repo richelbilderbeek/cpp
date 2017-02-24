@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [LexicalCast](CppLexicalCast.htm)
+([C++](Cpp.md)) [LexicalCast](CppLexicalCast.md)
 ==================================================
 
  
 
-[LexicalCast](CppLexicalCast.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to convert [std::string](CppString.htm) to
-(possibly) any [data type](CppDataType.htm). [CanCast](CppCanCast.htm)
-can [check](CppCheck.htm) if this [conversion](CppConvert.htm) is
+[LexicalCast](CppLexicalCast.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to convert [std::string](CppString.md) to
+(possibly) any [data type](CppDataType.md). [CanCast](CppCanCast.md)
+can [check](CppCheck.md) if this [conversion](CppConvert.md) is
 possible.
 
  
 
-[LexicalCast](CppLexicalCast.htm) uses [CanCast](CppCanCast.htm).
+[LexicalCast](CppLexicalCast.md) uses [CanCast](CppCanCast.md).
 
  
 
-[LexicalCast](CppLexicalCast.htm) serves the same purpose as
-[boost::lexical\_cast](CppLexical_cast.htm), but does not use
-[Boost](CppBoost.htm). Note that there are differences between
-[LexicalCast](CppLexicalCast.htm) and
-[boost::lexical\_cast](CppLexical_cast.htm), as
-[boost::lexical\_cast](CppCanLexicalCast.htm) is more strict.
+[LexicalCast](CppLexicalCast.md) serves the same purpose as
+[boost::lexical\_cast](CppLexical_cast.md), but does not use
+[Boost](CppBoost.md). Note that there are differences between
+[LexicalCast](CppLexicalCast.md) and
+[boost::lexical\_cast](CppLexical_cast.md), as
+[boost::lexical\_cast](CppCanLexicalCast.md) is more strict.
 
  
 
@@ -52,16 +52,16 @@ possible.
 
  
 
-Comparison between [LexicalCast](CppLexicalCast.htm) and [boost::lexical\_cast](CppLexical_cast.htm)
+Comparison between [LexicalCast](CppLexicalCast.md) and [boost::lexical\_cast](CppLexical_cast.md)
 ----------------------------------------------------------------------------------------------------
 
  
 
-The table below shows if a [std::string](CppString.htm) can be
-[converted](CppConvert.htm) according to [CanCast](CppCanCast.htm) (CC)
-and [CanLexicalCast](CppCanLexicalCast.htm) (CLC) and what the result
-will be after [LexicalCast](CppLexicalCast.htm) (LC) and
-[boost::lexical\_cast](CppLexical_cast.htm) (l\_c). Note that the first
+The table below shows if a [std::string](CppString.md) can be
+[converted](CppConvert.md) according to [CanCast](CppCanCast.md) (CC)
+and [CanLexicalCast](CppCanLexicalCast.md) (CLC) and what the result
+will be after [LexicalCast](CppLexicalCast.md) (LC) and
+[boost::lexical\_cast](CppLexical_cast.md) (l\_c). Note that the first
 std::string was a space (' '). Below the table I show the code I've used
 to generate this output.
 

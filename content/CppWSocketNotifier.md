@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WSocketNotifier](CppWSocketNotifier.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WSocketNotifier](CppWSocketNotifier.md)
 ===============================================================================
 
  
 
-[Wt::WSocketNotifier](CppWSocketNotifier.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WSocketNotifier](CppWSocketNotifier.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WSocketNotifier](CppWSocketNotifier.htm) is used in, among others:
+[Wt::WSocketNotifier](CppWSocketNotifier.md) is used in, among others:
 
 -   ...
 

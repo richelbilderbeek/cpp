@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [bitset.h](CppBitsetH.htm)
+([C++](Cpp.md)) [bitset.h](CppBitsetH.md)
 ===========================================
 
  
 
-[bitset.h](CppBitsetH.htm) is the [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) for bitsets.
+[bitset.h](CppBitsetH.md) is the [STL](CppStl.md) [header
+file](CppHeaderFile.md) for bitsets.
 
  
 
-[bitset.h](CppBitsetH.htm) contains the [definitions](CppDefinition.htm)
+[bitset.h](CppBitsetH.md) contains the [definitions](CppDefinition.md)
 of (incomplete list):
 
--   [std::bitset](CppBitset.htm)
+-   [std::bitset](CppBitset.md)
 
  
 

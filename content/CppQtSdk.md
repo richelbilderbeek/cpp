@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt SDK](CppQtSdk.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt SDK](CppQtSdk.md)
 ========================================================
 
  
 
-The [Qt SDK](CppQtSdk.htm) is the [SDK](CppSdk.htm) to develop
-[applications](CppApplication.htm) using [Qt](CppQt.htm).
+The [Qt SDK](CppQtSdk.md) is the [SDK](CppSdk.md) to develop
+[applications](CppApplication.md) using [Qt](CppQt.md).
 
  
 
-The [Qt SDK](CppQtSdk.htm) keeps supporting [desktop
-application](CppDesktopApplication.htm) development, but additionally
-supports the following [operating systems](CppOs.htm):
+The [Qt SDK](CppQtSdk.md) keeps supporting [desktop
+application](CppDesktopApplication.md) development, but additionally
+supports the following [operating systems](CppOs.md):
 
  
 
--   ![Maemo](PicMaemo.png) [Maemo](CppMaemo.htm)
--   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.htm)
+-   ![Maemo](PicMaemo.png) [Maemo](CppMaemo.md)
+-   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.md)
 
  
 

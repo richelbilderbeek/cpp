@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Global Wt deployment](CppWtDeployGlobal.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Global Wt deployment](CppWtDeployGlobal.md)
 ===============================================================================
 
  
 
-[Global Wt deployment](CppWtDeployGlobal.htm) is a type of [Wt
-deployment](CppWtDeploy.htm) and denotes running a [Wt](CppWt.htm)
+[Global Wt deployment](CppWtDeployGlobal.md) is a type of [Wt
+deployment](CppWtDeploy.md) and denotes running a [Wt](CppWt.md)
 application from a server, so possibly everybody with internet access
-can view it. [Global Wt deployment](CppWtDeployGlobal.htm) depends on
+can view it. [Global Wt deployment](CppWtDeployGlobal.md) depends on
 where your server is:
 
 -   ![OKAY](PicGreen.png) [Global Wt deployment on a home
-    server](CppWtDeployGlobalHome.htm): there is a computer in your
+    server](CppWtDeployGlobalHome.md): there is a computer in your
     home, office, or other location, where you have physical access to
     and full access rights
 -   ![?FAIL](PicOrange.png) [Hosted Wt deployment on a hosted
-    server](CppWtDeployGlobalHosted.htm): an internet host is paid to
+    server](CppWtDeployGlobalHosted.md): an internet host is paid to
     maintain a computer at a location you often don't know, only access
     by an internet connection. The access rights you have varies from
     FTP-only to root access.
@@ -62,7 +62,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

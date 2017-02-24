@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [typeid](CppTypeid.htm)
+([C++](Cpp.md)) [typeid](CppTypeid.md)
 ========================================
 
  
 
-[typeid](CppTypeid.htm) is a [C++](Cpp.htm) [keyword](CppKeyword.htm) to
-determine a [type](CppDataType.htm) at runtime.
+[typeid](CppTypeid.md) is a [C++](Cpp.md) [keyword](CppKeyword.htm) to
+determine a [type](CppDataType.md) at runtime.
 
  
 
@@ -30,12 +30,12 @@ determine a [type](CppDataType.htm) at runtime.
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [typeid example 1: basics](CppTypeidExample1.htm)
+-   [typeid example 1: basics](CppTypeidExample1.md)
 
  
 
@@ -47,18 +47,18 @@ determine a [type](CppDataType.htm) at runtime.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [typeid](CppTypeid.htm) to implement extended type information
+-   Use [typeid](CppTypeid.md) to implement extended type information
     \[1\]
--   Use [typeid](CppTypeid.htm) to find the [type](CppDataType.htm) of
+-   Use [typeid](CppTypeid.md) to find the [type](CppDataType.md) of
     an object \[2\]
--   Prefer [virtual](CppVirtual.htm) functions to repeated
-    [switch](CppSwitch.htm)-statements based on [typeid](CppTypeid.htm)
-    or [dynamic\_cast](CppDynamic_cast.htm) \[3\]
+-   Prefer [virtual](CppVirtual.md) functions to repeated
+    [switch](CppSwitch.md)-statements based on [typeid](CppTypeid.md)
+    or [dynamic\_cast](CppDynamic_cast.md) \[3\]
 
  
 
@@ -68,20 +68,20 @@ determine a [type](CppDataType.htm) at runtime.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 22.7.
     Advice. page 663: '\[8\] Use typeid to implement extended type
     information'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 22.7.
     Advice. page 663: '\[9\] Use typeid to find the type of an object
     (and not to find an interface to an object)'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 22.7.
     Advice. page 663: '\[10\] Prefer virtual functions to repeated
     switch-statements based on typeid or dynamic\_cast'

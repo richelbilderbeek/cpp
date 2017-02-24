@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Signal](CppSignal.htm)
+([C++](Cpp.md)) [Signal](CppSignal.md)
 ========================================
 
  
 
-[Signal](CppSignal.htm) may refer to:
+[Signal](CppSignal.md) may refer to:
 
  
 
--   ![Boost](PicBoost.png) [Boost signal](CppBoostSignal.htm)
--   ![STL](PicStl.png) [std::signal](CppStdSignal.htm)
--   ![Qt](PicQt.png) [Qt signal](CppQtSignal.htm)
+-   ![Boost](PicBoost.png) [Boost signal](CppBoostSignal.md)
+-   ![STL](PicStl.png) [std::signal](CppStdSignal.md)
+-   ![Qt](PicQt.png) [Qt signal](CppQtSignal.md)
 
  
 

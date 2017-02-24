@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [using](CppUsing.htm)
+([C++](Cpp.md)) [using](CppUsing.md)
 ======================================
 
  
@@ -25,20 +25,20 @@
 
  
 
-[using](CppUsing.htm) is a [keyword](CppKeyword.htm) to specify the a
-[namespace(s)](CppNamespace.htm) used or the
-[namespace(s)](CppNamespace.htm) of the [data types](CppDataType.htm)
+[using](CppUsing.md) is a [keyword](CppKeyword.md) to specify the a
+[namespace(s)](CppNamespace.md) used or the
+[namespace(s)](CppNamespace.md) of the [data types](CppDataType.md)
 used.
 
  
 
-Use [using](CppUsing.htm)-directives for transition, for foundational
-[libraries](CppLibrary.htm) (such as [std](CppStd.htm)), or within a
-[local](CppLocal.htm) [scope](CppScope.htm) \[1\] Don't put a
-[using](CppUsing.htm)-directive in a [header file](CppHeaderFile.htm)
-\[2,3\] Don't write a [using](CppUsing.htm)-directive before an
-[\#include](CppInclude.htm) \[3\] Prefer [using](CppUsing.htm) over
-[typedef](CppTypedef.htm) for defining aliases \[4\]
+Use [using](CppUsing.md)-directives for transition, for foundational
+[libraries](CppLibrary.md) (such as [std](CppStd.md)), or within a
+[local](CppLocal.md) [scope](CppScope.md) \[1\] Don't put a
+[using](CppUsing.md)-directive in a [header file](CppHeaderFile.md)
+\[2,3\] Don't write a [using](CppUsing.md)-directive before an
+[\#include](CppInclude.md) \[3\] Prefer [using](CppUsing.md) over
+[typedef](CppTypedef.md) for defining aliases \[4\]
 
  
 
@@ -48,7 +48,7 @@ Use [using](CppUsing.htm)-directives for transition, for foundational
 
  
 
-Example: [using](CppUsing.htm) to specify the [namespace(s)](CppNamespace.htm) of the [data types](CppDataType.htm) used
+Example: [using](CppUsing.md) to specify the [namespace(s)](CppNamespace.md) of the [data types](CppDataType.htm) used
 ------------------------------------------------------------------------------------------------------------------------
 
  
@@ -67,7 +67,7 @@ Example: [using](CppUsing.htm) to specify the [namespace(s)](CppNamespace.htm) o
 
  
 
-Example: [using](CppUsing.htm) to specify the [namespace(s)](CppNamespace.htm) used
+Example: [using](CppUsing.md) to specify the [namespace(s)](CppNamespace.md) used
 -----------------------------------------------------------------------------------
 
  
@@ -86,21 +86,21 @@ Example: [using](CppUsing.htm) to specify the [namespace(s)](CppNamespace.htm) u
 
  
 
-[Reference](CppReferences.htm)
+[Reference](CppReferences.md)
 ------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 14.5.
     Advice. page 417: '\[10\] Use using-directives for transition, for
     foundational libraries (such as std), or within a local scope'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 14.5.
     Advice. page 417: '\[11\] Don't put a using-directive in a header
     file'
-3.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+3.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Item 59: 'Don't write namespace usings in a header file or before an
     \#include'

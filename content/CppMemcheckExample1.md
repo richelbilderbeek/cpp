@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MemcheckExample1](CppMemcheckExample1.htm)
+([C++](Cpp.md)) [MemcheckExample1](CppMemcheckExample1.md)
 ============================================================
 
  
@@ -22,10 +22,10 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[memcheck example 1: Hello World](CppMemcheckExample1.htm) is a
-[memcheck](CppMemcheck.htm) example shows how to check a [Hello
-world](CppHelloWorld.htm) program for, among others, [memory
-leaks](CppMemoryLeak.htm).
+[memcheck example 1: Hello World](CppMemcheckExample1.md) is a
+[memcheck](CppMemcheck.md) example shows how to check a [Hello
+world](CppHelloWorld.md) program for, among others, [memory
+leaks](CppMemoryLeak.md).
 
  
 
@@ -34,7 +34,7 @@ leaks](CppMemoryLeak.htm).
 
  
 
-[valgrind](CppValgrind.htm) can be used from command line:
+[valgrind](CppValgrind.md) can be used from command line:
 
  
 
@@ -74,30 +74,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -110,7 +110,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppMemcheckExample1/CppMemcheckExample1.pro
+[Qt project file](CppQtProjectFile.md): ./CppMemcheckExample1/CppMemcheckExample1.pro
 --------------------------------------------------------------------------------------
 
  
@@ -176,5 +176,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

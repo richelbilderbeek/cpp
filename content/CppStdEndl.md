@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::endl](CppEndl.htm)
+([C++](Cpp.md)) [std::endl](CppEndl.md)
 =========================================
 
  
 
-[std::endl](CppEndl.htm) is an output [stream](CppStream.htm) modifier
-to go to the next line and flush the [stream](CppStream.htm)'s buffer.
+[std::endl](CppEndl.md) is an output [stream](CppStream.md) modifier
+to go to the next line and flush the [stream](CppStream.md)'s buffer.
 
  
 
@@ -38,7 +38,7 @@ The code above is equivalent to the code below \[1\]:
 
  
 
-One does not need to flush the [std::cout](CppCout.htm) buffer after
+One does not need to flush the [std::cout](CppCout.md) buffer after
 every output \[1\].
 
  
@@ -51,13 +51,13 @@ every output \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Angelika Langer](CppAngelikaLanger.htm), [Klaus
-    Kreft](CppKlausKreft.htm). Standard C++ IOStreams and Locales.
+1.  [Angelika Langer](CppAngelikaLanger.md), [Klaus
+    Kreft](CppKlausKreft.md). Standard C++ IOStreams and Locales.
     1999. ISBN:0-321-58558-5. Chapter 1.2.4, section 'Manipulators',
     page 23
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to show a dialog modally?](CppQtShowModal.htm) or [How to show a pop-up window?](CppQtShowModal.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to show a dialog modally?](CppQtShowModal.md) or [How to show a pop-up window?](CppQtShowModal.htm)
 ===========================================================================================================================================
 
  
 
-[How to show a dialog modally?](CppQtShowModal.htm) is a [QT
-FAQ](CppQtFaq.htm) one has to know the answer of for pop-up windows.
+[How to show a dialog modally?](CppQtShowModal.md) is a [QT
+FAQ](CppQtFaq.md) one has to know the answer of for pop-up windows.
 
  
 
@@ -56,15 +56,15 @@ Project and source code
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): Qt4 [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 

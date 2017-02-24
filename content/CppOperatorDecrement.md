@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [operator--](CppOperatorDecrement.htm)
+([C++](Cpp.md)) [operator--](CppOperatorDecrement.md)
 =======================================================
 
  
 
-[operator--](CppOperatorDecrement.htm) (also called the [decrement
-operator](CppOperatorDecrement.htm)) decreases an
-[integer](CppInt.htm)'s value by one. To increase an
-[integer](CppInt.htm)'s value by one, use
-[operator++](CppOperatorIncrement.htm)
+[operator--](CppOperatorDecrement.md) (also called the [decrement
+operator](CppOperatorDecrement.md)) decreases an
+[integer](CppInt.md)'s value by one. To increase an
+[integer](CppInt.md)'s value by one, use
+[operator++](CppOperatorIncrement.md)
 
  
 
-[operator--](CppOperatorDecrement.htm) has a pre-fix and post-fix form,
+[operator--](CppOperatorDecrement.md) has a pre-fix and post-fix form,
 which are '--i' and 'i--' respectively. The prefix form
-[returns](CppReturn.htm) the value of i its new value, the postfix form
-[returns](CppReturn.htm) the value of i before its decrement. Prefer
+[returns](CppReturn.md) the value of i its new value, the postfix form
+[returns](CppReturn.md) the value of i before its decrement. Prefer
 '--i' over 'i--' \[1\].
 
  
@@ -40,7 +40,7 @@ which are '--i' and 'i--' respectively. The prefix form
  
 
 There are four ways to decrement a value by 1, that make use of
-different [operators](CppOperator.htm) and some of temporary copies.
+different [operators](CppOperator.md) and some of temporary copies.
 
  
 
@@ -66,7 +66,7 @@ different [operators](CppOperator.htm) and some of temporary copies.
 
  
 
-[Overloading](CppOverload.htm) [operator--](CppOperatorDecrement.htm)
+[Overloading](CppOverload.md) [operator--](CppOperatorDecrement.md)
 ---------------------------------------------------------------------
 
  
@@ -85,12 +85,12 @@ different [operators](CppOperator.htm) and some of temporary copies.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Item 19.5.7:
     'Prefer ++p to p++'
 

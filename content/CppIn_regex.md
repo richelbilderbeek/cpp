@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [In\_regex](CppIn_regex.htm)
+([C++](Cpp.md)) [In\_regex](CppIn_regex.md)
 =============================================
 
  
 
-[In\_regex](CppIn_regex.htm) is a [predicate](CppPredicate.htm) that
-determines if a a [character](CppChar.htm) matches a regular expression.
+[In\_regex](CppIn_regex.md) is a [predicate](CppPredicate.md) that
+determines if a a [character](CppChar.md) matches a regular expression.
 
  
 

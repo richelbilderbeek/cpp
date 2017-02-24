@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::copy\_backward](CppCopy_backward.htm)
+([C++](Cpp.md)) [std::copy\_backward](CppCopy_backward.md)
 ============================================================
 
  
 
-[std::copy\_backward](CppCopy_backward.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to [copy](CppCopy.htm) a
-[container](CppContainer.htm) to the end of another.
-[std::copy\_backward](CppCopy_backward.htm) does not reverse the order
-of the copied [container](CppContainer.htm), use
-[std::reverse](CppReverse.htm)[to do so.]()
+[std::copy\_backward](CppCopy_backward.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to [copy](CppCopy.md) a
+[container](CppContainer.md) to the end of another.
+[std::copy\_backward](CppCopy_backward.md) does not reverse the order
+of the copied [container](CppContainer.md), use
+[std::reverse](CppReverse.md)[to do so.]()
 
  
 

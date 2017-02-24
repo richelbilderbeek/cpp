@@ -12,30 +12,30 @@
 
  
 
-([C++](Cpp.htm)) [StrToDouble](CppStrToDouble.htm)
+([C++](Cpp.md)) [StrToDouble](CppStrToDouble.md)
 ==================================================
 
  
 
-[StrToDouble](CppStrToDouble.htm) is a [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
-[std::string](CppString.htm) to [double](CppDouble.htm).
-[DoubleToStr](CppDoubleToStr.htm) [converts](CppConvert.htm) an
-[double](CppDouble.htm) to [std::string](CppString.htm).
+[StrToDouble](CppStrToDouble.md) is a [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
+[std::string](CppString.md) to [double](CppDouble.md).
+[DoubleToStr](CppDoubleToStr.md) [converts](CppConvert.md) an
+[double](CppDouble.md) to [std::string](CppString.md).
 
  
 
-[StrToDouble](CppStrToDouble.htm) has multiple versions:
+[StrToDouble](CppStrToDouble.md) has multiple versions:
 
 -   ![C++98](PicCpp98.png)![STL](PicStl.png)
-    [StrToDouble](CppStrToDouble.htm) using the [C++98](Cpp98.htm) and
-    the [STL](CppStl.htm)
+    [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and
+    the [STL](CppStl.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png)
-    [StrToDouble](CppStrToDouble.htm) using the [C++98](Cpp98.htm) and
-    the [Boost](CppBoost.htm) [library](CppLibrary.htm)
+    [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and
+    the [Boost](CppBoost.md) [library](CppLibrary.md)
 -   ![C++11](PicCpp11.png)![STL](PicStl.png)
-    [StrToDouble](CppStrToDouble.htm) using the [C++11](Cpp11.htm) and
-    the [STL](CppStl.htm)
+    [StrToDouble](CppStrToDouble.md) using the [C++11](Cpp11.md) and
+    the [STL](CppStl.md)
 
  
 
@@ -47,12 +47,12 @@ snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) a
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.htm) using the [C++98](Cpp98.htm) and the [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and the [STL](CppStl.htm)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  
 
-Uses [std::atof](CppAtof.htm).
+Uses [std::atof](CppAtof.md).
 
  
 
@@ -70,12 +70,12 @@ Uses [std::atof](CppAtof.htm).
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) [StrToDouble](CppStrToDouble.htm) using the [C++98](Cpp98.htm) and the [Boost](CppBoost.htm) [library](CppLibrary.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and the [Boost](CppBoost.htm) [library](CppLibrary.htm)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
 
-Uses [boost::lexical\_cast](CppLexical_cast.htm).
+Uses [boost::lexical\_cast](CppLexical_cast.md).
 
  
 
@@ -93,12 +93,12 @@ Uses [boost::lexical\_cast](CppLexical_cast.htm).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.htm) using the [C++11](Cpp11.htm) and the [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.md) using the [C++11](Cpp11.md) and the [STL](CppStl.htm)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  
 
-Uses [std::stod](CppStod.htm).
+Uses [std::stod](CppStod.md).
 
  
 
@@ -116,7 +116,7 @@ Uses [std::stod](CppStod.htm).
 
  
 
-[StrToDouble](CppStrToDouble.htm) testing code
+[StrToDouble](CppStrToDouble.md) testing code
 ----------------------------------------------
 
  

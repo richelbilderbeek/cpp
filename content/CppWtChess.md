@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtChess](CppWtChess.htm)
+([C++](Cpp.md)) [WtChess](CppWtChess.md)
 ==========================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CppWtChess](CppWtChess.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[CppWtChess](CppWtChess.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 to display a chess game.
 
 Technical facts
@@ -125,5 +125,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

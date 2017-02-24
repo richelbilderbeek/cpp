@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WRasterImage](CppWRasterImage.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WRasterImage](CppWRasterImage.md)
 =========================================================================
 
  
 
-[Wt::WRasterImage](CppWRasterImage.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WRasterImage](CppWRasterImage.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WRasterImage](CppWRasterImage.htm) is used in, among others:
+[Wt::WRasterImage](CppWRasterImage.md) is used in, among others:
 
 -   ...
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::ifstream](CppIfstream.htm)
+([C++](Cpp.md)) [std::ifstream](CppIfstream.md)
 =================================================
 
  
 
-[std::ifstream](CppIfstream.htm) is an [STL](CppStl.htm) file input
-[stream](CppStream.htm).
+[std::ifstream](CppIfstream.md) is an [STL](CppStl.md) file input
+[stream](CppStream.md).
 
  
 
@@ -30,7 +30,7 @@
 
  
 
-Example: [CopyFile](CppCopyFile.htm)
+Example: [CopyFile](CppCopyFile.md)
 ------------------------------------
 
  

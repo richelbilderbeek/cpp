@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [ConvertToGrey](CppConvertToGrey.htm)
+([C++](Cpp.md)) [ConvertToGrey](CppConvertToGrey.md)
 ======================================================
 
  
 
-[ConvertToGrey](CppConvertToGrey.htm) is a [graphics](CppGraphics.htm)
-[code snippet](CppCodeSnippets.htm) to convert a color [VCL](CppVcl.htm)
-[TImage](CppTImage.htm) to a grey [TImage](CppTImage.htm).
+[ConvertToGrey](CppConvertToGrey.md) is a [graphics](CppGraphics.md)
+[code snippet](CppCodeSnippets.md) to convert a color [VCL](CppVcl.md)
+[TImage](CppTImage.md) to a grey [TImage](CppTImage.md).
 
  
 
 In [the 'ConvertToGrey' example image](CppConvertToGrey.png) you see an
 original color image, this image [converted to
-grey](CppConvertToGrey.htm) and the result of [a histogram
-equalization](CppDoHistogramEqualization.htm) on the grey image.
+grey](CppConvertToGrey.md) and the result of [a histogram
+equalization](CppDoHistogramEqualization.md) on the grey image.
 
  
 

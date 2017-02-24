@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [DoFilterOperation](CppDoFilterOperation.htm)
+([C++](Cpp.md)) [DoFilterOperation](CppDoFilterOperation.md)
 ==============================================================
 
  
 
-[Graphics](CppGraphics.htm) and [math](CppMath.htm) [code
-Snippet](CppCodeSnippets.htm) to perform a filter operation (also called
+[Graphics](CppGraphics.md) and [math](CppMath.md) [code
+Snippet](CppCodeSnippets.md) to perform a filter operation (also called
 a convolution) on an image. This image is a 2D
-[std::vector](CppVector.htm) of [int](CppInt.htm) (y-x-ordered).
+[std::vector](CppVector.md) of [int](CppInt.md) (y-x-ordered).
 
  
 
-The [tool](Tools.htm) [FilterOperationer](ToolFilterOperationer.htm)
-demonstrates the use of [DoFilterOperation](CppDoFilterOperation.htm).
+The [tool](Tools.md) [FilterOperationer](ToolFilterOperationer.md)
+demonstrates the use of [DoFilterOperation](CppDoFilterOperation.md).
 
  
 

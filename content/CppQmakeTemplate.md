@@ -12,37 +12,37 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [TEMPLATE (qmake variable)](CppQmakeTemplate.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [TEMPLATE (qmake variable)](CppQmakeTemplate.md)
 ===================================================================================
 
  
 
-[TEMPLATE](CppQmakeTemplate.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[TEMPLATE](CppQmakeTemplate.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 
-The value of [TEMPLATE](CppQmakeTemplate.htm) determines the kind of
-[makefile](CppMakefile.htm) that [qmake](CppQmake.htm) will produce.
-[TEMPLATE](CppQmakeTemplate.htm) can have the following values \[1\]:
+The value of [TEMPLATE](CppQmakeTemplate.md) determines the kind of
+[makefile](CppMakefile.md) that [qmake](CppQmake.md) will produce.
+[TEMPLATE](CppQmakeTemplate.md) can have the following values \[1\]:
 
--   ![ ](PicSpacer.png) app: create a [makefile](CppMakefile.htm) for
+-   ![ ](PicSpacer.png) app: create a [makefile](CppMakefile.md) for
     applications (default)
--   ![ ](PicSpacer.png) lib: create a [makefile](CppMakefile.htm) for
-    building a [library](CppLibrary.htm)
--   ![ ](PicSpacer.png) subdirs: create a [makefile](CppMakefile.htm)
+-   ![ ](PicSpacer.png) lib: create a [makefile](CppMakefile.md) for
+    building a [library](CppLibrary.md)
+-   ![ ](PicSpacer.png) subdirs: create a [makefile](CppMakefile.md)
     for building targets in subdirectories. The subdirectories are
-    specified with [SUBDIRS](CppQmakeSubdirs.htm)
+    specified with [SUBDIRS](CppQmakeSubdirs.md)
 -   ![Windows](PicWindows.png) vcapp: create a
-    [makefile](CppMakefile.htm) for building a [Visual
-    Studio](CppVisualStudio.htm) application
+    [makefile](CppMakefile.md) for building a [Visual
+    Studio](CppVisualStudio.md) application
 -   ![Windows](PicWindows.png) vclib: create a
-    [makefile](CppMakefile.htm) for building a [Visual
-    Studio](CppVisualStudio.htm) [library](CppLibrary.htm)
+    [makefile](CppMakefile.md) for building a [Visual
+    Studio](CppVisualStudio.md) [library](CppLibrary.md)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

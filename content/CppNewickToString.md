@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [NewickToString](CppNewickToString.htm)
+([C++](Cpp.md)) [NewickToString](CppNewickToString.md)
 ========================================================
 
  
 
-[NewickToString](CppNewickToString.htm) is a [Newick](CppNewick.htm)
-[code snippets](CppCodeSnippets.htm) to convert a
-[Newick](CppNewick.htm) to [std::string](CppString.htm).
+[NewickToString](CppNewickToString.md) is a [Newick](CppNewick.md)
+[code snippets](CppCodeSnippets.md) to convert a
+[Newick](CppNewick.md) to [std::string](CppString.md).
 
  
 

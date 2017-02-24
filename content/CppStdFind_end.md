@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::find\_end](CppFind_end.htm)
+([C++](Cpp.md)) [std::find\_end](CppFind_end.md)
 ==================================================
 
  
 
-[std::find\_end](CppFind_end.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to find the last occurrence of a sequence
-in a [container](CppContainer.htm).
+[std::find\_end](CppFind_end.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to find the last occurrence of a sequence
+in a [container](CppContainer.md).
 
  
 

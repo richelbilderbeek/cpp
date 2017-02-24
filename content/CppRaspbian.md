@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Raspbian](PicRaspbian.png) [Raspbian](Raspbian.htm)
+([C++](Cpp.md)) ![Raspbian](PicRaspbian.png) [Raspbian](Raspbian.md)
 ======================================================================
 
  
 
  
 
-[Raspbian](Cpp0x.htm) is one of the [operating systems](CppOs.htm)
-possible on the [Raspberry Pi](Rpi.htm).
+[Raspbian](Cpp0x.md) is one of the [operating systems](CppOs.md)
+possible on the [Raspberry Pi](Rpi.md).
 
  
 
-[Raspbian](Cpp0x.htm) can be [emulated](CppEmulate.htm) by
-[qemu](CppQemu.htm).
+[Raspbian](Cpp0x.md) can be [emulated](CppEmulate.md) by
+[qemu](CppQemu.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MultipleChoiceQuestionDialog](CppMultipleChoiceQuestionDialog.htm)
+([C++](Cpp.md)) [MultipleChoiceQuestionDialog](CppMultipleChoiceQuestionDialog.md)
 ====================================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[MultipleChoiceQuestionDialog](CppMultipleChoiceQuestionDialog.htm) is a
-dialog for [MultipleChoiceQuestion](CppMultipleChoiceQuestion.htm).
+[MultipleChoiceQuestionDialog](CppMultipleChoiceQuestionDialog.md) is a
+dialog for [MultipleChoiceQuestion](CppMultipleChoiceQuestion.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

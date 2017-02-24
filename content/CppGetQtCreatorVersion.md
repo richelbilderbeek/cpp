@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetQtCreatorVersion](CppGetQtCreatorVersion.htm)
+([C++](Cpp.md)) [GetQtCreatorVersion](CppGetQtCreatorVersion.md)
 ==================================================================
 
  
 
-[GetQtCreatorVersion](CppGetQtCreatorVersion.htm) is a
-[version](CppVersion.htm) [code snippet](CppCodeSnippets.htm) to obtain
+[GetQtCreatorVersion](CppGetQtCreatorVersion.md) is a
+[version](CppVersion.md) [code snippet](CppCodeSnippets.md) to obtain
 the version of Qt Creator.
 
  
@@ -41,34 +41,34 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.48
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.48
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -81,7 +81,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppGetQtCreatorVersion.pro
+[Qt project file](CppQtProjectFile.md): CppGetQtCreatorVersion.pro
 -------------------------------------------------------------------
 
  
@@ -128,5 +128,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,37 +12,37 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png)![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png)![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md)
 ===============================================================================================
 
  
 
-[Qt Creator](CppQtCreator.htm) is an [IDE](CppIde.htm) that can be used
-on many platforms (for example [Mac](CppMac.htm),
-[Ubuntu](CppUbuntu.htm) and [Windows](CppWindows.htm)), can be used to
-develop for multiple types of [applications](CppApplication.htm) (for
-example [console](CppConsoleApplication.htm),
-[mobile](CppMobileApplication.htm) and [web](CppWebApplication.htm)
-[applications](CppApplication.htm)) on multiple platforms (for example
-[Android](CppAndroid.htm), [Nintendo DS](CppNds.htm) and
-[Symbian](CppSymbian.htm)).
+[Qt Creator](CppQtCreator.md) is an [IDE](CppIde.md) that can be used
+on many platforms (for example [Mac](CppMac.md),
+[Ubuntu](CppUbuntu.md) and [Windows](CppWindows.md)), can be used to
+develop for multiple types of [applications](CppApplication.md) (for
+example [console](CppConsoleApplication.md),
+[mobile](CppMobileApplication.md) and [web](CppWebApplication.md)
+[applications](CppApplication.md)) on multiple platforms (for example
+[Android](CppAndroid.md), [Nintendo DS](CppNds.md) and
+[Symbian](CppSymbian.md)).
 
  
 
-[Qt Creator](CppQtCreator.htm) by default comes installed with the
-[STL](CppStl.htm) and [Qt](CppQt.htm) [libraries](CppLibrary.htm).
+[Qt Creator](CppQtCreator.md) by default comes installed with the
+[STL](CppStl.md) and [Qt](CppQt.md) [libraries](CppLibrary.htm).
 
  
 
-[Qt Creator](CppQtCreator.htm) works with multiple file types:
+[Qt Creator](CppQtCreator.md) works with multiple file types:
 
--   [.pro](CppQtProjectFile.htm): a Qt Creator project file: contains
+-   [.pro](CppQtProjectFile.md): a Qt Creator project file: contains
     all info to build your project
 -   .pri: a Qt Creator include project file: same as a .pro file, except
     that it is to be included by a .pro file
 -   .qrc: a Qt Creator resources file
--   .h: a [header file](CppHeaderFile.htm)
--   .cpp: an [implementation file](CppImplementationFile.htm)
+-   .h: a [header file](CppHeaderFile.md)
+-   .cpp: an [implementation file](CppImplementationFile.md)
 -   .ui: a Qt graphical user interface file
 
  
@@ -56,20 +56,20 @@ example [console](CppConsoleApplication.htm),
  
 
 -   [How to create a 'Hello World' program
-    (console)?](CppQtHelloWorldConsole.htm)
+    (console)?](CppQtHelloWorldConsole.md)
 -   [How to create a windowed 'Hello World'
-    program?](CppQtHelloWorldWindowed.htm)
+    program?](CppQtHelloWorldWindowed.md)
 -   [How to create a windowed 'Hello World' program using the GUI
-    designer?](CppQtHelloWorldWindowedGui.htm) (like
+    designer?](CppQtHelloWorldWindowedGui.md) (like
     [this](CppQtHelloWorldWindowedGui9.png))
--   [Qt Creator FAQ](CppQtFaq.htm)
--   [Installing Qt Creator](CppQtCreatorInstall.htm)
--   [Qt Creator keyboard shortcuts](CppQtCreatorKeyboardShortcuts.htm)
--   [Qt Creator macro's](CppQtCreatorMacro.htm)
--   [Qt modules](CppQtModule.htm)
--   [Qt Creator project files](CppQtProjectFile.htm)
--   [qmake](CppQmake.htm)
--   [Running Qt Creator under Wine](CppQtCreatorWineUbuntu.htm)
+-   [Qt Creator FAQ](CppQtFaq.md)
+-   [Installing Qt Creator](CppQtCreatorInstall.md)
+-   [Qt Creator keyboard shortcuts](CppQtCreatorKeyboardShortcuts.md)
+-   [Qt Creator macro's](CppQtCreatorMacro.md)
+-   [Qt modules](CppQtModule.md)
+-   [Qt Creator project files](CppQtProjectFile.md)
+-   [qmake](CppQmake.md)
+-   [Running Qt Creator under Wine](CppQtCreatorWineUbuntu.md)
 
  
 

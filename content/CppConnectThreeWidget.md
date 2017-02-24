@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ConnectThreeWidget](CppConnectThreeWidget.htm)
+([C++](Cpp.md)) [ConnectThreeWidget](CppConnectThreeWidget.md)
 ================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[ConnectThreeWidget](CppConnectThreeWidget.htm) is a
-[widget](CppWidget.htm) for a [ConnectThree game](GameConnectThree.htm).
+[ConnectThreeWidget](CppConnectThreeWidget.md) is a
+[widget](CppWidget.md) for a [ConnectThree game](GameConnectThree.md).
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

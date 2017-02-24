@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [ConvertMatrix](CppConvertMatrix.htm)
+([C++](Cpp.md)) [ConvertMatrix](CppConvertMatrix.md)
 ======================================================
 
  
 
-[Container](CppContainer.htm) [code snippet](CppCodeSnippets.htm) that
-[converts](CppConvert.htm) a
-[std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;X&gt;
+[Container](CppContainer.md) [code snippet](CppCodeSnippets.md) that
+[converts](CppConvert.md) a
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;X&gt;
 &gt; to
-[std::vector](CppVector.htm)&lt;[std::vector](CppVector.htm)&lt;Y&gt;
-&gt; using [static\_cast](CppStatic_cast.htm).
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;Y&gt;
+&gt; using [static\_cast](CppStatic_cast.md).
 
  
 

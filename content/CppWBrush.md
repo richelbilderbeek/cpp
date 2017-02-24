@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WBrush](CppWBrush.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WBrush](CppWBrush.md)
 =============================================================
 
  
 
-[Wt::WBrush](CppWBrush.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WBrush](CppWBrush.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a timer.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WBrush](CppWBrush.htm) is used in, among others:
+[Wt::WBrush](CppWBrush.md) is used in, among others:
 
 -   ...
 

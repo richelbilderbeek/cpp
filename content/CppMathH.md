@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [math.h](CppMathH.htm)
+([C++](Cpp.md)) [math.h](CppMathH.md)
 =======================================
 
  
 
-[math.h](CppMathH.htm) is the name of a C [header
-file](CppHeaderFile.htm). In [C++](Cpp.htm), use
-[cmath.h](CppCmathH.htm) instead.
+[math.h](CppMathH.md) is the name of a C [header
+file](CppHeaderFile.md). In [C++](Cpp.md), use
+[cmath.h](CppCmathH.md) instead.
 
  
 

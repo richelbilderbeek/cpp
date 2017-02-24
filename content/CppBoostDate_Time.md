@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Date\_Time](CppBoostDate_Time.htm)
+([C++](Cpp.md)) [Boost.Date\_Time](CppBoostDate_Time.md)
 ==========================================================
 
  
 
-The [Boost.Date\_Time](CppBoostDate_Time.htm) [library](CppLibrary.htm)
-is a cross-platform [library](CppLibrary.htm) for working with time and
-dates. It is part of [Boost](CppBoost.htm).
+The [Boost.Date\_Time](CppBoostDate_Time.md) [library](CppLibrary.md)
+is a cross-platform [library](CppLibrary.md) for working with time and
+dates. It is part of [Boost](CppBoost.md).
 
  
 
@@ -31,13 +31,13 @@ dates. It is part of [Boost](CppBoost.htm).
 
  
 
-[Boost.Date\_Time](CppBoostDate_Time.htm) examples
+[Boost.Date\_Time](CppBoostDate_Time.md) examples
 --------------------------------------------------
 
  
 
--   [GetTime](CppGetTime.htm)
--   [GetToday](CppGetToday.htm)
+-   [GetTime](CppGetTime.md)
+-   [GetToday](CppGetToday.md)
 
  
 
@@ -49,13 +49,13 @@ dates. It is part of [Boost](CppBoost.htm).
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent a [link error](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent a [link error](CppLinkError.md)):
 
  
 

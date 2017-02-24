@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [ConvertVector](CppConvertVector.htm)
+([C++](Cpp.md)) [ConvertVector](CppConvertVector.md)
 ======================================================
 
  
 
-[Convert](CppConvert.htm) [code snippet](CppCodeSnippets.htm) to
-[convert](CppConvert.htm) [std::vector](CppVector.htm)&lt;X&gt; to
-[std::vector](CppVector.htm)&lt;Y&gt; using
-[boost::lexical\_cast](CppLexical_cast.htm).
+[Convert](CppConvert.md) [code snippet](CppCodeSnippets.md) to
+[convert](CppConvert.md) [std::vector](CppVector.md)&lt;X&gt; to
+[std::vector](CppVector.md)&lt;Y&gt; using
+[boost::lexical\_cast](CppLexical_cast.md).
 
  
 

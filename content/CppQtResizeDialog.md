@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to resize a dialog?](CppQtResizeDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to resize a dialog?](CppQtResizeDialog.md)
 ==================================================================================
 
  
@@ -24,7 +24,7 @@ There are multiple options:
     any\_width,int any\_height)
 3.  this-&gt;setGeometry(QRect any\_rect)
 
-Resize [this](CppThis.htm) in a [member function](CppMemberFunction.htm)
+Resize [this](CppThis.md) in a [member function](CppMemberFunction.md)
 of the dialog.
 
  
@@ -35,7 +35,7 @@ of the dialog.
 
  
 
-[Example 10](CppQtExample10.htm) shows how to implement a resize event.
+[Example 10](CppQtExample10.md) shows how to implement a resize event.
 
  
 

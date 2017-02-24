@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::getline](CppGetline.htm)
+([C++](Cpp.md)) [std::getline](CppGetline.md)
 ===============================================
 
  
 
-[std::getline](CppGetline.htm) is an [STL](CppStl.htm) [user
-I/O](CppUserIo.htm) [function](CppFunction.htm) to read a line of input.
+[std::getline](CppGetline.md) is an [STL](CppStl.md) [user
+I/O](CppUserIo.md) [function](CppFunction.md) to read a line of input.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Only member functions may be 'const' or 'volatile'](CppCompileErrorOnlyMemberFunctionsMayBeConstOrVolatile.htm)
+([C++](Cpp.md)) [Only member functions may be 'const' or 'volatile'](CppCompileErrorOnlyMemberFunctionsMayBeConstOrVolatile.md)
 =================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console
 
@@ -80,7 +80,7 @@ Solution
 
  
 
-Remove the [const](CppConst.htm) or [volatile](CppVolatile.htm).
+Remove the [const](CppConst.md) or [volatile](CppVolatile.md).
 
  
 

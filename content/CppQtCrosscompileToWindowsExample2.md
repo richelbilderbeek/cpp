@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 2: Hello Qt](CppQtCrosscompileToWindowsExample2.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 2: Hello Qt](CppQtCrosscompileToWindowsExample2.md)
 =============================================================================================================================================================
 
  
@@ -24,8 +24,8 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
  
 
 This is example 2, and a solution of unknown viability in answering the
-[Qt FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
+[Qt FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -60,7 +60,7 @@ Project information
 
  
 
-Project is a standard [Hello Qt](CppHelloQt.htm) program
+Project is a standard [Hello Qt](CppHelloQt.md) program
 
 Exceptions:
 

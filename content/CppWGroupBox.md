@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WGroupBox](CppWGroupBox.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WGroupBox](CppWGroupBox.md)
 ===================================================================
 
  
 
-[Wt::WGroupBox](CppWGroupBox.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WGroupBox](CppWGroupBox.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WGroupBox](CppWGroupBox.htm) is used in, among others:
+[Wt::WGroupBox](CppWGroupBox.md) is used in, among others:
 
 -   ...
 

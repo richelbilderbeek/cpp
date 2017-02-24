@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [RunOtherProgram](CppRunOtherProgram.htm)
+([C++](Cpp.md)) [RunOtherProgram](CppRunOtherProgram.md)
 ==========================================================
 
  
@@ -24,8 +24,8 @@ it displays the output on screen.
 
  
 
-Assumes you have already declared the [FileExists](CppFileExists.htm)
-and [FileToVector](CppFileToVector.htm) functions.
+Assumes you have already declared the [FileExists](CppFileExists.md)
+and [FileToVector](CppFileToVector.md) functions.
 
  
 

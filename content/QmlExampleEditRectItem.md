@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QmlExampleEditRectItem](QmlExampleEditRectItem.htm)
+([C++](Cpp.md)) [QmlExampleEditRectItem](QmlExampleEditRectItem.md)
 =====================================================================
 
  
@@ -26,5 +26,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

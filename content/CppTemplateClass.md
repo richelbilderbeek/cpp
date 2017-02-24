@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Template class](CppTemplateClass.htm)
+([C++](Cpp.md)) [Template class](CppTemplateClass.md)
 =======================================================
 
  
 
-A [template class](CppTemplateClass.htm) is a [class](CppClass.htm) that
-takes a [template](CppTemplate.htm) parameter. Or: a [template
-class](CppTemplateClass.htm) defines how a group of
-[classes](CppClass.htm) should be generated, as opposed to a
-[class](CppClass.htm) in C++ as being how the group of objects should be
+A [template class](CppTemplateClass.md) is a [class](CppClass.md) that
+takes a [template](CppTemplate.md) parameter. Or: a [template
+class](CppTemplateClass.md) defines how a group of
+[classes](CppClass.md) should be generated, as opposed to a
+[class](CppClass.md) in C++ as being how the group of objects should be
 generated:
 
  
@@ -32,13 +32,13 @@ generated:
 
  
 
-Many [STL](CppStl.htm) [classes](CppClass.htm) are [template
-classes](CppTemplateClass.htm).
+Many [STL](CppStl.md) [classes](CppClass.md) are [template
+classes](CppTemplateClass.md).
 
  
 
-There is no semantic difference between [class](CppClass.htm) and
-[typename](CppTypename.htm) in a template-parameter \[1\].
+There is no semantic difference between [class](CppClass.md) and
+[typename](CppTypename.md) in a template-parameter \[1\].
 
  
 
@@ -56,19 +56,19 @@ Examples
  
 
 -   [Example 1: class holding a templated member
-    variable](CppTemplateClassExample1.htm)
+    variable](CppTemplateClassExample1.md)
 -   [Example 2: class that has a class template
-    type](CppTemplateClassExample2.htm)
+    type](CppTemplateClassExample2.md)
 -   [Example 3: class that has an integer template
-    type](CppTemplateClassExample3.htm)
+    type](CppTemplateClassExample3.md)
 -   [Example 4: class that has an enum class template
-    type](CppTemplateClassExample4.htm)
+    type](CppTemplateClassExample4.md)
 -   [Example 5: copy policy of integer
-    class](CppTemplateClassExample5.htm)
+    class](CppTemplateClassExample5.md)
 -   [Example 6: copy policy of template class type, two specialized
-    classes](CppTemplateClassExample6.htm)
+    classes](CppTemplateClassExample6.md)
 -   [Example 7: copy policy of template class type, two partially
-    specialized classes](CppTemplateClassExample7.htm)
+    specialized classes](CppTemplateClassExample7.md)
 
  
 
@@ -80,7 +80,7 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -107,5 +107,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

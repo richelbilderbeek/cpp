@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [FAQ](CppFaq.htm)
+([C++](Cpp.md)) [FAQ](CppFaq.md)
 ==================================
 
  
@@ -25,28 +25,28 @@
 
  
 
-[C++](Cpp.htm)
+[C++](Cpp.md)
 --------------
 
  
 
--   [Should I learn C before C++?](CppLearnCbeforeCpp.htm)
--   [Which books should I read to learn C++?](CppBooks.htm)
+-   [Should I learn C before C++?](CppLearnCbeforeCpp.md)
+-   [Which books should I read to learn C++?](CppBooks.md)
 -   [Why do you put multiple versions of the same code on your
-    site?](CppWhyMultipleCode.htm)
+    site?](CppWhyMultipleCode.md)
 -   [Why do you put sub-optimal code on your
-    site?](CppWhySubOptimalCode.htm)
+    site?](CppWhySubOptimalCode.md)
 -   [Why do you put so much trivial code on your
-    site?](CppWhyTrivialCode.htm)
--   [Why do you use \[a certain style/syntax\]?](CppStyle.htm)
--   [What is the simplest program?](CppHelloWorld.htm)
--   [How to cross-compile my code?](CppCrossCompile.htm)
--   [How to port my code?](CppPort.htm)
--   [How to create a chat application?](CppChat.htm)
--   [How to use Qt Creator to compile C code?](CppCompilerC.htm)
--   [How to suppress -Weffc++ errors?](CppSuppressEffCppErrors.htm)
+    site?](CppWhyTrivialCode.md)
+-   [Why do you use \[a certain style/syntax\]?](CppStyle.md)
+-   [What is the simplest program?](CppHelloWorld.md)
+-   [How to cross-compile my code?](CppCrossCompile.md)
+-   [How to port my code?](CppPort.md)
+-   [How to create a chat application?](CppChat.md)
+-   [How to use Qt Creator to compile C code?](CppCompilerC.md)
+-   [How to suppress -Weffc++ errors?](CppSuppressEffCppErrors.md)
 -   [Will it pay off to replace the use of doubles by a custom class
-    using integers?](CppReplaceDoubleByCustomClassUsingIntegers.htm)
+    using integers?](CppReplaceDoubleByCustomClassUsingIntegers.md)
 
  
 
@@ -64,17 +64,17 @@ Misc
  
 
 -   [Why don't you correct the spelling errors in your
-    name?](CppWhySpellingError.htm)
--   [How do you pronounce your name?](CppPronounceName.htm)
--   [What are the goals of this website?](CppGoal.htm)
--   [Why are so many links broken?](CppBrokenLinks.htm)
--   [Why are some pages messy?](CppMessyPages.htm)
+    name?](CppWhySpellingError.md)
+-   [How do you pronounce your name?](CppPronounceName.md)
+-   [What are the goals of this website?](CppGoal.md)
+-   [Why are so many links broken?](CppBrokenLinks.md)
+-   [Why are some pages messy?](CppMessyPages.md)
 -   [Why don't you make your website look
-    modern?](CppWhyNoModernWebsite.htm)
--   [Why use pictograms and what do they mean?](CppPictograms.htm)
--   [Why is your website in English?](CppWhyEnglish.htm)
--   [How do I contact you?](Contact.htm)
--   [When may I contact you?](Contact.htm)
+    modern?](CppWhyNoModernWebsite.md)
+-   [Why use pictograms and what do they mean?](CppPictograms.md)
+-   [Why is your website in English?](CppWhyEnglish.md)
+-   [How do I contact you?](Contact.md)
+-   [When may I contact you?](Contact.md)
 
  
 
@@ -92,11 +92,11 @@ Other FAQ pages
  
 
 -   ![C++ Builder](PicCppBuilder.png) [C++ Builder FAQ
-    page](CppBuilderFaq.htm)
--   ![ ](PicSpacer.png) [Dev C++ FAQ page](CppDevCppFaq.htm)
--   ![Qt Creator](PicQtCreator.png) [Qt Creator FAQ page](CppQtFaq.htm)
--   ![Symbian](PicSymbian.png) [Symbian FAQ page](CppSymbianFaq.htm)
--   ![Wt](PicWt.png) [Wt FAQ page](CppWtFaq.htm)
+    page](CppBuilderFaq.md)
+-   ![ ](PicSpacer.png) [Dev C++ FAQ page](CppDevCppFaq.md)
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator FAQ page](CppQtFaq.md)
+-   ![Symbian](PicSymbian.png) [Symbian FAQ page](CppSymbianFaq.md)
+-   ![Wt](PicWt.png) [Wt FAQ page](CppWtFaq.md)
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::queue](CppQueue.htm)
+([C++](Cpp.md)) [std::queue](CppQueue.md)
 ===========================================
 
  
 
-[std::queue](CppQueue.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) for FIFO ('First In, First Out') storage
+[std::queue](CppQueue.md) is an [STL](CppStl.md)
+[container](CppContainer.md) for FIFO ('First In, First Out') storage
 of elements.
 
  

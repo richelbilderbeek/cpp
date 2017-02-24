@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WPushButton](CppWPushButton.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WPushButton](CppWPushButton.md)
 =======================================================================
 
  
 
-[Wt::WPushButton](CppWPushButton.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a push button.
+[Wt::WPushButton](CppWPushButton.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a push button.
 
  
 
@@ -35,12 +35,12 @@ Examples
 
  
 
-[Wt::WPushButton](CppWPushButton.htm) is used in, among others:
+[Wt::WPushButton](CppWPushButton.md) is used in, among others:
 
--   [RandomCode](ToolRandomCode.htm)
--   [TestAsciiArter](ToolTestAsciiArter.htm)
--   [TestEncranger](ToolTestEncranger.htm)
--   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.htm)
+-   [RandomCode](ToolRandomCode.md)
+-   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [TestEncranger](ToolTestEncranger.md)
+-   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)
 
  
 

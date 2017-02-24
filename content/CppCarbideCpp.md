@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Carbide.C/C++](CppCarbideCpp.htm)
+([C++](Cpp.md)) [Carbide.C/C++](CppCarbideCpp.md)
 ===================================================
 
  
 
-[Carbide.C/C++](CppCarbideCpp.htm) is [Windows](CppWindows.htm) program
-for [Symbian](CppSymbian.htm) development.
+[Carbide.C/C++](CppCarbideCpp.md) is [Windows](CppWindows.md) program
+for [Symbian](CppSymbian.md) development.
 
  
 
-[Carbide.C/C++](CppCarbideCpp.htm) can be used under [Wine](CppWine.htm)
-under [Ubuntu](CppUbuntu.htm) as well.
+[Carbide.C/C++](CppCarbideCpp.md) can be used under [Wine](CppWine.md)
+under [Ubuntu](CppUbuntu.md) as well.
 
  
 

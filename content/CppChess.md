@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Chess](CppChess.htm)
+([C++](Cpp.md)) [Chess](CppChess.md)
 ======================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Chess](CppChess.htm) has many chess [classes](CppClass.htm)
+[Chess](CppChess.md) has many chess [classes](CppClass.md)
 
 Technical facts
 ---------------
@@ -979,5 +979,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

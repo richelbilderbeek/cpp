@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) [wchar.h:718: error: expected initializer before 'throw' (while using i586-mingw32msvc)](CppCompileErrorWcharHexpectedInitializerBeforeThrowI586-mingw32msvc.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) [wchar.h:718: error: expected initializer before 'throw' (while using i586-mingw32msvc)](CppCompileErrorWcharHexpectedInitializerBeforeThrowI586-mingw32msvc.md)
 =========================================================================================================================================================================================================================================================================================================================================
 
  
 
 Version of [wchar.h:718: error: expected initializer before
-'throw'](CppCompileErrorWcharHexpectedInitializerBeforeThrow.htm) when
-using [i586-mingw32msvc](CppI586-mingw32msvc.htm).
+'throw'](CppCompileErrorWcharHexpectedInitializerBeforeThrow.md) when
+using [i586-mingw32msvc](CppI586-mingw32msvc.md).
 
  
 
-[Compile error](CppCompileError.htm) ([BEI](CppBei.htm) 1) I encountered
+[Compile error](CppCompileError.md) ([BEI](CppBei.md) 1) I encountered
 while busy solving [How to cross-compile a Qt Creator project from
 Ubuntu to a windows executable: example 3: console application with a
-Boost library](CppQtCrosscompileToWindowsExample3.htm).
+Boost library](CppQtCrosscompileToWindowsExample3.md).
 
  
 
@@ -52,7 +52,7 @@ Quick solution
 Re-install mingw32. For me, that solved this error, but still needed to
 solve the following error ([stdio.h:430: error: expected initializer
 before
-'throw'](CppCompileErrorStdioHexpectedInitializerBeforeThrow.htm)).
+'throw'](CppCompileErrorStdioHexpectedInitializerBeforeThrow.md)).
 
  
 
@@ -71,7 +71,7 @@ System specifics
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): gedit
+[IDE](CppIde.md): gedit
 
  
 
@@ -107,9 +107,9 @@ Process
 
  
 
-Because I was trying to solve the [Qt FAQ](CppQtFaq.htm) [How to
+Because I was trying to solve the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm), I compiled the code as
+executable?](CppQtCrosscompileToWindows.md), I compiled the code as
 follows:
 
  
@@ -160,8 +160,8 @@ Take a look at /usr/include/whar.h line 718:
 
  
 
-It seems as if a re-[throw](CppThrow.htm) (that is, a
-[throw](CppThrow.htm) without arguments) is unsupported by
+It seems as if a re-[throw](CppThrow.md) (that is, a
+[throw](CppThrow.md) without arguments) is unsupported by
 i586-mingw32msvc-g++. Is it true that wchar.h is a C library file, as
 stated in its licence?
 

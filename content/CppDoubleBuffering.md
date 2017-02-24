@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Double buffering](CppDoubleBuffering.htm)
+([C++](Cpp.md)) [Double buffering](CppDoubleBuffering.md)
 ===========================================================
 
  
 
 Technique to prevent flicker when working with
-[graphics](CppGraphics.htm) (it has nothing to do with the [data
-type](CppDataType.htm) [double](CppDouble.htm)).
+[graphics](CppGraphics.md) (it has nothing to do with the [data
+type](CppDataType.md) [double](CppDouble.md)).
 
  
 
@@ -29,8 +29,8 @@ invisible buffer, then drawing this buffer to screen.
  
 
 Drawing to screen directly is called single buffering and causes
-flicker. Single buffering and [double buffering](CppDoubleBuffering.htm)
-can be compared using the program [DemoBuffering](CppDemoBuffering.htm).
+flicker. Single buffering and [double buffering](CppDoubleBuffering.md)
+can be compared using the program [DemoBuffering](CppDemoBuffering.md).
 
  
 
@@ -39,7 +39,7 @@ To clean a buffer, often the background is drawn on the buffer first.
  
 
 In C++ Builder, this looks somewhat like the code below (but see the
-program [DemoBuffering](CppDemoBuffering.htm) for a complete program):
+program [DemoBuffering](CppDemoBuffering.md) for a complete program):
 
  
 

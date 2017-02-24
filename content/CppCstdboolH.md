@@ -12,24 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [cstdbool.h](CppCstdboolH.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [cstdbool.h](CppCstdboolH.md)
 ======================================================================
 
  
 
-[cstdbool.h](CppCstdboolH.htm) is a standard [header
-file](CppHeaderFile.htm) (since the [C++11](Cpp11.htm)
-[standard](CppStandard.htm)).
+[cstdbool.h](CppCstdboolH.md) is a standard [header
+file](CppHeaderFile.md) (since the [C++11](Cpp11.md)
+[standard](CppStandard.md)).
 
  
 
-Use [cstdbool.h](CppCstdboolH.htm) facilities such as
-[std::steady\_clock](CppSteady_clock.htm), [duration](CppDuration.htm),
-and [std::time\_point](CppTime_point.htm) for timing \[1\].
-
- 
-
- 
+Use [cstdbool.h](CppCstdboolH.md) facilities such as
+[std::steady\_clock](CppSteady_clock.md), [duration](CppDuration.md),
+and [std::time\_point](CppTime_point.md) for timing \[1\].
 
  
 
@@ -37,12 +33,16 @@ and [std::time\_point](CppTime_point.htm) for timing \[1\].
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 35.6.
     Advice. page 159: '\[1\] Use &lt;chrono&gt; facilities, such as
     steady\_clock, duration and time\_point for timing'

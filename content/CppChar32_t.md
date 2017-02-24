@@ -12,20 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [char32\_t](CppChar32_t.htm)
+([C++](Cpp.md)) [char32\_t](CppChar32_t.md)
 =============================================
 
  
 
-An [char32\_t](CppChar32_t.htm) is a [keyword](CppKeyword.htm) that can
-be used, depending on the [standard](CppStandard.htm) used:
+An [char32\_t](CppChar32_t.md) is a [keyword](CppKeyword.md) that can
+be used, depending on the [standard](CppStandard.md) used:
 
--   ![C++98](PicCpp98.png) [char32\_t](CppChar32_t.htm) in the
-    [C++98](Cpp98.htm) [standard](CppStandard.htm)
--   ![C++11](PicCpp11.png) [char32\_t](CppChar32_t.htm) in the
-    [C++11](Cpp11.htm) [standard](CppStandard.htm)
-
- 
+-   ![C++98](PicCpp98.png) [char32\_t](CppChar32_t.md) in the
+    [C++98](Cpp98.md) [standard](CppStandard.md)
+-   ![C++11](PicCpp11.png) [char32\_t](CppChar32_t.md) in the
+    [C++11](Cpp11.md) [standard](CppStandard.md)
 
  
 
@@ -35,12 +33,14 @@ be used, depending on the [standard](CppStandard.htm) used:
 
  
 
-![C++98](PicCpp98.png) [char32\_t](CppChar32_t.htm) in the [C++98](Cpp98.htm) [standard](CppStandard.htm)
+ 
+
+![C++98](PicCpp98.png) [char32\_t](CppChar32_t.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
 ---------------------------------------------------------------------------------------------------------
 
  
 
-[char32\_t](CppChar32_t.htm) is not supported in [C++98](Cpp98.htm):
+[char32\_t](CppChar32_t.md) is not supported in [C++98](Cpp98.md):
 
  
 
@@ -68,7 +68,7 @@ Compiler output:
 
  
 
-![C++11](PicCpp11.png) [char32\_t](CppChar32_t.htm) in the [C++11](Cpp11.htm) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [char32\_t](CppChar32_t.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
 ---------------------------------------------------------------------------------------------------------
 
  
@@ -78,8 +78,8 @@ Compiler output:
 
  
 
-[char32\_t](CppChar32_t.htm) is a [keyword](CppKeyword.htm) for a 32-bit
-[character](CppChar.htm).
+[char32\_t](CppChar32_t.md) is a [keyword](CppKeyword.md) for a 32-bit
+[character](CppChar.md).
 
  
 
@@ -89,10 +89,10 @@ Compiler output:
 
  
 
-Technical note: the code shown is [compiled](CppCompile.htm)
-successfully using the [G++](CppGpp.htm) 4.4.5
-[compiler](CppCompiler.htm), which is supplied with the [Qt
-Creator](CppQtCreator.htm) 2.0.0 [IDE](CppIde.htm).
+Technical note: the code shown is [compiled](CppCompile.md)
+successfully using the [G++](CppGpp.md) 4.4.5
+[compiler](CppCompiler.md), which is supplied with the [Qt
+Creator](CppQtCreator.md) 2.0.0 [IDE](CppIde.md).
 
  
 

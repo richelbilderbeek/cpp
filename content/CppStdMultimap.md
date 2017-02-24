@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::multimap](CppMultimap.htm)
+([C++](Cpp.md)) [std::multimap](CppMultimap.md)
 =================================================
 
  
 
-[std::multimap](CppMultimap.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) similar to [std::map](CppMap.htm), except
+[std::multimap](CppMultimap.md) is an [STL](CppStl.md)
+[container](CppContainer.md) similar to [std::map](CppMap.md), except
 that it can hold multiple values for one key.
 
  
@@ -29,8 +29,8 @@ that it can hold multiple values for one key.
 
  
 
-The [std::string](CppString.htm) is the key (in this case a last name)
-and the **[int](CppInt.htm)** is termed the value (in this case the
+The [std::string](CppString.md) is the key (in this case a last name)
+and the **[int](CppInt.md)** is termed the value (in this case the
 persons telephone numbers).
 
  
@@ -55,8 +55,8 @@ Example
 
 To add a key-value-pair, use std::multimap&lt;T&gt;::insert. To find a
 range of values, use std::multimap&lt;T&gt;::equal\_range. This [member
-function](CppMemberFunction.htm) [returns](CppReturn.htm) a
-[std::pair](CppPair.htm) of [iterators](CppIterator.htm).
+function](CppMemberFunction.md) [returns](CppReturn.md) a
+[std::pair](CppPair.md) of [iterators](CppIterator.md).
 
  
 
@@ -103,5 +103,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

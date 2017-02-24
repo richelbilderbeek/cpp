@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WFileUpload](CppWFileUpload.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WFileUpload](CppWFileUpload.md)
 =======================================================================
 
  
 
-[Wt::WFileUpload](CppWFileUpload.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) to upload a file.
+[Wt::WFileUpload](CppWFileUpload.md) is a [Wt](CppWt.md)
+[class](CppClass.md) to upload a file.
 
  
 
@@ -35,12 +35,12 @@ Examples
 
  
 
-[Wt::WFileUpload](CppWFileUpload.htm) is used in, among others:
+[Wt::WFileUpload](CppWFileUpload.md) is used in, among others:
 
--   [ProjectGtst](ProjectGtst.htm)
--   [ProjectWtWebsite](ProjectWtWebsite.htm)
--   [TestAsciiArter](ToolTestAsciiArter.htm)
--   [WtTextUploader](CppWtTextUploader.htm)
+-   [ProjectGtst](ProjectGtst.md)
+-   [ProjectWtWebsite](ProjectWtWebsite.md)
+-   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [WtTextUploader](CppWtTextUploader.md)
 
  
 

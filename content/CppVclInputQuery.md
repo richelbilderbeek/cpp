@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [InputQuery](CppVclInputQuery.htm)
+([C++](Cpp.md)) [InputQuery](CppVclInputQuery.md)
 ===================================================
 
  
 
-A [VCL dialog](CppVclDialog.htm) asking for a value.
+A [VCL dialog](CppVclDialog.md) asking for a value.
 
  
 
-To use [InputQuery](CppVclInputQuery.htm) , [\#include](CppInclude.htm)
-the [header file](CppHeaderFile.htm) dialogs.hpp.
+To use [InputQuery](CppVclInputQuery.md) , [\#include](CppInclude.md)
+the [header file](CppHeaderFile.md) dialogs.hpp.
 
  
 
@@ -33,9 +33,9 @@ the [header file](CppHeaderFile.htm) dialogs.hpp.
  
 
 If the user clicks Cancel or Close, the
-[InputQuery](CppVclInputQuery.htm) [returns](CppReturn.htm)
-[false](CppFalse.htm), else it [returns](CppReturn.htm)
-[true](CppTrue.htm) and the input is given in userInput.
+[InputQuery](CppVclInputQuery.md) [returns](CppReturn.md)
+[false](CppFalse.md), else it [returns](CppReturn.md)
+[true](CppTrue.md) and the input is given in userInput.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Misc error: the project's target could not be found](CppMiscErrorTheProjectsTargetCouldNotBeFound.htm)
+([C++](Cpp.md)) [Misc error: the project's target could not be found](CppMiscErrorTheProjectsTargetCouldNotBeFound.md)
 ========================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -58,11 +58,11 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
  
 
-Every [C++ Builder](CppBuilder.htm) project consist of a .bpr and .cpp
+Every [C++ Builder](CppBuilder.md) project consist of a .bpr and .cpp
 file.
 
  

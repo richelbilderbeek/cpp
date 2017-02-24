@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Boost signal example 1: comparing Boost and Qt](CppBoostSignalExample1.htm)
+([C++](Cpp.md)) [Boost signal example 1: comparing Boost and Qt](CppBoostSignalExample1.md)
 =============================================================================================
 
  
 
-This [Boost signal](CppBoostSignal.htm) example shows both the use of
-[Boost signals](CppBoostSignal.htm) and [Qt signals](CppQtSignal.htm).
+This [Boost signal](CppBoostSignal.md) example shows both the use of
+[Boost signals](CppBoostSignal.md) and [Qt signals](CppQtSignal.md).
 
  
 
-The [article](CppArticle.htm) [From Qt signal to Boost
-signal](CppFromQtSignalToBoostSignal.htm) describes why and how to move
-from using [Qt signals](CppQtSignal.htm) to using [Boost
-signals](CppBoostSignal.htm).
+The [article](CppArticle.md) [From Qt signal to Boost
+signal](CppFromQtSignalToBoostSignal.md) describes why and how to move
+from using [Qt signals](CppQtSignal.md) to using [Boost
+signals](CppBoostSignal.md).
 
  
 
@@ -47,33 +47,33 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  
@@ -86,7 +86,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppSignal.pro
+[Qt project file](CppQtProjectFile.md): CppSignal.pro
 ------------------------------------------------------
 
  

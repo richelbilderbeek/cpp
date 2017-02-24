@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::equal\_range](CppEqual_range.htm)
+([C++](Cpp.md)) [std::equal\_range](CppEqual_range.md)
 ========================================================
 
  
 
-[std::equal\_range](CppEqual_range.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to obtain the range equal to a certain
-value in a [container](CppContainer.htm).
+[std::equal\_range](CppEqual_range.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to obtain the range equal to a certain
+value in a [container](CppContainer.md).
 
  
 

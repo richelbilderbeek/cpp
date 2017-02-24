@@ -14,13 +14,13 @@ X
 
  
 
-([C++](Cpp.htm)) [std::make\_pair](CppMake_pair.htm)
+([C++](Cpp.md)) [std::make\_pair](CppMake_pair.md)
 ====================================================
 
  
 
-[std::make\_pair](CppMake_pair.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to create a [std::pair](CppPair.htm).
+[std::make\_pair](CppMake_pair.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to create a [std::pair](CppPair.md).
 
  
 

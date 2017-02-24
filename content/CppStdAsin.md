@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::asin](CppAsin.htm)
+([C++](Cpp.md)) [std::asin](CppAsin.md)
 =========================================
 
  
 
-[std::asin](CppAsin.htm) is a [mathematical](CppMath.htm)
-[function](CppFunction.htm) to calculate the arc sine.
+[std::asin](CppAsin.md) is a [mathematical](CppMath.md)
+[function](CppFunction.md) to calculate the arc sine.
 
  
 

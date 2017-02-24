@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [operator==](CppOperatorEqual.htm)
+([C++](Cpp.md)) [operator==](CppOperatorEqual.md)
 ===================================================
 
  
 
-[operator==](CppOperatorEqual.htm) is the [operator](CppOperator.htm) to
-determine if two [instances](CppInstance.htm) are the same.
+[operator==](CppOperatorEqual.md) is the [operator](CppOperator.md) to
+determine if two [instances](CppInstance.md) are the same.
 
  
 
-The following code uses [operator==](CppOperatorEqual.htm) to determine
+The following code uses [operator==](CppOperatorEqual.md) to determine
 that one plus two is equal to three:
 
  
@@ -33,8 +33,8 @@ that one plus two is equal to three:
 
  
 
-[operator==](CppOperatorEqual.htm) is encapsulated by the
-[functor](CppFunctor.htm) [std::equal\_to](CppEqual_to.htm).
+[operator==](CppOperatorEqual.md) is encapsulated by the
+[functor](CppFunctor.md) [std::equal\_to](CppEqual_to.md).
 
  
 
@@ -46,12 +46,12 @@ that one plus two is equal to three:
 
  
 
-Overloading [operator==](CppOperatorEqual.htm) for a user-defined type
+Overloading [operator==](CppOperatorEqual.md) for a user-defined type
 ----------------------------------------------------------------------
 
  
 
-Prefer making [operator==](CppOperatorEqual.htm) a free function
+Prefer making [operator==](CppOperatorEqual.md) a free function
 \[1,2\].
 
  
@@ -75,17 +75,17 @@ Prefer making [operator==](CppOperatorEqual.htm) a free function
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Paragraph 9.1.2, page 596: 'The
     conclusion is that operator== should always be a free function,
     regardless of what other functions are involved'
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
 
  

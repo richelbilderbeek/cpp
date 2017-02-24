@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::printf](CppPrintf.htm)
+([C++](Cpp.md)) [std::printf](CppPrintf.md)
 =============================================
 
  
 
-[std::printf](CppPrintf.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to write formatted output to
-[std::cout](CppCout.htm).
+[std::printf](CppPrintf.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to write formatted output to
+[std::cout](CppCout.md).
 
  
 
-[std::printf](CppPrintf.htm) is not typesafe (see example below). For a
-type-safe alternative, use [boost::format](CppFormat.htm) instead.
+[std::printf](CppPrintf.md) is not typesafe (see example below). For a
+type-safe alternative, use [boost::format](CppFormat.md) instead.
 
  
 

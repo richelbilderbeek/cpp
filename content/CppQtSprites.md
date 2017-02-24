@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtSprites](CppQtSprites.htm)
+([C++](Cpp.md)) [QtSprites](CppQtSprites.md)
 ==============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtSprites](CppQtSprites.htm) is a [class](CppClass.htm) containing
+[QtSprites](CppQtSprites.md) is a [class](CppClass.md) containing
 sprites.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

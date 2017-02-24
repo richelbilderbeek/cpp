@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Flood::Matrix](CppFloodMatrix.htm)
+([C++](Cpp.md)) [Flood::Matrix](CppFloodMatrix.md)
 ====================================================
 
  
 
-[Flood::Matrix](CppFloodMatrix.htm) is the [Flood](CppFlood.htm) version
-of a [matrix](CppMatrix.htm).
+[Flood::Matrix](CppFloodMatrix.md) is the [Flood](CppFlood.md) version
+of a [matrix](CppMatrix.md).
 
  
 
@@ -30,7 +30,7 @@ of a [matrix](CppMatrix.htm).
 
  
 
-[Flood::Matrix](CppFloodMatrix.htm) example
+[Flood::Matrix](CppFloodMatrix.md) example
 -------------------------------------------
 
  
@@ -59,7 +59,7 @@ Screen output:
 
  
 
-[Flood::Matrix](CppFloodMatrix.htm) [code snippets](CppCodeSnippets.htm)
+[Flood::Matrix](CppFloodMatrix.md) [code snippets](CppCodeSnippets.md)
 ------------------------------------------------------------------------
 
  

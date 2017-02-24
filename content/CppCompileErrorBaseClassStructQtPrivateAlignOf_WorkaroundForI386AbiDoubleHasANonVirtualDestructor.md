@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [base class 'struct QtPrivate::AlignOf\_WorkaroundForI386Abi&lt;double&gt;' has a non-virtual destructor](CppCompileErrorBaseClassStructQtPrivateAlignOf_WorkaroundForI386AbiDoubleHasANonVirtualDestructor.htm)
+([C++](Cpp.md)) [base class 'struct QtPrivate::AlignOf\_WorkaroundForI386Abi&lt;double&gt;' has a non-virtual destructor](CppCompileErrorBaseClassStructQtPrivateAlignOf_WorkaroundForI386AbiDoubleHasANonVirtualDestructor.md)
 =================================================================================================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -55,7 +55,7 @@ Cause
 
  
 
-The following code caused this [compile error](CppCompileError.htm):
+The following code caused this [compile error](CppCompileError.md):
 
  
 
@@ -65,21 +65,21 @@ The following code caused this [compile error](CppCompileError.htm):
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console
 
  
 
-The zero denotes that the MyClass [pointer](CppPointer.htm) is
-uninitialized. The [compiler](CppCompiler.htm), however, believes this
-zero denotes an [integer](CppInt.htm) value.
+The zero denotes that the MyClass [pointer](CppPointer.md) is
+uninitialized. The [compiler](CppCompiler.md), however, believes this
+zero denotes an [integer](CppInt.md) value.
 
  
 
-The code where the [compiler](CppCompiler.htm) takes you, in
+The code where the [compiler](CppCompiler.md) takes you, in
 \_algobase.h:
 
  

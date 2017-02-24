@@ -12,13 +12,13 @@
 
  
 
-([C++ tutorials](CppTutorial.htm)) [Boost.Graph tutorial](CppBoostGraphTutorial.htm)
+([C++ tutorials](CppTutorial.md)) [Boost.Graph tutorial](CppBoostGraphTutorial.md)
 ====================================================================================
 
  
 
-A [tutorial](CppTutorial.htm) about the [Boost.Graph](CppBoostGraph.htm)
-[library](CppLibrary.htm) that I have written.
+A [tutorial](CppTutorial.md) about the [Boost.Graph](CppBoostGraph.md)
+[library](CppLibrary.md) that I have written.
 
  
 

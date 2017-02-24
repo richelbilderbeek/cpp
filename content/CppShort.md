@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [short](CppShort.htm)
+([C++](Cpp.md)) [short](CppShort.md)
 ======================================
 
  
 
-[short](CppShort.htm) is a [data type](CppDataType.htm) like
-[int](CppInt.htm). Use [GetMaxInt](CppGetMaxInt.htm) and
-[GetMaxShort](CppGetMaxShort.htm) to compare their maximum values.
+[short](CppShort.md) is a [data type](CppDataType.md) like
+[int](CppInt.md). Use [GetMaxInt](CppGetMaxInt.md) and
+[GetMaxShort](CppGetMaxShort.md) to compare their maximum values.
 
  
 
-Avoid using [short](CppShort.htm) in a [class](CppClass.htm)
-[interface](CppInterface.htm); use [int](CppInt.htm) instead \[1\].
+Avoid using [short](CppShort.md) in a [class](CppClass.md)
+[interface](CppInterface.md); use [int](CppInt.md) instead \[1\].
 
  
 
@@ -42,12 +42,12 @@ Avoid using [short](CppShort.htm) in a [class](CppClass.htm)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 9.2.1: 'Avoid using short in the
     interface; use int instead'
 

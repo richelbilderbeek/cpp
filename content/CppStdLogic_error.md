@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [std::logic\_error](CppLogic_error.htm)
+([C++](Cpp.md)) [std::logic\_error](CppLogic_error.md)
 ========================================================
 
  
 
 An exception that theoretically can be detected by reading the code
-(opposite of the [std::runtime\_error](CppRuntime_error.htm), that
+(opposite of the [std::runtime\_error](CppRuntime_error.md), that
 cannot be detected).
 
  
 
-In the [exception hierarchy](CppExceptionHierarchy.htm),
-[std::logic\_error](CppLogic_error.htm) has
-[std::exception](CppException.htm) as its [base
-class](CppBaseClass.htm).
+In the [exception hierarchy](CppExceptionHierarchy.md),
+[std::logic\_error](CppLogic_error.md) has
+[std::exception](CppException.md) as its [base
+class](CppBaseClass.md).
 
  
 
-[std::logic\_error](CppLogic_error.htm) is the [base
-class](CppBaseClass.htm) of [std::domain\_error](CppDomain_error.htm),
-[std::invalid\_argument](CppInvalid_argument.htm),
-[std::length\_error](CppLength_error.htm) and
-[std::out\_of\_range](CppOut_of_range.htm).
+[std::logic\_error](CppLogic_error.md) is the [base
+class](CppBaseClass.md) of [std::domain\_error](CppDomain_error.md),
+[std::invalid\_argument](CppInvalid_argument.md),
+[std::length\_error](CppLength_error.md) and
+[std::out\_of\_range](CppOut_of_range.md).
 
  
 

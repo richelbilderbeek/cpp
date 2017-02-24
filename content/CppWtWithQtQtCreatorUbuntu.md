@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png)![Qt](PicQt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Wt with Qt under Qt Creator under Ubuntu](CppWtWithQtQtCreatorUbuntu.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png)![Qt](PicQt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Wt with Qt under Qt Creator under Ubuntu](CppWtWithQtQtCreatorUbuntu.md)
 ===================================================================================================================================================================================
 
  
 
-[Wt with Qt](CppWtWithQt.htm) under [Qt Creator](CppQtCreator.htm) under
-[Ubuntu](CppUbuntu.htm) does not compile.
+[Wt with Qt](CppWtWithQt.md) under [Qt Creator](CppQtCreator.md) under
+[Ubuntu](CppUbuntu.md) does not compile.
 
  
 
@@ -28,7 +28,7 @@
  
 
 A more modified version of the code can be found at [Wt with Qt under Qt
-Creator under Lubuntu](CppWtWithQtQtCreatorLubuntu.htm), which does
+Creator under Lubuntu](CppWtWithQtQtCreatorLubuntu.md), which does
 compile, but results in a runtime error.
 
  
@@ -46,33 +46,33 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
--   ![Web](PicWeb.png) [Web application](CppWebApplication.htm)
+-   ![Web](PicWeb.png) [Web application](CppWebApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.2
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  
 
@@ -84,7 +84,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppWtWithQt.pro
+[Qt project file](CppQtProjectFile.md): CppWtWithQt.pro
 --------------------------------------------------------
 
  

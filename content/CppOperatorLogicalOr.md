@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator||](CppOperatorLogicalOr.htm)
+([C++](Cpp.md)) [operator||](CppOperatorLogicalOr.md)
 =======================================================
 
  
 
-[operator||](CppOperatorLogicalOr.htm) (pronounced as 'logical or
-operator') is an [operator](CppOperator.htm) to state that at least one
+[operator||](CppOperatorLogicalOr.md) (pronounced as 'logical or
+operator') is an [operator](CppOperator.md) to state that at least one
 of multiple conditions must be true. In the example below, both the
 username 'Bilderbikkel' and 'Parachutemeisje' are correct.
 

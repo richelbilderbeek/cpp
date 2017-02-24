@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetGccVersion](CppGetGccVersion.htm)
+([C++](Cpp.md)) [GetGccVersion](CppGetGccVersion.md)
 ======================================================
 
  
 
-[GetGccVersion](CppGetGccVersion.htm) is a [version](CppVersion.htm)
-[code snippets](CppCodeSnippets.htm) to obtain the
-[version](CppVersion.htm) of the current [GCC](CppGcc.htm) in use.
+[GetGccVersion](CppGetGccVersion.md) is a [version](CppVersion.md)
+[code snippets](CppCodeSnippets.md) to obtain the
+[version](CppVersion.md) of the current [GCC](CppGcc.md) in use.
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [main](CppMain.htm)
+([C++](Cpp.md)) [main](CppMain.md)
 ====================================
 
  
 
-The [main](CppMain.htm) [function](CppFunction.htm) is the entry point
-of your program. Have [main](CppMain.htm) [catch](CppCatch.htm) and
+The [main](CppMain.md) [function](CppFunction.md) is the entry point
+of your program. Have [main](CppMain.md) [catch](CppCatch.md) and
 report every exception \[7\].
 
  
@@ -47,29 +47,29 @@ What does this all mean?
 
  
 
-1.  '**[int](CppInt.htm)** [main](CppMain.htm)': means that
-    [main](CppMain.htm) is a [function](CppFunction.htm)
-    [returning](CppReturn.htm) an [integer](CppInt.htm). This
-    [integer](CppInt.htm) is an error code given back to the [operating
-    system](CppOs.htm) the program has run on.
-2.  '(**[int](CppInt.htm)** [argc](CppArgc.htm), [char](CppChar.htm)\*
-    [argv](CppArgv.htm)\[\])' means that the [function](CppFunction.htm)
-    takes two [arguments](CppArgument.htm):
-    1.  '**[int](CppInt.htm)** [argc](CppArgc.htm)': [argc](CppArgc.htm)
+1.  '**[int](CppInt.md)** [main](CppMain.md)': means that
+    [main](CppMain.md) is a [function](CppFunction.md)
+    [returning](CppReturn.md) an [integer](CppInt.md). This
+    [integer](CppInt.md) is an error code given back to the [operating
+    system](CppOs.md) the program has run on.
+2.  '(**[int](CppInt.md)** [argc](CppArgc.md), [char](CppChar.htm)\*
+    [argv](CppArgv.md)\[\])' means that the [function](CppFunction.md)
+    takes two [arguments](CppArgument.md):
+    1.  '**[int](CppInt.md)** [argc](CppArgc.md)': [argc](CppArgc.htm)
         is an abbreviation of 'argument count'. It is a (positive)
-        [integer](CppInt.htm). This give you the number of parameters
+        [integer](CppInt.md). This give you the number of parameters
         the user entered when starting the program, which equals 1 if he
         didn't enter parameters.
-    2.  '[char](CppChar.htm)\* [argv](CppArgv.htm)\[\]': an
-        [array](CppArray.htm) of [pointers](CppPointer.htm) to type
-        [char](CppChar.htm) (say: '[character](CppChar.htm)
-        [pointer](CppPointer.htm)'). In [argv](CppArgv.htm), all the
+    2.  '[char](CppChar.md)\* [argv](CppArgv.md)\[\]': an
+        [array](CppArray.md) of [pointers](CppPointer.md) to type
+        [char](CppChar.md) (say: '[character](CppChar.md)
+        [pointer](CppPointer.md)'). In [argv](CppArgv.md), all the
         arguments are stored that the user entered when starting
         the program. At index 0, the program's name is stored.
 
  
 
-When [main](CppMain.htm)'s closing bracket is reached, the effect is
+When [main](CppMain.md)'s closing bracket is reached, the effect is
 equivalent to \[6,8\]:
 
  
@@ -80,7 +80,7 @@ equivalent to \[6,8\]:
 
  
 
-You could leave out the arguments of [main](CppMain.htm). Then the
+You could leave out the arguments of [main](CppMain.md). Then the
 correct syntax depends on whether you program in C or C++.
 
  
@@ -95,15 +95,15 @@ Correct C syntax is:
 
  
 
-Unlike C, where one writes [void](CppVoid.htm) when a
-[function](CppFunction.htm) does not have arguments, in C++, when a
-[function](CppFunction.htm) has no arguments, nothing is written between
-the brackets. See the [void](CppVoid.htm) for more detailed discussion
+Unlike C, where one writes [void](CppVoid.md) when a
+[function](CppFunction.md) does not have arguments, in C++, when a
+[function](CppFunction.md) has no arguments, nothing is written between
+the brackets. See the [void](CppVoid.md) for more detailed discussion
 and references.
 
  
 
-Correct C++ syntax of a [main](CppMain.htm)() that does not use its
+Correct C++ syntax of a [main](CppMain.md)() that does not use its
 arguments, is \[1\]:
 
  
@@ -115,14 +115,14 @@ arguments, is \[1\]:
  
 
 Note that the standard states that the closing bracket of
-[main](CppMain.htm)() must have the same effect of returning zero
+[main](CppMain.md)() must have the same effect of returning zero
 \[6,8\]. Therefore, return zero can be omitted, but many people like to
 keep it in.
 
  
 
 Incorrect/non-standard is \[1-5\] (although with some
-[compilers](CppCompiler.htm) it might [compile](CppCompile.htm)):
+[compilers](CppCompiler.md) it might [compile](CppCompile.md)):
 
  
 
@@ -173,7 +173,7 @@ Should I use void main() or int main()?
 
  
 
-[int](CppInt.htm) [main](CppMain.htm)() \[1-5\].
+[int](CppInt.md) [main](CppMain.md)() \[1-5\].
 
  
 
@@ -190,8 +190,8 @@ Should I use int main() or int main(void)?
 
  
 
--   C: [int](CppInt.htm) [main](CppMain.htm)([void](CppVoid.htm)) \[9\]
--   C++: [int](CppInt.htm) [main](CppMain.htm)() \[9\]
+-   C: [int](CppInt.md) [main](CppMain.md)([void](CppVoid.htm)) \[9\]
+-   C++: [int](CppInt.md) [main](CppMain.md)() \[9\]
 
  
 
@@ -203,7 +203,7 @@ Should I use int main() or int main(void)?
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -217,10 +217,10 @@ Should I use int main() or int main(void)?
       ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
      
-3.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++.
+3.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN:0-201-61562-2. Item 21: void main() is nonstandard
     and nonportable.
-4.  From [Bjarne Stroustrup](CppBjarneStroustrup.htm)'s homepage
+4.  From [Bjarne Stroustrup](CppBjarneStroustrup.md)'s homepage
     (http://www.research.att.com/\~bs/bs\_faq2.html\#void-main):\
      \
       -------------------------------------------------------------------------------------------------------------------------------
@@ -239,7 +239,7 @@ Should I use int main() or int main(void)?
      
 6.  C++. International Standard. ISO/IEC 14882. Second edition.
     Paragraph 3.6.1.5
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 13.7.
     Advice. page 387: '\[27\] 'Have main() catch and report every
     exception'

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [CodeBreaker](CppCodeBreaker.htm)
+([C++](Cpp.md)) [CodeBreaker](CppCodeBreaker.md)
 ==================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[CodeBreaker](CppCodeBreaker.htm) contains some classes to break
+[CodeBreaker](CppCodeBreaker.md) contains some classes to break
 multiple ciphers.
 
 Technical facts
@@ -105,5 +105,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [TwoDigitNewick](CppTwoDigitNewick.htm)
+([C++](Cpp.md)) [TwoDigitNewick](CppTwoDigitNewick.md)
 ========================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[TwoDigitNewick](CppTwoDigitNewick.htm) is a [Newick](CppNewick.htm)
-[class](CppClass.htm).
+[TwoDigitNewick](CppTwoDigitNewick.md) is a [Newick](CppNewick.md)
+[class](CppClass.md).
 
 Technical facts
 ---------------
@@ -258,5 +258,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

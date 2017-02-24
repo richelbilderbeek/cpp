@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [MultiVector](CppMultiVector.htm)
+([C++](Cpp.md)) [MultiVector](CppMultiVector.md)
 ==================================================
 
  
@@ -22,14 +22,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[MultiVector](CppMultiVector.htm) is a [container](CppContainer.htm)
-[class](CppClass.htm) to store elements at indices of any
+[MultiVector](CppMultiVector.md) is a [container](CppContainer.md)
+[class](CppClass.md) to store elements at indices of any
 dimensionality.
 
  
 
-[MultiVector](CppMultiVector.htm) is demonstrated/tested with the
-[tool](Tools.htm) [TestMultiVector](ToolTestMultiVector.htm).
+[MultiVector](CppMultiVector.md) is demonstrated/tested with the
+[tool](Tools.md) [TestMultiVector](ToolTestMultiVector.md).
 
 Technical facts
 ---------------
@@ -112,5 +112,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

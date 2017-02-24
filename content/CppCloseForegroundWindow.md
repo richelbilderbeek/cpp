@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CloseForegroundWindow](CppCloseForegroundWindow.htm)
+([C++](Cpp.md)) [CloseForegroundWindow](CppCloseForegroundWindow.md)
 ======================================================================
 
  
 
-[CloseForegroundWindow](CppCloseForegroundWindow.htm) us a
-[Windows](CppWindows.htm) [code snippet](CppCodeSnippets.htm) to
+[CloseForegroundWindow](CppCloseForegroundWindow.md) us a
+[Windows](CppWindows.md) [code snippet](CppCodeSnippets.md) to
 minimize the foreground window.
 
  
@@ -46,5 +46,5 @@ minimize the foreground window.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

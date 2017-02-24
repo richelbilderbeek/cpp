@@ -12,38 +12,38 @@
 
  
 
-([C++](Cpp.htm)) [Cast](CppCast.htm)
+([C++](Cpp.md)) [Cast](CppCast.md)
 ====================================
 
  
 
-A [cast](CppCast.htm) is used to convert one [data
-type](CppDataType.htm) to another. Avoid [casts](CppCast.htm) \[4,7\].
+A [cast](CppCast.md) is used to convert one [data
+type](CppDataType.md) to another. Avoid [casts](CppCast.md) \[4,7\].
 Don't use C-style casts \[1-2,5\], but use one of the four C++ casting
 keywords instead \[1-3,5,8\].
 
  
 
-There are four [keywords](CppKeyword.htm) for the different types of
-[casts](CppCast.htm):
+There are four [keywords](CppKeyword.md) for the different types of
+[casts](CppCast.md):
 
-1.  [static\_cast](CppStatic_cast.htm): to cast related types, for
-    example [int](CppInt.htm) to [double](CppDouble.htm)
-2.  [dynamic\_cast](CppDynamic_cast.htm): to cast between types in an
-    [inheritance](CppInheritance.htm) hierarchy, for example from the
-    [base class](CppBaseClass.htm) ChessPiece to its [derived
-    class](CppDerivedClass.htm) Pawn
-3.  [const\_cast](CppConst_cast.htm)
-4.  [reinterpret\_cast](CppReinterpret_cast.htm)
+1.  [static\_cast](CppStatic_cast.md): to cast related types, for
+    example [int](CppInt.md) to [double](CppDouble.md)
+2.  [dynamic\_cast](CppDynamic_cast.md): to cast between types in an
+    [inheritance](CppInheritance.md) hierarchy, for example from the
+    [base class](CppBaseClass.md) ChessPiece to its [derived
+    class](CppDerivedClass.md) Pawn
+3.  [const\_cast](CppConst_cast.md)
+4.  [reinterpret\_cast](CppReinterpret_cast.md)
 
  
 
-It is also possible to [cast](CppCast.htm) [smart
-pointers](CppSmartPointer.htm):
+It is also possible to [cast](CppCast.md) [smart
+pointers](CppSmartPointer.md):
 
--   [static\_pointer\_cast](CppStatic_pointer_cast.htm)
--   [dynamic\_pointer\_cast](CppDynamic_pointer_cast.htm)
--   [const\_pointer\_cast](CppConst_pointer_cast.htm)
+-   [static\_pointer\_cast](CppStatic_pointer_cast.md)
+-   [dynamic\_pointer\_cast](CppDynamic_pointer_cast.md)
+-   [const\_pointer\_cast](CppConst_pointer_cast.md)
 -   shared\_static\_cast (deprecated \[6\])
 -   shared\_dynamic\_cast (deprecated \[6\])
 -   shared\_polymorphic\_cast (deprecated \[6\])
@@ -59,20 +59,20 @@ pointers](CppSmartPointer.htm):
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4 6.5.5: 'When explicit
     type conversion is necessary, prefer the more specific cast
     operators to the C-style cast'.
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 95:
     'Don't use C-style casts'.
-3.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+3.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Section D.4. Guidelines, chapter 9, page
     823: 'Consider avoiding 'cast' operators, especially to fundumental
     integral types; instead, make the conversion explicit'
@@ -88,10 +88,10 @@ pointers](CppSmartPointer.htm):
 6.  Comment in shared\_ptr.hpp (Boost version 1.49), line 536:
     'shared\_\*\_cast names are deprecated. Use \*\_pointer\_cast
     instead.'
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[12\] Avoid explicit type conversions (casts)'
-8.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 11.6.
     Advice. page 303: '\[13\] When explicit type conversion is
     necessary, prefer a named cast'

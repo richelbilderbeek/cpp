@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WComboBox](CppWComboBox.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WComboBox](CppWComboBox.md)
 ===================================================================
 
  
 
-[Wt::WComboBox](CppWComboBox.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a combobox.
+[Wt::WComboBox](CppWComboBox.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a combobox.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WComboBox](CppWComboBox.htm) is used in, among others:
+[Wt::WComboBox](CppWComboBox.md) is used in, among others:
 
 -   ...
 

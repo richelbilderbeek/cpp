@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png) [Installing the Android SDK](CppAndroidSdkInstall.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png) [Installing the Android SDK](CppAndroidSdkInstall.md)
 ==================================================================================================
 
  
 
-Installing the [Android SDK](CppAndroidSdk.htm) is dependent on your
-[operating system](CppOs.htm):
+Installing the [Android SDK](CppAndroidSdk.md) is dependent on your
+[operating system](CppOs.md):
 
 -   ![Ubuntu](PicUbuntu.png) [Installing the Android SDK under
-    Ubuntu](CppAndroidSdkInstallUbuntu.htm)
+    Ubuntu](CppAndroidSdkInstallUbuntu.md)
 
  
 

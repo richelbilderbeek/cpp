@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Lazy\_init](CppLazy_init.htm)
+([C++](Cpp.md)) [Lazy\_init](CppLazy_init.md)
 ===============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Lazy\_init](CppLazy_init.htm) is a [class](CppClass.htm)
+[Lazy\_init](CppLazy_init.md) is a [class](CppClass.md)
 
 with lazy initialization.
 
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

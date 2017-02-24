@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Point](CppPoint.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Point](CppPoint.md)
 =======================================================
 
  
 
-A [point](CppPoint.htm) can be a coordinat.
+A [point](CppPoint.md) can be a coordinat.
 
  
 
@@ -29,12 +29,12 @@ A [point](CppPoint.htm) can be a coordinat.
 
  
 
-[Point](CppPoint.htm) [classes](CppClass.htm)
+[Point](CppPoint.md) [classes](CppClass.md)
 ---------------------------------------------
 
  
 
--   [QPoint](CppQPoint.htm): a two-dimensional coordinat
+-   [QPoint](CppQPoint.md): a two-dimensional coordinat
 
  
 

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [AskUserForDouble](CppAskUserForDouble.htm)
+([C++](Cpp.md)) [AskUserForDouble](CppAskUserForDouble.md)
 ============================================================
 
  
 
-[AskUserForDouble](CppAskUserForDouble.htm) is a
-[std::string](CppString.htm) [code snippet](CppCodeSnippets.htm) to ask
+[AskUserForDouble](CppAskUserForDouble.md) is a
+[std::string](CppString.md) [code snippet](CppCodeSnippets.md) to ask
 the user for a single-line input (which is then converted to
-[double](CppDouble.htm)).
+[double](CppDouble.md)).
 
  
 

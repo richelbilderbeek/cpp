@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Internal Error COM-656](CppRuntimeErrorInternalErrorCom656.htm)
+([C++](Cpp.md)) [Internal Error COM-656](CppRuntimeErrorInternalErrorCom656.md)
 =================================================================================
 
  
 
-[Runtime error](CppRuntimeError.htm).
+[Runtime error](CppRuntimeError.md).
 
  
 
@@ -60,16 +60,16 @@ Cause
 
 Operating system: Windows XP
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0 Enterprise edition
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0 Enterprise edition
 
 Project type: unknown
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [VCL](CppVcl.htm): supplied with [C++ Builder](CppBuilder.htm) 6.0
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [VCL](CppVcl.md): supplied with [C++ Builder](CppBuilder.md) 6.0
     Enterprise edition
 
  

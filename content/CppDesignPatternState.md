@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [State](CppDesignPatternState.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [State](CppDesignPatternState.md) ([Design Pattern](CppDesignPattern.htm))
 ============================================================================================
 
  
 
-The [State](CppDesignPatternState.htm) is a [Design
-Pattern](CppDesignPattern.htm) to 'allow an object to alter its behavior
+The [State](CppDesignPatternState.md) is a [Design
+Pattern](CppDesignPattern.md) to 'allow an object to alter its behavior
 when its internal state changes. The object will appear to change its
 class' \[1\]
 
@@ -46,36 +46,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  
@@ -88,7 +88,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppDesignPatternState.pro
+[Qt project file](CppQtProjectFile.md): CppDesignPatternState.pro
 ------------------------------------------------------------------
 
  
@@ -335,17 +335,17 @@ state.h
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
-2.  [Eric Freeman](CppEricFreeman.htm), [Elisabeth
-    Freeman](CppElisabethFreeman.htm). Head First Design Patterns. 2004.
+2.  [Eric Freeman](CppEricFreeman.md), [Elisabeth
+    Freeman](CppElisabethFreeman.md). Head First Design Patterns. 2004.
     ISBN: 978-0-596-00712-6.
 
  

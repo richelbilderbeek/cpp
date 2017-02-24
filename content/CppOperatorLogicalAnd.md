@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator&&](CppOperatorLogicalAnd.htm)
+([C++](Cpp.md)) [operator&&](CppOperatorLogicalAnd.md)
 ========================================================
 
  
 
-[operator&&](CppOperatorLogicalAnd.htm) (pronounced as 'logical and
-operator') is an [operator](CppOperator.htm) to state that two
+[operator&&](CppOperatorLogicalAnd.md) (pronounced as 'logical and
+operator') is an [operator](CppOperator.md) to state that two
 conditions must be true. In the example below, both a username and
 password must be correct.
 

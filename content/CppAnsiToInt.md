@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [AnsiToInt](CppAnsiToInt.htm)
+([C++](Cpp.md)) [AnsiToInt](CppAnsiToInt.md)
 ==============================================
 
  
 
-[AnsiToInt](CppAnsiToInt.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[AnsiString](CppAnsiString.htm) to [integer](CppInt.htm).
+[AnsiToInt](CppAnsiToInt.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[AnsiString](CppAnsiString.md) to [integer](CppInt.md).
 
  
 

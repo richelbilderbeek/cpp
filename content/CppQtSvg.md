@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QtSvg](CppQtSvg.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QtSvg](CppQtSvg.md)
 =======================================================
 
  
 
-[QtSvg](CppQtSvg.htm) is a [QT](CppQt.htm) [module](CppQtModule.htm) for
-[scalable vector graphics](CppSvg.htm).
+[QtSvg](CppQtSvg.md) is a [QT](CppQt.md) [module](CppQtModule.htm) for
+[scalable vector graphics](CppSvg.md).
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-[QtSvg](CppQtSvg.htm) examples
+[QtSvg](CppQtSvg.md) examples
 ------------------------------
 
  
 
--   [TicTacToeLearner](ToolTicTacToeLearner.htm)
+-   [TicTacToeLearner](ToolTicTacToeLearner.md)
 
  
 
@@ -47,13 +47,13 @@
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
   ----------------------------------------------------------------------------------------------
   ` equals(QT_MAJOR_VERSION, 4): LIBS += -lQtSvg greaterThan(QT_MAJOR_VERSION, 4): QT +=  svg`

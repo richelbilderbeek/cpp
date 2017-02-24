@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Comparing shared\_ptrs](CppCompareShared_ptrs.htm)
+([C++](Cpp.md)) [Comparing shared\_ptrs](CppCompareShared_ptrs.md)
 ====================================================================
 
  
 
-This [article](CppArticle.htm) describes an architectural problem and
-then compares two solutions, using the [C++98](Cpp98.htm) and
-[C++11](Cpp11.htm) [standards](CppStandard.htm) respectively.
+This [article](CppArticle.md) describes an architectural problem and
+then compares two solutions, using the [C++98](Cpp98.md) and
+[C++11](Cpp11.md) [standards](CppStandard.md) respectively.
 
  
 
@@ -41,8 +41,8 @@ The problem
 
  
 
-Suppose you have a [class](CppClass.htm) called 'Test' you want to have
-managed. So, a [class](CppClass.htm) called 'Source' is written for
+Suppose you have a [class](CppClass.md) called 'Test' you want to have
+managed. So, a [class](CppClass.md) called 'Source' is written for
 simply this purpose. It is kind of a source, because it produces
 read-only versions of the Test managed by it. These read-only Tests are
 used by Observer.
@@ -84,15 +84,15 @@ of two).
 
  
 
-![C++98](PicCpp98.png) Solution \#1: use of the [C++98](Cpp98.htm) [boost::shared\_ptr](CppShared_ptr.htm)
+![C++98](PicCpp98.png) Solution \#1: use of the [C++98](Cpp98.md) [boost::shared\_ptr](CppShared_ptr.md)
 ----------------------------------------------------------------------------------------------------------
 
  
 
 When instead of the observer having a
-[boost::shared\_ptr](CppShared_ptr.htm)&lt;**[const](CppConst.htm)**
+[boost::shared\_ptr](CppShared_ptr.md)&lt;**[const](CppConst.md)**
 Test&gt;, this is changed to
-[boost::weak\_ptr](CppWeak_ptr.htm)&lt;**[const](CppConst.htm)**
+[boost::weak\_ptr](CppWeak_ptr.md)&lt;**[const](CppConst.md)**
 Test&gt;, the program will give a fine run-time error:
 
  
@@ -116,15 +116,15 @@ can be located easily.
 
  
 
-![C++11](PicCpp11.png) Solution \#2: use of the [C++11](Cpp11.htm) [std::shared\_ptr](CppShared_ptr.htm)
+![C++11](PicCpp11.png) Solution \#2: use of the [C++11](Cpp11.md) [std::shared\_ptr](CppShared_ptr.md)
 --------------------------------------------------------------------------------------------------------
 
  
 
-When replacing [boost::shared\_ptr](CppShared_ptr.htm) and
-[boost::weak\_ptr](CppWeak_ptr.htm) to
-[std::shared\_ptr](CppShared_ptr.htm) and
-[std::weak\_ptr](CppWeak_ptr.htm) respectively also gives a fine
+When replacing [boost::shared\_ptr](CppShared_ptr.md) and
+[boost::weak\_ptr](CppWeak_ptr.md) to
+[std::shared\_ptr](CppShared_ptr.md) and
+[std::weak\_ptr](CppWeak_ptr.md) respectively also gives a fine
 run-time error:
 
  

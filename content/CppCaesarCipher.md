@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [CaesarCipher](CppCaesarCipher.htm)
+([C++](Cpp.md)) [CaesarCipher](CppCaesarCipher.md)
 ====================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[CaesarCipher](CppCaesarCipher.htm) contains some classes that are
+[CaesarCipher](CppCaesarCipher.md) contains some classes that are
 related to the Caesar cipher.
 
 Technical facts
@@ -105,5 +105,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

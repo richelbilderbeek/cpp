@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::invalid\_argument](CppInvalid_argument.htm)
+([C++](Cpp.md)) [std::invalid\_argument](CppInvalid_argument.md)
 ==================================================================
 
  
 
-An exception that is [thrown](CppThrow.htm) due to invalid
-[arguments](CppArgument.htm).
+An exception that is [thrown](CppThrow.md) due to invalid
+[arguments](CppArgument.md).
 
  
 
-In the [exception hierarchy](CppExceptionHierarchy.htm),
-[std::invalid\_argument](CppInvalid_argument.htm) is a derived class
-from [std::logic\_error](CppLogic_error.htm).
+In the [exception hierarchy](CppExceptionHierarchy.md),
+[std::invalid\_argument](CppInvalid_argument.md) is a derived class
+from [std::logic\_error](CppLogic_error.md).
 
  
 
@@ -41,9 +41,9 @@ Example
 
  
 
-[std::invalid\_argument](CppInvalid_argument.htm) is
-[thrown](CppThrow.htm) when the [constructor](CppConstructor.htm) of
-[std::bitset](CppBitset.htm) is given a [std::string](CppString.htm)
+[std::invalid\_argument](CppInvalid_argument.md) is
+[thrown](CppThrow.md) when the [constructor](CppConstructor.md) of
+[std::bitset](CppBitset.md) is given a [std::string](CppString.md)
 that does not consist of zeroes and ones:
 
  

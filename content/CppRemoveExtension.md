@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [RemoveExtension](CppRemoveExtension.htm)
+([C++](Cpp.md)) [RemoveExtension](CppRemoveExtension.md)
 ==========================================================
 
  
 
-[std::string](CppString.htm) [code snippet](CppCodeSnippets.htm) to
+[std::string](CppString.md) [code snippet](CppCodeSnippets.md) to
 remove a filename's extension.
 
  

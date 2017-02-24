@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [TestFloatVersusDouble](CppTestFloatVersusDouble.htm)
+([C++](Cpp.md)) [TestFloatVersusDouble](CppTestFloatVersusDouble.md)
 ======================================================================
 
  
 
  
 
-A simple [benchmark](CppBenchmark.htm) to test how much faster or slower
-the use of [float](CppFloat.htm) is compared to the use of
-[doubles](CppDouble.htm).
+A simple [benchmark](CppBenchmark.md) to test how much faster or slower
+the use of [float](CppFloat.md) is compared to the use of
+[doubles](CppDouble.md).
 
  
 
-Prefer a [double](CppDouble.htm) over a [float](CppFloat.htm) \[1\].
+Prefer a [double](CppDouble.md) over a [float](CppFloat.md) \[1\].
 
  
 
@@ -55,35 +55,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -96,7 +96,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppTestFloatVersusDouble.pro
+[Qt project file](CppQtProjectFile.md): CppTestFloatVersusDouble.pro
 ---------------------------------------------------------------------
 
  
@@ -175,7 +175,7 @@ On a Windows XP (built in around 2005) computer, using version 1.0:
 
  
 
-On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.htm) using
+On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.md) using
 version 2.0:
 
  
@@ -186,8 +186,8 @@ version 2.0:
 
  
 
-On the same laptop (built in around 2011) with [Lubuntu](CppLubuntu.htm)
-using [Wine](CppWine.htm) using version 2.0:
+On the same laptop (built in around 2011) with [Lubuntu](CppLubuntu.md)
+using [Wine](CppWine.md) using version 2.0:
 
  
 
@@ -218,7 +218,7 @@ top-left one, as the program was running four times).
  
 
 On a laptop (built in around 2011)(same as used in the version 2.0 test)
-with [Lubuntu](CppLubuntu.htm) using version 3.0:
+with [Lubuntu](CppLubuntu.md) using version 3.0:
 
  
 
@@ -228,8 +228,8 @@ with [Lubuntu](CppLubuntu.htm) using version 3.0:
 
  
 
-On the same laptop (built in around 2011) with [Lubuntu](CppLubuntu.htm)
-using [Wine](CppWine.htm) using version 3.0:
+On the same laptop (built in around 2011) with [Lubuntu](CppLubuntu.md)
+using [Wine](CppWine.md) using version 3.0:
 
  
 
@@ -253,12 +253,12 @@ top-left one, as the program was running four times).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Item 4.10.15:
     'Prefer a double over a float or a long double.'
 
@@ -281,5 +281,5 @@ top-left one, as the program was running four times).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

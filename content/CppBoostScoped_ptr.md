@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [boost::scoped\_ptr](CppScoped_ptr.htm)
+([C++](Cpp.md)) [boost::scoped\_ptr](CppScoped_ptr.md)
 ========================================================
 
  
 
-[boost::scoped\_ptr](CppScoped_ptr.htm) is a [smart
-pointer](CppSmartPointer.htm) that [deletes](CppDelete.htm) the
-[instance](CppInstance.htm) it points to when going out of
-[scope](CppScope.htm).
+[boost::scoped\_ptr](CppScoped_ptr.md) is a [smart
+pointer](CppSmartPointer.md) that [deletes](CppDelete.md) the
+[instance](CppInstance.md) it points to when going out of
+[scope](CppScope.md).
 
  
 
-[boost::scoped\_ptr](CppScoped_ptr.htm) is similar to
-[std::unique\_ptr](CppUnique_ptr.htm) ([C++11](Cpp11.htm)) and
-[std::auto\_ptr](CppAuto_ptr.htm) ([C++98](Cpp98.htm), depreciated in
-[C++11](Cpp11.htm)).
+[boost::scoped\_ptr](CppScoped_ptr.md) is similar to
+[std::unique\_ptr](CppUnique_ptr.md) ([C++11](Cpp11.md)) and
+[std::auto\_ptr](CppAuto_ptr.md) ([C++98](Cpp98.md), depreciated in
+[C++11](Cpp11.md)).
 
  
 
@@ -45,17 +45,17 @@ pointer](CppSmartPointer.htm) that [deletes](CppDelete.htm) the
 
  
 
-![Boost](PicBoost.png) [Smart pointers](CppSmartPointer.htm) and [null](CppNull.htm)
+![Boost](PicBoost.png) [Smart pointers](CppSmartPointer.md) and [null](CppNull.md)
 ------------------------------------------------------------------------------------
 
  
 
-[Boost](CppBoost.htm) [smart pointers](CppSmartPointer.htm) check for
-[null](CppNull.htm) themselves, so there is no need to check these to be
+[Boost](CppBoost.md) [smart pointers](CppSmartPointer.md) check for
+[null](CppNull.md) themselves, so there is no need to check these to be
 inititialized. In the example below a [member
-variable](CppMemberVariable.htm) of a [class](CppClass.htm) is requested
-from an unitialized [smart pointer](CppSmartPointer.htm). The program
-will [abort](CppAbort.htm) and the [runtime error](CppRuntimeError.htm)
+variable](CppMemberVariable.md) of a [class](CppClass.md) is requested
+from an unitialized [smart pointer](CppSmartPointer.md). The program
+will [abort](CppAbort.md) and the [runtime error](CppRuntimeError.md)
 will be shown.
 
  
@@ -66,7 +66,7 @@ will be shown.
 
  
 
-A [boost::scoped\_ptr](CppScoped_ptr.htm) can be [null](CppNull.htm),
+A [boost::scoped\_ptr](CppScoped_ptr.md) can be [null](CppNull.md),
 but will check itself for it:
 
  
@@ -85,14 +85,14 @@ but will check itself for it:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN:0-321-33487-6. 2005. Item 13: 'Use objects to manage resources'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN:0-321-33487-6. 2005. Item 17: 'Store newed objects in smart
     pointers in standalone statements'
 

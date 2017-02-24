@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [GetValueInMap](CppGetValueInMap.htm)
+([C++](Cpp.md)) [GetValueInMap](CppGetValueInMap.md)
 ======================================================
 
  
 
-Will this [compile](CppCompile.htm)?
+Will this [compile](CppCompile.md)?
 
  
 
@@ -28,11 +28,11 @@ Will this [compile](CppCompile.htm)?
  
 
 Answer: No, it will give the following [compile
-error](CppCompileError.htm):
+error](CppCompileError.md):
 
  
 
-When using Borland [BCC32.EXE](CppBcc32Exe.htm) version 6.0.10.157:
+When using Borland [BCC32.EXE](CppBcc32Exe.md) version 6.0.10.157:
 
  
 
@@ -42,7 +42,7 @@ When using Borland [BCC32.EXE](CppBcc32Exe.htm) version 6.0.10.157:
 
  
 
-When using [G++](CppGpp.htm) 4.5.2:
+When using [G++](CppGpp.md) 4.5.2:
 
  
 
@@ -53,15 +53,15 @@ When using [G++](CppGpp.htm) 4.5.2:
  
 
 The reason for this is that the [index
-operator](CppOperatorIndex.htm)/[operator\[\]](CppOperatorIndex.htm) is
-not a [const](CppConst.htm) [member function](CppMemberFunction.htm).
-This is because this [member function](CppMemberFunction.htm) possibly
-inserts an element to the [std::map](CppMap.htm)! It is created to make
-insertion easy and to never [throw](CppThrow.htm). Therefore, the code
-above will not [compile](CppCompile.htm): if **myMap** does not have the
-key **i**, an [exception](CppException.htm) has to be
-[thrown](CppThrow.htm). So, due to this it does not
-[compile](CppCompile.htm). The way to solve the above example is shown
+operator](CppOperatorIndex.md)/[operator\[\]](CppOperatorIndex.md) is
+not a [const](CppConst.md) [member function](CppMemberFunction.md).
+This is because this [member function](CppMemberFunction.md) possibly
+inserts an element to the [std::map](CppMap.md)! It is created to make
+insertion easy and to never [throw](CppThrow.md). Therefore, the code
+above will not [compile](CppCompile.md): if **myMap** does not have the
+key **i**, an [exception](CppException.md) has to be
+[thrown](CppThrow.md). So, due to this it does not
+[compile](CppCompile.md). The way to solve the above example is shown
 below.
 
  

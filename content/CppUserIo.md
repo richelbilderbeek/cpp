@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [User I/O](CppUserIo.htm)
+([C++](Cpp.md)) [User I/O](CppUserIo.md)
 ==========================================
 
  
 
-[User I/O](CppUserIo.htm) (an abbreviation of 'user input/output') is
+[User I/O](CppUserIo.md) (an abbreviation of 'user input/output') is
 about communication with the user.
 
  
@@ -30,16 +30,16 @@ about communication with the user.
 
  
 
-[User I/O](CppUserIo.htm) [STL](CppStl.htm) [functions](CppFunction.htm) and [data types](CppDataType.htm)
+[User I/O](CppUserIo.md) [STL](CppStl.md) [functions](CppFunction.htm) and [data types](CppDataType.htm)
 ----------------------------------------------------------------------------------------------------------
 
  
 
--   [std::cerr](CppCerr.htm): error message [stream](CppStream.htm)
--   [std::cin](CppCin.htm): user input [stream](CppStream.htm)
--   [std::clog](CppClog.htm): log message [stream](CppStream.htm)
--   [std::cout](CppCout.htm): screen output [stream](CppStream.htm)
--   [std::getline](CppGetline.htm): obtain a single line of input
+-   [std::cerr](CppCerr.md): error message [stream](CppStream.md)
+-   [std::cin](CppCin.md): user input [stream](CppStream.md)
+-   [std::clog](CppClog.md): log message [stream](CppStream.md)
+-   [std::cout](CppCout.md): screen output [stream](CppStream.md)
+-   [std::getline](CppGetline.md): obtain a single line of input
 
  
 
@@ -51,11 +51,11 @@ about communication with the user.
 
  
 
-[User I/O](CppUserIo.htm) [code snippets](CppCodeSnippets.htm)
+[User I/O](CppUserIo.md) [code snippets](CppCodeSnippets.md)
 
  
 
-1.  [AskUserForInput, ask the user for input](CppAskUserForInput.htm)
+1.  [AskUserForInput, ask the user for input](CppAskUserForInput.md)
 
  
 

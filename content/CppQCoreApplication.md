@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QCoreApplication](CppQCoreApplication.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QCoreApplication](CppQCoreApplication.md)
 =============================================================================
 
  
 
-[QCoreApplication](CppQCoreApplication.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for managing console applications' events.
+[QCoreApplication](CppQCoreApplication.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for managing console applications' events.
 
  
 

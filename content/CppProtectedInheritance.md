@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Protected inheritance](CppProtectedInheritance.htm)
+([C++](Cpp.md)) [Protected inheritance](CppProtectedInheritance.md)
 =====================================================================
 
  
 
-[Protected inheritance](CppProtectedInheritance.htm) is the most obscure
-(of three) mode of [inheritance](CppInheritance.htm).
+[Protected inheritance](CppProtectedInheritance.md) is the most obscure
+(of three) mode of [inheritance](CppInheritance.md).
 
  
 
-To cite [Scott Meyers](CppScottMeyers.htm) about [Protected
-inheritance](CppProtectedInheritance.htm):
+To cite [Scott Meyers](CppScottMeyers.md) about [Protected
+inheritance](CppProtectedInheritance.md):
 
  
 
@@ -41,12 +41,12 @@ inheritance](CppProtectedInheritance.htm):
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++
     (3rd edition).ISBN:0-321-33487-6. Item 32: 'Make sure public
     inheritance models 'is-a''
 

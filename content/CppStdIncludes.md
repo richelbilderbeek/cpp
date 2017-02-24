@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::includes](CppIncludes.htm)
+([C++](Cpp.md)) [std::includes](CppIncludes.md)
 =================================================
 
  
 
-[std::includes](CppIncludes.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to determine if one sorted
-[container](CppContainer.htm) includes all values of another sorted
-[container](CppContainer.htm).
+[std::includes](CppIncludes.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to determine if one sorted
+[container](CppContainer.md) includes all values of another sorted
+[container](CppContainer.md).
 
  
 

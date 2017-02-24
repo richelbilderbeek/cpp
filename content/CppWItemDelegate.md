@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WItemDelegate](CppWItemDelegate.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WItemDelegate](CppWItemDelegate.md)
 ===========================================================================
 
  
 
-[Wt::WItemDelegate](CppWItemDelegate.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WItemDelegate](CppWItemDelegate.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WItemDelegate](CppWItemDelegate.htm) is used in, among others:
+[Wt::WItemDelegate](CppWItemDelegate.md) is used in, among others:
 
 -   ...
 

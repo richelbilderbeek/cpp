@@ -12,26 +12,26 @@
 
  
 
-([C++](Cpp.htm)) [valgrind](CppValgrind.htm)
+([C++](Cpp.md)) [valgrind](CppValgrind.md)
 ============================================
 
  
 
-[valgrind](CppValgrind.htm) is 'an instrumentation framework for
+[valgrind](CppValgrind.md) is 'an instrumentation framework for
 building dynamic analysis tools. There are Valgrind tools that can
 automatically detect many memory management and threading bugs, and
-[profile](CppProfiler.htm) your programs in detail' \[1\].
+[profile](CppProfiler.md) your programs in detail' \[1\].
 
  
 
-Note that [valgrind](CppValgrind.htm) is a collection of tools:
+Note that [valgrind](CppValgrind.md) is a collection of tools:
 
--   [memcheck](CppMemcheck.htm): 'detects memory-management problems'
+-   [memcheck](CppMemcheck.md): 'detects memory-management problems'
     \[1\], the default tool
--   [helgrind](CppHelgrind.htm): 'a thread debugger which finds data
+-   [helgrind](CppHelgrind.md): 'a thread debugger which finds data
     races in multithreaded programs' \[2\]
--   [cachegrind](CppCachegrind.htm): 'a cache profiler' \[2\]
--   [DRD](CppDrd.htm): for detecting [deadlocks](CppDeadlock.htm)
+-   [cachegrind](CppCachegrind.md): 'a cache profiler' \[2\]
+-   [DRD](CppDrd.md): for detecting [deadlocks](CppDeadlock.md)
 -   callgrind: 'an extension to Cachegrind. It provides all the
     information that Cachegrind does, plus extra information about
     callgraphs' \[2\]
@@ -64,7 +64,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

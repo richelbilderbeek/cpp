@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [ptrace: Operation not permitted](CppMiscErrorPtraceOperationNotPermitted.htm)
+([C++](Cpp.md)) [ptrace: Operation not permitted](CppMiscErrorPtraceOperationNotPermitted.md)
 ===============================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 

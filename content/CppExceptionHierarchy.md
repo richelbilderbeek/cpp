@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Exception hierarchy](CppExceptionHierarchy.htm)
+([C++](Cpp.md)) [Exception hierarchy](CppExceptionHierarchy.md)
 =================================================================
 
  
 
-The hierarchy for the [STL](CppStl.htm) exceptions.
-[std::exception](CppException.htm) is the [base class](CppBaseClass.htm)
+The hierarchy for the [STL](CppStl.md) exceptions.
+[std::exception](CppException.md) is the [base class](CppBaseClass.md)
 for all exceptions.
 
  

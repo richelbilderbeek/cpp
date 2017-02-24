@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [undefined reference to 'Wt::WRun(int, char\*\*, Wt::WApplication\* (\*)(Wt::WEnvironment const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [undefined reference to 'Wt::WRun(int, char\*\*, Wt::WApplication\* (\*)(Wt::WEnvironment const&))'](CppLinkErrorUndefinedReferenceToWtWrun.md)
 =========================================================================================================================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm)
+[Link error](CppLinkError.md)
 
  
 
@@ -62,33 +62,31 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.2
-
- 
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  
 
@@ -98,7 +96,9 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppLinkErrorUndefinedReferenceToWtWrun.pro
+ 
+
+[Qt project file](CppQtProjectFile.md): CppLinkErrorUndefinedReferenceToWtWrun.pro
 -----------------------------------------------------------------------------------
 
  
@@ -141,7 +141,7 @@ Solution
 
  
 
-Add the following line to your [Qt project file](CppQtProjectFile.htm):
+Add the following line to your [Qt project file](CppQtProjectFile.md):
 
  
 
@@ -161,9 +161,9 @@ Add the following line to your [Qt project file](CppQtProjectFile.htm):
  
 
 Note that the fixed version results in the [misc
-error](CppMiscError.htm) [stat: No such file or directory. Document root
+error](CppMiscError.md) [stat: No such file or directory. Document root
 ("") not
-valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.htm)
+valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.md)
 
  
 

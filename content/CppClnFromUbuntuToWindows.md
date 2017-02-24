@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [How to port CLN from Ubuntu to Windows](CppClnFromUbuntuToWindows.htm)
+([C++](Cpp.md)) [How to port CLN from Ubuntu to Windows](CppClnFromUbuntuToWindows.md)
 ========================================================================================
 
  
 
-I had to be able to [compile](CppCompile.htm) the [CLN](CppCln.htm)
-[library](CppLibrary.htm) from Ubuntu to Windows.
+I had to be able to [compile](CppCompile.md) the [CLN](CppCln.md)
+[library](CppLibrary.md) from Ubuntu to Windows.
 
  
 
@@ -45,7 +45,7 @@ Zip all files from the Ubuntu terminal:
 
 Copy the zip to a windows computer. Compiling goes fine. Linking fails,
 with the (expected) [undefined reference to
-cln::cl\[something\]](CppLinkErrorUndefinedReferenceToClnCl_random_def_init_helper.htm).
+cln::cl\[something\]](CppLinkErrorUndefinedReferenceToClnCl_random_def_init_helper.md).
 
 Failed attempt: build CLN in Cygwin
 -----------------------------------

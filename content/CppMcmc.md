@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [MCMC](CppMcmc.htm)
+([C++](Cpp.md)) [MCMC](CppMcmc.md)
 ====================================
 
  
 
-[MCMC](CppMcmc.htm) (Monte Carlo Markov Chain) is used to do Bayesian
+[MCMC](CppMcmc.md) (Monte Carlo Markov Chain) is used to do Bayesian
 inference.
 
  

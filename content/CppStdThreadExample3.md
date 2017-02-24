@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [std::thread example 3: program flow](CppThreadExample3.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::thread example 3: program flow](CppThreadExample3.md)
 ====================================================================================================
 
  
 
-This [thread](CppThread.htm) example investigates the program flow from
-two simultaneously running [threads](CppThread.htm).
+This [thread](CppThread.md) example investigates the program flow from
+two simultaneously running [threads](CppThread.md).
 
  
 
@@ -52,36 +52,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 11.04 (natty)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 11.04 (natty)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.htm)
+-   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.5.2
--   Borland [BCC32.EXE](CppBcc32Exe.htm) version 6.0.10.157
+-   [G++](CppGpp.md) 4.5.2
+-   Borland [BCC32.EXE](CppBcc32Exe.md) version 6.0.10.157
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.5.2
 
  
@@ -94,7 +94,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppThreadExample3.pro
+[Qt project file](CppQtProjectFile.md): CppThreadExample3.pro
 --------------------------------------------------------------
 
  
@@ -188,7 +188,7 @@ the program run a thousand times, so I could tally the output.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

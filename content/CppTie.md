@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [tie](CppTie.htm)
+([C++](Cpp.md)) [tie](CppTie.md)
 ==================================
 
  
 
-[Tiers](CppTie.htm) are [tuples](CppTuple.htm), where all elements are
-of non-**[const](CppConst.htm)** reference types.
+[Tiers](CppTie.md) are [tuples](CppTuple.md), where all elements are
+of non-**[const](CppConst.md)** reference types.
 
  
 
@@ -30,13 +30,13 @@ of non-**[const](CppConst.htm)** reference types.
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [tie example 1: std::tie, boost::tie and boost::tuples::tie
-    comparison](CppTieExample1.htm)
+    comparison](CppTieExample1.md)
 
  
 

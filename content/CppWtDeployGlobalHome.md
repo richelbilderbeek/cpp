@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Global Wt deployment on a home server](CppWtDeployGlobalHome.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Global Wt deployment on a home server](CppWtDeployGlobalHome.md)
 ====================================================================================================
 
  
 
-[Global Wt deployment on a home server](CppWtDeployGlobalHome.htm) is a
-type of [global Wt deployment](CppWtDeployGlobal.htm) where there is a
+[Global Wt deployment on a home server](CppWtDeployGlobalHome.md) is a
+type of [global Wt deployment](CppWtDeployGlobal.md) where there is a
 computer in your home, office, or other location, where you have
 physical access to and full access rights.
 
  
 
 The type of [global Wt deployment on a home
-server](CppWtDeployGlobalHome.htm) depends on the operating system
+server](CppWtDeployGlobalHome.md) depends on the operating system
 desired on the server:
 
 -   ![OKAY](PicGreen.png)![Ubuntu](PicUbuntu.png) [Global Wt deployment
     on a home server with the Ubuntu Server operating
-    system](CppWtDeployGlobalHomeUbuntuServer.htm)
+    system](CppWtDeployGlobalHomeUbuntuServer.md)
 
  
 
@@ -61,7 +61,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

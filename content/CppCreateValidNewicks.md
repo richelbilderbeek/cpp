@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CreateValidNewicks](CppCreateValidNewicks.htm)
+([C++](Cpp.md)) [CreateValidNewicks](CppCreateValidNewicks.md)
 ================================================================
 
  
 
-[CreateValidNewicks](CppCreateValidNewicks.htm) is a
-[Newick](CppNewick.htm) [code snippet](CppCodeSnippets.htm) to create
-valid [Newick](CppNewick.htm), for testing purposes.
+[CreateValidNewicks](CppCreateValidNewicks.md) is a
+[Newick](CppNewick.md) [code snippet](CppCodeSnippets.md) to create
+valid [Newick](CppNewick.md), for testing purposes.
 
  
 

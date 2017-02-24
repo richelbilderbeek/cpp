@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtDialWidget](CppQtDialWidget.htm)
+([C++](Cpp.md)) [QtDialWidget](CppQtDialWidget.md)
 ====================================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtDialWidget](CppQtDialWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to display an [Dial](CppDial.htm).
+[QtDialWidget](CppQtDialWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to display an [Dial](CppDial.md).
 
  
 
-[QtDialWidget](CppQtDialWidget.htm) is used in the [tool](Tools.htm)
-[TestDial](ToolTestDial.htm).
+[QtDialWidget](CppQtDialWidget.md) is used in the [tool](Tools.md)
+[TestDial](ToolTestDial.md).
 
 Technical facts
 ---------------
@@ -111,5 +111,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

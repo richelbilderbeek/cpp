@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [gdk\_error\_traps != NULL](CppMiscErrorGdk_error_trapsNotNull.htm)
+([C++](Cpp.md)) [gdk\_error\_traps != NULL](CppMiscErrorGdk_error_trapsNotNull.md)
 ====================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -71,5 +71,5 @@ Solution
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

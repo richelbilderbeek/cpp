@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [free function](CppFreeFunction.htm)
+([C++](Cpp.md)) [free function](CppFreeFunction.md)
 =====================================================
 
  
 
-A [free function](CppFreeFunction.htm) is a [helper
-function](CppHelperFunction.htm). See [helper
-function](CppHelperFunction.htm).
+A [free function](CppFreeFunction.md) is a [helper
+function](CppHelperFunction.md). See [helper
+function](CppHelperFunction.md).
 
  
 

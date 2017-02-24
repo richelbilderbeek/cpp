@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::ostream](CppOstream.htm)
+([C++](Cpp.md)) [std::ostream](CppOstream.md)
 ===============================================
 
  
 
-[std::ostream](CppOstream.htm) is the [data type](CppDataType.htm) for
-an output [stream](CppStream.htm). [std::cout](CppCout.htm),
-[std::cerr](CppCerr.htm) and [std::clog](CppClog.htm) are
-[global](CppGlobal.htm) [std::ostreams](CppOstream.htm).
+[std::ostream](CppOstream.md) is the [data type](CppDataType.md) for
+an output [stream](CppStream.md). [std::cout](CppCout.md),
+[std::cerr](CppCerr.md) and [std::clog](CppClog.md) are
+[global](CppGlobal.md) [std::ostreams](CppOstream.md).
 
  
 

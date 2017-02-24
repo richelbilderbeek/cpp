@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtQuadBezierArrowItem](CppQtQuadBezierArrowItem.htm)
+([C++](Cpp.md)) [QtQuadBezierArrowItem](CppQtQuadBezierArrowItem.md)
 ======================================================================
 
  
@@ -22,14 +22,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtQuadBezierArrowItem](CppQtQuadBezierArrowItem.htm) is a
-[QGraphicsItem](CppQGraphicsItem.htm) for displaying a arrow that has a
+[QtQuadBezierArrowItem](CppQtQuadBezierArrowItem.md) is a
+[QGraphicsItem](CppQGraphicsItem.md) for displaying a arrow that has a
 quadratic Bezier curve as its body.
 
  
 
 For the math, see [QGraphicsPathItem example 5: Bezier quadratic lines
-with arrow heads](CppQGraphicsPathItemExample5.htm).
+with arrow heads](CppQGraphicsPathItemExample5.md).
 
 Technical facts
 ---------------
@@ -150,5 +150,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

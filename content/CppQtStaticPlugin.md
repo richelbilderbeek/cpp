@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt static plugin](CppQtStaticPlugin.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt static plugin](CppQtStaticPlugin.md)
 ===========================================================================
 
  

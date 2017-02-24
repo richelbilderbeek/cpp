@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::fflush](CppFflush.htm)
+([C++](Cpp.md)) [std::fflush](CppFflush.md)
 =============================================
 
  
 
-[std::fflush](CppFflush.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm).
+[std::fflush](CppFflush.md) is an [STL](CppStl.md)
+[function](CppFunction.md).
 
  
 
-[std::fflush](CppFflush.htm) is [defined](CppDefinition.htm) in
-[cstdio.h](CppCstdioH.htm).
+[std::fflush](CppFflush.md) is [defined](CppDefinition.md) in
+[cstdio.h](CppCstdioH.md).
 
  
 

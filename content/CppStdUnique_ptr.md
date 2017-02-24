@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [std::unique\_ptr](CppStdUnique_ptr.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::unique\_ptr](CppStdUnique_ptr.md)
 ================================================================================
 
  
 
-[std::unique\_ptr](CppStdUnique_ptr.htm) is an [C++11](Cpp11.htm)
-[STL](CppStl.htm) uncopyable [smart pointer](CppSmartPointer.htm).
+[std::unique\_ptr](CppStdUnique_ptr.md) is an [C++11](Cpp11.md)
+[STL](CppStl.md) uncopyable [smart pointer](CppSmartPointer.md).
 
  
 
-[std::unique\_ptr](CppStdUnique_ptr.htm) is similar to
-[boost::scoped\_ptr](Cppscoped_ptr.htm).
+[std::unique\_ptr](CppStdUnique_ptr.md) is similar to
+[boost::scoped\_ptr](Cppscoped_ptr.md).
 
  
 
-[std::unique\_ptr](CppStdUnique_ptr.htm) guarantees that its value is
+[std::unique\_ptr](CppStdUnique_ptr.md) guarantees that its value is
 complete when destroyed \[1\].
 
  
@@ -38,14 +38,14 @@ complete when destroyed \[1\].
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [std::unique\_ptr example 1: basics](CppStdUnique_ptrExample1.htm)
+-   [std::unique\_ptr example 1: basics](CppStdUnique_ptrExample1.md)
 -   [std::unique\_ptr example 2: custom
-    deleter](CppStdUnique_ptrExample2.htm)
+    deleter](CppStdUnique_ptrExample2.md)
 
  
 
@@ -57,16 +57,16 @@ complete when destroyed \[1\].
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [std::unique\_ptr](CppStdUnique_ptr.htm) to refer to
-    [objects](CppObject.htm) of [polymorphic
-    type](CppPolymorphicType.htm) \[2\]
--   Prefer [std::unique\_ptr](CppStdUnique_ptr.htm) over
-    [std::shared\_ptr](CppStdShared_ptr.htm) \[3\]
+-   Use [std::unique\_ptr](CppStdUnique_ptr.md) to refer to
+    [objects](CppObject.md) of [polymorphic
+    type](CppPolymorphicType.md) \[2\]
+-   Prefer [std::unique\_ptr](CppStdUnique_ptr.md) over
+    [std::shared\_ptr](CppStdShared_ptr.md) \[3\]
 
  
 
@@ -78,18 +78,18 @@ complete when destroyed \[1\].
 
  
 
-Comparison of [std::unique\_ptr](CppStdUnique_ptr.htm) and [boost::scoped\_ptr](Cppscoped_ptr.htm)
+Comparison of [std::unique\_ptr](CppStdUnique_ptr.md) and [boost::scoped\_ptr](Cppscoped_ptr.md)
 --------------------------------------------------------------------------------------------------
 
  
 
--   [boost::scoped\_ptr](CppScoped_ptr.htm) can be used from every
-    [C++](Cpp.htm) [standard](CppStandard.htm),
-    [std::unique\_ptr](CppStdUnique_ptr.htm) from [C++11](Cpp11.htm)
--   [std::unique\_ptr](CppStdUnique_ptr.htm) is part of the official
-    [C++11](Cpp11.htm) [standard](CppStandard.htm)
--   [std::unique\_ptr](CppStdUnique_ptr.htm) has a 'release' [member
-    function](CppMemberFunction.htm)
+-   [boost::scoped\_ptr](CppScoped_ptr.md) can be used from every
+    [C++](Cpp.md) [standard](CppStandard.md),
+    [std::unique\_ptr](CppStdUnique_ptr.md) from [C++11](Cpp11.md)
+-   [std::unique\_ptr](CppStdUnique_ptr.md) is part of the official
+    [C++11](Cpp11.md) [standard](CppStandard.md)
+-   [std::unique\_ptr](CppStdUnique_ptr.md) has a 'release' [member
+    function](CppMemberFunction.md)
 
  
 
@@ -101,7 +101,7 @@ Comparison of [std::unique\_ptr](CppStdUnique_ptr.htm) and [boost::scoped\_ptr](
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -113,10 +113,10 @@ Comparison of [std::unique\_ptr](CppStdUnique_ptr.htm) and [boost::scoped\_ptr](
     well-defined behavior, and shall not throw exceptions. \[Note: The
     use of default\_delete requires T to be a complete type. —end
     note\]'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). A tour of C++. 2014.
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). A tour of C++. 2014.
     ISBN: 978-0-321-958310. Chapter 11.7.5, page 131: 'Use unique\_ptr
     to refer to objects of polymorphic type'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). A tour of C++. 2014.
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). A tour of C++. 2014.
     ISBN: 978-0-321-958310. Chapter 11.7.8, page 131: 'Prefer
     unique\_ptr over shared\_ptr'
 

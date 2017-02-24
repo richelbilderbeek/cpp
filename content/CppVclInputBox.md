@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [VCL InputBox](CppVclInputBox.htm)
+([C++](Cpp.md)) [VCL InputBox](CppVclInputBox.md)
 ===================================================
 
  
 
-A [VCL dialog](CppVclDialog.htm) asking for a value.
+A [VCL dialog](CppVclDialog.md) asking for a value.
 
  
 
-To use [InputBox](CppVclInputBox.htm) , [\#include](CppInclude.htm) the
-[header file](CppHeaderFile.htm) dialogs.hpp.
+To use [InputBox](CppVclInputBox.md) , [\#include](CppInclude.md) the
+[header file](CppHeaderFile.md) dialogs.hpp.
 
  
 
@@ -49,5 +49,5 @@ To use [InputBox](CppVclInputBox.htm) , [\#include](CppInclude.htm) the
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

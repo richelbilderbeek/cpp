@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Unresolved external '\_\_fastcall System::TObject::\~TObject()' referenced from AnyName.OBJ](CppLinkErrorUnresolvedExternalTObjectDestructor.htm)
+([C++](Cpp.md)) [Unresolved external '\_\_fastcall System::TObject::\~TObject()' referenced from AnyName.OBJ](CppLinkErrorUnresolvedExternalTObjectDestructor.md)
 ===================================================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Phonon](CppPhonon.htm)
+([C++](Cpp.md)) [Phonon](CppPhonon.md)
 ========================================
 
  
 
-[Phonon](CppPhonon.htm) is an audio [module](CppQtModule.htm) supplied
-with the [IDE](CppIde.htm) [Qt Creator](CppQtCreator.htm).
+[Phonon](CppPhonon.md) is an audio [module](CppQtModule.md) supplied
+with the [IDE](CppIde.md) [Qt Creator](CppQtCreator.md).
 
  
 
-To use [Phonon](CppPhonon.htm) in [Qt Creator](CppQtCreator.htm) the
-following line should be in the [Qmake](CppQmake.htm) [project
-file](CppQtProjectFile.htm):
+To use [Phonon](CppPhonon.md) in [Qt Creator](CppQtCreator.md) the
+following line should be in the [Qmake](CppQmake.md) [project
+file](CppQtProjectFile.md):
 
  
 

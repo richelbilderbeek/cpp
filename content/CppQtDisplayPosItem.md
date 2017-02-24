@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtDisplayPosItem](CppQtDisplayPosItem.htm)
+([C++](Cpp.md)) [QtDisplayPosItem](CppQtDisplayPosItem.md)
 ============================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtDisplayPosItem](CppQtDisplayPosItem.htm) is a [Qt](CppQt.htm)
-[QGraphicsItem](CppQGraphicsItem.htm) [class](CppClass.htm) that
+[QtDisplayPosItem](CppQtDisplayPosItem.md) is a [Qt](CppQt.md)
+[QGraphicsItem](CppQGraphicsItem.md) [class](CppClass.md) that
 displays its position.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

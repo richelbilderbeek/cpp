@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QFileDialog](CppQFileDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QFileDialog](CppQFileDialog.md)
 ===================================================================
 
  
 
-[QFileDialog](CppQFileDialog.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for a file selection [dialog](CppDialog.htm).
+[QFileDialog](CppQFileDialog.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for a file selection [dialog](CppDialog.md).
 
  
 
@@ -36,13 +36,13 @@ Examples
  
 
 -   [QFileDialog example 1: crafting a QFileDialog to select a
-    file](CppQFileDialogExample1.htm)
+    file](CppQFileDialogExample1.md)
 -   [QFileDialog example 2: using
-    QFileDialog::getOpenFileNames](CppQFileDialogExample2.htm)
+    QFileDialog::getOpenFileNames](CppQFileDialogExample2.md)
 -   [QFileDialog example 3: compare class and convenience function from
-    GUI](CppQFileDialogExample3.htm)
+    GUI](CppQFileDialogExample3.md)
 -   [QFileDialog example 4: crafting a QFileDialog to save a
-    file](CppQFileDialogExample4.htm)
+    file](CppQFileDialogExample4.md)
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Code::Blocks](CppCodeBlocks.htm)
+([C++](Cpp.md)) [Code::Blocks](CppCodeBlocks.md)
 ==================================================
 
  
 
-[Code::Blocks](CppCodeBlocks.htm) is an [IDE](CppIde.htm).
+[Code::Blocks](CppCodeBlocks.md) is an [IDE](CppIde.md).
 
  
 
@@ -32,7 +32,7 @@ Code::Blocks features (incomplete)
 
  
 
--   [Abbreviations](CppAbbreviation.htm)
+-   [Abbreviations](CppAbbreviation.md)
 -   Check for updates/packages: Click 'Plugins | Dev C++ Pack
     updater/installer'
 
@@ -74,5 +74,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

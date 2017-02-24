@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [else](CppElse.htm)
+([C++](Cpp.md)) [else](CppElse.md)
 ====================================
 
  
 
-[else](CppElse.htm) is a [Keyword](CppKeyword.htm) to allow conditional
-program flow.[else](CppElse.htm) will always follow an [if](CppIf.htm)
+[else](CppElse.md) is a [Keyword](CppKeyword.md) to allow conditional
+program flow.[else](CppElse.md) will always follow an [if](CppIf.md)
 statement and is optional to it.
 
  

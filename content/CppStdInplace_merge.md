@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::inplace\_merge](CppInplace_merge.htm)
+([C++](Cpp.md)) [std::inplace\_merge](CppInplace_merge.md)
 ============================================================
 
  
 
-[std::inplace\_merge](CppInplace_merge.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to merge two sorted ranges in the same
-[container](CppContainer.htm).
+[std::inplace\_merge](CppInplace_merge.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to merge two sorted ranges in the same
+[container](CppContainer.md).
 
  
 

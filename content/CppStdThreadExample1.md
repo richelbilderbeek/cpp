@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png) [std::thread example 1: two counting threads](CppThreadExample1.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::thread example 1: two counting threads](CppThreadExample1.md)
 ============================================================================================================
 
  
 
-This [std::thread](CppThread.htm) examples shows the code and screen
+This [std::thread](CppThread.md) examples shows the code and screen
 output of two threads counting down. Below it, the code is discussed in
 more detail.
 
@@ -46,16 +46,16 @@ Screen output:
 
 Note the following about the code:
 
--   Calling [std::thread](CppThread.htm)::join denotes 'wait for the
-    [std::thread](CppThread.htm) to terminate' \[1\]
--   It is important that we wait for the [std::thread](CppThread.htm) to
-    terminate, because 'when a [std::thread](CppThread.htm) goes out of
-    [scope](CppScope.htm) the program is
-    [std::terminate](CppTerminate.htm)()d unless its task has completed'
+-   Calling [std::thread](CppThread.md)::join denotes 'wait for the
+    [std::thread](CppThread.md) to terminate' \[1\]
+-   It is important that we wait for the [std::thread](CppThread.md) to
+    terminate, because 'when a [std::thread](CppThread.md) goes out of
+    [scope](CppScope.md) the program is
+    [std::terminate](CppTerminate.md)()d unless its task has completed'
     \[1\]
--   Both [std::threads](CppThread.htm) do not wait for the other to
-    finish writing to [std::cout](CppCout.htm). Note that writing to
-    [std::clog](CppClog.htm) makes the output less messier:
+-   Both [std::threads](CppThread.md) do not wait for the other to
+    finish writing to [std::cout](CppCout.md). Note that writing to
+    [std::clog](CppClog.md) makes the output less messier:
 
      
 
@@ -68,14 +68,14 @@ Note the following about the code:
  
 
 This example is checked for errors in [helgrind example 1: two counting
-threads](CppHelgrindExample1.htm), where [helgrind](CppHelgrind.htm) is
+threads](CppHelgrindExample1.md), where [helgrind](CppHelgrind.md) is
 shown to detect race conditions.
 
  
 
 The next example, [std::thread example 2: two counting threads using
-std::mutex](CppThreadExample2.htm) demonstrates how to use
-[std::mutexes](CppMutex.htm) to share [std::cout](CppCout.htm) nicely.
+std::mutex](CppThreadExample2.md) demonstrates how to use
+[std::mutexes](CppMutex.md) to share [std::cout](CppCout.md) nicely.
 
  
 
@@ -87,7 +87,7 @@ std::mutex](CppThreadExample2.htm) demonstrates how to use
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

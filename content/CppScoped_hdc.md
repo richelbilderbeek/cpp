@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Scoped\_hdc](CppScoped_hdc.htm)
+([C++](Cpp.md)) [Scoped\_hdc](CppScoped_hdc.md)
 =================================================
 
  
 
-[Data type](CppDataType.htm) to manage a [handle to a device
-context](CppHDC.htm) ([HDC](CppHDC.htm)).
+[Data type](CppDataType.md) to manage a [handle to a device
+context](CppHDC.md) ([HDC](CppHDC.md)).
 
  
 

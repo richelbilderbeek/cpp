@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CoutChildWindows](CppCoutChildWindows.htm)
+([C++](Cpp.md)) [CoutChildWindows](CppCoutChildWindows.md)
 ============================================================
 
  
 
-[Windows](CppWindows.htm) [code snippet](CppCodeSnippets.htm) to
-[std::cout](CppCout.htm) the text of each windows and its children.
+[Windows](CppWindows.md) [code snippet](CppCodeSnippets.md) to
+[std::cout](CppCout.md) the text of each windows and its children.
 
  
 
@@ -27,8 +27,8 @@ make them as explicit as possible.
 
  
 
-This code is [compiled](CppCompile.htm) under [C++
-Builder](CppBuilder.htm) 6.0.
+This code is [compiled](CppCompile.md) under [C++
+Builder](CppBuilder.md) 6.0.
 
  
 

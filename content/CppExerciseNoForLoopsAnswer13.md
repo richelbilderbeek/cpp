@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#13](CppExerciseNoForLoopsAnswer13.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#13](CppExerciseNoForLoopsAnswer13.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,15 +30,15 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#13: [MakeAbs](CppMakeAbs.htm)
+Question \#13: [MakeAbs](CppMakeAbs.md)
 ----------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::transform](CppTransform.htm)
--   your own [std::unary\_function](CppUnary_function.htm)
+-   [std::transform](CppTransform.md)
+-   your own [std::unary\_function](CppUnary_function.md)
 
  
 
@@ -68,8 +68,8 @@ Answer
  
 
 Note: I did not find any way to refrain from writing a
-[functor](CppFunctor.htm) (for example, by using
-[std::ptr\_fun](CppPtr_fun.htm)) as shown in the lines below...
+[functor](CppFunctor.md) (for example, by using
+[std::ptr\_fun](CppPtr_fun.md)) as shown in the lines below...
 
  
 

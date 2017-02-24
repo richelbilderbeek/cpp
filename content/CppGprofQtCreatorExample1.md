@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [GprofQtCreatorExample1](CppGprofQtCreatorExample1.htm)
+([C++](Cpp.md)) [GprofQtCreatorExample1](CppGprofQtCreatorExample1.md)
 ========================================================================
 
  
@@ -23,9 +23,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [Qt Creator gprof example 1: profiling a simple console application in
-Qt Creator, using Build Settings](CppGprofQtCreatorExample1.htm) is a
-[gprof](CppGprof.htm) [example](CppExample.htm) that shows how to
-profile a simple console application in [Qt Creator](CppQt.htm), using
+Qt Creator, using Build Settings](CppGprofQtCreatorExample1.md) is a
+[gprof](CppGprof.md) [example](CppExample.md) that shows how to
+profile a simple console application in [Qt Creator](CppQt.md), using
 the Build Settings.
 
  
@@ -35,8 +35,8 @@ the Build Settings.
 
  
 
-Here follows a step-by-step guide to use [gprof](CppGprof.htm) to do the
-profiling of a simple [Qt Creator](CppQt.htm) project:
+Here follows a step-by-step guide to use [gprof](CppGprof.md) to do the
+profiling of a simple [Qt Creator](CppQt.md) project:
 
  
 
@@ -84,37 +84,37 @@ results file:
  
 
 Conclusion: as expected, SortVector (a QuickSort) is by far the quickest
-[sorting](CppSort.htm) [algorithm](CppAlgorithm.htm).
+[sorting](CppSort.md) [algorithm](CppAlgorithm.md).
 
 Technical facts
 ---------------
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -127,7 +127,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppGprofQtCreatorExample1/CppGprofExample1.pro
+[Qt project file](CppQtProjectFile.md): ./CppGprofQtCreatorExample1/CppGprofExample1.pro
 -----------------------------------------------------------------------------------------
 
  
@@ -174,5 +174,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

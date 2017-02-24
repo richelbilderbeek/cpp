@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::setbase](CppSetbase.htm)
+([C++](Cpp.md)) [std::setbase](CppSetbase.md)
 ===============================================
 
  
 
-[std::setbase](CppSetbase.htm) is a [stream](CppStream.htm) manipulator
+[std::setbase](CppSetbase.md) is a [stream](CppStream.md) manipulator
 to change the output of numbers to the octal, decimal or hexadecimal
 number system.
 

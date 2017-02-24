@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [conio.h](CppConioH.htm)
+([C++](Cpp.md)) [conio.h](CppConioH.md)
 =========================================
 
  
 
-[conio.h](CppConioH.htm) is the name of a non-standard C [header
-file](CppHeaderFile.htm).
+[conio.h](CppConioH.md) is the name of a non-standard C [header
+file](CppHeaderFile.md).
 
  
 

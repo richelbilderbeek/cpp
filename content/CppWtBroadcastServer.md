@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtBroadcastServer](CppWtBroadcastServer.htm)
+([C++](Cpp.md)) [WtBroadcastServer](CppWtBroadcastServer.md)
 ==============================================================
 
  
@@ -22,17 +22,17 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtBroadcastServer](CppWtBroadcastServer.htm) has been abandoned,
+[WtBroadcastServer](CppWtBroadcastServer.md) has been abandoned,
 because it served two tasks. It is split up into and replaced by
-[WtServerPusher](CppWtServerPusher.htm) and
-[WtTimedServerPusher](CppWtTimedServerPusher.htm).
+[WtServerPusher](CppWtServerPusher.md) and
+[WtTimedServerPusher](CppWtTimedServerPusher.md).
 
  
 
-[WtBroadcastServerClient](CppWtBroadcastServerClient.htm) has been
+[WtBroadcastServerClient](CppWtBroadcastServerClient.md) has been
 abandoned, because it served two tasks. It is split up into and replaced
-by [WtServerPusherClient](CppWtServerPusherClient.htm) and
-[WtTimedServerPusherClient](CppWtTimedServerPusherClient.htm).
+by [WtServerPusherClient](CppWtServerPusherClient.md) and
+[WtTimedServerPusherClient](CppWtTimedServerPusherClient.md).
 
 Technical facts
 ---------------
@@ -153,5 +153,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

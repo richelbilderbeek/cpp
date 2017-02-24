@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Abbreviation](CppAbbreviation.htm)
+([C++](Cpp.md)) [Abbreviation](CppAbbreviation.md)
 ====================================================
 
  
 
-In the [Code::Blocks](CppCodeBlocks.htm) IDE, an
-[abbreviation](CppAbbreviation.htm) is a way to quickly insert
+In the [Code::Blocks](CppCodeBlocks.md) IDE, an
+[abbreviation](CppAbbreviation.md) is a way to quickly insert
 predefined text by using an abbreviation.
 
  
@@ -28,8 +28,8 @@ predefined text by using an abbreviation.
 
  
 
-The use of [abbreviations](CppAbbreviation.htm) is similar to [C++
-Builder](CppBuilder.htm)'s [Code Templates](CppCodeTemplate.htm).
+The use of [abbreviations](CppAbbreviation.md) is similar to [C++
+Builder](CppBuilder.md)'s [Code Templates](CppCodeTemplate.md).
 
  
 

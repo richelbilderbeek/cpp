@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [stdexcept.h](CppStdexceptH.htm)
+([C++](Cpp.md)) [stdexcept.h](CppStdexceptH.md)
 =================================================
 
  
 
-[stdexcept.h](CppStdexceptH.htm) is the [header file](CppHeaderFile.htm)
-containg the [definition](CppDefinition.htm) from
-[std::exception](CppException.htm) and its [derived
-classes](CppDerivedClass.htm).
+[stdexcept.h](CppStdexceptH.md) is the [header file](CppHeaderFile.md)
+containg the [definition](CppDefinition.md) from
+[std::exception](CppException.md) and its [derived
+classes](CppDerivedClass.md).
 
  
 

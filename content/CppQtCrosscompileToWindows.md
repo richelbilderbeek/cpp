@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md)
 =================================================================================================================================
 
  
@@ -22,15 +22,15 @@ Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](Pic
 
  
 
-[Qt FAQ](CppQtFaq.htm) about how to [cross compile](CppCrossCompile.htm)
-using [Qt Creator](CppQtCreator.htm) under Linux to a Windows
+[Qt FAQ](CppQtFaq.md) about how to [cross compile](CppCrossCompile.md)
+using [Qt Creator](CppQtCreator.md) under Linux to a Windows
 executable.
 
  
 
 I use the approach of [example 15:
-MXE](CppQtCrosscompileToWindowsExample15.htm) most. See
-[MXE](CppMxe.htm) for more information about [MXE](CppMxe.htm).
+MXE](CppQtCrosscompileToWindowsExample15.md) most. See
+[MXE](CppMxe.md) for more information about [MXE](CppMxe.md).
 
  
 
@@ -52,107 +52,103 @@ are successful, some are unexplored or abandoned.
 
 -   ![OKAY](PicGreen.png)![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 1: Hello World](CppQtCrosscompileToWindowsExample1.htm),
+    [Example 1: Hello World](CppQtCrosscompileToWindowsExample1.md),
     using i586-mingw32msvc-gcc
 -   ![?FAIL](PicOrange.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 2: Hello Qt](CppQtCrosscompileToWindowsExample2.htm), using
+    [Example 2: Hello Qt](CppQtCrosscompileToWindowsExample2.md), using
     i586-mingw32msvc-gcc
 -   ![?FAIL](PicOrange.png)![Boost](PicBoost.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 3: Hello Boost](CppQtCrosscompileToWindowsExample3.htm),
+    [Example 3: Hello Boost](CppQtCrosscompileToWindowsExample3.md),
     using i586-mingw32msvc-gcc
 -   ![FAIL](PicRed.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 4: any application, changing
-    makefile](CppQtCrosscompileToWindowsExample4.htm)
+    makefile](CppQtCrosscompileToWindowsExample4.md)
 -   ![?FAIL](PicOrange.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 5: any application, using Qt Creator -spec
-    approach](CppQtCrosscompileToWindowsExample5.htm)
+    approach](CppQtCrosscompileToWindowsExample5.md)
 -   ![?FAIL](PicOrange.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 6: any application, using tweaked
-    Makefile](CppQtCrosscompileToWindowsExample6.htm)
+    Makefile](CppQtCrosscompileToWindowsExample6.md)
 -   ![N/A](PicBlack.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 7: any application, using universal
-    binaries](CppQtCrosscompileToWindowsExample7.htm)
+    binaries](CppQtCrosscompileToWindowsExample7.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 8: any application, port to embedded linux
-    adaptation](CppQtCrosscompileToWindowsExample8.htm)
+    adaptation](CppQtCrosscompileToWindowsExample8.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 9: any application, use of the moc
-    variable](CppQtCrosscompileToWindowsExample9.htm)
+    variable](CppQtCrosscompileToWindowsExample9.md)
 -   ![N/A](PicBlack.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 10: any application, use of
-    MinGW](CppQtCrosscompileToWindowsExample10.htm)
+    MinGW](CppQtCrosscompileToWindowsExample10.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 11: any application, use of
-    GCC](CppQtCrosscompileToWindowsExample11.htm)
+    GCC](CppQtCrosscompileToWindowsExample11.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 12: any application, use of
-    crosstool](CppQtCrosscompileToWindowsExample12.htm)
+    crosstool](CppQtCrosscompileToWindowsExample12.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 13: any application, Bezemer
-    way](CppQtCrosscompileToWindowsExample13.htm)
+    way](CppQtCrosscompileToWindowsExample13.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 14: any application, NJH
-    approach](CppQtCrosscompileToWindowsExample14.htm)
+    approach](CppQtCrosscompileToWindowsExample14.md)
 -   ![OKAY](PicGreen.png)![Boost](PicBoost.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 15: MXE](CppQtCrosscompileToWindowsExample15.htm)
+    [Example 15: MXE](CppQtCrosscompileToWindowsExample15.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 16: any application, use of
-    autotools](CppQtCrosscompileToWindowsExample16.htm)
+    autotools](CppQtCrosscompileToWindowsExample16.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     [Example 17: any application, use of
-    dpkg-cross](CppQtCrosscompileToWindowsExample17.htm)
+    dpkg-cross](CppQtCrosscompileToWindowsExample17.md)
 -   ![FAIL](PicRed.png)![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 18: Hello World](CppQtCrosscompileToWindowsExample18.htm),
-    use of [qmake argument](CppQmakeArgument.htm) '-spec win32-g++'
+    [Example 18: Hello World](CppQtCrosscompileToWindowsExample18.md),
+    use of [qmake argument](CppQmakeArgument.md) '-spec win32-g++'
 -   ![FAIL](PicRed.png)![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 19: Hello World](CppQtCrosscompileToWindowsExample19.htm),
-    use of [qmake argument](CppQmakeArgument.htm) '-spec cygwin-g++'
+    [Example 19: Hello World](CppQtCrosscompileToWindowsExample19.md),
+    use of [qmake argument](CppQmakeArgument.md) '-spec cygwin-g++'
 -   ![?FAIL](PicOrange.png)![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 20: Hello World](CppQtCrosscompileToWindowsExample20.htm),
-    changing [project file](CppQtProjectFile.htm)
+    [Example 20: Hello World](CppQtCrosscompileToWindowsExample20.md),
+    changing [project file](CppQtProjectFile.md)
 -   ![TODO](PicTransparent.png)![Boost](PicBoost.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
     Example 21: Hello Boost, changing [project
-    file](CppQtProjectFile.htm)
+    file](CppQtProjectFile.md)
 -   ![TODO](PicTransparent.png)![Qt](PicQt.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    Example 22: Hello Qt, changing [project file](CppQtProjectFile.htm)
+    Example 22: Hello Qt, changing [project file](CppQtProjectFile.md)
 -   ![?FAIL](PicOrange.png)![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png)
-    [Example 23: Hello World](CppQtCrosscompileToWindowsExample23.htm),
-    using [MinGW](CppMinGw.htm) build script
+    [Example 23: Hello World](CppQtCrosscompileToWindowsExample23.md),
+    using [MinGW](CppMinGw.md) build script
 
  
 
-Instead of [cross compiling](CppCrossCompile.htm), code can also be
-[ported](CppPort.htm) from [Linux](CppLinux.htm) to
-[Windows](CppWindows.htm) using the [tool](Tools.htm)
-[Cygwin](CppCygwin.htm): [Cygwin](CppCygwin.htm) offers a
-[UNIX](CppUnix.htm)-like environment, where compiling leads to
-[Windows](CppWindows.htm) executables.
-
- 
-
- 
+Instead of [cross compiling](CppCrossCompile.md), code can also be
+[ported](CppPort.md) from [Linux](CppLinux.md) to
+[Windows](CppWindows.md) using the [tool](Tools.md)
+[Cygwin](CppCygwin.md): [Cygwin](CppCygwin.md) offers a
+[UNIX](CppUnix.md)-like environment, where compiling leads to
+[Windows](CppWindows.md) executables.
 
  
 
@@ -160,7 +156,11 @@ Instead of [cross compiling](CppCrossCompile.htm), code can also be
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  

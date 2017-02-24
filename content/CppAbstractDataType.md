@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Abstract data type](CppAbstractDataType.htm)
+([C++](Cpp.md)) [Abstract data type](CppAbstractDataType.md)
 ==============================================================
 
  
 
-'An [abstract data type](CppAbstractDataType.htm) is a
-[type](CppDataType.htm) whose internal form is hidden behind a set of
-[access functions](CppAccessor.htm). [Objects](CppObject.htm) of the
-[type](CppDataType.htm) are created and inspected only by calls to the
-[access functions](CppAccessor.htm). This allows the
-[implementation](CppImplementation.htm) of the [type](CppDataType.htm)
+'An [abstract data type](CppAbstractDataType.md) is a
+[type](CppDataType.md) whose internal form is hidden behind a set of
+[access functions](CppAccessor.md). [Objects](CppObject.md) of the
+[type](CppDataType.md) are created and inspected only by calls to the
+[access functions](CppAccessor.md). This allows the
+[implementation](CppImplementation.md) of the [type](CppDataType.md)
 to be changed without requiring any changes outside the
-[module](CppModule.htm) in which it is [defined](CppDefinition.htm).'
+[module](CppModule.md) in which it is [defined](CppDefinition.md).'
 \[1\]
 
  
@@ -37,7 +37,7 @@ to be changed without requiring any changes outside the
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

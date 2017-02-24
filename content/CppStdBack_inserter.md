@@ -12,23 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::back\_inserter](CppBack_inserter.htm)
+([C++](Cpp.md)) [std::back\_inserter](CppBack_inserter.md)
 ============================================================
 
  
 
-[std::back\_inserter](CppBack_inserter.htm) is a type of
-[inserter](CppInserter.htm).
+[std::back\_inserter](CppBack_inserter.md) is a type of
+[inserter](CppInserter.md).
 
  
 
-A good use of [std::back\_inserter](CppBack_inserter.htm) is when you
-[std::copy](CppCopy.htm) to a [container](CppContainer.htm)
-[class](CppClass.htm).
-
- 
-
- 
+A good use of [std::back\_inserter](CppBack_inserter.md) is when you
+[std::copy](CppCopy.md) to a [container](CppContainer.md)
+[class](CppClass.md).
 
  
 
@@ -36,7 +32,11 @@ A good use of [std::back\_inserter](CppBack_inserter.htm) is when you
 
  
 
-Example: [Append](CppAppend.htm)
+ 
+
+ 
+
+Example: [Append](CppAppend.md)
 --------------------------------
 
  

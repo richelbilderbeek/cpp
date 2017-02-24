@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::nouppercase](CppNouppercase.htm)
+([C++](Cpp.md)) [std::nouppercase](CppNouppercase.md)
 =======================================================
 
  
 
-[std::nouppercase](CppNouppercase.htm) is a [stream](CppStream.htm)
+[std::nouppercase](CppNouppercase.md) is a [stream](CppStream.md)
 manipulator: when a number's base and/or non-decimal digits are show,
-[std::nouppercase](CppNouppercase.htm) displays these in lowercase.
+[std::nouppercase](CppNouppercase.md) displays these in lowercase.
 
  
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 15: MXE](CppQtCrosscompileToWindowsExample15.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 15: MXE](CppQtCrosscompileToWindowsExample15.md)
 ==========================================================================================================================================================
 
  
 
-This is a successful approach to solve the [Qt FAQ](CppQtFaq.htm) [How
+This is a successful approach to solve the [Qt FAQ](CppQtFaq.md) [How
 to cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm), following \[1\].
+executable?](CppQtCrosscompileToWindows.md), following \[1\].
 
  
 
-See [MXE](CppMxe.htm) for more information about [MXE](CppMxe.htm).
+See [MXE](CppMxe.md) for more information about [MXE](CppMxe.md).
 
  
 
@@ -60,38 +60,38 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
--   ![Windows](PicWindows.png) [Windows](CppWindows.htm) XP
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
+-   ![Windows](PicWindows.png) [Windows](CppWindows.md) XP
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
 -   ![Command line](PicCl.png) command line
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  
@@ -104,7 +104,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppQtCrosscompileToWindowsExample15.pro
+[Qt project file](CppQtProjectFile.md): CppQtCrosscompileToWindowsExample15.pro
 --------------------------------------------------------------------------------
 
  
@@ -209,7 +209,7 @@ failed and Mark let me try this approach again.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

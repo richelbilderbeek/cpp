@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Hello NAG using C](CppHelloNagC.htm)
+([C++](Cpp.md)) [Hello NAG using C](CppHelloNagC.md)
 ======================================================
 
  
 
-[Hello NAG using C](CppHelloNagC.htm) is a [Hello
-World](CppHelloWorld.htm) program to test the [NAG](CppNag.htm)
-[library](CppLibrary.htm).
+[Hello NAG using C](CppHelloNagC.md) is a [Hello
+World](CppHelloWorld.md) program to test the [NAG](CppNag.md)
+[library](CppLibrary.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppHelloNagC' (zip)](CppHelloNagC.htm)
+    'CppHelloNagC' (zip)](CppHelloNagC.md)
 
  
 
@@ -41,35 +41,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   C: [How to use Qt Creator to compile C code?](CppCompilerC.htm)
+-   C: [How to use Qt Creator to compile C code?](CppCompilerC.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -82,7 +82,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppHelloNagC.pro
+[Qt project file](CppQtProjectFile.md): CppHelloNagC.pro
 ---------------------------------------------------------
 
  
@@ -129,5 +129,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

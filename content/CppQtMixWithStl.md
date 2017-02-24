@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Mixing Qt with STL and Boost](CppQtMixWithStl.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Mixing Qt with STL and Boost](CppQtMixWithStl.md)
 =====================================================================================
 
  
 
 This page is dedicated to answer the question if [Qt
-Creator](CppQtCreator.htm) mixes well with the [STL](CppStl.htm) and
-[Boost](CppBoost.htm) libraries.
+Creator](CppQtCreator.md) mixes well with the [STL](CppStl.md) and
+[Boost](CppBoost.md) libraries.
 
 The conclusion is that they mix perfectly using the following operating
 systems:

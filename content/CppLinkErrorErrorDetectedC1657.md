@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Error detected (C:\\1657)](CppLinkErrorErrorDetectedC1657.htm) [Error detected (C:\\1657)](CppLinkErrorErrorDetectedC1657.htm)
+([C++](Cpp.md)) [Error detected (C:\\1657)](CppLinkErrorErrorDetectedC1657.md) [Error detected (C:\\1657)](CppLinkErrorErrorDetectedC1657.htm)
 ================================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 
@@ -93,5 +93,5 @@ Close All, then reload project.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

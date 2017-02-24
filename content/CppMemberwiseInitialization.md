@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [memberwise initialization](CppMemberwiseInitialization.htm)
+([C++](Cpp.md)) [memberwise initialization](CppMemberwiseInitialization.md)
 =============================================================================
 
  
 
-[memberwise initialization](CppMemberwiseInitialization.htm) is a
-[C++11](Cpp11.htm) ...
+[memberwise initialization](CppMemberwiseInitialization.md) is a
+[C++11](Cpp11.md) ...
 
  
 
@@ -36,7 +36,7 @@ Examples
  
 
 -   [memberwise initialization example 1:
-    basics](CppMemberwiseInitializationExample1.htm)
+    basics](CppMemberwiseInitializationExample1.md)
 
  
 
@@ -48,7 +48,7 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
@@ -65,7 +65,7 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -91,5 +91,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

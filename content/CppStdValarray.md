@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::valarray](CppValarray.htm)
+([C++](Cpp.md)) [std::valarray](CppValarray.md)
 =================================================
 
  
 
-[std::valarray](CppValarray.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) with built-in algorithm support.
+[std::valarray](CppValarray.md) is an [STL](CppStl.md)
+[container](CppContainer.md) with built-in algorithm support.
 
  
 

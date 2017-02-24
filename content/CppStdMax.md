@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::max](CppMax.htm)
+([C++](Cpp.md)) [std::max](CppMax.md)
 =======================================
 
  
 
-Standard [algorithm](CppAlgorithm.htm) to get the heighest of two
-values. To get the lowest of two values, use [std::min](CppMin.htm).
+Standard [algorithm](CppAlgorithm.md) to get the heighest of two
+values. To get the lowest of two values, use [std::min](CppMin.md).
 
  
 

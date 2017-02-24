@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [CheckNewick](CppCheckNewick.htm)
+([C++](Cpp.md)) [CheckNewick](CppCheckNewick.md)
 ==================================================
 
  
 
-[CheckNewick](CppCheckNewick.htm) is a [Newick](CppNewick.htm) [code
-snippets](CppCodeSnippets.htm) to determine if a
-[std::string](CppString.htm) is a well-formed [Newick](CppNewick.htm).
+[CheckNewick](CppCheckNewick.md) is a [Newick](CppNewick.md) [code
+snippets](CppCodeSnippets.md) to determine if a
+[std::string](CppString.md) is a well-formed [Newick](CppNewick.md).
 
  
 

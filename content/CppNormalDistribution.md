@@ -12,28 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [Normal distribution](CppNormalDistribution.htm)
+([C++](Cpp.md)) [Normal distribution](CppNormalDistribution.md)
 =================================================================
 
  
 
-[Code snippets](CppCodeSnippets.htm) on [normal
-distributions](CppNormalDistribution.htm).
+[Code snippets](CppCodeSnippets.md) on [normal
+distributions](CppNormalDistribution.md).
 
  
 
 1.  [Get cumulative density of a normal distribution,
-    GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.htm)
+    GetCumulativeDensityNormal](CppGetCumulativeDensityNormal.md)
 2.  [Get density of a normal distribution,
-    GetDensityNormal](CppGetDensityNormal.htm)
+    GetDensityNormal](CppGetDensityNormal.md)
 3.  [Get a random double from a normal distribution,
-    GetRandomNormal](CppGetRandomNormal.htm)
+    GetRandomNormal](CppGetRandomNormal.md)
 4.  [GetCumulativeDensityNormal, get cumulative density of a normal
-    distribution](CppGetCumulativeDensityNormal.htm)
+    distribution](CppGetCumulativeDensityNormal.md)
 5.  [GetDensityNormal, get density of a normal
-    distribution](CppGetDensityNormal.htm)
+    distribution](CppGetDensityNormal.md)
 6.  [GetRandomNormal, get a random double from a normal
-    distribution](CppGetRandomNormal.htm)
+    distribution](CppGetRandomNormal.md)
 
  
 

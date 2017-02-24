@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's tools](Tools.htm).
+[Go back to Richel Bilderbeek's tools](Tools.md).
 
  
 
@@ -12,7 +12,7 @@
 
  
 
-([Tool](Tools.htm)) [Running Cygwin under Wine under Ubuntu](CppCygwinUnderWineUnderUbuntu.htm)
+([Tool](Tools.md)) [Running Cygwin under Wine under Ubuntu](CppCygwinUnderWineUnderUbuntu.md)
 ===============================================================================================
 
  
@@ -23,7 +23,7 @@
 
  
 
-To run [Cygwin](CppCygwin.htm) under [Wine](CppWine.htm), follow \[1\]:
+To run [Cygwin](CppCygwin.md) under [Wine](CppWine.md), follow \[1\]:
 
 -   Navigate to \~/.wine/drive\_c/cygwin
 -   wineconsole cmd
@@ -87,7 +87,7 @@ External links
 
  
 
-[Go back to Richel Bilderbeek's tools](Tools.htm).
+[Go back to Richel Bilderbeek's tools](Tools.md).
 
 
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [intuition](CppIntuition.htm)
+([C++](Cpp.md)) [intuition](CppIntuition.md)
 ==============================================
 
  
 
-[Intuition](CppIntuition.htm) is a feeling about what is wrong or right,
+[Intuition](CppIntuition.md) is a feeling about what is wrong or right,
 slow or fast.
 
  
@@ -30,13 +30,13 @@ slow or fast.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   When it comes to [performance](CppPerformance.htm), don't trust your
-    [intuition](CppIntuition.htm): measure \[1\]
+-   When it comes to [performance](CppPerformance.md), don't trust your
+    [intuition](CppIntuition.md): measure \[1\]
 
  
 
@@ -48,12 +48,12 @@ slow or fast.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[5\] When it comes to performance, don't trust
     your intuition: measure'

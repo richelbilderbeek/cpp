@@ -12,26 +12,26 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt deployment](CppWtDeploy.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt deployment](CppWtDeploy.md)
 ==================================================================
 
  
 
-[Wt deployment](CppWtDeploy.htm) is 'changing a [Wt](CppWt.htm)
+[Wt deployment](CppWtDeploy.md) is 'changing a [Wt](CppWt.md)
 application to a webpage'.
 
  
 
-There are two types of [Wt deployment](CppWtDeploy.htm): local and
+There are two types of [Wt deployment](CppWtDeploy.md): local and
 global:
 
--   ![OKAY](PicGreen.png) [Local Wt deployment](CppWtDeployLocal.htm)
-    denotes running a [Wt](CppWt.htm) application in a browser on the
+-   ![OKAY](PicGreen.png) [Local Wt deployment](CppWtDeployLocal.md)
+    denotes running a [Wt](CppWt.md) application in a browser on the
     same machine it has been developed on, without the need of internet
-    access. [Local Wt deployment](CppWtDeployLocal.htm) is described at
-    the [Hello Wt](CppHelloWt.htm) page.
+    access. [Local Wt deployment](CppWtDeployLocal.md) is described at
+    the [Hello Wt](CppHelloWt.md) page.
 -   ![?OKAY](PicYellow.png) [Global Wt
-    deployment](CppWtDeployGlobal.htm) denotes running a [Wt](CppWt.htm)
+    deployment](CppWtDeployGlobal.md) denotes running a [Wt](CppWt.md)
     application from a server, so possibly everybody with internet
     access can view it.
 

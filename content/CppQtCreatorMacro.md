@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Qt Creator macro](CppQtCreatorMacro.htm)
+([C++](Cpp.md)) [Qt Creator macro](CppQtCreatorMacro.md)
 ==========================================================
 
  
 
-[Qt Creator](CppQtCreator.htm) has some [macro's](CppMacro.htm) supplied
-( although these are actually supplied by the [GCC](CppGcc.htm)).
+[Qt Creator](CppQtCreator.md) has some [macro's](CppMacro.md) supplied
+( although these are actually supplied by the [GCC](CppGcc.md)).
 
  
 

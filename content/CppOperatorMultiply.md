@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator\*](CppOperatorMultiply.htm)
+([C++](Cpp.md)) [operator\*](CppOperatorMultiply.md)
 ======================================================
 
  
 
-[operator\*](CppOperatorMultiply.htm) is the [operator](CppOperator.htm)
-to multiply two [variables](CppVariable.htm).
+[operator\*](CppOperatorMultiply.md) is the [operator](CppOperator.md)
+to multiply two [variables](CppVariable.md).
 
  
 

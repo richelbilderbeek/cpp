@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [AnsiToDouble](CppAnsiToDouble.htm)
+([C++](Cpp.md)) [AnsiToDouble](CppAnsiToDouble.md)
 ====================================================
 
  
 
-[AnsiToDouble](CppAnsiToDouble.htm) is a [convert](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[AnsiString](CppAnsiString.htm) to [double](CppDouble.htm).
+[AnsiToDouble](CppAnsiToDouble.md) is a [convert](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[AnsiString](CppAnsiString.md) to [double](CppDouble.md).
 
  
 

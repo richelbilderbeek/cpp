@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [ThresholdFilter](CppThresholdFilter.htm)
+([C++](Cpp.md)) [ThresholdFilter](CppThresholdFilter.md)
 ==========================================================
 
  
 
-[VCL](CppVcl.htm) [graphics](CppGraphics.htm) [code
-snippet](CppCodeSnippets.htm) to perform a threshold filter operation on
-a [VCL](CppVcl.htm) [TImage](CppTImage.htm).
+[VCL](CppVcl.md) [graphics](CppGraphics.md) [code
+snippet](CppCodeSnippets.md) to perform a threshold filter operation on
+a [VCL](CppVcl.md) [TImage](CppTImage.md).
 
  
 
-There are two types of [ThresholdFilter](CppThresholdFilter.htm)
+There are two types of [ThresholdFilter](CppThresholdFilter.md)
 operations: ThresholdFilterColor and ThresholdFilterNoColor.
 ThresholdFilterColor makes a pixel black if its color is below the
 threshold. ThresholdFilterNoColor additionally makes a pixel white if it
@@ -33,8 +33,8 @@ versions.
 
  
 
-The tool [ThresholdFilterer](ToolThresholdFilterer.htm) demonstrates the
-use of [ThresholdFilter](CppThresholdFilter.htm).
+The tool [ThresholdFilterer](ToolThresholdFilterer.md) demonstrates the
+use of [ThresholdFilter](CppThresholdFilter.md).
 
  
 

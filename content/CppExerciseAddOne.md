@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise \#7: AddOne](CppExerciseAddOne.htm)
+([C++](Cpp.md)) [Exercise \#7: AddOne](CppExerciseAddOne.md)
 ==============================================================
 
  
@@ -23,14 +23,14 @@ Date added: 24th of June 2008
 
  
 
-In this [exercise](CppExercise.htm), you learn that different ways to
+In this [exercise](CppExercise.md), you learn that different ways to
 the same solution, yield different execution speeds.
 
  
 
-Below is a [declaration](CppDeclaration.htm) of a
-[function](CppFunction.htm) to add one to every [int](CppInt.htm) in a
-[std::vector](CppVector.htm):
+Below is a [declaration](CppDeclaration.md) of a
+[function](CppFunction.md) to add one to every [int](CppInt.md) in a
+[std::vector](CppVector.md):
 
  
 
@@ -53,7 +53,7 @@ Question \#1: Write a program that tests which way is fastest
 
  
 
-[View the answer of this exercise](CppExerciseAddOneAnswer.htm).
+[View the answer of this exercise](CppExerciseAddOneAnswer.md).
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable? Approach 20: Hello World](CppQtCrosscompileToWindowsExample20.htm), changing [project file](CppQtProjectFile.htm)
+([C++](Cpp.md)) ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable? Approach 20: Hello World](CppQtCrosscompileToWindowsExample20.md), changing [project file](CppQtProjectFile.htm)
 =====================================================================================================================================================================================================================================================================================================================================================================
 
  
 
 Approach to [cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm).
+executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -35,29 +35,27 @@ Environment information
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm):
+[Operating system(s) or programming environment(s)](CppOs.md):
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.04 LTS Lucid
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.04 LTS Lucid
     Lynx
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): from [GCC](CppGcc.htm),
-    shipped with [Qt Creator](CppQt.htm) 2.0.0
-
- 
+-   ![STL](PicStl.png) [STL](CppStl.md): from [GCC](CppGcc.md),
+    shipped with [Qt Creator](CppQt.md) 2.0.0
 
  
 
@@ -67,7 +65,9 @@ Environment information
 
  
 
-[Project file](CppQtProjectFile.htm)
+ 
+
+[Project file](CppQtProjectFile.md)
 ------------------------------------
 
  
@@ -91,7 +91,7 @@ Source code
 
  
 
-[Hello World](CppHelloWorld.htm) source code.
+[Hello World](CppHelloWorld.md) source code.
 
  
 

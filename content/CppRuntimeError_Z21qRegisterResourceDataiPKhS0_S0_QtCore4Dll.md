@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [The procedure entry point \_Z21qRegisterResourceDataiPKhS0\_S0\_ could not be located in the dynamic link library QtCore4.dll](CppRuntimeError_Z21qRegisterResourceDataiPKhS0_S0_QtCore4Dll.htm)
+([C++](Cpp.md)) [The procedure entry point \_Z21qRegisterResourceDataiPKhS0\_S0\_ could not be located in the dynamic link library QtCore4.dll](CppRuntimeError_Z21qRegisterResourceDataiPKhS0_S0_QtCore4Dll.md)
 ==================================================================================================================================================================================================================
 
  
@@ -21,7 +21,7 @@
 
  
 
-[Runtime error](CppRuntimeError.htm).
+[Runtime error](CppRuntimeError.md).
 
  
 
@@ -42,21 +42,21 @@ Operating system(s):
 
 -   ![Windows](PicWindows.png) Windows XP
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.1
+-   [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -85,7 +85,7 @@ Follow the solution offered by \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

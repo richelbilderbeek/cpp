@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [operator](CppOperator.htm)
+([C++](Cpp.md)) [operator](CppOperator.md)
 ============================================
 
  
 
-[Keyword](CppKeyword.htm) to [overload](CppOverload.htm) an
-[operator](CppOperator.htm). An [operator](CppOperator.htm) performs a
-[function](CppFunction.htm) or [member function](CppMemberFunction.htm).
+[Keyword](CppKeyword.md) to [overload](CppOverload.md) an
+[operator](CppOperator.md). An [operator](CppOperator.md) performs a
+[function](CppFunction.md) or [member function](CppMemberFunction.md).
 
  
 
@@ -37,51 +37,51 @@ Overview of operators (incomplete)
  
 
   ----------------------------------------------------------------------- -------------------------------------------------
-  **[operator](CppOperator.htm) name**                                    **[operator](CppOperator.htm)**
+  **[operator](CppOperator.md) name**                                    **[operator](CppOperator.md)**
                                                                           .\*
                                                                           -&gt;\*
-  [address-of operator](CppOperatorAddressOf.htm)                         [&](CppOperatorAddressOf.htm)
-  [dereference operator](CppOperatorDereference.htm)                      [\*](CppOperatorDereference.htm)
-  [assign operator](CppOperatorAssign.htm)                                [=](CppOperatorAssign.htm)
-  [bit shift left assign operator](CppOperatorBitShiftLeftAssign.htm)     [&lt;&lt;=](CppOperatorBitShiftLeftAssign.htm)
-  [bit shift right assign operator](CppOperatorBitShiftRightAssign.htm)   [&gt;&gt;=](CppOperatorBitShiftRightAssign.htm)
-  [bitwise and operator](CppOperatorBitwiseAnd.htm)                       [&](CppOperatorBitwiseAnd.htm)
-  [bitwise not operator](CppOperatorBitwiseNot.htm)                       [\~](CppOperatorBitwiseNot.htm)
-  [bitwise or operator](CppOperatorBitwiseOr.htm)                         [|](CppOperatorBitwiseOr.htm)
-  [bitwise xor operator](CppOperatorBitwiseXor.htm)                       [\^](CppOperatorBitwiseXor.htm)
-  [bitwise xor assign operator](CppOperatorBitwiseXorAssign.htm)          [\^=](CppOperatorBitwiseXorAssign.htm)
-  [comma operator](CppOperatorComma.htm)                                  [,](CppOperatorComma.htm)
-  [decrement operator](CppOperatorDecrement.htm)                          [--](CppOperatorDecrement.htm)
-  [divide assign operator](CppOperatorDivideAssign.htm)                   [/=](CppOperatorDivideAssign.htm)
-  [divide operator](CppOperatorDivide.htm)                                [/](CppOperatorDivide.htm)
-  [equal operator](CppOperatorEqual.htm)                                  [==](CppOperatorEqual.htm)
-  [function call operator](CppOperatorFunctionCall.htm)                   [()](CppOperatorFunctionCall.htm)
-  [greater than operator](CppOperatorGreater.htm)                         [&gt;](CppOperatorGreater.htm)
-  [greater than or equal operator](CppOperatorGreaterEqual.htm)           [&gt;=](CppOperatorGreaterEqual.htm)
-  [increment operator](CppOperatorIncrement.htm)                          [++](CppOperatorIncrement.htm)
-  [index operator](CppOperatorIndex.htm)                                  [\[](CppOperatorIndex.htm)
-  [index operator](CppOperatorIndex.htm)                                  [\[\]](CppOperatorIndex.htm)
-  [index operator](CppOperatorIndex.htm)                                  [\]](CppOperatorIndex.htm)
-  [less than operator](CppOperatorLess.htm)                               [&lt;](CppOperatorLess.htm)
-  [less than or equal operator](CppOperatorLessEqual.htm)                 [&lt;=](CppOperatorLessEqual.htm)
-  [logical and operator](CppOperatorLogicalAnd.htm)                       [&&](CppOperatorLogicalAnd.htm)
-  [logical not operator](CppOperatorLogicalNot.htm)                       [!](CppOperatorLogicalNot.htm)
-  [||, logical or operator](CppOperatorLogicalOr.htm)                     [||](CppOperatorLogicalOr.htm)
+  [address-of operator](CppOperatorAddressOf.md)                         [&](CppOperatorAddressOf.md)
+  [dereference operator](CppOperatorDereference.md)                      [\*](CppOperatorDereference.md)
+  [assign operator](CppOperatorAssign.md)                                [=](CppOperatorAssign.md)
+  [bit shift left assign operator](CppOperatorBitShiftLeftAssign.md)     [&lt;&lt;=](CppOperatorBitShiftLeftAssign.md)
+  [bit shift right assign operator](CppOperatorBitShiftRightAssign.md)   [&gt;&gt;=](CppOperatorBitShiftRightAssign.md)
+  [bitwise and operator](CppOperatorBitwiseAnd.md)                       [&](CppOperatorBitwiseAnd.md)
+  [bitwise not operator](CppOperatorBitwiseNot.md)                       [\~](CppOperatorBitwiseNot.md)
+  [bitwise or operator](CppOperatorBitwiseOr.md)                         [|](CppOperatorBitwiseOr.md)
+  [bitwise xor operator](CppOperatorBitwiseXor.md)                       [\^](CppOperatorBitwiseXor.md)
+  [bitwise xor assign operator](CppOperatorBitwiseXorAssign.md)          [\^=](CppOperatorBitwiseXorAssign.md)
+  [comma operator](CppOperatorComma.md)                                  [,](CppOperatorComma.md)
+  [decrement operator](CppOperatorDecrement.md)                          [--](CppOperatorDecrement.md)
+  [divide assign operator](CppOperatorDivideAssign.md)                   [/=](CppOperatorDivideAssign.md)
+  [divide operator](CppOperatorDivide.md)                                [/](CppOperatorDivide.md)
+  [equal operator](CppOperatorEqual.md)                                  [==](CppOperatorEqual.md)
+  [function call operator](CppOperatorFunctionCall.md)                   [()](CppOperatorFunctionCall.md)
+  [greater than operator](CppOperatorGreater.md)                         [&gt;](CppOperatorGreater.md)
+  [greater than or equal operator](CppOperatorGreaterEqual.md)           [&gt;=](CppOperatorGreaterEqual.md)
+  [increment operator](CppOperatorIncrement.md)                          [++](CppOperatorIncrement.md)
+  [index operator](CppOperatorIndex.md)                                  [\[](CppOperatorIndex.md)
+  [index operator](CppOperatorIndex.md)                                  [\[\]](CppOperatorIndex.md)
+  [index operator](CppOperatorIndex.md)                                  [\]](CppOperatorIndex.md)
+  [less than operator](CppOperatorLess.md)                               [&lt;](CppOperatorLess.md)
+  [less than or equal operator](CppOperatorLessEqual.md)                 [&lt;=](CppOperatorLessEqual.md)
+  [logical and operator](CppOperatorLogicalAnd.md)                       [&&](CppOperatorLogicalAnd.md)
+  [logical not operator](CppOperatorLogicalNot.md)                       [!](CppOperatorLogicalNot.md)
+  [||, logical or operator](CppOperatorLogicalOr.md)                     [||](CppOperatorLogicalOr.md)
   member access operator                                                  .
-  [arrow operator](CppArrowOperator.htm)                                  -&gt;
-  [minus assign operator](CppOperatorMinusAssign.htm)                     [-=](CppOperatorMinusAssign.htm)
-  [minus operator](CppOperatorMinus.htm)                                  [-](CppOperatorMinus.htm)
-  [modulus assign operator](CppOperatorModulusAssign.htm)                 [%=](CppOperatorModulusAssign.htm)
-  [modulus operator](CppOperatorModulus.htm)                              [%](CppOperatorModulus.htm)
-  [multiply assign operator](CppOperatorMultiplyAssign.htm)               [\*=](CppOperatorMultiplyAssign.htm)
-  [multiply operator](CppOperatorMultiply.htm)                            [\*](CppOperatorMultiply.htm)
-  [not equal operator](CppOperatorNotEqual.htm)                           [!=](CppOperatorNotEqual.htm)
-  [plus assign operator](CppOperatorPlusAssign.htm)                       [+=](CppOperatorPlusAssign.htm)
-  [plus operator](CppOperatorPlus.htm)                                    [+](CppOperatorPlus.htm)
-  [questionmark colon operator](CppOperatorQuestionmarkColon.htm)         [?:](CppOperatorQuestionmarkColon.htm)
-  [scope operator](CppOperatorScope.htm)                                  [::](CppOperatorScope.htm)
-  [sizeof operator](CppSizeof.htm)                                        [sizeof](CppOperatorSizeof.htm)
-  [stream out operator](CppOperatorStreamOut.htm)                         [&lt;&lt;](CppOperatorStreamOut.htm)
+  [arrow operator](CppArrowOperator.md)                                  -&gt;
+  [minus assign operator](CppOperatorMinusAssign.md)                     [-=](CppOperatorMinusAssign.md)
+  [minus operator](CppOperatorMinus.md)                                  [-](CppOperatorMinus.md)
+  [modulus assign operator](CppOperatorModulusAssign.md)                 [%=](CppOperatorModulusAssign.md)
+  [modulus operator](CppOperatorModulus.md)                              [%](CppOperatorModulus.md)
+  [multiply assign operator](CppOperatorMultiplyAssign.md)               [\*=](CppOperatorMultiplyAssign.md)
+  [multiply operator](CppOperatorMultiply.md)                            [\*](CppOperatorMultiply.md)
+  [not equal operator](CppOperatorNotEqual.md)                           [!=](CppOperatorNotEqual.md)
+  [plus assign operator](CppOperatorPlusAssign.md)                       [+=](CppOperatorPlusAssign.md)
+  [plus operator](CppOperatorPlus.md)                                    [+](CppOperatorPlus.md)
+  [questionmark colon operator](CppOperatorQuestionmarkColon.md)         [?:](CppOperatorQuestionmarkColon.md)
+  [scope operator](CppOperatorScope.md)                                  [::](CppOperatorScope.md)
+  [sizeof operator](CppSizeof.md)                                        [sizeof](CppOperatorSizeof.md)
+  [stream out operator](CppOperatorStreamOut.md)                         [&lt;&lt;](CppOperatorStreamOut.md)
   ----------------------------------------------------------------------- -------------------------------------------------
 
  
@@ -94,14 +94,14 @@ Overview of operators (incomplete)
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   [Define](CppDefinition.htm) [operators](CppOperator.htm) primarily
+-   [Define](CppDefinition.md) [operators](CppOperator.md) primarily
     to mimic conventional usage \[1\]
--   Place spaces on either side of a binary [operator](CppOperator.htm)
+-   Place spaces on either side of a binary [operator](CppOperator.md)
     \[2\]
 
  
@@ -114,12 +114,12 @@ Overview of operators (incomplete)
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
     Advice, page 547: '\[1\] Define operators primarily to mimic
     conventional usage'

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::noshowpos](CppNoshowpos.htm)
+([C++](Cpp.md)) [std::noshowpos](CppNoshowpos.md)
 ===================================================
 
  
 
-[std::noshowpos](CppNoshowpos.htm) is a [stream](CppStream.htm) modifier
+[std::noshowpos](CppNoshowpos.md) is a [stream](CppStream.md) modifier
 to not prepend positive values by a plus.
 
  

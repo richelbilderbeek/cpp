@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#29](CppExerciseNoForLoopsAnswer29.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#29](CppExerciseNoForLoopsAnswer29.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,14 +30,14 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#29: GetAllTrue on [std::map](CppMap.htm)&lt;**[int](CppInt.htm)**,**[bool](CppBool.htm)**&gt;
+Question \#29: GetAllTrue on [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.htm)**&gt;
 --------------------------------------------------------------------------------------------------------
 
  
 
-Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.htm). You will need:
+Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.md). You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -55,7 +55,7 @@ Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.htm). You will need:
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Bind
 --------------------------------------------------------------
 
  

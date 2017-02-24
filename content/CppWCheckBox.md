@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WCheckBox](CppWCheckBox.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WCheckBox](CppWCheckBox.md)
 ===================================================================
 
  
 
-[Wt::WCheckBox](CppWCheckBox.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WCheckBox](CppWCheckBox.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WCheckBox](CppWCheckBox.htm) is used in, among others:
+[Wt::WCheckBox](CppWCheckBox.md) is used in, among others:
 
 -   ...
 

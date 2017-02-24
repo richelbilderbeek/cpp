@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QMainWindow](CppQMainWindow.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QMainWindow](CppQMainWindow.md)
 ===================================================================
 
  
 
-[QMainWindow](CppQMainWindow.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm).
+[QMainWindow](CppQMainWindow.md) is a [Qt](CppQt.md)
+[class](CppClass.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::internal](CppInternal.htm)
+([C++](Cpp.md)) [std::internal](CppInternal.md)
 =================================================
 
  
 
-[std::internal](CppInternal.htm) is a [stream](CppStream.htm)
+[std::internal](CppInternal.md) is a [stream](CppStream.md)
 manipulator to let padding spaces of a negative number be put between
 the minus and its digits.
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![C++11](PicCpp11.png)![STL](PicStl.png) [std::tuple](CppStdTuple.htm)
+([C++](Cpp.md)) ![C++11](PicCpp11.png)![STL](PicStl.png) [std::tuple](CppStdTuple.md)
 =======================================================================================
 
  
 
-[std::tuple](CppStdTuple.htm) is a [C++11](Cpp11.htm) [STL](CppStl.htm)
-[container](CppContainer.htm) [class](CppClass.htm) for a
-[tuple](CppTuple.htm).
+[std::tuple](CppStdTuple.md) is a [C++11](Cpp11.md) [STL](CppStl.htm)
+[container](CppContainer.md) [class](CppClass.md) for a
+[tuple](CppTuple.md).
 
  
 
--   [std::tuple example 1: basics](CppStdTupleExample1.htm)
+-   [std::tuple example 1: basics](CppStdTupleExample1.md)
 
  
 

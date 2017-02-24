@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [How to install GMP under Ubuntu?](CppGmpInstallUbuntu.htm)
+([C++](Cpp.md)) [How to install GMP under Ubuntu?](CppGmpInstallUbuntu.md)
 ============================================================================
 
  
 
-[Installing GMP](CppGmpInstall.htm) under Ubuntu is straightforward:
+[Installing GMP](CppGmpInstall.md) under Ubuntu is straightforward:
 download the code from the GMP homepage and follow the instructions in
 'INSTALL'.
 
@@ -31,7 +31,7 @@ download the code from the GMP homepage and follow the instructions in
 
  
 
-[GMP](CppGmp.htm) installation error
+[GMP](CppGmp.md) installation error
 ------------------------------------
 
  
@@ -58,13 +58,13 @@ Installing should be simple:
 
  
 
-[GMP](CppGmp.htm) [install error](CppInstallError.htm)
+[GMP](CppGmp.md) [install error](CppInstallError.md)
 ------------------------------------------------------
 
  
 
 -   [No usable m4 in \$PATH or
-    /usr/5bin](CppInstallErrorGmpNoUsableM4InPathOrUsr5bin.htm)
+    /usr/5bin](CppInstallErrorGmpNoUsableM4InPathOrUsr5bin.md)
 
  
 

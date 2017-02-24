@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Ubuntu](PicUbuntu.png)![VirtualBox](PicVirtualBox.png)![Windows](PicWindows.png) [::nrand48](CppNrand48.htm)
+([C++](Cpp.md)) ![Ubuntu](PicUbuntu.png)![VirtualBox](PicVirtualBox.png)![Windows](PicWindows.png) [::nrand48](CppNrand48.md)
 ===============================================================================================================================
 
  
 
-[::nrand48](CppNrand48.htm) is a [function](CppFunction.htm) in the
-[global](CppGlobal.htm) [namespace](CppNamespace.htm) supplied with some
-[STL](CppStl.htm)'s to draw a positive (that is: non-negative) [random
-number](CppRandom.htm) uniformly distributed between 0 and 2\^31.
+[::nrand48](CppNrand48.md) is a [function](CppFunction.md) in the
+[global](CppGlobal.md) [namespace](CppNamespace.md) supplied with some
+[STL](CppStl.md)'s to draw a positive (that is: non-negative) [random
+number](CppRandom.md) uniformly distributed between 0 and 2\^31.
 
  
 
-[::nrand48](CppNrand48.htm) needs to have a buffer supplied.
-[Nrand48](CppNrand48.htm) is identical to [::nrand48](CppNrand48.htm).
+[::nrand48](CppNrand48.md) needs to have a buffer supplied.
+[Nrand48](CppNrand48.md) is identical to [::nrand48](CppNrand48.md).
 
  
 
@@ -62,41 +62,41 @@ Technical facts about source code above
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 -   ![Mobile](PicMobile.png) [Mobile
-    application](CppMobileApplication.htm)
+    application](CppMobileApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
--   ![VirtualBox](PicVirtualBox.png) [VirtualBox](CppVirtualBox.htm)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
+-   ![VirtualBox](PicVirtualBox.png) [VirtualBox](CppVirtualBox.md)
     3.2.8\_OSEr64453
--   ![Windows](PicWindows.png) [Windows](CppWindows.htm) XP
+-   ![Windows](PicWindows.png) [Windows](CppWindows.md) XP
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+    application](CppConsoleApplication.md)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  

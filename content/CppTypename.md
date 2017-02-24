@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [typename](CppTypename.htm)
+([C++](Cpp.md)) [typename](CppTypename.md)
 ============================================
 
  
 
-[Keyword](CppKeyword.htm) used in [template
-classes](CppTemplateClass.htm) or [policies](CppPolicy.htm).
+[Keyword](CppKeyword.md) used in [template
+classes](CppTemplateClass.md) or [policies](CppPolicy.md).
 
  
 
@@ -45,5 +45,5 @@ classes](CppTemplateClass.htm) or [policies](CppPolicy.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

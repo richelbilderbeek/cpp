@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::set\_difference](CppSet_difference.htm)
+([C++](Cpp.md)) [std::set\_difference](CppSet_difference.md)
 ==============================================================
 
  
 
-[std::set\_difference](CppSet_difference.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to create the subset of two sets of which
+[std::set\_difference](CppSet_difference.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to create the subset of two sets of which
 the elements are all present in the first and absent in the second set
-(stored in any type of [container](CppContainer.htm)).
+(stored in any type of [container](CppContainer.md)).
 
  
 

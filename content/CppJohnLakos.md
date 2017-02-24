@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [John Lakos](CppJohnLakos.htm)
+([C++](Cpp.md)) [John Lakos](CppJohnLakos.md)
 ===============================================
 
  
 
-[John Lakos](CppJohnLakos.htm) is a [person](CppPeople.htm) and author
-of of a [C++](Cpp.htm) [book](CppBooks.htm).
+[John Lakos](CppJohnLakos.md) is a [person](CppPeople.md) and author
+of of a [C++](Cpp.md) [book](CppBooks.md).
 
  
 
@@ -30,12 +30,12 @@ of of a [C++](Cpp.htm) [book](CppBooks.htm).
 
  
 
-List of [books](CppBooks.htm) (co-)authored by [John Lakos](CppJohnLakos.htm)
+List of [books](CppBooks.md) (co-)authored by [John Lakos](CppJohnLakos.md)
 -----------------------------------------------------------------------------
 
  
 
--   [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+-   [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0.
 
  

@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png) [Hello Boost.Xpressive using Qt Creator under Lubuntu](CppHelloXpressiveQtCreatorLubuntu.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png) [Hello Boost.Xpressive using Qt Creator under Lubuntu](CppHelloXpressiveQtCreatorLubuntu.md)
 ==============================================================================================================================================================================================
 
  
 
 [Hello Boost.Xpressive using Qt Creator under
-Lubuntu](CppHelloXpressiveQtCreatorLubuntu.htm) is a specialization of
-[Hello Boost.Xpressive](CppHelloXpressive.htm) for [Qt
-Creator](CppQtCreator.htm) under [Lubuntu](CppLubuntu.htm).
+Lubuntu](CppHelloXpressiveQtCreatorLubuntu.md) is a specialization of
+[Hello Boost.Xpressive](CppHelloXpressive.md) for [Qt
+Creator](CppQtCreator.md) under [Lubuntu](CppLubuntu.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppHelloXpressiveQtCreatorLubuntu' (zip)](CppHelloXpressiveQtCreatorLubuntu.htm)
+    'CppHelloXpressiveQtCreatorLubuntu' (zip)](CppHelloXpressiveQtCreatorLubuntu.md)
 
  
 
@@ -42,30 +42,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -78,7 +78,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppHelloXpressiveQtCreatorLubuntu.pro
+[Qt project file](CppQtProjectFile.md): CppHelloXpressiveQtCreatorLubuntu.pro
 ------------------------------------------------------------------------------
 
  
@@ -125,5 +125,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

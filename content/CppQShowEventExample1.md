@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QShowEvent example 1: visibility](CppQShowEventExample1.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QShowEvent example 1: visibility](CppQShowEventExample1.md)
 ===============================================================================================
 
  
 
-[QShowEvent example 1: visibility](CppQShowEventExample1.htm) is a
-[QShowEvent](CppQShowEvent.htm) example that verifies that a
-[widget](CppQWidget.htm) is invisible in a [dialog](CppQDialog.htm) its
-[constructor](CppConstructor.htm), but is visible in the showEvent
-[member function](CppMemberFunction.htm).
+[QShowEvent example 1: visibility](CppQShowEventExample1.md) is a
+[QShowEvent](CppQShowEvent.md) example that verifies that a
+[widget](CppQWidget.md) is invisible in a [dialog](CppQDialog.md) its
+[constructor](CppConstructor.md), but is visible in the showEvent
+[member function](CppMemberFunction.md).
 
  
 
@@ -47,35 +47,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.4 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.4 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -88,7 +88,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppQShowEventExample1.pro
+[Qt project file](CppQtProjectFile.md): CppQShowEventExample1.pro
 ------------------------------------------------------------------
 
  
@@ -173,5 +173,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

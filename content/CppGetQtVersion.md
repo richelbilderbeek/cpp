@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetQtVersion](CppGetQtVersion.htm)
+([C++](Cpp.md)) [GetQtVersion](CppGetQtVersion.md)
 ====================================================
 
  
 
-[GetQtVersion](CppGetQtVersion.htm) is a [version](CppVersion.htm) [code
-snippets](CppCodeSnippets.htm) to obtain the [version](CppVersion.htm)
-of the current [Qt](CppQt.htm) [library](CppLibrary.htm) in use.
+[GetQtVersion](CppGetQtVersion.md) is a [version](CppVersion.md) [code
+snippets](CppCodeSnippets.md) to obtain the [version](CppVersion.md)
+of the current [Qt](CppQt.md) [library](CppLibrary.md) in use.
 
  
 

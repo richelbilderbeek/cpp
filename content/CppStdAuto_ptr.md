@@ -12,43 +12,43 @@
 
  
 
-([C++](Cpp.htm)) [std::auto\_ptr](CppAuto_ptr.htm)
+([C++](Cpp.md)) [std::auto\_ptr](CppAuto_ptr.md)
 ==================================================
 
  
 
-The [class template](CppClassTemplate.htm)
-[std::auto\_ptr](CppAuto_ptr.htm) is deprecated \[5\]. The [class
-template](CppClassTemplate.htm) [std::unique\_ptr](CppUnique_ptr.htm)
+The [class template](CppClassTemplate.md)
+[std::auto\_ptr](CppAuto_ptr.md) is deprecated \[5\]. The [class
+template](CppClassTemplate.md) [std::unique\_ptr](CppUnique_ptr.md)
 provides a better solution \[5\].
 
  
 
-[std::auto\_ptr](CppAuto_ptr.htm) is a [smart
-pointer](CppSmartPointer.htm) that [deletes](CppDelete.htm) the
-[instance](CppInstance.htm) it points to when going out of
-[scope](CppScope.htm). It is supplied in the [STL](CppStl.htm) [header
-file](CppHeaderFile.htm) [memory.h](CppMemoryH.htm).
+[std::auto\_ptr](CppAuto_ptr.md) is a [smart
+pointer](CppSmartPointer.md) that [deletes](CppDelete.md) the
+[instance](CppInstance.md) it points to when going out of
+[scope](CppScope.md). It is supplied in the [STL](CppStl.md) [header
+file](CppHeaderFile.md) [memory.h](CppMemoryH.md).
 
  
 
-[std::auto\_ptr](CppAuto_ptr.htm) helps to:
+[std::auto\_ptr](CppAuto_ptr.md) helps to:
 
  
 
--   Manage [pointers](CppPointer.htm) and preventing [memory
-    leaks](CppMemoryLeak.htm)
--   Clarifies the [pointer](CppPointer.htm) management/ownership in
-    [classes](CppClass.htm)
--   Make code [exception safe](CppExceptionSafe.htm)
+-   Manage [pointers](CppPointer.md) and preventing [memory
+    leaks](CppMemoryLeak.md)
+-   Clarifies the [pointer](CppPointer.md) management/ownership in
+    [classes](CppClass.md)
+-   Make code [exception safe](CppExceptionSafe.md)
 
  
 
 Note: when you use a lot of [forward
-declarations](CppForwardDeclaration.htm), you might want to prefer
-[boost::scoped\_ptr](CppScoped_ptr.htm) as it uses
-[boost::checked\_delete](CppChecked_delete.htm). Also,
-[boost::scoped\_ptr](CppScoped_ptr.htm) cannot be copied, so you will
+declarations](CppForwardDeclaration.md), you might want to prefer
+[boost::scoped\_ptr](CppScoped_ptr.md) as it uses
+[boost::checked\_delete](CppChecked_delete.md). Also,
+[boost::scoped\_ptr](CppScoped_ptr.md) cannot be copied, so you will
 nearly ever be amazed by 'strange' behaviour.
 
  
@@ -92,11 +92,11 @@ and store newed objects in smart pointers in standalone statements
 
  
 
-[std::auto\_ptr](CppAuto_ptr.htm)'s does more then saving you a
-[delete](CppDelete.htm) statement. It ensures that the instance pointed
+[std::auto\_ptr](CppAuto_ptr.md)'s does more then saving you a
+[delete](CppDelete.md) statement. It ensures that the instance pointed
 to is only pointed to once. This is done by a non-symettric copy: when
-you pass a pointer from [std::auto\_ptr](CppAuto_ptr.htm) to
-[std::auto\_ptr](CppAuto_ptr.htm), the original possessor gets zero.
+you pass a pointer from [std::auto\_ptr](CppAuto_ptr.md) to
+[std::auto\_ptr](CppAuto_ptr.md), the original possessor gets zero.
 This is demonstrated below:
 
  
@@ -108,7 +108,7 @@ This is demonstrated below:
  
 
 To get a copy to the pointed instance use the
-std::auto\_ptr&lt;T&gt;::get [member function](CppMemberFunction.htm):
+std::auto\_ptr&lt;T&gt;::get [member function](CppMemberFunction.md):
 
  
 
@@ -131,9 +131,9 @@ Pointer management
 
  
 
-Also, using a [std::auto\_ptr](CppAuto_ptr.htm), it gets clear which
-[class](CppClass.htm) manages the [deletion](CppDelete.htm) of the
-pointed [instance](CppInstance.htm).
+Also, using a [std::auto\_ptr](CppAuto_ptr.md), it gets clear which
+[class](CppClass.md) manages the [deletion](CppDelete.md) of the
+pointed [instance](CppInstance.md).
 
  
 
@@ -143,8 +143,8 @@ pointed [instance](CppInstance.htm).
 
  
 
-If the [instance](CppInstance.htm) pointed to needs to be give to
-another [class](CppClass.htm), then MyClass::GetSomething is left with
+If the [instance](CppInstance.md) pointed to needs to be give to
+another [class](CppClass.md), then MyClass::GetSomething is left with
 an empty (that is: **0**) pSomething.
 
  
@@ -157,19 +157,19 @@ an empty (that is: **0**) pSomething.
 
  
 
-Make code [exception safe](CppExceptionSafe.htm)
+Make code [exception safe](CppExceptionSafe.md)
 ------------------------------------------------
 
  
 
-When you create a new [instance](CppInstance.htm) dynamically in a
+When you create a new [instance](CppInstance.md) dynamically in a
 certain function using a plain pointer, in the end of this function you
-call [delete](CppDelete.htm). But when in the middle an
-[exception](CppException.htm) is [thrown](CppThrow.htm), this
-[delete](CppDelete.htm) is not called anymore! When using an
-[auto\_ptr](CppAuto_ptr.htm), the instance DOES get deleted. This is
-because [auto\_ptr](CppAuto_ptr.htm)'s [delete](CppDelete.htm) their
-[instances](CppInstance.htm) when they go out of [scope](CppScope.htm).
+call [delete](CppDelete.md). But when in the middle an
+[exception](CppException.md) is [thrown](CppThrow.md), this
+[delete](CppDelete.md) is not called anymore! When using an
+[auto\_ptr](CppAuto_ptr.md), the instance DOES get deleted. This is
+because [auto\_ptr](CppAuto_ptr.md)'s [delete](CppDelete.md) their
+[instances](CppInstance.md) when they go out of [scope](CppScope.md).
 
  
 
@@ -194,20 +194,16 @@ Note, warnings, curiosities
 
  
 
-### Do not create an [array](CppArray.htm) dynamically using a std::auto\_ptr
+### Do not create an [array](CppArray.md) dynamically using a std::auto\_ptr
 
  
 
-This will give you a [memory leak](CppMemoryLeak.htm), as a
-std::auto\_ptr calls [delete](CppDelete.htm), instead of
-[delete\[\]](CppDeleteArray.htm). As advised by \[1\], you should prefer
-a [std::vector](CppVector.htm) over an array. But if you really want to
-use a [smart pointer](CppSmartPointer.htm), use a
-[boost::scoped\_array](CppScoped_array.htm).
-
- 
-
- 
+This will give you a [memory leak](CppMemoryLeak.md), as a
+std::auto\_ptr calls [delete](CppDelete.md), instead of
+[delete\[\]](CppDeleteArray.md). As advised by \[1\], you should prefer
+a [std::vector](CppVector.md) over an array. But if you really want to
+use a [smart pointer](CppSmartPointer.md), use a
+[boost::scoped\_array](CppScoped_array.md).
 
  
 
@@ -215,14 +211,18 @@ use a [smart pointer](CppSmartPointer.htm), use a
 
  
 
-### Do not put [std::auto\_ptr](CppAuto_ptr.htm)'s in a [std::vector](CppVector.htm) \[4\]
+ 
 
  
 
-A copy of a [std::auto\_ptr](CppAuto_ptr.htm) does not copy the memory
+### Do not put [std::auto\_ptr](CppAuto_ptr.md)'s in a [std::vector](CppVector.md) \[4\]
+
+ 
+
+A copy of a [std::auto\_ptr](CppAuto_ptr.md) does not copy the memory
 address pointed to. Therefore, when using e.g. a sorting algorithm, some
-pointed [instances](CppInstance.htm) might get [deleted](CppDelete.htm)!
-Instead, use a [boost::shared\_ptr](CppShared_ptr.htm).
+pointed [instances](CppInstance.md) might get [deleted](CppDelete.md)!
+Instead, use a [boost::shared\_ptr](CppShared_ptr.md).
 
  
 
@@ -234,13 +234,13 @@ Instead, use a [boost::shared\_ptr](CppShared_ptr.htm).
 
  
 
-### Resetting a[std::auto\_ptr](CppAuto_ptr.htm)
+### Resetting a[std::auto\_ptr](CppAuto_ptr.md)
 
  
 
-Resetting a [std::auto\_ptr](CppAuto_ptr.htm) first constructs a new
-[instance](CppInstance.htm) of the [class](CppClass.htm) before
-[deleting](CppDelete.htm) the old [instance](CppInstance.htm). This is
+Resetting a [std::auto\_ptr](CppAuto_ptr.md) first constructs a new
+[instance](CppInstance.md) of the [class](CppClass.md) before
+[deleting](CppDelete.md) the old [instance](CppInstance.md). This is
 demonstrated by the code below:
 
  
@@ -275,7 +275,7 @@ released.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

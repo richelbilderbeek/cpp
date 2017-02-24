@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [SetReadOnlyTableWidget](CppSetReadOnlyTableWidget.htm)
+([C++](Cpp.md)) [SetReadOnlyTableWidget](CppSetReadOnlyTableWidget.md)
 ========================================================================
 
  
 
-[SetReadOnlyTableWidget](CppSetReadOnlyTableWidget.htm) is a
-[QTableWidget](CppQTableWidget.htm) [code snippet](CppCodeSnippets.htm)
-to render a [QTableWidget](CppQTableWidget.htm) read-only.
+[SetReadOnlyTableWidget](CppSetReadOnlyTableWidget.md) is a
+[QTableWidget](CppQTableWidget.md) [code snippet](CppCodeSnippets.md)
+to render a [QTableWidget](CppQTableWidget.md) read-only.
 
  
 

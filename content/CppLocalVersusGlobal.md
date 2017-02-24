@@ -12,31 +12,31 @@
 
  
 
-([C++](Cpp.htm)) [LocalVersusGlobal](CppLocalVersusGlobal.htm)
+([C++](Cpp.md)) [LocalVersusGlobal](CppLocalVersusGlobal.md)
 ==============================================================
 
  
 
-A simple [benchmark](CppBenchmark.htm) that tests the speed of
-[local](CppLocal.htm) versus [member variables](CppMemberVariable.htm)
-versus [global](CppGlobal.htm) [variables](CppVariable.htm).
+A simple [benchmark](CppBenchmark.md) that tests the speed of
+[local](CppLocal.md) versus [member variables](CppMemberVariable.md)
+versus [global](CppGlobal.md) [variables](CppVariable.md).
 
  
 
 The following tests are performed:
 
--   A complex calculation on only [local](CppLocal.htm)
-    [variables](CppVariable.htm)
+-   A complex calculation on only [local](CppLocal.md)
+    [variables](CppVariable.md)
 -   A complex calculation on only [member
-    variables](CppMemberVariable.htm)
+    variables](CppMemberVariable.md)
 -   A complex calculation on only [member
-    variables](CppMemberVariable.htm), that are first copied to
-    [local](CppLocal.htm) [variables](CppVariable.htm). In the end of
-    the calculation, the [local](CppLocal.htm)
-    [variables](CppVariable.htm) are written to the [member
-    variables](CppMemberVariable.htm) they originated from
--   A complex calculation on only [global](CppGlobal.htm)
-    [variables](CppVariable.htm)
+    variables](CppMemberVariable.md), that are first copied to
+    [local](CppLocal.md) [variables](CppVariable.md). In the end of
+    the calculation, the [local](CppLocal.md)
+    [variables](CppVariable.md) are written to the [member
+    variables](CppMemberVariable.md) they originated from
+-   A complex calculation on only [global](CppGlobal.md)
+    [variables](CppVariable.md)
 
  
 
@@ -47,7 +47,7 @@ The following tests are performed:
 
  
 
-Avoid using [global](CppGlobal.htm) data \[1-4\].
+Avoid using [global](CppGlobal.md) data \[1-4\].
 
  
 
@@ -64,35 +64,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -105,7 +105,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppLocalVersusGlobal.pro
+[Qt project file](CppQtProjectFile.md): CppLocalVersusGlobal.pro
 -----------------------------------------------------------------
 
  
@@ -148,7 +148,7 @@ Results
 
  
 
-On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.htm):
+On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.md):
 
  
 
@@ -166,14 +166,14 @@ On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.htm):
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315. Item 18: 'Declare variables as locally
     as possible'.
 -   Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. Gotcha
@@ -202,5 +202,5 @@ On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.htm):
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

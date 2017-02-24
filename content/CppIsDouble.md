@@ -12,32 +12,28 @@
 
  
 
-([C++](Cpp.htm)) [IsDouble](CppIsDouble.htm)
+([C++](Cpp.md)) [IsDouble](CppIsDouble.md)
 ============================================
 
  
 
-[IsDouble](CppIsDouble.htm) is a [check](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) to check if a [std::string](CppString.htm)
-or [AnsiString](CppAnsiString.htm) can be converted to a
-[double](CppDouble.htm).
+[IsDouble](CppIsDouble.md) is a [check](CppCheck.md) [code
+snippet](CppCodeSnippets.md) to check if a [std::string](CppString.md)
+or [AnsiString](CppAnsiString.md) can be converted to a
+[double](CppDouble.md).
 
  
 
-[IsDouble](CppIsDouble.htm) is shown in two flavors:
+[IsDouble](CppIsDouble.md) is shown in two flavors:
 
--   [IsDouble](CppIsDouble.htm) for [std::string](CppString.htm)
--   [IsDouble](CppIsDouble.htm) for [AnsiString](CppAnsiString.htm)
-
- 
-
-For [std::strings](CppString.htm), [CanCast](CppCanCast.htm) and
-[CanLexicalCast](CppCanLexicalCast.htm) are more general versions of
-[IsDouble](CppIsDouble.htm).
+-   [IsDouble](CppIsDouble.md) for [std::string](CppString.md)
+-   [IsDouble](CppIsDouble.md) for [AnsiString](CppAnsiString.md)
 
  
 
- 
+For [std::strings](CppString.md), [CanCast](CppCanCast.md) and
+[CanLexicalCast](CppCanLexicalCast.md) are more general versions of
+[IsDouble](CppIsDouble.md).
 
  
 
@@ -45,7 +41,11 @@ For [std::strings](CppString.htm), [CanCast](CppCanCast.htm) and
 
  
 
-[IsDouble](CppIsDouble.htm) for [std::string](CppString.htm)
+ 
+
+ 
+
+[IsDouble](CppIsDouble.md) for [std::string](CppString.md)
 ------------------------------------------------------------
 
  
@@ -64,13 +64,13 @@ For [std::strings](CppString.htm), [CanCast](CppCanCast.htm) and
 
  
 
-[IsDouble](CppIsDouble.htm) for [AnsiString](CppAnsiString.htm)
+[IsDouble](CppIsDouble.md) for [AnsiString](CppAnsiString.md)
 ---------------------------------------------------------------
 
  
 
-This code [compiles](CppCompile.htm) cleanly under [C++
-Builder](CppBuilder.htm) 6.0
+This code [compiles](CppCompile.md) cleanly under [C++
+Builder](CppBuilder.md) 6.0
 
  
 

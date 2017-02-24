@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [shared library](CppSharedLibrary.htm)
+([C++](Cpp.md)) [shared library](CppSharedLibrary.md)
 =======================================================
 
  
 
-A [shared library](CppSharedLibrary.htm) is a type
-[library](CppLibrary.htm).
+A [shared library](CppSharedLibrary.md) is a type
+[library](CppLibrary.md).
 
  
 
-To build a [shared library](CppSharedLibrary.htm) add, the following
-line to the [Qt](CppQt.htm) [project file](CppProjectFile.htm):
+To build a [shared library](CppSharedLibrary.md) add, the following
+line to the [Qt](CppQt.md) [project file](CppProjectFile.md):
 
  
 

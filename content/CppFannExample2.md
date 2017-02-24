@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [FANN example 2: solving the XOR problem](CppFannExample2.htm)
+([C++](Cpp.md)) [FANN example 2: solving the XOR problem](CppFannExample2.md)
 ===============================================================================
 
  
 
-This example shows how [FANN](CppFann.htm) creates a neural network that
+This example shows how [FANN](CppFann.md) creates a neural network that
 learns to solve the XOR problem.
 
  
@@ -29,19 +29,17 @@ learns to solve the XOR problem.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [FANN](CppFann.htm): version 1.2.0-1
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [FANN](CppFann.md): version 1.2.0-1
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -51,7 +49,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

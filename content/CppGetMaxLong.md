@@ -12,25 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [GetMaxLong](CppGetMaxLong.htm)
+([C++](Cpp.md)) [GetMaxLong](CppGetMaxLong.md)
 ================================================
 
  
 
-[GetMaxLong](CppGetMaxLong.htm) is a [checking](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) to get the maximal value of a
-[long](CppLong.htm).
+[GetMaxLong](CppGetMaxLong.md) is a [checking](CppCheck.md) [code
+snippet](CppCodeSnippets.md) to get the maximal value of a
+[long](CppLong.md).
 
  
 
-[GetMaxLong](CppGetMaxLong.htm) has two flavors:
+[GetMaxLong](CppGetMaxLong.md) has two flavors:
 
-1.  [STL](CppStl.htm) [GetMaxLong](CppGetMaxLong.htm)
-2.  [Boost](CppBoost.htm) [GetMaxLong](CppGetMaxLong.htm)
-
- 
-
- 
+1.  [STL](CppStl.md) [GetMaxLong](CppGetMaxLong.md)
+2.  [Boost](CppBoost.md) [GetMaxLong](CppGetMaxLong.md)
 
  
 
@@ -38,7 +34,11 @@ snippet](CppCodeSnippets.htm) to get the maximal value of a
 
  
 
-[STL](CppStl.htm) [GetMaxLong](CppGetMaxLong.htm)
+ 
+
+ 
+
+[STL](CppStl.md) [GetMaxLong](CppGetMaxLong.md)
 -------------------------------------------------
 
  
@@ -57,7 +57,7 @@ snippet](CppCodeSnippets.htm) to get the maximal value of a
 
  
 
-[Boost](CppBoost.htm) [GetMaxLong](CppGetMaxLong.htm)
+[Boost](CppBoost.md) [GetMaxLong](CppGetMaxLong.md)
 -----------------------------------------------------
 
  

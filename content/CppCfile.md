@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [FILE](CppCfile.htm)
+([C++](Cpp.md)) [FILE](CppCfile.md)
 =====================================
 
  
 
-[FILE](CppCfile.htm) is a [struct](CppStruct.htm) used in C-style [file
-I/O](CppFileIo.htm):
+[FILE](CppCfile.md) is a [struct](CppStruct.md) used in C-style [file
+I/O](CppFileIo.md):
 
--   [std::fopen](CppFopen.htm): opens a file
--   [std::fputs](CppFputs.htm): write to file
--   [std::fseek](CppFseek.htm): change position to write
--   [std::fclose](CppFclose.htm): close file
+-   [std::fopen](CppFopen.md): opens a file
+-   [std::fputs](CppFputs.md): write to file
+-   [std::fseek](CppFseek.md): change position to write
+-   [std::fclose](CppFclose.md): close file
 
  
 
-Prefer using the [C++](Cpp.htm) file [stream](CppStream.htm)
-[std::fstream](CppFstream.htm).
+Prefer using the [C++](Cpp.md) file [stream](CppStream.md)
+[std::fstream](CppFstream.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [PolyFileFromPolygons](CppPolyFileFromPolygons.htm)
+([C++](Cpp.md)) [PolyFileFromPolygons](CppPolyFileFromPolygons.md)
 ====================================================================
 
  
@@ -98,5 +98,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

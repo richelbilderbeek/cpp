@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Plane](CppPlane.htm)
+([C++](Cpp.md)) [Plane](CppPlane.md)
 ======================================
 
  
@@ -288,5 +288,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

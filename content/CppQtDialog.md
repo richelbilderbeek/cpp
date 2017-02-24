@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Qt dialogs](CppQtDialog.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Qt dialogs](CppQtDialog.md)
 ===============================================================
 
  
 
-[QT FAQ](CppQtFaq.htm) for answering the question: 'Which dialogs are
+[QT FAQ](CppQtFaq.md) for answering the question: 'Which dialogs are
 already supplied by Qt?'.
 
  
@@ -26,28 +26,28 @@ List and description from \[1\]:
 
  
 
--   [QColorDialog](CppQColorDialog.htm): Dialog widget for specifying
+-   [QColorDialog](CppQColorDialog.md): Dialog widget for specifying
     colors
--   [QFileDialog](CppQFileDialog.htm): Dialog that allow users to select
+-   [QFileDialog](CppQFileDialog.md): Dialog that allow users to select
     files or directories
--   [QFontDialog](CppQFontDialog.htm): Dialog widget for selecting a
+-   [QFontDialog](CppQFontDialog.md): Dialog widget for selecting a
     font
--   [QInputDialog](CppQInputDialog.htm): Simple convenience dialog to
+-   [QInputDialog](CppQInputDialog.md): Simple convenience dialog to
     get a single value from the user
--   [QMessageBox](CppQMessageBox.htm): Modal dialog for informing the
+-   [QMessageBox](CppQMessageBox.md): Modal dialog for informing the
     user or for asking the user a question and receiving an answer
--   [QPageSetupDialog](CppQPageSetupDialog.htm): Configuration dialog
+-   [QPageSetupDialog](CppQPageSetupDialog.md): Configuration dialog
     for the page-related options on a printer
--   [QPrintDialog](CppQPrintDialog.htm): Dialog for specifying the
+-   [QPrintDialog](CppQPrintDialog.md): Dialog for specifying the
     printer's configuration
--   [QPrintPreviewDialog](CppQPrintPreviewDialog.htm): Dialog for
+-   [QPrintPreviewDialog](CppQPrintPreviewDialog.md): Dialog for
     previewing and configuring page layouts for printer output
--   [QProgressDialog](CppQProgressDialog.htm): Feedback on the progress
+-   [QProgressDialog](CppQProgressDialog.md): Feedback on the progress
     of a slow operation
 
  
 
-For custom dialog, use [QDialog](CppQDialog.htm).
+For custom dialog, use [QDialog](CppQDialog.md).
 
  
 
@@ -59,7 +59,7 @@ For custom dialog, use [QDialog](CppQDialog.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

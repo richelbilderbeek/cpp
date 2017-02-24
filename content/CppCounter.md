@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Counter](CppCounter.htm)
+([C++](Cpp.md)) [Counter](CppCounter.md)
 ==========================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[Counter](CppCounter.htm) is a [class](CppClass.htm) for tallying.
+[Counter](CppCounter.md) is a [class](CppClass.md) for tallying.
 
 Technical facts
 ---------------
@@ -124,5 +124,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

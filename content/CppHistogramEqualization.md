@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![VCL](PicVcl.png) [HistogramEqualization](CppHistogramEqualization.htm)
+([C++](Cpp.md)) ![VCL](PicVcl.png) [HistogramEqualization](CppHistogramEqualization.md)
 =========================================================================================
 
  
 
-[HistogramEqualization](CppHistogramEqualization.htm) is a
-[VCL](CppVcl.htm) [code snippet](CppCodeSnippets.htm) to perform a
+[HistogramEqualization](CppHistogramEqualization.md) is a
+[VCL](CppVcl.md) [code snippet](CppCodeSnippets.md) to perform a
 histogram equalization.
 
  
@@ -51,5 +51,5 @@ histogram equalization.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

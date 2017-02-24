@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::modulus](CppModulus.htm)
+([C++](Cpp.md)) [std::modulus](CppModulus.md)
 ===============================================
 
  
 
-[std::modulus](CppModulus.htm) is an [STL](CppStl.htm)
-[functor](CppFunctor.htm) to perform [operator%](CppOperatorModulus.htm)
-in [algorithms](CppAlgorithm.htm).
+[std::modulus](CppModulus.md) is an [STL](CppStl.md)
+[functor](CppFunctor.md) to perform [operator%](CppOperatorModulus.md)
+in [algorithms](CppAlgorithm.md).
 
  
 

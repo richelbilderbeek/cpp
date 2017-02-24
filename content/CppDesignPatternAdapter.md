@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Adapter](CppDesignPatternAdapter.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Adapter](CppDesignPatternAdapter.md) ([Design Pattern](CppDesignPattern.htm))
 ================================================================================================
 
  
 
-The [Adapter](CppDesignPatternAdapter.htm) [Design
-Pattern](CppDesignPattern.htm) 'converts the interface of a class into
+The [Adapter](CppDesignPatternAdapter.md) [Design
+Pattern](CppDesignPattern.md) 'converts the interface of a class into
 another interface clients expect. Adapter lets classes work together
 that couldn't otherwise because of incompatible interfaces' \[1\]
 
@@ -32,14 +32,14 @@ that couldn't otherwise because of incompatible interfaces' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

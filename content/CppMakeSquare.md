@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [MakeSquare](CppMakeSquare.htm)
+([C++](Cpp.md)) [MakeSquare](CppMakeSquare.md)
 ================================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to square all
-elements in a [container](CppContainer.htm) (that is: to multiply each
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to square all
+elements in a [container](CppContainer.md) (that is: to multiply each
 element with itself).
 
  
 
-There are multiple ways to implement [MakeSquare](CppMakeSquare.htm):
+There are multiple ways to implement [MakeSquare](CppMakeSquare.md):
 
-1.  Using an [algorithm](CppAlgorithm.htm) (preferred \[1\]\[2\])
+1.  Using an [algorithm](CppAlgorithm.md) (preferred \[1\]\[2\])
 2.  Using a for-loop
 
  
@@ -38,13 +38,13 @@ There are multiple ways to implement [MakeSquare](CppMakeSquare.htm):
 
  
 
-[MakeSquare](CppMakeSquare.htm) using an [algorithm](CppAlgorithm.htm)
+[MakeSquare](CppMakeSquare.md) using an [algorithm](CppAlgorithm.md)
 ----------------------------------------------------------------------
 
  
 
 This is the anwer of [exercise \#9: No for-loops
-\#14](CppExerciseNoForLoops.htm).
+\#14](CppExerciseNoForLoops.md).
 
  
 
@@ -62,12 +62,12 @@ This is the anwer of [exercise \#9: No for-loops
 
  
 
-[MakeSquare](CppMakeSquare.htm) using a **[for](CppFor.htm)**-loop
+[MakeSquare](CppMakeSquare.md) using a **[for](CppFor.md)**-loop
 ------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\].
 
  
 
@@ -85,16 +85,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The [C++](Cpp.htm)
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The [C++](Cpp.md)
     Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter
     18.12.1 : 'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). [C++](Cpp.htm) coding
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). [C++](Cpp.md) coding
     standards: 101 rules, guidelines, and best practices.
     ISBN: 0-32-111358-6. Chapter 84: 'Prefer algorithm calls to
     handwritten loops.'

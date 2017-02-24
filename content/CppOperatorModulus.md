@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator%](CppOperatorModulus.htm)
+([C++](Cpp.md)) [operator%](CppOperatorModulus.md)
 ====================================================
 
  
 
-[Operator](CppOperator.htm) to obtain the remainder from an
-[integer](CppInt.htm) division.
+[Operator](CppOperator.md) to obtain the remainder from an
+[integer](CppInt.md) division.
 
  
 
@@ -28,8 +28,8 @@
 
  
 
-[operator%](CppOperatorModulus.htm) can often be found in prime
-determination (in the tool [PrimeExpert](CppPrimeExpert.htm) for
+[operator%](CppOperatorModulus.md) can often be found in prime
+determination (in the tool [PrimeExpert](CppPrimeExpert.md) for
 example).
 
  
@@ -44,9 +44,9 @@ The code below shows how to determine if a value is odd or even.
 
  
 
-The [STL](CppStl.htm) [functor](CppFunctor.htm) encapsulating
-[operator%](CppOperatorModulus.htm) is called
-[std::modulus](CppModulus.htm).
+The [STL](CppStl.md) [functor](CppFunctor.md) encapsulating
+[operator%](CppOperatorModulus.md) is called
+[std::modulus](CppModulus.md).
 
  
 

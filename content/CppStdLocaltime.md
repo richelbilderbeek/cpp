@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::localtime](CppTm.htm)
+([C++](Cpp.md)) [std::localtime](CppTm.md)
 ============================================
 
  
 
-[std::localtime](CppTm.htm) is an [STL](CppStl.htm) [time](CppTime.htm)
-[function](CppFunction.htm) to obtain the local [date](CppTime.htm) and
-[time](CppTime.htm).
+[std::localtime](CppTm.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[function](CppFunction.md) to obtain the local [date](CppTime.md) and
+[time](CppTime.md).
 
  
 
@@ -31,7 +31,7 @@
 
  
 
-Example: [GetToday](CppGetToday.htm)
+Example: [GetToday](CppGetToday.md)
 ------------------------------------
 
  

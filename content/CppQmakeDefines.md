@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [DEFINES (qmake variable)](CppQmakeDefines.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [DEFINES (qmake variable)](CppQmakeDefines.md)
 =================================================================================
 
  
 
-[DEFINES](CppQmakeDefines.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[DEFINES](CppQmakeDefines.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Filesystem example 2: count C++ webpages, GUI](CppBoostFilesystemExample2.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Filesystem example 2: count C++ webpages, GUI](CppBoostFilesystemExample2.md)
 =============================================================================================================================
 
  
 
-This [Boost.Filesystem](CppFilesystem.htm) example is the
-[GUI](CppGui.htm) version of [Boost.Filesystem example 1: count C++
-webpages](CppFilesystemExample1.htm).
+This [Boost.Filesystem](CppFilesystem.md) example is the
+[GUI](CppGui.md) version of [Boost.Filesystem example 1: count C++
+webpages](CppFilesystemExample1.md).
 
  
 
@@ -40,18 +40,16 @@ webpages](CppFilesystemExample1.htm).
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) Application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -61,7 +59,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

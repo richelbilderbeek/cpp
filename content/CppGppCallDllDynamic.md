@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm) using G++) [Call a dynamically loaded DLL](CppGppCallDllDynamic.htm)
+([C++](Cpp.md) using G++) [Call a dynamically loaded DLL](CppGppCallDllDynamic.md)
 ====================================================================================
 
  
 
-One of the two ways to [call a DLL](CppGppCallDll.htm), the other way is
+One of the two ways to [call a DLL](CppGppCallDll.md), the other way is
 to call a statically loaded DLL.
 
  
@@ -35,7 +35,7 @@ is checked.
  
 
 When you look at the GetProcAddress function, you'll note that, unlike
-[C++ Builder](CppBuilder.htm), there is no leading underscore added in
+[C++ Builder](CppBuilder.md), there is no leading underscore added in
 the function name.
 
  

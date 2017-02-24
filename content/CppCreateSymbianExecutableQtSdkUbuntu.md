@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Qt Creator](CppQtCreator.htm)[Ubuntu](CppUbuntu.htm)[Symbian](CppSymbian.htm) [How to create a Symbian executable using the Qt SDK under Ubuntu?](CppCreateSymbianExecutableQtSdkUbuntu.htm)
+([C++](Cpp.md)) [Qt Creator](CppQtCreator.md)[Ubuntu](CppUbuntu.htm)[Symbian](CppSymbian.htm) [How to create a Symbian executable using the Qt SDK under Ubuntu?](CppCreateSymbianExecutableQtSdkUbuntu.htm)
 ==============================================================================================================================================================================================================
 
  
 
-This [Symbian FAQ](CppSymbianFaq.htm) describes how to create a
-[Symbian](CppSymbian.htm) executable (a [E32](CppE32.htm) file using the
-[Qt SDK](CppQtSdk.htm) under [Ubuntu](CppUbuntu.htm)).
+This [Symbian FAQ](CppSymbianFaq.md) describes how to create a
+[Symbian](CppSymbian.md) executable (a [E32](CppE32.md) file using the
+[Qt SDK](CppQtSdk.md) under [Ubuntu](CppUbuntu.md)).
 
  
 

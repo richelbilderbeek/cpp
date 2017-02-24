@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtRubiksClockWidget](CppWtRubiksClockWidget.htm)
+([C++](Cpp.md)) [WtRubiksClockWidget](CppWtRubiksClockWidget.md)
 ==================================================================
 
  
@@ -22,9 +22,9 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtRubiksClockWidget](CppWtRubiksClockWidget.htm) is a [Wt](CppWt.htm)
-[widget](CppWidget.htm) [class](CppClass.htm) to display an
-[RubiksClockWidget](CppRubiksClockWidget.htm).
+[WtRubiksClockWidget](CppWtRubiksClockWidget.md) is a [Wt](CppWt.md)
+[widget](CppWidget.md) [class](CppClass.md) to display an
+[RubiksClockWidget](CppRubiksClockWidget.md).
 
 Technical facts
 ---------------
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

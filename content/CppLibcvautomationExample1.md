@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [LibcvautomationExample1](CppLibcvautomationExample1.htm)
+([C++](Cpp.md)) [LibcvautomationExample1](CppLibcvautomationExample1.md)
 ==========================================================================
 
  
@@ -45,5 +45,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [string.h](CppStringH.htm)
+([C++](Cpp.md)) [string.h](CppStringH.md)
 ===========================================
 
  
 
-[Header file](CppHeaderFile.htm) containing the definition of
-[std::string](CppString.htm).
+[Header file](CppHeaderFile.md) containing the definition of
+[std::string](CppString.md).
 
  
 

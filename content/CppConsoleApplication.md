@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [console application](CppConsoleApplication.htm)
+([C++](Cpp.md)) [console application](CppConsoleApplication.md)
 =================================================================
 
  
 
-A [console application](CppConsoleApplication.htm) is an
-[application](CppApplication.htm) that only uses text to display
+A [console application](CppConsoleApplication.md) is an
+[application](CppApplication.md) that only uses text to display
 information and requests text commands as input. Examples of [console
-applications](CppConsoleApplication.htm) are command-line tools or text
+applications](CppConsoleApplication.md) are command-line tools or text
 advantures.
 
  
 
 An advantage of developing [console
-applications](CppConsoleApplication.htm) is that these are mostly
-platform independent and thus easy to [port](CppPort.htm).
+applications](CppConsoleApplication.md) is that these are mostly
+platform independent and thus easy to [port](CppPort.md).
 
  
 
@@ -39,13 +39,13 @@ platform independent and thus easy to [port](CppPort.htm).
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-In the [project file](CppQtProjectFile.htm), add the following lines to
-create [console applications](CppConsoleApplication.htm):
+In the [project file](CppQtProjectFile.md), add the following lines to
+create [console applications](CppConsoleApplication.md):
 
  
 

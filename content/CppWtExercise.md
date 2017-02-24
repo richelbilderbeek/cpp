@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtExercise](CppWtExercise.htm)
+([C++](Cpp.md)) [WtExercise](CppWtExercise.md)
 ================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CppWtChess](CppWtChess.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[CppWtChess](CppWtChess.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 to display an exercise.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

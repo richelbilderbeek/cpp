@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [DESTDIR (qmake variable)](CppQmakeDestdir.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [DESTDIR (qmake variable)](CppQmakeDestdir.md)
 =================================================================================
 
  
 
-[DESTDIR](CppQmakeDestdir.htm) is a [qmake
-variable](CppQmakeVariable.htm).
+[DESTDIR](CppQmakeDestdir.md) is a [qmake
+variable](CppQmakeVariable.md).
 
  
 

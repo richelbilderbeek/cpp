@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Exercise](CppExercise.htm)
+([C++](Cpp.md)) [Exercise](CppExercise.md)
 ============================================
 
  
@@ -23,48 +23,48 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 On this page you can find some exercises about correct programming,
-inspired by [Herb Sutter](CppHerbSutter.htm)'s 'Guru Of The Week' pages.
+inspired by [Herb Sutter](CppHerbSutter.md)'s 'Guru Of The Week' pages.
 
  
 
-These [exercises](CppExercise.htm) are suitable for experienced
+These [exercises](CppExercise.md) are suitable for experienced
 beginners, that want to learn to think in the C++ way. As a side-result
 they will learn more advanced concepts in a playful way. I try to work
-on the same difficulty scale as [Herb Sutter](CppHerbSutter.htm).
+on the same difficulty scale as [Herb Sutter](CppHerbSutter.md).
 
  
 
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#0: A correct
-    Divide function](CppExerciseDivide.htm)
+    Divide function](CppExerciseDivide.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#1: A foolproof
-    function](CppExerciseFoolproofFunction.htm)
+    function](CppExerciseFoolproofFunction.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#2: Correct
-    function declarations](CppExerciseCorrectFunctionDeclarations.htm)
+    function declarations](CppExerciseCorrectFunctionDeclarations.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#3: Don't give
-    away your internals](CppExerciseDontGiveAwayYourInternals.htm)
+    away your internals](CppExerciseDontGiveAwayYourInternals.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#4: Reading
-    from a std::vector safely](CppExerciseReadingFromAvectorSafely.htm)
+    from a std::vector safely](CppExerciseReadingFromAvectorSafely.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#5: The many
-    types of const](CppExerciseTheManyTypesOfConst.htm)
+    types of const](CppExerciseTheManyTypesOfConst.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#6: refactoring
-    quadratic solver](CppExerciseRefactoringQuadraticSolver.htm)
+    quadratic solver](CppExerciseRefactoringQuadraticSolver.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#7: add
-    one](CppExerciseAddOne.htm)
+    one](CppExerciseAddOne.md)
 -   ![C++98](PicCpp98.png)![C++ Builder](PicCppBuilder.png) [Exercise
-    \#8: library trouble](CppExerciseLibraryTrouble.htm)
+    \#8: library trouble](CppExerciseLibraryTrouble.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#9: no
-    for-loops](CppExerciseNoForLoops.htm)
+    for-loops](CppExerciseNoForLoops.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#10: Obtaining
-    a read-only (smart?) pointer](CppExerciseReadonlyPointer.htm)
+    a read-only (smart?) pointer](CppExerciseReadonlyPointer.md)
 -   ![C++98](PicCpp98.png)![ ](PicSpacer.png) [Exercise \#11: Obtaining
     a std::vector of read-only (smart?)
-    pointers](CppExerciseReadonlyVectorOfPointers.htm)
+    pointers](CppExerciseReadonlyVectorOfPointers.md)
 -   ![C++98](PicCpp98.png)![Qt](PicQt.png) [Exercise \#12: Qt hide and
-    show \#1: intro](CppExerciseQtHideAndShow1.htm)
+    show \#1: intro](CppExerciseQtHideAndShow1.md)
 -   ![C++98](PicCpp98.png)![Qt](PicQt.png) [Exercise \#13: Qt hide and
-    show \#2: the real problem](CppExerciseQtHideAndShow2.htm)
+    show \#2: the real problem](CppExerciseQtHideAndShow2.md)
 -   ![C++98](PicCpp98.png)![Qt](PicQt.png) [Exercise \#14: Qt hide and
-    show \#3: refactoring](CppExerciseQtHideAndShow3.htm)
+    show \#3: refactoring](CppExerciseQtHideAndShow3.md)
 
  
 
@@ -83,7 +83,7 @@ External links
 
 1.  [Herb Sutter's Guru Of The Week archive](http://www.gotw.ca/gotw/)
 
-Additionally, [Exercise](CppExercise.htm) is a [class](CppClass.htm) for
+Additionally, [Exercise](CppExercise.md) is a [class](CppClass.md) for
 an exercise.
 
 Technical facts
@@ -167,5 +167,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtPathArrowItem](CppQtPathArrowItem.htm)
+([C++](Cpp.md)) [QtPathArrowItem](CppQtPathArrowItem.md)
 ==========================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtPathArrowItem](CppQtPathArrowItem.htm) is a [Qt](CppQt.htm)
-[QGraphicsItem](CppQGraphicsItem.htm) [class](CppClass.htm) that
+[QtPathArrowItem](CppQtPathArrowItem.md) is a [Qt](CppQt.md)
+[QGraphicsItem](CppQGraphicsItem.md) [class](CppClass.md) that
 displays an arrow that can have a multiple straight-line body.
 
 Technical facts
@@ -107,5 +107,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

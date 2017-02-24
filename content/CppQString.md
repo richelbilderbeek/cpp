@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QString](CppQString.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QString](CppQString.md)
 ===========================================================
 
  
 
-[QString](CppQString.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QString](CppQString.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 

@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [if](CppIf.htm)
+([C++](Cpp.md)) [if](CppIf.md)
 ================================
 
  
 
-[if](CppIf.htm) is a [keyword](CppKeyword.htm) to allow conditional
+[if](CppIf.md) is a [keyword](CppKeyword.md) to allow conditional
 program flow.
 
  
 
-A [Yoda condition](CppYodaCondition.htm) is a type of
-[if](CppIf.htm)-statement.
+A [Yoda condition](CppYodaCondition.md) is a type of
+[if](CppIf.md)-statement.
 
  
 
@@ -33,12 +33,12 @@ A [Yoda condition](CppYodaCondition.htm) is a type of
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [if example 1: basics](CppIfExample1.htm)
+-   [if example 1: basics](CppIfExample1.md)
 
  
 
@@ -50,17 +50,17 @@ A [Yoda condition](CppYodaCondition.htm) is a type of
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer a [switch](CppSwitch.htm)-statement to an
-    [if](CppIf.htm)-statement when there is a choice \[1\]
+-   Prefer a [switch](CppSwitch.md)-statement to an
+    [if](CppIf.md)-statement when there is a choice \[1\]
 -   Placing a semicolon immediately after the right parenthesis after
-    the [condition](CppCondition.htm) in an [if](CppIf.htm) statement is
-    often a [logic error](CppLogicError.htm), although not a [syntax
-    error](CppSyntaxError.htm) \[2\]
+    the [condition](CppCondition.md) in an [if](CppIf.md) statement is
+    often a [logic error](CppLogicError.md), although not a [syntax
+    error](CppSyntaxError.md) \[2\]
 
  
 
@@ -72,12 +72,12 @@ A [Yoda condition](CppYodaCondition.htm) is a type of
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 9.8.
     Advice, page 240: '\[2\] Prefer a switch-statement to an
     if-statement when there is a choice'

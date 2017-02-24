@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm))[type qualifiers ignored on function return type](CppCompileWarningTypeQualifiersIgnoredOnFunctionReturnType.htm)
+([C++](Cpp.md))[type qualifiers ignored on function return type](CppCompileWarningTypeQualifiersIgnoredOnFunctionReturnType.md)
 =================================================================================================================================
 
  
 
-[Compile warning](CppCompileWarning.htm).
+[Compile warning](CppCompileWarning.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.2.1
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
 Project type: Qt4 Console Application
 
@@ -80,9 +80,9 @@ Solution
 
  
 
-Unknown. Removing the [constness](CppConst.htm) in the
-[integer](CppInt.htm) [return type](CppReturnType.htm) results in a
-[compile error](CppCompileError.htm).
+Unknown. Removing the [constness](CppConst.md) in the
+[integer](CppInt.md) [return type](CppReturnType.md) results in a
+[compile error](CppCompileError.md).
 
  
 

@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png)![Qt Creator](PicQtCreator.png) [Qt Creator project files](CppQtProjectFile.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png)![Qt Creator](PicQtCreator.png) [Qt Creator project files](CppQtProjectFile.md)
 =================================================================================================================
 
  
 
-[Qt Creator project files](CppQtProjectFile.htm) are files that are used
-by [qmake](CppQmake.htm).
+[Qt Creator project files](CppQtProjectFile.md) are files that are used
+by [qmake](CppQmake.md).
 
  
 
-Below an example [project file](CppQtProjectFile.htm) is shown of a Qt4
-console application using the [boost](CppBoost.htm)
-[library](CppLibrary.htm).
+Below an example [project file](CppQtProjectFile.md) is shown of a Qt4
+console application using the [boost](CppBoost.md)
+[library](CppLibrary.md).
 
  
 
@@ -34,7 +34,7 @@ console application using the [boost](CppBoost.htm)
 
  
 
-For all [project file](CppQtProjectFile.htm) options, [view the
+For all [project file](CppQtProjectFile.md) options, [view the
 Trolltech qmake variable
 reference](http://doc.trolltech.com/4.2/qmake-variable-reference.html)
 
@@ -48,13 +48,13 @@ reference](http://doc.trolltech.com/4.2/qmake-variable-reference.html)
 
  
 
-[QtCreatorProFile](CppQtCreatorProFile.htm)
+[QtCreatorProFile](CppQtCreatorProFile.md)
 -------------------------------------------
 
  
 
-[QtCreatorProFile](CppQtCreatorProFile.htm) is a [Qt project file
-(.pro)](CppQtProjectFile.htm) [class](CppClass.htm).
+[QtCreatorProFile](CppQtCreatorProFile.md) is a [Qt project file
+(.pro)](CppQtProjectFile.md) [class](CppClass.md).
 
  
 

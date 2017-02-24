@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [cannot find -lboost\_filesystem (from i586-mingw32msvc-g++)](CppLinkErrorCannotFindBoost_filesystemI586-mingw32msvc-gpp.htm)
+([C++](Cpp.md)) [cannot find -lboost\_filesystem (from i586-mingw32msvc-g++)](CppLinkErrorCannotFindBoost_filesystemI586-mingw32msvc-gpp.md)
 ==============================================================================================================================================
 
  
 
-[Link error](CppLinkError.htm) ([BEI](CppBei.htm) 4) I encountered while
+[Link error](CppLinkError.md) ([BEI](CppBei.md) 4) I encountered while
 busy solving [How to cross-compile a Qt Creator project from Ubuntu to a
 windows executable: example 3: console application with a Boost
-library](CppQtCrosscompileToWindowsExample3.htm).
+library](CppQtCrosscompileToWindowsExample3.md).
 
  
 
@@ -46,7 +46,7 @@ System specifics
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): gedit
+[IDE](CppIde.md): gedit
 
  
 
@@ -82,9 +82,9 @@ Process
 
  
 
-Because I was trying to solve the [Qt FAQ](CppQtFaq.htm) [How to
+Because I was trying to solve the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm), I compiled the code as
+executable?](CppQtCrosscompileToWindows.md), I compiled the code as
 follows:
 
  
@@ -128,7 +128,7 @@ This results in the following screen output:
 
 Go to [Undefined reference to 'boost::system::get\_system\_category()'
 (using
-MinGW)](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryMingw.htm)
+MinGW)](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryMingw.md)
 to (try to) solve this error.
 
  

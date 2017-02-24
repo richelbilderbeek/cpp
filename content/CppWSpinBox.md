@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WSpinBox](CppWSpinBox.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WSpinBox](CppWSpinBox.md)
 =================================================================
 
  
 
-[Wt::WSpinBox](CppWSpinBox.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WSpinBox](CppWSpinBox.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WSpinBox](CppWSpinBox.htm) is used in, among others:
+[Wt::WSpinBox](CppWSpinBox.md) is used in, among others:
 
 -   ...
 

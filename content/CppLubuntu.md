@@ -12,22 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm)
+([C++](Cpp.md)) ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md)
 =====================================================================
 
  
 
-[Lubuntu](CppLubuntu.htm) is an [operating system](CppOs.htm).
-[Lubuntu](CppLubuntu.htm) is a light-weight variant of
-[Ubuntu](CppUbuntu.htm).
+[Lubuntu](CppLubuntu.md) is an [operating system](CppOs.md).
+[Lubuntu](CppLubuntu.md) is a light-weight variant of
+[Ubuntu](CppUbuntu.md).
 
  
 
--   [Lubuntu Oneiric Ocelot review](CppLubuntuOneiricReview.htm)
-
- 
-
- 
+-   [Lubuntu Oneiric Ocelot review](CppLubuntuOneiricReview.md)
 
  
 
@@ -35,7 +31,11 @@
 
  
 
-My [Lubuntu](CppLubuntu.htm) programs
+ 
+
+ 
+
+My [Lubuntu](CppLubuntu.md) programs
 -------------------------------------
 
  
@@ -64,7 +64,7 @@ A list of my favorite programs:
 
  
 
-My [Lubuntu](CppLubuntu.htm) notes
+My [Lubuntu](CppLubuntu.md) notes
 ----------------------------------
 
  
@@ -100,11 +100,11 @@ If at startup the mouse is slow again, put this command in
 
  
 
-### Building the latest version of [Boost](CppBoost.htm)
+### Building the latest version of [Boost](CppBoost.md)
 
  
 
-Install an older version of [Boost](CppBoost.htm) using Synaptic. Then
+Install an older version of [Boost](CppBoost.md) using Synaptic. Then
 download and extract the newest version. In the extracted folder, for
 example 'boost\_1\_46\_1' use bjam:
 

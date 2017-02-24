@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [IntToQtStr](CppIntToQtStr.htm)
+([C++](Cpp.md)) [IntToQtStr](CppIntToQtStr.md)
 ================================================
 
  
 
-[IntToQtStr](CppIntToQtStr.htm) is a [conversion](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[integer](CppInt.htm) to a [QString](CppQString.htm).
+[IntToQtStr](CppIntToQtStr.md) is a [conversion](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[integer](CppInt.md) to a [QString](CppQString.md).
 
  
 

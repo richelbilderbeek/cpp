@@ -12,25 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [GetIncVector](CppGetIncVector.htm)
+([C++](Cpp.md)) [GetIncVector](CppGetIncVector.md)
 ====================================================
 
  
 
-[GetIncVector](CppGetIncVector.htm) is a [std::vector](CppVector.htm)
-[code snippet](CppCodeSnippets.htm) to obtain a
-[std::vector](CppVector.htm) with incremented values, for example, with
+[GetIncVector](CppGetIncVector.md) is a [std::vector](CppVector.md)
+[code snippet](CppCodeSnippets.md) to obtain a
+[std::vector](CppVector.md) with incremented values, for example, with
 values 0,1,2,3,etc.
 
  
 
-There are multiple versions of [GetIncVector](CppGetIncVector.htm):
+There are multiple versions of [GetIncVector](CppGetIncVector.md):
 
--   Using [C++11](Cpp11.htm) [std::iota](CppIota.htm)
--   Using [C++98](Cpp98.htm) custom [iota](CppIota.htm)
--   Using a custom [functor](CppFunctor.htm)
-
- 
+-   Using [C++11](Cpp11.md) [std::iota](CppIota.md)
+-   Using [C++98](Cpp98.md) custom [iota](CppIota.md)
+-   Using a custom [functor](CppFunctor.md)
 
  
 
@@ -40,14 +38,16 @@ There are multiple versions of [GetIncVector](CppGetIncVector.htm):
 
  
 
-Using [C++11](Cpp11.htm) [std::iota](CppIota.htm)
+ 
+
+Using [C++11](Cpp11.md) [std::iota](CppIota.md)
 -------------------------------------------------
 
  
 
-[std::iota](CppIota.htm) is in the [C++11](Cpp11.htm) [STL](CppStl.htm)
-and can be found in the [header file](CppHeaderFile.htm)
-[algorithm.h](CppAlgorithmH.htm).
+[std::iota](CppIota.md) is in the [C++11](Cpp11.md) [STL](CppStl.htm)
+and can be found in the [header file](CppHeaderFile.md)
+[algorithm.h](CppAlgorithmH.md).
 
  
 
@@ -75,13 +75,13 @@ Screen output:
 
  
 
-Using [C++98](Cpp98.htm) custom [iota](CppIota.htm)
+Using [C++98](Cpp98.md) custom [iota](CppIota.md)
 ---------------------------------------------------
 
  
 
-[iota](CppIota.htm) was not among the [C++98](Cpp98.htm)
-[STL](CppStl.htm). Below the code shown an implementation and example of
+[iota](CppIota.md) was not among the [C++98](Cpp98.md)
+[STL](CppStl.md). Below the code shown an implementation and example of
 it.
 
  
@@ -110,7 +110,7 @@ Screen output:
 
  
 
-Using a custom [functor](CppFunctor.htm)
+Using a custom [functor](CppFunctor.md)
 ----------------------------------------
 
  

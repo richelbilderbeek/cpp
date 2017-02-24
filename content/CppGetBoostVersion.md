@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [GetBoostVersion](CppGetBoostVersion.htm)
+([C++](Cpp.md)) [GetBoostVersion](CppGetBoostVersion.md)
 ==========================================================
 
  
 
-[GetBoostVersion](CppGetBoostVersion.htm) is a [version](CppVersion.htm)
-[code snippets](CppCodeSnippets.htm) to obtain the
-[version](CppVersion.htm) of the current [Boost](CppBoost.htm)
-[library](CppLibrary.htm) in use.
+[GetBoostVersion](CppGetBoostVersion.md) is a [version](CppVersion.md)
+[code snippets](CppCodeSnippets.md) to obtain the
+[version](CppVersion.md) of the current [Boost](CppBoost.md)
+[library](CppLibrary.md) in use.
 
  
 

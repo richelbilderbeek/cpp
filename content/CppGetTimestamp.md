@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetTimestamp](CppGetTimestamp.htm)
+([C++](Cpp.md)) [GetTimestamp](CppGetTimestamp.md)
 ====================================================
 
  
 
-[GetTimestamp](CppGetTimestamp.htm) is a [time](CppTime.htm) [code
-snippet](CppCodeSnippets.htm) to obtain the current time and date as a
+[GetTimestamp](CppGetTimestamp.md) is a [time](CppTime.md) [code
+snippet](CppCodeSnippets.md) to obtain the current time and date as a
 'stamp', for example '2011\_07\_01\_11\_35\_38' (at the 1st of July
 2011, 11:35:38 AM).
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QCursor](CppQCursor.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QCursor](CppQCursor.md)
 ===========================================================
 
  
 
-[QCursor](CppQCursor.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QCursor](CppQCursor.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 

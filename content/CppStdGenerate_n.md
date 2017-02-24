@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::generate\_n](CppGenerate_n.htm)
+([C++](Cpp.md)) [std::generate\_n](CppGenerate_n.md)
 ======================================================
 
  
 
-[std::generate\_n](CppGenerate_n.htm) is an
-[algorithm](CppAlgorithm.htm) to generate a sequence of different
+[std::generate\_n](CppGenerate_n.md) is an
+[algorithm](CppAlgorithm.md) to generate a sequence of different
 elements.
 
  

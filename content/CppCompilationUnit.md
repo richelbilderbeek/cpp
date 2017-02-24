@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [compilation unit](CppCompilationUnit.htm)
+([C++](Cpp.md)) [compilation unit](CppCompilationUnit.md)
 ===========================================================
 
  
 
-'A [compilation unit](CppCompilationUnit.htm) is the source code (after
-[preprocessing](CppPreprocessor.htm)) that is submitted to a
-[compiler](CppCompiler.htm) for compilation (including syntax
+'A [compilation unit](CppCompilationUnit.md) is the source code (after
+[preprocessing](CppPreprocessor.md)) that is submitted to a
+[compiler](CppCompiler.md) for compilation (including syntax
 checking).' \[1\]
 
  
@@ -32,7 +32,7 @@ checking).' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

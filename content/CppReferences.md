@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [References](CppReferences.htm)
+([C++](Cpp.md)) [References](CppReferences.md)
 ================================================
 
  
@@ -22,74 +22,74 @@ first author's surname.
 
  
 
--   [David Abrahams](CppDavidAbrahams.htm), [Aleksey
-    Gurtovoy](CppAlekseyGurtovoy.htm). C++ template metaprogramming.
+-   [David Abrahams](CppDavidAbrahams.md), [Aleksey
+    Gurtovoy](CppAlekseyGurtovoy.md). C++ template metaprogramming.
     ISBN: 0-321-22725-5.
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.htm). Modern C++ Design.
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315.
 -   Jasmin Blanchette, Mark Summerfield. C++ GUI programming with Qt 4
     (2nd edittion). 2008. ISBN-13: 978-0-13-235416-5.
--   [Marshall Cline](CppMarshallCline.htm), [Greg
-    Lomow](CppGregLomow.htm) and [Mike Girou](CppMikeGirou.htm).
+-   [Marshall Cline](CppMarshallCline.md), [Greg
+    Lomow](CppGregLomow.md) and [Mike Girou](CppMikeGirou.md).
     C++ FAQs. ISBN: 0-201-3098301.
 -   Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5.
--   [Margaret A. Ellis](CppMargaretAEllis.htm), [Bjarne
-    Stroustrup](CppBjarneStroustrup.htm). The Annotated C++
+-   [Margaret A. Ellis](CppMargaretAEllis.md), [Bjarne
+    Stroustrup](CppBjarneStroustrup.md). The Annotated C++
     Reference Manual. 1990. ISBN: 0-201-51459-1.
--   [Bruce Eckel](CppBruceEckel.htm). Thinking in C++, second edition,
+-   [Bruce Eckel](CppBruceEckel.md). Thinking in C++, second edition,
     volume 1. 2000. ISBN: 0-13-979809-9.
--   [Eric Freeman](CppEricFreeman.htm), [Elisabeth
-    Freeman](CppElisabethFreeman.htm). Head First Design Patterns. 2004.
+-   [Eric Freeman](CppEricFreeman.md), [Elisabeth
+    Freeman](CppElisabethFreeman.md). Head First Design Patterns. 2004.
     ISBN: 978-0-596-00712-6.
--   [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+-   [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
--   [Bjorn Karlsson](CppBjornKarlsson.htm). Beyond the C++ standard
+-   [Bjorn Karlsson](CppBjornKarlsson.md). Beyond the C++ standard
     library: an introduction to Boost ISBN: 0-321-13354-4.
--   [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+-   [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0.
--   [Angelika Langer](CppAngelikaLanger.htm), [Klaus
-    Kreft](CppKlausKreft.htm). Standard C++ IOStreams and Locales. 1999.
+-   [Angelika Langer](CppAngelikaLanger.md), [Klaus
+    Kreft](CppKlausKreft.md). Standard C++ IOStreams and Locales. 1999.
     ISBN: 0-321-58558-5.
--   [Jeff Langr](CppJeffLangr.htm). Modern C++ Programming with
+-   [Jeff Langr](CppJeffLangr.md). Modern C++ Programming with
     Test-Driven Development. 2013. ISBN: 978-1-937785-48-2.
--   [Jesse Liberty](CppJesseLiberty.htm). Sams teach yourself C++ in
+-   [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in
     24 hours. 2001. ISBN: 0-672-32224-2.
--   [Scott Meyers](CppScottMeyers.htm). Effective Modern C++
+-   [Scott Meyers](CppScottMeyers.md). Effective Modern C++
     (1st Edition). 2014. ISBN: 978-1-491-90399-5.
--   [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+-   [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6.
--   [Scott Meyers](CppScottMeyers.htm). Effective STL.
+-   [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN: 0-201-74962-9.
--   [Scott Meyers](CppScottMeyers.htm). More Effective C++.
+-   [Scott Meyers](CppScottMeyers.md). More Effective C++.
     ISBN: 020163371X.
--   [Scott Meyers](CppScottMeyers.htm). Effective C++ CD.
+-   [Scott Meyers](CppScottMeyers.md). Effective C++ CD.
     ISBN: 0201310155.
 -   Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of
     C++ style. 2004. ISBN: 978-0-521-89308-4.
--   [Herbert Schildt](CppHerbertSchildt.htm). C++: The Complete
+-   [Herbert Schildt](CppHerbertSchildt.md). C++: The Complete
     Reference, fourth edition. ISBN: 0-07-222680-3.
 -   Jeremy G. Siek, Lie-Quan Lee, Andrew Lumsdaine. The Boost
     Graph Library. 2002. ISBN: 0-201-72914-8.
--   [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+-   [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2.
--   [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+-   [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4.
--   [Bjarne Stroustrup](CppBjarneStroustrup.htm). The design and
+-   [Bjarne Stroustrup](CppBjarneStroustrup.md). The design and
     evolution of C++. 1994. ISBN: 0-201-54330-3.
--   [Bjarne Stroustrup](CppBjarneStroustrup.htm). Programming. 2009.
+-   [Bjarne Stroustrup](CppBjarneStroustrup.md). Programming. 2009.
     ISBN: 978-0-321-54372-1.
--   [Bjarne Stroustrup](CppBjarneStroustrup.htm). A tour of C++. 2014.
+-   [Bjarne Stroustrup](CppBjarneStroustrup.md). A tour of C++. 2014.
     ISBN: 978-0-321-958310.
--   [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+-   [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
--   [Herb Sutter](CppHerbSutter.htm). [Exceptional
-    C++](CppExceptionalCpp.htm). ISBN: 0-201-61562-2.
--   [Herb Sutter](CppHerbSutter.htm). Exceptional C++ style. 2005.
+-   [Herb Sutter](CppHerbSutter.md). [Exceptional
+    C++](CppExceptionalCpp.md). ISBN: 0-201-61562-2.
+-   [Herb Sutter](CppHerbSutter.md). Exceptional C++ style. 2005.
     ISBN: 0-201-76042-8.
--   [Herb Sutter](CppHerbSutter.htm). More exceptional C++. 2001.
+-   [Herb Sutter](CppHerbSutter.md). More exceptional C++. 2001.
     ISBN: 020170434X.
 
  

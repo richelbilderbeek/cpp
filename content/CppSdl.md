@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SDL](CppSdl.htm)
+([C++](Cpp.md)) [SDL](CppSdl.md)
 ==================================
 
  
 
-The [SDL](CppSdl.htm) (an abbreviation of 'Simple Directmedia Layer') is
-'a cross-platform multimedia [library](CppLibrary.htm) designed to
+The [SDL](CppSdl.md) (an abbreviation of 'Simple Directmedia Layer') is
+'a cross-platform multimedia [library](CppLibrary.md) designed to
 provide low level access to audio, keyboard, mouse, joystick, 3D
 hardware via OpenGL, and 2D video framebuffer' \[1\].
 
@@ -32,7 +32,7 @@ hardware via OpenGL, and 2D video framebuffer' \[1\].
 
  
 
-[SDL](CppSdl.htm) examples
+[SDL](CppSdl.md) examples
 --------------------------
 
  
@@ -41,26 +41,26 @@ hardware via OpenGL, and 2D video framebuffer' \[1\].
 | **Example**                          | **Screenshot**                       |
 +--------------------------------------+--------------------------------------+
 | [1: moving                           | Example 1                            |
-| colors](CppSdlExample1.htm)          |                                      |
+| colors](CppSdlExample1.md)          |                                      |
 +--------------------------------------+--------------------------------------+
 | [2: showing a                        | Example 2                            |
-| bitmap](CppSdlExample2.htm)          |                                      |
+| bitmap](CppSdlExample2.md)          |                                      |
 +--------------------------------------+--------------------------------------+
 | [3: moving sprite over a             | Example 3                            |
-| background](CppSdlExample3.htm)      |                                      |
+| background](CppSdlExample3.md)      |                                      |
 +--------------------------------------+--------------------------------------+
 | [4: moving a square in a 2D OpenGL   | Example 4                            |
-| environment](CppSdlExample4.htm)     |                                      |
+| environment](CppSdlExample4.md)     |                                      |
 +--------------------------------------+--------------------------------------+
 | [5: moving an image over a           | Example 5                            |
 | background image in a 2D OpenGL      |                                      |
-| environment](CppSdlExample5.htm)     |                                      |
+| environment](CppSdlExample5.md)     |                                      |
 +--------------------------------------+--------------------------------------+
 
  
 
-Note that some of these examples are also shown for the [Qt](CppQt.htm)
-[library](CppLibrary.htm).
+Note that some of these examples are also shown for the [Qt](CppQt.md)
+[library](CppLibrary.md).
 
  
 
@@ -89,7 +89,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

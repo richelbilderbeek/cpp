@@ -12,26 +12,26 @@
 
  
 
-([C++](Cpp.htm)) [std::swap\_ranges](CppSwap_ranges.htm)
+([C++](Cpp.md)) [std::swap\_ranges](CppSwap_ranges.md)
 ========================================================
 
  
 
-[std::swap\_ranges](CppSwap_ranges.htm) is an
-[algorithm](CppAlgorithm.htm) to swap two [container](CppContainer.htm)
+[std::swap\_ranges](CppSwap_ranges.md) is an
+[algorithm](CppAlgorithm.md) to swap two [container](CppContainer.md)
 ranges.
 
  
 
-[std::swap\_ranges](CppSwap_ranges.htm) is [defined](CppDefinition.htm)
-in the [header file](CppHeaderFile.htm)
-[algorithm.h](CppAlgorithmH.htm).
+[std::swap\_ranges](CppSwap_ranges.md) is [defined](CppDefinition.md)
+in the [header file](CppHeaderFile.md)
+[algorithm.h](CppAlgorithmH.md).
 
  
 
 In the example below, two ranges in one same
-[container](CppContainer.htm) are swapped. The two ranges, however, may
-also be of two different [containers](CppContainer.htm). It is undefined
+[container](CppContainer.md) are swapped. The two ranges, however, may
+also be of two different [containers](CppContainer.md). It is undefined
 what happens if the ranges overlap.
 
  

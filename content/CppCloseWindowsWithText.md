@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CloseWindowsWithText](CppCloseWindowsWithText.htm)
+([C++](Cpp.md)) [CloseWindowsWithText](CppCloseWindowsWithText.md)
 ====================================================================
 
  
 
-[CloseWindowsWithText](CppCloseWindowsWithText.htm) is a
-[Windows](CppWindows.htm) [code snippet](CppCodeSnippets.htm) to
+[CloseWindowsWithText](CppCloseWindowsWithText.md) is a
+[Windows](CppWindows.md) [code snippet](CppCodeSnippets.md) to
 minimize a window with a certain text.
 
  

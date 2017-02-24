@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Transform\_if](CppTransform_if.htm)
+([C++](Cpp.md)) [Transform\_if](CppTransform_if.md)
 =====================================================
 
  
 
-My modification of [std::transform](CppTransform.htm) to make it work
-with a [predicate](CppPredicate.htm).
+My modification of [std::transform](CppTransform.md) to make it work
+with a [predicate](CppPredicate.md).
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over hand-written loops \[1-3\].
-View [Exercise \#9: No for-loops](CppExerciseNoForLoops.htm) to learn
+Prefer [algorithms](CppAlgorithm.md) over hand-written loops \[1-3\].
+View [Exercise \#9: No for-loops](CppExerciseNoForLoops.md) to learn
 how to remove hand-written loops.
 
  
@@ -51,7 +51,7 @@ Simplified from the STL that ships with C++ Builder 6.0.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

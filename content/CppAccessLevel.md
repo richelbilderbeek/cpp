@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [access level](CppAccessLevel.htm)
+([C++](Cpp.md)) [access level](CppAccessLevel.md)
 ===================================================
 
  
 
-A [class](CppClass.htm) has three [access levels](CppAccessLevel.htm):
+A [class](CppClass.md) has three [access levels](CppAccessLevel.md):
 
--   [private](CppPrivate.htm)
--   [protected](CppProtected.htm)
--   [public](CppPublic.htm)
+-   [private](CppPrivate.md)
+-   [protected](CppProtected.md)
+-   [public](CppPublic.md)
 
  
 
-A [class](CppClass.htm)' default [access level](CppAccessLevel.htm) is
-[private](CppPrivate.htm). A [struct](CppStruct.htm)'s default [access
-level](CppAccessLevel.htm) is [public](CppPublic.htm).
+A [class](CppClass.md)' default [access level](CppAccessLevel.md) is
+[private](CppPrivate.md). A [struct](CppStruct.md)'s default [access
+level](CppAccessLevel.md) is [public](CppPublic.md).
 
  
 

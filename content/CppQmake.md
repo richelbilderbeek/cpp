@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [qmake](CppQmake.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [qmake](CppQmake.md)
 =======================================================
 
  
 
-[qmake](CppQmake.htm) helps to create [makefiles](CppMakefile.htm) for
-[Qt Creator projects](CppQt.htm)
+[qmake](CppQmake.md) helps to create [makefiles](CppMakefile.md) for
+[Qt Creator projects](CppQt.md)
 
  
 
@@ -30,7 +30,7 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
@@ -45,13 +45,13 @@
 
  
 
-[qmake errors](CppQmakeError.htm)
+[qmake errors](CppQmakeError.md)
 ---------------------------------
 
  
 
-[qmake errors](CppQmakeError.htm) is about [qmake](CppQmake.htm)
-[error](CppError.htm).
+[qmake errors](CppQmakeError.md) is about [qmake](CppQmake.md)
+[error](CppError.md).
 
  
 
@@ -63,13 +63,13 @@
 
  
 
-[qmake function](CppQmakeFunction.htm)
+[qmake function](CppQmakeFunction.md)
 --------------------------------------
 
  
 
-For an overview of all [qmake functions](CppQmakeFunction.htm), go to
-the page about [qmake functions](CppQmakeFunction.htm).
+For an overview of all [qmake functions](CppQmakeFunction.md), go to
+the page about [qmake functions](CppQmakeFunction.md).
 
  
 
@@ -81,14 +81,14 @@ the page about [qmake functions](CppQmakeFunction.htm).
 
  
 
-[qmake variable](CppQmakeVariable.htm)
+[qmake variable](CppQmakeVariable.md)
 --------------------------------------
 
  
 
-For an overview of all [qmake variables](CppQmakeVariable.htm)
+For an overview of all [qmake variables](CppQmakeVariable.md)
 (personally, I'd have called them 'qmake directives'), go to the page
-about [qmake variables](CppQmakeVariable.htm).
+about [qmake variables](CppQmakeVariable.md).
 
  
 
@@ -100,13 +100,13 @@ about [qmake variables](CppQmakeVariable.htm).
 
  
 
-[qmake arguments](CppQmakeArgument.htm)
+[qmake arguments](CppQmakeArgument.md)
 ---------------------------------------
 
  
 
-To view where to put [qmake arguments](CppQmakeArgument.htm), go to the
-page about [qmake arguments](CppQmakeArgument.htm).
+To view where to put [qmake arguments](CppQmakeArgument.md), go to the
+page about [qmake arguments](CppQmakeArgument.md).
 
  
 
@@ -118,13 +118,13 @@ page about [qmake arguments](CppQmakeArgument.htm).
 
  
 
-[qmake mkspecs](CppQmakeMkspec.htm)
+[qmake mkspecs](CppQmakeMkspec.md)
 -----------------------------------
 
  
 
-For an overview of all [qmake mkspecs](CppQmakeMkspec.htm), go to the
-page about [qmake mkspecs](CppQmakeMkspec.htm).
+For an overview of all [qmake mkspecs](CppQmakeMkspec.md), go to the
+page about [qmake mkspecs](CppQmakeMkspec.md).
 
  
 
@@ -136,12 +136,12 @@ page about [qmake mkspecs](CppQmakeMkspec.htm).
 
  
 
-[qmake](CppQmake.htm) source code
+[qmake](CppQmake.md) source code
 ---------------------------------
 
  
 
-The [qmake](CppQmake.htm) source code can be downloaded from the Qt
+The [qmake](CppQmake.md) source code can be downloaded from the Qt
 gitorious repository, in the folder '/qmake'.
 
  
@@ -154,15 +154,15 @@ gitorious repository, in the folder '/qmake'.
 
  
 
-[qmake](CppQmake.htm) misc
+[qmake](CppQmake.md) misc
 --------------------------
 
  
 
-Create a [Visual Studio](CppVisualStudio.htm) project file: 'qmake -tp
+Create a [Visual Studio](CppVisualStudio.md) project file: 'qmake -tp
 vc myqtproject.pro'
 
-Create a [Qt .pro file](CppProjectFile.htm) from files in the folder:
+Create a [Qt .pro file](CppProjectFile.md) from files in the folder:
 'qmake -project'. Note: on a Windows computer, use the MS-DOS command
 prompt for this, instead of the Git Bash: the Git Bash will take its
 time to run out of memory and crash

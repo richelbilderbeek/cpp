@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::set\_union](CppSet_union.htm)
+([C++](Cpp.md)) [std::set\_union](CppSet_union.md)
 ====================================================
 
  
 
-[std::set\_union](CppSet_union.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to create the union set of two sorted
-[containers](CppContainer.htm), neither of which must hold duplicate
+[std::set\_union](CppSet_union.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to create the union set of two sorted
+[containers](CppContainer.md), neither of which must hold duplicate
 entries.
 
  

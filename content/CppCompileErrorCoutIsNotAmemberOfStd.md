@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['cout' is not a member of 'std'](CppCompileErrorCoutIsNotAmemberOfStd.htm)
+([C++](Cpp.md)) ['cout' is not a member of 'std'](CppCompileErrorCoutIsNotAmemberOfStd.md)
 ============================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,9 +53,9 @@ Cause
 
  
 
-[IDE](CppIde.htm): [C++ Builder](CppBuilder.htm) 6.0
+[IDE](CppIde.md): [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Project type: Console Application
 
@@ -80,9 +80,9 @@ Solution
 
  
 
-The [compiler](CppCompiler.htm) does not know the
-[function](CppFunction.htm) '[cout](CppCout.htm)'. Add the [header
-file](CppHeaderFile.htm) so it does:
+The [compiler](CppCompiler.md) does not know the
+[function](CppFunction.md) '[cout](CppCout.md)'. Add the [header
+file](CppHeaderFile.md) so it does:
 
  
 

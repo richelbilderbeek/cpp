@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#8](CppExerciseNoForLoopsAnswer8.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#8](CppExerciseNoForLoopsAnswer8.md)
 =============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
-Question \#8: [GetSum](CppGetSum.htm)
+Question \#8: [GetSum](CppGetSum.md)
 -------------------------------------
 
  
 
-Replace the [for](CppFor.htm)-loop. You will need:
+Replace the [for](CppFor.md)-loop. You will need:
 
--   [std::accumulate](CppAccumulate.htm)
+-   [std::accumulate](CppAccumulate.md)
 
  
 

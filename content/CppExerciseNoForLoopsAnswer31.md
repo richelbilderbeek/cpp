@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#31](CppExerciseNoForLoopsAnswer31.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#31](CppExerciseNoForLoopsAnswer31.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,14 +30,14 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#31: Find an ID in a [std::vector](CppVector.htm)&lt;**[const](CppConst.htm)** Person\*&gt;
+Question \#31: Find an ID in a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -----------------------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -55,7 +55,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![Boost](PicBoost.png) Answer using [Boost](CppBoost.htm).Bind
+![Boost](PicBoost.png) Answer using [Boost](CppBoost.md).Bind
 --------------------------------------------------------------
 
  
@@ -74,7 +74,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![FAIL](PicRed.png)![Cpp11](PicCpp11.png) Failed attempt using [C++11](Cpp11.htm)
+![FAIL](PicRed.png)![Cpp11](PicCpp11.png) Failed attempt using [C++11](Cpp11.md)
 ---------------------------------------------------------------------------------
 
  

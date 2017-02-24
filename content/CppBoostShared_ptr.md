@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [boost::shared\_ptr](CppBoostShared_ptr.htm))
+([C++](Cpp.md)) ![Boost](PicBoost.png) [boost::shared\_ptr](CppBoostShared_ptr.md))
 =====================================================================================
 
  
 
  
 
-[boost::shared\_ptr](CppBoostShared_ptr.htm) is a type of
-[shared\_ptr](CppShared_ptr.htm) (which is a type of [smart
-pointer](CppSmartPointer.htm)) that can be copied safely and cheap,
-without copying the object [pointed](CppPointer.htm) to. When the last
-[boost::shared\_ptr](CppBoostShared_ptr.htm) using an object goes out of
-[scope](CppScope.htm), it will **[delete](CppDelete.htm)** the object
-[pointed](CppPointer.htm)to.
+[boost::shared\_ptr](CppBoostShared_ptr.md) is a type of
+[shared\_ptr](CppShared_ptr.md) (which is a type of [smart
+pointer](CppSmartPointer.md)) that can be copied safely and cheap,
+without copying the object [pointed](CppPointer.md) to. When the last
+[boost::shared\_ptr](CppBoostShared_ptr.md) using an object goes out of
+[scope](CppScope.md), it will **[delete](CppDelete.md)** the object
+[pointed](CppPointer.md)to.
 
  
 
@@ -37,7 +37,7 @@ without copying the object [pointed](CppPointer.htm) to. When the last
 
  
 
-Creating a [boost::shared\_ptr](CppBoostShared_ptr.htm)
+Creating a [boost::shared\_ptr](CppBoostShared_ptr.md)
 -------------------------------------------------------
 
  
@@ -56,17 +56,17 @@ Creating a [boost::shared\_ptr](CppBoostShared_ptr.htm)
 
  
 
-[Smart pointers](CppSmartPointer.htm) and [null](CppNull.htm)
+[Smart pointers](CppSmartPointer.md) and [null](CppNull.md)
 -------------------------------------------------------------
 
  
 
-[Boost](CppBoost.htm) [smart pointers](CppSmartPointer.htm) check for
-[null](CppNull.htm) themselves, so there is no need to check these to be
+[Boost](CppBoost.md) [smart pointers](CppSmartPointer.md) check for
+[null](CppNull.md) themselves, so there is no need to check these to be
 inititialized. In the example below a [member
-variable](CppMemberVariable.htm) of a [class](CppClass.htm) is requested
-from an unitialized [smart pointer](CppSmartPointer.htm). The program
-will [abort](CppAbort.htm) and the [runtime error](CppRuntimeError.htm)
+variable](CppMemberVariable.md) of a [class](CppClass.md) is requested
+from an unitialized [smart pointer](CppSmartPointer.md). The program
+will [abort](CppAbort.md) and the [runtime error](CppRuntimeError.md)
 will be shown.
 
  
@@ -78,10 +78,10 @@ will be shown.
  
 
 The code below shows that initializing a
-[boost::shared\_ptr](CppBoostShared_ptr.htm) with [null](CppNull.htm)
+[boost::shared\_ptr](CppBoostShared_ptr.md) with [null](CppNull.md)
 will not be easy, but even when it succeeds,
-[boost::shared\_ptr](CppBoostShared_ptr.htm) will check itself for
-[null](CppNull.htm).
+[boost::shared\_ptr](CppBoostShared_ptr.md) will check itself for
+[null](CppNull.md).
 
  
 
@@ -99,7 +99,7 @@ will not be easy, but even when it succeeds,
 
  
 
-![Boost](PicBoost.png) [Smart pointers](CppSmartPointer.htm) and [==](CppOperatorEqual.htm)
+![Boost](PicBoost.png) [Smart pointers](CppSmartPointer.md) and [==](CppOperatorEqual.md)
 -------------------------------------------------------------------------------------------
 
  
@@ -118,7 +118,7 @@ will not be easy, but even when it succeeds,
 
  
 
-![Boost](PicBoost.png) [Cast](CppCast.htm) from [boost::shared\_ptr](CppBoostShared_ptr.htm)&lt;[const](CppConst.htm) Test&gt; to [boost::shared\_ptr](CppBoostShared_ptr.htm)&lt;Test&gt;
+![Boost](PicBoost.png) [Cast](CppCast.md) from [boost::shared\_ptr](CppBoostShared_ptr.md)&lt;[const](CppConst.htm) Test&gt; to [boost::shared\_ptr](CppBoostShared_ptr.htm)&lt;Test&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -143,7 +143,7 @@ External links
  
 
 -   [Boost's page about
-    boost::shared\_ptr](http://www.boost.org/doc/libs/1_35_0/libs/smart_ptr/shared_ptr.htm)
+    boost::shared\_ptr](http://www.boost.org/doc/libs/1_35_0/libs/smart_ptr/shared_ptr.md)
 
  
 

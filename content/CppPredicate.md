@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Predicate](CppPredicate.htm)
+([C++](Cpp.md)) [Predicate](CppPredicate.md)
 ==============================================
 
  
 
-A [predicate](CppPredicate.htm) is a logical expression that evaluates
-to [true](CppTrue.htm) or [false](CppFalse.htm), like in
-[if](CppIf.htm)-statements.
+A [predicate](CppPredicate.md) is a logical expression that evaluates
+to [true](CppTrue.md) or [false](CppFalse.md), like in
+[if](CppIf.md)-statements.
 
  
 
@@ -31,13 +31,13 @@ to [true](CppTrue.htm) or [false](CppFalse.htm), like in
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   Predicate example 1: ReplaceNegativeByZero
--   [In\_regex](CppIn_regex.htm)
+-   [In\_regex](CppIn_regex.md)
 
  
 
@@ -49,39 +49,35 @@ to [true](CppTrue.htm) or [false](CppFalse.htm), like in
 
  
 
-[STL](CppStl.htm) [predicates](CppPredicate.htm)
+[STL](CppStl.md) [predicates](CppPredicate.md)
 ------------------------------------------------
 
  
 
-An overview of [STL](CppStl.htm) [predicates](CppPredicate.htm) names
-and their corresponding [operator](CppOperator.htm), from \[0\]. These
-[predicates](CppPredicate.htm) can be found in the [header
-file](CppHeaderFile.htm) [functional](CppFunctionalH.htm).
+An overview of [STL](CppStl.md) [predicates](CppPredicate.md) names
+and their corresponding [operator](CppOperator.md), from \[0\]. These
+[predicates](CppPredicate.md) can be found in the [header
+file](CppHeaderFile.md) [functional](CppFunctionalH.md).
 
  
 
--   [std::equal\_to](CppEqual_to.htm),
-    [operator==](CppOperatorEqual.htm)
--   [std::greater](CppGreater.htm),
-    [operator&gt;](CppOperatorGreater.htm)
--   [std::greater\_equal](CppGreater_equal.htm),
-    [operator&gt;=](CppOperatorGreaterEqual.htm)
--   [std::less](CppLess.htm), [operator&lt;](CppOperatorLess.htm)
--   [std::less\_equal](CppLess_equal.htm),
-    [operator&lt;=](CppOperatorLessEqual.htm)
--   [std::logical\_and](CppLogical_and.htm),
-    [operator&&](CppOperatorLogicalAnd.htm)
--   [std::logical\_not](CppLogical_not.htm),
-    [operator!](CppOperatorLogicalNot.htm)
--   [std::logical\_or](CppLogical_or.htm),
-    [operator||](CppOperatorLogicalOr.htm)
--   [std::not\_equal\_to](CppNot_equal_to.htm),
-    [operator!=](CppOperatorNotEqual.htm)
-
- 
-
- 
+-   [std::equal\_to](CppEqual_to.md),
+    [operator==](CppOperatorEqual.md)
+-   [std::greater](CppGreater.md),
+    [operator&gt;](CppOperatorGreater.md)
+-   [std::greater\_equal](CppGreater_equal.md),
+    [operator&gt;=](CppOperatorGreaterEqual.md)
+-   [std::less](CppLess.md), [operator&lt;](CppOperatorLess.md)
+-   [std::less\_equal](CppLess_equal.md),
+    [operator&lt;=](CppOperatorLessEqual.md)
+-   [std::logical\_and](CppLogical_and.md),
+    [operator&&](CppOperatorLogicalAnd.md)
+-   [std::logical\_not](CppLogical_not.md),
+    [operator!](CppOperatorLogicalNot.md)
+-   [std::logical\_or](CppLogical_or.md),
+    [operator||](CppOperatorLogicalOr.md)
+-   [std::not\_equal\_to](CppNot_equal_to.md),
+    [operator!=](CppOperatorNotEqual.md)
 
  
 
@@ -89,7 +85,11 @@ file](CppHeaderFile.htm) [functional](CppFunctionalH.htm).
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  

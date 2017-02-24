@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WDropEvent](CppWDropEvent.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WDropEvent](CppWDropEvent.md)
 =====================================================================
 
  
 
-[Wt::WDropEvent](CppWDropEvent.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WDropEvent](CppWDropEvent.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WDropEvent](CppWDropEvent.htm) is used in, among others:
+[Wt::WDropEvent](CppWDropEvent.md) is used in, among others:
 
 -   ...
 

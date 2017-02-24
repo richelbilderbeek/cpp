@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtRubiksClockWidget](CppQtRubiksClockWidget.htm)
+([C++](Cpp.md)) [QtRubiksClockWidget](CppQtRubiksClockWidget.md)
 ==================================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtRubiksClockWidget](CppQtRubiksClockWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) for displaying a Rubik's Clock.
+[QtRubiksClockWidget](CppQtRubiksClockWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) for displaying a Rubik's Clock.
 
 Technical facts
 ---------------
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Qt example 9.2: custom sprites over custom background](CppQtExample9_2.htm)
+([C++](Cpp.md)) [Qt example 9.2: custom sprites over custom background](CppQtExample9_2.md)
 =============================================================================================
 
  
 
 Alternative code for doing the same as [Qt example 9: custom sprites
-over custom background](CppQtExample9.htm), like [this screenshot
+over custom background](CppQtExample9.md), like [this screenshot
 (png)](CppQtExample9.png).
 
  
@@ -36,7 +36,7 @@ over custom background](CppQtExample9.htm), like [this screenshot
 
  
 
-[Qt project file](CppQtProjectFile.htm): GamePong.pro
+[Qt project file](CppQtProjectFile.md): GamePong.pro
 -----------------------------------------------------
 
  

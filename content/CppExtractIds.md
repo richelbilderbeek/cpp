@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [ExtractIds](CppExtractIds.htm)
+([C++](Cpp.md)) [ExtractIds](CppExtractIds.md)
 ================================================
 
  
 
-[ExtractIds](CppExtractIds.htm) is a [container](CppContainer.htm) [code
-snippet](CppCodeSnippets.htm) to extract a certain [data
-type](CppDataType.htm) from multiple complex [class](CppClass.htm)
-[instances](CppInstance.htm).
+[ExtractIds](CppExtractIds.md) is a [container](CppContainer.md) [code
+snippet](CppCodeSnippets.md) to extract a certain [data
+type](CppDataType.md) from multiple complex [class](CppClass.md)
+[instances](CppInstance.md).
 
  
 
-[ExtractIds](CppExtractIds.htm) extracts the [integer](CppInt.htm)
-called ID from multiple Person [class](CppClass.htm)
-[instances](CppInstance.htm) stored in a [std::vector](CppVector.htm).
-Note that the [container](CppContainer.htm) the Persons are stored in
+[ExtractIds](CppExtractIds.md) extracts the [integer](CppInt.md)
+called ID from multiple Person [class](CppClass.md)
+[instances](CppInstance.md) stored in a [std::vector](CppVector.md).
+Note that the [container](CppContainer.md) the Persons are stored in
 will support the example code below.
 
  

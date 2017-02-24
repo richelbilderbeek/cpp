@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::tm](CppTm.htm)
+([C++](Cpp.md)) [std::tm](CppTm.md)
 =====================================
 
  
 
-[std::tm](CppTm.htm) is an [STL](CppStl.htm) [time](CppTime.htm)
-[class](CppClass.htm) to contain a [date](CppTime.htm) and
-[time](CppTime.htm).
+[std::tm](CppTm.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[class](CppClass.md) to contain a [date](CppTime.md) and
+[time](CppTime.md).
 
  
 
@@ -31,7 +31,7 @@
 
  
 
-Example: [GetToday](CppGetToday.htm)
+Example: [GetToday](CppGetToday.md)
 ------------------------------------
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Could not start process "make" -w](CppMiscErrorCouldNotStartProcessMakeW.htm)
+([C++](Cpp.md)) [Could not start process "make" -w](CppMiscErrorCouldNotStartProcessMakeW.md)
 ===============================================================================================
 
  
 
-[Misc error](CppMiscError.htm) that can occur in any [Qt
-Creator](CppQtCreator.htm) project.
+[Misc error](CppMiscError.md) that can occur in any [Qt
+Creator](CppQtCreator.md) project.
 
  
 

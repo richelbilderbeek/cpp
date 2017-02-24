@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [libnds](CppLibnds.htm)
+([C++](Cpp.md)) [libnds](CppLibnds.md)
 ========================================
 
  
@@ -21,13 +21,13 @@
 
  
 
-[libnds](CppLibnds.htm) is a [library](CppLibrary.htm) for the
-[NDS](CppNds.htm). See [NDS](CppNds.htm) for examples.
+[libnds](CppLibnds.md) is a [library](CppLibrary.md) for the
+[NDS](CppNds.md). See [NDS](CppNds.md) for examples.
 
  
 
-[libnds](CppLibnds.htm) is does not work together with the
-[Boost](CppBoost.htm) [library](CppLibrary.htm).
+[libnds](CppLibnds.md) is does not work together with the
+[Boost](CppBoost.md) [library](CppLibrary.md).
 
  
 

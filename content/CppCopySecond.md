@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [CopySecond](CppCopySecond.htm)
+([C++](Cpp.md)) [CopySecond](CppCopySecond.md)
 ================================================
 
  
 
-[CopySecond](CppCopySecond.htm) is a [container](CppContainer.htm) [code
-snippets](CppCodeSnippets.htm) to copy the second element of the
+[CopySecond](CppCopySecond.md) is a [container](CppContainer.md) [code
+snippets](CppCodeSnippets.md) to copy the second element of the
 std::pairs in a std::vector.
 
  
@@ -31,8 +31,8 @@ std::pairs in a std::vector.
 
  
 
-![STL](PicStl.png) [CopySecond](CppCopySecond.htm) using the
-[STL](CppStl.htm) only
+![STL](PicStl.png) [CopySecond](CppCopySecond.md) using the
+[STL](CppStl.md) only
 
  
 
@@ -50,8 +50,8 @@ std::pairs in a std::vector.
 
  
 
-![Boost](PicBoost.png) [CopySecond](CppCopySecond.htm) using
-[Boost](CppBoost.htm)
+![Boost](PicBoost.png) [CopySecond](CppCopySecond.md) using
+[Boost](CppBoost.md)
 
  
 
@@ -69,7 +69,7 @@ std::pairs in a std::vector.
 
  
 
-![C++11](PicCpp11.png) [CopySecond](CppCopySecond.htm) test
+![C++11](PicCpp11.png) [CopySecond](CppCopySecond.md) test
 -----------------------------------------------------------
 
  

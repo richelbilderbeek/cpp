@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [Bit operation](CppBitOperation.htm)
+([C++](Cpp.md)) [Bit operation](CppBitOperation.md)
 =====================================================
 
  
 
-[Code snippets](CppCodeSnippets.htm) for if you need to work with bits.
+[Code snippets](CppCodeSnippets.md) for if you need to work with bits.
 
  
 
-1.  [Convert Gray code to int, GrayToInt](CppGrayToInt.htm)
+1.  [Convert Gray code to int, GrayToInt](CppGrayToInt.md)
 2.  [Convert int to a std::string of zeroes and ones,
-    IntToBitString](CppIntToBitString.htm)
-3.  [Convert int to Gray code, IntToGray](CppIntToGray.htm)
-4.  [Get Gray codes, GetGrayCodes](CppGetGrayCodes.htm)
-5.  [GetGrayCodes, Get Gray codes](CppGetGrayCodes.htm)
-6.  [GrayToInt, convert Gray code to int](CppGrayToInt.htm)
+    IntToBitString](CppIntToBitString.md)
+3.  [Convert int to Gray code, IntToGray](CppIntToGray.md)
+4.  [Get Gray codes, GetGrayCodes](CppGetGrayCodes.md)
+5.  [GetGrayCodes, Get Gray codes](CppGetGrayCodes.md)
+6.  [GrayToInt, convert Gray code to int](CppGrayToInt.md)
 7.  [IntToBitString, convert int to a std::string of zeroes and
-    ones](CppIntToBitString.htm)
-8.  [IntToGray, convert int to Gray code](CppIntToGray.htm)
+    ones](CppIntToBitString.md)
+8.  [IntToGray, convert int to Gray code](CppIntToGray.md)
 
  
 

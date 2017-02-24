@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [ConceptMap](CppConceptMap.htm)
+([C++](Cpp.md)) [ConceptMap](CppConceptMap.md)
 ================================================
 
  
@@ -22,14 +22,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[ConceptMap](CppConceptMap.htm) is a [class](CppClass.htm) for a concept
+[ConceptMap](CppConceptMap.md) is a [class](CppClass.md) for a concept
 map.
 
  
 
-[ConceptMap](CppConceptMap.htm) is used in, among others, the
-[tool](Tools.htm) [TestConceptMap](ToolTestConceptMap.htm) and the
-[project](Projects.htm) [Brainweaver](ProjectBrainweaver.htm).
+[ConceptMap](CppConceptMap.md) is used in, among others, the
+[tool](Tools.md) [TestConceptMap](ToolTestConceptMap.md) and the
+[project](Projects.md) [Brainweaver](ProjectBrainweaver.md).
 
 Technical facts
 ---------------
@@ -1461,5 +1461,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

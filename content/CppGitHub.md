@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GitHub](CppGitHub.htm)
+([C++](Cpp.md)) [GitHub](CppGitHub.md)
 ========================================
 
  
 
-[GitHub](CppGitHub.htm) is 'a web-based hosting service for software
-development projects that use the [Git](CppGit.htm) revision control
+[GitHub](CppGitHub.md) is 'a web-based hosting service for software
+development projects that use the [Git](CppGit.md) revision control
 system' \[1\].
 
  
@@ -49,7 +49,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

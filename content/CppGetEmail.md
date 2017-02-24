@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [GetEmail](CppGetEmail.htm)
+([C++](Cpp.md)) [GetEmail](CppGetEmail.md)
 ============================================
 
  
 
-[GetEmail](CppGetEmail.htm) is a [function](CppFunction.htm) to obtain
+[GetEmail](CppGetEmail.md) is a [function](CppFunction.md) to obtain
 my email address.
 
  

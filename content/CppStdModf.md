@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::modf](CppModf.htm)
+([C++](Cpp.md)) [std::modf](CppModf.md)
 =========================================
 
  
 
-[std::modf](CppModf.htm) splits a [double](CppDouble.htm) into its
-[integer](CppInt.htm) and a fractional part, for example it splits 12.34
+[std::modf](CppModf.md) splits a [double](CppDouble.md) into its
+[integer](CppInt.md) and a fractional part, for example it splits 12.34
 into 12 and 0.34.
 
  

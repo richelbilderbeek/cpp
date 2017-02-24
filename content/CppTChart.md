@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [TChart](CppTChart.htm)
+([C++](Cpp.md)) [TChart](CppTChart.md)
 ========================================
 
  
 
-[TChart](CppTChart.htm) is a [VCL data type](CppVclDataType.htm) for a
+[TChart](CppTChart.md) is a [VCL data type](CppVclDataType.md) for a
 chart.
 
  
 
-[TChart](CppTChart.htm) cannot do a surface plot. For a surface plot
-function, [go to the SurfacePlotter page](CppSurfacePlotterTImage.htm).
+[TChart](CppTChart.md) cannot do a surface plot. For a surface plot
+function, [go to the SurfacePlotter page](CppSurfacePlotterTImage.md).
 
  
 
@@ -35,12 +35,12 @@ function, [go to the SurfacePlotter page](CppSurfacePlotterTImage.htm).
 
  
 
-TChart [code snippets](CppCodeSnippets.htm)
+TChart [code snippets](CppCodeSnippets.md)
 -------------------------------------------
 
  
 
--   [ClearChart](CppClearChart.htm), clears all series in a TChart
+-   [ClearChart](CppClearChart.md), clears all series in a TChart
 
  
 

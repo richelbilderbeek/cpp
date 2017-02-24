@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WText](CppWText.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WText](CppWText.md)
 ===========================================================
 
  
 
-[Wt::WText](CppWText.htm) is a [Wt](CppWt.htm) [class](CppClass.htm) for
+[Wt::WText](CppWText.md) is a [Wt](CppWt.md) [class](CppClass.htm) for
 a single line of uneditable text. It is possible to use
-[XHTML](CppXhtml.htm) markup in the text.
+[XHTML](CppXhtml.md) markup in the text.
 
  
 
@@ -36,7 +36,7 @@ Examples
 
  
 
-[Wt::WText](CppWText.htm) is used in, among others:
+[Wt::WText](CppWText.md) is used in, among others:
 
 -   ...
 

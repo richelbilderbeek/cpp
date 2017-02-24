@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [link time](CppLinkTime.htm)
+([C++](Cpp.md)) [link time](CppLinkTime.md)
 =============================================
 
  
 
-[link time](CppLinkTime.htm) is the the time it takes the
-[linker](CppLinker.htm) to connect the [compiled](CppCompile.htm) object
+[link time](CppLinkTime.md) is the the time it takes the
+[linker](CppLinker.md) to connect the [compiled](CppCompile.md) object
 code.
 
  
 
-[link time](CppLinkTime.htm) is followed by [run time](CppRunTime.htm).
+[link time](CppLinkTime.md) is followed by [run time](CppRunTime.md).
 
  
 

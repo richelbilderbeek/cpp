@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [dead code](CppDeadCode.htm)
+([C++](Cpp.md)) [dead code](CppDeadCode.md)
 =============================================
 
  
 
-[Dead code](CppDeadCode.htm) is executable [object
-code](CppObjectCode.htm) (or data) which, as a result of a design error
+[Dead code](CppDeadCode.md) is executable [object
+code](CppObjectCode.md) (or data) which, as a result of a design error
 cannot be executed (code) or used (data) in an operational configuration
 of the target computer environment and is not traceable to a system or
 software requirement \[1,2\].
@@ -33,7 +33,7 @@ software requirement \[1,2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,22 +12,22 @@
 
  
 
-([C++](Cpp.htm)) [std::domain\_error](CppDomain_error.htm)
+([C++](Cpp.md)) [std::domain\_error](CppDomain_error.md)
 ==========================================================
 
  
 
-[std::domain\_error](CppDomain_error.htm) is an
-[exception](CppException.htm) [thrown](CppThrow.htm) when a
+[std::domain\_error](CppDomain_error.md) is an
+[exception](CppException.md) [thrown](CppThrow.md) when a
 mathematically invalid domain is used.
 
  
 
-[std::domain\_error](CppDomain_error.htm) is a [derived
-class](CppDerivedClass.htm) from
-[std::logic\_error](CppLogic_error.htm).
-[std::logic\_error](CppLogic_error.htm) is a [derived
-class](CppDerivedClass.htm) from [td::exception](CppException.htm).
+[std::domain\_error](CppDomain_error.md) is a [derived
+class](CppDerivedClass.md) from
+[std::logic\_error](CppLogic_error.md).
+[std::logic\_error](CppLogic_error.md) is a [derived
+class](CppDerivedClass.md) from [td::exception](CppException.md).
 
  
 
@@ -37,8 +37,8 @@ class](CppDerivedClass.htm) from [td::exception](CppException.htm).
 
  
 
-Note: I hoped that [std::domain\_error](CppDomain_error.htm) would be
-[thrown](CppThrow.htm), instead the value 'nan' would be written to the
+Note: I hoped that [std::domain\_error](CppDomain_error.md) would be
+[thrown](CppThrow.md), instead the value 'nan' would be written to the
 screen.
 
  

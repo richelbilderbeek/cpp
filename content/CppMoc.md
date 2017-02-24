@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Meta-Object Compiler](CppMoc.htm)
+([C++](Cpp.md)) [Meta-Object Compiler](CppMoc.md)
 ===================================================
 
  
 
-The [Meta-Object Compiler ('moc')](CppMoc.htm) 'is the program that
+The [Meta-Object Compiler ('moc')](CppMoc.md) 'is the program that
 handles Qt's C++ extensions' \[1\]. 'Among other things, meta-object
-code is required for the [signals](CppQtSignal.htm) and slots mechanism,
+code is required for the [signals](CppQtSignal.md) and slots mechanism,
 the run-time type information, and the dynamic property system'\[1\].
 
  

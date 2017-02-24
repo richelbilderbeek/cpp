@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Rotate](CppRotate.htm)
+([C++](Cpp.md)) [Rotate](CppRotate.md)
 ========================================
 
  
 
-[Rotate](CppRotate.htm) is a [VCL](CppVcl.htm) [math](CppMath.htm) [code
-snippet](CppCodeSnippets.htm) to rotate a [TImage](CppTImage.htm) under
+[Rotate](CppRotate.md) is a [VCL](CppVcl.md) [math](CppMath.htm) [code
+snippet](CppCodeSnippets.md) to rotate a [TImage](CppTImage.md) under
 any angle.
 
  
 
-[Rotate](CppRotate.htm) is demonstrated in the [tool](Tools.htm) [Image
-Rotater](ToolImageRotater.htm).
+[Rotate](CppRotate.md) is demonstrated in the [tool](Tools.md) [Image
+Rotater](ToolImageRotater.md).
 
  
 

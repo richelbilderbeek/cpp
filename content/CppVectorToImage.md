@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [VectorToImage](CppVectorToImage.htm)
+([C++](Cpp.md)) [VectorToImage](CppVectorToImage.md)
 ======================================================
 
  
 
-[Graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to let a
-2D [std::vector](CppVector.htm) be drawn on a [VCL](CppVcl.htm)
-[TImage](CppTImage.htm). To do the opposite, use
-[ImageToVector](CppImageToVector.htm).
+[Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to let a
+2D [std::vector](CppVector.md) be drawn on a [VCL](CppVcl.md)
+[TImage](CppTImage.md). To do the opposite, use
+[ImageToVector](CppImageToVector.md).
 
  
 

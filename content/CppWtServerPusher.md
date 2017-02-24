@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtServerPusher](CppWtServerPusher.htm)
+([C++](Cpp.md)) [WtServerPusher](CppWtServerPusher.md)
 ========================================================
 
  
@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtShapeGroupWidget](CppWtShapeGroupWidget.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) used for notifying all clients from different IP
+[WtShapeGroupWidget](CppWtShapeGroupWidget.md) is a [Wt](CppWt.md)
+[class](CppClass.md) used for notifying all clients from different IP
 addresses.
 
 Technical facts
@@ -145,5 +145,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [RemoveDuplicates](CppRemoveDuplicates.htm)
+([C++](Cpp.md)) [RemoveDuplicates](CppRemoveDuplicates.md)
 ============================================================
 
  
 
-[RemoveDuplicates](CppRemoveDuplicates.htm) is a
-[std::vector](CppVector.htm) [code snippet](CppCodeSnippets.htm) to
-remove duplicates from a [std::vector](CppVector.htm).
+[RemoveDuplicates](CppRemoveDuplicates.md) is a
+[std::vector](CppVector.md) [code snippet](CppCodeSnippets.md) to
+remove duplicates from a [std::vector](CppVector.md).
 
  
 
@@ -37,7 +37,7 @@ remove duplicates from a [std::vector](CppVector.htm).
 
  
 
-Use of [RemoveDuplicates](CppRemoveDuplicates.htm)
+Use of [RemoveDuplicates](CppRemoveDuplicates.md)
 --------------------------------------------------
 
  
@@ -66,7 +66,7 @@ Screen output:
 
  
 
-[RemoveDuplicates](CppRemoveDuplicates.htm) [benchmark](CppBenchmark.htm)
+[RemoveDuplicates](CppRemoveDuplicates.md) [benchmark](CppBenchmark.md)
 -------------------------------------------------------------------------
 
  

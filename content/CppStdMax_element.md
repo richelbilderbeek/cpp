@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::max\_element](CppMax_element.htm)
+([C++](Cpp.md)) [std::max\_element](CppMax_element.md)
 ========================================================
 
  
 
-[std::max\_element](CppMax_element.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to find the heighest value in a
-[container](CppContainer.htm).
+[std::max\_element](CppMax_element.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to find the heighest value in a
+[container](CppContainer.md).
 
  
 
@@ -37,13 +37,13 @@
 
  
 
-Example: [GetKeyWithMaxValue](CppGetKeyWithMaxValue.htm)
+Example: [GetKeyWithMaxValue](CppGetKeyWithMaxValue.md)
 --------------------------------------------------------
 
  
 
-[GetKeyWithMaxValue](CppGetKeyWithMaxValue.htm) is a
-[std::map](CppMap.htm) [code snippet](CppCodeSnippets.htm) to obtain the
+[GetKeyWithMaxValue](CppGetKeyWithMaxValue.md) is a
+[std::map](CppMap.md) [code snippet](CppCodeSnippets.md) to obtain the
 key with the highest value.
 
  

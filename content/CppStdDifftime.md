@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::difftime](CppDifftime.htm)
+([C++](Cpp.md)) [std::difftime](CppDifftime.md)
 =================================================
 
  
 
-[std::difftime](CppDifftime.htm) is an [STL](CppStl.htm)
-[function](CppFunction.htm) to obtain the time difference in ticks
-between two [std::clock\_t](CppClock_t.htm) [structures](CppStruct.htm).
+[std::difftime](CppDifftime.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to obtain the time difference in ticks
+between two [std::clock\_t](CppClock_t.md) [structures](CppStruct.md).
 
  
 
-[std::difftime](CppDifftime.htm) is [defined](CppDefinition.htm) in the
-[header file](CppHeaderFile.htm) [ctime.h](CppCtimeH.htm).
+[std::difftime](CppDifftime.md) is [defined](CppDefinition.md) in the
+[header file](CppHeaderFile.md) [ctime.h](CppCtimeH.md).
 
  
 

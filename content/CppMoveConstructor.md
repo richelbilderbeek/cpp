@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [move constructor](CppMoveConstructor.htm)
+([C++](Cpp.md)) [move constructor](CppMoveConstructor.md)
 ===========================================================
 
  
 
-A [move constructor](CppMoveConstructor.htm) is a type of
-[constructor](CppConstructor.htm).
+A [move constructor](CppMoveConstructor.md) is a type of
+[constructor](CppConstructor.md).
 
  
 
@@ -30,12 +30,12 @@ A [move constructor](CppMoveConstructor.htm) is a type of
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [move constructor example 1: basics](CppMoveConstructorExample1.htm)
+-   [move constructor example 1: basics](CppMoveConstructorExample1.md)
 
  
 
@@ -47,13 +47,13 @@ A [move constructor](CppMoveConstructor.htm) is a type of
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   For large [return type](CppReturnType.htm), use a [move
-    constructor](CppMoveConstructor.htm) \[1\]
+-   For large [return type](CppReturnType.md), use a [move
+    constructor](CppMoveConstructor.md) \[1\]
 
  
 
@@ -65,12 +65,12 @@ A [move constructor](CppMoveConstructor.htm) is a type of
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 18.5.
     Advice. page 547: '\[4\] For large results, use a move constructor'
 

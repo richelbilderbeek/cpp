@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [DotMatrix](CppDotMatrix.htm)
+([C++](Cpp.md)) [DotMatrix](CppDotMatrix.md)
 ==============================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[DotMatrix](CppDotMatrix.htm) is a [class](CppClass.htm) for creating
+[DotMatrix](CppDotMatrix.md) is a [class](CppClass.md) for creating
 dot matrix texts.
 
 Technical facts
@@ -182,5 +182,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

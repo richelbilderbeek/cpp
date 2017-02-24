@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [Extctrls::TImage](CppTImage.htm)
+([C++](Cpp.md)) [Extctrls::TImage](CppTImage.md)
 ==================================================
 
  
 
-[Extctrls::TImage](CppTImage.htm) is the [VCL data
-type](CppVclDataType.htm) for an image.
+[Extctrls::TImage](CppTImage.md) is the [VCL data
+type](CppVclDataType.md) for an image.
 
  
 
-[Extctrls::TImage](CppTImage.htm) [code snippets](CppCodeSnippets.htm)
+[Extctrls::TImage](CppTImage.md) [code snippets](CppCodeSnippets.md)
 can be found at the [VCL graphics code snippets
-page](CppVclGraphics.htm).
+page](CppVclGraphics.md).
 
  
 
-[Extctrls::TImage](CppTImage.htm) is used heavily in both my
-[tools](Tools.htm) and [games](Games.htm).
+[Extctrls::TImage](CppTImage.md) is used heavily in both my
+[tools](Tools.md) and [games](Games.md).
 
  
 

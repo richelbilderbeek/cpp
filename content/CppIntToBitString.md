@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [IntToBitString](CppIntToBitString.htm)
+([C++](Cpp.md)) [IntToBitString](CppIntToBitString.md)
 ========================================================
 
  
 
-[IntToBitString](CppIntToBitString.htm) is a [bit
-operation](CppBitOperation.htm) [conversion](CppConvert.htm) [code
-snippet](CppCodeSnippets.htm) to [convert](CppConvert.htm) an
-[integer](CppInt.htm) to a [std::string](CppString.htm) of zeroes and
+[IntToBitString](CppIntToBitString.md) is a [bit
+operation](CppBitOperation.md) [conversion](CppConvert.md) [code
+snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
+[integer](CppInt.md) to a [std::string](CppString.md) of zeroes and
 ones.
 
  

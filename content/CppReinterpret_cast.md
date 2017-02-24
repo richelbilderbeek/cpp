@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [reinterpret\_cast](CppReinterpret_cast.htm)
+([C++](Cpp.md)) [reinterpret\_cast](CppReinterpret_cast.md)
 =============================================================
 
  
 
-[Keyword](CppKeyword.htm) to [cast](CppCast.htm) unrelated [data
-types](CppDataType.htm), for example an [int](CppInt.htm) to a char\*.
+[Keyword](CppKeyword.md) to [cast](CppCast.md) unrelated [data
+types](CppDataType.md), for example an [int](CppInt.md) to a char\*.
 
  
 

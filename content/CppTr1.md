@@ -12,23 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![TR1](PicCppTr1.png) [TR1](CppTr1.htm)
+([C++](Cpp.md)) ![TR1](PicCppTr1.png) [TR1](CppTr1.md)
 ========================================================
 
  
 
-[TR1 (an abbreviation of 'Technical Report 1')](CppTr1.htm) is a
-document proposing [library](CppLibrary.htm) extensions to the
-[C++98](Cpp98.htm) [library](CppLibrary.htm).
+[TR1 (an abbreviation of 'Technical Report 1')](CppTr1.md) is a
+document proposing [library](CppLibrary.md) extensions to the
+[C++98](Cpp98.md) [library](CppLibrary.md).
 
  
 
-[TR2](CppTr2.htm) will be a document proposing [library](CppLibrary.htm)
-extensions to the [C++11](Cpp11.htm) [library](CppLibrary.htm).
-
- 
-
- 
+[TR2](CppTr2.md) will be a document proposing [library](CppLibrary.md)
+extensions to the [C++11](Cpp11.md) [library](CppLibrary.md).
 
  
 
@@ -36,7 +32,11 @@ extensions to the [C++11](Cpp11.htm) [library](CppLibrary.htm).
 
  
 
-List of [TR1](CppTr1.htm) [header files](CppHeaderFile.htm)
+ 
+
+ 
+
+List of [TR1](CppTr1.md) [header files](CppHeaderFile.md)
 -----------------------------------------------------------
 
  
@@ -45,33 +45,33 @@ Found in '/usr/include/c++/4.7/tr1':
 
  
 
--   [array](CppArrayH.htm)
--   [ccomplex](CppCcomplexH.htm)
--   [cctype](CppCctypeH.htm)
--   [cfenv](CppCfenvH.htm)
--   [cfloat](CppCfloatH.htm)
--   [cinttypes](CppCinttypesH.htm)
--   [climits](CppClimitsH.htm)
--   [cmath](CppCmathH.htm)
--   [complex](CppComplexH.htm)
--   [cstdarg](CppCstdargH.htm)
--   [cstdbool](CppCstdboolH.htm)
--   [cstdint](CppCstdintH.htm)
--   [cstdio](CppCstdioH.htm)
--   [cstdlib](CppCstdlibH.htm)
--   [ctgmath](CppCtgmathH.htm)
--   [ctime](CppCtimeH.htm)
--   [cwchar](CppCwcharH.htm)
--   [cwctype](CppCctypeH.htm)
--   [functional](CppFunctionalH.htm)
--   [memory](CppMemoryH.htm)
--   [random](CppRandomH.htm)
--   [regex](CppRegexH.htm)
--   [tuple](CppTupleH.htm)
--   [type\_traits](CppType_traitsH.htm)
--   [unordered\_map](CppUnordered_mapH.htm)
--   [unordered\_set](CppUnordered_setH.htm)
--   [utility](CppUtilityH.htm)
+-   [array](CppArrayH.md)
+-   [ccomplex](CppCcomplexH.md)
+-   [cctype](CppCctypeH.md)
+-   [cfenv](CppCfenvH.md)
+-   [cfloat](CppCfloatH.md)
+-   [cinttypes](CppCinttypesH.md)
+-   [climits](CppClimitsH.md)
+-   [cmath](CppCmathH.md)
+-   [complex](CppComplexH.md)
+-   [cstdarg](CppCstdargH.md)
+-   [cstdbool](CppCstdboolH.md)
+-   [cstdint](CppCstdintH.md)
+-   [cstdio](CppCstdioH.md)
+-   [cstdlib](CppCstdlibH.md)
+-   [ctgmath](CppCtgmathH.md)
+-   [ctime](CppCtimeH.md)
+-   [cwchar](CppCwcharH.md)
+-   [cwctype](CppCctypeH.md)
+-   [functional](CppFunctionalH.md)
+-   [memory](CppMemoryH.md)
+-   [random](CppRandomH.md)
+-   [regex](CppRegexH.md)
+-   [tuple](CppTupleH.md)
+-   [type\_traits](CppType_traitsH.md)
+-   [unordered\_map](CppUnordered_mapH.md)
+-   [unordered\_set](CppUnordered_setH.md)
+-   [utility](CppUtilityH.md)
 
  
 
@@ -105,35 +105,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.10 (quantal)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.10 (quantal)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.5.2
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.5.2
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.2
+-   [G++](CppGpp.md) 4.7.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.2
 
  
@@ -146,7 +146,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppTr1.pro
+[Qt project file](CppQtProjectFile.md): CppTr1.pro
 ---------------------------------------------------
 
  

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [std::replace\_copy\_if](CppReplace_copy_if.htm)
+([C++](Cpp.md)) [std::replace\_copy\_if](CppReplace_copy_if.md)
 =================================================================
 
  
 
-[std::replace\_copy\_if](CppReplace_copy_if.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) to copy a range of elements and, while
+[std::replace\_copy\_if](CppReplace_copy_if.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) to copy a range of elements and, while
 doing so, replace elements that satisfy a certain
-[predicate](CppPredicate.htm).
+[predicate](CppPredicate.md).
 
  
 

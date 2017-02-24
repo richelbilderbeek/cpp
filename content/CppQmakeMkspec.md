@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [qmake mkspec](CppQmakeMkspec.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [qmake mkspec](CppQmakeMkspec.md)
 ====================================================================
 
  
 
-My [mkspecs](CppQmakeMkspec.htm) are found at
+My [mkspecs](CppQmakeMkspec.md) are found at
 'home/richel/qtsdk-2010.04/qt/mkspecs'. This folder contains the
 following folders:
 

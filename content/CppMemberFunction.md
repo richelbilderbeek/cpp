@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [member function](CppMemberFunction.htm)
+([C++](Cpp.md)) [member function](CppMemberFunction.md)
 =========================================================
 
  
 
-A [member function](CppMemberFunction.htm) is a
-[function](CppFunction.htm) working on a [class](CppClass.htm).
+A [member function](CppMemberFunction.md) is a
+[function](CppFunction.md) working on a [class](CppClass.md).
 
  
 
 There are multiple types of member functions:
 
--   [const member functions](CppConstMemberFunction.htm): these do not
-    change the (non-[mutable](CppMutable.htm)) member variables
--   [static member functions](CppStaticMemberFunction.htm): these do not
+-   [const member functions](CppConstMemberFunction.md): these do not
+    change the (non-[mutable](CppMutable.md)) member variables
+-   [static member functions](CppStaticMemberFunction.md): these do not
     have access to an object
 
  
@@ -41,15 +41,15 @@ There are multiple types of member functions:
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [member function example 1: Hello
-    World](CppMemberFunctionExample1.htm)
+    World](CppMemberFunctionExample1.md)
 -   [member function example 2: function pointer to member
-    function](CppMemberFunctionExample2.htm)
+    function](CppMemberFunctionExample2.md)
 
  
 
@@ -61,21 +61,21 @@ There are multiple types of member functions:
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   Follow a standard [member function
-    design](CppMemberFunctionDesign.htm). Note: many points of
-    [advice](CppAdvice.htm)!
--   Calling a [member function](CppMemberFunction.htm) a 'method' is
+    design](CppMemberFunctionDesign.md). Note: many points of
+    [advice](CppAdvice.md)!
+-   Calling a [member function](CppMemberFunction.md) a 'method' is
     wrong \[1\]
 -   Always try to localize the effects of change to a
-    [class](CppClass.htm)'s [data members](CppDataMember.htm) by
-    accessing and manipulating the [data members](CppDataMember.htm)
+    [class](CppClass.md)'s [data members](CppDataMember.md) by
+    accessing and manipulating the [data members](CppDataMember.md)
     through their corresponding get and set
-    [functions](CppMemberFunction.htm) \[2\]
+    [functions](CppMemberFunction.md) \[2\]
 
  
 
@@ -87,7 +87,7 @@ There are multiple types of member functions:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -119,5 +119,5 @@ There are multiple types of member functions:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

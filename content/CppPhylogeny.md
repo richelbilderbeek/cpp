@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [phylogeny](CppPhylogeny.htm)
+([C++](Cpp.md)) [phylogeny](CppPhylogeny.md)
 ==============================================
 
  
 
-A [phylogeny](CppPhylogeny.htm) shows the similarity between samples.
+A [phylogeny](CppPhylogeny.md) shows the similarity between samples.
 
  
 

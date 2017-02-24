@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [No matching function for call to 'ptr\_fun'](CppCompileErrorNoMatchingFunctionForCallToPtr_fun.htm)
+([C++](Cpp.md)) [No matching function for call to 'ptr\_fun'](CppCompileErrorNoMatchingFunctionForCallToPtr_fun.md)
 =====================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,14 +53,14 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 1.2.1
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 1.2.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
  
 

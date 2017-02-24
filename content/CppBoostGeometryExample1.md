@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [BoostGeometryExample1](CppBoostGeometryExample1.htm)
+([C++](Cpp.md)) [BoostGeometryExample1](CppBoostGeometryExample1.md)
 ======================================================================
 
  
@@ -23,38 +23,38 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [Boost.Geometry example 1: determine if a point is within a
-polygon](CppBoostGeometryExample1.htm) is a
-[Boost.Geometry](CppBoostGeometry.htm) [example](CppExample.htm).
+polygon](CppBoostGeometryExample1.md) is a
+[Boost.Geometry](CppBoostGeometry.md) [example](CppExample.md).
 
 Technical facts
 ---------------
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -67,7 +67,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppBoostGeometryExample1/CppBoostGeometryExample1.pro
+[Qt project file](CppQtProjectFile.md): ./CppBoostGeometryExample1/CppBoostGeometryExample1.pro
 ------------------------------------------------------------------------------------------------
 
  
@@ -114,5 +114,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

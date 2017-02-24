@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ['MyPolicy::MyMethod' is not a direct base class of 'MyClass&lt;MyPolicy&gt;'](CppCompileErrorMyPolicyMyMethodIsNotAdirectBaseClassOfMyClassMyPolicy.htm)
+([C++](Cpp.md)) ['MyPolicy::MyMethod' is not a direct base class of 'MyClass&lt;MyPolicy&gt;'](CppCompileErrorMyPolicyMyMethodIsNotAdirectBaseClassOfMyClassMyPolicy.md)
 ==========================================================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -45,9 +45,9 @@ Cause
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
  
 
@@ -80,7 +80,7 @@ Solution
 
  
 
-By removing the [using](CppUsing.htm) statement, it will work.
+By removing the [using](CppUsing.md) statement, it will work.
 
  
 
@@ -90,7 +90,7 @@ By removing the [using](CppUsing.htm) statement, it will work.
 
  
 
-[Policies](CppPolicy.htm) requires a compiler with highly robust support
+[Policies](CppPolicy.md) requires a compiler with highly robust support
 for templates \[1\].
 
  
@@ -103,7 +103,7 @@ for templates \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -130,5 +130,5 @@ for templates \[1\].
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

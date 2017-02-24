@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 3: Hello Boost](CppQtCrosscompileToWindowsExample3.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 3: Hello Boost](CppQtCrosscompileToWindowsExample3.md)
 ================================================================================================================================================================
 
  
@@ -24,8 +24,8 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
  
 
 This is example 3, and one of the solutions of answering the [Qt
-FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
+FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -66,7 +66,7 @@ Project information
  
 
 The project is set up as [Hello Boost under Qt Creator under
-Ubuntu](CppHelloBoostQtCreatorUbuntu.htm).
+Ubuntu](CppHelloBoostQtCreatorUbuntu.md).
 
  
 
@@ -83,10 +83,10 @@ Process
 
  
 
-Because I was trying to solve the [Qt FAQ](CppQtFaq.htm) [How to
+Because I was trying to solve the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
-executable?](CppQtCrosscompileToWindows.htm), I
-[compiled](CppCompile.htm) the code as follows:
+executable?](CppQtCrosscompileToWindows.md), I
+[compiled](CppCompile.md) the code as follows:
 
  
 
@@ -96,9 +96,9 @@ executable?](CppQtCrosscompileToWindows.htm), I
 
  
 
-This generates a main.o file. [Linking](CppLink.htm), however, fails due
-to many 'undefined reference to \[some [STL](CppStl.htm)
-[function](CppFunction.htm)\]' [link errors](CppLinkError.htm), using
+This generates a main.o file. [Linking](CppLink.md), however, fails due
+to many 'undefined reference to \[some [STL](CppStl.md)
+[function](CppFunction.md)\]' [link errors](CppLinkError.md), using
 any of the lines below:
 
  

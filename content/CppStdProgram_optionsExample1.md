@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Program\_options example 1: basics](CppProgram_optionsExample1.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Program\_options example 1: basics](CppProgram_optionsExample1.md)
 ==================================================================================================================
 
  
 
 [Boost.Program\_options example 1:
-basics](CppProgram_optionsExample1.htm) is a
-[Boost.Program\_options](CppProgram_options.htm) example.
+basics](CppProgram_optionsExample1.md) is a
+[Boost.Program\_options](CppProgram_options.md) example.
 
  
 
@@ -49,33 +49,33 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 13.04 (raring)
--   ![Windows](PicWindows.png) [Windows](CppWindows.htm)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 13.04 (raring)
+-   ![Windows](PicWindows.png) [Windows](CppWindows.md)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.7.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.7.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.7.3
+-   [G++](CppGpp.md) 4.7.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.49
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.4 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.49
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.4 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.7.3
 
  
@@ -88,7 +88,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppProgram\_optionsExample1.pro
+[Qt project file](CppQtProjectFile.md): CppProgram\_optionsExample1.pro
 ------------------------------------------------------------------------
 
  
@@ -154,5 +154,5 @@ crosscompiletowindows.sh
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::push\_heap](CppPush_heap.htm)
+([C++](Cpp.md)) [std::push\_heap](CppPush_heap.md)
 ====================================================
 
  
 
-[std::push\_heap](CppPush_heap.htm) is an [STL](CppStl.htm) heap
-[algorithm](CppAlgorithm.htm) to add a new value to a heap, where the
+[std::push\_heap](CppPush_heap.md) is an [STL](CppStl.md) heap
+[algorithm](CppAlgorithm.md) to add a new value to a heap, where the
 heap structure is maintained.
 
  

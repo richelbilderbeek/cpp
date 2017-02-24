@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt](CppWt.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt](CppWt.md)
 =================================================
 
  
 
-[Wt](CppWt.htm) (we pronounce that as 'witty') is a [C++](Cpp.htm)
-[library](CppLibrary.htm) for developing interactive [web
-applications](CppWebApplication.htm) \[1\].
+[Wt](CppWt.md) (we pronounce that as 'witty') is a [C++](Cpp.md)
+[library](CppLibrary.md) for developing interactive [web
+applications](CppWebApplication.md) \[1\].
 
  
 
@@ -31,14 +31,14 @@ applications](CppWebApplication.htm) \[1\].
 
  
 
--   ['Hello Wt' program](CppHelloWt.htm)
--   [Wt articles](CppWtArticle.htm)
--   [Wt and assert](CppWtAssert.htm)
--   [Wt classes](CppWtClass.htm)
--   [Wt deployment](CppWtDeploy.htm)
--   [Wt examples](CppWtExample.htm)
--   [Wt FAQ](CppWtFaq.htm)
--   [Wt with other libraries](CppWtWithOtherLibraries.htm)
+-   ['Hello Wt' program](CppHelloWt.md)
+-   [Wt articles](CppWtArticle.md)
+-   [Wt and assert](CppWtAssert.md)
+-   [Wt classes](CppWtClass.md)
+-   [Wt deployment](CppWtDeploy.md)
+-   [Wt examples](CppWtExample.md)
+-   [Wt FAQ](CppWtFaq.md)
+-   [Wt with other libraries](CppWtWithOtherLibraries.md)
 
  
 
@@ -54,15 +54,15 @@ applications](CppWebApplication.htm) \[1\].
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [Qt project file](CppQtProjectFile.htm)
-(to prevent [link errors](CppLinkError.htm) like [undefined reference to
+Add the following line to your [Qt project file](CppQtProjectFile.md)
+(to prevent [link errors](CppLinkError.md) like [undefined reference to
 'Wt::WRun(int, char\*\*, Wt::WApplication\* (\*)(Wt::WEnvironment
-const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)):
+const&))'](CppLinkErrorUndefinedReferenceToWtWrun.md)):
 
  
 
@@ -72,16 +72,16 @@ const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)):
 
  
 
-For a [Wt](CppWt.htm) application to run, choose one of these options:
+For a [Wt](CppWt.md) application to run, choose one of these options:
 
  
 
-1.  Use my [WtAutoConfig](CppWtAutoConfig.htm) [class](CppClass.htm):
+1.  Use my [WtAutoConfig](CppWtAutoConfig.md) [class](CppClass.md):
 
      
 
     -   Add the following line to your [Qt project
-        file](CppQtProjectFile.htm):
+        file](CppQtProjectFile.md):
 
          
 
@@ -91,8 +91,8 @@ For a [Wt](CppWt.htm) application to run, choose one of these options:
 
          
 
-    -   Change your [main](CppMain.htm) to the following, to let
-        [WtAutoConfig](CppWtAutoConfig.htm) add the arguments:
+    -   Change your [main](CppMain.md) to the following, to let
+        [WtAutoConfig](CppWtAutoConfig.md) add the arguments:
 
          
 
@@ -103,13 +103,13 @@ For a [Wt](CppWt.htm) application to run, choose one of these options:
      
 
     I follow this approach in my larger programs, for example in
-    [TestGroupWidget (version 1.2)](ToolTestGroupWidgetSource_1_2.htm).
+    [TestGroupWidget (version 1.2)](ToolTestGroupWidgetSource_1_2.md).
 
      
 
-2.  Change your [main](CppMain.htm) to the following, to call WRun with
-    the arguments added with a [C++11](Cpp11.htm) [initializer
-    list](CppInitializerList.htm):
+2.  Change your [main](CppMain.md) to the following, to call WRun with
+    the arguments added with a [C++11](Cpp11.md) [initializer
+    list](CppInitializerList.md):
 
      
 
@@ -121,15 +121,15 @@ For a [Wt](CppWt.htm) application to run, choose one of these options:
 
     I follow this approach my very small, mostly demonstrational,
     programs, for example in [memcheck example
-    6](CppMemcheckExample6.htm).
+    6](CppMemcheckExample6.md).
 
      
 
 3.  Add the following arguments to the [Run
     Settings](CppQtCreatorRunSettings.png) (to prevent the [misc
-    error](CppMiscError.htm) [stat: No such file or directory. Document
+    error](CppMiscError.md) [stat: No such file or directory. Document
     root ("")
-    not valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.htm)
+    not valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.md)
 
      
 
@@ -183,7 +183,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Increase](CppFunctorIncrease.htm)
+([C++](Cpp.md)) [Increase](CppFunctorIncrease.md)
 ===================================================
 
  
 
-[Increase](CppFunctorIncrease.htm) is a [functor](CppFunctor.htm) that
-produces [integer](CppInt.htm) values which get increasingly higher.
+[Increase](CppFunctorIncrease.md) is a [functor](CppFunctor.md) that
+produces [integer](CppInt.md) values which get increasingly higher.
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#1: a foolproof function](CppExerciseFoolproofFunctionAnswer.htm)
+([C++](Cpp.md)) [Answer of exercise \#1: a foolproof function](CppExerciseFoolproofFunctionAnswer.md)
 =======================================================================================================
 
  
 
 This is the answer of [exercise \#1: a foolproof
-function](CppExerciseFoolproofFunction.htm).
+function](CppExerciseFoolproofFunction.md).
 
  
 
@@ -35,10 +35,10 @@ function](CppExerciseFoolproofFunction.htm).
 
  
 
-We do not want to modify a Thing. The [compiler](CppCompiler.htm),
-however, does not know this. The [compiler](CppCompiler.htm) thinks we
-do want to modify a Thing, because the [pointer](CppPointer.htm) to
-Thing is not [const](CppConst.htm). This makes it possible to write to a
+We do not want to modify a Thing. The [compiler](CppCompiler.md),
+however, does not know this. The [compiler](CppCompiler.md) thinks we
+do want to modify a Thing, because the [pointer](CppPointer.md) to
+Thing is not [const](CppConst.md). This makes it possible to write to a
 Thing, as shown in the code below:
 
  
@@ -49,7 +49,7 @@ Thing, as shown in the code below:
 
  
 
-To solve this problem, make Thing [const](CppConst.htm):
+To solve this problem, make Thing [const](CppConst.md):
 
  
 
@@ -59,7 +59,7 @@ To solve this problem, make Thing [const](CppConst.htm):
 
  
 
-Use [const](CppConst.htm) whenever possible \[1-4\].
+Use [const](CppConst.md) whenever possible \[1-4\].
 
  
 
@@ -76,9 +76,9 @@ Use [const](CppConst.htm) whenever possible \[1-4\].
 
  
 
-Before being read, [pointers](CppPointer.htm) must always point to a
+Before being read, [pointers](CppPointer.md) must always point to a
 valid object. Nothing prevents us from making the
-[pointer](CppPointer.htm)-to-Thing point to zero:
+[pointer](CppPointer.md)-to-Thing point to zero:
 
  
 
@@ -88,8 +88,8 @@ valid object. Nothing prevents us from making the
 
  
 
-To solve this problem, make the [pointer](CppPointer.htm) itself
-[const](CppConst.htm) as well. This brings you to the following code:
+To solve this problem, make the [pointer](CppPointer.md) itself
+[const](CppConst.md) as well. This brings you to the following code:
 
  
 
@@ -99,7 +99,7 @@ To solve this problem, make the [pointer](CppPointer.htm) itself
 
  
 
-Again, use [const](CppConst.htm) whenever possible \[1-4\].
+Again, use [const](CppConst.md) whenever possible \[1-4\].
 
  
 
@@ -117,7 +117,7 @@ Again, use [const](CppConst.htm) whenever possible \[1-4\].
  
 
 Be aware that you can [delete a
-pointer-to-const](CppDeletePointerToConst.htm). Deleting a Thing,
+pointer-to-const](CppDeletePointerToConst.md). Deleting a Thing,
 however, is disastrous:
 
  
@@ -139,7 +139,7 @@ To solve this problem, we must modify Thing itself.
  
 
 Now, [exercise \#1: a foolproof
-function](CppExerciseFoolproofFunction.htm) has succeeded. If you knew
+function](CppExerciseFoolproofFunction.md) has succeeded. If you knew
 all three steps, you get an A. Congratulations!
 
  
@@ -161,9 +161,9 @@ But...
 
  
 
-A new problem has arisen: we cannot [construct](CppConstructor.htm) a
-Thing, as it cannot be [deleted](CppDelete.htm) when going out of
-[scope](CppScope.htm):
+A new problem has arisen: we cannot [construct](CppConstructor.md) a
+Thing, as it cannot be [deleted](CppDelete.md) when going out of
+[scope](CppScope.md):
 
  
 
@@ -194,35 +194,35 @@ Okay, I'll show the solutions.
 
  
 
-The way to solve this problem is to use the [friend](CppFriend.htm)
-[keyword](CppKeyword.htm). I show three possible
-[friends](CppFriend.htm):
+The way to solve this problem is to use the [friend](CppFriend.md)
+[keyword](CppKeyword.md). I show three possible
+[friends](CppFriend.md):
 
-1.  the [main](CppMain.htm) [function](CppFunction.htm)
-2.  a [smart pointer](CppSmartPointer.htm)
-3.  [boost::checked\_delete](CppChecked_delete.htm)
+1.  the [main](CppMain.md) [function](CppFunction.md)
+2.  a [smart pointer](CppSmartPointer.md)
+3.  [boost::checked\_delete](CppChecked_delete.md)
 
  
 
-'What, use [friend](CppFriend.htm)?', I hear you mutter, 'You should
-never use [friend](CppFriend.htm)!', as well as '[friend](CppFriend.htm)
-reduces [encapsulation](CppEncapsulation.htm)!'. If you just muttered
-these words, feel free to [contact me](Contact.htm) with a
-[reference](CppReferences.htm) to the [book](CppBooks.htm) in which you
+'What, use [friend](CppFriend.md)?', I hear you mutter, 'You should
+never use [friend](CppFriend.md)!', as well as '[friend](CppFriend.md)
+reduces [encapsulation](CppEncapsulation.md)!'. If you just muttered
+these words, feel free to [contact me](Contact.md) with a
+[reference](CppReferences.md) to the [book](CppBooks.md) in which you
 read this. I could not find it anywhere in my literature collection.
 
  
 
 And also, if you muttered this, read the following three options below
-to see that there is more [encapsulation](CppEncapsulation.htm), instead
-of less: Thing cannot be [destroyed](CppDestructor.htm) by anything,
-except its *only, single* [friend](CppFriend.htm). This makes Thing more
-[encapsulated](CppEncapsulation.htm) than by making everything able to
-[destroy](CppDestructor.htm) it. Read it again: making Thing
-[destructable](CppDestructor.htm) by its *only, single*
-[friend](CppFriend.htm) only, makes Thing more
-[encapsulated](CppEncapsulation.htm) by making everything able to
-[destroy](CppDestructor.htm) it.
+to see that there is more [encapsulation](CppEncapsulation.md), instead
+of less: Thing cannot be [destroyed](CppDestructor.md) by anything,
+except its *only, single* [friend](CppFriend.md). This makes Thing more
+[encapsulated](CppEncapsulation.md) than by making everything able to
+[destroy](CppDestructor.md) it. Read it again: making Thing
+[destructable](CppDestructor.md) by its *only, single*
+[friend](CppFriend.md) only, makes Thing more
+[encapsulated](CppEncapsulation.md) by making everything able to
+[destroy](CppDestructor.md) it.
 
  
 
@@ -234,7 +234,7 @@ except its *only, single* [friend](CppFriend.htm). This makes Thing more
 
  
 
-### 3.1.1) [Befriending](CppFriend.htm) the [main](CppMain.htm) [function](CppFunction.htm)
+### 3.1.1) [Befriending](CppFriend.md) the [main](CppMain.md) [function](CppFunction.htm)
 
  
 
@@ -244,9 +244,9 @@ except its *only, single* [friend](CppFriend.htm). This makes Thing more
 
  
 
-[Befriending](CppFriend.htm) the [main](CppMain.htm)
-[function](CppFunction.htm) has its restrictions: a Thing cannot be a
-[class](CppClass.htm) member. For this simple piece of code, however, it
+[Befriending](CppFriend.md) the [main](CppMain.md)
+[function](CppFunction.md) has its restrictions: a Thing cannot be a
+[class](CppClass.md) member. For this simple piece of code, however, it
 is a valid solution.
 
  
@@ -259,7 +259,7 @@ is a valid solution.
 
  
 
-### 3.1.2) [Befriending](CppFriend.htm) a [smart pointer](CppSmartPointer.htm)
+### 3.1.2) [Befriending](CppFriend.md) a [smart pointer](CppSmartPointer.md)
 
  
 
@@ -269,17 +269,17 @@ is a valid solution.
 
  
 
-A [std::auto\_ptr](CppAuto_ptr.htm) calls the
-[destructor](CppDestructor.htm) of Thing when it goes out of
-[scope](CppScope.htm). So, when making a
-[std::auto\_ptr](CppAuto_ptr.htm) a friend of Thing, you can create
-[std::auto\_ptr](CppAuto_ptr.htm)&lt;Thing&gt;.
+A [std::auto\_ptr](CppAuto_ptr.md) calls the
+[destructor](CppDestructor.md) of Thing when it goes out of
+[scope](CppScope.md). So, when making a
+[std::auto\_ptr](CppAuto_ptr.md) a friend of Thing, you can create
+[std::auto\_ptr](CppAuto_ptr.md)&lt;Thing&gt;.
 
  
 
-A drawback of this solution is that a [std::auto\_ptr](CppAuto_ptr.htm)
+A drawback of this solution is that a [std::auto\_ptr](CppAuto_ptr.md)
 does not have a checked delete (for example
-[boost::checked\_delete](CppChecked_delete.htm)).
+[boost::checked\_delete](CppChecked_delete.md)).
 
  
 
@@ -291,7 +291,7 @@ does not have a checked delete (for example
 
  
 
-### 3.1.3) [Befriending](CppFriend.htm) [boost::checked\_delete](CppChecked_delete.htm)
+### 3.1.3) [Befriending](CppFriend.md) [boost::checked\_delete](CppChecked_delete.md)
 
  
 
@@ -312,7 +312,7 @@ one can now write the following in ReadThing:
 
  
 
-But the [exercise](CppExercise.htm) was to make ReadThing foolproof, not
+But the [exercise](CppExercise.md) was to make ReadThing foolproof, not
 evil-genius-proof.
 
  
@@ -330,9 +330,9 @@ evil-genius-proof.
 
  
 
-The ReadThing [function](CppFunction.htm) has one assumption: the
-[pointer](CppPointer.htm) must point to a valid Thing. Use
-[assert](CppAssert.htm) to document internal assumptions \[5-9\].
+The ReadThing [function](CppFunction.md) has one assumption: the
+[pointer](CppPointer.md) must point to a valid Thing. Use
+[assert](CppAssert.md) to document internal assumptions \[5-9\].
 
  
 
@@ -342,7 +342,7 @@ The ReadThing [function](CppFunction.htm) has one assumption: the
 
  
 
-Again, use [assert](CppAssert.htm) to document internal assumptions
+Again, use [assert](CppAssert.md) to document internal assumptions
 \[5-9\].
 
  
@@ -355,30 +355,30 @@ Again, use [assert](CppAssert.htm) to document internal assumptions
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4 7.9.3: 'Use const
     extensively and consistently'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd
     edition).ISBN: 0-321-33487-6. Item 3: 'Use const whenever possible'
-3.  [Jarrod Hollingworth](CppJarrodHollingworth.htm), [Bob
-    Swart](CppBobSwart.htm), [Mark Cashman](CppMarkCashman.htm), [Paul
-    Gustavson](CppPaulGustavson.htm). Sams C++ Builder 6
+3.  [Jarrod Hollingworth](CppJarrodHollingworth.md), [Bob
+    Swart](CppBobSwart.md), [Mark Cashman](CppMarkCashman.md), [Paul
+    Gustavson](CppPaulGustavson.md). Sams C++ Builder 6
     Developer's Guide. ISBN: 0-672-32480-6. Chapter 3: 'Understand and
     use const in your code'
-4.  [Jesse Liberty](CppJesseLiberty.htm). Sams teach yourself C++ in
+4.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in
     24 hours. ISBN: 0-672-32224-2. Hour 8, chapter 'Const member
     functions': 'Use const whenever possible.'
-5.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+5.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     68: 'Assert liberally to document internal assumptions
     and invariants'.
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Advice 24.5.18:
     'Explicitly express preconditions,postconditions, and other
     assertions as assertions'.
@@ -390,7 +390,7 @@ Again, use [assert](CppAssert.htm) to document internal assumptions
     ISBN: -735619670. Chapter 8.2 'Assertions', paragraph 'Guidelines
     for using asserts': 'Use assertions for conditions that should
     never occur'.
-9.  [Jesse Liberty](CppJesseLiberty.htm). Sams teach yourself C++ in
+9.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in
     24 hours. ISBN: 0-672-32224-2. Hour 24, chapter 'assert()': 'Use
     assert freely'.
 

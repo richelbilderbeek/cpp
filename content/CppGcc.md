@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GCC](CppGcc.htm)
+([C++](Cpp.md)) [GCC](CppGcc.md)
 ==================================
 
  
 
-[GCC](CppGcc.htm) is an abbreviation of 'Gnu [Compiler](CppCompiler.htm)
-Collection', among others the [G++](CppGpp.htm)
-[compiler](CppCompiler.htm).
+[GCC](CppGcc.md) is an abbreviation of 'Gnu [Compiler](CppCompiler.md)
+Collection', among others the [G++](CppGpp.md)
+[compiler](CppCompiler.md).
 
  
 

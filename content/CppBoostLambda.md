@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Lambda](CppBoostLambda.htm)
+([C++](Cpp.md)) [Boost.Lambda](CppBoostLambda.md)
 ===================================================
 
  
 
-[Boost.Lambda](CppBoostLambda.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) to allow for [lambda
-expressions](CppLambdaExpression.htm) to replace [for](CppFor.htm)-loops
-or to simplify their corresponding [algorithm](CppAlgorithm.htm).
+[Boost.Lambda](CppBoostLambda.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) to allow for [lambda
+expressions](CppLambdaExpression.md) to replace [for](CppFor.md)-loops
+or to simplify their corresponding [algorithm](CppAlgorithm.md).
 
  
 

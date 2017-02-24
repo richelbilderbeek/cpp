@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QTableWidget](CppQTableWidget.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QTableWidget](CppQTableWidget.md)
 =====================================================================
 
  
 
-[QTableWidget](CppQTableWidget.htm) is a [Qt](CppQt.htm)
-[class](CppClass.htm) to view a table.
+[QTableWidget](CppQTableWidget.md) is a [Qt](CppQt.md)
+[class](CppClass.md) to view a table.
 
  
 
@@ -30,12 +30,12 @@
 
  
 
-[QTableWidget](CppQTableWidget.htm) [code snippets](CppCodeSnippets.htm)
+[QTableWidget](CppQTableWidget.md) [code snippets](CppCodeSnippets.md)
 ------------------------------------------------------------------------
 
  
 
-1.  [SetReadOnlyTableWidget](CppSetReadOnlyTableWidget.htm)
+1.  [SetReadOnlyTableWidget](CppSetReadOnlyTableWidget.md)
 
  
 
@@ -47,16 +47,16 @@
 
  
 
-[QTableWidget](CppQTableWidget.htm) examples
+[QTableWidget](CppQTableWidget.md) examples
 --------------------------------------------
 
  
 
--   [QTableWidget example 1: display text](CppQTableWidgetExample1.htm)
+-   [QTableWidget example 1: display text](CppQTableWidgetExample1.md)
 -   [QTableWidget example 2: checkboxes and
-    text](CppQTableWidgetExample2.htm)
+    text](CppQTableWidgetExample2.md)
 -   [QTableWidget example 3: checkboxes and text modifying external
-    data](CppQTableWidgetExample3.htm)
+    data](CppQTableWidgetExample3.md)
 
  
 

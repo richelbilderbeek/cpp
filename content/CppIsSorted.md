@@ -12,34 +12,30 @@
 
  
 
-([C++](Cpp.htm)) [IsSorted](CppIsSorted.htm)
+([C++](Cpp.md)) [IsSorted](CppIsSorted.md)
 ============================================
 
  
 
-[IsSorted](CppIsSorted.htm) is a [check](CppCheck.htm) [code
-snippet](CppCodeSnippets.htm) to [check](CppCheck.htm) if a
-[std::vector](CppVector.htm) is sorted.
+[IsSorted](CppIsSorted.md) is a [check](CppCheck.md) [code
+snippet](CppCodeSnippets.md) to [check](CppCheck.md) if a
+[std::vector](CppVector.md) is sorted.
 
  
 
-There are multiple versions of [IsSorted](CppIsSorted.htm):
+There are multiple versions of [IsSorted](CppIsSorted.md):
 
  
 
--   ![C++98](PicCpp98.png) [IsSorted](CppIsSorted.htm) for
-    [std::vector](CppVector.htm) using the [C++98](Cpp98.htm)
-    [STL](CppStl.htm)
--   ![C++98](PicCpp98.png) [IsSorted](CppIsSorted.htm) for any
-    [container](CppContainer.htm) using the [C++98](Cpp98.htm)
-    [STL](CppStl.htm)
--   ![C++11](PicCpp11.png) [IsSorted](CppIsSorted.htm) for any
-    [container](CppContainer.htm) using the [C++11](Cpp11.htm)
-    [STL](CppStl.htm)
-
- 
-
- 
+-   ![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for
+    [std::vector](CppVector.md) using the [C++98](Cpp98.md)
+    [STL](CppStl.md)
+-   ![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for any
+    [container](CppContainer.md) using the [C++98](Cpp98.md)
+    [STL](CppStl.md)
+-   ![C++11](PicCpp11.png) [IsSorted](CppIsSorted.md) for any
+    [container](CppContainer.md) using the [C++11](Cpp11.md)
+    [STL](CppStl.md)
 
  
 
@@ -47,7 +43,11 @@ There are multiple versions of [IsSorted](CppIsSorted.htm):
 
  
 
-![C++98](PicCpp98.png) [IsSorted](CppIsSorted.htm) for [std::vector](CppVector.htm) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
+ 
+
+ 
+
+![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for [std::vector](CppVector.md) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
 ----------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -66,7 +66,7 @@ There are multiple versions of [IsSorted](CppIsSorted.htm):
 
  
 
-![C++98](PicCpp98.png) [IsSorted](CppIsSorted.htm) for a [std::vector](CppVector.htm) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
+![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for a [std::vector](CppVector.md) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
 ------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -85,7 +85,7 @@ There are multiple versions of [IsSorted](CppIsSorted.htm):
 
  
 
-![C++98](PicCpp98.png) [IsSorted](CppIsSorted.htm) for any [container](CppContainer.htm) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
+![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for any [container](CppContainer.md) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -104,7 +104,7 @@ There are multiple versions of [IsSorted](CppIsSorted.htm):
 
  
 
-![C++11](PicCpp11.png) [IsSorted](CppIsSorted.htm) for any [container](CppContainer.htm) using the [C++11](Cpp11.htm) [STL](CppStl.htm)
+![C++11](PicCpp11.png) [IsSorted](CppIsSorted.md) for any [container](CppContainer.md) using the [C++11](Cpp11.htm) [STL](CppStl.htm)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
  

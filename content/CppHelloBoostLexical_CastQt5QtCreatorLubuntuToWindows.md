@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [HelloBoostLexical\_CastQt5QtCreatorLubuntuToWindows](CppHelloBoostLexical_CastQt5QtCreatorLubuntuToWindows.htm)
+([C++](Cpp.md)) [HelloBoostLexical\_CastQt5QtCreatorLubuntuToWindows](CppHelloBoostLexical_CastQt5QtCreatorLubuntuToWindows.md)
 =================================================================================================================================
 
  
@@ -24,8 +24,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![To](PicTo.png)![Windows](P
 
 [Hello Boost.Lexical\_cast using Qt5 under Qt Creator under Lubuntu,
 crosscompiled to
-Windows](CppHelloBoostLexical_CastQt5QtCreatorLubuntuToWindows.htm) is a
-[Hello Boost.Lexical\_cast](CppHelloBoostLexical_Cast.htm) program.
+Windows](CppHelloBoostLexical_CastQt5QtCreatorLubuntuToWindows.md) is a
+[Hello Boost.Lexical\_cast](CppHelloBoostLexical_Cast.md) program.
 
  
 
@@ -37,30 +37,30 @@ Technical facts
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 15.04 (vivid)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 3.1.1
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.9.2
+-   [G++](CppGpp.md) 4.9.2
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.9.2
 
  
@@ -73,7 +73,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): ./CppHelloBoostLexical\_CastQt5QtCreatorLubuntuToWindows/CppHelloBoostLexical\_CastQt5QtCreatorLubuntuToWindows.pro
+[Qt project file](CppQtProjectFile.md): ./CppHelloBoostLexical\_CastQt5QtCreatorLubuntuToWindows/CppHelloBoostLexical\_CastQt5QtCreatorLubuntuToWindows.pro
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -139,5 +139,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

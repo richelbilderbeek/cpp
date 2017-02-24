@@ -12,23 +12,23 @@
 
  
 
-([C++](Cpp.htm)) [Debug](CppDebug.htm)
+([C++](Cpp.md)) [Debug](CppDebug.md)
 ======================================
 
  
 
-[Debugging](CppDebug.htm) is the process of removing [bugs](CppBug.htm).
+[Debugging](CppDebug.md) is the process of removing [bugs](CppBug.md).
 
  
 
-[Tools](Tools.htm) for detecting memory management and threading bugs
-are, among others, [valgrind](CppValgrind.htm) ([Linux](CppLinux.htm))
-and [DrMemory](CppDrMemory.htm) ([Windows](CppWindows.htm)).
+[Tools](Tools.md) for detecting memory management and threading bugs
+are, among others, [valgrind](CppValgrind.md) ([Linux](CppLinux.md))
+and [DrMemory](CppDrMemory.md) ([Windows](CppWindows.md)).
 
  
 
 The process of improving the runtime speed is called
-[profiling](CppProfiler.htm).
+[profiling](CppProfiler.md).
 
  
 
@@ -38,20 +38,20 @@ The process of improving the runtime speed is called
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   The key question in [debugging](CppDebug.htm) is: How would I know
+-   The key question in [debugging](CppDebug.md) is: How would I know
     if the program actually worked correctly? \[1\]
--   When [defining](CppDefinition.htm) a [template](CppTemplate.htm),
-    first design and [debug](CppDebug.htm) a non-template version; later
+-   When [defining](CppDefinition.md) a [template](CppTemplate.md),
+    first design and [debug](CppDebug.md) a non-template version; later
     generalize by adding parameters \[2\]
--   Making the [data members](CppDataMember.htm) of a
-    [class](CppClass.htm) [private](CppPrivate.htm) and the [member
-    functions](CppMemberFunction.htm) of the [class](CppClass.htm)
-    [public](CppPublic.htm) facilitates [debugging](CppDebug.htm) \[3\]
+-   Making the [data members](CppDataMember.md) of a
+    [class](CppClass.md) [private](CppPrivate.md) and the [member
+    functions](CppMemberFunction.md) of the [class](CppClass.md)
+    [public](CppPublic.md) facilitates [debugging](CppDebug.md) \[3\]
 
  
 
@@ -63,20 +63,20 @@ The process of improving the runtime speed is called
 
  
 
-[Debugging](CppDebug.htm) [tools](Tools.htm)
+[Debugging](CppDebug.md) [tools](Tools.md)
 --------------------------------------------
 
  
 
-For [profiling](CppProfiler.htm) [tools](Tools.htm),see
-[profiling](CppProfiler.htm).
+For [profiling](CppProfiler.md) [tools](Tools.md),see
+[profiling](CppProfiler.md).
 
  
 
 -   ![Windows](PicWindows.png)
-    [ApplicationVerifier](ToolApplicationVerifier.htm)
--   ![Linux](PicLinux.png) [valgrind](CppValgrind.htm)
--   ![Windows](PicWindows.png) [DrMemory](ToolDrMemory.htm)
+    [ApplicationVerifier](ToolApplicationVerifier.md)
+-   ![Linux](PicLinux.png) [valgrind](CppValgrind.md)
+-   ![Windows](PicWindows.png) [DrMemory](ToolDrMemory.md)
 
  
 
@@ -88,15 +88,15 @@ For [profiling](CppProfiler.htm) [tools](Tools.htm),see
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). Programming. 2009.
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). Programming. 2009.
     ISBN: 978-0-321-54372-1. Chapter 5.9: 'The key question in debugging
     is 'How would I know if the program actually worked correctly?'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 23.8,
     page 698: '\[4\] When defining a template, first design and debug a
     non-template version; later generalize by adding parameters'

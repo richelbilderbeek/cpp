@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [cln::cl\_I](CppCl_I.htm)
+([C++](Cpp.md)) [cln::cl\_I](CppCl_I.md)
 ==========================================
 
  
 
-[cln::cl\_I](CppCl_I.htm) is the [CLN](CppCln.htm) [data
-type](CppDataType.htm) for an near-infinite-sized [int](CppInt.htm).
+[cln::cl\_I](CppCl_I.md) is the [CLN](CppCln.md) [data
+type](CppDataType.md) for an near-infinite-sized [int](CppInt.md).
 
  
 
@@ -36,15 +36,15 @@ type](CppDataType.htm) for an near-infinite-sized [int](CppInt.htm).
 
  
 
-[cln::cl\_I](CppCl_I.htm) [code snippets](CppCodeSnippets.htm)
+[cln::cl\_I](CppCl_I.md) [code snippets](CppCodeSnippets.md)
 --------------------------------------------------------------
 
  
 
-1.  [CliToInt, convert cln::cl\_I to int](CppCliToInt.htm)
-2.  [CliToStr, convert cln::cl\_I to std::string](CppCliToStr.htm)
-3.  [IntToStrWithSep, add thousands seperators](CppIntToStrWithSep.htm)
-4.  [SafeIntToCli, convert int to cln::cl\_I](CppSafeIntToCli.htm)
+1.  [CliToInt, convert cln::cl\_I to int](CppCliToInt.md)
+2.  [CliToStr, convert cln::cl\_I to std::string](CppCliToStr.md)
+3.  [IntToStrWithSep, add thousands seperators](CppIntToStrWithSep.md)
+4.  [SafeIntToCli, convert int to cln::cl\_I](CppSafeIntToCli.md)
 
  
 

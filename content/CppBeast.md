@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Beast](CppBeast.htm)
+([C++](Cpp.md)) [Beast](CppBeast.md)
 ======================================
 
  
@@ -21,8 +21,8 @@
 
  
 
-[Beast](CppBeast.htm) contain the resources to work with the tool
-[BEAST2](ToolBeast2.htm).
+[Beast](CppBeast.md) contain the resources to work with the tool
+[BEAST2](ToolBeast2.md).
 
 Technical facts
 ---------------
@@ -238,5 +238,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

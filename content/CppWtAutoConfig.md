@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WtAutoConfig](CppWtAutoConfig.htm)
+([C++](Cpp.md)) [WtAutoConfig](CppWtAutoConfig.md)
 ====================================================
 
  
@@ -22,10 +22,10 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtAutoConfig](CppWtAutoConfig.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) that allows to start a [Wt](CppWt.htm) application
+[WtAutoConfig](CppWtAutoConfig.md) is a [Wt](CppWt.md)
+[class](CppClass.md) that allows to start a [Wt](CppWt.md) application
 without the need of a user giving command-line parameters. It is a fine
-starting point for a [Wt](CppWt.htm) application.
+starting point for a [Wt](CppWt.md) application.
 
 Technical facts
 ---------------
@@ -108,5 +108,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

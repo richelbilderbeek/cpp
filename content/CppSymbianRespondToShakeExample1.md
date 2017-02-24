@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [How to respond to the user shaking the mobile phone, example 1](CppSymbianRespondToShakeExample1.htm)
+([C++](Cpp.md)) [How to respond to the user shaking the mobile phone, example 1](CppSymbianRespondToShakeExample1.md)
 =======================================================================================================================
 
  
@@ -32,37 +32,35 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Mobile](PicMobile.png) [Mobile
-    application](CppMobileApplication.htm)
+    application](CppMobileApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.htm)
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Symbian](PicSymbian.png) [Symbian](CppSymbian.md)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -72,7 +70,9 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): QtAccelerometer.pro
+ 
+
+[Qt project file](CppQtProjectFile.md): QtAccelerometer.pro
 ------------------------------------------------------------
 
  

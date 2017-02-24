@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::unique\_copy](CppUnique_copy.htm)
+([C++](Cpp.md)) [std::unique\_copy](CppUnique_copy.md)
 ========================================================
 
  
 
-[std::unique\_copy](CppUnique_copy.htm) is an [STL](CppStl.htm)
-[algorithm](CppAlgorithm.htm) similar to [std::copy](CppCopy.htm) except
+[std::unique\_copy](CppUnique_copy.md) is an [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) similar to [std::copy](CppCopy.md) except
 that it copies identical adjacent values once.
 
  

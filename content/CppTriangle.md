@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Triangle](CppTriangle.htm)
+([C++](Cpp.md)) [Triangle](CppTriangle.md)
 ============================================
 
  
 
-[Triangle](CppTriangle.htm) is a two-dimensional mesh generator and
+[Triangle](CppTriangle.md) is a two-dimensional mesh generator and
 Delaunay triangulator written by Jonathan Richard Shewchuk
 
  
@@ -56,5 +56,5 @@ External links
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

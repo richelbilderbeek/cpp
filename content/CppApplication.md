@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [Application](CppApplication.htm)
+([C++](Cpp.md)) [Application](CppApplication.md)
 ==================================================
 
  
 
-An [application](CppApplication.htm) is 'a program that does things'.
+An [application](CppApplication.md) is 'a program that does things'.
 
  
 
-There are multiple types of [applications](CppApplication.htm):
+There are multiple types of [applications](CppApplication.md):
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm): a program that must be
+    application](CppDesktopApplication.md): a program that must be
     installed and executed on a personal computer
 -   ![Mobile](PicMobile.png) [Mobile
-    application](CppMobileApplication.htm): a program that must be
+    application](CppMobileApplication.md): a program that must be
     installed and executed on a mobile phone
--   ![Web](PicWeb.png) [Web application](CppWebApplication.htm): a
+-   ![Web](PicWeb.png) [Web application](CppWebApplication.md): a
     program that is installed on a server and executed in a web browser
 
  

@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QWebView](CppQWebView.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QWebView](CppQWebView.md)
 =============================================================
 
  
 
-[QWebView](CppQWebView.htm) is a [Qt](CppQt.htm) [class](CppClass.htm)
+[QWebView](CppQWebView.md) is a [Qt](CppQt.md) [class](CppClass.htm)
 to display HTML.
 
  
 
--   [QWebView example 1](CppQWebViewExample1.htm)
+-   [QWebView example 1](CppQWebViewExample1.md)
 
  
 
@@ -43,5 +43,5 @@ to display HTML.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

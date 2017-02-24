@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WideToDouble](CppWideToDouble.htm)
+([C++](Cpp.md)) [WideToDouble](CppWideToDouble.md)
 ====================================================
 
  
@@ -44,5 +44,5 @@ Converts a WideString to double.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

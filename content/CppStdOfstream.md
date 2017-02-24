@@ -12,24 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [std::ofstream](CppOfstream.htm)
+([C++](Cpp.md)) [std::ofstream](CppOfstream.md)
 =================================================
 
  
 
-[std::ofstream](CppOfstream.htm) (abbreviation of 'output file
-[stream](CppStream.htm)') is an [STL](CppStl.htm) [file
-I/O](CppFileIo.htm) output [stream](CppStream.htm).
+[std::ofstream](CppOfstream.md) (abbreviation of 'output file
+[stream](CppStream.md)') is an [STL](CppStl.md) [file
+I/O](CppFileIo.md) output [stream](CppStream.md).
 
  
 
-[std::ofstream](CppOfstream.htm) is used to write to a file. To read
-from a file, use [std::ifstream](CppIfstream.htm). Both are [derived
-classes](CppDerivedClass.htm) from [std::fstream](CppFstream.htm).
-
- 
-
- 
+[std::ofstream](CppOfstream.md) is used to write to a file. To read
+from a file, use [std::ifstream](CppIfstream.md). Both are [derived
+classes](CppDerivedClass.md) from [std::fstream](CppFstream.md).
 
  
 
@@ -37,7 +33,11 @@ classes](CppDerivedClass.htm) from [std::fstream](CppFstream.htm).
 
  
 
-Example: [CopyFile](CppCopyFile.htm)
+ 
+
+ 
+
+Example: [CopyFile](CppCopyFile.md)
 ------------------------------------
 
  

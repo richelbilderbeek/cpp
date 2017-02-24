@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#28](CppExerciseNoForLoopsAnswer28.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#28](CppExerciseNoForLoopsAnswer28.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -40,9 +40,9 @@ Question \#28: GetMaxId on std::vector&lt;Person\*&gt;
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.htm)
+-   [boost::bind](CppBind.md)
 
  
 
@@ -62,7 +62,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) Answer using [C++98](Cpp98.htm) and [Boost](CppBoost.htm).Bind
+![C++98](PicCpp98.png)![Boost](PicBoost.png) Answer using [C++98](Cpp98.md) and [Boost](CppBoost.md).Bind
 -----------------------------------------------------------------------------------------------------------
 
  
@@ -81,7 +81,7 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) Answer using the [C++11](Cpp11.htm) its [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) Answer using the [C++11](Cpp11.md) its [STL](CppStl.md)
 --------------------------------------------------------------------------------------------------
 
  

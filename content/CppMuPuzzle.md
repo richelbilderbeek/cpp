@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [MU puzzle](CppMuPuzzle.htm)
+([C++](Cpp.md)) [MU puzzle](CppMuPuzzle.md)
 =============================================
 
  
 
-The [MU puzzle](CppMuPuzzle.htm) is a puzzle originally described in
+The [MU puzzle](CppMuPuzzle.md) is a puzzle originally described in
 \[1\] and can be read online at \[2\]. I wrote a program to search for
 the solution, before I knew the solution to the puzzle.
 
@@ -47,7 +47,7 @@ Screen output:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

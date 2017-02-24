@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WSound](CppWSound.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WSound](CppWSound.md)
 =============================================================
 
  
 
-[Wt::WSound](CppWSound.htm) is a [Wt](CppWt.htm) [class](CppClass.htm)
+[Wt::WSound](CppWSound.md) is a [Wt](CppWt.md) [class](CppClass.htm)
 for a timer.
 
  
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WSound](CppWSound.htm) is used in, among others:
+[Wt::WSound](CppWSound.md) is used in, among others:
 
 -   ...
 

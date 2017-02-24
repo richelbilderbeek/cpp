@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Big Four](CppBigFour.htm)
+([C++](Cpp.md)) [Big Four](CppBigFour.md)
 ===========================================
 
  
 
-The [Big Four](CppBigFour.htm) are the following four special
-[class](CppClass.htm) [member functions](CppMemberFunction.htm) \[1\]:
+The [Big Four](CppBigFour.md) are the following four special
+[class](CppClass.md) [member functions](CppMemberFunction.md) \[1\]:
 
  
 
-1.  [Default constructor](CppDefaultConstructor.htm)
-2.  [Copy constructor](CppCopyConstructor.htm)
-3.  [Copy assignment operator](CppCopyAssignmentOperator.htm)
-4.  [Destructor](CppDestructor.htm)
+1.  [Default constructor](CppDefaultConstructor.md)
+2.  [Copy constructor](CppCopyConstructor.md)
+3.  [Copy assignment operator](CppCopyAssignmentOperator.md)
+4.  [Destructor](CppDestructor.md)
 
  
 
@@ -66,13 +66,13 @@ Screen output:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Introduction 'Class Design and Inheritance'
 

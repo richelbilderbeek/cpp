@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [friend](CppFriend.htm)
+([C++](Cpp.md)) [friend](CppFriend.md)
 ========================================
 
  
 
-[friend](CppFriend.htm) is a [keyword](CppKeyword.htm) to grant
-[private](CppPrivate.htm) access to a [function](CppFunction.htm),
-[member function](CppMemberFunction.htm) or [class](CppClass.htm).
+[friend](CppFriend.md) is a [keyword](CppKeyword.md) to grant
+[private](CppPrivate.md) access to a [function](CppFunction.md),
+[member function](CppMemberFunction.md) or [class](CppClass.md).
 
  
 
-Avoid unnecessary [friendships](CppFriend.htm) \[1\]. Avoiding granting
-[friendship](CppFriend.htm) to individual [functions](CppFunction.htm)
+Avoid unnecessary [friendships](CppFriend.md) \[1\]. Avoiding granting
+[friendship](CppFriend.md) to individual [functions](CppFunction.md)
 \[2\].
 
  
@@ -37,15 +37,15 @@ Avoid unnecessary [friendships](CppFriend.htm) \[1\]. Avoiding granting
 
  
 
-Example: [overloading](CppOverload.htm) [operator&lt;&lt;](CppOperatorStreamOut.htm)
+Example: [overloading](CppOverload.md) [operator&lt;&lt;](CppOperatorStreamOut.md)
 ------------------------------------------------------------------------------------
 
  
 
-In this example, [operator&lt;&lt;](CppOperatorStreamOut.htm) is made a
-[friend](CppFriend.htm) of [class](CppClass.htm) MyClass, so that
-[operator&lt;&lt;](CppOperatorStreamOut.htm) can access the
-[private](CppPrivate.htm) [variable](CppVariable.htm) mValue.
+In this example, [operator&lt;&lt;](CppOperatorStreamOut.md) is made a
+[friend](CppFriend.md) of [class](CppClass.md) MyClass, so that
+[operator&lt;&lt;](CppOperatorStreamOut.md) can access the
+[private](CppPrivate.md) [variable](CppVariable.md) mValue.
 
  
 
@@ -67,11 +67,11 @@ References
 
  
 
-1.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 9.1.13: 'Avoiding unnecessary
     friendships (even within the same component) can improve
     maintainability'
-2.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+2.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 9.1.13: 'Avoiding granting
     friendship to individual functions'
 

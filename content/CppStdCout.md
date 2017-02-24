@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [std::cout](CppCout.htm)
+([C++](Cpp.md)) [std::cout](CppCout.md)
 =========================================
 
  
 
-[std::cout](CppCout.htm) is a STL ([global](CppGlobal.htm)) character
-[output stream](CppOstream.htm) and can be used to write text to screen.
+[std::cout](CppCout.md) is a STL ([global](CppGlobal.md)) character
+[output stream](CppOstream.md) and can be used to write text to screen.
 
  
 
-[std::cout](CppCout.htm) is [defined](CppDefinition.htm) in the [header
-file](CppHeaderFile.htm) [iostream](CppIostreamH.htm) and resides is
-[namespace](CppNamespace.htm) [std](CppStd.htm).
+[std::cout](CppCout.md) is [defined](CppDefinition.md) in the [header
+file](CppHeaderFile.md) [iostream](CppIostreamH.md) and resides is
+[namespace](CppNamespace.md) [std](CppStd.md).
 
  
 
@@ -52,12 +52,12 @@ This results in the following output on the screen:
 
  
 
-[std::cout](CppCout.htm) [code snippets](CppCodeSnippets.htm)
+[std::cout](CppCout.md) [code snippets](CppCodeSnippets.md)
 -------------------------------------------------------------
 
  
 
--   [std::cout on a std::vector](CppCoutVector.htm)
+-   [std::cout on a std::vector](CppCoutVector.md)
 
  
 
@@ -69,12 +69,12 @@ This results in the following output on the screen:
 
  
 
-![NDS](PicNds.png) [std::cout](CppCout.htm) on [NDS](CppNds.htm)
+![NDS](PicNds.png) [std::cout](CppCout.md) on [NDS](CppNds.md)
 ----------------------------------------------------------------
 
  
 
-[std::cout](CppCout.htm) writes to the bottom screen by default.
+[std::cout](CppCout.md) writes to the bottom screen by default.
 
  
 

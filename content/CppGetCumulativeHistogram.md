@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [GetCumulativeHistogram](CppGetCumulativeHistogram.htm)
+([C++](Cpp.md)) [GetCumulativeHistogram](CppGetCumulativeHistogram.md)
 ========================================================================
 
  
 
-[Math](CppMath.htm) and [std::vector](CppVector.htm) [code
-snippet](CppCodeSnippets.htm) to calculate a cumulative histogram from a
+[Math](CppMath.md) and [std::vector](CppVector.md) [code
+snippet](CppCodeSnippets.md) to calculate a cumulative histogram from a
 histogram.
 
  

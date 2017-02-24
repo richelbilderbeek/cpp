@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WRadioButton](CppWRadioButton.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WRadioButton](CppWRadioButton.md)
 =========================================================================
 
  
 
-[Wt::WRadioButton](CppWRadioButton.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for ...
+[Wt::WRadioButton](CppWRadioButton.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for ...
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WRadioButton](CppWRadioButton.htm) is used in, among others:
+[Wt::WRadioButton](CppWRadioButton.md) is used in, among others:
 
 -   ...
 

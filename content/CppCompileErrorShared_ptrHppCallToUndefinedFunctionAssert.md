@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [shared\_ptr.hpp: call to undefined function 'assert'](CppCompileErrorShared_ptrHppCallToUndefinedFunctionAssert.htm)
+([C++](Cpp.md)) [shared\_ptr.hpp: call to undefined function 'assert'](CppCompileErrorShared_ptrHppCallToUndefinedFunctionAssert.md)
 ======================================================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -34,9 +34,9 @@ Cause
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-[Compiler](CppCompiler.htm): Borland BCC32.EXE version 6.0.10.157
+[Compiler](CppCompiler.md): Borland BCC32.EXE version 6.0.10.157
 
 Boost version: 1.35.0.
 
@@ -54,7 +54,7 @@ code, in the second line.
  
 
 I still do not understand why it occurs (as on top of the header file
-boost/assert.hpp is [\#included](CppInclude.htm)).
+boost/assert.hpp is [\#included](CppInclude.md)).
 
  
 

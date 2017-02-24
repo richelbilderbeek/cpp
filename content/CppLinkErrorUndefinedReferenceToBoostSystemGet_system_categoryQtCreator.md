@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png)![Qt](PicQt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Undefined reference to 'boost::system::get\_system\_category()' (using Qt Creator)](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryQtCreator.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png)![Qt](PicQt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Undefined reference to 'boost::system::get\_system\_category()' (using Qt Creator)](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_categoryQtCreator.md)
 ================================================================================================================================================================================================================================================================================
 
  
 
-[link error](CppLinkError.htm) ([BEI](CppBei.htm) 5).
+[link error](CppLinkError.md) ([BEI](CppBei.md) 5).
 
  
 
 One of the versions of [Undefined reference to
-'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.htm),
-encountered when using [Qt Creator](CppQtCreator.htm).
+'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.md),
+encountered when using [Qt Creator](CppQtCreator.md).
 
  
 
@@ -57,38 +57,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.04 (lucid)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.04 (lucid)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![Boost](PicBoost.png) [Boost](CppBoost.htm): version 1.40
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.40
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -98,7 +96,9 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -122,7 +122,7 @@ Source code
 
  
 
-If you want to work with [Boost.Asio](CppAsio.htm):
+If you want to work with [Boost.Asio](CppAsio.md):
 
  
 
@@ -132,7 +132,7 @@ If you want to work with [Boost.Asio](CppAsio.htm):
 
  
 
-Or if you want to work with [Boost.Filesystem](CppFilesystem.htm):
+Or if you want to work with [Boost.Filesystem](CppFilesystem.md):
 
  
 
@@ -155,7 +155,7 @@ Solution
 
  
 
-Add the following line to the [Qt project file](CppQtProjectFile.htm):
+Add the following line to the [Qt project file](CppQtProjectFile.md):
 
  
 

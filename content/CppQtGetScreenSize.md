@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to get the screen size?](CppQtGetScreenSize.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to get the screen size?](CppQtGetScreenSize.md)
 =======================================================================================
 
  
@@ -38,7 +38,7 @@ Screen output:
 
  
 
-[Project file](CppQtProjectFile.htm):
+[Project file](CppQtProjectFile.md):
 
  
 

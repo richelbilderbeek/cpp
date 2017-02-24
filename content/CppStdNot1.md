@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::not1](CppNot1.htm)
+([C++](Cpp.md)) [std::not1](CppNot1.md)
 =========================================
 
  
 
-[std::not1](CppNot1.htm) is an [STL](CppStl.htm)
-[adapter](CppAdapter.htm) to negate a [predicate](CppPredicate.htm)
-derived from [std::unary\_function](CppUnary_function.htm). To negate a
-[predicate](CppPredicate.htm) derived from
-[std::binary\_function](CppBinary_function.htm), use
-[std::not2](CppNot2.htm).
+[std::not1](CppNot1.md) is an [STL](CppStl.md)
+[adapter](CppAdapter.md) to negate a [predicate](CppPredicate.md)
+derived from [std::unary\_function](CppUnary_function.md). To negate a
+[predicate](CppPredicate.md) derived from
+[std::binary\_function](CppBinary_function.md), use
+[std::not2](CppNot2.md).
 
  
 
@@ -41,16 +41,16 @@ Example
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

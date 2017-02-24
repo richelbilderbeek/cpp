@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [std::right](CppRight.htm)
+([C++](Cpp.md)) [std::right](CppRight.md)
 ===========================================
 
  
 
-[std::right](CppRight.htm) is a [stream](CppStream.htm) manipulator to
+[std::right](CppRight.md) is a [stream](CppStream.md) manipulator to
 let the minus and the digits of a negative number both be put at the
 right of the padding width.
 

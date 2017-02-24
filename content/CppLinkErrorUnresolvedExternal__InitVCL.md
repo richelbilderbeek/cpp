@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [Unresolved external '\_\_InitVCL' referenced from \[..\]](CppLinkErrorUnresolvedExternal__InitVCL.htm)
+([C++](Cpp.md)) [Unresolved external '\_\_InitVCL' referenced from \[..\]](CppLinkErrorUnresolvedExternal__InitVCL.md)
 ========================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
 Project type: In Console Wizard 'Console Application' checked, 'Use VCL'
 checked

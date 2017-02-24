@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Wt example 1](CppWtExample1.htm)
+([C++](Cpp.md)) [Wt example 1](CppWtExample1.md)
 ==================================================
 
  
 
-[Wt example 1](CppWtExample1.htm) is a [Wt](CppWt.htm) example to code
+[Wt example 1](CppWtExample1.md) is a [Wt](CppWt.md) example to code
 and display a simple menu.
 
  
@@ -48,30 +48,30 @@ Downloads
 
  
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 --------------------------------------------------------------
 
  
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) Console application
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
--   ![Wt](PicWt.png) [Wt](CppWt.htm): version 3.1.2
+-   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  
 
@@ -83,7 +83,7 @@ Downloads
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppWtMenu.pro
+[Qt project file](CppQtProjectFile.md): CppWtMenu.pro
 ------------------------------------------------------
 
  
@@ -221,7 +221,7 @@ Settings](CppQtCreatorRunSettings.png):
 
  
 
-[Deploying the Wt application locally](CppWtDeployLocal.htm)
+[Deploying the Wt application locally](CppWtDeployLocal.md)
 ------------------------------------------------------------
 
  
@@ -248,9 +248,9 @@ Now, start your web browser and go to the following address:
  
 
 You will see the 'Hello Wt' dynamic website. You just [deployed your Wt
-application locally](CppWtDeployLocal.htm). This is just fine for
+application locally](CppWtDeployLocal.md). This is just fine for
 debugging. If the application is ready to be put on the web, [deploy the
-Wt application globally](CppWtDeployGlobal.htm).
+Wt application globally](CppWtDeployGlobal.md).
 
  
 

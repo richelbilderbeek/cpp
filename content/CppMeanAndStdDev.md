@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [MeanAndStdDev](CppMeanAndStdDev.htm)
+([C++](Cpp.md)) [MeanAndStdDev](CppMeanAndStdDev.md)
 ======================================================
 
  
 
-[Math](CppMath.htm) [code snippet](CppCodeSnippets.htm) to get the mean
-and standard deviation of a [std::vector](CppVector.htm).
+[Math](CppMath.md) [code snippet](CppCodeSnippets.md) to get the mean
+and standard deviation of a [std::vector](CppVector.md).
 
  
 

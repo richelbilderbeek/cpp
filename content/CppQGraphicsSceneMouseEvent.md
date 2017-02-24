@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QGraphicsSceneMouseEvent](CppQGraphicsSceneMouseEvent.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsSceneMouseEvent](CppQGraphicsSceneMouseEvent.md)
 =============================================================================================
 
  
 
-[QGraphicsSceneMouseEvent](CppQGraphicsSceneMouseEvent.htm) is a
-[QGraphicsSceneEvent](CppQGraphicsSceneEvent.htm).
+[QGraphicsSceneMouseEvent](CppQGraphicsSceneMouseEvent.md) is a
+[QGraphicsSceneEvent](CppQGraphicsSceneEvent.md).
 
 related events.
 
@@ -43,5 +43,5 @@ related events.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

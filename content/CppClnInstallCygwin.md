@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![CLN](PicCln.png)![Cygwin](PicCygwin.png)![Windows](PicWindows.png) [Installing CLN under Cygwin (under Windows)](CppClnInstallCygwin.htm)
+([C++](Cpp.md)) ![CLN](PicCln.png)![Cygwin](PicCygwin.png)![Windows](PicWindows.png) [Installing CLN under Cygwin (under Windows)](CppClnInstallCygwin.md)
 ============================================================================================================================================================
 
  
 
-To installing [CLN](CppCln.htm) under [Cygwin](CppCygwin.htm), download
-the source code from the [CLN](CppCln.htm) homepage and follow the
+To installing [CLN](CppCln.md) under [Cygwin](CppCygwin.md), download
+the source code from the [CLN](CppCln.md) homepage and follow the
 instructions in the file 'INSTALL':
 
  
@@ -30,7 +30,7 @@ instructions in the file 'INSTALL':
  
 
 If 'make' results in the [make error: colon
-expected](CppMakeErrorColonExpected.htm), follow the instructions on
+expected](CppMakeErrorColonExpected.md), follow the instructions on
 that page.
 
  

@@ -12,22 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [FANN](CppFann.htm)
+([C++](Cpp.md)) [FANN](CppFann.md)
 ====================================
 
  
 
-[FANN](CppFann.htm) (an abbreviation of 'Fast Artificial Neural
-Network') is a [neural network](CppNeuralNetwork.htm)
-[library](CppLibrary.htm).
+[FANN](CppFann.md) (an abbreviation of 'Fast Artificial Neural
+Network') is a [neural network](CppNeuralNetwork.md)
+[library](CppLibrary.md).
 
  
 
-[FANN](CppFann.htm) can be downloaded from the Ubuntu Software Center.
-
- 
-
- 
+[FANN](CppFann.md) can be downloaded from the Ubuntu Software Center.
 
  
 
@@ -35,13 +31,17 @@ Network') is a [neural network](CppNeuralNetwork.htm)
 
  
 
-[FANN](CppFann.htm) examples
+ 
+
+ 
+
+[FANN](CppFann.md) examples
 ----------------------------
 
  
 
--   [FANN example 1: basic](CppFannExample1.htm)
--   [FANN example 2: solving the XOR problem](CppFannExample2.htm)
+-   [FANN example 1: basic](CppFannExample1.md)
+-   [FANN example 2: solving the XOR problem](CppFannExample2.md)
 
  
 
@@ -53,12 +53,12 @@ Network') is a [neural network](CppNeuralNetwork.htm)
 
  
 
-My personal [FANN](CppFann.htm) remarks
+My personal [FANN](CppFann.md) remarks
 ---------------------------------------
 
  
 
--   [FANN](CppFann.htm) does not save its neural networks in the PMML
+-   [FANN](CppFann.md) does not save its neural networks in the PMML
     language
 
  
@@ -71,13 +71,13 @@ My personal [FANN](CppFann.htm) remarks
 
  
 
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.htm) users
+![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 -----------------------------------------------------------------------------
 
  
 
-Add the following line to your [project file](CppQtProjectFile.htm) (to
-prevent [link errors](CppLinkError.htm)):
+Add the following line to your [project file](CppQtProjectFile.md) (to
+prevent [link errors](CppLinkError.md)):
 
  
 

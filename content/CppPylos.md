@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Pylos](CppPylos.htm)
+([C++](Cpp.md)) [Pylos](CppPylos.md)
 ======================================
 
  
@@ -22,13 +22,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-The [Pylos](CppPylos.htm) [classes](CppClass.htm) are used for the
-[game](Games.htm) [Pylos](GamePylos.htm) (also called 'Pyraos').
+The [Pylos](CppPylos.md) [classes](CppClass.md) are used for the
+[game](Games.md) [Pylos](GamePylos.md) (also called 'Pyraos').
 
  
 
-The [Pylos](CppPylos.htm) [classes](CppClass.htm) are tested by
-[TestPylos page](ToolTestPylos.htm).
+The [Pylos](CppPylos.md) [classes](CppClass.md) are tested by
+[TestPylos page](ToolTestPylos.md).
 
 Technical facts
 ---------------
@@ -434,5 +434,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

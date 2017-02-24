@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [IsSquare](CppIsSquare.htm)
+([C++](Cpp.md)) [IsSquare](CppIsSquare.md)
 ============================================
 
  
 
-[IsSquare](CppIsSquare.htm) is a [std::vector](CppVector.htm) [code
-snippet](CppCodeSnippets.htm) to check if a
-2D-[std::vector](CppVector.htm) is square.
+[IsSquare](CppIsSquare.md) is a [std::vector](CppVector.md) [code
+snippet](CppCodeSnippets.md) to check if a
+2D-[std::vector](CppVector.md) is square.
 
  
 
@@ -31,7 +31,7 @@ snippet](CppCodeSnippets.htm) to check if a
 
  
 
-[Qt Creator](CppQtCreator.htm) source code
+[Qt Creator](CppQtCreator.md) source code
 ------------------------------------------
 
  
@@ -55,7 +55,7 @@ snippet](CppCodeSnippets.htm) to check if a
 
  
 
-[C++ Builder](CppBuilder.htm) source code
+[C++ Builder](CppBuilder.md) source code
 -----------------------------------------
 
  

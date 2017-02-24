@@ -1,6 +1,6 @@
 
 
-[Go back to Richel Bilderbeek's tools page](Tools.htm).
+[Go back to Richel Bilderbeek's tools page](Tools.md).
 
  
 
@@ -12,29 +12,29 @@
 
  
 
-([C++](Cpp.htm)) [gprof](CppGprof.htm)
+([C++](Cpp.md)) [gprof](CppGprof.md)
 ======================================
 
  
 
-[gprof](CppGprof.htm) is a [C++](Cpp.htm) (and more programming
-languages) [profiler](CppProfiler.htm). [cachegrind](CppCachegrind.htm)
-is another [profiler](CppProfiler.htm).
+[gprof](CppGprof.md) is a [C++](Cpp.md) (and more programming
+languages) [profiler](CppProfiler.md). [cachegrind](CppCachegrind.md)
+is another [profiler](CppProfiler.md).
 
  
 
-[gprof](CppGprof.htm) can be installed from the Ubuntu Software Center.
+[gprof](CppGprof.md) can be installed from the Ubuntu Software Center.
 
  
 
 -   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png) [1: profiling a
     simple console application in Qt Creator, using Build
-    Settings](CppGprofQtCreatorExample1.htm)
+    Settings](CppGprofQtCreatorExample1.md)
 -   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png) [2: profiling a
     simple console application in Qt Creator, using Qt project
-    file](CppGprofQtCreatorExample2.htm)
+    file](CppGprofQtCreatorExample2.md)
 -   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png) [Answer of
-    exercise \#7: AddOne](CppExerciseAddOneAnswer.htm)
+    exercise \#7: AddOne](CppExerciseAddOneAnswer.md)
 
  
 
@@ -46,13 +46,13 @@ is another [profiler](CppProfiler.htm).
 
  
 
-[gprof](CppGprof.htm) and multi-threaded programs
+[gprof](CppGprof.md) and multi-threaded programs
 -------------------------------------------------
 
  
 
-[gprof](CppGprof.htm) does not appear to [profile](CppProfile.htm)
-multi-threaded programs under [Lubuntu](CppLubuntu.htm):
+[gprof](CppGprof.md) does not appear to [profile](CppProfile.md)
+multi-threaded programs under [Lubuntu](CppLubuntu.md):
 
  
 
@@ -60,12 +60,12 @@ multi-threaded programs under [Lubuntu](CppLubuntu.htm):
     application](CppGprofMultithreadedResult.txt): 0.0% of the total
     time is spent non-idle. But actually, 0.0% of the total time is
     spent non-idle in the main thread only! The application
-    [profiled](CppProfile.htm) was [GTST](ProjectGtst.htm), version 0.50
+    [profiled](CppProfile.md) was [GTST](ProjectGtst.md), version 0.50
 
  
 
-[oprofile](CppOprofile.htm) is said to [profile](CppProfile.htm)
-multi-threaded programs under [Lubuntu](CppLubuntu.htm) correctly.
+[oprofile](CppOprofile.md) is said to [profile](CppProfile.md)
+multi-threaded programs under [Lubuntu](CppLubuntu.md) correctly.
 
  
 
@@ -97,7 +97,7 @@ External links
 
  
 
-[Go back to Richel Bilderbeek's tools page](Tools.htm).
+[Go back to Richel Bilderbeek's tools page](Tools.md).
 
 
 

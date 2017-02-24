@@ -12,16 +12,16 @@
 
  
 
-([C++](Cpp.htm)) [std::ptr\_fun](CppPtr_fun.htm)
+([C++](Cpp.md)) [std::ptr\_fun](CppPtr_fun.md)
 ================================================
 
  
 
-An [adapter](CppAdapter.htm) to be able to use the
-[algorithm](CppAlgorithm.htm) [for\_each](CppFor_each.htm) on a
-[function](CppFunction.htm) of T stored in a
-[container](CppContainer.htm) as T, instead of using loops. Prefer
-[algorithm](CppAlgorithm.htm) calls over hand-written loops \[1,2\].
+An [adapter](CppAdapter.md) to be able to use the
+[algorithm](CppAlgorithm.md) [for\_each](CppFor_each.md) on a
+[function](CppFunction.md) of T stored in a
+[container](CppContainer.md) as T, instead of using loops. Prefer
+[algorithm](CppAlgorithm.md) calls over hand-written loops \[1,2\].
 
  
 
@@ -52,15 +52,15 @@ Example
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms to loops'
-2.  [Scott Meyers](CppScottMeyers.htm). Effective STL.
+2.  [Scott Meyers](CppScottMeyers.md). Effective STL.
     ISBN:0-201-74962-9. Item 43: 'Prefer algorithm calls over
     hand-written loops'
 

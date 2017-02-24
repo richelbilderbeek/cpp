@@ -12,25 +12,25 @@
 
  
 
-([C++](Cpp.htm)) [Boost](CppBoost.htm)
+([C++](Cpp.md)) [Boost](CppBoost.md)
 ======================================
 
  
 
-[Boost](CppBoost.htm) is a collection of cross-platform
-[libraries](CppLibrary.htm), that might be called 'the playground of the
-next [STL](CppStl.htm)'. It is regarded as a rather good
-[library](CppLibrary.htm) \[1-3\].
+[Boost](CppBoost.md) is a collection of cross-platform
+[libraries](CppLibrary.md), that might be called 'the playground of the
+next [STL](CppStl.md)'. It is regarded as a rather good
+[library](CppLibrary.md) \[1-3\].
 
  
 
--   [View all Boost libraries at the 'C++ library' page](CppLibrary.htm)
+-   [View all Boost libraries at the 'C++ library' page](CppLibrary.md)
 
  
 
-All [functions](CppFunction.htm) and [classes](CppClass.htm) are in the
-'[boost](CppBoost.htm)' [namespace](CppNamespace.htm) (although some
-will migrate to the [std](CppStd.htm) [namespace](CppNamespace.htm)).
+All [functions](CppFunction.md) and [classes](CppClass.md) are in the
+'[boost](CppBoost.md)' [namespace](CppNamespace.md) (although some
+will migrate to the [std](CppStd.md) [namespace](CppNamespace.md)).
 
  
 
@@ -40,7 +40,7 @@ will migrate to the [std](CppStd.htm) [namespace](CppNamespace.htm)).
 
  
 
-Familiarize yourself with [Boost](CppBoost.htm) \[1\].
+Familiarize yourself with [Boost](CppBoost.md) \[1\].
 
  
 
@@ -52,13 +52,13 @@ Familiarize yourself with [Boost](CppBoost.htm) \[1\].
 
  
 
-[Installing Boost](CppBoostInstall.htm)
+[Installing Boost](CppBoostInstall.md)
 ---------------------------------------
 
  
 
-Information about [installing Boost](CppBoostInstall.htm) can be found
-at the [installing Boost](CppBoostInstall.htm) page.
+Information about [installing Boost](CppBoostInstall.md) can be found
+at the [installing Boost](CppBoostInstall.md) page.
 
  
 
@@ -87,19 +87,19 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++ (3rd edition).
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 54: Familiarize yourself with Boost
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6:
     '...one of the most highly regarded and expertly designed C++
     library projects in the world.'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). Abstraction,
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). Abstraction,
     libraries, and efficiency in C++. Dr. Dobb's Journal China. Vol 1,
     no 1. August 2003: 'The obvious solution for most programmers is to
     use a library that provides an elegant and efficient platform

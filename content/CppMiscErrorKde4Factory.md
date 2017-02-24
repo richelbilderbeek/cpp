@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [kde4Factory: The library "/usr/lib/kde4/kgraphviewerpart.so" does not offer a qt\_plugin\_instance function](CppMiscErrorKde4Factory.htm)
+([C++](Cpp.md)) [kde4Factory: The library "/usr/lib/kde4/kgraphviewerpart.so" does not offer a qt\_plugin\_instance function](CppMiscErrorKde4Factory.md)
 ===========================================================================================================================================================
 
  
 
-[Misc error](CppMiscError.htm).
+[Misc error](CppMiscError.md).
 
  
 
@@ -57,19 +57,19 @@ Cause
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [Poppler](CppPoppler.htm): version 0.12.4-0ubuntu5
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Boost](CppBoost.md): version 1.40
+-   [Poppler](CppPoppler.md): version 0.12.4-0ubuntu5
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 

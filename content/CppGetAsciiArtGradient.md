@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [GetAsciiArtGradient](CppGetAsciiArtGradient.htm)
+([C++](Cpp.md)) [GetAsciiArtGradient](CppGetAsciiArtGradient.md)
 ==================================================================
 
  
 
-[ASCII art](CppAsciiArt.htm) [code snippet](CppCodeSnippets.htm) to get
+[ASCII art](CppAsciiArt.md) [code snippet](CppCodeSnippets.md) to get
 an ASCII art gradient.
 
  

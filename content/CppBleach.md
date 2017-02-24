@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [Bleach](CppBleach.htm)
+([C++](Cpp.md)) [Bleach](CppBleach.md)
 ========================================
 
  
 
-[Bleach](CppBleach.htm) is a [VCL graphics](CppVclGraphics.htm) [code
-snippet](CppVclCodeSnippets.htm) to bleach a
-[Extctrls::TImage](CppTImage.htm). To darken a
-[Extctrls::TImage](CppTImage.htm) use [Darken](CppDarken.htm).
+[Bleach](CppBleach.md) is a [VCL graphics](CppVclGraphics.md) [code
+snippet](CppVclCodeSnippets.md) to bleach a
+[Extctrls::TImage](CppTImage.md). To darken a
+[Extctrls::TImage](CppTImage.md) use [Darken](CppDarken.md).
 
  
 
-The [tool](Tools.htm) [BarbaImage](ToolBarbaImage.htm) uses
-[Bleach](CppBleach.htm) as one of its image operations.
+The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
+[Bleach](CppBleach.md) as one of its image operations.
 
  
 
@@ -65,5 +65,5 @@ The [tool](Tools.htm) [BarbaImage](ToolBarbaImage.htm) uses
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Duff's device](CppDuffsDevice.htm)
+([C++](Cpp.md)) [Duff's device](CppDuffsDevice.md)
 ====================================================
 
  
@@ -28,7 +28,7 @@ An example of weird-looking-but-compilable code.
  
 
 I leave it as an exercise to the reader to figure out what [Duff's
-device](CppDuffsDevice.htm) does.
+device](CppDuffsDevice.md) does.
 
  
 

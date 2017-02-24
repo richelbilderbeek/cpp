@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [GetGrayCodes](CppGetGrayCodes.htm)
+([C++](Cpp.md)) [GetGrayCodes](CppGetGrayCodes.md)
 ====================================================
 
  
 
-[GetGrayCodes](CppGetGrayCodes.htm) is a [bit
-operation](CppBitOperation.htm) [code snippet](CppCodeSnippets.htm) to
+[GetGrayCodes](CppGetGrayCodes.md) is a [bit
+operation](CppBitOperation.md) [code snippet](CppCodeSnippets.md) to
 generate the Gray code for 1 to and including 16 bits. It does so by
 flipping a single bit and checking if this number has been used already.
 
  
 
-Related functions to [GetGrayCodes](CppGetGrayCodes.htm) are
-[GrayToInt](CppGrayToInt.htm) and [IntToGray](CppIntToGray.htm).
+Related functions to [GetGrayCodes](CppGetGrayCodes.md) are
+[GrayToInt](CppGrayToInt.md) and [IntToGray](CppIntToGray.md).
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Object::connect: No such slot QDialog::my\_slot()](CppCompileWarningNoSuchSlot.htm)
+([C++](Cpp.md)) [Object::connect: No such slot QDialog::my\_slot()](CppCompileWarningNoSuchSlot.md)
 =====================================================================================================
 
  
 
-[Compile warning](CppCompileWarning.htm).
+[Compile warning](CppCompileWarning.md).
 
  
 
@@ -56,18 +56,16 @@ Cause
 Operating system:
 [Ubuntu](http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29)
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 GUI Application
+[Project type](CppQtProjectType.md): Qt4 GUI Application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
-
- 
+-   [Boost](CppBoost.md): version 1.40
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
 
  
 
@@ -77,7 +75,9 @@ Operating system:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -148,8 +148,8 @@ Solution
 
  
 
-Add the [Q\_OBJECT](CppQ_OBJECT.htm) at the beginning of the MyDialog
-[class](CppClass.htm) [declaration](CppDeclaration.htm).
+Add the [Q\_OBJECT](CppQ_OBJECT.md) at the beginning of the MyDialog
+[class](CppClass.md) [declaration](CppDeclaration.md).
 
  
 
@@ -160,8 +160,8 @@ Add the [Q\_OBJECT](CppQ_OBJECT.htm) at the beginning of the MyDialog
  
 
 Note that a complete example of the corrected version of this [compile
-warning](CppCompileWarning.htm) can be found at [Qt example 12: creating
-a custom QDialog with slot](CppQtExample12.htm).
+warning](CppCompileWarning.md) can be found at [Qt example 12: creating
+a custom QDialog with slot](CppQtExample12.md).
 
  
 

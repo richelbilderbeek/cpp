@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [How to install GMP under Windows?](CppGmpInstallWindows.htm)
+([C++](Cpp.md)) [How to install GMP under Windows?](CppGmpInstallWindows.md)
 ==============================================================================
 
  
 
-To solve the [FAQ](CppFaq.htm) 'How to install [GMP](CppGmp.htm) under
+To solve the [FAQ](CppFaq.md) 'How to install [GMP](CppGmp.md) under
 Windows', first [port GMP from Cygwin (under Windows) to
-Windows](CppGmpPortCygwinToWindows.htm).
+Windows](CppGmpPortCygwinToWindows.md).
 
  
 
@@ -52,7 +52,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

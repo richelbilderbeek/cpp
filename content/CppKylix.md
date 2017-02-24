@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [Kylix](CppKylix.htm)
+([C++](Cpp.md)) [Kylix](CppKylix.md)
 ======================================
 
  
 
-[Kylix](CppKylix.htm) is an abandoned [IDE](CppIde.htm) for Linux.
+[Kylix](CppKylix.md) is an abandoned [IDE](CppIde.md) for Linux.
 
  
 
-[Kylix](CppKylix.htm) used the [CLX](CppClx.htm)
-[library](CppLibrary.htm) for [GUI](CppGui.htm) design.
+[Kylix](CppKylix.md) used the [CLX](CppClx.md)
+[library](CppLibrary.md) for [GUI](CppGui.md) design.
 
  
 

@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [jconfig.h: No such file or directory](CppCompileErrorJconfigHnoSuchFileOrDirectory.htm)
+([C++](Cpp.md)) [jconfig.h: No such file or directory](CppCompileErrorJconfigHnoSuchFileOrDirectory.md)
 =========================================================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,18 +53,18 @@ Cause
 
  
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 1.3.1
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Boost](CppBoost.htm) version: 1.42.0
+[Boost](CppBoost.md) version: 1.42.0
 
-Additional [libraries](CppLibrary.htm): jpeg-8a from the [Independent
+Additional [libraries](CppLibrary.md): jpeg-8a from the [Independent
 JPEG Group](http://www.ijg.org)
 
  
@@ -79,7 +79,7 @@ The following code caused the error:
 
  
 
-The following [project file](CppQtProjectFile.htm) was used:
+The following [project file](CppQtProjectFile.md) was used:
 
  
 
@@ -102,9 +102,9 @@ Solution
 
  
 
-You need to build the the jpeg-8a [library](CppLibrary.htm), as this
+You need to build the the jpeg-8a [library](CppLibrary.md), as this
 will create the file jconfig.h. Go to the jpeg-8a
-[library](CppLibrary.htm) folder and read the install.txt file.
+[library](CppLibrary.md) folder and read the install.txt file.
 
  
 
@@ -117,7 +117,7 @@ When using Ubuntu 10.04, the following commands worked for me:
  
 
 You will probably need to add the following line to your [project
-file](CppQtProjectFile.htm):
+file](CppQtProjectFile.md):
 
  
 
@@ -148,17 +148,17 @@ Failed attempts
 
  
 
-### Remove the jpeg-8a [library](CppLibrary.htm)
+### Remove the jpeg-8a [library](CppLibrary.md)
 
  
 
-Remove the jpeg-8a [library](CppLibrary.htm) from the INCLUDEPATH.
+Remove the jpeg-8a [library](CppLibrary.md) from the INCLUDEPATH.
 
  
 
 Then, you might then get the [jpeglib.h: No such file or
-directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.htm) [compile
-error](CppCompileError.htm).
+directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.md) [compile
+error](CppCompileError.md).
 
  
 

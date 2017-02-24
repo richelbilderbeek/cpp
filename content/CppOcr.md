@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [OCR](CppOcr.htm)
+([C++](Cpp.md)) [OCR](CppOcr.md)
 ==================================
 
  
 
-[OCR](CppOcr.htm) (an abbreviation of 'Optical Character Recognition')
-is the technique to let an [algorithm](CppAlgorithm.htm) determine the
+[OCR](CppOcr.md) (an abbreviation of 'Optical Character Recognition')
+is the technique to let an [algorithm](CppAlgorithm.md) determine the
 characters from a hand-written image.
 
  

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Window](PicWindows.png)![VirtualBox](PicVirtualBox.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png) ['Hello Qt' using Qt Creator under Windows under VirtualBox under Ubuntu for Symbian](CppHelloQtQtCreatorWindowsVirtualBoxUbuntuSymbian.htm)
+([C++](Cpp.md)) ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Window](PicWindows.png)![VirtualBox](PicVirtualBox.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png) ['Hello Qt' using Qt Creator under Windows under VirtualBox under Ubuntu for Symbian](CppHelloQtQtCreatorWindowsVirtualBoxUbuntuSymbian.md)
 =====================================================================================================================================================================================================================================================================================================================================================
 
  
 
-[Hello Qt](CppHelloQt.htm) program using [Qt Creator](CppQtCreator.htm)
-under [Windows](CppWindows.htm) under [VirtualBox](CppVirtualBox.htm)
-under [Ubuntu](CppUbuntu.htm) for [Symbian](CppSymbian.htm).
+[Hello Qt](CppHelloQt.md) program using [Qt Creator](CppQtCreator.md)
+under [Windows](CppWindows.md) under [VirtualBox](CppVirtualBox.md)
+under [Ubuntu](CppUbuntu.md) for [Symbian](CppSymbian.md).
 
  
 
@@ -30,9 +30,9 @@ under [Ubuntu](CppUbuntu.htm) for [Symbian](CppSymbian.htm).
  
 
 -   [Start Windows under VirtualBox under
-    Ubuntu](CppWindowsVirtualBoxUbuntu.htm)
--   Start the [Qt SDK](CppQtSdk.htm)'s [Qt Creator](CppQtCreator.htm)
-    (starting the 'plain' [Qt Creator](CppQtCreator.htm) will not
+    Ubuntu](CppWindowsVirtualBoxUbuntu.md)
+-   Start the [Qt SDK](CppQtSdk.md)'s [Qt Creator](CppQtCreator.md)
+    (starting the 'plain' [Qt Creator](CppQtCreator.md) will not
     be successfull)
 -   Create a new project
     ([screenshot (png)](CppHelloQtQtCreatorWindowsVirtualBoxUbuntuSymbian1.png))

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::tan](CppTan.htm)
+([C++](Cpp.md)) [std::tan](CppTan.md)
 =======================================
 
  
 
-[std::tan](CppTan.htm) (an abbreviation of 'tangens') is a
-[mathematical](CppMath.htm) [STL](CppStl.htm)
-[function](CppFunction.htm) that [returns](CppReturn.htm) the tangens of
+[std::tan](CppTan.md) (an abbreviation of 'tangens') is a
+[mathematical](CppMath.md) [STL](CppStl.md)
+[function](CppFunction.md) that [returns](CppReturn.md) the tangens of
 an inputted value. This value must be supplied in radians.
 
  

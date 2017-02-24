@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Memento](CppDesignPatternMemento.htm) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Memento](CppDesignPatternMemento.md) ([Design Pattern](CppDesignPattern.htm))
 ================================================================================================
 
  
 
-The [Memento](CppDesignPatternMemento.htm) is a [Design
-Pattern](CppDesignPattern.htm) that 'without violating encapsulation,
+The [Memento](CppDesignPatternMemento.md) is a [Design
+Pattern](CppDesignPattern.md) that 'without violating encapsulation,
 capture and externalize an object's internal state so that the object
 can be restored to this state later' \[1\]
 
@@ -32,14 +32,14 @@ can be restored to this state later' \[1\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Erich Gamma](CppErichGamma.htm), [Richard
-    Helm](CppRichardHelm.htm), [Ralph Johnson](CppRalphJohnson.htm),
-    [John Vlissides](CppJohnVlissides.htm). Design Patterns. 1995.
+1.  [Erich Gamma](CppErichGamma.md), [Richard
+    Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md),
+    [John Vlissides](CppJohnVlissides.md). Design Patterns. 1995.
     ISBN: 0201633612.
 
  

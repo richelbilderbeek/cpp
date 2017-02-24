@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Duplicate symbol](CppCompileErrorDuplicateSymbol.htm)
+([C++](Cpp.md)) [Duplicate symbol](CppCompileErrorDuplicateSymbol.md)
 =======================================================================
 
  
 
-[Compile error](CppCompileError.htm).
+[Compile error](CppCompileError.md).
 
  
 
@@ -53,14 +53,14 @@ Cause
 
  
 
-[IDE](CppIde.htm): Xcode 3.1.2
+[IDE](CppIde.md): Xcode 3.1.2
 
-[Compiler](CppCompiler.htm): [Gcc](CppGcc.htm) 4.0.1
+[Compiler](CppCompiler.md): [Gcc](CppGcc.md) 4.0.1
 
  
 
 This might happen if you use my [Gnuplot
-Interface](CppGnuplotInterface.htm). The cause is in the following
+Interface](CppGnuplotInterface.md). The cause is in the following
 lines:
 
  
@@ -87,23 +87,23 @@ Solution
  
 
 Duplicate symbols occur when you have both added an [implementation file
-(.cpp)](CppImplementationFile.htm) to your project and
-[\#included](CppInclude.htm) it. This way, the [implementation file
-(.cpp)](CppImplementationFile.htm) gets [compiled](CppCompiler.htm)
+(.cpp)](CppImplementationFile.md) to your project and
+[\#included](CppInclude.md) it. This way, the [implementation file
+(.cpp)](CppImplementationFile.md) gets [compiled](CppCompiler.md)
 twice: once as a module in your project (as it is added to your project)
-and subsequently as a piece of [\#included](CppInclude.htm) code.
+and subsequently as a piece of [\#included](CppInclude.md) code.
 
  
 
-Avoid [\#including](CppInclude.htm) [implementation files
-(.cpp)](CppImplementationFile.htm). Prefer [\#including](CppInclude.htm)
-[header files (.h)](CppHeaderFile.htm) only. Prefer adding
-[implementation files (.cpp)](CppImplementationFile.htm) to your
+Avoid [\#including](CppInclude.md) [implementation files
+(.cpp)](CppImplementationFile.md). Prefer [\#including](CppInclude.md)
+[header files (.h)](CppHeaderFile.md) only. Prefer adding
+[implementation files (.cpp)](CppImplementationFile.md) to your
 project.
 
  
 
-For the [Gnuplot Interface](CppGnuplotInterface.htm) problem: follow the
+For the [Gnuplot Interface](CppGnuplotInterface.md) problem: follow the
 hints from the commments:
 
  

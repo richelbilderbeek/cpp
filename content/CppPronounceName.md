@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [How do you pronounce your name?](CppPronounceName.htm)
+([C++](Cpp.md)) [How do you pronounce your name?](CppPronounceName.md)
 ========================================================================
 
  
 
-[FAQ](CppFaq.htm).
+[FAQ](CppFaq.md).
 
  
 

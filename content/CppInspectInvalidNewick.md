@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [InspectInvalidNewick](CppInspectInvalidNewick.htm)
+([C++](Cpp.md)) [InspectInvalidNewick](CppInspectInvalidNewick.md)
 ====================================================================
 
  
 
-[InspectInvalidNewick](CppInspectInvalidNewick.htm) is a
-[Newick](CppNewick.htm) [code snippets](CppCodeSnippets.htm) to inspect
-an invalid [Newick](CppNewick.htm).
+[InspectInvalidNewick](CppInspectInvalidNewick.md) is a
+[Newick](CppNewick.md) [code snippets](CppCodeSnippets.md) to inspect
+an invalid [Newick](CppNewick.md).
 
  
 

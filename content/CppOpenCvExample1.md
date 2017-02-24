@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [OpenCvExample1](CppOpenCvExample1.htm)
+([C++](Cpp.md)) [OpenCvExample1](CppOpenCvExample1.md)
 ========================================================
 
  
 
-[OpenCvExample1](CppOpenCvExample1.htm) is a [OpenCV](CppOpenCv.htm)
+[OpenCvExample1](CppOpenCvExample1.md) is a [OpenCV](CppOpenCv.md)
 example how to display an image and how to convert one to greyscale.
 
  
@@ -41,36 +41,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.htm) 12.04 (precise)
+-   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 12.04 (precise)
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.3.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.3.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
--   ![GUI](PicGui.png) [GUI application](CppGuiApplication.htm)
+-   ![GUI](PicGui.png) [GUI application](CppGuiApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.6.3
+-   [G++](CppGpp.md) 4.6.3
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![OpenCv](PicOpenCv.png) [OpenCV](CppOpenCv.htm): version 2.3.1
--   ![Qt](PicQt.png) [Qt](CppQt.htm): version 4.8.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![OpenCv](PicOpenCv.png) [OpenCV](CppOpenCv.md): version 2.3.1
+-   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.1 (32 bit)
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.6.3
 
  
@@ -83,7 +83,7 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppOpenCvExample1.pro
+[Qt project file](CppQtProjectFile.md): CppOpenCvExample1.pro
 --------------------------------------------------------------
 
  
@@ -130,5 +130,5 @@ main.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

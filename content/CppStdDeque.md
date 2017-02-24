@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::deque](CppDeque.htm)
+([C++](Cpp.md)) [std::deque](CppDeque.md)
 ===========================================
 
  
 
-[std::deque](CppDeque.htm) (an abbreviation of 'double-ended queue',
-pronounce 'deck') is an [STL](CppStl.htm) [container](CppContainer.htm)
+[std::deque](CppDeque.md) (an abbreviation of 'double-ended queue',
+pronounce 'deck') is an [STL](CppStl.md) [container](CppContainer.md)
 to store elements in a double-ended queue.
 
  
@@ -31,12 +31,12 @@ to store elements in a double-ended queue.
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [std::deque example 1: basics](CppDequeExample1.htm)
+-   [std::deque example 1: basics](CppDequeExample1.md)
 
  
 
@@ -48,13 +48,13 @@ to store elements in a double-ended queue.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Don't use [iterators](CppIterator.htm) into a resized
-    [std::vector](CppVector.htm) or [std::deque](CppDeque.htm) \[1\]
+-   Don't use [iterators](CppIterator.md) into a resized
+    [std::vector](CppVector.md) or [std::deque](CppDeque.md) \[1\]
 
  
 
@@ -66,12 +66,12 @@ to store elements in a double-ended queue.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[21\] Don't use iterators into a resized vector
     or deque'

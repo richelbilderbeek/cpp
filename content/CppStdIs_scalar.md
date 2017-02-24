@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [std::is\_scalar](CppStdIs_scalar.htm)
+([C++](Cpp.md)) [std::is\_scalar](CppStdIs_scalar.md)
 =======================================================
 
  
 
-[std::is\_scalar](CppStdIs_scalar.htm) is a [C++11](Cpp11.htm)
-[STL](CppStl.htm) [function](CppFunction.htm) to determine if a
-[type](CppDataType.htm) is a [scalar](CppScalar.htm).
+[std::is\_scalar](CppStdIs_scalar.md) is a [C++11](Cpp11.md)
+[STL](CppStl.md) [function](CppFunction.md) to determine if a
+[type](CppDataType.md) is a [scalar](CppScalar.md).
 
  
 
@@ -31,12 +31,12 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::is\_scalar example 1: basics](CppStdIs_scalarExample1.htm)
+-   [std::is\_scalar example 1: basics](CppStdIs_scalarExample1.md)
 
  
 
@@ -57,5 +57,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

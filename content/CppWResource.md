@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WResource](CppWResource.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WResource](CppWResource.md)
 ===================================================================
 
  
 
-[Wt::WResource](CppWResource.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WResource](CppWResource.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WResource](CppWResource.htm) is used in, among others:
+[Wt::WResource](CppWResource.md) is used in, among others:
 
 -   ...
 

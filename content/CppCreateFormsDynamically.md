@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Create Forms Dynamically](CppCreateFormsDynamically.htm)
+([C++](Cpp.md)) [Create Forms Dynamically](CppCreateFormsDynamically.md)
 ==========================================================================
 
  
@@ -100,14 +100,14 @@ A Form can be created dynamically as follows:
 
  
 
-Sure you can use a plain [pointer](CppPointer.htm), but then don't
-forget to [delete](CppDelete.htm) it. And if you don't want to forget to
-[delete](CppDelete.htm) this [pointer](CppPointer.htm) (among others),
-use a [std::auto\_ptr](CppAuto_ptr.htm).
+Sure you can use a plain [pointer](CppPointer.md), but then don't
+forget to [delete](CppDelete.md) it. And if you don't want to forget to
+[delete](CppDelete.md) this [pointer](CppPointer.md) (among others),
+use a [std::auto\_ptr](CppAuto_ptr.md).
 
  
 
-Instead of passing '[this](CppThis.htm)', you might sometimes consider
+Instead of passing '[this](CppThis.md)', you might sometimes consider
 passing '0' as an argument to the [constructor]() of TFormDynamic.
 
  

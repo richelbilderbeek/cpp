@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Computer algebra system](CppCas.htm)
+([C++](Cpp.md)) [Computer algebra system](CppCas.md)
 ======================================================
 
  
 
-A [Computer algebra system (CAS)](CppCas.htm) is a [tool](Tools.htm) or
-[library](CppLibrary.htm) to do algebra with, for example, calculating
+A [Computer algebra system (CAS)](CppCas.md) is a [tool](Tools.md) or
+[library](CppLibrary.md) to do algebra with, for example, calculating
 the derivative of a function.
 
  
@@ -40,9 +40,9 @@ Only FOSS. This list is incomplete and will remain incomplete.
 
  
 
--   [SybolicC++](CppSymbolicCpp.htm): C++ library
--   [Maxima](ToolMaxima.htm): Common-LISP CAS environment. Uses
-    [Gnuplot](CppGnuplot.htm) for [plotting](CppPlot.htm)
+-   [SybolicC++](CppSymbolicCpp.md): C++ library
+-   [Maxima](ToolMaxima.md): Common-LISP CAS environment. Uses
+    [Gnuplot](CppGnuplot.md) for [plotting](CppPlot.md)
 
  
 

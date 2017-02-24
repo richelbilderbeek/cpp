@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::WLogEntry](CppWLogEntry.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::WLogEntry](CppWLogEntry.md)
 ===================================================================
 
  
 
-[Wt::WLogEntry](CppWLogEntry.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::WLogEntry](CppWLogEntry.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::WLogEntry](CppWLogEntry.htm) is used in, among others:
+[Wt::WLogEntry](CppWLogEntry.md) is used in, among others:
 
 -   ...
 

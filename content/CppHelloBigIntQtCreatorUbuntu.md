@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![BigInt](PicBigInt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) ['Hello BigInt' using Qt Creator under Ubuntu](CppHelloBigIntQtCreatorUbuntu.htm)
+([C++](Cpp.md)) ![BigInt](PicBigInt.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) ['Hello BigInt' using Qt Creator under Ubuntu](CppHelloBigIntQtCreatorUbuntu.md)
 ==================================================================================================================================================================================
 
  
 
-[Hello BigInt](CppHelloBigInt.htm) working under [Qt
-Creator](CppQtCreator.htm) under Ubuntu.
+[Hello BigInt](CppHelloBigInt.md) working under [Qt
+Creator](CppQtCreator.md) under Ubuntu.
 
  
 
@@ -32,19 +32,17 @@ Creator](CppQtCreator.htm) under Ubuntu.
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): console application
+[Project type](CppQtProjectType.md): console application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [BigInt](CppBigInt.htm): version 2010.04.30li&gt;
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
-
- 
+-   [BigInt](CppBigInt.md): version 2010.04.30li&gt;
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
  
 
@@ -54,7 +52,9 @@ Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

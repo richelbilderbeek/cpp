@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [Reciprocal](CppReciprocal.htm)
+([C++](Cpp.md)) [Reciprocal](CppReciprocal.md)
 ================================================
 
  
 
-[Reciprocal](CppReciprocal.htm) is a [container](CppContainer.htm) [code
-snippet](CppCodeSnippets.htm) to replace all values in a
-[container](CppContainer.htm) by their reciprocal (that is: 1/x) [(view
+[Reciprocal](CppReciprocal.md) is a [container](CppContainer.md) [code
+snippet](CppCodeSnippets.md) to replace all values in a
+[container](CppContainer.md) by their reciprocal (that is: 1/x) [(view
 the wikipedia page on reciprocal)](http://en.wikipedia.org/wiki/1/x).
 
  
 
-There are multiple ways to perform [Reciprocal](CppReciprocal.htm):
+There are multiple ways to perform [Reciprocal](CppReciprocal.md):
 
 -   The general algorithm way (best)
 -   The algorithm way on a std::vector&lt;double&gt; (intermediate)
@@ -59,13 +59,13 @@ The general algorithm way
 
  
 
-The algorithm way on a [std::vector](CppVector.htm)&lt;double&gt;
+The algorithm way on a [std::vector](CppVector.md)&lt;double&gt;
 -----------------------------------------------------------------
 
  
 
 This way is used as an answer in [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -83,12 +83,12 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-The [for](CppFor.htm)-loop way on a [std::vector](CppVector.htm)&lt;[double](CppDouble.htm)&gt;
+The [for](CppFor.md)-loop way on a [std::vector](CppVector.md)&lt;[double](CppDouble.htm)&gt;
 -----------------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
+Prefer [algorithms](CppAlgorithm.md) over loops \[1,2\].
 
  
 
@@ -106,16 +106,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1 :
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops.'
 
@@ -138,5 +138,5 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1,2\].
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

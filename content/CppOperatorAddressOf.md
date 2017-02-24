@@ -14,17 +14,17 @@ CppOperatorAddressOf
 
  
 
-([C++](Cpp.htm)) [operator& (address-of operator)](CppOperatorAddressOf.htm)
+([C++](Cpp.md)) [operator& (address-of operator)](CppOperatorAddressOf.md)
 ============================================================================
 
  
 
-[operator& (address-of operator)](CppOperatorAddressOf.htm) is an
-[operator](CppOperator.htm) to access the address of something.
+[operator& (address-of operator)](CppOperatorAddressOf.md) is an
+[operator](CppOperator.md) to access the address of something.
 
  
 
-Consider writing the [address-of operator](CppOperatorAddressOf.htm)
+Consider writing the [address-of operator](CppOperatorAddressOf.md)
 directly connected to the type-specifier.
 
  
@@ -35,7 +35,7 @@ directly connected to the type-specifier.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -65,5 +65,5 @@ directly connected to the type-specifier.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Pedigree](CppPedigree.htm)
+([C++](Cpp.md)) [Pedigree](CppPedigree.md)
 ============================================
 
  
@@ -117,5 +117,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

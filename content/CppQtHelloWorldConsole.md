@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Hello World program (console)](CppQtHelloWorldConsole.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Hello World program (console)](CppQtHelloWorldConsole.md)
 =============================================================================================
 
  
 
 To create a 'Hello World' (console) program in [Qt
-Creator](CppQtCreator.htm), you can follow the steps below:
+Creator](CppQtCreator.md), you can follow the steps below:
 
  
 
-1.  Start [Qt Creator](CppQtCreator.htm).
+1.  Start [Qt Creator](CppQtCreator.md).
 2.  If you are not shown the welcome screen, click on 'Welcome' on the
     left
 3.  If, in the welcome screen, the 'Develop' tab is not shown, click on
@@ -76,11 +76,11 @@ Creator](CppQtCreator.htm), you can follow the steps below:
 
  
 
-If the console window is not shown, [G++](CppGpp.htm) is probably not
+If the console window is not shown, [G++](CppGpp.md) is probably not
 installed. You can check it if you click on the warning traingle on the
 left menu bar. The 'Compile output' is shown, probably with the text
 'make: g++: Command not found' in red. The solution is to install
-[G++](CppGpp.htm).
+[G++](CppGpp.md).
 
  
 

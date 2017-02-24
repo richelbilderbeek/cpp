@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt signal](WtSignal.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt signal](WtSignal.md)
 ===========================================================
 
  
 
-The [Wt](CppWt.htm) way of sending a [signal](CppSignal.htm).
+The [Wt](CppWt.md) way of sending a [signal](CppSignal.md).
 
  
 
@@ -44,5 +44,5 @@ The [Wt](CppWt.htm) way of sending a [signal](CppSignal.htm).
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

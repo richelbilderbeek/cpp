@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [boost::checked\_delete](CppChecked_delete.htm)
+([C++](Cpp.md)) [boost::checked\_delete](CppChecked_delete.md)
 ================================================================
 
  
 
-[boost::checked\_delete](CppChecked_delete.htm) is a
-compile-time-checked version of [delete](CppDelete.htm).
+[boost::checked\_delete](CppChecked_delete.md) is a
+compile-time-checked version of [delete](CppDelete.md).
 
  
 
@@ -33,20 +33,16 @@ To cite from <http://www.boost.org/libs/utility/checked_delete.html>:
  
 
 In other words, if you use a lot of [forward
-declarations](CppForwardDeclaration.htm) you might choose to prefer
-using [boost::checked\_delete](CppChecked_delete.htm).
+declarations](CppForwardDeclaration.md) you might choose to prefer
+using [boost::checked\_delete](CppChecked_delete.md).
 
  
 
-Note that [std::auto\_ptr](CppAuto_ptr.htm) does not use a checked
-[delete](CppDelete.htm). When you really need a checked delete, use
-[boost::scoped\_ptr](CppScoped_ptr.htm) instead (but note that
-[boost::scoped\_ptr](CppScoped_ptr.htm) has a slightly different
-[interface](CppInterface.htm) then [std::auto\_ptr](CppAuto_ptr.htm)).
-
- 
-
- 
+Note that [std::auto\_ptr](CppAuto_ptr.md) does not use a checked
+[delete](CppDelete.md). When you really need a checked delete, use
+[boost::scoped\_ptr](CppScoped_ptr.md) instead (but note that
+[boost::scoped\_ptr](CppScoped_ptr.md) has a slightly different
+[interface](CppInterface.md) then [std::auto\_ptr](CppAuto_ptr.md)).
 
  
 
@@ -54,13 +50,17 @@ Note that [std::auto\_ptr](CppAuto_ptr.htm) does not use a checked
 
  
 
-[Befriending](CppFriend.htm) a [class](CppClass.htm) with boost::checked\_delete
+ 
+
+ 
+
+[Befriending](CppFriend.md) a [class](CppClass.md) with boost::checked\_delete
 --------------------------------------------------------------------------------
 
  
 
-When you [befriending](CppFriend.htm) a function template specialization
-(like [boost::checked\_delete](CppChecked_delete.htm)), always
+When you [befriending](CppFriend.md) a function template specialization
+(like [boost::checked\_delete](CppChecked_delete.md)), always
 explicitly add at last the &lt;&gt; template syntax \[1\].
 
  
@@ -97,12 +97,12 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++ style. 2005.
+1.  [Herb Sutter](CppHerbSutter.md). Exceptional C++ style. 2005.
     ISBN: 0-201-76042-8. Item 8: 'Befriending templates'.
 
  

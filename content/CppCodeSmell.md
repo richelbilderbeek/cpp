@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [code smell](CppCodeSmell.htm)
+([C++](Cpp.md)) [code smell](CppCodeSmell.md)
 ===============================================
 
  
 
-A [code smell](CppCodeSmell.htm) is 'any symptom in the source code of a
+A [code smell](CppCodeSmell.md) is 'any symptom in the source code of a
 program that possibly indicates a deeper problem. Code smells are
 usually not bugs—they are not technically incorrect and don't currently
 prevent the program from functioning. Instead, they indicate weaknesses
@@ -188,11 +188,11 @@ External links
  
 
 -   [Wikipedia page about code
-    smell](https://en.wikipedia.org/wiki/Code_smell.htm)
+    smell](https://en.wikipedia.org/wiki/Code_smell.md)
 -   [Codinghorror page about code
     smell](http://www.codinghorror.com/blog/2006/05/code-smells.html)
 -   [A code smell
-    taxonomy](www.soberit.hut.fi/mmantyla/BadCodeSmellsTaxonomy.htm)
+    taxonomy](www.soberit.hut.fi/mmantyla/BadCodeSmellsTaxonomy.md)
 
  
 
@@ -204,13 +204,13 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
 1.  [Wikipedia page about code
-    smell](https://en.wikipedia.org/wiki/Code_smell.htm)
+    smell](https://en.wikipedia.org/wiki/Code_smell.md)
 2.  [Codinghorror page about code
     smell](http://www.codinghorror.com/blog/2006/05/code-smells.html)
 

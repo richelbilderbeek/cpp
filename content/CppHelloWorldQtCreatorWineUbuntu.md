@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Qt Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png) [Hello World using (a Windows version of) Qt Creator under Wine under Ubuntu](CppHelloWorldQtCreatorWineUbuntu.htm)
+([C++](Cpp.md)) ![Qt Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png) [Hello World using (a Windows version of) Qt Creator under Wine under Ubuntu](CppHelloWorldQtCreatorWineUbuntu.md)
 ==========================================================================================================================================================================================================================================
 
  
 
-[Hello World](CppHelloWorld.htm) (or 'The Hello World program') is a
+[Hello World](CppHelloWorld.md) (or 'The Hello World program') is a
 standard example program to see if your programming environment works.
 Note that this example code is not standarized, so multiple and similar
 variants are on the Internet. A more demanding example is [Hello
-Boost](CppHelloBoost.htm), which also tests if the [Boost](CppBoost.htm)
-[libraries](CppLibrary.htm) are installed correctly.
+Boost](CppHelloBoost.md), which also tests if the [Boost](CppBoost.md)
+[libraries](CppLibrary.md) are installed correctly.
 
  
 
@@ -50,36 +50,36 @@ Technical facts
 
  
 
-[Application type(s)](CppApplication.htm)
+[Application type(s)](CppApplication.md)
 
 -   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.htm)
+    application](CppDesktopApplication.md)
 
-[Operating system(s) or programming environment(s)](CppOs.htm)
+[Operating system(s) or programming environment(s)](CppOs.md)
 
--   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.htm) 10.10 (maverick)
--   ![Wine](PicWine.png) [Wine](CppWine.htm) 1.3.4
+-   ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md) 10.10 (maverick)
+-   ![Wine](PicWine.png) [Wine](CppWine.md) 1.3.4
 
-[IDE(s)](CppIde.htm):
+[IDE(s)](CppIde.md):
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.htm) 2.0.0
+-   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm):
+[Project type](CppQtProjectType.md):
 
 -   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.htm)
+    application](CppConsoleApplication.md)
 
-[C++ standard](CppStandard.htm):
+[C++ standard](CppStandard.md):
 
--   ![C++98](PicCpp98.png) [C++98](Cpp98.htm)
+-   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
 
-[Compiler(s)](CppCompiler.htm):
+[Compiler(s)](CppCompiler.md):
 
--   [G++](CppGpp.htm) 4.4.5
+-   [G++](CppGpp.md) 4.4.5
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.htm): GNU ISO C++ Library, version
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
     4.4.5
 
  
@@ -92,14 +92,14 @@ Technical facts
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppHelloWorld.pro
+[Qt project file](CppQtProjectFile.md): CppHelloWorld.pro
 ----------------------------------------------------------
 
  
 
-The [Qt project file](CppQtProjectFile.htm) used is a default-created
-[console application](CppConsoleApplication.htm) [Qt project
-file](CppQtProjectFile.htm):
+The [Qt project file](CppQtProjectFile.md) used is a default-created
+[console application](CppConsoleApplication.md) [Qt project
+file](CppQtProjectFile.md):
 
  
 
@@ -122,7 +122,7 @@ main.cpp
 
  
 
-A default [Hello World](CppHelloWorld.htm) [main](CppMain.htm):
+A default [Hello World](CppHelloWorld.md) [main](CppMain.md):
 
  
 

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Wt::SignalBase](CppSignalBase.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Wt::SignalBase](CppSignalBase.md)
 =====================================================================
 
  
 
-[Wt::SignalBase](CppSignalBase.htm) is a [Wt](CppWt.htm)
-[class](CppClass.htm) for a timer.
+[Wt::SignalBase](CppSignalBase.md) is a [Wt](CppWt.md)
+[class](CppClass.md) for a timer.
 
  
 
@@ -35,7 +35,7 @@ Examples
 
  
 
-[Wt::SignalBase](CppSignalBase.htm) is used in, among others:
+[Wt::SignalBase](CppSignalBase.md) is used in, among others:
 
 -   ...
 

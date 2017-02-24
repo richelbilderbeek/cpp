@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [fstream.h](CppFstreamH.htm)
+([C++](Cpp.md)) [fstream.h](CppFstreamH.md)
 =============================================
 
  
 
-[fstream.h](CppFstreamH.htm) is an [STL](CppStl.htm) [header
-file](CppHeaderFile.htm), containing the
-[definitions](CppDefinition.htm) of some file [streams](CppStream.htm)
+[fstream.h](CppFstreamH.md) is an [STL](CppStl.md) [header
+file](CppHeaderFile.md), containing the
+[definitions](CppDefinition.md) of some file [streams](CppStream.md)
 (incomplete list):
 
--   [std::ofstream](CppOfstream.htm)
+-   [std::ofstream](CppOfstream.md)
 
  
 

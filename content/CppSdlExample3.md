@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [SDL example 3: moving a sprite over a background](CppSdlExample3.htm)
+([C++](Cpp.md)) [SDL example 3: moving a sprite over a background](CppSdlExample3.md)
 =======================================================================================
 
  
 
-This [SDL](CppSdl.htm) example shows a sprite moving a over a
+This [SDL](CppSdl.md) example shows a sprite moving a over a
 background, like [this screenshot (png)](CppSdlExample3.png).
 
  
@@ -25,18 +25,16 @@ background, like [this screenshot (png)](CppSdlExample3.png).
 Operating system:
 [Ubuntu](http://en.wikipedia.org/wiki/Ubuntu_%28operating_system%29)
 
-[IDE](CppIde.htm): [Qt Creator](CppQt.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQt.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): Qt4 Console Application
+[Project type](CppQtProjectType.md): Qt4 Console Application
 
 [Selected required modules](CppQtCreatorSelectRequiredModules.png):
 QtCore
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-Additional [libraries](CppLibrary.htm): [SDL](CppSdl.htm)
-
- 
+Additional [libraries](CppLibrary.md): [SDL](CppSdl.md)
 
  
 
@@ -46,7 +44,9 @@ Additional [libraries](CppLibrary.htm): [SDL](CppSdl.htm)
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+ 
+
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  

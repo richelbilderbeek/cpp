@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Boost.Random example 2: storing and retrieving a normal distribution's state](CppRandomExample2.htm)
+([C++](Cpp.md)) [Boost.Random example 2: storing and retrieving a normal distribution's state](CppRandomExample2.md)
 ======================================================================================================================
 
  
 
 [Boost.Random example 2: storing and retrieving a normal distribution's
-state](CppRandomExample2.htm) is a [Boost.Random](CppRandom.htm)
+state](CppRandomExample2.md) is a [Boost.Random](CppRandom.md)
 example.
 
  
@@ -61,5 +61,5 @@ example.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

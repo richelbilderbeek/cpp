@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator\^](CppOperatorBitwiseXor.htm)
+([C++](Cpp.md)) [operator\^](CppOperatorBitwiseXor.md)
 ========================================================
 
  
 
-[operator\^](CppOperatorBitwiseXor.htm) (pronounced as 'bitwise xor
-operator') is an [operator](CppOperator.htm) to perform a xor and
+[operator\^](CppOperatorBitwiseXor.md) (pronounced as 'bitwise xor
+operator') is an [operator](CppOperator.md) to perform a xor and
 subsequently assign the result.
 
  

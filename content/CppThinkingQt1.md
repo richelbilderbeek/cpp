@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Thinking Qt 1: general](CppThinkingQt1.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Thinking Qt 1: general](CppThinkingQt1.md)
 ==============================================================================
 
  
 
-This [article](CppArticle.htm) shows one way to think about program
-architecture when using the [Qt](CppQt.htm) [library](CppLibrary.htm).
+This [article](CppArticle.md) shows one way to think about program
+architecture when using the [Qt](CppQt.md) [library](CppLibrary.md).
 Because I use this program architecture also when using the
-[Wt](CppWt.htm) [library](CppLibrary.htm), this
-[article](CppArticle.htm) is very similar to [Thinking Wt 1:
-general](CppThinkingWt1.htm).
+[Wt](CppWt.md) [library](CppLibrary.md), this
+[article](CppArticle.md) is very similar to [Thinking Wt 1:
+general](CppThinkingWt1.md).
 
  
 
@@ -79,22 +79,22 @@ Why these guidelines?
 
  
 
-[Qt](CppQt.htm) is 'a cross-platform application and UI framework'. I
-see many resemblances in its architecture with the [Wt](CppWt.htm)
-[library](CppLibrary.htm), suitable for, among others, web applications.
-Due to their different running environments, [Qt](CppQt.htm) (desktop)
-and [Wt](CppWt.htm) (web) are mutually exclusive. Because I enjoy
+[Qt](CppQt.md) is 'a cross-platform application and UI framework'. I
+see many resemblances in its architecture with the [Wt](CppWt.md)
+[library](CppLibrary.md), suitable for, among others, web applications.
+Due to their different running environments, [Qt](CppQt.md) (desktop)
+and [Wt](CppWt.md) (web) are mutually exclusive. Because I enjoy
 porting applications to as much platforms as possible, I have developed
 some applications that use both (but not simultaneously) a
-[Qt](CppQt.htm) and a [Wt](CppWt.htm) front-end. To be able to do this
+[Qt](CppQt.md) and a [Wt](CppWt.md) front-end. To be able to do this
 easily, I follow the guidelines presented in this
-[article](CppArticle.htm). Additionally, I like to reuse my own widgets
+[article](CppArticle.md). Additionally, I like to reuse my own widgets
 and dialogs in multiple applications, which is only possible with a
 proper architecture.
 
  
 
-Note that I follow the same guidelines for [Wt](CppWt.htm) front-ends.
+Note that I follow the same guidelines for [Wt](CppWt.md) front-ends.
 
  
 
@@ -111,20 +111,20 @@ Architecture
 
  
 
-The architecture, from biggest to smallest, is: [main](CppMain.htm),
-[Qt::QApplication](CppQApplication.htm), dialog, widget:
+The architecture, from biggest to smallest, is: [main](CppMain.md),
+[Qt::QApplication](CppQApplication.md), dialog, widget:
 
  
 
--   Every C++ program has a single [main](CppMain.htm)
-    [function](CppFunction.htm). The purpose of this [main](CppMain.htm)
-    [function](CppFunction.htm) is to create a
-    [Qt::QApplication](CppQApplication.htm) and the first dialog.
-    Optionally, [main](CppMain.htm) can parse the command-line arguments
--   The purpose of the [Qt::QApplication](CppQApplication.htm) is to
-    manage [signals](CppQtSignal.htm). In this [article](CppArticle.htm)
-    I will not create a [derived class](CppDerivedClass.htm) of
-    [Qt::QApplication](CppQApplication.htm), but let [main](CppMain.htm)
+-   Every C++ program has a single [main](CppMain.md)
+    [function](CppFunction.md). The purpose of this [main](CppMain.md)
+    [function](CppFunction.md) is to create a
+    [Qt::QApplication](CppQApplication.md) and the first dialog.
+    Optionally, [main](CppMain.md) can parse the command-line arguments
+-   The purpose of the [Qt::QApplication](CppQApplication.md) is to
+    manage [signals](CppQtSignal.md). In this [article](CppArticle.md)
+    I will not create a [derived class](CppDerivedClass.md) of
+    [Qt::QApplication](CppQApplication.md), but let [main](CppMain.md)
     create the first dialog
 -   A dialog is a collection of at least one widget. The purpose of a
     dialog is to respond to its widgets or creating other dialogs. A
@@ -148,21 +148,21 @@ The architecture, from biggest to smallest, is: [main](CppMain.htm),
 
  
 
-Implementing [main](CppMain.htm)
+Implementing [main](CppMain.md)
 --------------------------------
 
  
 
-In this example, [main](CppMain.htm) creates a single
-[Qt::WApplication](CppQApplication.htm), and creates the first (and
+In this example, [main](CppMain.md) creates a single
+[Qt::WApplication](CppQApplication.md), and creates the first (and
 only) dialog.
 
  
 
-The most basic [main](CppMain.htm) [function](CppFunction.htm) would
-only call WRun with a createApplication [function](CppFunction.htm) that
-only [returns](CppReturn.htm) a [newly](CppNew.htm) created
-[Qt::WApplication](CppWApplication.htm):
+The most basic [main](CppMain.md) [function](CppFunction.md) would
+only call WRun with a createApplication [function](CppFunction.md) that
+only [returns](CppReturn.md) a [newly](CppNew.md) created
+[Qt::WApplication](CppWApplication.md):
 
  
 
@@ -172,10 +172,10 @@ only [returns](CppReturn.htm) a [newly](CppNew.htm) created
 
  
 
-This code can be created by [Qt Creator](CppQtCreator.htm)[, by starting
-a]()[GUI](CppGui.htm) application and instead of using a
-[Qt::QMainWindow](CppQMainWindow.htm) called 'MainWindow', use a
-[Qt::QDialog](CppQDialog.htm) called 'QtDialog'.
+This code can be created by [Qt Creator](CppQtCreator.md)[, by starting
+a]()[GUI](CppGui.md) application and instead of using a
+[Qt::QMainWindow](CppQMainWindow.md) called 'MainWindow', use a
+[Qt::QDialog](CppQDialog.md) called 'QtDialog'.
 
  
 
@@ -189,14 +189,14 @@ a]()[GUI](CppGui.htm) application and instead of using a
 
  
 
-Implementing the [Qt::QApplication](CppQApplication.htm)
+Implementing the [Qt::QApplication](CppQApplication.md)
 --------------------------------------------------------
 
  
 
-[signals](CppQtSignal.htm). In this [article](CppArticle.htm) I will not
-create a [derived class](CppDerivedClass.htm) of
-[Qt::QApplication](CppQApplication.htm), but let [main](CppMain.htm)
+[signals](CppQtSignal.md). In this [article](CppArticle.md) I will not
+create a [derived class](CppDerivedClass.md) of
+[Qt::QApplication](CppQApplication.md), but let [main](CppMain.md)
 create the first dialog, as shown above.
 
  
@@ -215,7 +215,7 @@ Implementing the dialog
  
 
 Because a dialog is, well, a dialog, QtDialog is a [derived
-class](CppDerivedClass.htm) of [Qt::QDialog](CppQDialog.htm). QtDialog
+class](CppDerivedClass.md) of [Qt::QDialog](CppQDialog.md). QtDialog
 manages two widgets, but does not respond to their signals.
 
  
@@ -254,20 +254,20 @@ QtDialog.cpp
 
  
 
-Note that this [class](CppClass.htm) must be split in a [header (.h)
-file](CppHeaderFile.htm) and an [implementation (.cpp)
-file](CppImplementationFile.htm). Putting both QtDialog's
-[declaration](CppDeclaration.htm) and [definition](CppDefinition.htm) in
-a single [header (.h) file](CppHeaderFile.htm) will result in the [link
-error](CppLinkError.htm) [undefined reference to 'vtable for
-MyDialog'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.htm).
+Note that this [class](CppClass.md) must be split in a [header (.h)
+file](CppHeaderFile.md) and an [implementation (.cpp)
+file](CppImplementationFile.md). Putting both QtDialog's
+[declaration](CppDeclaration.md) and [definition](CppDefinition.md) in
+a single [header (.h) file](CppHeaderFile.md) will result in the [link
+error](CppLinkError.md) [undefined reference to 'vtable for
+MyDialog'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.md).
 
  
 
-Because the [pointers](CppPointer.htm) m\_widget1 and m\_widget2 are set
+Because the [pointers](CppPointer.md) m\_widget1 and m\_widget2 are set
 to have their parent to 'this' in the QtDialog's constructor, these
-should not be [deleted](CppDelete.htm) (doing so results in a double
-[deletion](CppDelete.htm)).
+should not be [deleted](CppDelete.md) (doing so results in a double
+[deletion](CppDelete.md)).
 
  
 
@@ -285,8 +285,8 @@ Implementing the widget
  
 
 A widget is a single visual element. In this example, QtWidget is a
-button (and thus a [derived class](CppDerivedClass.htm) of
-[Qt::QPushButton](CppQPushButton.htm)), that displays how often it is
+button (and thus a [derived class](CppDerivedClass.md) of
+[Qt::QPushButton](CppQPushButton.md)), that displays how often it is
 clicked.
 
  
@@ -359,8 +359,8 @@ Conclusion
 
  
 
-In this [article](CppArticle.htm) I have shown one of many
-[Qt](CppQt.htm) program architectures you can use, for a very basic
+In this [article](CppArticle.md) I have shown one of many
+[Qt](CppQt.md) program architectures you can use, for a very basic
 application. In my humble opinion, this architecture makes sense, but I
 am open to discussion on this subject.
 
@@ -383,7 +383,7 @@ am open to discussion on this subject.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

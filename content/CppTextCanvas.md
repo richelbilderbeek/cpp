@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [TextCanvas](CppTextCanvas.htm)
+([C++](Cpp.md)) [TextCanvas](CppTextCanvas.md)
 ================================================
 
  
@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[TextCanvas](CppTextCanvas.htm) is a [Canvas](CppCanvas.htm) to put text
+[TextCanvas](CppTextCanvas.md) is a [Canvas](CppCanvas.md) to put text
 on.
 
 Technical facts
@@ -106,5 +106,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

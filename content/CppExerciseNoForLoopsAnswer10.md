@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Answer of exercise \#9: No for-loops \#10](CppExerciseNoForLoopsAnswer10.htm)
+([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#10](CppExerciseNoForLoopsAnswer10.md)
 ===============================================================================================
 
  
 
 This is the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -30,15 +30,15 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-Question \#10: Widget::DoIt on [boost::shared\_ptr](CppShared_ptr.htm)&lt;Widget&gt;
+Question \#10: Widget::DoIt on [boost::shared\_ptr](CppShared_ptr.md)&lt;Widget&gt;
 ------------------------------------------------------------------------------------
 
  
 
-Replace the **[for](CppFor.htm)**-loop. You will need:
+Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.htm)
--   [boost::mem\_fn](CppMem_fn.htm)
+-   [std::for\_each](CppFor_each.md)
+-   [boost::mem\_fn](CppMem_fn.md)
 
  
 

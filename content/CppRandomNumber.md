@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [Random number](CppRandomNumber.htm)
+([C++](Cpp.md)) [Random number](CppRandomNumber.md)
 =====================================================
 
  
 
-[Code snippets](CppCodeSnippets.htm) about random numbers.
+[Code snippets](CppCodeSnippets.md) about random numbers.
 
  
 
 1.  [Get a random double from a normal distribution,
-    GetRandomNormal](CppGetRandomNormal.htm)
+    GetRandomNormal](CppGetRandomNormal.md)
 2.  [Get a random double from zero to one,
-    GetRandomUniform](CppGetRandomUniform.htm)
-3.  [Get a random integer, std::rand](CppRand.htm)
+    GetRandomUniform](CppGetRandomUniform.md)
+3.  [Get a random integer, std::rand](CppRand.md)
 4.  [GetRandomNormal, get a random double from a normal
-    distribution](CppGetRandomNormal.htm)
+    distribution](CppGetRandomNormal.md)
 5.  [GetRandomUniform, get a random double from zero to
-    one](CppGetRandomUniform.htm)
-6.  [rand, get a random integer](CppRand.htm)
+    one](CppGetRandomUniform.md)
+6.  [rand, get a random integer](CppRand.md)
 7.  [random\_shuffle, shuffle a std::vector to a random
-    order](CppRandomShuffle.htm)
-8.  [Randomize on timer, RandomizeTimer](CppRandomizeTimer.htm)
-9.  [RandomizeTimer, randomize on timer](CppRandomizeTimer.htm)
-10. [Set seed using timer, RandomizeTimer](CppRandomizeTimer.htm)
+    order](CppRandomShuffle.md)
+8.  [Randomize on timer, RandomizeTimer](CppRandomizeTimer.md)
+9.  [RandomizeTimer, randomize on timer](CppRandomizeTimer.md)
+10. [Set seed using timer, RandomizeTimer](CppRandomizeTimer.md)
 11. [Shuffle a std::vector to a random order,
-    std::random\_shuffle](CppRandomShuffle.htm)
-12. [std::rand, get a random integer](CppRand.htm)
+    std::random\_shuffle](CppRandomShuffle.md)
+12. [std::rand, get a random integer](CppRand.md)
 13. [std::random\_shuffle, shuffle a std::vector to a random
-    order](CppRandomShuffle.htm)
+    order](CppRandomShuffle.md)
 
  
 

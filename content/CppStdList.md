@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::list](CppList.htm)
+([C++](Cpp.md)) [std::list](CppList.md)
 =========================================
 
  
 
-[std::list](CppList.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) implemented as a doubly-linked list.
+[std::list](CppList.md) is an [STL](CppStl.md)
+[container](CppContainer.md) implemented as a doubly-linked list.
 
  
 
-[std::list](CppList.htm) is suitable for constant-time random-access
+[std::list](CppList.md) is suitable for constant-time random-access
 insertion and deletion at the cost of linear-time read and write.
 
  
@@ -35,12 +35,12 @@ insertion and deletion at the cost of linear-time read and write.
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [std::list example 1: basics](CppListExample1.htm)
+-   [std::list example 1: basics](CppListExample1.md)
 
  
 
@@ -52,16 +52,16 @@ insertion and deletion at the cost of linear-time read and write.
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   Insertion operators, such as insert() and push\_back() are often
-    more efficient on a [std::vector](CppVector.htm) than on a
-    [std::list](CppList.htm) \[1\]
--   A [std::list](CppList.htm) is relatively expensive to traverse \[2\]
--   A [std::list](CppList.htm) usually has a four-word-per-element
+    more efficient on a [std::vector](CppVector.md) than on a
+    [std::list](CppList.md) \[1\]
+-   A [std::list](CppList.md) is relatively expensive to traverse \[2\]
+-   A [std::list](CppList.md) usually has a four-word-per-element
     memory overhead \[3\]
 
  
@@ -74,21 +74,21 @@ insertion and deletion at the cost of linear-time read and write.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[3\] Insertion operators, such as insert()
     and push\_back() are often more efficient on a vector than on a
     list'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 925: '\[28\] A list is relatively expensive to
     traverse'
-3.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+3.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 925: '\[29\] A list usually has a four-word-per-element
     memory overhead'

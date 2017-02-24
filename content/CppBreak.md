@@ -12,21 +12,21 @@
 
  
 
-([C++](Cpp.htm)) [break](CppBreak.htm)
+([C++](Cpp.md)) [break](CppBreak.md)
 ======================================
 
  
 
-**[break](CppBreak.htm)** is a keyword to
+**[break](CppBreak.md)** is a keyword to
 
-1.  end a **[for](CppFor.htm)**-loop
-2.  end a **[while](CppWhile.htm)**-loop
-3.  end a **[switch](CppSwitch.htm)**-statement
+1.  end a **[for](CppFor.md)**-loop
+2.  end a **[while](CppWhile.md)**-loop
+3.  end a **[switch](CppSwitch.md)**-statement
 
  
 
-Consider to never use [break](CppBreak.htm), except in
-[switch](CppSwitch.htm)-statements or when the alternative would obscure
+Consider to never use [break](CppBreak.md), except in
+[switch](CppSwitch.md)-statements or when the alternative would obscure
 the program's logic \[1\].
 
  
@@ -39,14 +39,14 @@ the program's logic \[1\].
 
  
 
-[Example](CppExample.htm)
+[Example](CppExample.md)
 -------------------------
 
  
 
--   [break example 1: break a for-loop](CppBreakExample1.htm)
--   [break example 2: break a while-loop](CppBreakExample2.htm)
--   [break example 3: break a switch statement](CppBreakExample3.htm)
+-   [break example 1: break a for-loop](CppBreakExample1.md)
+-   [break example 2: break a while-loop](CppBreakExample2.md)
+-   [break example 3: break a switch statement](CppBreakExample3.md)
 
  
 
@@ -58,7 +58,7 @@ the program's logic \[1\].
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

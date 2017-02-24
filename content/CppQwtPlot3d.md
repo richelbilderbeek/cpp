@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [QwtPlot3D](CppQwtPlot3d.htm)
+([C++](Cpp.md)) [QwtPlot3D](CppQwtPlot3d.md)
 ==============================================
 
  
 
-The [QwtPlot3D](CppQwtPlot3d.htm) is a cross-platform
-[library](CppLibrary.htm) for visualizing data in charts and plots.
+The [QwtPlot3D](CppQwtPlot3d.md) is a cross-platform
+[library](CppLibrary.md) for visualizing data in charts and plots.
 
  
 
-[QwtPlot3D](CppQwtPlot3d.htm) can be installed from the Ubuntu Software
+[QwtPlot3D](CppQwtPlot3d.md) can be installed from the Ubuntu Software
 Center.
 
  

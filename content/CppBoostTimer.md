@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) ![Boost](PicBoost.png) [Boost.Timer, boost::timer](CppBoostTimer.htm)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Timer, boost::timer](CppBoostTimer.md)
 ======================================================================================
 
  
 
-[Boost.Timer](CppBoostTimer.htm) is a [Boost](CppBoost.htm)
-[library](CppLibrary.htm) for a [timer](CppTimer.htm)
-[class](CppClass.htm), called [boost::timer](CppBoostTimer.htm).
+[Boost.Timer](CppBoostTimer.md) is a [Boost](CppBoost.md)
+[library](CppLibrary.md) for a [timer](CppTimer.md)
+[class](CppClass.md), called [boost::timer](CppBoostTimer.md).
 
  
 
@@ -34,7 +34,7 @@
 
  
 
--   [boost::timer example 1](CppBoostTimerExample1.htm)
+-   [boost::timer example 1](CppBoostTimerExample1.md)
 
  
 
@@ -55,5 +55,5 @@
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

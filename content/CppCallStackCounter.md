@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [CallStackCounter](CppCallStackCounter.htm)
+([C++](Cpp.md)) [CallStackCounter](CppCallStackCounter.md)
 ============================================================
 
  
@@ -22,14 +22,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CallStackCounter](CppCallStackCounter.htm) is a [class](CppClass.htm)
+[CallStackCounter](CppCallStackCounter.md) is a [class](CppClass.md)
 to probe the depth of the call stack, for example in a recursive
 function.
 
  
 
-The tool [TestCallStackCounter](ToolTestCallStackCounter.htm) is a
-[tool](Tools.htm) to demonstrate its use.
+The tool [TestCallStackCounter](ToolTestCallStackCounter.md) is a
+[tool](Tools.md) to demonstrate its use.
 
 Technical facts
 ---------------
@@ -112,5 +112,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Flood](CppFlood.htm)
+([C++](Cpp.md)) [Flood](CppFlood.md)
 ======================================
 
  
 
-[Flood](CppFlood.htm) is a cross-platform [artificial
-intelligence](CppArtificialIntelligence.htm) [library](CppLibrary.htm)
-for [neural networks](CppNeuralNet.htm).
+[Flood](CppFlood.md) is a cross-platform [artificial
+intelligence](CppArtificialIntelligence.md) [library](CppLibrary.md)
+for [neural networks](CppNeuralNet.md).
 
  
 
@@ -31,14 +31,14 @@ for [neural networks](CppNeuralNet.htm).
 
  
 
-[Flood](CppFlood.htm) [data types](CppDataType.htm)
+[Flood](CppFlood.md) [data types](CppDataType.md)
 ---------------------------------------------------
 
  
 
--   [Flood::Matrix](CppFloodMatrix.htm)
--   [Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.htm)
--   [Flood::Vector](CppFloodVector.htm)
+-   [Flood::Matrix](CppFloodMatrix.md)
+-   [Flood::MultilayerPerceptron](CppFloodMultilayerPerceptron.md)
+-   [Flood::Vector](CppFloodVector.md)
 
  
 
@@ -50,16 +50,16 @@ for [neural networks](CppNeuralNet.htm).
 
  
 
-My personal [Flood](CppFlood.htm) remarks
+My personal [Flood](CppFlood.md) remarks
 -----------------------------------------
 
  
 
--   [Flood](CppFlood.htm) is not const-correct
--   [Flood](CppFlood.htm) uses custom [data types](CppDataType.htm) like
-    [Flood::Vector](CppFloodVector.htm), instead of
-    [std::vector](CppVector.htm)
--   [Flood](CppFlood.htm) does not save its neural networks in the PMML
+-   [Flood](CppFlood.md) is not const-correct
+-   [Flood](CppFlood.md) uses custom [data types](CppDataType.md) like
+    [Flood::Vector](CppFloodVector.md), instead of
+    [std::vector](CppVector.md)
+-   [Flood](CppFlood.md) does not save its neural networks in the PMML
     language
 
  

@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [case](CppCase.htm)
+([C++](Cpp.md)) [case](CppCase.md)
 ====================================
 
  
 
-[case](CppCase.htm) is a [keyword](CppKeyword.htm) to state which values
-to [switch](CppSwitch.htm) on. If there is no named value to
-[switch](CppSwitch.htm) on, [default](CppDefault.htm) can be used
+[case](CppCase.md) is a [keyword](CppKeyword.md) to state which values
+to [switch](CppSwitch.md) on. If there is no named value to
+[switch](CppSwitch.md) on, [default](CppDefault.md) can be used
 optionally.
 
  
@@ -47,5 +47,5 @@ optionally.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) ![Android](PicAndroid.png) [Android SDK](CppAndroidSdk.htm)
+([C++](Cpp.md)) ![Android](PicAndroid.png) [Android SDK](CppAndroidSdk.md)
 ============================================================================
 
  
 
-The [Android SDK](CppAndroidSdk.htm) is the [SDK](CppSdk.htm) to develop
-for the [Android](CppAndroid.htm) [platform](CppOs.htm) in the Java
-programming language. To develop in [C++](Cpp.htm), use the [Android
-NDK](CppAndroidNdk.htm).
+The [Android SDK](CppAndroidSdk.md) is the [SDK](CppSdk.md) to develop
+for the [Android](CppAndroid.md) [platform](CppOs.md) in the Java
+programming language. To develop in [C++](Cpp.md), use the [Android
+NDK](CppAndroidNdk.md).
 
  
 
@@ -33,7 +33,7 @@ NDK](CppAndroidNdk.htm).
  
 
 -   ![Ubuntu](PicUbuntu.png) [Installing the Android SDK under
-    Ubuntu](CppAndroidSdkInstallUbuntu.htm)
+    Ubuntu](CppAndroidSdkInstallUbuntu.md)
 
  
 

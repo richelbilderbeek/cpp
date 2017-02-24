@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [std::unordered\_map](CppUnordered_map.htm)
+([C++](Cpp.md)) [std::unordered\_map](CppUnordered_map.md)
 ============================================================
 
  
 
-[std::unordered\_map](CppUnordered_map.htm) is an [STL](CppStl.htm)
-[container](CppContainer.htm) for a hash table \[1\].
+[std::unordered\_map](CppUnordered_map.md) is an [STL](CppStl.md)
+[container](CppContainer.md) for a hash table \[1\].
 
  
 
@@ -30,13 +30,13 @@
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
 -   [std::unordered\_map example 1:
-    basics](CppUnordered_mapExample1.htm)
+    basics](CppUnordered_mapExample1.md)
 
  
 
@@ -48,12 +48,12 @@
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   An [std::unordered\_map](CppUnordered_map.htm) is a hash table \[1\]
+-   An [std::unordered\_map](CppUnordered_map.md) is a hash table \[1\]
 
  
 
@@ -65,12 +65,12 @@
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6.
     Advice. page 924: '\[9\] An unordered\_map is a hash table'
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Opaque pointer](CppOpaquePointer.htm)
+([C++](Cpp.md)) [Opaque pointer](CppOpaquePointer.md)
 =======================================================
 
  
@@ -25,23 +25,19 @@ In general, 'Opaque' denotes the following \[1\]:
 
  
 
-In [C++](Cpp.htm), an [opaque pointer](CppOpaquePointer.htm) is a
-[pointer](CppPointer.htm) to a [declared](CppDeclaration.htm), but
-[undefined](CppDefinition.htm) [class](CppClass.htm) \[2\].
+In [C++](Cpp.md), an [opaque pointer](CppOpaquePointer.md) is a
+[pointer](CppPointer.md) to a [declared](CppDeclaration.md), but
+[undefined](CppDefinition.md) [class](CppClass.md) \[2\].
 
  
 
-[Opaque pointers](CppOpaquePointer.htm) are used in, among others, the
-[pimpl idiom](CppPimpl.htm).
+[Opaque pointers](CppOpaquePointer.md) are used in, among others, the
+[pimpl idiom](CppPimpl.md).
 
  
 
-One of the advantages of using [opaque pointers](CppOpaquePointer.htm)
-is an increase in [compile](CppCompiler.htm) speed.
-
- 
-
- 
+One of the advantages of using [opaque pointers](CppOpaquePointer.md)
+is an increase in [compile](CppCompiler.md) speed.
 
  
 
@@ -49,13 +45,17 @@ is an increase in [compile](CppCompiler.htm) speed.
 
  
 
-[References](CppReferences.htm)
+ 
+
+ 
+
+[References](CppReferences.md)
 -------------------------------
 
  
 
 1.  Oxford Advanced Learner's dictionary. ISBN:0-19-431422-7.
-2.  [Herb Sutter](CppHerbSutter.htm). Exceptional C++.
+2.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN: 0-201-61562-2. Item 27
 
  

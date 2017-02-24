@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [SetPixelClx](CppSetPixelClx.htm)
+([C++](Cpp.md)) [SetPixelClx](CppSetPixelClx.md)
 ==================================================
 
  
 
-[SetPixelClx](CppSetPixelClx.htm) is a [CLX](CppClx.htm)
-[graphics](CppGraphics.htm) [code snippet](CppCodeSnippets.htm) to set
+[SetPixelClx](CppSetPixelClx.md) is a [CLX](CppClx.md)
+[graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to set
 the color of a pixel.
 
  

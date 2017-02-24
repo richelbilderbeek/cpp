@@ -12,15 +12,15 @@
 
  
 
-([C++](Cpp.htm)) [Tutorials](CppTutorial.htm)
+([C++](Cpp.md)) [Tutorials](CppTutorial.md)
 =============================================
 
  
 
-I have written the following [tutorials](CppTutorial.htm):
+I have written the following [tutorials](CppTutorial.md):
 
--   [Boost.Graph tutorial](CppBoostGraphTutorial.htm)
--   [Travis CI tutorial](CppTravisCiTutorial.htm)
+-   [Boost.Graph tutorial](CppBoostGraphTutorial.md)
+-   [Travis CI tutorial](CppTravisCiTutorial.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [Exercise: Qt hide and show \#3](CppExerciseQtHideAndShow3.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [Exercise: Qt hide and show \#3](CppExerciseQtHideAndShow3.md)
 =================================================================================================
 
  
@@ -23,8 +23,8 @@ Date added: 19th of October 2012
 
  
 
-In this [exercise](CppExercise.htm) I will elaborate on [the answer of
-exercise 'Qt hide and show \#2'](CppExerciseQtHideAndShow2Answer.htm).
+In this [exercise](CppExercise.md) I will elaborate on [the answer of
+exercise 'Qt hide and show \#2'](CppExerciseQtHideAndShow2Answer.md).
 
  
 
@@ -50,9 +50,9 @@ The following program flow works:
  
 
 The solution given at [the answer of exercise 'Qt hide and show
-\#2'](CppExerciseQtHideAndShow2Answer.htm) works, but there is still the
-need to add the needed [signals](CppQtSignal.htm) and
-[slots](CppSlot.htm) to every child and parent window.
+\#2'](CppExerciseQtHideAndShow2Answer.md) works, but there is still the
+need to add the needed [signals](CppQtSignal.md) and
+[slots](CppSlot.md) to every child and parent window.
 
  
 
@@ -75,7 +75,7 @@ Refactor the code, by adding a new class called QtHideAndShowDialog.
 
 -   [Download the Qt Creator project
     'CppExerciseQtHideAndShow3' (zip)](CppExerciseQtHideAndShow3.zip)
--   [View the answer](CppExerciseQtHideAndShow3Answer.htm)
+-   [View the answer](CppExerciseQtHideAndShow3Answer.md)
 
  
 
@@ -92,7 +92,7 @@ Code
 
  
 
-[Qt project file](CppQtProjectFile.htm): CppExerciseQtHideAndShow3.pro
+[Qt project file](CppQtProjectFile.md): CppExerciseQtHideAndShow3.pro
 ----------------------------------------------------------------------
 
  
@@ -253,5 +253,5 @@ thirddialog.cpp
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

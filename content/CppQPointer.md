@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPointer](CppQPointer.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPointer](CppQPointer.md)
 =============================================================
 
  
 
-[QPointer](CppQPointer.htm) is a [Qt](CppQt.htm) [class](CppClass.htm)
-to hold a [pointer](CppPointer.htm). Such a [class](CppClass.htm) is
-called a [smart pointer](CppSmartPointer.htm), yet -in my humble
-opinion- [QPointer](CppQPointer.htm) behaves unexpectedly.
+[QPointer](CppQPointer.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+to hold a [pointer](CppPointer.md). Such a [class](CppClass.md) is
+called a [smart pointer](CppSmartPointer.md), yet -in my humble
+opinion- [QPointer](CppQPointer.md) behaves unexpectedly.
 
  
 
-Prefer to use [smart pointers](CppSmartPointer.htm) over normal pointers
+Prefer to use [smart pointers](CppSmartPointer.md) over normal pointers
 \[1\].
 
  
@@ -63,13 +63,13 @@ Expected screen output:
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 13: 'Ensure resources are owned by objects. Use explicit
     RAII and smart pointers.

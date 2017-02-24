@@ -12,32 +12,32 @@
 
  
 
-([C++](Cpp.htm)) [inheritance](CppInheritance.htm)
+([C++](Cpp.md)) [inheritance](CppInheritance.md)
 ==================================================
 
  
 
-[Inheritance](CppInheritance.htm) is a technique to re-use
-[members](CppMember.htm) of a [class](CppClass.htm).
+[Inheritance](CppInheritance.md) is a technique to re-use
+[members](CppMember.md) of a [class](CppClass.md).
 
  
 
-There are multiple types of [inheritance](CppInheritance.htm):
+There are multiple types of [inheritance](CppInheritance.md):
 
--   [implementation inheritance](CppImplementationInheritance.htm)
--   [interface inheritance](CppInterfaceInheritance.htm)
--   [multiple inheritance](CppMultipleInheritance.htm)
+-   [implementation inheritance](CppImplementationInheritance.md)
+-   [interface inheritance](CppInterfaceInheritance.md)
+-   [multiple inheritance](CppMultipleInheritance.md)
 
  
 
-There are three modes of [inheritance](CppInheritance.htm):
+There are three modes of [inheritance](CppInheritance.md):
 
-1.  [public inheritance](CppPublicInheritance.htm), an 'is-a-kind-of'
+1.  [public inheritance](CppPublicInheritance.md), an 'is-a-kind-of'
     relationship, the most commonly used mode of
-    [inheritance](CppInheritance.htm)
-2.  [protected inheritance](CppProtectedInheritance.htm), an obscure
+    [inheritance](CppInheritance.md)
+2.  [protected inheritance](CppProtectedInheritance.md), an obscure
     type of relationship
-3.  [private inheritance](CppPrivateInheritance.htm), an
+3.  [private inheritance](CppPrivateInheritance.md), an
     'is-implemented-in-terms-of' relationship \[1\]
 
  
@@ -50,12 +50,12 @@ There are three modes of [inheritance](CppInheritance.htm):
 
  
 
-[Examples](CppExample.htm)
+[Examples](CppExample.md)
 --------------------------
 
  
 
--   [inheritance example 1: basics](CppInheritanceExample1.htm)
+-   [inheritance example 1: basics](CppInheritanceExample1.md)
 
  
 
@@ -67,13 +67,13 @@ There are three modes of [inheritance](CppInheritance.htm):
 
  
 
-[advice](CppAdvice.htm)
+[advice](CppAdvice.md)
 -----------------------
 
  
 
--   Prefer [composition](CppComposition.htm) to
-    [inheritance](CppInheritance.htm) \[2\]
+-   Prefer [composition](CppComposition.md) to
+    [inheritance](CppInheritance.md) \[2\]
 
  
 
@@ -90,7 +90,7 @@ Notes to self
 
  
 
--   When in doubt, don't use [inheritance](CppInheritance.htm): it is
+-   When in doubt, don't use [inheritance](CppInheritance.md): it is
     far far easier to correct when you've used composition too long,
     than the other way around
 
@@ -122,16 +122,16 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Scott Meyers](CppScottMeyers.htm). Effective C++
+1.  [Scott Meyers](CppScottMeyers.md). Effective C++
     (3rd edition).ISBN:0-321-33487-6. Item 39: 'Use private inheritance
     judiciously'
-2.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
     Chapter 34: 'Prefer composition to inheritance'.
 

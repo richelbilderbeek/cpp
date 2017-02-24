@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Assert](CppAssert.htm)
+([C++](Cpp.md)) [Assert](CppAssert.md)
 ========================================
 
  
@@ -22,16 +22,16 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
 
  
 
-[assert](CppAssert.htm) is a [macro](CppMacro.htm) to do [run
-time](CppRunTime.htm) [debugging](CppDebug.htm) checks. After
-[debugging](CppDebug.htm), [\#define](CppDefine.htm)
-[NDEBUG](CppNDEBUG.htm) to let the [preprocessor](CppPreprocessor.htm)
-remove all [assert](CppAssert.htm)s from your code.
+[assert](CppAssert.md) is a [macro](CppMacro.md) to do [run
+time](CppRunTime.md) [debugging](CppDebug.md) checks. After
+[debugging](CppDebug.md), [\#define](CppDefine.md)
+[NDEBUG](CppNDEBUG.md) to let the [preprocessor](CppPreprocessor.md)
+remove all [assert](CppAssert.md)s from your code.
 
  
 
-[assert](CppAssert.htm) is [\#define](CppDefine.htm)d in
-[cassert.h](CppCassertH.htm)
+[assert](CppAssert.md) is [\#define](CppDefine.md)d in
+[cassert.h](CppCassertH.md)
 
  
 
@@ -48,12 +48,12 @@ Examples
 
  
 
--   [assert example 1: basics](CppAssertExample1.htm)
+-   [assert example 1: basics](CppAssertExample1.md)
 -   [assert example 2: basics with informative
-    output](CppAssertExample2.htm)
--   [assert example 3: a user defined assert](CppAssertExample3.htm)
--   [Assert in a C++ Builder console Application](CppBuilderAssert.htm)
--   [Assert in a Qt Creator console Application](CppQtAssert.htm)
+    output](CppAssertExample2.md)
+-   [assert example 3: a user defined assert](CppAssertExample3.md)
+-   [Assert in a C++ Builder console Application](CppBuilderAssert.md)
+-   [Assert in a Qt Creator console Application](CppQtAssert.md)
 
  
 
@@ -65,16 +65,16 @@ Examples
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use [assert](CppAssert.htm) extensively \[1-5,7\]
--   The use of [assert](CppAssert.htm) statements can help to
-    [document](CppDocumentation.htm) the assumptions you make when
+-   Use [assert](CppAssert.md) extensively \[1-5,7\]
+-   The use of [assert](CppAssert.md) statements can help to
+    [document](CppDocumentation.md) the assumptions you make when
     implementing your code \[6\]
--   Do not assume that [assert](CppAssert.htm) is always evaluated \[8\]
+-   Do not assume that [assert](CppAssert.md) is always evaluated \[8\]
 
  
 
@@ -86,17 +86,17 @@ Examples
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Herb Sutter](CppHerbSutter.htm), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+1.  [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     68: 'Assert liberally to document internal assumptions and
     invariants'
-2.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Advice 24.5.18:
     'Explicitly express preconditions, postconditions, and other
     assertions as assertions'
@@ -108,18 +108,18 @@ Examples
     ISBN: -735619670. Chapter 8.2 'Assertions', paragraph 'Guidelines
     for using asserts': 'Use assertions for conditions that should
     never occur'.
-5.  [Jesse Liberty](CppJesseLiberty.htm). Sams teach yourself C++ in
+5.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in
     24 hours. ISBN: 0-672-32224-2. Hour 24, chapter 'assert()': 'Use
     assert freely'
-6.  [John Lakos](CppJohnLakos.htm). Large-Scale C++ Software Design.
+6.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 2.6: 'The use of assert
     statements can help to document the assumptions you make when
     implementing your code
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 30.5.
     Advice. page 884: '\[13\] Use static\_assert() and assert()
     extensively'
-8.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 30.5.
     Advice. page 884: '\[14\] Do not assume that assert() is always
     evaluated'
@@ -143,5 +143,5 @@ Examples
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

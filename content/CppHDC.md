@@ -12,28 +12,24 @@
 
  
 
-([C++](Cpp.htm)) [HDC](CppHDC.htm)
+([C++](Cpp.md)) [HDC](CppHDC.md)
 ==================================
 
  
 
-[Windows](CppWindows.htm) [data type](CppDataType.htm) for a [handle to
-a device context](CppHDC.htm).
+[Windows](CppWindows.md) [data type](CppDataType.md) for a [handle to
+a device context](CppHDC.md).
 
  
 
-An [HDC](CppHDC.htm) can be obtained by [GetDC](CppGetDC.htm) (among
+An [HDC](CppHDC.md) can be obtained by [GetDC](CppGetDC.md) (among
 others) and must be released by ReleaseDC. Use
-[Scoped\_hdc](CppScoped_hdc.htm) for safe memory use.
+[Scoped\_hdc](CppScoped_hdc.md) for safe memory use.
 
  
 
-[HDC](CppHDC.htm) is declared in windef.h (at least in the library that
-shipped with [C++ Builder](CppBuilder.htm) 6.0).
-
- 
-
- 
+[HDC](CppHDC.md) is declared in windef.h (at least in the library that
+shipped with [C++ Builder](CppBuilder.md) 6.0).
 
  
 
@@ -41,20 +37,24 @@ shipped with [C++ Builder](CppBuilder.htm) 6.0).
 
  
 
-Example: [MakeScreenshot](CppMakeScreenshot.htm)
+ 
+
+ 
+
+Example: [MakeScreenshot](CppMakeScreenshot.md)
 ------------------------------------------------
 
  
 
-[MakeScreenshot](CppMakeScreenshot.htm) retrieves the [HDC](CppHDC.htm)
+[MakeScreenshot](CppMakeScreenshot.md) retrieves the [HDC](CppHDC.md)
 of the desktop and copies it (using BitBlt) on a bitmap (or more
 specific: a Graphics::TBitmap).
 
  
 
-[MakeScreenshot](CppMakeScreenshot.htm) uses the [VCL](CppVcl.htm) [data
-type](CppDataType.htm) Graphics::TBitmap supplied with [C++
-Builder](CppBuilder.htm) 6.0.
+[MakeScreenshot](CppMakeScreenshot.md) uses the [VCL](CppVcl.md) [data
+type](CppDataType.md) Graphics::TBitmap supplied with [C++
+Builder](CppBuilder.md) 6.0.
 
  
 

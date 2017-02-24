@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [Example](CppExample.htm)
+([C++](Cpp.md)) [Example](CppExample.md)
 ==========================================
 
  
 
-[Example](CppExample.htm) code can be insightful, if and only if, the
+[Example](CppExample.md) code can be insightful, if and only if, the
 code compiles without warnings. On this website, I increasingly generate
-[example](CppExample.htm) code from live code.
+[example](CppExample.md) code from live code.
 
  
 

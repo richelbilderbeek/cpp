@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [WideToStr](CppWideToStr.htm)
+([C++](Cpp.md)) [WideToStr](CppWideToStr.md)
 ==============================================
 
  
@@ -44,5 +44,5 @@ Converts a WideString to a std::string.
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

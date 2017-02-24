@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [How to StretchDraw an image?](CppQtStretchDraw.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to StretchDraw an image?](CppQtStretchDraw.md)
 ======================================================================================
 
  
 
-[How to StretchDraw an image?](CppQtStretchDraw.htm) is a [QT
-FAQ](CppQtFaq.htm) especially encountered during games.
+[How to StretchDraw an image?](CppQtStretchDraw.md) is a [QT
+FAQ](CppQtFaq.md) especially encountered during games.
 
  
 

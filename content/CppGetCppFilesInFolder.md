@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [GetCppFilesInFolder](CppGetCppFilesInFolder.htm)
+([C++](Cpp.md)) [GetCppFilesInFolder](CppGetCppFilesInFolder.md)
 ==================================================================
 
  
 
-[GetCppFilesInFolder](CppGetCppFilesInFolder.htm) is a [file
-I/O](CppFileIo.htm) [code snippet](CppCodeSnippets.htm) to obtain all
-[C++](Cpp.htm) filenames in a folder.
+[GetCppFilesInFolder](CppGetCppFilesInFolder.md) is a [file
+I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md) to obtain all
+[C++](Cpp.md) filenames in a folder.
 
  
 

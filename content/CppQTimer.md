@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QTimer](CppQTimer.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QTimer](CppQTimer.md)
 =========================================================
 
  
 
-[QTimer](CppQTimer.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QTimer](CppQTimer.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 

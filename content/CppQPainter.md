@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) ![Qt](PicQt.png) [QPainter](CppQPainter.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [QPainter](CppQPainter.md)
 =============================================================
 
  
 
-[QPainter](CppQPainter.htm) is a [Qt](CppQt.htm) [class](CppClass.htm).
+[QPainter](CppQPainter.md) is a [Qt](CppQt.md) [class](CppClass.htm).
 
  
 

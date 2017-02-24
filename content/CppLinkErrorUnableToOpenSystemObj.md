@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Unable to open file 'system.OBJ'](CppLinkErrorUnableToOpenSystemObj.htm)
+([C++](Cpp.md)) [Unable to open file 'system.OBJ'](CppLinkErrorUnableToOpenSystemObj.md)
 ==========================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

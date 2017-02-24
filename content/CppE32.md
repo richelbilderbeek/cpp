@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [Symbian](CppSymbian.htm) [E32](CppE32.htm)
+([C++](Cpp.md)) [Symbian](CppSymbian.md) [E32](CppE32.htm)
 ============================================================
 
  
 
-[E32](CppE32.htm) is the file format of a [Symbian](CppSymbian.htm)
+[E32](CppE32.md) is the file format of a [Symbian](CppSymbian.md)
 executable.
 
  

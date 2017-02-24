@@ -12,17 +12,17 @@
 
  
 
-([C++](Cpp.htm)) [std::hex](CppHex.htm)
+([C++](Cpp.md)) [std::hex](CppHex.md)
 =======================================
 
  
 
-[std::hex](CppHex.htm) is a [stream](CppStream.htm) manipulator to
+[std::hex](CppHex.md) is a [stream](CppStream.md) manipulator to
 system the number system to hexadecimal.
 
  
 
-The example below shows how to display an [integer](CppInt.htm) in
+The example below shows how to display an [integer](CppInt.md) in
 hexadecimal, octal and decimal with or without showing the number system
 base.
 

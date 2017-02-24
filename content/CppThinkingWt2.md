@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) ![Wt](PicWt.png) [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.htm)
+([C++](Cpp.md)) ![Wt](PicWt.png) [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)
 ==================================================================================================
 
  
 
-This [article](CppArticle.htm) shows the way to create a TicTacToe
-widget when using the [Wt](CppWt.htm) [library](CppLibrary.htm).
+This [article](CppArticle.md) shows the way to create a TicTacToe
+widget when using the [Wt](CppWt.md) [library](CppLibrary.md).
 
  
 
@@ -63,8 +63,8 @@ Overview
 
  
 
-This [article](CppArticle.htm) follows the same architecture as
-[Thinking Wt 1: general](CppThinkingWt1.htm). First the bare-bone
+This [article](CppArticle.md) follows the same architecture as
+[Thinking Wt 1: general](CppThinkingWt1.md). First the bare-bone
 architecture is implemented, so the programmer can test the application
 as early as possible. Next follows the dialog and widget implementation,
 ending with a conclusion.
@@ -88,18 +88,18 @@ The architecture, from biggest to smallest, consists of:
 
  
 
--   [main](CppMain.htm) creates a single class called WtApplication
--   WtApplication (a [derived class](CppDerivedClass.htm) of
-    [Wt::WApplication](CppWApplication.htm)) creates a single dialog,
+-   [main](CppMain.md) creates a single class called WtApplication
+-   WtApplication (a [derived class](CppDerivedClass.md) of
+    [Wt::WApplication](CppWApplication.md)) creates a single dialog,
     called WtTicTacToeDialog
--   WtTicTacToeDialog (a [derived class](CppDerivedClass.htm) of
-    [Wt::WContainerWidget](CppWContainerWidget.htm)) consists of
+-   WtTicTacToeDialog (a [derived class](CppDerivedClass.md) of
+    [Wt::WContainerWidget](CppWContainerWidget.md)) consists of
     multiple widgets, among others the WtTicTacToeWidget
--   WtTicTacToeWidget (a [derived class](CppDerivedClass.htm) of
-    [Wt::WPaintedWidget](CppWPaintedWidget.htm)) is the widget to
-    display the [TicTacToe](CppTicTacToe.htm) board. The logic of the
-    [TicTacToe](CppTicTacToe.htm) game is embodied in a
-    [TicTacToe](CppTicTacToe.htm) class, which is managed by
+-   WtTicTacToeWidget (a [derived class](CppDerivedClass.md) of
+    [Wt::WPaintedWidget](CppWPaintedWidget.md)) is the widget to
+    display the [TicTacToe](CppTicTacToe.md) board. The logic of the
+    [TicTacToe](CppTicTacToe.md) game is embodied in a
+    [TicTacToe](CppTicTacToe.md) class, which is managed by
     WtTicTacToeWidget
 
  
@@ -119,7 +119,7 @@ Step 1: implementing the bare-bone architecture
 
 The purpose of first implementing the bare-bone architecture is to get
 the program running, so it can be tested. The same architecture as
-[Thinking Wt 1](CppThinkingWt1.htm) is used:
+[Thinking Wt 1](CppThinkingWt1.md) is used:
 
  
 
@@ -130,8 +130,8 @@ the program running, so it can be tested. The same architecture as
  
 
 The most notable in this setup is that WtTicTacToeWidget is a [derived
-class](CppDerivedClass.htm) of
-[Wt::WPaintedWidget](CppWPaintedWidget.htm). This is because then there
+class](CppDerivedClass.md) of
+[Wt::WPaintedWidget](CppWPaintedWidget.md). This is because then there
 is most control in drawing the TicTacToe board. For now, the widget
 shows an image called 'R.png'.
 
@@ -150,10 +150,10 @@ Running the Wt application
 
  
 
-Add the following line to your [Qt project file](CppQtProjectFile.htm)
-(to prevent [link errors](CppLinkError.htm) like [undefined reference to
+Add the following line to your [Qt project file](CppQtProjectFile.md)
+(to prevent [link errors](CppLinkError.md) like [undefined reference to
 'Wt::WRun(int, char\*\*, Wt::WApplication\* (\*)(Wt::WEnvironment
-const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)):
+const&))'](CppLinkErrorUndefinedReferenceToWtWrun.md)):
 
  
 
@@ -164,9 +164,9 @@ const&))'](CppLinkErrorUndefinedReferenceToWtWrun.htm)):
  
 
 Additionally, add the following line to your [Qt project
-file](CppQtProjectFile.htm), as [Wt](CppWt.htm) uses the
-[Boost.Signals](CppBoostSignals.htm) [library](CppLibrary.htm), that
-needs to be [linked](CppLink.htm) to as well:
+file](CppQtProjectFile.md), as [Wt](CppWt.md) uses the
+[Boost.Signals](CppBoostSignals.md) [library](CppLibrary.md), that
+needs to be [linked](CppLink.md) to as well:
 
  
 
@@ -178,9 +178,9 @@ needs to be [linked](CppLink.htm) to as well:
 
 Add the following arguments to the [Run
 Settings](CppQtCreatorRunSettings.png) (to prevent the [misc
-error](CppMiscError.htm) [stat: No such file or directory. Document root
+error](CppMiscError.md) [stat: No such file or directory. Document root
 ("") not
-valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.htm)
+valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.md)
 
  
 
@@ -228,12 +228,12 @@ player 2 has won, draw, game is still unfinished):
  
 
 Note that the widget has only dummy [member
-functions](CppMemberFunction.htm) yet, but that the dialog is fully
+functions](CppMemberFunction.md) yet, but that the dialog is fully
 functional. Because I prefer using the same signal/slot system in all my
-programs, I use the [Boost signals](CppBoostSignal.htm) instead of the
+programs, I use the [Boost signals](CppBoostSignal.md) instead of the
 Wt signals. To get the widgets align vertically, I put a
-[Wt::WBreak](CppWBreak.htm) between the two relevant widgets. The
-unnamed [Wt::WBreak](CppWBreak.htm) will be [deleted](CppDelete.htm) by
+[Wt::WBreak](CppWBreak.md) between the two relevant widgets. The
+unnamed [Wt::WBreak](CppWBreak.md) will be [deleted](CppDelete.md) by
 the dialog.
 
  
@@ -275,20 +275,20 @@ Conclusion
 
  
 
-This [article](CppArticle.htm) described the gradual development of a
+This [article](CppArticle.md) described the gradual development of a
 custom dialog and widget. Using the architecture described in [Thinking
-Wt 1: general](CppThinkingWt1.htm), it is possible to have multiple
+Wt 1: general](CppThinkingWt1.md), it is possible to have multiple
 steps-in-between to check if the program still works.
 
  
 
-The [tool](Tools.htm) [TestTicTacToe](ToolTestTicTacToe.htm) contains
+The [tool](Tools.md) [TestTicTacToe](ToolTestTicTacToe.md) contains
 the polished and slightly extended version of the code in this
-[article](CppArticle.htm).
+[article](CppArticle.md).
 
  
 
-My next article, [Thinking Wt 3: TicTacToe game](CppThinkingWt3.htm)
+My next article, [Thinking Wt 3: TicTacToe game](CppThinkingWt3.md)
 describes how I implement the WtTicTacToeWidget in a full game.
 
  
@@ -333,7 +333,7 @@ External links
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
@@ -341,7 +341,7 @@ External links
 1.  [Wt homepage](http://www.webtoolkit.eu/wt)
 2.  [Victor Volkman. Wt: C++ Web Toolkit Library Lets You Write
     Scripting-Independent Web Apps.
-    www.codeguru.com](http://www.codeguru.com/cpp/i-n/internet/browsercontrol/article.php/c15275__2/Wt-C-Web-Toolkit-Library-Lets-You-Write-Scripting-Independent-Web-Apps.htm)
+    www.codeguru.com](http://www.codeguru.com/cpp/i-n/internet/browsercontrol/article.php/c15275__2/Wt-C-Web-Toolkit-Library-Lets-You-Write-Scripting-Independent-Web-Apps.md)
 3.  [Wt homepage, source code of the 'Hello world'
     example](http://www.webtoolkit.eu/wt#/src/hello)
 

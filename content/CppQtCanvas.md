@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [QtCanvas](CppQtCanvas.htm)
+([C++](Cpp.md)) [QtCanvas](CppQtCanvas.md)
 ============================================
 
  
@@ -136,5 +136,5 @@ Technical facts
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

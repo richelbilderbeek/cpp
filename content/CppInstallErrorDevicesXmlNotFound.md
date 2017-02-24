@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [The file 'devices.xml' containing the device SDK configuration could not be found](CppInstallErrorDevicesXmlNotFound.htm)
+([C++](Cpp.md)) [The file 'devices.xml' containing the device SDK configuration could not be found](CppInstallErrorDevicesXmlNotFound.md)
 ===========================================================================================================================================
 
  
 
-[Install error](CppInstallError.htm)
+[Install error](CppInstallError.md)
 
  
 
@@ -58,8 +58,8 @@ Solution
 
  
 
-Install [Carbide.C++](CppCarbideCpp.htm), because
-[Carbide.C++](CppCarbideCpp.htm) suggests to create the needed ([View a
+Install [Carbide.C++](CppCarbideCpp.md), because
+[Carbide.C++](CppCarbideCpp.md) suggests to create the needed ([View a
 screenshot of Carbide.C++ suggesting to help
 (png)](CppInstallErrorDevicesXmlNotFoundCarbideCppFix.png)).
 

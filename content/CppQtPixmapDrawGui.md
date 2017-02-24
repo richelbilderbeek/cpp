@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm) [Qt Creator](CppQtCreator.htm)) [How to draw on a QPixmap with using the GUI designer?](CppQtPixmapDrawGui.htm)
+([C++](Cpp.md) [Qt Creator](CppQtCreator.md)) [How to draw on a QPixmap with using the GUI designer?](CppQtPixmapDrawGui.htm)
 ===============================================================================================================================
 
  
@@ -24,14 +24,14 @@ code](CppQtPixmapDrawGui.zip).
 
  
 
-To create this program in [Qt Creator](CppQtCreator.htm), you can follow
+To create this program in [Qt Creator](CppQtCreator.md), you can follow
 the steps below:
 
 -   Step \#1: Setting up the Qt4 Gui application project
 -   Step \#2: Setting up the GUI
--   Step \#3: Coding the [declarations](CppDeclaration.htm) of the
+-   Step \#3: Coding the [declarations](CppDeclaration.md) of the
     dialog
--   Step \#4: Coding the [definitions](CppDefinition.htm) of the dialog
+-   Step \#4: Coding the [definitions](CppDefinition.md) of the dialog
 -   Step \#5: Running the program
 
  
@@ -49,7 +49,7 @@ Step \#1: Setting up the Qt4 Gui application project
 
  
 
-1.  Start [Qt Creator](CppQtCreator.htm).
+1.  Start [Qt Creator](CppQtCreator.md).
 2.  If you are not shown the welcome screen, click on 'Welcome' on the
     left
 3.  If, in the welcome screen, the 'Develop' tab is not shown, click on
@@ -136,7 +136,7 @@ like [this](CppQtPixmapDrawGui4.png).
 
  
 
-Step \#3: Coding the [declarations](CppDeclaration.htm) of the dialog
+Step \#3: Coding the [declarations](CppDeclaration.md) of the dialog
 ---------------------------------------------------------------------
 
  
@@ -156,7 +156,7 @@ Step \#3: Coding the [declarations](CppDeclaration.htm) of the dialog
  
 
 Note that if you try to execute the program, you get the following
-[(link) error](CppLinkError.htm):
+[(link) error](CppLinkError.md):
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
   ` /MyFolder/moc_mainwindow.cpp:66: undefined reference to 'Dialog::OnClick()' /MyFolder/moc_mainwindow.cpp:66: undefined reference to 'Dialog::OnTick()'`
@@ -164,9 +164,9 @@ Note that if you try to execute the program, you get the following
 
  
 
-This [(link) error](CppLinkError.htm) is correct: the [member
-functions](CppMemberFunction.htm) Dialog::OnClick and Dialog::OnTick are
-[declared](CppDeclaration.htm) but not yet [defined](CppDefinition.htm).
+This [(link) error](CppLinkError.md) is correct: the [member
+functions](CppMemberFunction.md) Dialog::OnClick and Dialog::OnTick are
+[declared](CppDeclaration.md) but not yet [defined](CppDefinition.md).
 
  
 
@@ -178,7 +178,7 @@ functions](CppMemberFunction.htm) Dialog::OnClick and Dialog::OnTick are
 
  
 
-Step \#4: Coding the [definitions](CppDefinition.htm) of the dialog
+Step \#4: Coding the [definitions](CppDefinition.md) of the dialog
 -------------------------------------------------------------------
 
  

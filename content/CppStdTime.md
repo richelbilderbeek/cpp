@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::time](CppTime.htm)
+([C++](Cpp.md)) [std::time](CppTime.md)
 =========================================
 
  
 
-[std::time](CppStdTime.htm) is an [STL](CppStl.htm) [time](CppTime.htm)
-[function](CppFunction.htm).
+[std::time](CppStdTime.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[function](CppFunction.md).
 
  
 
-When you need to work with time and dates, the [STL](CppStl.htm) or the
-[Boost.Date\_Time](CppDate_Time.htm) [libraries](CppLibrary.htm) can be
+When you need to work with time and dates, the [STL](CppStl.md) or the
+[Boost.Date\_Time](CppDate_Time.md) [libraries](CppLibrary.md) can be
 used.
 
  

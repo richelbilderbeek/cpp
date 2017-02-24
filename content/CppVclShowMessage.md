@@ -12,20 +12,20 @@
 
  
 
-([C++](Cpp.htm)) [VCL ShowMessage](CppVclShowMessage.htm)
+([C++](Cpp.md)) [VCL ShowMessage](CppVclShowMessage.md)
 =========================================================
 
  
 
-A [dialog](CppVclDialog.htm), much of an equivalent of
-[std::cout](CppCout.htm).
+A [dialog](CppVclDialog.md), much of an equivalent of
+[std::cout](CppCout.md).
 
 It displays a text message on the screen in a dialog box.
 
  
 
-To use ShowMessage, [\#include](CppInclude.htm) the [header
-file](CppHeaderFile.htm) dialogs.hpp.
+To use ShowMessage, [\#include](CppInclude.md) the [header
+file](CppHeaderFile.md) dialogs.hpp.
 
  
 

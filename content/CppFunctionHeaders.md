@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Which functions are in which headers?](CppFunctionHeaders.htm)
+([C++](Cpp.md)) [Which functions are in which headers?](CppFunctionHeaders.md)
 ================================================================================
 
  
@@ -24,11 +24,11 @@ Here is an overview of functions.
 
  
 
--   [assert](CppAssert.htm): [cassert](CppCassertH.htm)
--   [std::cos](CppCos.htm): [cmath](CppCmathH.htm)
--   [std::sin](CppSin.htm): [cmath](CppCmathH.htm)
--   [std::sqrt](CppSqrt.htm): [cmath](CppCmathH.htm)
--   [std::min](CppMin.htm): [algorithm](CppAlgorithmH.htm)
+-   [assert](CppAssert.md): [cassert](CppCassertH.md)
+-   [std::cos](CppCos.md): [cmath](CppCmathH.md)
+-   [std::sin](CppSin.md): [cmath](CppCmathH.md)
+-   [std::sqrt](CppSqrt.md): [cmath](CppCmathH.md)
+-   [std::min](CppMin.md): [algorithm](CppAlgorithmH.md)
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.htm)) [Wt FAQ: how to set a font's size?](CppWtSetFontSize.htm)
+([C++](Cpp.md)) [Wt FAQ: how to set a font's size?](CppWtSetFontSize.md)
 ==========================================================================
 
  

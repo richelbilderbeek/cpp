@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [Open Inventor](CppOpenInventor.htm)
+([C++](Cpp.md)) [Open Inventor](CppOpenInventor.md)
 =====================================================
 
  
 
-[Open Inventor](CppOpenInventor.htm) is a [3D](Cpp3d.htm) rendering
-[library](CppLibrary.htm).
+[Open Inventor](CppOpenInventor.md) is a [3D](Cpp3d.md) rendering
+[library](CppLibrary.md).
 
  
 

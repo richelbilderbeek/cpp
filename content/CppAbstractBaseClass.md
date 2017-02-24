@@ -12,39 +12,39 @@
 
  
 
-([C++](Cpp.htm)) [Abstract base class](CppAbstractBaseClass.htm)
+([C++](Cpp.md)) [Abstract base class](CppAbstractBaseClass.md)
 ================================================================
 
  
 
-An [abstract base class](CppAbstractBaseClass.htm) (abbreviated to
-'ABC') is a type of [abstract class](CppAbstractClass.htm) and a type of
-[base class](CppBaseClass.htm).
+An [abstract base class](CppAbstractBaseClass.md) (abbreviated to
+'ABC') is a type of [abstract class](CppAbstractClass.md) and a type of
+[base class](CppBaseClass.md).
 
  
 
-'An [abstract base class](CppAbstractBaseClass.htm) is a
-[class](CppClass.htm) from which no [objects](CppObject.htm) may be
-created; it is only used as a [base class](CppBaseClass.htm) for the
-[derivation](CppDerivedClass.htm) of other [classes](CppClass.htm). A
-[class](CppClass.htm) is abstract if it includes at least one [member
-function](CppMemberFunction.htm) that is [declared](CppDeclaration.htm)
-as pure [virtual](CppVirtual.htm).' \[2\]
-
- 
-
- 
+'An [abstract base class](CppAbstractBaseClass.md) is a
+[class](CppClass.md) from which no [objects](CppObject.md) may be
+created; it is only used as a [base class](CppBaseClass.md) for the
+[derivation](CppDerivedClass.md) of other [classes](CppClass.md). A
+[class](CppClass.md) is abstract if it includes at least one [member
+function](CppMemberFunction.md) that is [declared](CppDeclaration.md)
+as pure [virtual](CppVirtual.md).' \[2\]
 
  
 
  
 
-[Advice](CppAdvice.htm)
+ 
+
+ 
+
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
--   Use an [abstract base class](CppAbstractBaseClass.htm) to represent
+-   Use an [abstract base class](CppAbstractBaseClass.md) to represent
     something common to some, but not all, classes in a hierarchy \[1\]
 
  
@@ -57,12 +57,12 @@ as pure [virtual](CppVirtual.htm).' \[2\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 21.4.
     Advice. page 640: '\[10\] Use a virtual base to represent something
     common to some, but not all, classes in a hierarchy'

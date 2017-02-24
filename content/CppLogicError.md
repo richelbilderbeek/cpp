@@ -12,12 +12,12 @@
 
  
 
-([C++](Cpp.htm)) [logic error](CppLogicError.htm)
+([C++](Cpp.md)) [logic error](CppLogicError.md)
 =================================================
 
  
 
-A [logic error](CppLogicError.htm) is ...
+A [logic error](CppLogicError.md) is ...
 
  
 
@@ -29,15 +29,15 @@ A [logic error](CppLogicError.htm) is ...
 
  
 
-[Advice](CppAdvice.htm)
+[Advice](CppAdvice.md)
 -----------------------
 
  
 
 -   Placing a semicolon immediately after the right parenthesis after
-    the [condition](CppCondition.htm) in an [if](CppIf.htm) statement is
-    often a [logic error](CppLogicError.htm), although not a [syntax
-    error](CppSyntaxError.htm) \[1\]
+    the [condition](CppCondition.md) in an [if](CppIf.md) statement is
+    often a [logic error](CppLogicError.md), although not a [syntax
+    error](CppSyntaxError.md) \[1\]
 
  
 
@@ -49,7 +49,7 @@ A [logic error](CppLogicError.htm) is ...
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

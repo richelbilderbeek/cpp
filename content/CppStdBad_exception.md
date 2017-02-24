@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [std::bad\_exception](CppBad_exception.htm)
+([C++](Cpp.md)) [std::bad\_exception](CppBad_exception.md)
 ============================================================
 
  
 
-[std::bad\_exception](CppBad_exception.htm) is an exception derived from
-[std::exception](CppException.htm).
+[std::bad\_exception](CppBad_exception.md) is an exception derived from
+[std::exception](CppException.md).
 
  
 
-[std::bad\_exception](CppBad_exception.htm) is defined in the [header
-file](CppHeaderFile.htm) [exception](CppExceptionH.htm).
+[std::bad\_exception](CppBad_exception.md) is defined in the [header
+file](CppHeaderFile.md) [exception](CppExceptionH.md).
 
  
 

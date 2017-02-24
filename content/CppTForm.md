@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [TForm](CppTForm.htm)
+([C++](Cpp.md)) [TForm](CppTForm.md)
 ======================================
 
  
 
 VCL data type for a form, the Component you put all others on. Without
 any others on it, it is an empty window. Can be found in the [header
-file](CppHeaderFile.htm) **Forms.hpp**.
+file](CppHeaderFile.md) **Forms.hpp**.
 
  
 
-For [code snippets](CppVclCodeSnippets.htm) using TForm, [go to the VCL
-graphics code snippets page](CppVclGraphics.htm)
+For [code snippets](CppVclCodeSnippets.md) using TForm, [go to the VCL
+graphics code snippets page](CppVclGraphics.md)
 
  
 
@@ -66,7 +66,7 @@ names):
 
  
 
--   Start a new [VCL](CppVcl.htm) Application (called Project1 with
+-   Start a new [VCL](CppVcl.md) Application (called Project1 with
     Unit1 and Form1)
 -   Create a new Form (called Unit2 and Form2)
 -   Save all in the same directory under their default names
@@ -98,7 +98,7 @@ Now you can type, e.g. under an OnClick event:
 
  
 
--   Start a new [VCL](CppVcl.htm) Application
+-   Start a new [VCL](CppVcl.md) Application
 -   Set the Form Name to FormParent
 -   Set FormParent's FormStyle to fsMDIForm
 -   Save this Form as UnitFormParent.cpp
@@ -122,7 +122,7 @@ Now you can type, e.g. under an OnClick event:
  
 
 Note that this is not the standard use of an MDI application, as we only
-have one single Child, which only has one [instance](CppInstance.htm).
+have one single Child, which only has one [instance](CppInstance.md).
 But the Child does have different behaviour compared to standard Forms.
 
  
@@ -139,7 +139,7 @@ But the Child does have different behaviour compared to standard Forms.
 
  
 
--   Start a new [VCL](CppVcl.htm) Application
+-   Start a new [VCL](CppVcl.md) Application
 -   Set the Form Name to FormParent
 -   Set FormParent's FormStyle to fsMDIForm
 -   Save this Form as UnitFormParent.cpp
@@ -164,7 +164,7 @@ Creating an instance of a Child can be done like this:
 
  
 
-Or using a [std::auto\_ptr](CppAuto_ptr.htm):
+Or using a [std::auto\_ptr](CppAuto_ptr.md):
 
  
 
@@ -176,9 +176,9 @@ Or using a [std::auto\_ptr](CppAuto_ptr.htm):
 
 But this simple code is not enough, as you probably want to keep the
 Child Forms on the Parent Form. So you could use a
-[std::vector](CppVector.htm) storing these child
-[pointers](CppPointer.htm). I use the
-[boost::shared\_ptr](CppShared_ptr.htm) for this:
+[std::vector](CppVector.md) storing these child
+[pointers](CppPointer.md). I use the
+[boost::shared\_ptr](CppShared_ptr.md) for this:
 
  
 
@@ -206,13 +206,13 @@ Then add to FormParent's definitions:
 
  
 
-[Get a TForm in a TForm](CppTFormInTForm.htm)
+[Get a TForm in a TForm](CppTFormInTForm.md)
 ---------------------------------------------
 
  
 
 You can get a TForm in a TForm as if it were a TPanel. [Go to the page
-'Get a TForm in a TForm'](CppTFormInTForm.htm).
+'Get a TForm in a TForm'](CppTFormInTForm.md).
 
  
 
@@ -250,7 +250,7 @@ TForm troubles
 
  
 
-Never change the TForm [constructor](CppConstructor.htm) to the
+Never change the TForm [constructor](CppConstructor.md) to the
 following:
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -260,12 +260,12 @@ following:
  
 
 This will (strangely) result in a [stack
-overflow](CppStackOverflow.htm).
+overflow](CppStackOverflow.md).
 
  
 
-One workaround is to use [AnsiString](CppAnsiString.htm) instead of an
-[integer](CppInt.htm):
+One workaround is to use [AnsiString](CppAnsiString.md) instead of an
+[integer](CppInt.md):
 
  
 

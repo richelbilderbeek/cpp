@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [operator\*=](CppOperatorMultiplyAssign.htm)
+([C++](Cpp.md)) [operator\*=](CppOperatorMultiplyAssign.md)
 =============================================================
 
  
 
-[operator\*=](CppOperatorMultiplyAssign.htm) is the
-[operator](CppOperator.htm) to multiply a [variable](CppVariable.htm)'s
+[operator\*=](CppOperatorMultiplyAssign.md) is the
+[operator](CppOperator.md) to multiply a [variable](CppVariable.md)'s
 value by a certain value, without making a copy.
 
  

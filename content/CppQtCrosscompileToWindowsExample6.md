@@ -12,14 +12,14 @@
 
  
 
-([C++](Cpp.htm)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 6: any application, using tweaked Makefile](CppQtCrosscompileToWindowsExample2.htm)
+([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 6: any application, using tweaked Makefile](CppQtCrosscompileToWindowsExample2.md)
 ============================================================================================================================================================================================
 
  
 
 This is example 6, and a solution of unknown viability in answering the
-[Qt FAQ](CppQtFaq.htm) [How to cross-compile a Qt Creator project from
-Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
+[Qt FAQ](CppQtFaq.md) [How to cross-compile a Qt Creator project from
+Ubuntu to a windows executable?](CppQtCrosscompileToWindows.md).
 
  
 
@@ -33,18 +33,18 @@ Ubuntu to a windows executable?](CppQtCrosscompileToWindows.htm).
 
 Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
 
-[IDE](CppIde.htm): [Qt Creator](CppQtCreator.htm) 2.0.0
+[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
 
-[Project type](CppQtProjectType.htm): [GUI](CppGui.htm) application
+[Project type](CppQtProjectType.md): [GUI](CppGui.md) application
 
-[Compiler](CppCompiler.htm): [G++](CppGpp.htm) 4.4.1
+[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
 
-[Libraries](CppLibrary.htm) used:
+[Libraries](CppLibrary.md) used:
 
--   [Boost](CppBoost.htm): version 1.40
--   [Qt](CppQt.htm): version 4.7.0 (32 bit)
--   [STL](CppStl.htm): from [GCC](CppGcc.htm), shipped with [Qt
-    Creator](CppQt.htm) 2.0.0
+-   [Boost](CppBoost.md): version 1.40
+-   [Qt](CppQt.md): version 4.7.0 (32 bit)
+-   [STL](CppStl.md): from [GCC](CppGcc.md), shipped with [Qt
+    Creator](CppQt.md) 2.0.0
 
 Project options:
 
@@ -60,7 +60,7 @@ Project options:
 
  
 
-[Qt project file](CppQtProjectFile.htm)
+[Qt project file](CppQtProjectFile.md)
 ---------------------------------------
 
  
@@ -142,8 +142,8 @@ Process
  
 
 Just running this project is known to cause the [misc
-error](CppMiscError.htm) [\[ui\_dialog.h\] Error
-127](CppMiscErrorUi_dialogHerror127.htm).
+error](CppMiscError.md) [\[ui\_dialog.h\] Error
+127](CppMiscErrorUi_dialogHerror127.md).
 
  
 

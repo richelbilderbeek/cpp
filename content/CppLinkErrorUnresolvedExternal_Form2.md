@@ -12,18 +12,18 @@
 
  
 
-([C++](Cpp.htm)) [Unresolved external '\_Form2' referenced from \[...\]\\UNIT1.OBJ](CppLinkErrorUnresolvedExternal_Form2.htm)
+([C++](Cpp.md)) [Unresolved external '\_Form2' referenced from \[...\]\\UNIT1.OBJ](CppLinkErrorUnresolvedExternal_Form2.md)
 =============================================================================================================================
 
  
 
-[Link error](CppLinkError.htm).
+[Link error](CppLinkError.md).
 
  
 
-IDE: [C++ Builder](CppBuilder.htm) 6.0
+IDE: [C++ Builder](CppBuilder.md) 6.0
 
-Project type: [VCL](CppVcl.htm)
+Project type: [VCL](CppVcl.md)
 
  
 

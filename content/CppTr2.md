@@ -12,19 +12,19 @@
 
  
 
-([C++](Cpp.htm)) [TR2](CppTr2.htm)
+([C++](Cpp.md)) [TR2](CppTr2.md)
 ==================================
 
  
 
-[TR2 (an abbreviation of 'Technical Report 2')](CppTr2.htm) will be a
-document proposing [library](CppLibrary.htm) extensions to the
-[C++11](Cpp11.htm) [library](CppLibrary.htm).
+[TR2 (an abbreviation of 'Technical Report 2')](CppTr2.md) will be a
+document proposing [library](CppLibrary.md) extensions to the
+[C++11](Cpp11.md) [library](CppLibrary.md).
 
  
 
-[TR1](CppTr1.htm) is a document proposing [library](CppLibrary.htm)
-extensions to the [C++98](Cpp98.htm) [library](CppLibrary.htm).
+[TR1](CppTr1.md) is a document proposing [library](CppLibrary.md)
+extensions to the [C++98](Cpp98.md) [library](CppLibrary.md).
 
  
 

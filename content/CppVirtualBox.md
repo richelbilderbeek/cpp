@@ -12,24 +12,24 @@
 
  
 
-([C++](Cpp.htm)) ![VirtualBox](PicVirtualBox.png) [VirtualBox](CppVirtualBox.htm)
+([C++](Cpp.md)) ![VirtualBox](PicVirtualBox.png) [VirtualBox](CppVirtualBox.md)
 =================================================================================
 
  
 
-[VirtualBox](CppVirtualBox.htm) is a program to run an [operating
-system](CppOs.htm) natively under another [operating system](CppOs.htm).
+[VirtualBox](CppVirtualBox.md) is a program to run an [operating
+system](CppOs.md) natively under another [operating system](CppOs.md).
 
  
 
-[Raspbian](CppRaspbian.htm) cannot be run in
-[VirtualBox](CppVirtualBox.htm), use [qemu](CppQemu.htm) instead.
+[Raspbian](CppRaspbian.md) cannot be run in
+[VirtualBox](CppVirtualBox.md), use [qemu](CppQemu.md) instead.
 
  
 
 -   ![OKAY](PicGreen.png)![Windows](PicWindows.png)![VirtualBox](PicVirtualBox.png)![Ubuntu](PicUbuntu.png)
     [Running Windows under VirtualBox under
-    Ubuntu](CppWindowsVirtualBoxUbuntu.htm)
+    Ubuntu](CppWindowsVirtualBoxUbuntu.md)
 -   ![FAIL](PicRed.png)![Raspbian](PicRaspbian.png)![VirtualBox](PicVirtualBox.png)![Lubuntu](PicLubuntu.png)
     Running raspbian under VirtualBox under Lubuntu: will not work \[1\]
 
@@ -43,7 +43,7 @@ system](CppOs.htm) natively under another [operating system](CppOs.htm).
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [libcvautomation](CppLibcvautomation.htm)
+([C++](Cpp.md)) [libcvautomation](CppLibcvautomation.md)
 ==========================================================
 
  
 
-A [libcvautomation](CppLibcvautomation.htm) is a [GUI
-testing](CppGuiTest.htm) tool.
+A [libcvautomation](CppLibcvautomation.md) is a [GUI
+testing](CppGuiTest.md) tool.
 
  
 
@@ -28,27 +28,27 @@ testing](CppGuiTest.htm) tool.
 
  
 
-[libcvautomation](CppLibcvautomation.htm) examples
+[libcvautomation](CppLibcvautomation.md) examples
 --------------------------------------------------
 
  
 
 -   [libcvautomation example 1: using an
-    example](CppLibcvautomationExample1.htm)
+    example](CppLibcvautomationExample1.md)
 -   [libcvautomation example 2: Qt Creator project around example
-    (using C)](CppLibcvautomationExample2.htm)
+    (using C)](CppLibcvautomationExample2.md)
 -   [libcvautomation example 3: Qt Creator project around
-    example](CppLibcvautomationExample3.htm)
+    example](CppLibcvautomationExample3.md)
 -   [libcvautomation example 4: Qt Creator project around adapted
-    example](CppLibcvautomationExample4.htm)
+    example](CppLibcvautomationExample4.md)
 -   [libcvautomation example 5: basic Qt
-    GUI](CppLibcvautomationExample5.htm)
+    GUI](CppLibcvautomationExample5.md)
 -   [libcvautomation example 6: test a simple Qt desktop
-    application](CppLibcvautomationExample6.htm)
+    application](CppLibcvautomationExample6.md)
 -   [libcvautomation example 7: test a simple Qt desktop application,
-    using keyboard](CppLibcvautomationExample7.htm)
+    using keyboard](CppLibcvautomationExample7.md)
 -   [Brainweaver: a project that uses libcvautomation for debugging its
-    GUI](ProjectBrainweaver.htm)
+    GUI](ProjectBrainweaver.md)
 
  
 
@@ -60,7 +60,7 @@ testing](CppGuiTest.htm) tool.
 
  
 
-[libcvautomation](CppLibcvautomation.htm) installation
+[libcvautomation](CppLibcvautomation.md) installation
 ------------------------------------------------------
 
  
@@ -115,5 +115,5 @@ Found the keylist in file /usr/include/X11/keysymdef.h:
 
 
 
-This page has been created by the [tool](Tools.htm)
-[CodeToHtml](ToolCodeToHtml.htm)
+This page has been created by the [tool](Tools.md)
+[CodeToHtml](ToolCodeToHtml.md)

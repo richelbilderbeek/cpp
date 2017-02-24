@@ -12,13 +12,13 @@
 
  
 
-([C++](Cpp.htm)) [NDS graphic modes](CppNdsGraphicModes.htm)
+([C++](Cpp.md)) [NDS graphic modes](CppNdsGraphicModes.md)
 ============================================================
 
  
 
-The [NDS](CppNds.htm) has seven [NDS graphic
-modes](CppNdsGraphicModes.htm) \[1\]:
+The [NDS](CppNds.md) has seven [NDS graphic
+modes](CppNdsGraphicModes.md) \[1\]:
 
  
 
@@ -45,7 +45,7 @@ Note that background 0 is always in text mode.
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  

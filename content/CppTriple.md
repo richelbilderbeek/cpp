@@ -12,35 +12,35 @@
 
  
 
-([C++](Cpp.htm)) [Triple](CppTriple.htm)
+([C++](Cpp.md)) [Triple](CppTriple.md)
 ========================================
 
  
 
-[Container](CppContainer.htm) [code snippet](CppCodeSnippets.htm) to
-triple all values in a [container](CppContainer.htm).
+[Container](CppContainer.md) [code snippet](CppCodeSnippets.md) to
+triple all values in a [container](CppContainer.md).
 
  
 
-There are multiple ways to perform [Triple](CppTriple.htm):
+There are multiple ways to perform [Triple](CppTriple.md):
 
 -   ![C++98](PicCpp98.png)![STL](PicStl.png) The general
-    [algorithm](CppAlgorithm.htm) way using
-    [std::bind2nd](CppBind2nd.htm)
+    [algorithm](CppAlgorithm.md) way using
+    [std::bind2nd](CppBind2nd.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) The general
-    [algorithm](CppAlgorithm.htm) way using
-    [BOOST\_FOREACH](CppBOOST_FOREACH.htm)
+    [algorithm](CppAlgorithm.md) way using
+    [BOOST\_FOREACH](CppBOOST_FOREACH.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) The general
-    [algorithm](CppAlgorithm.htm) way using
-    [boost::lambda](CppLambda.htm)
--   ![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.htm)
+    [algorithm](CppAlgorithm.md) way using
+    [boost::lambda](CppLambda.md)
+-   ![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md)
     algorithm way on a
-    [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
--   ![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.htm)
-    [lambda expressions](CppLambdaExpression.htm) on a
-    [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
--   ![C++98](PicCpp98.png) The [for](CppFor.htm)-loop way on a
-    [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+-   ![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.md)
+    [lambda expressions](CppLambdaExpression.md) on a
+    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+-   ![C++98](PicCpp98.png) The [for](CppFor.md)-loop way on a
+    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 
  
 
@@ -54,7 +54,7 @@ There are multiple ways to perform [Triple](CppTriple.htm):
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The general [algorithm](CppAlgorithm.htm) way using [std::bind2nd](CppBind2nd.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) The general [algorithm](CppAlgorithm.md) way using [std::bind2nd](CppBind2nd.md)
 ---------------------------------------------------------------------------------------------------------------------------
 
  
@@ -73,7 +73,7 @@ There are multiple ways to perform [Triple](CppTriple.htm):
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) The general [algorithm](CppAlgorithm.htm) way using [BOOST\_FOREACH](CppBOOST_FOREACH.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) The general [algorithm](CppAlgorithm.md) way using [BOOST\_FOREACH](CppBOOST_FOREACH.md)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -92,7 +92,7 @@ There are multiple ways to perform [Triple](CppTriple.htm):
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) The general [algorithm](CppAlgorithm.htm) way using [boost::lambda](CppLambda.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) The general [algorithm](CppAlgorithm.md) way using [boost::lambda](CppLambda.md)
 -------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -111,13 +111,13 @@ There are multiple ways to perform [Triple](CppTriple.htm):
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.htm) algorithm way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) algorithm way on a [std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt;
 ----------------------------------------------------------------------------------------------------------------------------------------
 
  
 
 This version is given as the answer of [Exercise \#9: No
-for-loops](CppExerciseNoForLoops.htm).
+for-loops](CppExerciseNoForLoops.md).
 
  
 
@@ -135,7 +135,7 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.htm) [lambda expressions](CppLambdaExpression.htm) on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.md) [lambda expressions](CppLambdaExpression.md) on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -154,12 +154,12 @@ for-loops](CppExerciseNoForLoops.htm).
 
  
 
-![C++98](PicCpp98.png) The [for](CppFor.htm)-loop way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png) The [for](CppFor.md)-loop way on a [std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt;
 ----------------------------------------------------------------------------------------------------------------
 
  
 
-Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
+Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
@@ -177,16 +177,16 @@ Prefer [algorithms](CppAlgorithm.htm) over loops \[1\]\[2\]
 
  
 
-[References](CppReferences.htm)
+[References](CppReferences.md)
 -------------------------------
 
  
 
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1:
     'Prefer algorithms over loops'
-2.  [Herb Sutter](CppHerbSutter.htm) and [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.htm). C++ coding standards: 101
+2.  [Herb Sutter](CppHerbSutter.md) and [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
     rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
     84: 'Prefer algorithm calls to handwritten loops'
 
