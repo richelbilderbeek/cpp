@@ -33,7 +33,6 @@ int main()
 {   
   int x;  
 }
-
 ```
 
 # [Advice](CppAdvice.md)

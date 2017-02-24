@@ -12,7 +12,7 @@ variables](CppLocalVersusGlobal.md).
 
 ## [Advice](CppAdvice.md)
 
--   Avoid using [global](CppGlobal.md) data \[1-6,8\]. Instead,
+-   Avoid using [global](CppGlobal.md) data \[1-6,8-9\]. Instead,
     [declare](CppDeclaration.md) [variables](CppVariable.md) as
     [locally](CppLocal.md) as possible \[7\]
 
@@ -41,6 +41,8 @@ variables](CppLocalVersusGlobal.md).
     Development and Demonstration Program. Document Number 2RDU00001
     Rev C. December 2005. AV Rule 207: 'Unencapsulated global data will
     be avoided.'
+9.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 1.2.4.1: 'Do not use global variables'
 
  
 
