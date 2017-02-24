@@ -25,9 +25,16 @@ There are multiple types of [declarations](CppDeclaration.md):
 
 In the code below, the [function](CppFunction.md) MagicFunction and the
 [integer](CppInt.md) x are [declared](CppDeclaration.md).
-  ----------------------------------------------------
-  ` void MagicFunction();  int main() {   int x;  }`
-  ----------------------------------------------------
+
+```
+void MagicFunction();  
+
+int main() 
+{   
+  int x;  
+}
+
+```
 
 # [Advice](CppAdvice.md)
 
@@ -41,8 +48,7 @@ In the code below, the [function](CppFunction.md) MagicFunction and the
 
 # [References](CppReferences.md)
 
-1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
-    1996. ISBN: 0-201-63362-0. Chapter 1.1.1
+1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. Chapter 1.1.1
 2.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 6.6.
     Advice. page 169: '\[11\] Declare one name (only) per declaration'
@@ -54,10 +60,8 @@ In the code below, the [function](CppFunction.md) MagicFunction and the
     functions, it tells the compiler the name, return type
     and parameters. For variables, it tells the compiler the name and
     type'
-4.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition).
-    2014. ISBN: 978-0-13-343985-4. Chapter 2.4, Good Programming
-    Practice 2.3. page 26: 'Declare only one variable in each
-    declaration and provide a comment that explains the variable's
+4.  Paul Deitel, Harvey Deitel. C++11 for progrgrammers (2nd edition). 2014. ISBN: 978-0-13-343985-4. Chapter 2.4, Good Programming
+    Practice 2.3. page 26: 'Declare only one variable in each declaration and provide a comment that explains the variable's
     purpose in the program.'
 5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 1.2: 'Declare variables as late as possible, usually right before using them the first time and whenever possible not before you can
