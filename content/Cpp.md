@@ -1,9 +1,28 @@
-# C++
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[C++](Cpp.htm)
+==============
+
+ 
 
 This is my main page about the [C++](Cpp.htm) language.
 
+ 
+
 C++ is not just object-oriented \[1\], nor just for generic programming
 \[2\], nor C with a few extensions \[3\].
+
+ 
 
 -   [C++ code snippets](CppCodeSnippets.htm): handy short pieces of code
 -   [C++ errors](CppError.htm): my collection of [install
@@ -78,16 +97,40 @@ C++ is not just object-oriented \[1\], nor just for generic programming
 -   Break long statements into multiple lines \[10\]
 -   Include white space \[11\]
 
+ 
 
-## External links
+ 
+
+ 
+
+ 
+
+ 
+
+External links
+--------------
+
+ 
 
 -   [WikiPedia's page about C++](http://en.wikipedia.org/wiki/C%2B%2B)
 -   [isocpp.org: C++ news](http://isocpp.org)
 -   [Software Engineering Code of Ethics and Professional
     Practice](http://www.acm.org/about/se-code)
 
+ 
 
-## [References](CppReferences.htm)
+ 
+
+ 
+
+ 
+
+ 
+
+[References](CppReferences.htm)
+-------------------------------
+
+ 
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.htm). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Page 32, 1.5
@@ -125,3 +168,20 @@ C++ is not just object-oriented \[1\], nor just for generic programming
 11. Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of
     C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 3.1, page 13:
     'Include white space'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Go back to Richel Bilderbeek's homepage](index.htm).
+
+ 
+
+[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+height="31"}](http://validator.w3.org/check?uri=referer)
