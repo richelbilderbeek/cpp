@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [global](CppGlobal.md)
-========================================
-
- 
+# [global](CppGlobal.md)
 
 A [global](CppGlobal.md) (also: [global variable](CppGlobal.md)) is a
 [variable](CppVariable.md) that is visible by all code (as opposite of
@@ -21,46 +7,16 @@ visible in its [scope](CppScope.md)). A non-[const](CppConst.md)
 [global](CppGlobal.md) is one of the biggest contributors of increasing
 [state](CppState.md)-space.
 
- 
-
 [Compare the speed of local versus global
 variables](CppLocalVersusGlobal.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   Avoid using [global](CppGlobal.md) data \[1-6,8\]. Instead,
     [declare](CppDeclaration.md) [variables](CppVariable.md) as
     [locally](CppLocal.md) as possible \[7\]
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
     2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.

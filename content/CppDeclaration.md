@@ -1,4 +1,4 @@
-# ([C++](Cpp.md)) [declaration](CppDeclaration.md)
+# [declaration](CppDeclaration.md)
 
 'A [declaration](CppDeclaration.md) introduces a name into a program'
 \[1\].
