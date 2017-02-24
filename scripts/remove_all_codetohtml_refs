@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd ../content
+
+for md_filename in `ls *.md`
+do
+  echo $md_filename
+  # This page has been created by the [tool](Tools.md)
+  sed -i "s/This page has been created by the \[tool][(]Tools.md[)]//" $md_filename
+  # [CodeToHtml](ToolCodeToHtml.md)
+  sed -i "s/\[CodeToHtml][(]ToolCodeToHtml.md[)]//" $md_filename
+
+done

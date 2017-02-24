@@ -95,7 +95,7 @@ Handle assignment to self: Copy and swap
     [&lt;=](CppOperatorLessEqual.md) (by writing them as =!, =&gt; and
     =&lt; respectively) is normally a [syntax error](CppSyntaxError.md)
     \[5\]
--   
+-
 
  
 

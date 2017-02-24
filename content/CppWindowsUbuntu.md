@@ -23,7 +23,7 @@ There are multiple ways to run [Windows](CppWindows.md) under
     Ubuntu](CppWindowsVirtualBoxUbuntu.md): need a
     [Windows](CppWindows.md) installation CD, native environment (see
     [this screenshot (png)](CppWindowsVirtualBoxUbuntu.png))
--   
+-
 
  
 

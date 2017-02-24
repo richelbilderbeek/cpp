@@ -22,7 +22,7 @@ like [std::fopen](CppFopen.md)) to a [std::string](CppString.md).
 
 -   [Download the Qt Creator project
     'CppStrerror' (zip)](CppStrerror.zip)
--   
+-
 
  
 

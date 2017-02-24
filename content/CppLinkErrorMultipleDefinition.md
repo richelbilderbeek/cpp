@@ -68,7 +68,7 @@ Some solutions are:
 -   Make the [declarations](CppDeclaration.md) [inline](CppInline.md)
 -   Ensure the [header file](CppHeaderFile.md) is used by exactly one
     [unit](CppUnit.md)
--   
+-
 
  
 
