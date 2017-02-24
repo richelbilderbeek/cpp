@@ -5,6 +5,5 @@ cd ../content
 for md_filename in `ls *.md`
 do
   echo $md_filename
-  sed -i "N;/^\n$/D;P;D;" $md_filename
-
+  sed "s/^ $//" $md_filename
 done
