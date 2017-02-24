@@ -34,5 +34,3 @@ Checks if a WideString can be converted to a double.
 
  
 
-
-

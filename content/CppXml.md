@@ -148,5 +148,3 @@ Technical facts
 
  
 
-
-

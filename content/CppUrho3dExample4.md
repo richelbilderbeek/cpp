@@ -190,5 +190,3 @@ Technical facts
 
  
 
-
-

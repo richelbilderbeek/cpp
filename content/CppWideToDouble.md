@@ -34,5 +34,3 @@ Converts a WideString to double.
 
  
 
-
-

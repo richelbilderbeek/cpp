@@ -135,5 +135,3 @@ Technical facts
 
  
 
-
-

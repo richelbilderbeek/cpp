@@ -68,5 +68,3 @@ loop [variable](CppVariable.md) \[6\].
 
  
 
-
-

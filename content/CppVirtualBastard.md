@@ -171,5 +171,3 @@ Technical facts
 
  
 
-
-

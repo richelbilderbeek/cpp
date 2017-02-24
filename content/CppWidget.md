@@ -117,5 +117,3 @@ Technical facts
 
  
 
-
-

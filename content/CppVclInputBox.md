@@ -39,5 +39,3 @@ To use [InputBox](CppVclInputBox.md) , [\#include](CppInclude.md) the
 
  
 
-
-

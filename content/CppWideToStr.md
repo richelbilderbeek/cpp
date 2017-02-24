@@ -34,5 +34,3 @@ Converts a WideString to a std::string.
 
  
 
-
-

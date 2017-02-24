@@ -57,5 +57,3 @@ Consider never using the [volatile](CppVolatile.md)
 
  
 
-
-

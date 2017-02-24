@@ -544,5 +544,3 @@ Technical facts
 
  
 
-
-

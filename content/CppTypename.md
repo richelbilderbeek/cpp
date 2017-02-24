@@ -35,5 +35,3 @@ classes](CppTemplateClass.md) or [policies](CppPolicy.md).
 
  
 
-
-

@@ -143,5 +143,3 @@ Technical facts
 
  
 
-
-

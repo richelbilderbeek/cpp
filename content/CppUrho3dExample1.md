@@ -152,5 +152,3 @@ Technical facts
 
  
 
-
-

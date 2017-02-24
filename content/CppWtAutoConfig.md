@@ -98,5 +98,3 @@ Technical facts
 
  
 
-
-

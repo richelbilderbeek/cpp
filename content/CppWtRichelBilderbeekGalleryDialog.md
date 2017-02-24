@@ -88,5 +88,3 @@ Technical facts
 
  
 
-
-

@@ -48,5 +48,3 @@ std::stream](CppCompositeDataTypeToStream.md).
 
  
 
-
-

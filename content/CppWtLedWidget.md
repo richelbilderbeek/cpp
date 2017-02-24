@@ -101,5 +101,3 @@ Technical facts
 
  
 
-
-

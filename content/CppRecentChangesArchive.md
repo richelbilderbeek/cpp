@@ -2139,7 +2139,7 @@ Great stuff for historicians!
 1385. 19-03-2010: New page: [Gnuplot](CppGnuplot.md)
 1386. 19-03-2010: Modified [std::swap](CppSwap.md): improved page
     content
-1387. 14-03-2010: New page: 
+1387. 14-03-2010: New page:
 1388. 14-03-2010: New page: [&"warning: GDB: Failed to set controlling
     terminal: Invalid
     argument\\n"](CppMiscErrorGdbFailedToSetControllingTerminal.md)

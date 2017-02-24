@@ -104,5 +104,3 @@ Technical facts
 
  
 
-
-

@@ -34,5 +34,3 @@ The [Wt](CppWt.md) way of sending a [signal](CppSignal.md).
 
  
 
-
-

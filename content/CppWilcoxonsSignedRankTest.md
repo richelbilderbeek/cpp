@@ -122,5 +122,3 @@ Technical facts
 
  
 
-
-

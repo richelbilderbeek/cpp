@@ -39,5 +39,3 @@ List of [Boost.uBLAS](CppUblas.md) [classes](CppClass.md) (incomplete)
 
  
 
-
-
