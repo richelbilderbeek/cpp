@@ -76,5 +76,3 @@ Avoid using [Hungarian notation](CppHungarianNotation.md) \[1-3\].
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

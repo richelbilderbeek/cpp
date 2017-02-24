@@ -35,5 +35,3 @@ search on both key and value (which are called 'left' and 'right' in the
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

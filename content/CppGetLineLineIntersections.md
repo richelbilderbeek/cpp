@@ -54,5 +54,3 @@ lines](CppGeometryExample2.md) for the testing code.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

@@ -79,5 +79,3 @@ cannot return a reference to the original Widgets anymore.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

@@ -271,5 +271,3 @@ top-left one, as the program was running four times).
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

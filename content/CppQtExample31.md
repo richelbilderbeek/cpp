@@ -224,5 +224,3 @@ Technical facts
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

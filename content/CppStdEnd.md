@@ -85,5 +85,3 @@ the end (beyond the final element) of a container.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

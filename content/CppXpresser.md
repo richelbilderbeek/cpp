@@ -65,5 +65,5 @@ I tried some potential fixes, but I could not get it to work.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)
+
+

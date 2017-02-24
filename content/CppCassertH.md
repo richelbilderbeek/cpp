@@ -35,5 +35,3 @@ file](CppHeaderFile.md) with the definition of [assert](CppAssert.md).
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

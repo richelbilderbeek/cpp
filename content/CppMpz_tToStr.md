@@ -41,5 +41,3 @@ For full example, [go to the 'Hello Gmp' page](CppHelloGmp.md).
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

@@ -124,5 +124,3 @@ generations. Therefore, the period length is not found. Also ***r*** =
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

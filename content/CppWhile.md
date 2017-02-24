@@ -68,5 +68,5 @@ loop [variable](CppVariable.md) \[6\].
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)
+
+

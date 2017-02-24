@@ -34,5 +34,5 @@ Converts a WideString to a std::string.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)
+
+

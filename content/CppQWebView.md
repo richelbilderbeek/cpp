@@ -33,5 +33,3 @@ to display HTML.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

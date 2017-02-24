@@ -96,5 +96,3 @@ You must enable multi-thread applications:
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

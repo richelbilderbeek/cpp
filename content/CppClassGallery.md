@@ -708,5 +708,3 @@ QtKeyboardFriendlyGraphicsView](ToolTestKeyboardFriendlyGraphicsView_0_4.png)
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

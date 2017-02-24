@@ -39,5 +39,5 @@ List of [Boost.uBLAS](CppUblas.md) [classes](CppClass.md) (incomplete)
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)
+
+

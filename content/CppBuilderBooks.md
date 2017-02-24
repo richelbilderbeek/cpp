@@ -47,5 +47,3 @@ the only beginners book on [C++ Builder](CppBuilder.md).
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

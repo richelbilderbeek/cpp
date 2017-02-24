@@ -100,5 +100,3 @@ Builder](CppBuilder.md) add a leading underscore in the function name.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

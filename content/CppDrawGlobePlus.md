@@ -42,5 +42,3 @@ draw a globe with a plus on it.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

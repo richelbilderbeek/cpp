@@ -63,5 +63,3 @@ Heaven](http://www.programmersheaven.com/article/100014-C%2b%2b+exercise%3a+the+
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

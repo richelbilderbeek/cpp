@@ -128,5 +128,3 @@ Prefer [algorithms](CppAlgorithm.md) over loops \[1,2\].
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

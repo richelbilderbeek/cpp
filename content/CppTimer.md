@@ -38,5 +38,3 @@ List of [timer](CppTimer.md) [classes](CppClass.md) (incomplete list):
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

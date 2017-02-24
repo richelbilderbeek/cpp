@@ -34,5 +34,5 @@ Converts a WideString to double.
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)
+
+

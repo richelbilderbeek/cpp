@@ -274,5 +274,3 @@ Regular [member functions](CppMemberFunction.md)
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)

@@ -88,5 +88,3 @@ Rescale on a 2D [std::vector](CppVector.md)
 
  
 
-This page has been created by the [tool](Tools.md)
-[CodeToHtml](ToolCodeToHtml.md)
