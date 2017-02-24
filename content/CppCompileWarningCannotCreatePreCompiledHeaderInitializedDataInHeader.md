@@ -126,5 +126,5 @@ Put the \#include of the header that causes this behind the \#pragma:
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

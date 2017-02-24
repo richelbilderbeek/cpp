@@ -41,5 +41,5 @@ A functor that sees if a certain class has equal X and Y values.
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

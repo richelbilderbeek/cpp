@@ -48,5 +48,5 @@ In the example below a '0011' is performed xor on with '0101' yielding
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

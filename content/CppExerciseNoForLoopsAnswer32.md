@@ -105,5 +105,5 @@ Replace the **[for](CppFor.htm)**-loop. You will need:
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
+
 height="32"}](http://validator.w3.org/check?uri=referer)

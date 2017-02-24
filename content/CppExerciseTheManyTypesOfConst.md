@@ -70,8 +70,8 @@ Heaven](http://www.programmersheaven.com/article/100014-C%2b%2b+exercise%3a+the+
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+
 
 This page has been created by the [tool](Tools.htm)
 [CodeToHtml](ToolCodeToHtml.htm)

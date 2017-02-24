@@ -72,5 +72,5 @@ Replacing a [for](CppFor.htm) loop by algorithms using [std::mem\_fun](CppMem_fu
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

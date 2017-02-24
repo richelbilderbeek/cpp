@@ -130,5 +130,5 @@ Note that in this example the location of the include folder was was
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

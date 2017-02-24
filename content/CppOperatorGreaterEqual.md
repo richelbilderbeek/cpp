@@ -101,5 +101,5 @@ determine that one plus two is greater or equal equal to three:
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

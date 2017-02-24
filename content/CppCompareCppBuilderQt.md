@@ -65,4 +65,4 @@ External links
 
 [![Valid XHTML 1.0
 Strict](http://www.w3.org/Icons/valid-xhtml10){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+

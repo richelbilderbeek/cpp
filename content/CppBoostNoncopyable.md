@@ -74,5 +74,5 @@ The code below shows a [C++98](Cpp98.htm) and [C++11](Cpp11.htm)
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

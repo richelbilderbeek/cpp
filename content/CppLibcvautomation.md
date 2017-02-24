@@ -112,8 +112,8 @@ Found the keylist in file /usr/include/X11/keysymdef.h:
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+
 
 This page has been created by the [tool](Tools.htm)
 [CodeToHtml](ToolCodeToHtml.htm)

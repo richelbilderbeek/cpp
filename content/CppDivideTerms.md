@@ -64,5 +64,5 @@ sets of product terms. For example: for sets n and d, where n =
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

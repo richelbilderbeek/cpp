@@ -47,5 +47,5 @@ to std::find, except that it finds a value from a collection of values.
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

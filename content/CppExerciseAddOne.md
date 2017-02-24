@@ -90,5 +90,5 @@ Heaven](http://www.programmersheaven.com/article/100054-C%2b%2b+exercise%3a+add+
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

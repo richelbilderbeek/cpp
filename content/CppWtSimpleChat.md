@@ -285,5 +285,5 @@ files in place and it works! Or do not choose to do a 'Shadow Build'.
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

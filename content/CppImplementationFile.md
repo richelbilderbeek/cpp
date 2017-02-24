@@ -59,5 +59,5 @@ The combination of a [header (.h) file](CppHeaderFile.htm) and an
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

@@ -63,5 +63,5 @@ and [std::time\_point](CppTime_point.htm) for timing \[1\].
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

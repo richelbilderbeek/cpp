@@ -135,5 +135,5 @@ Overflow](http://stackoverflow.com/questions/5545580/pil-libjpeg-so-8-cannot-ope
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

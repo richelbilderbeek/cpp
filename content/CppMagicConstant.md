@@ -96,5 +96,5 @@ if the upper 12 is changed, must the lower 12 be changed as well?
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

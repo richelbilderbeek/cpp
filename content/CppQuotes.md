@@ -236,5 +236,5 @@ me?'](http://www.parashift.com/c++-faq-lite/how-to-post.html#faq-5.2).
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+

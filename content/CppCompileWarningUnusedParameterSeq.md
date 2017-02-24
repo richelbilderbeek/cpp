@@ -120,5 +120,5 @@ The compiler is right: seq is an unused variable. I changed the code to
 
  
 
-[![Valid XHTML 1.0 Strict](valid-xhtml10.png){width="88"
-height="31"}](http://validator.w3.org/check?uri=referer)
+
+
