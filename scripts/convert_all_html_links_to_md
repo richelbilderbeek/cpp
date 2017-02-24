@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd ../content
+
+for md_filename in `ls *.md`
+do
+  echo $md_filename
+  sed "s/\.htm[)]/\.md)/" $md_filename
+done

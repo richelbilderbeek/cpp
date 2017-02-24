@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd ../content
+
+for md_filename in `ls *.md`
+do
+  echo $md_filename
+  sed -i "s/\[!\[Valid XHTML 1.0 Strict][(]valid-xhtml10.png[)]{width=\"88\"//" $md_filename
+  sed -i "s/height=\"31\"}][(]http:\/\/validator.w3.org\/check?uri=referer[)]//" $md_filename
+done
