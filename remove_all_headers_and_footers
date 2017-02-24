@@ -6,4 +6,5 @@ for md_filename in `ls *.md`
 do
   echo $md_filename
   sed -i "s/\[Go back to Richel Bilderbeek's homepage][(]index.htm[)].//" $md_filename
+  sed -i "s/\[Go back to Richel Bilderbeek's C++ page][(]Cpp.htm[)].//" $md_filename
 done
