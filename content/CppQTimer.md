@@ -17,7 +17,7 @@
 
  
 
-[QTimer](CppQTimer.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QTimer](CppQTimer.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md) [Qt Creator](CppQtCreator.md)) [How to draw on a QPixmap with using the GUI designer?](CppQtPixmapDrawGui.htm)
+([C++](Cpp.md) [Qt Creator](CppQtCreator.md)) [How to draw on a QPixmap with using the GUI designer?](CppQtPixmapDrawGui.md)
 ===============================================================================================================================
 
  

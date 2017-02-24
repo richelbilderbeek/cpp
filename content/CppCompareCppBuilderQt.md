@@ -18,15 +18,15 @@
  
 
   ------------------------------------- ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------
-  **[IDE](CppIde.md)**                 **[C++ Builder](CppBuilder.md)/RAD studio**                                 **[Qt Creator](CppQtCreator.htm)**
+  **[IDE](CppIde.md)**                 **[C++ Builder](CppBuilder.md)/RAD studio**                                 **[Qt Creator](CppQtCreator.md)**
   Owner                                 [Embarcadero Technologies](http://www.embarcadero.com)                       [Qt Development Frameworks](http://qt.nokia.com)
   Platform                              Windows                                                                      Linux, Macintosh, Windows and more
-  How to deploy on other platform       Use [emulator](CppEmulator.md) on executable,                               ([cross-](CppCrossCompile.md))[compile](CppCompile.htm) code on other platform
+  How to deploy on other platform       Use [emulator](CppEmulator.md) on executable,                               ([cross-](CppCrossCompile.md))[compile](CppCompile.md) code on other platform
   Licence                               One month trial or commercial                                                GPL or commercial
-  Default [compiler](CppCompiler.md)   [BCC32.EXE](CppBcc32Exe.md)                                                 [G++](CppGpp.htm)
-  [Boost](CppBoost.md) compatibility   [BCC32.EXE](CppBcc32Exe.md) is an unsupported [compiler](CppCompiler.htm)   [G++](CppGpp.htm) is a supported [compiler](CppCompiler.htm)
+  Default [compiler](CppCompiler.md)   [BCC32.EXE](CppBcc32Exe.md)                                                 [G++](CppGpp.md)
+  [Boost](CppBoost.md) compatibility   [BCC32.EXE](CppBcc32Exe.md) is an unsupported [compiler](CppCompiler.md)   [G++](CppGpp.md) is a supported [compiler](CppCompiler.htm)
   [Cpp11](Cpp11.md) adoption           Pre-standard adoption                                                        Adoption after publication of official [Cpp11](Cpp11.md) standard
-  Graphical libraries                   [CLX](CppClx.md) (abandoned), [VCL](CppVcl.md)                             [Qt](CppQt.htm)
+  Graphical libraries                   [CLX](CppClx.md) (abandoned), [VCL](CppVcl.md)                             [Qt](CppQt.md)
   ------------------------------------- ---------------------------------------------------------------------------- ---------------------------------------------------------------------------------
 
  

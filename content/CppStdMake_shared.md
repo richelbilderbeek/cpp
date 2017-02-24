@@ -18,7 +18,7 @@
  
 
 [std::make\_shared](CppStdMake_shared.md) is part of the
-[C++11](Cpp11.md) [STL](CppStl.md) [library](CppLibrary.htm) to create
+[C++11](Cpp11.md) [STL](CppStl.md) [library](CppLibrary.md) to create
 a [std::shared\_ptr](CppStdShared_ptr.md).
 
  

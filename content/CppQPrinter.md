@@ -17,7 +17,7 @@
 
  
 
-[QPrinter](CppQPrinter.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QPrinter](CppQPrinter.md) is a [Qt](CppQt.md) [class](CppClass.md)
 for a printer. [QPrinter](CppQPrinter.md) can also be used to render
 [PDF](CppPdf.md) documents.
 

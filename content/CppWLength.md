@@ -17,7 +17,7 @@
 
  
 
-[Wt::WLength](CppWLength.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WLength](CppWLength.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

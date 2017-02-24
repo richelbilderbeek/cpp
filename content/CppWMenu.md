@@ -17,7 +17,7 @@
 
  
 
-[Wt::WMenu](CppWMenu.md) is a [Wt](CppWt.md) [class](CppClass.htm) for
+[Wt::WMenu](CppWMenu.md) is a [Wt](CppWt.md) [class](CppClass.md) for
 displaying a menu.
 
  

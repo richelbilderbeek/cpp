@@ -64,7 +64,7 @@ zero:
 
  
 
-[replace\_if](CppReplace_if.md) [function](CppFunction.md) [definition](CppDefinition.htm)
+[replace\_if](CppReplace_if.md) [function](CppFunction.md) [definition](CppDefinition.md)
 --------------------------------------------------------------------------------------------
 
  

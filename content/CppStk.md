@@ -20,7 +20,7 @@
  
 
 The [STK](CppStk.md) (abbreviation for 'Systhesis ToolKit') is a free
-[C++](Cpp.md) [audio](CppAudio.md) [library](CppLibrary.htm).
+[C++](Cpp.md) [audio](CppAudio.md) [library](CppLibrary.md).
 
  
 

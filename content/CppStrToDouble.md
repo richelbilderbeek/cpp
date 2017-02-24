@@ -47,7 +47,7 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and the [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and the [STL](CppStl.md)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -70,7 +70,7 @@ Uses [std::atof](CppAtof.md).
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and the [Boost](CppBoost.htm) [library](CppLibrary.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) [StrToDouble](CppStrToDouble.md) using the [C++98](Cpp98.md) and the [Boost](CppBoost.md) [library](CppLibrary.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -93,7 +93,7 @@ Uses [boost::lexical\_cast](CppLexical_cast.md).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.md) using the [C++11](Cpp11.md) and the [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [StrToDouble](CppStrToDouble.md) using the [C++11](Cpp11.md) and the [STL](CppStl.md)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  

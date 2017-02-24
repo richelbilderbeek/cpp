@@ -17,7 +17,7 @@
 
  
 
-[QToolBox](CppQToolBox.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QToolBox](CppQToolBox.md) is a [Qt](CppQt.md) [class](CppClass.md)
 for a toolbox.
 
  

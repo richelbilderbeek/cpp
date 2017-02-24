@@ -101,7 +101,7 @@ Table of contents
 -   Question \#27: HasId on std::vector&lt;Person\*&gt;
 -   Question \#28: GetMaxId on std::vector&lt;Person\*&gt;
 -   Question \#29: GetAllTrue on
-    [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.htm)**&gt;
+    [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.md)**&gt;
 -   Question \#30: Get maximum value from
     [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person
     \*,**[int](CppInt.md)**&gt;
@@ -1026,7 +1026,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
  
 
-Question \#29: GetAllTrue on [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.htm)**&gt;
+Question \#29: GetAllTrue on [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.md)**&gt;
 --------------------------------------------------------------------------------------------------------
 
  
@@ -1056,7 +1056,7 @@ Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.md). You will need:
 
  
 
-Question \#30: Get maximum value from [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person \*,**[int](CppInt.htm)**&gt;
+Question \#30: Get maximum value from [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person \*,**[int](CppInt.md)**&gt;
 -----------------------------------------------------------------------------------------------------------------------------
 
  

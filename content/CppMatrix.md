@@ -37,9 +37,9 @@ There exists no std::matrix (yet).
 Possibilities are:
 
 1.  ![C++98](PicCpp98.png)![STL](PicStl.png)
-    [std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.htm)**&gt; &gt;
+    [std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt; &gt;
 2.  ![C++11](PicCpp11.png)![STL](PicStl.png)
-    [std::array](CppStdArray.md)&lt;[std::array](CppStdArray.md)&lt;**[int](CppInt.htm)**&gt; &gt;
+    [std::array](CppStdArray.md)&lt;[std::array](CppStdArray.md)&lt;**[int](CppInt.md)**&gt; &gt;
 3.  ![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.md)
 4.  ![Boost](PicBoost.png)
     [boost::numeric::ublas::matrix](CppUblasMatrix.md)
@@ -62,7 +62,7 @@ These possibilities are described below in more detail.
 
  
 
-![STL](PicStl.png) [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt; &gt;
+![STL](PicStl.png) [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt; &gt;
 -----------------------------------------------------------------------------------------------------------------
 
  
@@ -74,20 +74,20 @@ this collection are of the same size, one has a matrix.
  
 
 When using
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt; for a two-dimensional matrix, the choice between x-y-ordering or
 y-x-ordering must be made. The run-time speed difference does not reside
 in individual element read/write, but when obtaining a row or collumn:
 in a y-x-ordered
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt; an individual row can be obtained, in an x-y-ordered
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt; an individual collumn can be obtained.
 
  
 
 Below is an example of a y-x-ordered
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.htm)**&gt;
+[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt;.
 
  
@@ -106,7 +106,7 @@ Below is an example of a y-x-ordered
 
  
 
-### [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt; &gt; [code snippets](CppCodeSnippets.htm)
+### [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;[int](CppInt.md)&gt; &gt; [code snippets](CppCodeSnippets.md)
 
  
 

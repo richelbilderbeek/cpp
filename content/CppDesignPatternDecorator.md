@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Decorator](CppDesignPatternDecorator.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Decorator](CppDesignPatternDecorator.md) ([Design Pattern](CppDesignPattern.md))
 ====================================================================================================
 
  

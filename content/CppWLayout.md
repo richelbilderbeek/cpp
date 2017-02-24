@@ -17,7 +17,7 @@
 
  
 
-[Wt::WLayout](CppWLayout.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WLayout](CppWLayout.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

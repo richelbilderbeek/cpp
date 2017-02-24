@@ -18,7 +18,7 @@
  
 
 This Frequently Asked Questions section concerns both the [Qt
-Creator](CppQtCreator.md) [IDE](CppIde.md) and the [Qt](CppQt.htm)
+Creator](CppQtCreator.md) [IDE](CppIde.md) and the [Qt](CppQt.md)
 [library](CppLibrary.md).
 
  

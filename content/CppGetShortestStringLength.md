@@ -57,7 +57,7 @@ There are multiple versions of
 
  
 
-![C++98](PicCpp98.png) [GetShortestStringLength](CppGetShortestStringLength.md) using [C++98](Cpp98.md) and a [for](CppFor.htm)-loop
+![C++98](PicCpp98.png) [GetShortestStringLength](CppGetShortestStringLength.md) using [C++98](Cpp98.md) and a [for](CppFor.md)-loop
 --------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -76,7 +76,7 @@ There are multiple versions of
 
  
 
-![C++98](PicCpp98.png) [GetShortestStringLength](CppGetShortestStringLength.md) using [C++98](Cpp98.md) and a [global](CppGlobal.htm) [functor](CppFunctor.htm)
+![C++98](PicCpp98.png) [GetShortestStringLength](CppGetShortestStringLength.md) using [C++98](Cpp98.md) and a [global](CppGlobal.md) [functor](CppFunctor.md)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

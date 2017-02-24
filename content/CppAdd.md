@@ -48,7 +48,7 @@ There are multiple ways to perform [Add](CppAdd.md):
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -71,7 +71,7 @@ Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

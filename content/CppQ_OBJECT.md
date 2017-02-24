@@ -17,7 +17,7 @@
 
  
 
-[Q\_OBJECT](CppQ_OBJECT.md) is a [Qt](CppQt.md) [macro](CppMacro.htm)
+[Q\_OBJECT](CppQ_OBJECT.md) is a [Qt](CppQt.md) [macro](CppMacro.md)
 that every [class](CppClass.md) [derived](CppDerivedClass.md) from
 [QObject](CppQObject.md) that uses [signals](CppSignal.md) and
 [slots](CppSlot.md) must have in its [declaration](CppDeclaration.md).

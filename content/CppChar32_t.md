@@ -35,7 +35,7 @@ be used, depending on the [standard](CppStandard.md) used:
 
  
 
-![C++98](PicCpp98.png) [char32\_t](CppChar32_t.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [char32\_t](CppChar32_t.md) in the [C++98](Cpp98.md) [standard](CppStandard.md)
 ---------------------------------------------------------------------------------------------------------
 
  
@@ -68,7 +68,7 @@ Compiler output:
 
  
 
-![C++11](PicCpp11.png) [char32\_t](CppChar32_t.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [char32\_t](CppChar32_t.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 ---------------------------------------------------------------------------------------------------------
 
  

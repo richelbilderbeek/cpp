@@ -30,7 +30,7 @@ about communication with the user.
 
  
 
-[User I/O](CppUserIo.md) [STL](CppStl.md) [functions](CppFunction.htm) and [data types](CppDataType.htm)
+[User I/O](CppUserIo.md) [STL](CppStl.md) [functions](CppFunction.md) and [data types](CppDataType.md)
 ----------------------------------------------------------------------------------------------------------
 
  

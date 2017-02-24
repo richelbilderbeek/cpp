@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable? Approach 20: Hello World](CppQtCrosscompileToWindowsExample20.md), changing [project file](CppQtProjectFile.htm)
+([C++](Cpp.md)) ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable? Approach 20: Hello World](CppQtCrosscompileToWindowsExample20.md), changing [project file](CppQtProjectFile.md)
 =====================================================================================================================================================================================================================================================================================================================================================================
 
  

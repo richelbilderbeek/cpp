@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtMatrix](CppQtMatrix.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QtMatrix](CppQtMatrix.md) is a [Qt](CppQt.md) [class](CppClass.md)
 to display an [Matrix](CppMatrix.md).
 
 Technical facts

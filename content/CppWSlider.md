@@ -17,7 +17,7 @@
 
  
 
-[Wt::WSlider](CppWSlider.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WSlider](CppWSlider.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a slider.
 
  

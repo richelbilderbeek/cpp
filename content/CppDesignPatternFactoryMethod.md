@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Factory Method](CppDesignPatternFactoryMethod.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Factory Method](CppDesignPatternFactoryMethod.md) ([Design Pattern](CppDesignPattern.md))
 =============================================================================================================
 
  

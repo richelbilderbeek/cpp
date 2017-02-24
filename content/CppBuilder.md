@@ -18,7 +18,7 @@
  
 
 [C++ Builder](CppBuilder.md) is a [Windows-only](CppWindows.md)
-[C++](Cpp.md) [IDE](CppIde.md) that uses the [VCL](CppVcl.htm)
+[C++](Cpp.md) [IDE](CppIde.md) that uses the [VCL](CppVcl.md)
 [library](CppLibrary.md) for [GUI](CppGui.md) development.
 
  

@@ -18,7 +18,7 @@
  
 
 This [FAQ](CppFaq.md) is about [porting](CppPort.md) the
-[CLN](CppCln.md) [library](CppLibrary.md) from [Cygwin](CppCygwin.htm)
+[CLN](CppCln.md) [library](CppLibrary.md) from [Cygwin](CppCygwin.md)
 (under Windows) to Windows.
 
  

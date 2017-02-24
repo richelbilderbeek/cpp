@@ -119,7 +119,7 @@ There are two options:
 
  
 
-### Change the first [argument](CppArgument.md)'s [data type](CppDataType.md) to [unsigned](CppUnsigned.htm) [int](CppInt.htm)
+### Change the first [argument](CppArgument.md)'s [data type](CppDataType.md) to [unsigned](CppUnsigned.md) [int](CppInt.md)
 
  
 

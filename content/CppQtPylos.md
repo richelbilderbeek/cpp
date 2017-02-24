@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CppQtPylos](CppQtPylos.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[CppQtPylos](CppQtPylos.md) is a [Qt](CppQt.md) [class](CppClass.md)
 for displaying a Pylos game.
 
 Technical facts

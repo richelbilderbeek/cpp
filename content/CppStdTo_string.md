@@ -19,7 +19,7 @@
 
 [std::to\_string](CppTo_string.md) is a [C++11](Cpp11.md)
 [STL](CppStl.md) [function](CppFunction.md) to
-[convert](CppConvert.md) a [bool](CppBool.md), [double](CppDouble.htm)
+[convert](CppConvert.md) a [bool](CppBool.md), [double](CppDouble.md)
 or [integer](CppInt.md) to [std::string](CppString.md).
 
  

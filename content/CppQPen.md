@@ -17,7 +17,7 @@
 
  
 
-[QPen](CppQPen.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
+[QPen](CppQPen.md) is a [Qt](CppQt.md) [class](CppClass.md) for a
 pen.
 
  

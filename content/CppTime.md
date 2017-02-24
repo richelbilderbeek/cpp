@@ -70,7 +70,7 @@ used.
 
  
 
-[STL](CppStl.md) time [functions](CppFunction.md) and [structs](CppStruct.htm)
+[STL](CppStl.md) time [functions](CppFunction.md) and [structs](CppStruct.md)
 --------------------------------------------------------------------------------
 
  

@@ -66,7 +66,7 @@ will remain incomplete.
     [pointers](CppPointer.md)
 -   <http://sourceforge.net/projects/nn-utility>: acceptable source
     code, except for use of
-    [pointers](CppPointer.md)-to-[pointers](CppPointer.md)-to-[pointers](CppPointer.htm),
+    [pointers](CppPointer.md)-to-[pointers](CppPointer.md)-to-[pointers](CppPointer.md),
     [class](CppClass.md) names in UPPERCASE
 -   <http://www.paraschopra.com/sourcecode/index.php>: example how NOT
     to program: use of [macro](CppMacro.md)'s, explicit write of

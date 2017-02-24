@@ -23,7 +23,7 @@ denotes the [data type](CppDataType.md) it [returns](CppReturn.md).
  
 
 For example, the [function](CppFunction.md) below,
-[ToInt](CppToInt.md), [returns](CppReturn.md) an [int](CppInt.htm), so
+[ToInt](CppToInt.md), [returns](CppReturn.md) an [int](CppInt.md), so
 its [return type](CppReturnType.md) is [int](CppInt.md).
 
  

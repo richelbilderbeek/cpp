@@ -20,7 +20,7 @@
 [std::bad\_alloc](CppBad_alloc.md) is an [exception](CppException.md)
 and a [derived class](CppDerivedClass.md) from
 [std::exception](CppException.md). [std::bad\_alloc](CppBad_alloc.md)
-is [thrown](CppThrow.md) by [new](CppNew.md) when [new](CppNew.htm)
+is [thrown](CppThrow.md) by [new](CppNew.md) when [new](CppNew.md)
 fails.
 
  

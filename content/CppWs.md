@@ -17,7 +17,7 @@
 
  
 
-[std::ws](CppWs.md) is an [STL](CppStl.md) [stream](CppStream.htm)
+[std::ws](CppWs.md) is an [STL](CppStl.md) [stream](CppStream.md)
 modifier to discard whitespace up until the following character.
 
  

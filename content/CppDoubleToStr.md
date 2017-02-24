@@ -52,7 +52,7 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and the [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and the [STL](CppStl.md)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -76,7 +76,7 @@ FAQ Lite](http://www.parashift.com/c++-faq-lite).
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and the [Boost](CppBoost.htm) [library](CppLibrary.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) [DoubleToStr](CppDoubleToStr.md) using the [C++98](Cpp98.md) and the [Boost](CppBoost.md) [library](CppLibrary.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -95,7 +95,7 @@ FAQ Lite](http://www.parashift.com/c++-faq-lite).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.md) using the [C++11](Cpp11.md) and the [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [DoubleToStr](CppDoubleToStr.md) using the [C++11](Cpp11.md) and the [STL](CppStl.md)
 ---------------------------------------------------------------------------------------------------------------------------------
 
  

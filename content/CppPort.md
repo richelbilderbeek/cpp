@@ -49,7 +49,7 @@ multiple ways:
     [libraries](CppLibrary.md) on a computer with environment B
     installed. [Qt Creator is an example of a
     cross-platform](CppQtCreator.md)[IDE](CppIde.md). The
-    [STL](CppStl.md), [Boost](CppBoost.md) and [Qt](CppQt.htm)
+    [STL](CppStl.md), [Boost](CppBoost.md) and [Qt](CppQt.md)
     [libraries](CppLibrary.md) are examples of cross-platform
     [libraries](CppLibrary.md)
 3.  [Compile](CppCompile.md) the same code under the same
@@ -77,7 +77,7 @@ Items \#2 and \#3 are described below.
 
  
 
-![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![any platform](PicTransparent.png) How to [port](CppPort.md) your code from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.htm) to another [operating system](CppOs.htm)?
+![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![any platform](PicTransparent.png) How to [port](CppPort.md) your code from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.md) to another [operating system](CppOs.md)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

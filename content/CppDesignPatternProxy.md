@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Proxy](CppDesignPatternProxy.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Proxy](CppDesignPatternProxy.md) ([Design Pattern](CppDesignPattern.md))
 ============================================================================================
 
  

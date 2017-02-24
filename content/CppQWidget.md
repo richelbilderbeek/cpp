@@ -17,7 +17,7 @@
 
  
 
-[QWidget](CppQWidget.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QWidget](CppQWidget.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

@@ -34,7 +34,7 @@ sizes in a (one-dimensional) [std::vector](CppVector.md).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [GetSizes](CppGetSizes.md) using a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [GetSizes](CppGetSizes.md) using a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.md)
 --------------------------------------------------------------------------------------------------------------------------------------------
 
  

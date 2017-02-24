@@ -30,7 +30,7 @@ This page is about [sorting](CppSort.md) and the [STL](CppStl.md)
 
  
 
-[STL](CppStl.md) [sorting](CppSort.md) [algorithms](CppAlgorithm.htm)
+[STL](CppStl.md) [sorting](CppSort.md) [algorithms](CppAlgorithm.md)
 -----------------------------------------------------------------------
 
  

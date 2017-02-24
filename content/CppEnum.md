@@ -89,7 +89,7 @@ to use [globals](CppGlobal.md) \[1-4\].
 
  
 
-![C++98](PicCpp98.png)![C++11](PicCpp11.png) Example how to define an [enum](CppEnum.md) and [overloading](CppOverload.md) [operator](CppOperator.htm)[&lt;&lt;](CppOperatorStreamOut.htm) for it
+![C++98](PicCpp98.png)![C++11](PicCpp11.png) Example how to define an [enum](CppEnum.md) and [overloading](CppOverload.md) [operator](CppOperator.md)[&lt;&lt;](CppOperatorStreamOut.md) for it
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

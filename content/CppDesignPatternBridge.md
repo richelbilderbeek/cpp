@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Bridge](CppDesignPatternBridge.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Bridge](CppDesignPatternBridge.md) ([Design Pattern](CppDesignPattern.md))
 ==============================================================================================
 
  

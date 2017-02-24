@@ -234,7 +234,7 @@ except its *only, single* [friend](CppFriend.md). This makes Thing more
 
  
 
-### 3.1.1) [Befriending](CppFriend.md) the [main](CppMain.md) [function](CppFunction.htm)
+### 3.1.1) [Befriending](CppFriend.md) the [main](CppMain.md) [function](CppFunction.md)
 
  
 

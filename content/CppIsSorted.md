@@ -47,7 +47,7 @@ There are multiple versions of [IsSorted](CppIsSorted.md):
 
  
 
-![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for [std::vector](CppVector.md) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
+![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for [std::vector](CppVector.md) using the [C++98](Cpp98.md) [STL](CppStl.md)
 ----------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -66,7 +66,7 @@ There are multiple versions of [IsSorted](CppIsSorted.md):
 
  
 
-![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for a [std::vector](CppVector.md) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
+![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for a [std::vector](CppVector.md) using the [C++98](Cpp98.md) [STL](CppStl.md)
 ------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -85,7 +85,7 @@ There are multiple versions of [IsSorted](CppIsSorted.md):
 
  
 
-![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for any [container](CppContainer.md) using the [C++98](Cpp98.htm) [STL](CppStl.htm)
+![C++98](PicCpp98.png) [IsSorted](CppIsSorted.md) for any [container](CppContainer.md) using the [C++98](Cpp98.md) [STL](CppStl.md)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -104,7 +104,7 @@ There are multiple versions of [IsSorted](CppIsSorted.md):
 
  
 
-![C++11](PicCpp11.png) [IsSorted](CppIsSorted.md) for any [container](CppContainer.md) using the [C++11](Cpp11.htm) [STL](CppStl.htm)
+![C++11](PicCpp11.png) [IsSorted](CppIsSorted.md) for any [container](CppContainer.md) using the [C++11](Cpp11.md) [STL](CppStl.md)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
  

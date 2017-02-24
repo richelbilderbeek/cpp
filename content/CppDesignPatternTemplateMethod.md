@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Template Method](CppDesignPatternTemplateMethod.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Template Method](CppDesignPatternTemplateMethod.md) ([Design Pattern](CppDesignPattern.md))
 ===============================================================================================================
 
  

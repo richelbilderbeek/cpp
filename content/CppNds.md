@@ -47,7 +47,7 @@ For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 
  
 
-![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![NDS](PicNds.png) [cross compiling](CppCrossCompile.md) from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.htm) to [NDS](CppNds.htm)
+![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![NDS](PicNds.png) [cross compiling](CppCrossCompile.md) from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.md) to [NDS](CppNds.md)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

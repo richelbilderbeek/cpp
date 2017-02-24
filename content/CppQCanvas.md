@@ -17,7 +17,7 @@
 
  
 
-[QCanvas](CppQCanvas.md) is a [Qt](CppQt.md) [class](CppClass.htm) for
+[QCanvas](CppQCanvas.md) is a [Qt](CppQt.md) [class](CppClass.md) for
 a canvas.
 
  

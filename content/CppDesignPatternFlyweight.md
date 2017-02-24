@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Flyweight](CppDesignPatternFlyweight.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Flyweight](CppDesignPatternFlyweight.md) ([Design Pattern](CppDesignPattern.md))
 ====================================================================================================
 
  

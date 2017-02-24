@@ -54,7 +54,7 @@ into the function. This makes the answer:
 
  
 
-1) [Declare](CppDeclaration.md) the [main](CppMain.md) [function](CppFunction.htm)
+1) [Declare](CppDeclaration.md) the [main](CppMain.md) [function](CppFunction.md)
 ------------------------------------------------------------------------------------
 
  

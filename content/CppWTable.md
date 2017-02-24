@@ -17,7 +17,7 @@
 
  
 
-[Wt::WTable](CppWTable.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WTable](CppWTable.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a table.
 
  

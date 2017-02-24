@@ -17,7 +17,7 @@
 
  
 
-[typeid](CppTypeid.md) is a [C++](Cpp.md) [keyword](CppKeyword.htm) to
+[typeid](CppTypeid.md) is a [C++](Cpp.md) [keyword](CppKeyword.md) to
 determine a [type](CppDataType.md) at runtime.
 
  

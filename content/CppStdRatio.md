@@ -17,7 +17,7 @@
 
  
 
-[std::ratio](CppRatio.md) is a [C++](Cpp11.md) [class](CppClass.htm)
+[std::ratio](CppRatio.md) is a [C++](Cpp11.md) [class](CppClass.md)
 for [compile-time](CppCompileTime.md) rational arithmetic.
 
  

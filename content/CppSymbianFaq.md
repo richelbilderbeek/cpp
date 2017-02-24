@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Symbian](CppSymbian.md) [Symbian FAQ](CppSymbianFaq.htm)
+([C++](Cpp.md)) [Symbian](CppSymbian.md) [Symbian FAQ](CppSymbianFaq.md)
 ===========================================================================
 
  

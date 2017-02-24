@@ -17,7 +17,7 @@
 
  
 
-[std::div\_t](CppDiv.md) is an [STL](CppStl.md) [class](CppClass.htm)
+[std::div\_t](CppDiv.md) is an [STL](CppStl.md) [class](CppClass.md)
 [returned](CppReturn.md) by [std::div](CppDiv.md).
 
  

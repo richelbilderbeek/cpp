@@ -17,7 +17,7 @@
 
  
 
-[Wt::WImage](CppWImage.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WImage](CppWImage.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for an image.
 
  

@@ -17,7 +17,7 @@
 
  
 
-[QString](CppQString.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QString](CppQString.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

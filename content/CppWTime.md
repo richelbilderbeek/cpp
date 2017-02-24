@@ -17,7 +17,7 @@
 
  
 
-[Wt::WTime](CppWTime.md) is a [Wt](CppWt.md) [class](CppClass.htm) for
+[Wt::WTime](CppWTime.md) is a [Wt](CppWt.md) [class](CppClass.md) for
 ...
 
  

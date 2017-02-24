@@ -17,7 +17,7 @@
 
  
 
-[QRect](CppQRect.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QRect](CppQRect.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

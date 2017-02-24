@@ -107,7 +107,7 @@ Therefore, the following two pieces of code are equivalent:
 
  
 
-![C++11](PicCpp11.png) [return](CppReturn.md) in a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.htm)
+![C++11](PicCpp11.png) [return](CppReturn.md) in a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.md)
 -------------------------------------------------------------------------------------------------------------------
 
  

@@ -48,7 +48,7 @@ Use [using](CppUsing.md)-directives for transition, for foundational
 
  
 
-Example: [using](CppUsing.md) to specify the [namespace(s)](CppNamespace.md) of the [data types](CppDataType.htm) used
+Example: [using](CppUsing.md) to specify the [namespace(s)](CppNamespace.md) of the [data types](CppDataType.md) used
 ------------------------------------------------------------------------------------------------------------------------
 
  

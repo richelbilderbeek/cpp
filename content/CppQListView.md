@@ -17,7 +17,7 @@
 
  
 
-[QListView](CppQListView.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QListView](CppQListView.md) is a [Qt](CppQt.md) [class](CppClass.md)
 for a View of a list.
 
  

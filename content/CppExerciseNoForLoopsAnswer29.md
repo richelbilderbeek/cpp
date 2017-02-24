@@ -30,7 +30,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-Question \#29: GetAllTrue on [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.htm)**&gt;
+Question \#29: GetAllTrue on [std::map](CppMap.md)&lt;**[int](CppInt.md)**,**[bool](CppBool.md)**&gt;
 --------------------------------------------------------------------------------------------------------
 
  

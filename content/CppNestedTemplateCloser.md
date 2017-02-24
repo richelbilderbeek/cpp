@@ -45,7 +45,7 @@ The [nested template closer](CppNestedTemplateCloser.md) depends on the
 
  
 
-![C++98](PicCpp98.png) [nested template closer](CppNestedTemplateCloser.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [nested template closer](CppNestedTemplateCloser.md) in the [C++98](Cpp98.md) [standard](CppStandard.md)
 ----------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -69,7 +69,7 @@ The [nested template closer](CppNestedTemplateCloser.md) must be '&gt;
 
  
 
-![C++11](PicCpp11.png) [nested template closer](CppNestedTemplateCloser.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [nested template closer](CppNestedTemplateCloser.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 ----------------------------------------------------------------------------------------------------------------------------------
 
  

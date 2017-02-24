@@ -17,7 +17,7 @@
 
  
 
-[std::tm](CppTm.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[std::tm](CppTm.md) is an [STL](CppStl.md) [time](CppTime.md)
 [class](CppClass.md) to contain a [date](CppTime.md) and
 [time](CppTime.md).
 

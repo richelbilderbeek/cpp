@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md) [Qt Creator](CppQtCreator.md)) [Showing an image](CppQtPixmap.htm)
+([C++](Cpp.md) [Qt Creator](CppQtCreator.md)) [Showing an image](CppQtPixmap.md)
 ===================================================================================
 
  

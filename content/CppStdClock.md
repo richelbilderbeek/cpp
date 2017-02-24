@@ -17,7 +17,7 @@
 
  
 
-[std::clock](CppClock.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[std::clock](CppClock.md) is an [STL](CppStl.md) [time](CppTime.md)
 [function](CppFunction.md) to obtain the number of ticks the program
 has been running.
 

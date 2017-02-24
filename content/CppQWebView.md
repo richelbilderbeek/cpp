@@ -17,7 +17,7 @@
 
  
 
-[QWebView](CppQWebView.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QWebView](CppQWebView.md) is a [Qt](CppQt.md) [class](CppClass.md)
 to display HTML.
 
  

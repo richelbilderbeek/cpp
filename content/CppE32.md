@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Symbian](CppSymbian.md) [E32](CppE32.htm)
+([C++](Cpp.md)) [Symbian](CppSymbian.md) [E32](CppE32.md)
 ============================================================
 
  

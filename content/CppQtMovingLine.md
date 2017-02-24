@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md) ![Qt](PicQt.png) [Qt Creator](CppQtCreator.md)) [Moving line](CppQtMovingLine.htm)
+([C++](Cpp.md) ![Qt](PicQt.png) [Qt Creator](CppQtCreator.md)) [Moving line](CppQtMovingLine.md)
 ===================================================================================================
 
  

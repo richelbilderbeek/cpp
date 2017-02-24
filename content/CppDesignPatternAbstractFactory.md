@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Abstract Factory](CppDesignPatternAbstractFactory.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Abstract Factory](CppDesignPatternAbstractFactory.md) ([Design Pattern](CppDesignPattern.md))
 =================================================================================================================
 
  

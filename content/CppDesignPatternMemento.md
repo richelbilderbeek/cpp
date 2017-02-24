@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Memento](CppDesignPatternMemento.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Memento](CppDesignPatternMemento.md) ([Design Pattern](CppDesignPattern.md))
 ================================================================================================
 
  

@@ -17,7 +17,7 @@
 
  
 
-[QKeyEvent](CppQKeyEvent.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QKeyEvent](CppQKeyEvent.md) is a [Qt](CppQt.md) [class](CppClass.md)
 for a key event.
 
  

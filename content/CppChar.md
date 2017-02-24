@@ -31,7 +31,7 @@ used to store a collection of [char](CppChar.md).
  
 
 Prefer plain [char](CppChar.md) over [signed](CppSigned.md)
-[char](CppChar.md) and [unsigned](CppUnsigned.md) [char](CppChar.htm)
+[char](CppChar.md) and [unsigned](CppUnsigned.md) [char](CppChar.md)
 \[1\]. Use [std::string](CppString.md) rather than zero-terminated
 [arrays](CppArray.md) of [chars](CppChar.md) \[2\].
 

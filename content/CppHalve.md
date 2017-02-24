@@ -84,7 +84,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-The[for](CppFor.md)-loop way on a [std::vector&lt;](CppVector.md)[double](CppDouble.htm)&gt;
+The[for](CppFor.md)-loop way on a [std::vector&lt;](CppVector.md)[double](CppDouble.md)&gt;
 ----------------------------------------------------------------------------------------------
 
  

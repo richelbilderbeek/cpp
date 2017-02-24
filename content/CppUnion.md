@@ -17,7 +17,7 @@
 
  
 
-[union](CppUnion.md) is a [C++](Cpp.md) [keyword](CppKeyword.htm) to
+[union](CppUnion.md) is a [C++](Cpp.md) [keyword](CppKeyword.md) to
 [declare](CppDeclaration.md) a [struct](CppStruct.md) that uses the
 same memory for all elements.
 

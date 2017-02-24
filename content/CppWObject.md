@@ -17,7 +17,7 @@
 
  
 
-[Wt::WObject](CppWObject.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WObject](CppWObject.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

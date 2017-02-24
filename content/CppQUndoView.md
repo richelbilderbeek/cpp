@@ -17,7 +17,7 @@
 
  
 
-[QUndoView](CppQUndoView.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QUndoView](CppQUndoView.md) is a [Qt](CppQt.md) [class](CppClass.md)
 to view a [QUndoStack](CppQUndoStack.md).
 
  

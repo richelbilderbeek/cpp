@@ -17,7 +17,7 @@
 
  
 
-[QColor](CppQColor.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
+[QColor](CppQColor.md) is a [Qt](CppQt.md) [class](CppClass.md) for a
 color.
 
  

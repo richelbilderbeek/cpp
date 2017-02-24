@@ -38,7 +38,7 @@ a technique that has different meanings, depending on the
 
  
 
-![C++98](PicCpp98.png) [enum class forward declaration](CppEnumClassForwardDeclaration.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [enum class forward declaration](CppEnumClassForwardDeclaration.md) in the [C++98](Cpp98.md) [standard](CppStandard.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -56,7 +56,7 @@ not supported in [C++98](Cpp98.md).
 
  
 
-![C++11](PicCpp11.png) [enum class forward declaration](CppEnumClassForwardDeclaration.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [enum class forward declaration](CppEnumClassForwardDeclaration.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
  

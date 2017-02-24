@@ -17,7 +17,7 @@
 
  
 
-[QBitmap](CppQBitmap.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QBitmap](CppQBitmap.md) is a [Qt](CppQt.md) [class](CppClass.md)
 used for masking/transparency in [QPixmap](CppQPixmap.md).
 [QBitmap](CppQBitmap.md) is a [class](CppClass.md) for containing
 monochrome (that is: each pixel is either on or off) images, instead of

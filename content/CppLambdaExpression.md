@@ -41,7 +41,7 @@ AddOne](CppExerciseAddOneAnswer.md).
 
  
 
-![C++98](PicCpp98.png) [lambda expression](CppLambdaExpression.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [lambda expression](CppLambdaExpression.md) in the [C++98](Cpp98.md) [standard](CppStandard.md)
 -------------------------------------------------------------------------------------------------------------------------
 
  
@@ -66,7 +66,7 @@ by the [C++98](Cpp98.md) [standard](CppStandard.md).
 
  
 
-![C++11](PicCpp11.png) [lambda expression](CppLambdaExpression.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [lambda expression](CppLambdaExpression.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 -------------------------------------------------------------------------------------------------------------------------
 
  
@@ -113,7 +113,7 @@ Let's zoom in at the [lambda expressions](CppLambdaExpression.md):
 The '\[\]' denotes that there is an empty capture list: the [lambda
 expressions](CppLambdaExpression.md) does not need to be fed a constant
 from its environment. The '(**[const](CppConst.md)**
-**[int](CppInt.md)** a, **[const](CppConst.md)** **[int](CppInt.htm)**
+**[int](CppInt.md)** a, **[const](CppConst.md)** **[int](CppInt.md)**
 b)' are the names and data types to [lambda
 expressions](CppLambdaExpression.md) works on: for
 [sorting](CppSort.md) one needs two [arguments](CppArgument.md): these
@@ -148,7 +148,7 @@ expressions](CppLambdaExpression.md).
 
  
 
-![C++11](PicCpp11.png) Program flow of a [lambda expression](CppLambdaExpression.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) Program flow of a [lambda expression](CppLambdaExpression.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
  

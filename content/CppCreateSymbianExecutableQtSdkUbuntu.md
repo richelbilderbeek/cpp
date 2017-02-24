@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Qt Creator](CppQtCreator.md)[Ubuntu](CppUbuntu.htm)[Symbian](CppSymbian.htm) [How to create a Symbian executable using the Qt SDK under Ubuntu?](CppCreateSymbianExecutableQtSdkUbuntu.htm)
+([C++](Cpp.md)) [Qt Creator](CppQtCreator.md)[Ubuntu](CppUbuntu.md)[Symbian](CppSymbian.md) [How to create a Symbian executable using the Qt SDK under Ubuntu?](CppCreateSymbianExecutableQtSdkUbuntu.htm)
 ==============================================================================================================================================================================================================
 
  

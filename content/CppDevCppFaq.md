@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md) [Dev C++](CppDevCpp.md)) [FAQ](CppDevCppFaq.htm)
+([C++](Cpp.md) [Dev C++](CppDevCpp.md)) [FAQ](CppDevCppFaq.md)
 =================================================================
 
  

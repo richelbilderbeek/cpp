@@ -17,7 +17,7 @@
 
  
 
-[Wt::WBorder](CppWBorder.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WBorder](CppWBorder.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for ...
 
  

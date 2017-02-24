@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md) [Qt](CppQt.md)) [How to make a clickable QLabel?](CppQtClickableLabel.htm)
+([C++](Cpp.md) [Qt](CppQt.md)) [How to make a clickable QLabel?](CppQtClickableLabel.md)
 ===========================================================================================
 
  

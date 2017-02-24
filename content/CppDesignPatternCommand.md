@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Command](CppDesignPatternCommand.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Command](CppDesignPatternCommand.md) ([Design Pattern](CppDesignPattern.md))
 ================================================================================================
 
  

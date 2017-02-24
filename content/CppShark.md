@@ -17,7 +17,7 @@
 
  
 
-[Shark](CppShark.md) is a [C++](Cpp.md) [library](CppLibrary.htm) for
+[Shark](CppShark.md) is a [C++](Cpp.md) [library](CppLibrary.md) for
 machine learning.
 
  

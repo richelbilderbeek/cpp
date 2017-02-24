@@ -17,7 +17,7 @@
 
  
 
-The [GCC](CppGcc.md)'s [C++](Cpp.md) [compiler](CppCompiler.htm).
+The [GCC](CppGcc.md)'s [C++](Cpp.md) [compiler](CppCompiler.md).
 
  
 

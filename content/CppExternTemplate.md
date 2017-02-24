@@ -36,7 +36,7 @@
 
  
 
-![C++98](PicCpp98.png) [extern template](CppExternTemplate.md) in the [C++98](Cpp98.md) [standard](CppStandard.htm)
+![C++98](PicCpp98.png) [extern template](CppExternTemplate.md) in the [C++98](Cpp98.md) [standard](CppStandard.md)
 ---------------------------------------------------------------------------------------------------------------------
 
  
@@ -54,7 +54,7 @@
 
  
 
-![C++11](PicCpp11.png) [extern template](CppExternTemplate.md) in the [C++11](Cpp11.md) [standard](CppStandard.htm)
+![C++11](PicCpp11.png) [extern template](CppExternTemplate.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 ---------------------------------------------------------------------------------------------------------------------
 
  

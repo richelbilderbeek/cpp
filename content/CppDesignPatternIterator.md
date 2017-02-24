@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Iterator](CppDesignPatternIterator.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Iterator](CppDesignPatternIterator.md) ([Design Pattern](CppDesignPattern.md))
 ==================================================================================================
 
  

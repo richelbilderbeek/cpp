@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Adapter](CppDesignPatternAdapter.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Adapter](CppDesignPatternAdapter.md) ([Design Pattern](CppDesignPattern.md))
 ================================================================================================
 
  

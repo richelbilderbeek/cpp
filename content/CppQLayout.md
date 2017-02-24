@@ -17,7 +17,7 @@
 
  
 
-[QLayout](CppQLayout.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QLayout](CppQLayout.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

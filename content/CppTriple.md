@@ -111,7 +111,7 @@ There are multiple ways to perform [Triple](CppTriple.md):
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) algorithm way on a [std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) algorithm way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 ----------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -135,7 +135,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.md) [lambda expressions](CppLambdaExpression.md) on a [std::vector](CppVector.htm)&lt;[int](CppInt.htm)&gt;
+![C++11](PicCpp11.png)![STL](PicStl.png) Using a [C++11](Cpp11.md) [lambda expressions](CppLambdaExpression.md) on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -154,7 +154,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-![C++98](PicCpp98.png) The [for](CppFor.md)-loop way on a [std::vector](CppVector.md)&lt;[int](CppInt.htm)&gt;
+![C++98](PicCpp98.png) The [for](CppFor.md)-loop way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
 ----------------------------------------------------------------------------------------------------------------
 
  

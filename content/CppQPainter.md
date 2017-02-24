@@ -17,7 +17,7 @@
 
  
 
-[QPainter](CppQPainter.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QPainter](CppQPainter.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

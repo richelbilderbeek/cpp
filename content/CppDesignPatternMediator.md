@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Mediator](CppDesignPatternMediator.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Mediator](CppDesignPatternMediator.md) ([Design Pattern](CppDesignPattern.md))
 ==================================================================================================
 
  

@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Singleton](CppDesignPatternSingleton.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Singleton](CppDesignPatternSingleton.md) ([Design Pattern](CppDesignPattern.md))
 ====================================================================================================
 
  

@@ -17,7 +17,7 @@
 
  
 
-[Wt::WPoint](CppWPoint.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WPoint](CppWPoint.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for ...
 
  

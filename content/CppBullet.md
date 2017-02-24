@@ -17,7 +17,7 @@
 
  
 
-[Bullet](CppBullet.md) is a [3D](Cpp3d.md) [physics](CppPhysics.htm)
+[Bullet](CppBullet.md) is a [3D](Cpp3d.md) [physics](CppPhysics.md)
 [library](CppLibrary.md).
 
  

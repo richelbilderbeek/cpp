@@ -17,7 +17,7 @@
 
  
 
-[signals](CppSignals.md) is a [Qt](CppQt.md) [keyword](CppKeyword.htm)
+[signals](CppSignals.md) is a [Qt](CppQt.md) [keyword](CppKeyword.md)
 to [declare](CppDeclaration.md) [Qt signals](CppQtSignals.md), so
 these [Qt signals](CppQtSignals.md) can become [emitted](CppEmit.md).
 

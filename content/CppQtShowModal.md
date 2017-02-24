@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) ![Qt](PicQt.png) [How to show a dialog modally?](CppQtShowModal.md) or [How to show a pop-up window?](CppQtShowModal.htm)
+([C++](Cpp.md)) ![Qt](PicQt.png) [How to show a dialog modally?](CppQtShowModal.md) or [How to show a pop-up window?](CppQtShowModal.md)
 ===========================================================================================================================================
 
  

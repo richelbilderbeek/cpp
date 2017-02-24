@@ -17,7 +17,7 @@
 
  
 
-[Wt::WBreak](CppWBreak.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WBreak](CppWBreak.md) is a [Wt](CppWt.md) [class](CppClass.md)
 to start a new line.
 
  

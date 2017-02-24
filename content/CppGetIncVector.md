@@ -45,7 +45,7 @@ Using [C++11](Cpp11.md) [std::iota](CppIota.md)
 
  
 
-[std::iota](CppIota.md) is in the [C++11](Cpp11.md) [STL](CppStl.htm)
+[std::iota](CppIota.md) is in the [C++11](Cpp11.md) [STL](CppStl.md)
 and can be found in the [header file](CppHeaderFile.md)
 [algorithm.h](CppAlgorithmH.md).
 

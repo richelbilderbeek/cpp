@@ -17,7 +17,7 @@
 
  
 
-[QImage](CppQImage.md) is a [Qt](CppQt.md) [class](CppClass.htm) to
+[QImage](CppQImage.md) is a [Qt](CppQt.md) [class](CppClass.md) to
 perform pixel manipulation on.
 
  

@@ -17,7 +17,7 @@
 
  
 
-[Wt::WSound](CppWSound.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WSound](CppWSound.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

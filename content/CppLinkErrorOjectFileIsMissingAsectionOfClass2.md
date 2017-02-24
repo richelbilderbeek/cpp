@@ -150,7 +150,7 @@ This solution is not recommended, because one should not use
 
  
 
-### Put the [global](CppGlobal.md) [variable](CppVariable.md) in a [namespace](CppNamespace.htm) (not recommended)
+### Put the [global](CppGlobal.md) [variable](CppVariable.md) in a [namespace](CppNamespace.md) (not recommended)
 
  
 
@@ -205,7 +205,7 @@ This solution is not recommended, because one should not use
 
  
 
-### Make the [global](CppGlobal.md) [variable](CppVariable.md) [static](CppStatic.htm) (not recommended)
+### Make the [global](CppGlobal.md) [variable](CppVariable.md) [static](CppStatic.md) (not recommended)
 
  
 

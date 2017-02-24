@@ -17,7 +17,7 @@
 
  
 
-[QPointer](CppQPointer.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QPointer](CppQPointer.md) is a [Qt](CppQt.md) [class](CppClass.md)
 to hold a [pointer](CppPointer.md). Such a [class](CppClass.md) is
 called a [smart pointer](CppSmartPointer.md), yet -in my humble
 opinion- [QPointer](CppQPointer.md) behaves unexpectedly.

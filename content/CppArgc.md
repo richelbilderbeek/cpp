@@ -18,7 +18,7 @@
  
 
 [argc](CppArgc.md) ('Argument Count') holds the size of
-[array](CppArray.md) [argv](CppArgv.md), where [argv](CppArgv.htm)
+[array](CppArray.md) [argv](CppArgv.md), where [argv](CppArgv.md)
 holds the first index of this [array](CppArray.md) of strings. With
 [argc](CppArgc.md) and [argv](CppArgv.md) you can access the arguments
 [main](CppMain.md) is called with from (by the [operating

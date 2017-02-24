@@ -154,7 +154,7 @@ I did the following things:
 
  
 
-Put the [GUI](CppGui.md) logic in a platform-independent [class](CppClass.md) called [TestAsciiArterDialog](CppTestAsciiArterDialog.htm)
+Put the [GUI](CppGui.md) logic in a platform-independent [class](CppClass.md) called [TestAsciiArterDialog](CppTestAsciiArterDialog.md)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -213,7 +213,7 @@ I did the following things:
 
  
 
-Put the [Qt](CppQt.md) [GUI](CppGui.md) functionality in a [class](CppClass.htm) called [QtTestAsciiArterDialog](CppQtTestAsciiArterDialog.htm)
+Put the [Qt](CppQt.md) [GUI](CppGui.md) functionality in a [class](CppClass.md) called [QtTestAsciiArterDialog](CppQtTestAsciiArterDialog.md)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
  

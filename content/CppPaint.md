@@ -41,7 +41,7 @@ snippets](CppCodeSnippets.md) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.md) using the [CLX](CppClx.md) [library](CppLibrary.htm)
+[Paint](CppPaint.md) using the [CLX](CppClx.md) [library](CppLibrary.md)
 ---------------------------------------------------------------------------
 
  
@@ -60,7 +60,7 @@ snippets](CppCodeSnippets.md) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.md) using the [Qt](CppQt.md) [library](CppLibrary.htm)
+[Paint](CppPaint.md) using the [Qt](CppQt.md) [library](CppLibrary.md)
 -------------------------------------------------------------------------
 
  
@@ -79,7 +79,7 @@ snippets](CppCodeSnippets.md) to paint an image to a single color fast.
 
  
 
-[Paint](CppPaint.md) using the [VCL](CppVcl.md) [library](CppLibrary.htm)
+[Paint](CppPaint.md) using the [VCL](CppVcl.md) [library](CppLibrary.md)
 ---------------------------------------------------------------------------
 
  

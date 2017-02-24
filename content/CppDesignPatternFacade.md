@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Facade](CppDesignPatternFacade.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Facade](CppDesignPatternFacade.md) ([Design Pattern](CppDesignPattern.md))
 ==============================================================================================
 
  

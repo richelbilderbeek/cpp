@@ -81,7 +81,7 @@ in a two-dimensional [container](CppContainer.md).
 
  
 
-### ![C++11](PicCpp11.png)![STL](PicStl.png) [Count](CppCount.md) using a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.htm)
+### ![C++11](PicCpp11.png)![STL](PicStl.png) [Count](CppCount.md) using a [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.md)
 
  
 

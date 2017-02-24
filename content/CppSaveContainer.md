@@ -31,7 +31,7 @@ save a [container](CppContainer.md) to file, one element per line.
 
  
 
-[SaveContainer](CppSaveContainer.md) using the [G++](CppGpp.md) (version 4.4.1) [compiler](CppCompiler.htm)
+[SaveContainer](CppSaveContainer.md) using the [G++](CppGpp.md) (version 4.4.1) [compiler](CppCompiler.md)
 -------------------------------------------------------------------------------------------------------------
 
  
@@ -50,7 +50,7 @@ save a [container](CppContainer.md) to file, one element per line.
 
  
 
-[SaveContainer](CppSaveContainer.md) using the [C++ Builder](CppBuilder.md) 6.0 [compiler](CppCompiler.htm)
+[SaveContainer](CppSaveContainer.md) using the [C++ Builder](CppBuilder.md) 6.0 [compiler](CppCompiler.md)
 -------------------------------------------------------------------------------------------------------------
 
  

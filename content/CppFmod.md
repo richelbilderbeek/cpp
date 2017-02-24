@@ -17,7 +17,7 @@
 
  
 
-[Fmod](CppFmod.md) is a [math](CppMath.md) [function](CppFunction.htm)
+[Fmod](CppFmod.md) is a [math](CppMath.md) [function](CppFunction.md)
 to perform a [modulus operation](CppOperatorModulus.md) on
 [doubles](CppDouble.md).
 

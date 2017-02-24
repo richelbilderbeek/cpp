@@ -53,7 +53,7 @@ code.
 
  
 
-Replacing a [for](CppFor.md) loop by an [algorithm](CppAlgorithm.md) using [std::bind2nd](CppBind2nd.htm) and [boost::bind](CppBind.htm)
+Replacing a [for](CppFor.md) loop by an [algorithm](CppAlgorithm.md) using [std::bind2nd](CppBind2nd.md) and [boost::bind](CppBind.md)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  

@@ -17,7 +17,7 @@
 
  
 
-[Wt::WLogger](CppWLogger.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WLogger](CppWLogger.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

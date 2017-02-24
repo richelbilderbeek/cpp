@@ -17,7 +17,7 @@
 
  
 
-[QPointF](CppQPointF.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QPointF](CppQPointF.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

@@ -23,7 +23,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [WtMysteryMachineWidget](CppWtMysteryMachineWidget.md) is a
-[Wt](CppWt.md) [widget](CppWidget.md) [class](CppClass.htm) to display
+[Wt](CppWt.md) [widget](CppWidget.md) [class](CppClass.md) to display
 an [MysteryMachineWidget](CppMysteryMachineWidget.md).
 
 Technical facts

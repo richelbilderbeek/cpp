@@ -17,7 +17,7 @@
 
  
 
-[Wt::WText](CppWText.md) is a [Wt](CppWt.md) [class](CppClass.htm) for
+[Wt::WText](CppWText.md) is a [Wt](CppWt.md) [class](CppClass.md) for
 a single line of uneditable text. It is possible to use
 [XHTML](CppXhtml.md) markup in the text.
 

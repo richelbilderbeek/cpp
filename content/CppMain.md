@@ -52,10 +52,10 @@ What does this all mean?
     [returning](CppReturn.md) an [integer](CppInt.md). This
     [integer](CppInt.md) is an error code given back to the [operating
     system](CppOs.md) the program has run on.
-2.  '(**[int](CppInt.md)** [argc](CppArgc.md), [char](CppChar.htm)\*
+2.  '(**[int](CppInt.md)** [argc](CppArgc.md), [char](CppChar.md)\*
     [argv](CppArgv.md)\[\])' means that the [function](CppFunction.md)
     takes two [arguments](CppArgument.md):
-    1.  '**[int](CppInt.md)** [argc](CppArgc.md)': [argc](CppArgc.htm)
+    1.  '**[int](CppInt.md)** [argc](CppArgc.md)': [argc](CppArgc.md)
         is an abbreviation of 'argument count'. It is a (positive)
         [integer](CppInt.md). This give you the number of parameters
         the user entered when starting the program, which equals 1 if he
@@ -190,7 +190,7 @@ Should I use int main() or int main(void)?
 
  
 
--   C: [int](CppInt.md) [main](CppMain.md)([void](CppVoid.htm)) \[9\]
+-   C: [int](CppInt.md) [main](CppMain.md)([void](CppVoid.md)) \[9\]
 -   C++: [int](CppInt.md) [main](CppMain.md)() \[9\]
 
  

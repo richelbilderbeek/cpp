@@ -17,7 +17,7 @@
 
  
 
-[std::iota](CppStdIota.md) is a [C++11](Cpp11.md) [STL](CppStl.htm)
+[std::iota](CppStdIota.md) is a [C++11](Cpp11.md) [STL](CppStl.md)
 [algorithm](CppAlgorithm.md).
 
 [std::iota](CppStdIota.md) can be found in the [header

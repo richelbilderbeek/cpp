@@ -93,7 +93,7 @@ file](CppHeaderFile.md) all functions and classes in
  
 
 As it pollutes the global [namespace](CppNamespace.md), avoid
-[using](CppUsing.md) [namespace](CppNamespace.md) [std](CppStd.htm)
+[using](CppUsing.md) [namespace](CppNamespace.md) [std](CppStd.md)
 \[4-5\].
 
  

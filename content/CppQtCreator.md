@@ -30,7 +30,7 @@ example [console](CppConsoleApplication.md),
  
 
 [Qt Creator](CppQtCreator.md) by default comes installed with the
-[STL](CppStl.md) and [Qt](CppQt.md) [libraries](CppLibrary.htm).
+[STL](CppStl.md) and [Qt](CppQt.md) [libraries](CppLibrary.md).
 
  
 

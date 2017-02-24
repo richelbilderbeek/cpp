@@ -17,7 +17,7 @@
 
  
 
-[std::time](CppStdTime.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[std::time](CppStdTime.md) is an [STL](CppStl.md) [time](CppTime.md)
 [function](CppFunction.md).
 
  

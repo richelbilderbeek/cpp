@@ -231,7 +231,7 @@ at high warning levels \[2\].
 
  
 
-![Qt Creator](PicQtCreator.png) How to let [compile warnings](CppCompileWarning.md) be treated like [compile errors](CppCompileError.md) in [Qt Creator](CppQtCreator.htm)?
+![Qt Creator](PicQtCreator.png) How to let [compile warnings](CppCompileWarning.md) be treated like [compile errors](CppCompileError.md) in [Qt Creator](CppQtCreator.md)?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

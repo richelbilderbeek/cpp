@@ -17,7 +17,7 @@
 
  
 
-[Wt::WPen](CppWPen.md) is a [Wt](CppWt.md) [class](CppClass.htm) for a
+[Wt::WPen](CppWPen.md) is a [Wt](CppWt.md) [class](CppClass.md) for a
 timer.
 
  

@@ -34,7 +34,7 @@ snippet](CppCodeSnippets.md) to draw a globe.
 
  
 
-[DrawGlobe](CppDrawGlobe.md) using the [Qt](CppQt.md) [library](CppLibrary.htm)
+[DrawGlobe](CppDrawGlobe.md) using the [Qt](CppQt.md) [library](CppLibrary.md)
 ---------------------------------------------------------------------------------
 
  
@@ -60,7 +60,7 @@ snippet](CppCodeSnippets.md) to draw a globe.
 
  
 
-[DrawGlobe](CppDrawGlobe.md) using the [VCL](CppVcl.md) [library](CppLibrary.htm)
+[DrawGlobe](CppDrawGlobe.md) using the [VCL](CppVcl.md) [library](CppLibrary.md)
 -----------------------------------------------------------------------------------
 
  

@@ -17,7 +17,7 @@
 
  
 
-[Wt::WTimer](CppWTimer.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WTimer](CppWTimer.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

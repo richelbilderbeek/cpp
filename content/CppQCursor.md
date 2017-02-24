@@ -17,7 +17,7 @@
 
  
 
-[QCursor](CppQCursor.md) is a [Qt](CppQt.md) [class](CppClass.htm).
+[QCursor](CppQCursor.md) is a [Qt](CppQt.md) [class](CppClass.md).
 
  
 

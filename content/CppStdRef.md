@@ -17,7 +17,7 @@
 
  
 
-The [std::ref](CppRef.md) is a [C++11](Cpp11.md) [class](CppClass.htm)
+The [std::ref](CppRef.md) is a [C++11](Cpp11.md) [class](CppClass.md)
 for wrapping [references](CppReference.md).
 
  

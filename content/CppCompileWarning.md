@@ -76,7 +76,7 @@ In the [project file](CppQtProjectFile.md), add the following line:
 
  
 
-![Qt Creator](PicQtCreator.png) How to add the [compile warnings](CppCompileWarning.md) of 'Effective C++' by [Scott Meyers](CppScottMeyers.md) in [Qt Creator](CppQtCreator.htm)?
+![Qt Creator](PicQtCreator.png) How to add the [compile warnings](CppCompileWarning.md) of 'Effective C++' by [Scott Meyers](CppScottMeyers.md) in [Qt Creator](CppQtCreator.md)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -99,7 +99,7 @@ In the [project file](CppQtProjectFile.md), add the following line:
 
  
 
-![Qt Creator](PicQtCreator.png) How to let [compile warnings](CppCompileWarning.md) be treated like [compile errors](CppCompileError.md) in [Qt Creator](CppQtCreator.htm)?
+![Qt Creator](PicQtCreator.png) How to let [compile warnings](CppCompileWarning.md) be treated like [compile errors](CppCompileError.md) in [Qt Creator](CppQtCreator.md)?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

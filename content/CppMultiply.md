@@ -54,7 +54,7 @@ Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\].
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and the [C++11](Cpp11.htm) [STL](CppStl.htm)
+![C++11](PicCpp11.png)![STL](PicStl.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and the [C++11](Cpp11.md) [STL](CppStl.md)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -73,7 +73,7 @@ Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\].
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and the [STL](CppStl.htm)
+![C++98](PicCpp98.png)![STL](PicStl.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and the [STL](CppStl.md)
 -------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -97,7 +97,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-![C++98](PicCpp98.png)![Boost](PicBoost.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and [Boost](CppBoost.htm)
+![C++98](PicCpp98.png)![Boost](PicBoost.png) [Multiply](CppMultiply.md) using an [algorithm](CppAlgorithm.md) and [Boost](CppBoost.md)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
  

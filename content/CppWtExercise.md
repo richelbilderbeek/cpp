@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[CppWtChess](CppWtChess.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[CppWtChess](CppWtChess.md) is a [Wt](CppWt.md) [class](CppClass.md)
 to display an exercise.
 
 Technical facts

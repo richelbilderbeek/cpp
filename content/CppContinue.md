@@ -18,7 +18,7 @@
  
 
 [continue](CppContinue.md) is a [keyword](CppKeyword.md) to skip the
-rest of a [for](CppFor.md)/[while](CppWhile.md)-[loop](CppLoop.htm)
+rest of a [for](CppFor.md)/[while](CppWhile.md)-[loop](CppLoop.md)
 and continue to perform the next.
 
  

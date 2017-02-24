@@ -17,7 +17,7 @@
 
  
 
-[slots](CppSlots.md) is a [Qt](CppQt.md) [keyword](CppKeyword.htm) to
+[slots](CppSlots.md) is a [Qt](CppQt.md) [keyword](CppKeyword.md) to
 [declare](CppDeclaration.md) slots, so [Qt signals](CppQtSignal.md)
 can be connected with them.
 

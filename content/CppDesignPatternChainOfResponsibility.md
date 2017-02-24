@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Chain Of Responsibility](CppDesignPatternChainOfResponsibility.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Chain Of Responsibility](CppDesignPatternChainOfResponsibility.md) ([Design Pattern](CppDesignPattern.md))
 ==============================================================================================================================
 
  

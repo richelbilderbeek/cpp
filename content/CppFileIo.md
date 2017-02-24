@@ -30,7 +30,7 @@ copying and searching.
 
  
 
-[File I/O](CppFileIo.md) [STL](CppStl.md) [functions](CppFunction.htm) and [data types](CppDataType.htm)
+[File I/O](CppFileIo.md) [STL](CppStl.md) [functions](CppFunction.md) and [data types](CppDataType.md)
 ----------------------------------------------------------------------------------------------------------
 
  

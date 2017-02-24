@@ -118,7 +118,7 @@ will not be easy, but even when it succeeds,
 
  
 
-![Boost](PicBoost.png) [Cast](CppCast.md) from [boost::shared\_ptr](CppBoostShared_ptr.md)&lt;[const](CppConst.htm) Test&gt; to [boost::shared\_ptr](CppBoostShared_ptr.htm)&lt;Test&gt;
+![Boost](PicBoost.png) [Cast](CppCast.md) from [boost::shared\_ptr](CppBoostShared_ptr.md)&lt;[const](CppConst.md) Test&gt; to [boost::shared\_ptr](CppBoostShared_ptr.md)&lt;Test&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

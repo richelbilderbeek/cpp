@@ -17,7 +17,7 @@
 
  
 
-[QBrush](CppQBrush.md) is a [Qt](CppQt.md) [class](CppClass.htm) for a
+[QBrush](CppQBrush.md) is a [Qt](CppQt.md) [class](CppClass.md) for a
 brush.
 
  

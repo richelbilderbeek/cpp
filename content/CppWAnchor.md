@@ -17,7 +17,7 @@
 
  
 
-[Wt::WAnchor](CppWAnchor.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WAnchor](CppWAnchor.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

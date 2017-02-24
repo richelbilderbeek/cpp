@@ -17,7 +17,7 @@
 
  
 
-[Rotate](CppRotate.md) is a [VCL](CppVcl.md) [math](CppMath.htm) [code
+[Rotate](CppRotate.md) is a [VCL](CppVcl.md) [math](CppMath.md) [code
 snippet](CppCodeSnippets.md) to rotate a [TImage](CppTImage.md) under
 any angle.
 

@@ -52,7 +52,7 @@ General
 
  
 
-[Member function](CppMemberFunction.md) or [friend](CppFriend.md)/non-[friend](CppFriend.htm) [helper function](CppHelperFunction.htm)?
+[Member function](CppMemberFunction.md) or [friend](CppFriend.md)/non-[friend](CppFriend.md) [helper function](CppHelperFunction.md)?
 -----------------------------------------------------------------------------------------------------------------------------------------
 
  

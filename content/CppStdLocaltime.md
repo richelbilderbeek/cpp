@@ -17,7 +17,7 @@
 
  
 
-[std::localtime](CppTm.md) is an [STL](CppStl.md) [time](CppTime.htm)
+[std::localtime](CppTm.md) is an [STL](CppStl.md) [time](CppTime.md)
 [function](CppFunction.md) to obtain the local [date](CppTime.md) and
 [time](CppTime.md).
 

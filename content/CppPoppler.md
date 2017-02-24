@@ -22,7 +22,7 @@
 
  
 
-The [Qt](CppQt.md) [class](CppClass.md) [QPrinter](CppQPrinter.htm)
+The [Qt](CppQt.md) [class](CppClass.md) [QPrinter](CppQPrinter.md)
 can also be used to render [PDF](CppPdf.md) documents.
 
  

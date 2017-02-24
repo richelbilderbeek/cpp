@@ -17,7 +17,7 @@
 
  
 
-[SLOT](CppSLOT.md) is a [Qt](CppQt.md) [macro](CppMacro.htm) that
+[SLOT](CppSLOT.md) is a [Qt](CppQt.md) [macro](CppMacro.md) that
 basically converts a [slot](CppSlot.md) to a string.
 
  

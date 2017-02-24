@@ -22,7 +22,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtChess](CppQtChess.md) has many [Qt](CppQt.md) [chess](CppChess.htm)
+[QtChess](CppQtChess.md) has many [Qt](CppQt.md) [chess](CppChess.md)
 [classes](CppClass.md)
 
 Technical facts

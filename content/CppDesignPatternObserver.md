@@ -12,7 +12,7 @@
 
  
 
-([C++](Cpp.md)) [Observer](CppDesignPatternObserver.md) ([Design Pattern](CppDesignPattern.htm))
+([C++](Cpp.md)) [Observer](CppDesignPatternObserver.md) ([Design Pattern](CppDesignPattern.md))
 ==================================================================================================
 
  

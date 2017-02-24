@@ -29,7 +29,7 @@
  
 
 Prefer plain [char](CppChar.md) over [signed](CppSigned.md)
-[char](CppChar.md) and [unsigned](CppUnsigned.md) [char](CppChar.htm)
+[char](CppChar.md) and [unsigned](CppUnsigned.md) [char](CppChar.md)
 \[1\]. Beware of [conversions](CppConvert.md) between
 [signed](CppSigned.md) and [unsigned](CppUnsigned.md)
 [types](CppDataType.md) \[2\].

@@ -76,7 +76,7 @@ to [emulate](CppEmulate.md) a UNIX environment.
 
  
 
-![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png) [cross compiling](CppCrossCompile.md) from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.htm) to [Windows](CppWindows.htm)
+![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Windows](PicWindows.png) [cross compiling](CppCrossCompile.md) from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.md) to [Windows](CppWindows.md)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -96,7 +96,7 @@ to [emulate](CppEmulate.md) a UNIX environment.
 
  
 
-![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) How to [port](CppPort.md) your code from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.htm) to another [Windows](CppWindows.htm)?
+![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png) How to [port](CppPort.md) your code from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.md) to another [Windows](CppWindows.md)?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

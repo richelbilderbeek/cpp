@@ -17,7 +17,7 @@
 
  
 
-[QtSvg](CppQtSvg.md) is a [QT](CppQt.md) [module](CppQtModule.htm) for
+[QtSvg](CppQtSvg.md) is a [QT](CppQt.md) [module](CppQtModule.md) for
 [scalable vector graphics](CppSvg.md).
 
  

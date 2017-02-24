@@ -19,7 +19,7 @@
 
 [argv](CppArgv.md) holds the first index of an [array](CppArray.md) of
 strings, where [argc](CppArgc.md) holds the size of
-[argv](CppArgv.md). With [argc](CppArgc.md) and [argv](CppArgv.htm)
+[argv](CppArgv.md). With [argc](CppArgc.md) and [argv](CppArgv.md)
 you can access the arguments [main](CppMain.md) is called with from (by
 the [operating system](CppOs.md)).
 

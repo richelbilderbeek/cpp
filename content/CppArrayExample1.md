@@ -47,7 +47,7 @@ The conclusions draws are (note that every 'Yes' is 'a good thing'):
  
 
   -------------------------------------------------------------- ---------------------------------- ----------------------------------- ------------------------------------ ------------------------------- -----------------------------------
-  Property tested                                                Statically allocated plain array   Dynamically allocated plain array   [std::tr1::array](CppTr1Array.md)   [std::array](CppStdArray.md)   [boost::array](CppBoostArray.htm)
+  Property tested                                                Statically allocated plain array   Dynamically allocated plain array   [std::tr1::array](CppTr1Array.md)   [std::array](CppStdArray.md)   [boost::array](CppBoostArray.md)
   Initialization at creation                                     Yes                                No                                  Yes                                  Yes                             Yes
   Initialization at creation checked against too few elements    No                                 N/A                                 No                                   No                              No
   Initialization at creation checked against too many elements   Yes                                N/A                                 Yes                                  Yes                             Yes

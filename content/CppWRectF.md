@@ -17,7 +17,7 @@
 
  
 
-[Wt::WRectF](CppWRectF.md) is a [Wt](CppWt.md) [class](CppClass.htm)
+[Wt::WRectF](CppWRectF.md) is a [Wt](CppWt.md) [class](CppClass.md)
 for a timer.
 
  

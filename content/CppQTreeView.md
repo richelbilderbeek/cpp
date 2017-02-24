@@ -17,7 +17,7 @@
 
  
 
-[QTreeView](CppQTreeView.md) is a [Qt](CppQt.md) [class](CppClass.htm)
+[QTreeView](CppQTreeView.md) is a [Qt](CppQt.md) [class](CppClass.md)
 for a View of a tree.
 
  
