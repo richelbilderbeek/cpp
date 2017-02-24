@@ -1,4 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
@@ -48,7 +48,7 @@ might want to [flush](CppFlush.htm), [std::clog](CppClog.htm) and
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
  
 

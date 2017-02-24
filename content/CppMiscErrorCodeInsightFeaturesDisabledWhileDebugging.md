@@ -1,4 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
@@ -89,7 +89,7 @@ Stop debugging or do not use Code Insight features while debugging.
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
  
 

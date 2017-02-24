@@ -1,4 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
@@ -37,7 +37,7 @@ depends on your [operating system](CppOs.htm) and [IDE](CppIde.htm):
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
  
 

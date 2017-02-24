@@ -1,4 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
@@ -39,7 +39,7 @@ under [Wine](CppWine.htm) is non-native ('real'), not everything works.
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
  
 

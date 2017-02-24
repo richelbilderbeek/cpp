@@ -1,4 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
@@ -114,7 +114,7 @@ Note that p1 and p2 have types as different as
 
 [Go back to Richel Bilderbeek's C++ page](Cpp.htm).
 
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
  
 

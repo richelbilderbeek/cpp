@@ -1,4 +1,4 @@
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
 [Go back to Richel Bilderbeek's tools](Tools.htm).
 
@@ -89,7 +89,7 @@ External links
 
 [Go back to Richel Bilderbeek's tools](Tools.htm).
 
-[Go back to Richel Bilderbeek's homepage](index.htm).
+
 
  
 
