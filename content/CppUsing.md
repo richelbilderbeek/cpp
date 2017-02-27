@@ -61,5 +61,7 @@ int main()
     'Prefer using over typedef for defining aliases'
 5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 2.7.3: 'Implement binary operators as free functions'
+7.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 3.2.3: ''
 
 
