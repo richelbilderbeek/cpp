@@ -58,7 +58,9 @@ function](CppFreeFunction.md).
     [thrown](CppThrow.md) by a [function](CppFunction.md) will be
     [thrown](CppThrow.md) \[1\]
 -   Implement binary [operators](CppOperator.md) as free [functions](CppFunction.md) [5]
-
+-   Do not use function template specialization [3]
+-   If you write [iterator](CppIterator.md)-based [functions](CppFunction.md), 
+    provide a user-friendly [interface](CppInterface.md) on top of them [4]
 
 ## External links
 
@@ -73,3 +75,7 @@ function](CppFreeFunction.md).
     thrown by a function will be thrown'
 2.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 2.7.3: 'Implement binary operators as free functions'
+3.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 3.6.2.1: 'Do not use function template specialization!'
+4.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 4.1.5: 'If you write iterator-based functions, provide a user-friendly interface on top of them'

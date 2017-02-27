@@ -40,8 +40,12 @@ int main()
     or within a [local](CppLocal.md) [scope](CppScope.md) [1] 
 -   Don't put a [using](CppUsing.md)-directive in a [header file](CppHeaderFile.md) [2,3] 
 -   Don't write a [using](CppUsing.md)-directive before an [#include](CppInclude.md) [3] 
--   Prefer [using](CppUsing.md) over [typedef](CppTypedef.md) for defining aliases [4]
-
+-   Prefer [using](CppUsing.md) over [typedef](CppTypedef.md) for defining aliases [4, 7]
+-   Do not qualify namespaces of function templates for which user-defined overloads might exist. 
+    Make the name visible by using [using](CppUsing.md) instead and call the function unqualified [6].
+    For example, do not call `std::swap` if the objects to-be-swapped are nonstandard. Use
+    `using std::swap` instead, then call `swap`. The compiler will use the nonstandard swap if
+    it exists
 
 ## [Reference](CppReferences.md)
 
@@ -61,7 +65,10 @@ int main()
     'Prefer using over typedef for defining aliases'
 5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 2.7.3: 'Implement binary operators as free functions'
+6.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 3.2.3: 'Do not qualify namespaces of function templates for which user-defined overloads might exist. Make the name 
+    visible instead and call the function unqualified'
 7.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
-    Chapter 3.2.3: ''
+    Chapter 3.4.4: 'Prefer using instead of typedef'
 
 

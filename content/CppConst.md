@@ -1,47 +1,15 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [const](CppConst.md)
-======================================
-
- 
+# ([C++](Cpp.md)) [const](CppConst.md)
 
 [const](CppConst.md) (an abbreviation of 'constant') is a
 [keyword](CppKeyword.md) to ensure read-only operations.
 
+```
+int main()
+{
+  const int dozen = 12;
+}
+```
  
-
-Use [const](CppConst.md) whenever possible \[1-6,14\].
-
- 
-
-Prefer [const](CppConst.md) over [\#define](CppDefine.md)s \[5\].
-Avoid [magic constants](CppMagicConstant.md) \[13\]. Avoid
-[constants](CppConst.md) at file scope in [header
-files](CppHeaderFile.md) \[11\].
-
- 
-
-Active use of [const](CppConst.md) is termed [const
-correctness](CppConstCorrect.md). Be [const
-correct](CppConstCorrect.md) \[7-10,12\].
-
- 
-
-  -------------------------------------------
-  ` int main() {   const int dozen = 12; }`
-  -------------------------------------------
-
- 
-
 There are five types of [const](CppConst.md):
 
 1.  [const variable](CppConstVariable.md)
@@ -50,43 +18,34 @@ There are five types of [const](CppConst.md):
 4.  [const member function](CppConstMemberFunction.md)
 5.  [const member](CppConstMember.md)
 
- 
-
 Using the [const](CppConst.md) [keyword](CppKeyword.md), design flaws
 can be spotted at [compile time](CppCompileTime.md).
 
+[Const is not deep](CppConstIsNotDeep.md) as one can [delete a pointer-to-const](CppDeletePointerToConst.md).
+
+Active use of [const](CppConst.md) is termed [const correctness](CppConstCorrect.md).
+
+In [function design](CppFunctionDesign.md) consider using: 
+
+ * [const arguments](CppConstArgument.md), whenever these need to be read-only
+ * [const variables](CppConstVariable.md), whenever these need not change after initialization
+ * In C++98 only: [const return types](CppConstReturnType.md)
+
+In [class design](CppClassDesign.md) consider using: 
+
+ * [const members](CppConstMember.md): for member variables that must not change after construction
+ * [const member functions](CppConstMemberFunction.md): for member functions that must not change the class's state
  
+## [Advice](CppAdvice.md)
 
-In [function design](CppFunctionDesign.md) consider using [const
-arguments](CppConstArgument.md), [const
-variables](CppConstVariable.md) and [const return
-types](CppConstReturnType.md).
+-   Use [const](CppConst.md) whenever possible [1-6,14].
+-   Be [const correct](CppConstCorrect.md) [7-10, 12]
+-   Prefer [const](CppConst.md) over [#define](CppDefine.md)s [5]
+-   Avoid [magic constants](CppMagicConstant.md) [13]
+-   Avoid [constants](CppConst.md) at file scope in [header files](CppHeaderFile.md) [11]
+-   Consider [casting away](CppConst_cast.md) [const](CppConst.md) only as the very last resort [15]
 
- 
-
-In [class design](CppClassDesign.md) you might consider using [const
-members](CppConstMember.md) and [const member
-functions](CppConstMemberFunction.md).
-
- 
-
-Be aware that [const is not deep](CppConstIsNotDeep.md) and that one
-can [delete a pointer-to-const](CppDeletePointerToConst.md).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4 7.9.3: 'Use const
@@ -131,16 +90,6 @@ can [delete a pointer-to-const](CppDeletePointerToConst.md).
 14. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
     Advice. page 341: '\[13\] Use const extensively and consistently'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+15. Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 5.2.3.2: 'Consider casting away const only as the very last resort'
 
