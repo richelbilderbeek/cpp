@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [class](CppClass.md)
-======================================
-
- 
+# ([C++](Cpp.md)) [class](CppClass.md)
 
 [class](CppClass.md) is a [keyword](CppKeyword.md) to start a
 [class](CppClass.md) [declaration](CppDeclaration.md). A
@@ -20,8 +6,6 @@
 a concept There are multiple [class access levels](CppAccessLevel.md).
 There are multiple [class types](CppClassType.md). There are multiple
 [class examples](CppClassExample.md).
-
- 
 
 'A [class](CppClass.md) is a user-defined [data type](CppDataType.md)
 which consists of data elements and [functions](CppFunction.md) which
@@ -33,8 +17,6 @@ as a [class](CppClass.md); it may also be
 [defined](CppDefinition.md) in a [class](CppClass.md) are called
 [member functions](CppMemberFunction.md).' \[2\]
 
- 
-
 Class elements are:
 
 -   [constructor](CppConstructor.md)
@@ -43,61 +25,42 @@ Class elements are:
 -   [members](CppMember.md)
 -   [helper functions](CppHelperFunction.md)
 
- 
-
 The [class](CppClass.md) [keyword](CppKeyword.md) also be used to
 create a [template function](CppTemplateFunction.md).
 
- 
+## ![C++98](PicCpp98.png)![C++11](PicCpp11.png) Example [class](CppClass.md)
 
- 
+```
+class my_class
+{
+  public: int m_value;
+};
 
- 
+int main()
+{
+  my_class m;
+  m.m_value = 10;
+}
+``` 
 
- 
-
- 
-
-![C++98](PicCpp98.png)![C++11](PicCpp11.png) Example [class](CppClass.md)
---------------------------------------------------------------------------
-
- 
-
-  --------------------------------------------------------------------------------------------
-  ` class MyClass {   public: int mValue; };   int main() {   MyClass m;   m.mValue = 10; }`
-  --------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Class](CppClass.md) elements
----------------------------------------------------------------------------
-
- 
+## ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [Class](CppClass.md) elements
 
 A [class](CppClass.md) can have many types of [members](CppMember.md):
 
--   [member functions](CppMemberFunction.md) or member
-    [functions](CppFunction.md), of which the [Big
-    Four](CppBigFour.md) are especially important
--   [data members](CppDataMember.md) or member
-    [variables](CppVariable.md)
+-   [member functions](CppMemberFunction.md) or member [functions](CppFunction.md), of which the [Big Four](CppBigFour.md) are especially important
+-   [data members](CppDataMember.md) or member [variables](CppVariable.md)
 -   member constants
 -   member types
 
  
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` struct MyClass {   //public by default   void SetX(const int x) { m_x = x; } //A member function   int m_x;                            //A data member };`
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
+class my_class
+{
+public:
+  void set_x(const int x) { m_x = x; } //A member function
+  int m_x;                             //A data member
+};
+```
  
 
 All [classes](CppClass.md) have a four special methods called the [Big
@@ -106,58 +69,48 @@ Four](CppBigFour.md): [default constructor](CppDefaultConstructor.md),
 constructor](CppCopyConstructor.md) and [copy assignment
 operator](CppCopyAssignmentOperator.md):
 
+```
+struct no_class {}; //Do all classes really have a constructor, destructor,
+                    //copy constructor and copy-assignment operator?
+```
  
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------
-  ` struct NoClass {}; //Do all classes really have a constructor, destructor,                    //copy constructor and copy-assignment operator?`
-  ---------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
-This class called NoClass is silently converted by your
+This class called `no_class` is silently converted by your
 [compiler](CppCompiler.md) to the following (from \[1\]):
 
- 
+```
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` struct NoClass {   NoClass()                              //Default constructor                    {     //something   }   NoClass(const NoClass& rhs)            //copy constructor   {     //something   }   ~NoClass()                             //Default destructor   {     //something   }   NoClass& operator=(const NoClass& rhs) //copy-assignment operator   {     //something   } };`
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+struct no_class
+{
+  no_class()                               //Default constructor                 
+  {
+    //something
+  }
+  no_class(const no_class& rhs)            //copy constructor
+  {
+    //something
+  }
+  ~no_class()                              //Default destructor
+  {
+    //something
+  }
+  no_class& operator=(const no_class& rhs) //copy-assignment operator
+  {
+    //something
+  }
+};
+``` 
 
- 
+## [Advice](CppAdvice.md)
 
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
-
--   Know what functions C++ silently writes and calls \[1\]
+-   Prefer class and use struct only for helper types with limited functionality and without invariants [5]
+-   Know what functions C++ silently writes and calls [1]
 -   Forgetting the semicolon at the end of a [class](CppClass.md)
     [definition](CppDefinition.md) is a [syntax
-    error](CppSyntaxError.md) \[3\]
--   Use UpperCamelCase for class names \[4\]
+    error](CppSyntaxError.md) [3]
+-   Class names should be in UpperCamelCase [4]
 
- 
 
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 5: 'Know what functions C++ silently
@@ -178,16 +131,6 @@ This class called NoClass is silently converted by your
     C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 4.2, page 18: 'Use
     UpperCamelCase for classes, constants, structures, enumerations, and
     typedefs'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 2.2.2.1: 'Prefer class and use struct only for helper types with limited functionality and without invariants'
 

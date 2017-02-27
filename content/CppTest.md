@@ -1,25 +1,9 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Test/test](CppTest.md)
-=========================================
-
- 
+# [Test/test](CppTest.md)
 
 [Testing](CppTest.md) is the process of validating your code. [TDD
 ('Test Driven Design')](CppTdd) is a type of software design techniques
 \[6\] that uses [testing](CppTest.md) to incrementally write and change
 software.
-
- 
 
 There are multiple types of [tests](CppTest.md), which overlap:
 
@@ -28,23 +12,10 @@ There are multiple types of [tests](CppTest.md), which overlap:
 -   [Graphical User Interface testing](CppGuiTest.md): check that the
     [GUI](CppGui.md) behaves as expected
 
- 
-
 [Boost.Test](CppBoostTest.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) for [testing](CppTest.md).
 
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   Distributing testing throughout the design hierarchy can be much
     more effective per testing dollar than testing at only the
@@ -65,21 +36,10 @@ There are multiple types of [tests](CppTest.md), which overlap:
     your [class](CppClass.md) looks like \[5\]
 -   The act of writing [test](CppTest.md) code will often show features
     or constraints you were previously unaware of \[5\]
+-   Test as many properties as you can [7]
 
- 
 
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
+## External links
 
 -   [Coverty Scan](https://scan.coverity.com/): free testing of your
     code
@@ -87,20 +47,7 @@ External links
     sponsored by the Department of Homeland Security (DHS) in the United
     States of America
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Section D.5. Principles, chapter 4, page
@@ -143,16 +90,7 @@ External links
     Test-Driven Development. 2013. ISBN: 978-1-937785-48-2. Introuction
     chapter, page xiv: 'Test-Driven Development (TDD), a software design
     technique devised in the late 1990s, \[...\]'
-
- 
-
- 
-
- 
-
- 
-
- 
-
+7.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 1.6: 'Test as many properties as you can'
  
 

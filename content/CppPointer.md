@@ -1,53 +1,20 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [pointer](CppPointer.md)
-==========================================
-
- 
+# [pointer](CppPointer.md)
 
 A [pointer](CppPointer.md) is a type that holds an
 [address](CppAddress.md).
 
- 
-
 A [pointer](CppPointer.md) can be initialized with the
 [keyword](CppKeyword.md) [new](CppNew.md), which reserves free space
 for the dynamically allocated [instance](CppInstance.md) and
-**[return](CppReturn.md)**s the [address](CppAddress.md) to it.
-
- 
+[returns](CppReturn.md) the [address](CppAddress.md) to it.
 
 [C++](Cpp.md) does not free this [memory](CppMemory.md) on its own.
 Therefore, you have to call [delete](CppDelete.md) to do so.
 
- 
-
 Reading/writing from/to an uninitialized [pointer](CppPointer.md)
 results in an [access violation](CppAccessViolation.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   Keep use of [pointers](CppPointer.md) simple and straightforward
     \[6\]
@@ -66,23 +33,11 @@ results in an [access violation](CppAccessViolation.md).
     as [arguments](CppArgument.md), except where "no object" is a
     reasonable option \[14,15\]
 -   Avoid [void\*](CppVoidPointer.md) except in low-level code \[12\]
+-   Only [return](CppReturn.md) [pointer](CppPointer.md) to dynamic allocated data, 
+    data that existed before the [function](CppFunction.md) was called, or 
+    [static](CppStatic.md) data [16]
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 13: 'Use objects to manage resources'.
@@ -137,16 +92,7 @@ results in an [access violation](CppAccessViolation.md).
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
     Advice. page 341: '\[11\] Pass a pointer if "no object" is a valid
     alternative (and represent "no object" by nullptr)'
+16.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 1.8.6: 'Only return pointers and references to dynamic allocated data, data that existed before the function was called, or static data'
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 

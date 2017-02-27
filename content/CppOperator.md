@@ -1,37 +1,11 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [operator](CppOperator.md)
-============================================
-
- 
+# ([C++](Cpp.md)) [operator](CppOperator.md)
 
 [Keyword](CppKeyword.md) to [overload](CppOverload.md) an
 [operator](CppOperator.md). An [operator](CppOperator.md) performs a
 [function](CppFunction.md) or [member function](CppMemberFunction.md).
 
- 
 
- 
-
- 
-
- 
-
- 
-
-Overview of operators (incomplete)
-----------------------------------
-
- 
+## Overview of operators (incomplete)
 
   ----------------------------------------------------------------------- -------------------------------------------------
   **[operator](CppOperator.md) name**                                    **[operator](CppOperator.md)**
@@ -81,40 +55,17 @@ Overview of operators (incomplete)
   [stream out operator](CppOperatorStreamOut.md)                         [&lt;&lt;](CppOperatorStreamOut.md)
   ----------------------------------------------------------------------- -------------------------------------------------
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   [Define](CppDefinition.md) [operators](CppOperator.md) primarily
-    to mimic conventional usage \[1\]
+    to mimic conventional usage [1]
 -   Place spaces on either side of a binary [operator](CppOperator.md)
-    \[2\]
+    [2]
+-   [Define](CppDefinition.md) [operators](CppOperator.md) consistently with each other and whenever appropriate provide semantics similar to those of standard types [3]
+-   Pay attention that the semantic/intended priority of your overloaded [operators](CppOperator.md) matches the priorities of [C++](Cpp.md) [operators](CppOperator.md) [4]
+-   Implement binary [operators](CppOperator.md) as free [functions](CppFunction.md) [5]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7.
@@ -125,16 +76,9 @@ Overview of operators (incomplete)
     Practice 2.7. page 28: 'Place spaces on either side of a
     binary operator. This will make the operator stand out and make the
     program more readable.'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+3.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 2.7.1: 'Define your operators consistently with each other and whenever appropriate provide semantics similar to those of standard types'
+4.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 2.7.2: 'Pay attention that the semantic/intended priority of your overloaded operators matches the priorities of C++ operators'
+5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 2.7.3: 'Implement binary operators as free functions'

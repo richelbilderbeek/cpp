@@ -1,11 +1,9 @@
-# C++
+# [C++](Cpp.md)
 
 This is my main page about the [C++](Cpp.md) language.
 
 C++ is not just object-oriented \[1\], nor just for generic programming
 \[2\], nor C with a few extensions \[3\].
-
- 
 
 -   [C++ code snippets](CppCodeSnippets.md): handy short pieces of code
 -   [C++ errors](CppError.md): my collection of [install
@@ -53,20 +51,7 @@ C++ is not just object-oriented \[1\], nor just for generic programming
 -   [C++ tools](Tools.md): use them, love them and download the source
     code of my tools
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   View [C++](Cpp.md) as a federation of languages \[4\]
 -   Write programs that are clear and easy to maintain \[3\]
@@ -79,41 +64,17 @@ C++ is not just object-oriented \[1\], nor just for generic programming
 -   Choose one style for brace placement \[9\]
 -   Break long statements into multiple lines \[10\]
 -   Include white space \[11\]
+-   Encapsulate the interface to C or Fortan in C++ [12]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
+## External links
 
 -   [WikiPedia's page about C++](http://en.wikipedia.org/wiki/C%2B%2B)
 -   [isocpp.org: C++ news](http://isocpp.org)
 -   [Software Engineering Code of Ethics and Professional
     Practice](http://www.acm.org/about/se-code)
 
- 
 
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Page 32, 1.5
@@ -151,3 +112,8 @@ External links
 11. Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of
     C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 3.1, page 13:
     'Include white space'
+12. Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 2.1: 'If you are ever forced to write software that interoperates with C or Fortan, write your software first with
+    a concise and inituitive interface in C++ for yourself and other C++ programmers and encapsulate the interface to the C and Fortran'
+    libraries so that it is not exposed to developers'
+
