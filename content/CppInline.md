@@ -1,20 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [inline](CppInline.md)
-========================================
-
- 
-
- 
+# ([C++](Cpp.md)) [inline](CppInline.md)
 
 [inline](CppInline.md) is a [keyword](CppKeyword.md) to suggest to the
 compiler to perhaps put that [function](CppFunction.md)'s body at the
@@ -22,69 +6,47 @@ call site and thus preventing a [function](CppFunction.md) call. To
 select a default [namespace](CppNamespace.md), use [inline
 namespace](CppInlineNamespace.md).
 
- 
+## [Advice](CppAdvice.md)
 
-Prefer [inline](CppInline.md) over [\#define](CppDefine.md) \[1,22\].
-
- 
-
-Understand the ins and outs of [inlining](CppInline.md) \[2,19\]. The
-criteria for inlining are complex, subtle and platform-dependent \[15\].
-Do not inline by default \[11\].
-
- 
+-   Prefer [inline](CppInline.md) over [\#define](CppDefine.md) [1,22]
+-   Understand the ins and outs of [inlining](CppInline.md) [2,19]. The
+    criteria for [inlining](CppInline.md) are complex, subtle and platform-dependent [15]
+-   Do not [inline](CppInline.md) by default [11]
 
 Use [inline](CppInline.md) when:
 
--   you know you need the performance boost from inlining tiny functions
-    \[12\]
--   performance measurements show the need \[18,20-21\]
+-   you know you need the performance boost from [inlining](CppInline.md) tiny functions [12]
+-   performance measurements show the need [18,20-21]
 -   the functions [inlined](CppInline.md) will have serious positive
-    impact on the performance of the system \[17\]
+    impact on the performance of the system [17]
 -   the [member function](CppMemberFunction.md) is a trivial accessor
-    or mutator function \[24\]
+    or mutator function [24]
 -   the [member function](CppMemberFunction.md) is a trivial forwarding
-    function \[25\]
-
- 
+    function [25]
 
 Avoid declaring a function [inline](CppInline.md) when:
 
--   the code is used in larger systems \[3\]
+-   the code is used in larger systems [3]
 -   the object code is larger than the object code produced by the
     equivalent non-[inline](CppInline.md) [function
-    call](CppFunctionCall.md) itself \[4\]. Do not break this rule
-    without performance analysis at the system level \[7\]
--   the functions has actively used loops or switch statements \[9\]
--   the function consists out of more than two expressions \[14\]
--   your compiler will not generate it [inline](CppInline.md) \[5\]
-
- 
+    call](CppFunctionCall.md) itself [4]. Do not break this rule
+    without performance analysis at the system level [7]
+-   the functions has actively used loops or switch statements [9]
+-   the function consists out of more than two expressions [14]
+-   your compiler will not generate it [inline](CppInline.md) [5]
 
 Some rules of thumb when these is no need to perform analysis at the
 system level:
 
--   Functions that merely get and set data members \[6,20\]
--   Function that consist of one or two statements \[23\]
--   Function that are less than five lines \[13\]
--   Function that are less than ten lines \[8\]
--   Function that are very small \[16\]
--   Function that are small and frequently called \[10\]
+-   Functions that merely get and set data members [6,20]
+-   Function that consist of one or two statements [23]
+-   Function that are short [26]
+-   Function that are less than five lines [13]
+-   Function that are less than ten lines [8]
+-   Function that are very small [16]
+-   Function that are small and frequently called [10]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 2: 'Prefer consts, enums, and inlines to
@@ -199,16 +161,6 @@ system level:
     Development and Demonstration Program. Document Number 2RDU00001
     Rev C. December 2005. AV Rule 124: 'Trivial forwarding functions
     should be inlined.'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+26. Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 7.2.3.2: 'Short functions should be inline and defined in headers. Large functions should be declared in headers and defined in source files'
 

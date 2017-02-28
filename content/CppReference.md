@@ -49,6 +49,8 @@ int main()
 const double& r = std::real(std::complex(3, 7)); //Bad [7]
 ```
 
+-   [Polymorphic](Polymorphism.md) types must always be passed by [reference](CppReference.md) or ([smart](CppSmartPointer.md)) [pointer](CppPointer.md) [8]
+
 ## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
@@ -75,3 +77,5 @@ const double& r = std::real(std::complex(3, 7)); //Bad [7]
     Chapter 1.8.6: 'Only return pointers and references to dynamic allocated data, data that existed before the function was called, or static data'
 7.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 2.6.1: 'Do not keep references of temporary expressions!'
+8.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 6.1.3: 'Polymorphic types must always be passed by reference or (smart) pointer!'

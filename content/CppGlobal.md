@@ -19,8 +19,8 @@ variables](CppLocalVersusGlobal.md).
 ## [References](CppReferences.md)
 
 1.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
-2.  Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. Gotcha
-    \#3: 'Avoid global variables'.
+2.  Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. 
+    Gotcha #3: 'Avoid global variables'.
 3.  [C++ FAQ Lite](http://www.parashift.com/c++-faq/global-vars.html):
     'The names of global variables should start with //' and 'Instead of
     using a global variable, you should seriously consider if there are
@@ -31,8 +31,7 @@ variables](CppLocalVersusGlobal.md).
 5.  [Jarrod Hollingworth](CppJarrodHollingworth.md) , Bob Swart, Mark
     Cashman, Paul Gustavson. Sams C++ Builder 6 Developer's Guide.
     ISBN: 0-672-32480-6. Chapter 3: 'Avoid using global variables'
-6.  [Jesse Liberty](CppJesseLiberty.md) . Sams teach yourself C++ in
-    24 hours. ISBN: 0-672-32224-2. Hour 5, paragraph 'Global variables':
+6.  [Jesse Liberty](CppJesseLiberty.md) . Sams teach yourself C++ in 24 hours. ISBN: 0-672-32224-2. Hour 5, paragraph 'Global variables':
     'In C++, global variables are avoided because they can create very
     confusing code that is hard to maintain.'
 7.  [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 18: 'Declare variables as locally
@@ -43,16 +42,3 @@ variables](CppLocalVersusGlobal.md).
     be avoided.'
 9.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 1.2.4.1: 'Do not use global variables'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

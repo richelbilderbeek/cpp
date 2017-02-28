@@ -1,80 +1,37 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Header file](CppHeaderFile.md)
-=================================================
-
- 
+# ([C++](Cpp.md)) [Header file](CppHeaderFile.md)
 
 [Header files](CppHeaderFile.md) contain the
 [declarations](CppDeclaration.md) of [functions](CppFunction.md) and
 [classes](CppClass.md).
 
- 
-
 [Header files](CppHeaderFile.md) commonly have the .h and .hpp filename
 extensions.
-
- 
 
 To use a [header file](CppHeaderFile.md), it must be
 [\#included](CppInclude.md) in the source code.
 
- 
-
-  --------------------------------------------------------------------------------------------------------------------
-  ` #include <iostream> #include "Widget.h"   int main() {   Widget w;   std::cout << "Hello world" << std::endl; }`
-  --------------------------------------------------------------------------------------------------------------------
-
- 
+```
+#include <iostream>
+#include "Widget.h"
+ 
+int main()
+{
+  Widget w;
+  std::cout << "Hello world" << std::endl;
+}
+```
 
 A [header (.h) file](CppHeaderFile.md) can (and commonly does) start
 with an [\#include guard](CppIncludeGuard.md). The combination of a
 [header (.h) file](CppHeaderFile.md) and an [implementation (.cpp)
 file](CppImplementationFile.md) is called a [unit](CppUnit.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Examples](CppExample.md)
---------------------------
-
- 
+## [Examples](CppExample.md)
 
 -   [Header file example 1: what does and does not belong in a header
     file](CppHeaderFileExample1.md) (from \[5\])
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Standard [header files](CppHeaderFile.md)
-------------------------------------------
-
- 
+## Standard [header files](CppHeaderFile.md)
 
 The [STL](CppStl.md) consists out of the following [header
 files](CppHeaderFile.md) \[3\]\[4\]:
@@ -199,20 +156,7 @@ files](CppHeaderFile.md) \[3\]\[4\]:
 80. ![ ](PicSpacer.png)![C++11](PicCpp11.png)
     [unordered\_set](CppUnordered_setH.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[Advice](CppAdvice.md)
------------------------
-
- 
+## [Advice](CppAdvice.md)
 
 -   Make [header files](CppHeaderFile.md) self-sufficient \[1,14\]
 -   Avoid non-[inline](CppInline.md) [function](CppFunction.md)
@@ -225,21 +169,10 @@ files](CppHeaderFile.md) \[3\]\[4\]:
 -   [include](CppInclude.md) user-defined [headers](CppHeaderFile.md)'
     names in quotes, [include](CppInclude.md) [STL](CppStl.md)
     [headers](CppHeaderFile.md)' names in angle brackets \[15\]
+-   Short [functions](CppFunction.md) should be [inlined](CppInline.md) and [defined](CppDefinition.md) in [headers](CppHeaderFile.md) [16]
+-   Large [functions](CppFunction.md) should be [declared](CppDeclaration.md) in [headers](CppHeaderFiel.md) and [defined](CppDefinition.md) in source files [16]
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Herb Sutter](CppHerbSutter.md), [Andrei
     Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
@@ -251,19 +184,17 @@ files](CppHeaderFile.md) \[3\]\[4\]:
     Item 24: 'Always write interal \#include guards. Never write
     external \#include guards'.
 3.  International C++ Standard, table 11
-4.  Draft of C++0x Standard, table 14 and 15, ISO/IEC JTC1 SC22 WG21 N
-    3290, Date: 2011-04-11, ISO/IEC FDIS 14882, ISO/IEC JTC1 SC22
-5.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
-    1996. ISBN: 0-201-63362-0. Chapter 1.1.3, figure 1-3, page 28
-6.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
-    1996. ISBN: 0-201-63362-0. Section D.2: Major Design Rules, Chapter
-    2, page 820: 'Avoid free functions (except operator functions) at
+4.  Draft of C++0x Standard, table 14 and 15, ISO/IEC JTC1 SC22 WG21 N 3290, Date: 2011-04-11, ISO/IEC FDIS 14882, ISO/IEC JTC1 SC22
+5.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. 
+    Chapter 1.1.3, figure 1-3, page 28
+6.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. 
+    Section D.2: Major Design Rules, Chapter 2, page 820: 'Avoid free functions (except operator functions) at
     file scope in .h files'
 7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
-    Language (3rd edition). 1997. ISBN: 0-201-88954-4. Section 9.5, item
-    4: 'Avoid non-inline function definitions in headers'
-8.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
-    1996. ISBN: 0-201-63362-0. Section 2.5, page 85: 'Place a
+    Language (3rd edition). 1997. ISBN: 0-201-88954-4. Section 9.5, 
+    item 4: 'Avoid non-inline function definitions in headers'
+8.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. 
+     Section 2.5, page 85: 'Place a
     redundant (external) include guard around each preprocessor include
     directive in every header file'
 9.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
@@ -289,22 +220,11 @@ files](CppHeaderFile.md) \[3\]\[4\]:
 14. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 15.5.
     Advice. page 444: '\[9\] Make headers self-contained'
-15. Paul Deitel, Harvey Deitel. C++11 for programmers (2nd edition).
-    2014. ISBN: 978-0-13-343985-4. Chapter 3.6, Error-Prevention
+15. Paul Deitel, Harvey Deitel. C++11 for programmers (2nd edition). 2014. ISBN: 978-0-13-343985-4. 
+    Chapter 3.6, Error-Prevention
     Tip 3.3. page 57: 'To ensure that the preprocessor can locate
     headers correctly, \#include preprocessing directives should place
     user-defined headers names in quotes \[...\] and place C++ Standard
     Library headers names in angle brackets \[...\]'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+16. Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 7.2.3.2: 'Short functions should be inline and defined in headers. Large functions should be declared in headers and defined in source files'

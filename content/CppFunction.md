@@ -57,10 +57,12 @@ function](CppFreeFunction.md).
 -   Assume that every [exception](CppException.md) that can be
     [thrown](CppThrow.md) by a [function](CppFunction.md) will be
     [thrown](CppThrow.md) \[1\]
--   Implement binary [operators](CppOperator.md) as free [functions](CppFunction.md) [5]
+-   Implement binary [operators](CppOperator.md) as free [functions](CppFunction.md) [2]
 -   Do not use function template specialization [3]
 -   If you write [iterator](CppIterator.md)-based [functions](CppFunction.md), 
     provide a user-friendly [interface](CppInterface.md) on top of them [4]
+-   Short [functions](CppFunction.md) should be [inlined](CppInline.md) and [defined](CppDefinition.md) in [headers](CppHeaderFile.md) [5]
+-   Large [functions](CppFunction.md) should be [declared](CppDeclaration.md) in [headers](CppHeaderFiel.md) and [defined](CppDefinition.md) in source files [5]
 
 ## External links
 
@@ -79,3 +81,6 @@ function](CppFreeFunction.md).
     Chapter 3.6.2.1: 'Do not use function template specialization!'
 4.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 4.1.5: 'If you write iterator-based functions, provide a user-friendly interface on top of them'
+5.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 7.2.3.2: 'Short functions should be inline and defined in headers. Large functions should be declared in headers and defined in source files'
+

@@ -16,26 +16,26 @@ results in an [access violation](CppAccessViolation.md).
 
 ## [Advice](CppAdvice.md)
 
--   Keep use of [pointers](CppPointer.md) simple and straightforward
-    \[6\]
+-   Keep use of [pointers](CppPointer.md) simple and straightforward [6]
 -   Initialize a [pointer](CppPointer.md) with
-    [nullptr](CppNullptr.md) \[8\] (in [C++11](Cpp11.md)) or the
-    [integer literal](CppIntegerLiteral.md) 0 \[4\] (in
+    [nullptr](CppNullptr.md) [8] (in [C++11](Cpp11.md)) or the
+    [integer literal](CppIntegerLiteral.md) 0 [4] (in
     [C++98](Cpp98.md)), rather than [NULL](CppNULL.md).
--   Avoid non-trivial [pointer](CppPointer.md) arithmetic \[5,7\]
+-   Avoid non-trivial [pointer](CppPointer.md) arithmetic [5,7]
 -   Prefer using a [smart pointer](CppSmartPointer.md) over a plain
-    [pointer](CppPointer.md) \[1-3\]
+    [pointer](CppPointer.md) [1-3]
 -   Keep [pointers](CppPointer.md) that represent ownership inside
-    handle [classes](CppClass.md) \[9-11\]
+    handle [classes](CppClass.md) [9-11]
 -   Use [const](CppConst.md) [pointers](CppPointer.md) to express
-    immutability in [interfaces](CppInterface.md) \[13\]
+    immutability in [interfaces](CppInterface.md) [13]
 -   Prefer [references](CppReference.md) to [pointers](CppPointer.md)
     as [arguments](CppArgument.md), except where "no object" is a
-    reasonable option \[14,15\]
--   Avoid [void\*](CppVoidPointer.md) except in low-level code \[12\]
+    reasonable option [14,15]
+-   Avoid [void*](CppVoidPointer.md) except in low-level code [12]
 -   Only [return](CppReturn.md) [pointer](CppPointer.md) to dynamic allocated data, 
     data that existed before the [function](CppFunction.md) was called, or 
     [static](CppStatic.md) data [16]
+-   [Polymorphic](Polymorphism.md) types must always be passed by [reference](CppReference.md) or ([smart](CppSmartPointer.md)) [pointer](CppPointer.md) [17]
 
 ## [References](CppReferences.md)
 
@@ -57,17 +57,17 @@ results in an [access violation](CppAccessViolation.md).
     'Avoid non-trivial [pointer](CppPointer.md) arithmetic'.
 6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
-    Advice, page 199: '\[1\] Keep use of pointers simple and
+    Advice, page 199: '[1] Keep use of pointers simple and
     straightforward'
 7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
-    Advice, page 199: '\[2\] Avoid nontrivial pointer arithmetic'
+    Advice, page 199: '[2] Avoid nontrivial pointer arithmetic'
 8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
-    Advice, page 199: '\[5\] Use nullptr rather than 0 or NULL'
+    Advice, page 199: '[5] Use nullptr rather than 0 or NULL'
 9.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
-    Advice, page 199: '\[11\] Keep pointers that represent ownership
+    Advice, page 199: '[11] Keep pointers that represent ownership
     inside handle classes'
 10. [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).
     ISBN: 0-321-33487-6. Item 13: 'Use objects to manage resources'.
@@ -82,17 +82,19 @@ results in an [access violation](CppAccessViolation.md).
     low-level code'
 13. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
-    Advice. page 199: '\[13\] Use const pointers and const references to
+    Advice. page 199: '[13] Use const pointers and const references to
     express immutability in interfaces'
 14. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
-    Advice. page 199: '\[14\] Prefer references to pointers as
+    Advice. page 199: '[14] Prefer references to pointers as
     arguments, except where "no object" is a reasonable option'
 15. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 12.7.
-    Advice. page 341: '\[11\] Pass a pointer if "no object" is a valid
+    Advice. page 341: '[11] Pass a pointer if "no object" is a valid
     alternative (and represent "no object" by nullptr)'
 16.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 1.8.6: 'Only return pointers and references to dynamic allocated data, data that existed before the function was called, or static data'
+17. Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
+    Chapter 6.1.3: 'Polymorphic types must always be passed by reference or (smart) pointer!'
 
 
