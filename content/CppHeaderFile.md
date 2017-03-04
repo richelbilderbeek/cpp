@@ -195,6 +195,7 @@ files](CppHeaderFile.md) \[3\]\[4\]:
 ## [Advice](CppAdvice.md)
 
 -   Make [header files](CppHeaderFile.md) self-sufficient \[1,14\]
+-   Don't put a [using](CppUsing.md)-directive in a [header file](CppHeaderFile.md) [18,19] 
 -   Avoid non-[inline](CppInline.md) [function](CppFunction.md)
     [definitions](CppDefinition.md) in [header
     files](CppHeaderFile.md) \[7,9,12\]
@@ -266,3 +267,11 @@ files](CppHeaderFile.md) \[3\]\[4\]:
     Chapter 7.2.3.2: 'Short functions should be inline and defined in headers. Large functions should be declared in headers and defined in source files'
 17. [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. 
     Chapter 1.1.3, Figure 1-3, page 28
+18. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
+    Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 14.5.
+    Advice. page 417: '\[11\] Don't put a using-directive in a header
+    file'
+19. [Herb Sutter](CppHerbSutter.md), [Andrei
+    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
+    rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
+    Item 59: 'Don't write namespace usings in a header file or before an #include'
