@@ -1,23 +1,6 @@
+# ([C++](Cpp.md)) [BoostGraphExample1](CppBoostGraphExample1.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostGraphExample1](CppBoostGraphExample1.md)
-================================================================
-
- 
-
-![Boost](PicBoost.png)![Qt
-Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
+Moved to [boost_graph_example_1](https://github.com/richelbilderbeek/boost_graph_example_1)
 
 [Boost.Graph example 1: four human names and their relationships +
 plotting](CppBoostGraphExample1.md) is a
@@ -25,88 +8,4 @@ plotting](CppBoostGraphExample1.md) is a
 graph of person names and their relationships. Then the graph is written
 to .dot file and plotted using KGraphViewer.
 
- 
-
--   [View the graph of this example (png)](CppBoostGraphExample1.png)
-
-Technical facts
----------------
-
- 
-
-[Operating system(s) or programming environment(s)](CppOs.md)
-
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
-
-[IDE(s)](CppIde.md):
-
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
-
-[Project type](CppQtProjectType.md):
-
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
-
-[C++ standard](CppStandard.md):
-
--   ![C++98](PicCpp98.png) [C++98](Cpp98.md)
-
-[Compiler(s)](CppCompiler.md):
-
--   [G++](CppGpp.md) 4.9.2
-
-[Libraries](CppLibrary.md) used:
-
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Qt project file](CppQtProjectFile.md): ./CppBoostGraphExample1/CppBoostGraphExample1.pro
-------------------------------------------------------------------------------------------
-
- 
-
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` include(../../ConsoleApplication.pri) #Or use the code below # QT += core # QT += gui # CONFIG   += console # CONFIG   -= app_bundle # TEMPLATE = app # CONFIG(release, debug|release) { #   DEFINES += NDEBUG NTRACE_BILDERBIKKEL # } # QMAKE_CXXFLAGS += -std=c++1y -Wall -Wextra -Weffc++ # unix { #   QMAKE_CXXFLAGS += -Werror # }  include(../../Libraries/Boost.pri) # win32 { #   INCLUDEPATH += \ #     ../../Libraries/boost_1_54_0 # }  SOURCES += main.cpp`
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-./CppBoostGraphExample1/main.cpp
---------------------------------
-
- 
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Weffc++" #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #include <boost/graph/adjacency_list.hpp> #include <boost/graph/graphviz.hpp> #pragma GCC diagnostic pop  int main() {   //Define the type of graph:   //boost::adjacency_list is the 'Swiss army knife' graph   typedef boost::adjacency_list   <     //Store all out edges as a std::vector     boost::vecS,     //Store all vertices in a std::vector     boost::vecS,     //Relations are both ways (in this example)     //(note: but you can freely change it to boost::directedS)     boost::undirectedS,     //All vertices are person names of type std::string     boost::property<boost::vertex_name_t,std::string>,     //All edges are relation of type std::string     boost::property<boost::edge_name_t,std::string>   > Graph;    Graph  g;    const Graph::vertex_descriptor v1 = boost::add_vertex(std::string("Mr. A"),g);   const Graph::vertex_descriptor v2 = boost::add_vertex(std::string("Mrs. B"),g);   const Graph::vertex_descriptor v3 = boost::add_vertex(std::string("Dr. C"),g);   const Graph::vertex_descriptor v4 = boost::add_vertex(std::string("Prof. D"),g);   boost::add_edge(v1,v2,std::string("Married"),g);   boost::add_edge(v2,v3,std::string("Lovers"),g);   boost::add_edge(v3,v4,std::string("Collegues"),g);   boost::add_edge(v1,v4,std::string("Roommates"),g);    //Writing graph to file   {     std::ofstream f("test.dot");     //Problems:     //- All names are replaced by numbers     //- All relationships are omitted     boost::write_graphviz(f,g);     f.close();   }    //View the output directly using KGraphViewerer   std::system("kgraphviewer test.dot"); }`
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+![Image created by this example](CppBoostGraphExample1.png)
