@@ -31,7 +31,7 @@ There are multiple types of [tests](CppTest.md), which overlap:
     be tested \[4\]
 -   Write the [test](CppTest.md) code to verify that your [class
     design](CppClassDesign.md) is complete \[5\]
--   Automate the running of your [tests](CppTest.md) \[4\]
+-   Automate the running of your [tests](CppTest.md) [4, 8]
 -   If you can’t write [test](CppTest.md) code, you don’t know what
     your [class](CppClass.md) looks like \[5\]
 -   The act of writing [test](CppTest.md) code will often show features
@@ -92,5 +92,5 @@ There are multiple types of [tests](CppTest.md), which overlap:
     technique devised in the late 1990s, \[...\]'
 7.  Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015.
     Chapter 1.6: 'Test as many properties as you can'
- 
-
+8.  Henney, Kevlin. 97 things every programmer should know: collective wisdom from the experts. " O'Reilly Media, Inc.", 2010. 
+    Rajith Attapattu. Chapter 'Test while you sleep (and over weekends)'
