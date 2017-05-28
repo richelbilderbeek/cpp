@@ -48,13 +48,14 @@ it will get its revenge.
 Henry Spencer
 ```
 
+
 ```
 Eerst is de compiler je vijand, 
 vervolgens je vriend, 
 vervolgens je vriendin.  
 
 Richel Bilderbeek
-``` 
+```
 
 Translation: at first, your compiler is your enemy, later it becomes
 your friend and later it becomes your girlfriend.
@@ -73,7 +74,7 @@ Translation: I am really sure that this is a valid index in my
 Waarom zou ik een array gebruiken? 
 Ik pak gewoon een StringGrid die ik onzichtbaar maak.  
 
-Joost van den Bogaart`
+Joost van den Bogaart
 ```
 
 Translation: Why would I want to use an array? I just use a StringGrid
