@@ -5,9 +5,9 @@ A [Hello World](CppHelloWorld.md) program for [NDS](CppNds.md), using
 simple. This page actually shows [how to cross-compile a 'Hello World'
 Qt Creator project from Ubuntu to NDS?](CppCrossCompileQtCreatorUbuntuHelloWorldToNds.md)
 
+![CppHelloWorldQtCreatorUbuntuNds](CppHelloWorldQtCreatorUbuntuNds.png)
 
  * [Download the Qt Creator project 'CppHelloWorldQtCreatorUbuntuNds' (zip)](CppHelloWorldQtCreatorUbuntuNds.zip)
- * [View a screenshot of 'CppHelloWorldQtCreatorUbuntuNds' (png)](CppHelloWorldQtCreatorUbuntuNds.png)
 
 The [tool](Tools.md) [ndsmake](ToolNdsmake.md) allows to
 [cross-compile](CppCrossCompile.md) directly from [Qt Creator](CppQtCreator.md) under Ubuntu to NDS.
