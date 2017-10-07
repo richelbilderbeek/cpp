@@ -11,13 +11,9 @@ For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 
  * [Hello World](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
  * [libnds_example_1](https://github.com/richelbilderbeek/libnds_example_1): 2D pixel art, respond to keys
- * [2: font on one screen](CppNdsExample2.md) ([picture (png)](CppNdsExample2.png))
- * [3: text on both screens](CppNdsExample3.md) ([picture (png)](CppNdsExample3.png))
- * 4: libnds and Boost (FAILS)
- * 5: libnds and Qt (FAILS)
- * [6: text, respond to touch](CppNdsExample6.md) ([picture (png)](CppNdsExample6.png))
- * [7: text, respond to keys](CppNdsExample7.md) ([picture (png)](CppNdsExample7.png))
- * [Beerwanter](GameBeerWanter.md): simple [game](Games.md) for NDS, Ubuntu and Windows
+
+## Tools
+
  * [TestNdsmake](ToolTestNdsmake.md): [tool](Tools.md) to test [ndsmake](ToolNdsmake.md)
 
 ## External links
