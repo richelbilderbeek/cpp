@@ -10,7 +10,7 @@ For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 ## [NDS](CppNds.md) examples
 
  * [Hello World](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
- * [1: 2D pixel art, respond to keys](CppNdsExample1.md) ([picture (png)](CppNdsExample1.png))
+ * [libnds_example_1](https://github.com/richelbilderbeek/libnds_example_1): 2D pixel art, respond to keys
  * [2: font on one screen](CppNdsExample2.md) ([picture (png)](CppNdsExample2.png))
  * [3: text on both screens](CppNdsExample3.md) ([picture (png)](CppNdsExample3.png))
  * 4: libnds and Boost (FAILS)
