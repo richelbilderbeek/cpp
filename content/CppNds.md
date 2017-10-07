@@ -9,7 +9,8 @@ For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 
 ### ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![NDS](PicNds.png) [cross compiling](CppCrossCompile.md) from [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.md) to [NDS](CppNds.md)
 
- *  ![OKAY](PicGreen.png)![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![NDS](PicNds.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [How to cross-compile a 'Hello World' Qt Creator project from Ubuntu to a NDS?](CppCrossCompileQtCreatorUbuntuHelloWorldToNds.md)
+ *  ![OKAY](PicGreen.png)![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![NDS](PicNds.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [How to cross-compile a 'Hello World' Qt Creator project from Ubuntu to a NDS?](CppCrosscompileQtCreatorUbuntuHelloWorldToNds.md)
+
 
 ## [NDS](CppNds.md) examples
 
