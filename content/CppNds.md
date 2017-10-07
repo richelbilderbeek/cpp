@@ -7,8 +7,9 @@ The [NDS](CppNds.md) (an abbreviation of 'Nintendo Dual Screen') is an
 
 For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 
-## [NDS](CppNds.md) tutorials
+## [NDS](CppNds.md) (incomplete) tutorials
 
+ * [Travis CI build, C++98](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
  * [Hello world](CppHelloWorldQtCreatorUbuntuNds.md)
  * ([How to cross-compile a 'Hello World' Qt Creator project from Ubuntu to a NDS?](CppCrosscompileQtCreatorUbuntuHelloWorldToNds.md))
 
