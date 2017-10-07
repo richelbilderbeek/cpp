@@ -3,7 +3,7 @@
 A [Hello World](CppHelloWorld.md) program for [NDS](CppNds.md), using
 [Qt Creator](CppQtCreator.md) under [Ubuntu](CppUbuntu.md) is not
 simple. This page actually shows [how to cross-compile a 'Hello World'
-Qt Creator project from Ubuntu to NDS?](CppCrossCompileQtCreatorUbuntuHelloWorldToNds.md)
+Qt Creator project from Ubuntu to NDS?](CppCrosscompileQtCreatorUbuntuHelloWorldToNds.md)
 
 ![CppHelloWorldQtCreatorUbuntuNds](CppHelloWorldQtCreatorUbuntuNds.png)
 
