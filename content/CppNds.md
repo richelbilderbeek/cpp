@@ -7,14 +7,9 @@ The [NDS](CppNds.md) (an abbreviation of 'Nintendo Dual Screen') is an
 
 For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 
-## [NDS](CppNds.md) (incomplete) tutorials
-
- * [Travis CI build, C++98](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
- * [Hello world](CppHelloWorldQtCreatorUbuntuNds.md)
- * ([How to cross-compile a 'Hello World' Qt Creator project from Ubuntu to a NDS?](CppCrosscompileQtCreatorUbuntuHelloWorldToNds.md))
-
 ## [NDS](CppNds.md) examples
 
+ * [Hello World](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
  * [1: 2D pixel art, respond to keys](CppNdsExample1.md) ([picture (png)](CppNdsExample1.png))
  * [2: font on one screen](CppNdsExample2.md) ([picture (png)](CppNdsExample2.png))
  * [3: text on both screens](CppNdsExample3.md) ([picture (png)](CppNdsExample3.png))
