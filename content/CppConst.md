@@ -3,7 +3,7 @@
 [const](CppConst.md) (an abbreviation of 'constant') is a
 [keyword](CppKeyword.md) to ensure read-only operations.
 
-```
+```c++
 int main()
 {
   const int dozen = 12;

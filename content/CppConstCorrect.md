@@ -1,55 +1,15 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Const correctness](CppConstCorrect.md)
-=========================================================
-
- 
+# ([C++](Cpp.md)) [Const correctness](CppConstCorrect.md)
 
 [Const correctness](CppConstCorrect.md) denotes one uses
 [const](CppConst.md) whenever possible/feasible. Prefer to use
 [const](CppConst.md) whenever possible \[1-6\]. Be [const
 correct](CppConstCorrect.md) \[7-11\].
 
- 
-
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
+## External links
 
 1.  [GOTW exercise about const correctness](http://gotw.ca/gotw/006.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). ISBN: 0-201-88954-4 7.9.3: 'Use const
@@ -86,16 +46,3 @@ External links
 11. [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0. Chapter 9.1.6: 'Every object in a system
     should be const-correct'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
