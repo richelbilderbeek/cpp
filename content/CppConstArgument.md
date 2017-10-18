@@ -1,35 +1,14 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [const argument](CppConstArgument.md)
-=======================================================
-
- 
+# ([C++](Cpp.md)) [const argument](CppConstArgument.md)
 
 The value of an [argument](CppArgument.md) that is
 [declared](CppDeclaration.md) [const](CppConst.md) cannot be changed.
 
- 
-
-[Exercise 5: the many types of
-const](CppExerciseTheManyTypesOfConst.md) is an
+[Exercise 5: the many types of const](CppExerciseTheManyTypesOfConst.md) is an
 [exercise](CppExercise.md) about the many types of
 [const](CppConst.md).
 
- 
-
 In [function design](CppFunctionDesign.md), consider making read-only
 arguments [const](CppConst.md) (but note \[8\] advising against this).
-
- 
 
 Be suspicious of non-const reference arguments; if you want the
 [function](CppFunction.md) or [member function](CppMemberFunction.md)
@@ -38,43 +17,22 @@ to modify its arguments, use [pointers](CppPointer.md) and value
 reference arguments when you need to minimize copying of arguments
 \[2\].
 
- 
-
 Use [const](CppConst.md) whenever possible \[1-7\].
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[const arguments](CppConstArgument.md) in a [declaration](CppDeclaration.md)
-------------------------------------------------------------------------------
-
- 
+## [const arguments](CppConstArgument.md) in a [declaration](CppDeclaration.md)
 
 A [function](CppFunction.md) (or [member
 function](CppMemberFunction.md)) [declaration](CppDeclaration.md) is
 the first impression of its body, as it summarizes the effect of the
 [variables](CppVariable.md) involved or produced.
 
- 
-
 If, for example, you want to calculate the area of a circle (the output)
 from its ray (the input), you expect the ray not te be modified in the
 body of the function:
 
- 
-
-  --------------------------------------------------
-  ` double CalculateCircleArea(const double ray);`
-  --------------------------------------------------
-
- 
+```c++
+double CalculateCircleArea(const double ray);
+```
 
 Note that '**[double](CppDouble.md)**
 CalculateAreaCircle(**[const](CppConst.md)**
@@ -82,30 +40,20 @@ CalculateAreaCircle(**[const](CppConst.md)**
 guideline is: for easy-to-copy [data types](CppDataType.md), pass by
 value.
 
- 
-
-  -------------------------------
-  ` void Swap(int& a, int& b);`
-  -------------------------------
-
- 
+```c++
+void Swap(int& a, int& b);
+```
 
 When swapping two values by reference, there will no number be
 calculated in the process (therefore its a void function. But both
 variables will/can be changed in the process, therefore the reference
 operator '&'.
 
- 
-
 Many newbies do not use const and referencing, yielding code like:
 
- 
-
-  -------------------------------------------------
-  ` int CalculateSquare(int value); //Incorrect!`
-  -------------------------------------------------
-
- 
+```c++
+int CalculateSquare(int value); //Incorrect!
+```
 
 Newbies are easily spotted from their function prototypes. In this
 function the value of 'value' is copied, squared and returned. Why make
@@ -113,36 +61,26 @@ a copy? The only reason you WANT a copy is when e.g. using a function
 that uses referencing or when you temporarily want to modify a copy of a
 variable:
 
- 
-
-  ------------------------------------------------------------------------------------------------------------------------
-  ` void PerformMagic(const std::string& s) {   const std::string t = s;   t[0] = "X";   std::cout << t << std::endl; }`
-  ------------------------------------------------------------------------------------------------------------------------
-
- 
+```c++
+void PerformMagic(const std::string& s) 
+{   
+  const std::string t = s;   
+  t[0] = "X";   
+  std::cout << t << std::endl; 
+}
+```
 
 In this case, you just use:
 
- 
+```c++ 
+void PerformMagic(std::string s) 
+{   
+  s[0] = "X";   
+  std::cout << s << std::endl; 
+}
+```
 
-  --------------------------------------------------------------------------------------
-  ` void PerformMagic(std::string s) {   s[0] = "X";   std::cout << s << std::endl; }`
-  --------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Pointers](CppPointer.md)
---------------------------
-
- 
+## [Pointers](CppPointer.md)
 
 When using pointers, const can be used twice for every argument.
 
@@ -157,24 +95,9 @@ When using pointers, const can be used twice for every argument.
 To indicate that MyStruct is only read from, use Transmogrify1 and
 Transmogrify3.
 
- 
-
 Use [const](CppConst.md) whenever possible \[1-7\].
 
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (3rd edition). 1997. ISBN: 0-201-88954-4. Paragraph 7.9.3:
@@ -201,16 +124,3 @@ Use [const](CppConst.md) whenever possible \[1-7\].
     should be const-correct'
 8.  [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design.
     1996. ISBN: 0-201-63362-0.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
