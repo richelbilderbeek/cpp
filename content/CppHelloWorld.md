@@ -1,97 +1,52 @@
+# ([C++](Cpp.md)) [Hello World](CppHelloWorld.md)
 
- 
+The [Hello World](CppHelloWorld.md) program is a minimal example of a working program.
+By tradition, this minimal example displays a text similar to 'hello world'.
+Goal of such a program is to see if the programming environment works.
 
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Hello World](CppHelloWorld.md)
-=================================================
-
- 
-
-[Hello World](CppHelloWorld.md) (or 'The Hello World program') is a
-standard example program to see if your programming environment works.
 Note that this example code is not standarized, so multiple and similar
 variants are on the Internet.
 
- 
-
 The code base of [Hello World](CppHelloWorld.md) is:
 
- 
+```c++
+#include <iostream>
 
-  ------------------------------------------------------------------------
-  ` #include <iostream>  int main() {   std::cout << "Hello World\n"; }`
-  ------------------------------------------------------------------------
-
- 
+int main() 
+{
+  std::cout << "Hello World\n"; 
+}
+```
 
 Here are some detailed examples of [Hello World](CppHelloWorld.md),
 depending on [IDE](CppIde.md) and operating system:
 
- 
-
--   ![OKAY](PicGreen.png)![C++
-    Builder](PicCppBuilder.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello
-    World' using C++ Builder](CppHelloWorldCppBuilder.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Cygwin](PicCygwin.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello
-    World' using Qt Creator under
+-   ![OKAY](PicGreen.png)![C++ Builder](PicCppBuilder.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using C++ Builder](CppHelloWorldCppBuilder.md)
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Cygwin](PicCygwin.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator under
     Cygwin](CppHelloWorldQtCreatorCygwin.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello
-    World' using Qt Creator under
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator under
     Lubuntu](CppHelloWorldQtCreatorLubuntu.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![to](PicTo.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png) ['Hello World' using Qt Creator under Lubuntu,
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![to](PicTo.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator under Lubuntu,
     crosscompile to Windows](CppHelloWorldQtCreatorLubuntuToWindows.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using (a Windows
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using (a Windows
     version of) Qt Creator under Wine under
     Ubuntu](CppHelloWorldQtCreatorWineUbuntu.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello
-    World' using Qt Creator under
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator under
     Ubuntu](CppHelloWorldQtCreatorUbuntu.md)
--   ![FAIL](PicRed.png)![Qt
-    Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Android](PicAndroid.png)![Mobile](PicMobile.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator
+-   ![FAIL](PicRed.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Android](PicAndroid.png)![Mobile](PicMobile.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator
     under Ubuntu for Android](CppHelloWorldQtCreatorUbuntuAndroid.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![NDS](PicNds.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![NDS](PicNds.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator
     under Ubuntu for NDS](CppHelloWorldQtCreatorUbuntuNds.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello World' using Qt Creator
     under Ubuntu for Symbian](CppHelloWorldQtCreatorUbuntuSymbian.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png)![
-    ](PicSpacer.png) ['Hello World' using a Windows version of Qt
-    Creator under Wine under Ubuntu for
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Wine](PicWine.png)![Ubuntu](PicUbuntu.png)![Symbian](PicSymbian.png)![Mobile](PicMobile.png)![ ](PicSpacer.png) ['Hello World' using a Windows version of Qt Creator under Wine under Ubuntu for
     Symbian](CppHelloWorldQtCreatorWineUbuntuSymbian.md)
--   ![OKAY](PicGreen.png)![Qt
-    Creator](PicQtCreator.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['Hello
-    World' using Qt Creator under
+-   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['' using Qt Creator under
     Windows](CppHelloWorldQtCreatorWindows.md)
 
  
 
 More demanding examples are:
-
- 
 
 -   ![BigInt](PicBigInt.png) [Hello BigInt](CppHelloBigInt.md): tests
     if the [BigInt](CppBigInt.md) [libraries](CppLibrary.md) are
@@ -138,13 +93,6 @@ More demanding examples are:
 -   ![Wt](PicWt.png) [Hello Wt](CppHelloWt.md): tests if the
     [Wt](CppWt.md) [libraries](CppLibrary.md) are installed correctly
 
- 
+## External links
 
- 
-
- 
-
- 
-
- 
-
+ * [Correct C++ 'Hello world' exercise](https://github.com/richelbilderbeek/correct_cpp_hello_world)
