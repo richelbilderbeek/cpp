@@ -18,6 +18,10 @@ int main()
 }
 ```
 
+## [Advice](CppAdvice.md)
+
+ * Avoid endl [1]
+
 Here are some detailed examples of [Hello World](CppHelloWorld.md),
 depending on [IDE](CppIde.md) and operating system:
 
@@ -43,8 +47,6 @@ depending on [IDE](CppIde.md) and operating system:
     Symbian](CppHelloWorldQtCreatorWineUbuntuSymbian.md)
 -   ![OKAY](PicGreen.png)![Qt Creator](PicQtCreator.png)![Windows](PicWindows.png)![Desktop](PicDesktop.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) ['' using Qt Creator under
     Windows](CppHelloWorldQtCreatorWindows.md)
-
- 
 
 More demanding examples are:
 
@@ -96,3 +98,7 @@ More demanding examples are:
 ## External links
 
  * [Correct C++ 'Hello world' exercise](https://github.com/richelbilderbeek/correct_cpp_hello_world)
+
+## References
+
+ * [1] [C++ Core Guidelines: SL.io.50: Avoid endl](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rio-endl)
