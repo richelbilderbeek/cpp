@@ -28,7 +28,8 @@ void append(Container& to, const Container& from)
 {
   std::copy(std::begin(from), std::end(from), std::back_inserter(to));
 }
-``` 
+
+```
 
 ## Example: [CoutVector](CppCoutVector.md)
 
@@ -43,6 +44,7 @@ void cout_vector(const std::vector<T>& v)
 {
   std::copy(std::begin(v), std::end(v), std::ostream_iterator<T>(std::cout,"\n"));
 }
+
 ```
 
 ## External links
