@@ -22,7 +22,7 @@ int main()
 
 ## Example: handle exception thrown
 
-[std::stoi](CppStdStoi.md) [converts](CppConvert.md) a [std::string](CppStdString.md) to [int.md](CppInt.md) and will
+[std::stoi](CppStdStoi.md) [converts](CppConvert.md) a [std::string](CppStdString.md) to [int](CppInt.md) and will
 [throw](CppThrow.md) a [std::invalid_argument](CppStdInvalid_argument.md) if
 that cannot be done.
 
