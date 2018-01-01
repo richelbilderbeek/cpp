@@ -9,9 +9,9 @@ the [operating system](CppOs.md)).
 One of the two standard forms of [main](CppMain.md) is [1]:
 
 ```c++
-int main() 
+int main(int argc, char * argv[]) 
 { 
-  // Your code here
+
 }
 ```
 
