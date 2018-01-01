@@ -4,9 +4,9 @@
 
 There are multiple ways to do so:
 
- * Using the C++98 STL
- * Using the C++11 STL
- * Using Boost
+ * Using the C++98 STL's [std::atoi](CppStdAtoi.md)
+ * Using the C++11 STL's [std::stoi](CppStdStoi.md)
+ * Using Boost's `boost::lexical_cast`
 
 In all cases, an exception will be thrown if the conversion fails. See below how to check if these conversion will pass.
 

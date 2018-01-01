@@ -1,44 +1,11 @@
+# ([C++](Cpp.md)) ![C++11](PicCpp11.png) [C++11](Cpp11.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![C++11](PicCpp11.png) [C++11](Cpp11.md)
-==========================================================
-
- 
-
- 
-
-[C++11](Cpp0x.md) is the official name of the C++
-[standard](CppStandard.md) accepted in 2011. Before, this standard was
+[C++11](Cpp11.md) is the official name of the C++ [standard](CppStandard.md) accepted in 2011. Before, this standard was
 called 'C++0x'.
 
- 
+ * ![Qt Creator](PicQtCreator.png) [Using C++11 under Qt Creator](CppQtCpp11.md)
 
--   ![Qt Creator](PicQtCreator.png) [Using C++11 under Qt
-    Creator](CppQtCpp11.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[C++11](Cpp11.md) new features
--------------------------------
-
- 
+## [C++11](Cpp11.md) new features
 
 -   [data types](CppDataType.md):
     -   [char16\_t](CppChar16_t.md): a new 16-bit character [data
@@ -101,33 +68,14 @@ called 'C++0x'.
 -   std::move
 -   much more...
 
- 
+## External links
 
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
-
-1.  [Wikipedia page about C++11](http://en.wikipedia.org/wiki/C%2B%2B0x)
-2.  [C++ source article about C++11 by Bjarne
-    Stroustrup](http://www.artima.com/cppsource/cpp0x.html)
-3.  [Bjarne Stroustrup's page about
-    C++11](http://www2.research.att.com/~bs/C++11FAQ.html)
-4.  [Interview with Scott
-    Meyers](http://media.libsyn.com/media/seradio/seradio-episode159-cPlusPlus0x.mp3)
-    (on [se-radio](http://www.se-radio.net), episode 159)
-5.  [GCC page about C++11
-    support](http://gcc.gnu.org/projects/cxx0x.html)
-6.  [Aaron Ballman's blog about
-    C++11](http://blog.aaronballman.com/tag/c0x)
+ * [Wikipedia page about C++11](http://en.wikipedia.org/wiki/C%2B%2B0x)
+ * [C++ source article about C++11 by Bjarne Stroustrup](http://www.artima.com/cppsource/cpp0x.html)
+ * [Bjarne Stroustrup's page about C++11](http://www2.research.att.com/~bs/C++11FAQ.html)
+ * [Interview with Scott Meyers](http://media.libsyn.com/media/seradio/seradio-episode159-cPlusPlus0x.mp3) (on [se-radio](http://www.se-radio.net), episode 159)
+ * [GCC page about C++11 support](http://gcc.gnu.org/projects/cxx0x.html)
+ * [Aaron Ballman's blog about C++11](http://blog.aaronballman.com/tag/c0x)
 
  
 
