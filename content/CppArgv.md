@@ -15,6 +15,7 @@ int main()
 }
 ``` 
 
+
 [argv](CppArgv.md) contains the filename of the program itself at index
 zero and then the parameters the user gave when starting the executable.
 
@@ -34,11 +35,13 @@ int main(int argc, char* argv[])
 }
 ```
 
+
 If you start the program from the command-line as such:
 
 ```
 my_program_name Hello World
 ```
+
 
 Your output will be similar to:
 
@@ -47,6 +50,7 @@ Your output will be similar to:
 1 : Hello
 2 : World
 ```
+
  
 ## [References](CppReferences.md)
 
