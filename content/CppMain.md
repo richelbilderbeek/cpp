@@ -86,7 +86,7 @@ int main()
 {
   //Your C++ code
 }
-``` 
+```
 
 Note that the standard states that the closing bracket of
 [main](CppMain.md)() must have the same effect of returning zero
@@ -145,41 +145,34 @@ Your output will be something like:
 1.  C++. International Standard. ISO/IEC 14882. Second edition.
     Paragraph 3.6.1.2
 2.  From http://www.parashift.com/c++-faq-lite/newbie.html\#faq-29.3:\
-     \
-      ```
-      main() must return int. Not void, not bool, not float. int. Just int, nothing but int, only
-      int. Some compilers accept void main(), but that is non-standard and shouldn't
-      be used. Instead use int main().
-      ```
+
+> main() must return int. Not void, not bool, not float. int. Just int, nothing but int, only
+> int. Some compilers accept void main(), but that is non-standard and shouldn't
+> be used. Instead use int main().
      
 3.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN:0-201-61562-2. Item 21: void main() is nonstandard
     and nonportable.
 4.  From [Bjarne Stroustrup](CppBjarneStroustrup.md)'s homepage
     (http://www.research.att.com/\~bs/bs\_faq2.html\#void-main):\
-     \
-      ```
-      The definition
 
-      void main() { /* ... */ }
-
-      is not and never has been C++, nor has it even been C.
-      ```
+> The definition
+> 
+> void main() { /* ... */ }
+> 
+> is not and never has been C++, nor has it even been C.
 
      
 5.  From the The alt.comp.lang.learn.c-c++ FAQ:
     http://ma.rtij.nl/acllc-c++.FAQ.html\#q3.4: 3.4: Why does everyone
     make so much fuss about "void main()"?\
-     \
-      ```
-      Because the return type of the main() function must be int in both C and C++. 
-      Anything else is undefined. 
 
-      Bottom line - don't try to start a thread about this in alt.comp.lang.learn.c-c++ 
-      as it has already been discussed many, many times 
-      and generates more flamage than any other topic.
-      ```
-
+> Because the return type of the main() function must be int in both C and C++. 
+> Anything else is undefined. 
+> 
+> Bottom line - don't try to start a thread about this in alt.comp.lang.learn.c-c++ 
+> as it has already been discussed many, many times 
+> and generates more flamage than any other topic.
      
 6.  C++. International Standard. ISO/IEC 14882. Second edition.
     Paragraph 3.6.1.5
