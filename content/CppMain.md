@@ -149,7 +149,7 @@ Your output will be something like:
 > main() must return int. Not void, not bool, not float. int. Just int, nothing but int, only
 > int. Some compilers accept void main(), but that is non-standard and shouldn't
 > be used. Instead use int main().
-     
+
 3.  [Herb Sutter](CppHerbSutter.md). Exceptional C++.
     ISBN:0-201-61562-2. Item 21: void main() is nonstandard
     and nonportable.
@@ -162,7 +162,6 @@ Your output will be something like:
 > 
 > is not and never has been C++, nor has it even been C.
 
-     
 5.  From the The alt.comp.lang.learn.c-c++ FAQ:
     http://ma.rtij.nl/acllc-c++.FAQ.html\#q3.4: 3.4: Why does everyone
     make so much fuss about "void main()"?\
