@@ -14,16 +14,3 @@ book's homepage](http://www.gotw.ca/publications/c++cs.md).
 
 1.  [Wikipedia page about coding standard](http://en.wikipedia.org/wiki/Coding_standard)
 2.  [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
