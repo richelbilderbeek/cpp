@@ -1,32 +1,14 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Code snippets](CppCodeSnippets.md)
-=====================================================
-
- 
+# ([C++](Cpp.md)) [Code snippets](CppCodeSnippets.md)
 
 My own favorite [C++](Cpp.md) [code snippets](CppCodeSnippets.md), for
 everyone to use freely. Note that some snippets fall under multiple
 categories. Some snippets are trivial for most people, but I put them
 here for completeness and for newbies (including my own students).
 
- 
-
 I cite my sources whenever someone else published a version of the
 snippet before me, although I have always modified the original. All
 snippets should compile cleanly after a copy-paste. Feel free to contact
 me when one snippet does not ([view my E-mail address](Email.png))
-
- 
 
 1.  [Artificial Intelligence](CppArtificialIntelligence.md)
 2.  [ASCII art](CppAsciiArt.md)
@@ -72,16 +54,3 @@ me when one snippet does not ([view my E-mail address](Email.png))
 42. [vector, std::vector](CppVector.md)
 43. [Windows](CppWindows.md)
 44. [XML](CppXml.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
