@@ -14,7 +14,7 @@ int main()
 }
 ```
 
-## Example: input cannot be converted to integer
+## Example: input is no integer
 
 If the input cannot be converted to [integer](CppInt.md),
 a [std::invalid_argument](CppStdInvalid_argument.md) is
@@ -32,7 +32,32 @@ int main()
     std::stoi("this is no int");
     assert(!"Should not get here");
   }
-  catch (std::invalid_argument&)
+  catch (const std::invalid_argument&)
+  {
+    assert("OK");
+  }
+}
+```
+
+## Example: input is a too big integer
+
+If the input is a too big [integer](CppInt.md),
+a [std::out_of_range](CppStdOut_of_range.md) is
+[thrown](CppThrow.md).
+
+```c++
+#include <cassert>
+#include <stdexcept>
+#include <string>
+
+int main()
+{
+  try
+  {
+    std::stoi("12345678901234567890123456789012345678901234567890");
+    assert(!"Should not get here");
+  }
+  catch (const std::out_of_range&)
   {
     assert("OK");
   }

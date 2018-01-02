@@ -10,14 +10,14 @@ extensions.
 To use a [header file](CppHeaderFile.md), it must be
 [\#included](CppInclude.md) in the source code.
 
-```
+```c++
 #include <iostream>
 #include "Widget.h"
  
 int main()
 {
   Widget w;
-  std::cout << "Hello world" << std::endl;
+  std::cout << "Hello world\n";
 }
 ```
 
@@ -30,8 +30,7 @@ file](CppImplementationFile.md) is called a [unit](CppUnit.md).
 
 This example is copied from [17].
 
-
-```
+```c++
 //radio.h
 #ifndef INCLUDED_RADIO
 #define INCLUDED_RADIO
@@ -71,8 +70,6 @@ int Radio::size() const { /*...*/ } // illegal: member function definition
 
 The [STL](CppStl.md) consists out of the following [header
 files](CppHeaderFile.md) \[3\]\[4\]:
-
- 
 
 1.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png)
     [algorithm](CppAlgorithmH.md)

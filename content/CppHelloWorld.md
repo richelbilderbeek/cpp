@@ -20,7 +20,7 @@ int main()
 
 ## [Advice](CppAdvice.md)
 
- * Avoid endl [1]
+ * Avoid [std::endl](CppStdEndl.md) [1]
 
 Here are some detailed examples of [Hello World](CppHelloWorld.md),
 depending on [IDE](CppIde.md) and operating system:
