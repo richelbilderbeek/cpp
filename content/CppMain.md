@@ -21,11 +21,9 @@ int main(int argc, char* argv[])
 { 
   // Your code
 }
-``` 
+```
 
 What does this all mean?
-
- 
 
 1.  '**[int](CppInt.md)** [main](CppMain.md)': means that
     [main](CppMain.md) is a [function](CppFunction.md)
