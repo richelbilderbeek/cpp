@@ -29,7 +29,11 @@ C++ is not just object-oriented [1], nor just for generic programming
 ## [Advice](CppAdvice.md)
 
  * View [C++](Cpp.md) as a federation of languages [4]
+ * Express ideas directly in code [13]
+ * Write in ISO Standard C++ [14]
+ * Express intent [15]
  * Write programs that are clear and easy to maintain [3]
+ * Ideally, a program should be statically type safe [16]
  * You should anticipate that your code will by modified, and possibly often, as change is the rule rather than the exception [3]
  * Follow the style of the code you modify [6]
  * Follow the Principle Of Least Astonishment [7]
@@ -59,4 +63,7 @@ C++ is not just object-oriented [1], nor just for generic programming
  * [10] Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 3.1, page 11: 'Break long statements into multiple lines'
  * [11] Trevor Misfeldt, Gregory Bumgardner, Andrew Gray. The elements of C++ style. 2004. ISBN: 978-0-521-89308-4. Chapter 3.1, page 13: 'Include white space'
  * [12] Gottschling, Peter. Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers. Addison-Wesley Professional, 2015. Chapter 2.1: 'If you are ever forced to write software that interoperates with C or Fortan, write your software first with a concise and inituitive interface in C++ for yourself and other C++ programmers and encapsulate the interface to the C and Fortran' libraries so that it is not exposed to developers'
-
+ * [13] [C++ Core Guidelines: P.1: Express ideas directly in code](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rp-direct)
+ * [14] [C++ Core Guidelines: P.2: Write in ISO Standard C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p2-write-in-iso-standard-c)
+ * [15] [C++ Core Guidelines: P.3: Express intent](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p3-express-intent)
+ * [16] [C++ Core Guidelines: P.4: Ideally, a program should be statically type safe](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p4-ideally-a-program-should-be-statically-type-safe)

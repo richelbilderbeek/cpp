@@ -68,6 +68,11 @@ called 'C++0x'.
 -   std::move
 -   much more...
 
+
+## [Advice](CppAdvice.md)
+
+ * Write in ISO Standard C++ [1]
+
 ## External links
 
  * [Wikipedia page about C++11](http://en.wikipedia.org/wiki/C%2B%2B0x)
@@ -77,15 +82,6 @@ called 'C++0x'.
  * [GCC page about C++11 support](http://gcc.gnu.org/projects/cxx0x.html)
  * [Aaron Ballman's blog about C++11](http://blog.aaronballman.com/tag/c0x)
 
- 
+## [References](CppReferences.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [1] [C++ Core Guidelines: P.2: Write in ISO Standard C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p2-write-in-iso-standard-c)
