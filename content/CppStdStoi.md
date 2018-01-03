@@ -64,6 +64,52 @@ int main()
 }
 ```
 
+## Example: handle both exceptions
+
+```c++
+#include <cassert>
+#include <stdexcept>
+#include <string>
+
+int main()
+{
+  try
+  {
+    std::stoi("[your string here]");
+    assert(!"Should not get here");
+  }
+  catch (const std::invalid_argument&)
+  {
+    assert("OK");
+  }
+  catch (const std::out_of_range&)
+  {
+    assert("OK");
+  }
+}
+```
+
+As an alternative, the [base](CppBaseClass.md) of both [exceptions](CppException.md) (called [std::exception](CppStdException.md)) can be used:
+
+```c++
+#include <cassert>
+#include <stdexcept>
+#include <string>
+
+int main()
+{
+  try
+  {
+    std::stoi("[your string here]");
+    assert(!"Should not get here");
+  }
+  catch (const std::exception&)
+  {
+    assert("OK");
+  }
+}
+```
+
 ## External links
 
  * [cppreference.com's page about std::stoi](http://en.cppreference.com/w/cpp/string/basic_string/stol)
