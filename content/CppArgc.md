@@ -19,9 +19,9 @@ int main(int argc, char * argv[])
 [argv](CppArgv.md) contains the filename of the program itself at index
 zero and then the parameters the user gave when starting the executable.
 
-## Example
+## [Example](CppExample.md): shows all command-line arguments
 
-This example shows all parameters a user entered.
+This example shows all command-line arguments:
 
 ```c++ 
 #include <iostream>
