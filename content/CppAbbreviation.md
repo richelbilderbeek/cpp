@@ -1,32 +1,10 @@
+# ([C++](Cpp.md)) [Abbreviation](CppAbbreviation.md)
 
- 
+In the [Code::Blocks](CppCodeBlocks.md) IDE, an [abbreviation](CppAbbreviation.md) is a way to quickly insert predefined text by using an abbreviation.
 
- 
+![Code::Blocks Abbreviations menu](CppAbbreviation.png)
 
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Abbreviation](CppAbbreviation.md)
-====================================================
-
- 
-
-In the [Code::Blocks](CppCodeBlocks.md) IDE, an
-[abbreviation](CppAbbreviation.md) is a way to quickly insert
-predefined text by using an abbreviation.
-
- 
-
--   [View a screenshot of the Code::Blocks Abbreviations
-    menu](CppAbbreviation.PNG)
-
- 
-
-The use of [abbreviations](CppAbbreviation.md) is similar to [C++
-Builder](CppBuilder.md)'s [Code Templates](CppCodeTemplate.md).
+The use of [abbreviations](CppAbbreviation.md) is similar to [C++ Builder](CppBuilder.md)'s [Code Templates](CppCodeTemplate.md).
 
  
 
