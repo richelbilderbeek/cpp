@@ -46,8 +46,10 @@ Your output will be similar to:
 ```
 0 : /home/richelbilderbeek/my_program_name
 1 : Hello
-2 : World
+2 : world
 ```
+
+The first argument, `argv[0]` is always the path to the program.
  
 ## [References](CppReferences.md)
 

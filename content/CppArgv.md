@@ -15,13 +15,12 @@ int main(int argc, char * argv[])
 }
 ```
 
-
 [argv](CppArgv.md) contains the filename of the program itself at index
 zero and then the parameters the user gave when starting the executable.
 
-## Example
+## Example: show all command-line arguments
 
-This example shows all parameters a user entered.
+This example shows all command-line arguments:
 
 ```c++ 
 #include <iostream>
@@ -39,16 +38,32 @@ int main(int argc, char* argv[])
 If you start the program from the command-line as such:
 
 ```
-my_program_name Hello World
+my_program_name Hello world
 ```
-
 
 Your output will be similar to:
 
 ```
 0 : /home/richelbilderbeek/my_program_name
 1 : Hello
-2 : World
+2 : world
+```
+
+The first argument, `argv[0]` is always the path to the program.
+
+## Example: convert to [std::vector](CppStdVector.md)<[std::string](CppStdString.md)>
+
+```c++ 
+#include <cassert>
+#include <string>
+#include <vector>
+
+int main(int argc, char* argv[])
+{
+  const std::vector<std::string> args(argv, argv + argc);
+  assert(argc == static_cast<int>(args.size());
+  assert(argv[0] == args[0]);
+}
 ```
 
  
