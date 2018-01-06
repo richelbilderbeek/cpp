@@ -14,7 +14,7 @@ The code base of [Hello World](CppHelloWorld.md) is:
 
 int main() 
 {
-  std::cout << "Hello World\n"; 
+  std::cout << "Hello world\n"; 
 }
 ```
 

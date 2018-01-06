@@ -2,7 +2,7 @@
 
 A [library](CppLibrary.md) is a collection of [functions](CppFunction.md) and [classes](CppClass.md).
 
-Libraries that you should familiarize with are [1,2]:
+Libraries that you should familiarize with are [1,2,10]:
 
  * [STL: Standard Template Library](CppStl.md): the [C++](Cpp.md) standard [library](CppLibrary.md)
  * [The Boost libraries](CppBoost.md): new functionality that is not (yet) in the [STL](CppStl.md)
@@ -215,3 +215,6 @@ used, on the platforms indicated by the [pictograms](CppPictograms.md).
  * [7] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 13.7. Advice. page 387: '[35] A library shouldn't produce diagnostic output aimed at an end user. Instead, throw an exception and let a caller decide'
  * [8] [Bjarne Stroustrup](CppBjarneStroustrup.md). A tour of C++. 2014. ISBN: 978-0-321-958310. Chapter 11.7.2, page 131: 'A library doesn't have to be large or complicated to be useful'
  * [9] [C++ Core Guidelines: SL.2: Prefer the standard library to other libraries](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rsl-sl)
+ * [10] [C++ Core Guidelines: P.13: Use support libraries as appropriate](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#p13-use-support-libraries-as-appropriate)
+
+

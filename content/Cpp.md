@@ -48,6 +48,7 @@ C++ is not just object-oriented [1], nor just for generic programming
  * [WikiPedia's page about C++](http://en.wikipedia.org/wiki/C%2B%2B)
  * [isocpp.org: C++ news](http://isocpp.org)
  * [Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code)
+ * [Correct C++](https://github.com/richelbilderbeek/correct_cpp): a free, libre and open-source self-learning course, in which your exercises are corrected by Travis CI
 
 ## [References](CppReferences.md)
 
