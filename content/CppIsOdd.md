@@ -23,3 +23,7 @@ bool IsOdd(const int i) noexcept
 ```
 
 This implementation is broken, as it will not work for negative integers.
+
+## External links
+
+ * [Correct C++ 'is_odd' chapter](https://github.com/richelbilderbeek/correct_cpp_is_odd)

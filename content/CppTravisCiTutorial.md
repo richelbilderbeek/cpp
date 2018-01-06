@@ -1,36 +1,11 @@
+# ([C++ tutorials](CppTutorial.md)) [Travis CI tutorial](CppTravisCiTutorial.md)
 
- 
+There are multiple [tutorial](CppTutorial.md) about [Travis CI](CppTravisCi.md):
+ 
+ * [A general Travis tutorial](https://github.com/richelbilderbeek/travis_tutorial)
+ * [The Travis C++ tutororial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
 
- 
+## External links
 
- 
-
- 
-
- 
-
-([C++ tutorials](CppTutorial.md)) [Travis CI tutorial](CppTravisCiTutorial.md)
-================================================================================
-
- 
-
-A [tutorial](CppTutorial.md) about the [Travis CI](CppTravisCi.md)
-that I have written.
-
- 
-
-View it on the [travis\_cpp\_tutorial
-GitHub](https://github.com/richelbilderbeek/travis_cpp_tutorial).
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [The (general) Travis tutorial](https://github.com/richelbilderbeek/travis_tutorial)
+ * [The Travis C++ tutororial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
