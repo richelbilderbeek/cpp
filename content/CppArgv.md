@@ -9,10 +9,7 @@ the [operating system](CppOs.md)).
 One of the two standard forms of [main](CppMain.md) is [1]:
 
 ```c++
-int main(int argc, char * argv[]) 
-{ 
-
-}
+int main(int argc, char * argv[]) {}
 ```
 
 [argv](CppArgv.md) contains the filename of the program itself at index
@@ -34,11 +31,10 @@ int main(int argc, char* argv[])
 }
 ```
 
-
 If you start the program from the command-line as such:
 
 ```
-my_program_name Hello world
+./my_program_name Hello world
 ```
 
 Your output will be similar to:
@@ -66,6 +62,15 @@ int main(int argc, char* argv[])
 }
 ```
 
+To skip `argv[0]`, use:
+
+```c++ 
+int main(int argc, char* argv[])
+{
+  const std::vector<std::string> args(argv + 1, argv + argc);
+  // ...
+}
+```
  
 ## [References](CppReferences.md)
 

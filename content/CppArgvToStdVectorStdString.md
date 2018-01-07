@@ -14,3 +14,13 @@ int main(int argc, char* argv[])
   assert(argv[0] == args[0]);
 }
 ```
+
+To skip `argv[0]`, use:
+
+```c++ 
+int main(int argc, char* argv[])
+{
+  const std::vector<std::string> args(argv + 1, argv + argc);
+  // ...
+}
+```

@@ -4,17 +4,17 @@
 [container](CppContainer.md) elements.
 
 [std::copy](CppCopy.md) assumes that the memory data is copied to is
-valid. For example, if you copy a [std::vector](CppVector.md) of size
-10 to another [std::vector](CppVector.md), the latter must have a size
+valid. For example, if you copy a [std::vector](CppStdVector.md) of size
+10 to another [std::vector](CppStdVector.md), the latter must have a size
 of 10 at least. But if the size is unknown, use an
 [inserter](CppInserter.md) like
 [std::back_inserter](CppBack_inserter.md).
 
 Related algorithms are:
 
- * [std::copy_backward](CppCopy_backward.md): copy values to the back of a [container](CppContainer.md)
- * [std::copy_if](CppCopy_if.md): for performing a conditional copy
- * [std::transform](CppTransform.md): for copy and modify
+ * [std::copy_backward](CppStdCopy_backward.md): copy values to the back of a [container](CppContainer.md)
+ * [std::copy_if](CppStdCopy_if.md): for performing a conditional copy
+ * [std::transform](CppStdTransform.md): for copy and modify
 
 Prefer [algorithm](CppAlgorithm.md) calls over hand-written loops [1, 2].
 
