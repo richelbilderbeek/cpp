@@ -11,6 +11,8 @@ In release mode, the [asserts](CppAssert.md) are ignored. Or, more precise, by [
 
 ## Examples
 
+[![xkcd #379: forgetting](forgetting.png)](https://www.xkcd.com/379)
+
  * [assert example 1: basics](CppAssertExample1.md)
  * [assert example 2: basics with informative output](CppAssertExample2.md)
  * [assert example 3: a user defined assert](CppAssertExample3.md)
