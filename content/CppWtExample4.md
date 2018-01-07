@@ -141,7 +141,7 @@ WtMainDialog has only three methods:
     freshly edited text in the Wt::WLineEdit.
     [WtBroadcastServer](CppWtBroadcastServer.md) holds only one piece
     of data, in the form of [boost::any](CppAny.md). In this case, the
-    data is of type [std::string](CppString.md), but it can be any (no
+    data is of type [std::string](CppStdString.md), but it can be any (no
     pun intended) much more complex [data type](CppDataType.md)
 -   WtMainDialog::UpdatePage: this method is called every 100
     milliseconds and gets the data of the server and puts it in the

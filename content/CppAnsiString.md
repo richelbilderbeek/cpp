@@ -16,7 +16,7 @@
 
 [AnsiString](CppAnsiString.md) is the [C++ Builder](CppBuilder.md)
 equivalent of the standard [data type](CppDataType.md)
-[std::string](CppString.md).
+[std::string](CppStdString.md).
 
  
 

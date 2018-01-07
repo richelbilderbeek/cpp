@@ -15,7 +15,7 @@
  
 
 [std::stringstream](CppStringstream.md) is a [stream](CppStream.md)
-for [std::strings](CppString.md).
+for [std::strings](CppStdString.md).
 
  
 

@@ -14,7 +14,7 @@
 
  
 
-[ReplaceAll](CppReplaceAll.md) is a [std::string](CppString.md)
+[ReplaceAll](CppReplaceAll.md) is a [std::string](CppStdString.md)
 [replace](CppReplace.md) [code snippet](CppCodeSnippets.md) to replace
 a substring by another in a certain std::string.
 

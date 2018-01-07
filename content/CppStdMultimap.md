@@ -26,7 +26,7 @@ that it can hold multiple values for one key.
 
  
 
-The [std::string](CppString.md) is the key (in this case a last name)
+The [std::string](CppStdString.md) is the key (in this case a last name)
 and the **[int](CppInt.md)** is termed the value (in this case the
 persons telephone numbers).
 

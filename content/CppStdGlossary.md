@@ -294,7 +294,7 @@ glossary](CppBoostGlossary.md).
 270. [std::strcspn](CppStrcspn.md)
 271. [std::strerror](CppStrerror.md)
 272. [std::strftime](CppStrftime.md)
-273. [std::string](CppString.md)
+273. [std::string](CppStdString.md)
 274. [std::strlen](CppStrlen.md)
 275. [std::strncat](CppStrncat.md)
 276. [std::strncmp](CppStrncmp.md)

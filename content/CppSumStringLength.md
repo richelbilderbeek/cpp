@@ -15,9 +15,9 @@
  
 
 [SumStringLength](CppSumStringLength.md) is a
-[std::string](CppString.md) and [container](CppContainer.md) [code
+[std::string](CppStdString.md) and [container](CppContainer.md) [code
 snippet](CppCodeSnippets.md) to sum the length/size of all
-[std::strings](CppString.md) in a [container](CppContainer.md).
+[std::strings](CppStdString.md) in a [container](CppContainer.md).
 
  
 

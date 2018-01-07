@@ -17,7 +17,7 @@
 [std::asctime](CppAsctime.md) is an [STL](CppStl.md)
 [time](CppTime.md) [function](CppFunction.md) to
 [convert](CppConvert.md) [std::tm](CppTm.md) to a
-[std::string](CppString.md).
+[std::string](CppStdString.md).
 
  
 

@@ -16,7 +16,7 @@
 
 [CanCast](CanCast.md) is a [checking](CppCheck.md) [code
 snippet](CppCodeSnippets.md) that let you check if you **can** convert
-a [std::string](CppString.md) to another [data type](CppDataType.md)
+a [std::string](CppStdString.md) to another [data type](CppDataType.md)
 when using [LexicalCast](CppLexicalCast.md).
 
  

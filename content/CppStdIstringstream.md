@@ -33,10 +33,10 @@ Example: [IsDouble](CppIsDouble.md)
  
 
 The example below shows how to [check](CppCheck.md) if a
-[std::string](CppString.md) can be [converted](CppConvert.md) to
-[double](CppDouble.md): put the [std::string](CppString.md) in an
+[std::string](CppStdString.md) can be [converted](CppConvert.md) to
+[double](CppDouble.md): put the [std::string](CppStdString.md) in an
 [std::istringstream](CppIstringstream.md) and try to write it to a
-[double](CppDouble.md). If this fails, the [std::string](CppString.md)
+[double](CppDouble.md). If this fails, the [std::string](CppStdString.md)
 cannot be [converted](CppConvert.md) to [double](CppDouble.md).
 
  

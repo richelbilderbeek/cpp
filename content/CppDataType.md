@@ -10,7 +10,7 @@ The example below the [definition](CppDefinition.md) of a
 [double](CppDouble.md) with the name of 'd' being assigned the value
 3.1415. The next line tries to assign the text 'hello world' to d, which
 is illegal, because 'hello world' if not of [data type](CppDataType.md)
-[double](CppDouble.md) (but of [std::string](CppString.md)).
+[double](CppDouble.md) (but of [std::string](CppStdString.md)).
 
 ```c++
 int main()

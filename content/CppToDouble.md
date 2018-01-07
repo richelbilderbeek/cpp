@@ -16,7 +16,7 @@
 
 [ToDouble](CppToDouble.md) is a [conversion](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
-[std::string](CppString.md) to [double](CppDouble.md).
+[std::string](CppStdString.md) to [double](CppDouble.md).
 
  
 
@@ -30,7 +30,7 @@ ways (incomplete list):
 
  
 
-To [conversion](CppConvert.md) a [std::string](CppString.md) to any
+To [conversion](CppConvert.md) a [std::string](CppStdString.md) to any
 [data type](CppDataType.md) one can use
 [LexicalCast](CppLexicalCast.md) and
 [boost::lexical\_cast](CppLexical_cast.md).

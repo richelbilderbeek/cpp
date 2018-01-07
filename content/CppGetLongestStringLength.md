@@ -15,9 +15,9 @@
  
 
 [GetLongestStringLength](CppGetLongestStringLength.md) is a
-[std::string](CppString.md) and [container](CppContainer.md) [code
+[std::string](CppStdString.md) and [container](CppContainer.md) [code
 snippet](CppCodeSnippets.md) to obtain the length/size of the
-longest/largest [std::string](CppString.md) in a
+longest/largest [std::string](CppStdString.md) in a
 [container](CppContainer.md).
 
  

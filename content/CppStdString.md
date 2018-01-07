@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::string](CppString.md)
+([C++](Cpp.md)) [std::string](CppStdString.md)
 =============================================
 
  
 
-[std::string](CppString.md) is an [STL](CppStl.md)
+[std::string](CppStdString.md) is an [STL](CppStl.md)
 [container](CppContainer.md) for storing [char](CppChar.md). Or: 'the
 thing you use for storing words'.
 
  
 
-The [definition](CppDefinition.md) of [std::string](CppString.md) is
+The [definition](CppDefinition.md) of [std::string](CppStdString.md) is
 in [string.h](CppStringH.md).
 
  
@@ -31,7 +31,7 @@ in [string.h](CppStringH.md).
 
  
 
-Prefer using [std::string](CppString.md) over an [array](CppArray.md)
+Prefer using [std::string](CppStdString.md) over an [array](CppArray.md)
 of [char](CppChar.md) \[1\]\[2\]\[3\]\[4\].
 
  
@@ -44,7 +44,7 @@ of [char](CppChar.md) \[1\]\[2\]\[3\]\[4\].
 
  
 
-[std::string](CppString.md) example
+[std::string](CppStdString.md) example
 ------------------------------------
 
  
@@ -63,7 +63,7 @@ of [char](CppChar.md) \[1\]\[2\]\[3\]\[4\].
 
  
 
-[std::string](CppString.md) [code snippets](CppCodeSnippets.md)
+[std::string](CppStdString.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------------
 
  

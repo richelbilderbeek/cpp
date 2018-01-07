@@ -16,7 +16,7 @@
 
 [StrToAnsi](CppStrToAnsi.md) is a [conversion](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
-[std::string](CppString.md) to [AnsiString](CppAnsiString.md).
+[std::string](CppStdString.md) to [AnsiString](CppAnsiString.md).
 
  
 

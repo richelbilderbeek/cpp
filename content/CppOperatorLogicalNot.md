@@ -25,7 +25,7 @@ logical not on a [boolean](CppBool.md). In other words:
  
 
 The example code below [asserts](CppAssert.md) that a
-[std::string](CppString.md) is not empty, before
+[std::string](CppStdString.md) is not empty, before
 [returning](CppReturn.md) the first [character](CppChar.md) of it.
 
  

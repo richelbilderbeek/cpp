@@ -15,7 +15,7 @@
  
 
 [Wt::WString](CppWString.md) is a [Wt](CppWt.md)
-[string](CppString.md) [class](CppClass.md).
+[string](CppStdString.md) [class](CppClass.md).
 
  
 

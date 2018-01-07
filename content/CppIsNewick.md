@@ -16,7 +16,7 @@
 
 [IsNewick](CppIsNewick.md) is a [Newick](CppNewick.md) [code
 snippets](CppCodeSnippets.md) to determine if a
-[std::string](CppString.md) is a well-formed [Newick](CppNewick.md).
+[std::string](CppStdString.md) is a well-formed [Newick](CppNewick.md).
 
  
 

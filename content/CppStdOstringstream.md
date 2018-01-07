@@ -16,14 +16,14 @@
 
 [std::ostringstream](CppOstringstream.md) is an [STL](CppStl.md)
 output [stream](CppStream.md) interface for
-[std::string](CppString.md) manipulation.
+[std::string](CppStdString.md) manipulation.
 
  
 
-In the example below, [int](CppInt.md) and [std::string](CppString.md)
+In the example below, [int](CppInt.md) and [std::string](CppStdString.md)
 are appended to a [std::ostringstream](CppOstringstream.md), before the
 [std::ostringstream](CppOstringstream.md) is finally converted to
-[std::string](CppString.md).
+[std::string](CppStdString.md).
 
  
 

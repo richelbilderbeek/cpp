@@ -16,7 +16,7 @@
 
 [std::strerror](CppStrerror.md) is a [function](CppFunction.md) to
 convert the C-style error code (caused by C [functions](CppFunction.md)
-like [std::fopen](CppFopen.md)) to a [std::string](CppString.md).
+like [std::fopen](CppFopen.md)) to a [std::string](CppStdString.md).
 
  
 

@@ -15,7 +15,7 @@
  
 
 [AskUserForDouble](CppAskUserForDouble.md) is a
-[std::string](CppString.md) [code snippet](CppCodeSnippets.md) to ask
+[std::string](CppStdString.md) [code snippet](CppCodeSnippets.md) to ask
 the user for a single-line input (which is then converted to
 [double](CppDouble.md)).
 

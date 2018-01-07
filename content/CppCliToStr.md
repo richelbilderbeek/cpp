@@ -17,7 +17,7 @@
 [CliToStr](CppCliToStr.md) is a [cln::cl\_I](CppCl_I.md)
 [conversion](CppConvert.md) [code snippets](CppCodeSnippets.md) to
 [convert](CppConvert.md) a [cln::cl\_I](CppCl_I.md) to an
-[std::string](CppString.md).
+[std::string](CppStdString.md).
 
  
 

@@ -14,14 +14,14 @@
 
  
 
-[ReplaceOnce](CppReplaceOnce.md) is a [std::string](CppString.md)
+[ReplaceOnce](CppReplaceOnce.md) is a [std::string](CppStdString.md)
 [replace](CppReplace.md) [code snippet](CppCodeSnippets.md) to replace
-a substring by another in a certain [std::string](CppString.md) once.
+a substring by another in a certain [std::string](CppStdString.md) once.
 
  
 
 Use [ReplaceAll](CppReplaceAll.md) to replace all substrings in a
-certain [std::string](CppString.md).
+certain [std::string](CppStdString.md).
 
  
 

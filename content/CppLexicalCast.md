@@ -15,7 +15,7 @@
  
 
 [LexicalCast](CppLexicalCast.md) is a [convert](CppConvert.md) [code
-snippet](CppCodeSnippets.md) to convert [std::string](CppString.md) to
+snippet](CppCodeSnippets.md) to convert [std::string](CppStdString.md) to
 (possibly) any [data type](CppDataType.md). [CanCast](CppCanCast.md)
 can [check](CppCheck.md) if this [conversion](CppConvert.md) is
 possible.
@@ -54,7 +54,7 @@ Comparison between [LexicalCast](CppLexicalCast.md) and [boost::lexical\_cast](C
 
  
 
-The table below shows if a [std::string](CppString.md) can be
+The table below shows if a [std::string](CppStdString.md) can be
 [converted](CppConvert.md) according to [CanCast](CppCanCast.md) (CC)
 and [CanLexicalCast](CppCanLexicalCast.md) (CLC) and what the result
 will be after [LexicalCast](CppLexicalCast.md) (LC) and

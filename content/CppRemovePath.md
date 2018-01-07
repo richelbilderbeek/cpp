@@ -16,7 +16,7 @@
 
  
 
-[RemovePath](CppRemovePath.md) is a [std::string](CppString.md) and
+[RemovePath](CppRemovePath.md) is a [std::string](CppStdString.md) and
 [file I/O](CppFileIo.md) [code snippet](CppCodeSnippets.md) to remove
 a filename's path.
 

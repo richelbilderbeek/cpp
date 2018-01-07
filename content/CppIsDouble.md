@@ -15,7 +15,7 @@
  
 
 [IsDouble](CppIsDouble.md) is a [check](CppCheck.md) [code
-snippet](CppCodeSnippets.md) to check if a [std::string](CppString.md)
+snippet](CppCodeSnippets.md) to check if a [std::string](CppStdString.md)
 or [AnsiString](CppAnsiString.md) can be converted to a
 [double](CppDouble.md).
 
@@ -23,12 +23,12 @@ or [AnsiString](CppAnsiString.md) can be converted to a
 
 [IsDouble](CppIsDouble.md) is shown in two flavors:
 
--   [IsDouble](CppIsDouble.md) for [std::string](CppString.md)
+-   [IsDouble](CppIsDouble.md) for [std::string](CppStdString.md)
 -   [IsDouble](CppIsDouble.md) for [AnsiString](CppAnsiString.md)
 
  
 
-For [std::strings](CppString.md), [CanCast](CppCanCast.md) and
+For [std::strings](CppStdString.md), [CanCast](CppCanCast.md) and
 [CanLexicalCast](CppCanLexicalCast.md) are more general versions of
 [IsDouble](CppIsDouble.md).
 
@@ -42,7 +42,7 @@ For [std::strings](CppString.md), [CanCast](CppCanCast.md) and
 
  
 
-[IsDouble](CppIsDouble.md) for [std::string](CppString.md)
+[IsDouble](CppIsDouble.md) for [std::string](CppStdString.md)
 ------------------------------------------------------------
 
  

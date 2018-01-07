@@ -16,14 +16,14 @@
 
 [boost::lexical\_cast](CppLexical_cast.md) is a [Boost](CppBoost.md)
 [function](CppFunction.md) to [convert](CppConvert.md) to/from
-[std::string](CppString.md) to/from (possibly) any [data
+[std::string](CppStdString.md) to/from (possibly) any [data
 type](CppDataType.md). [CanLexicalCast](CppCanLexicalCast.md) can
 [check](CppCheck.md) if this [conversion](CppConvert.md) is possible.
 
  
 
 The [C++11](Cpp11.md) equivalent to [convert](CppConvert.md) to a
-[std::string](CppString.md) is [std::to\_string](CppTo_string.md).
+[std::string](CppStdString.md) is [std::to\_string](CppTo_string.md).
 
  
 

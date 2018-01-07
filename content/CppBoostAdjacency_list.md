@@ -72,7 +72,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Possible values:
         -   boost::no\_property: no properties
         -   boost::property&lt;boost::vertex\_name\_t,std::string&gt;:
-            vertices contain a [std::string](CppString.md)
+            vertices contain a [std::string](CppStdString.md)
     -   Default value: boost::no\_property
 
 5.  EdgeProperties
@@ -80,7 +80,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Possible values:
         -   boost::no\_property: no properties
         -   boost::property&lt;boost::edge\_name\_t,std::string&gt;:
-            edges contain a [std::string](CppString.md)
+            edges contain a [std::string](CppStdString.md)
     -   Default value: boost::no\_property
 
 6.  GraphProperties
@@ -88,7 +88,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Possible values:
         -   boost::no\_property: no properties
         -   boost::property&lt;boost::graph\_name\_t,std::string&gt;:
-            graph has a [std::string](CppString.md) name
+            graph has a [std::string](CppStdString.md) name
     -   Default value: boost::no\_property
 
  

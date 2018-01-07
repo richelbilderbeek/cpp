@@ -15,7 +15,7 @@
  
 
 [Header file](CppHeaderFile.md) containing the definition of
-[std::string](CppString.md).
+[std::string](CppStdString.md).
 
  
 

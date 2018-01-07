@@ -17,7 +17,7 @@
 [IntToBitString](CppIntToBitString.md) is a [bit
 operation](CppBitOperation.md) [conversion](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
-[integer](CppInt.md) to a [std::string](CppString.md) of zeroes and
+[integer](CppInt.md) to a [std::string](CppStdString.md) of zeroes and
 ones.
 
  

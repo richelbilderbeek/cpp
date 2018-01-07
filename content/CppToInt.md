@@ -16,14 +16,14 @@
 
 [ToInt](CppToInt.md) is a [convert](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md)
-[std::string](CppString.md) to [int](CppInt.md).
+[std::string](CppStdString.md) to [int](CppInt.md).
 
  
 
 [LexicalCast](CppLexicalCast.md) and
 [boost::lexical\_cast](CppLexical_cast.md) are more general then
 [ToInt](CppToInt.md) and [convert](CppConvert.md) a
-[std::string](CppString.md) to any [data type](CppDataType.md).
+[std::string](CppStdString.md) to any [data type](CppDataType.md).
 
  
 

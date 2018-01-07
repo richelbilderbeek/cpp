@@ -17,7 +17,7 @@
 [std::length\_error](CppLength_error.md) (a [derived
 class](CppDerivedClass.md) from
 [std::runtime\_error](CppRuntime_error.md)) is [thrown](CppThrow.md)
-when a too big [std::string](CppString.md) is created.
+when a too big [std::string](CppStdString.md) is created.
 
  
 

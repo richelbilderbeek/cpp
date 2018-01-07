@@ -16,7 +16,7 @@
 
 [std::ctime](CppStdCtime.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to [convert](CppConvert.md)
-[std::time\_t](CppTime_t.md) to [std::string](CppString.md).
+[std::time\_t](CppTime_t.md) to [std::string](CppStdString.md).
 
  
 

@@ -73,7 +73,7 @@ Examples of [global](CppGlobal.md) [streams](CppStream.md) are:
 Types of [streams](CppStream.md) are:
 
 -   [std::stringstream](CppStringstream.md): a
-    [std::string](CppString.md) [stream](CppStream.md)
+    [std::string](CppStdString.md) [stream](CppStream.md)
 -   [std::ostream](CppOstream.md): output [stream](CppStream.md)
 -   [std::istream](CppIstream.md): input [stream](CppStream.md)
 -   [std::fstream](CppFstream.md): file [stream](CppStream.md)

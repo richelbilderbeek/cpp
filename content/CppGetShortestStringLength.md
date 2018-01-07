@@ -15,9 +15,9 @@
  
 
 [GetShortestStringLength](CppGetShortestStringLength.md) is a
-[std::string](CppString.md) and [container](CppContainer.md) [code
+[std::string](CppStdString.md) and [container](CppContainer.md) [code
 snippet](CppCodeSnippets.md) to obtain the length/size of the
-shortest/largest [std::string](CppString.md) in a
+shortest/largest [std::string](CppStdString.md) in a
 [container](CppContainer.md).
 
  

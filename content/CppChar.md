@@ -16,7 +16,7 @@
 
 [char](CppChar.md) is a [keyword](CppKeyword.md) for a
 (single-)character [data type](CppDataType.md) to store a [character
-literal](CppCharacterLiteral.md). [std::string](CppString.md) can be
+literal](CppCharacterLiteral.md). [std::string](CppStdString.md) can be
 used to store a collection of [char](CppChar.md).
 
  
@@ -29,7 +29,7 @@ used to store a collection of [char](CppChar.md).
 
 Prefer plain [char](CppChar.md) over [signed](CppSigned.md)
 [char](CppChar.md) and [unsigned](CppUnsigned.md) [char](CppChar.md)
-\[1\]. Use [std::string](CppString.md) rather than zero-terminated
+\[1\]. Use [std::string](CppStdString.md) rather than zero-terminated
 [arrays](CppArray.md) of [chars](CppChar.md) \[2\].
 
  

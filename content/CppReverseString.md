@@ -14,9 +14,9 @@
 
  
 
-[ReverseString](CppReverseString.md) is a [std::string](CppString.md)
+[ReverseString](CppReverseString.md) is a [std::string](CppStdString.md)
 [code snippets](CppCodeSnippets.md) to reverse a
-[std::string](CppString.md).
+[std::string](CppStdString.md).
 
  
 

@@ -1965,7 +1965,7 @@ Great stuff for historicians!
 1286. 14-04-2010: New page: [Opaque pointer](CppOpaquePointer.md)
 1287. 14-04-2010: Modified [std::vector](CppStdVector.md): improved page
     source
-1288. 14-04-2010: Modified [std::string](CppString.md): improved page
+1288. 14-04-2010: Modified [std::string](CppStdString.md): improved page
     source
 1289. 14-04-2010: Modified [std::runtime\_error](CppRuntime_error.md):
     improved page source
@@ -2595,7 +2595,7 @@ Great stuff for historicians!
 1645. 26-08-2009: New page: [Leary Circumplex](ToolLearyCircumplex.md)
 1646. 26-08-2009: New page: [LoopReader](CppLoopReader.md)
 1647. 26-08-2009: Modified [Tools](Tools.md): added internal links
-1648. 26-08-2009: Modified [std::string](CppString.md): added internal
+1648. 26-08-2009: Modified [std::string](CppStdString.md): added internal
     links
 1649. 26-08-2009: Modified [std::vector](CppStdVector.md): added internal
     links
@@ -2616,7 +2616,7 @@ Great stuff for historicians!
 1660. 24-08-2009: Modified [RemoveExtension](CppRemoveExtension.md):
     improved code
 1661. 24-08-2009: Modified [std::replace](CppReplace.md): improved page
-1662. 24-08-2009: Modified [std::string](CppString.md): added internal
+1662. 24-08-2009: Modified [std::string](CppStdString.md): added internal
     links
 1663. 23-08-2009: Modified [Assertion failed: !"Bad error code", file
     VMem.c, line 715](CppMiscErrorAssertionFailedBadErrorCodeVmemC.md)
@@ -2767,7 +2767,7 @@ Great stuff for historicians!
     links
 1741. 09-05-2009: Modified: [GetExtension](CppGetExtension.md): added
     internal links
-1742. 09-05-2009: Modified: [std::string](CppString.md): added internal
+1742. 09-05-2009: Modified: [std::string](CppStdString.md): added internal
     links
 1743. 09-05-2009: Modified: [Unresolved
     external 'std::\_String\_base::\_Xlen() const' referenced from
@@ -2897,7 +2897,7 @@ Great stuff for historicians!
     internal links
 1818. 27-04-2009: New page: [Sine](CppSine.md)
 1819. 27-04-2009: New page: [std::sin](CppSin.md)
-1820. 14-03-2009: Modified [std::string](CppString.md): added internal
+1820. 14-03-2009: Modified [std::string](CppStdString.md): added internal
     links
 1821. 28-02-2009: Modified [StrToLower](CppStrToLower.md): added
     internal links
@@ -3157,7 +3157,7 @@ Great stuff for historicians!
 1967. 12-07-2008: Modified [const](CppConst.md): added internal links
 1968. 12-07-2008: Modified [int](CppInt.md): added internal links
 1969. 12-07-2008: Modified [double](CppDouble.md): added internal links
-1970. 12-07-2008: Modified [std::string](CppString.md): added internal
+1970. 12-07-2008: Modified [std::string](CppStdString.md): added internal
     links
 1971. 12-07-2008: Modified [IsPrime](CppIsPrime.md): added internal
     links

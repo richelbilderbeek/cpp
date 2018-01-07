@@ -17,7 +17,7 @@
 [ContainerToStr](CppContainerToStr.md) is a
 [container](CppContainer.md) and [convert](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
-[container](CppContainer.md) to [std::string](CppString.md).
+[container](CppContainer.md) to [std::string](CppStdString.md).
 
  
 

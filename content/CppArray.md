@@ -92,7 +92,7 @@ There are two kinds of [arrays](CppArray.md):
     [containers](CppContainer.md) instead \[8\]
 -   Use [containers](CppContainer.md) rather than plain
     [arrays](CppArray.md) \[9\]
--   Use [std::string](CppString.md) rather than zero-terminated
+-   Use [std::string](CppStdString.md) rather than zero-terminated
     [arrays](CppArray.md) of [chars](CppChar.md) \[10\]
 -   Avoid passing arrays as pointers \[11\]
 -   Use [std::vector](CppStdVector.md) and

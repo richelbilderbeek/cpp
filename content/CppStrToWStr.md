@@ -16,7 +16,7 @@
 
 [StrToWStr](CppStrToWStr.md) is a [convert](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
-[std::string](CppString.md) to [Wt::WString](CppWString.md).
+[std::string](CppStdString.md) to [Wt::WString](CppWString.md).
 
  
 

@@ -16,7 +16,7 @@
 
 [NewickToString](CppNewickToString.md) is a [Newick](CppNewick.md)
 [code snippets](CppCodeSnippets.md) to convert a
-[Newick](CppNewick.md) to [std::string](CppString.md).
+[Newick](CppNewick.md) to [std::string](CppStdString.md).
 
  
 

@@ -14,7 +14,7 @@
 
  
 
-[std::string](CppString.md) [code snippet](CppCodeSnippets.md) to
+[std::string](CppStdString.md) [code snippet](CppCodeSnippets.md) to
 remove a filename's extension.
 
  

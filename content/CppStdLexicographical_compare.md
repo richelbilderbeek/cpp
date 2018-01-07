@@ -17,7 +17,7 @@
 [std::lexicographical\_compare](CppLexicographical_compare.md) is an
 [STL](CppStl.md) [algorithm](CppAlgorithm.md) to determine if two
 sequences of [characters](CppChar.md) are in an alphabetically sorted
-order. Note that [std::strings](CppString.md) are compared this way by
+order. Note that [std::strings](CppStdString.md) are compared this way by
 default.
 
  

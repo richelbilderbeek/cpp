@@ -16,7 +16,7 @@
 
 [std::strtod](CppStrtod.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to [convert](CppConvert.md) a
-[std::string](CppString.md) to [double](CppDouble.md).
+[std::string](CppStdString.md) to [double](CppDouble.md).
 
  
 

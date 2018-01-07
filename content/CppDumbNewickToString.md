@@ -17,7 +17,7 @@
 [DumbNewickToString](CppDumbNewickToString.md) is a
 [Newick](CppNewick.md) [code snippets](CppCodeSnippets.md) to convert
 a -possibly invalid- [Newick](CppNewick.md) to
-[std::string](CppString.md). [NewickToString](CppNewickToString.md) is
+[std::string](CppStdString.md). [NewickToString](CppNewickToString.md) is
 the checked version of [DumbNewickToString](CppDumbNewickToString.md).
 
  

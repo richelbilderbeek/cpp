@@ -16,7 +16,7 @@
 
 [CanLexicalCast](CppCanLexicalCast.md) is a [Checking](CppCheck.md)
 [code snippet](CppCodeSnippets.md) that let you check if you can
-convert a [std::string](CppString.md) to another [data
+convert a [std::string](CppStdString.md) to another [data
 type](CppDataType.md) using
 [boost::lexical\_cast](CppLexical_cast.md).
 

@@ -15,9 +15,9 @@
  
 
 [boost::algorithm::find\_first](CppFind_first.md) is a
-[Boost](CppBoost.md) [std::string](CppString.md)
+[Boost](CppBoost.md) [std::string](CppStdString.md)
 [algorithm](CppAlgorithm.md) to find the first
-[std::string](CppString.md) in a [std::string](CppString.md).
+[std::string](CppStdString.md) in a [std::string](CppStdString.md).
 
  
 

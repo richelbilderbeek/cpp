@@ -40,7 +40,7 @@ Example
 
 [std::invalid\_argument](CppInvalid_argument.md) is
 [thrown](CppThrow.md) when the [constructor](CppConstructor.md) of
-[std::bitset](CppBitset.md) is given a [std::string](CppString.md)
+[std::bitset](CppBitset.md) is given a [std::string](CppStdString.md)
 that does not consist of zeroes and ones:
 
  

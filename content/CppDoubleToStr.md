@@ -16,8 +16,8 @@
 
 [DoubleToStr](CppDoubleToStr.md) is a [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) an
-[double](CppDouble.md) to [std::string](CppString.md). To
-[convert](CppConvert.md) a [std::string](CppString.md) to
+[double](CppDouble.md) to [std::string](CppStdString.md). To
+[convert](CppConvert.md) a [std::string](CppStdString.md) to
 [double](CppDouble.md), use [StrToDouble](CppStrToDouble.md).
 
  

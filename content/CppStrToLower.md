@@ -14,9 +14,9 @@
 
  
 
-[std::string](CppString.md) [convert](CppConvert.md) [code
+[std::string](CppStdString.md) [convert](CppConvert.md) [code
 snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
-[std::string](CppString.md) to lower case.
+[std::string](CppStdString.md) to lower case.
 
  
 
