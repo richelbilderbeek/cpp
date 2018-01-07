@@ -54,7 +54,7 @@ begin and end of the [container](CppContainer.md). For a
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multiset](CppMultiset.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::pair](CppPair.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::priority\_queue](CppPriority_queue.md)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::set](CppSet.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::set](CppStdSet.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::slist](CppSlist.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::stack](CppStack.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::string](CppStdString.md)

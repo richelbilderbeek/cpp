@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::set](CppSet.md)
+([C++](Cpp.md)) [std::set](CppStdSet.md)
 =======================================
 
  
 
-[std::set](CppSet.md) is an [STL](CppStl.md)
+[std::set](CppStdSet.md) is an [STL](CppStl.md)
 [container](CppContainer.md) to store elements as an ordered set.
 
  
@@ -27,7 +27,7 @@
 
  
 
-[std::set](CppSet.md) [examples](CppExample.md)
+[std::set](CppStdSet.md) [examples](CppExample.md)
 -------------------------------------------------
 
  

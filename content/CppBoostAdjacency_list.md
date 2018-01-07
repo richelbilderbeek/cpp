@@ -44,7 +44,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Possible values:
         -   boost::hash\_setS: select std::hash\_set
         -   boost::listS: select [std::list](CppList.md)
-        -   boost::setS: select [std::set](CppSet.md)
+        -   boost::setS: select [std::set](CppStdSet.md)
         -   boost::slistS: select [std::slist](CppSlist.md)
         -   boost::vecS: select [std::vector](CppStdVector.md)
     -   Default value: boost::vecS
@@ -54,7 +54,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Possible values:
         -   boost::hash\_setS: select std::hash\_set
         -   boost::listS: select [std::list](CppList.md)
-        -   boost::setS: select [std::set](CppSet.md)
+        -   boost::setS: select [std::set](CppStdSet.md)
         -   boost::slistS: select [std::slist](CppSlist.md)
         -   boost::vecS: select [std::vector](CppStdVector.md)
     -   Default value: boost::vecS

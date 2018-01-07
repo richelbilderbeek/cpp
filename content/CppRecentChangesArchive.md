@@ -412,7 +412,7 @@ Great stuff for historicians!
 270. 25-01-2011: Modified [cmath.h](CppCmathH.md): improved page source
 271. 25-01-2011: Modified [const\_cast](CppConst_cast.md): improved
     page source
-272. 25-01-2011: Modified [std::endl](CppEndl.md): improved page source
+272. 25-01-2011: Modified [std::endl](CppStdEndl.md): improved page source
 273. 24-01-2011: New page: [Android
     development](CppAndroidDevelopment.md)
 274. 24-01-2011: New page: [Android development using Qt Creator under
@@ -1321,7 +1321,7 @@ Great stuff for historicians!
 890. 25-07-2010: New page: [operator&lt;](CppOperatorLess.md)
 891. 25-07-2010: New page: [operator\*](CppOperatorMultiply.md)
 892. 25-07-2010: New page: [istream.h](CppIstreamH.md)
-893. 25-07-2010: New page: [std::set](CppSet.md)
+893. 25-07-2010: New page: [std::set](CppStdSet.md)
 894. 25-07-2010: New page: [QT FAQ: How to put a dialog on the screen's
     center?](CppQtDialogOnScreenCenter.md)
 895. 25-07-2010: New page: [QT FAQ: How to add an
@@ -2528,7 +2528,7 @@ Great stuff for historicians!
     Solver](ToolRefrigeratorPuzzleSolver.md): improved content
 1603. 29-10-2009: &gt;Modified [References](CppReferences.md): added
     references
-1604. 28-10-2009: Modified [std::endl](CppEndl.md): updated content,
+1604. 28-10-2009: Modified [std::endl](CppStdEndl.md): updated content,
     added references
 1605. 11-10-2009: New page: [CallstackCounter](ToolCallstackCounter.md)
 1606. 10-10-2009: New page: [template](CppTemplate.md)
@@ -3459,7 +3459,7 @@ Great stuff for historicians!
 2143. 10-05-2008: Modified [glossary](CppGlossary.md): added links
 2144. 10-05-2008: New page: [bool](CppBool.md)
 2145. 10-05-2008: New page: [char](CppChar.md)
-2146. 10-05-2008: New page: [std::endl](CppEndl.md)
+2146. 10-05-2008: New page: [std::endl](CppStdEndl.md)
 2147. 10-05-2008: New page: [Assert in a C++ Builder Console
     Application](CppBuilderAssert.md)
 2148. 10-05-2008: Modified [assert](CppAssert.md): moved info and added

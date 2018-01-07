@@ -97,7 +97,7 @@ Things one can do on a [stream](CppStream.md):
 
  
 
--   [std::endl](CppEndl.md): adds newline ('\\n') and flushes the
+-   [std::endl](CppStdEndl.md): adds newline ('\\n') and flushes the
     [stream](CppStream.md)
 -   [std::ends](CppEnds.md): adds null ('\\0') to the
     [stream](CppStream.md)

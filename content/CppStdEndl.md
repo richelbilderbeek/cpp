@@ -1,6 +1,6 @@
-# ([C++](Cpp.md)) [std::endl](CppEndl.md)
+# ([C++](Cpp.md)) [std::endl](CppStdEndl.md)
 
-[std::endl](CppEndl.md) is an output [stream](CppStream.md) modifier
+[std::endl](CppStdEndl.md) is an output [stream](CppStream.md) modifier
 to go to the next line and flush the [stream](CppStream.md)'s buffer.
 
 ```
@@ -27,7 +27,7 @@ int main()
 }
 ```
 
-Avoid [std::endl](CppEndl.md) [1], as one does not need to flush the [std::cout](CppCout.md) buffer after every output [2].
+Avoid [std::endl](CppStdEndl.md) [1], as one does not need to flush the [std::cout](CppCout.md) buffer after every output [2].
 
 ## [References](CppReferences.md)
 

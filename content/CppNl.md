@@ -15,7 +15,7 @@
  
 
 [nl](CppNl.md) is a [stream](CppStream.md) manipulator, similar to
-[std::endl](CppEndl.md), except that [nl](CppNl.md) does not flush the
+[std::endl](CppStdEndl.md), except that [nl](CppNl.md) does not flush the
 [stream](CppStream.md).
 
  

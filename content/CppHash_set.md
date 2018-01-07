@@ -16,7 +16,7 @@
 
 [\_\_gnu\_cxx::hash\_set](CppHash_set.md) is a
 [container](CppContainer.md) to store elements like in a
-[std::set](CppSet.md) in such a way that retrieval is quicker.
+[std::set](CppStdSet.md) in such a way that retrieval is quicker.
 
  
 

@@ -76,7 +76,7 @@ Solution
  
 
 The [compiler](CppCompiler.md) was unable to find the
-[definition](CppDefinition.md) of [std::endl](CppEndl.md).
+[definition](CppDefinition.md) of [std::endl](CppStdEndl.md).
 [\#include](CppInclude.md) the [header file](CppHeaderFile.md)
 [iostream](CppIostreamH.md) so it does:
 

@@ -22,7 +22,7 @@ output. [std::cout](CppCout.md) is a [stream](CppStream.md) that one
 might want to [flush](CppFlush.md), [std::clog](CppClog.md) and
 [std::cerr](CppCerr.md) always [flush](CppFlush.md). When writing
 '\\n' to [std::cout](CppCout.md), [std::cout](CppCout.md) is not
-[flushed](CppFlush.md), [std::endl](CppEndl.md) writes '\\n' and
+[flushed](CppFlush.md), [std::endl](CppStdEndl.md) writes '\\n' and
 [flushes](CppFlush.md) the [stream](CppStream.md). Note that
 [flushing](CppFlush.md) a [stream](CppStream.md) takes time, so only
 [flush](CppFlush.md) when needed.
