@@ -15,7 +15,7 @@
  
 
 This page shows examples how to write and read a
-[std::vector](CppVector.md) to/from a [std::stream](CppStream.md).
+[std::vector](CppStdVector.md) to/from a [std::stream](CppStream.md).
 
  
 
@@ -27,7 +27,7 @@ This page shows examples how to write and read a
  
 
 To write and read a [data type](CppDataType.md) with two
-[std::vectors](CppVector.md) view [write and read two std::vectors
+[std::vectors](CppStdVector.md) view [write and read two std::vectors
 to/from a std::stream](CppVectorsToStream.md).
 
  

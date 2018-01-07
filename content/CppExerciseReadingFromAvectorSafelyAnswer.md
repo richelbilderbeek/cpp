@@ -37,12 +37,12 @@ First, I start this answer with one of my favorite
  
 
 It might be true that the variable 'index' is not a valid index of
-[std::vector](CppVector.md) 'v':
+[std::vector](CppStdVector.md) 'v':
 
 \#0) at the time 'maxIndex' was defined, the
-[std::vector](CppVector.md) 'v' might have changed in size
+[std::vector](CppStdVector.md) 'v' might have changed in size
 
-\#1) at the time 'index' was defined, the [std::vector](CppVector.md)
+\#1) at the time 'index' was defined, the [std::vector](CppStdVector.md)
 'v' might have changed in size
 
  
@@ -60,7 +60,7 @@ It might be true that the variable 'index' is not a valid index of
 
  
 
-You assume that 'index' is a valid index of [std::vector](CppVector.md)
+You assume that 'index' is a valid index of [std::vector](CppStdVector.md)
 'v'.
 
  
@@ -88,21 +88,21 @@ Note
 
  
 
-Writing asserts for each [std::vector](CppVector.md) access is not
+Writing asserts for each [std::vector](CppStdVector.md) access is not
 necessary.
 
  
 
-If the [std::vector](CppVector.md) in this exercise was a
-[const](CppConst.md) [std::vector](CppVector.md), you can be 100% sure
+If the [std::vector](CppStdVector.md) in this exercise was a
+[const](CppConst.md) [std::vector](CppStdVector.md), you can be 100% sure
 that it did not change in size, so you can be sure the
-[std::vector](CppVector.md) access is valid.
+[std::vector](CppStdVector.md) access is valid.
 
  
 
 If short pieces of code (IMHO: 5 lines) in which you do not see an
-change of [std::vector](CppVector.md)'s size, you can be 99,9% sure
-that [std::vector](CppVector.md) access is valid. Be aware that this
+change of [std::vector](CppStdVector.md)'s size, you can be 99,9% sure
+that [std::vector](CppStdVector.md) access is valid. Be aware that this
 short piece of code can expand in time, decreasing the certainty that
 the access is valid.
 

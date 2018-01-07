@@ -17,9 +17,9 @@
 This [write and read a std::vector to/from a
 std::stream](CppVectorToStream.md) example demonstrates a basic, yet
 not a foolproof way. The program its setup is fine: a
-[std::vector](CppVector.md) is created, written to file, a new
-[std::vector](CppVector.md) is written from that same file and the
-program tests if the two [std::vectors](CppVector.md) are identical.
+[std::vector](CppStdVector.md) is created, written to file, a new
+[std::vector](CppStdVector.md) is written from that same file and the
+program tests if the two [std::vectors](CppStdVector.md) are identical.
 
  
 

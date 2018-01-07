@@ -16,7 +16,7 @@
 
 [std::replace\_if](CppReplace_if.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to replace elements of a sequence (on a
-[std::vector](CppVector.md), for example) that satisfy a certain
+[std::vector](CppStdVector.md), for example) that satisfy a certain
 predicate. Use [std::replace](CppReplace.md) if no
 [predicate](CppPredicate.md) is needed (that is: a certain value must
 always be replaced).

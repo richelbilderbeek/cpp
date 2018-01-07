@@ -16,7 +16,7 @@
 
 [ASCII art](CppAsciiArt.md) [code snippet](CppCodeSnippets.md) to
 convert a [VCL](CppVcl.md) [TImage](CppTImage.md) to a
-[std::vector](CppVector.md) of [std::string](CppString.md).
+[std::vector](CppStdVector.md) of [std::string](CppString.md).
 
  
 

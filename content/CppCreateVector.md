@@ -14,9 +14,9 @@
 
  
 
-[CreateVector](CppCreateVector.md) is a [std::vector](CppVector.md)
+[CreateVector](CppCreateVector.md) is a [std::vector](CppStdVector.md)
 [code snippet](CppCodeSnippets.md) to create a
-[std::vector](CppVector.md) from three values.
+[std::vector](CppStdVector.md) from three values.
 
  
 

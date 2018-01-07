@@ -16,7 +16,7 @@
 
 [GetDifference](CppGetDifference.md) is a [math](CppMath.md) [code
 snippet](CppCodeSnippets.md) to get get a difference
-[std::vector](CppVector.md) from [std::vectors](CppVector.md).
+[std::vector](CppStdVector.md) from [std::vectors](CppStdVector.md).
 
  
 

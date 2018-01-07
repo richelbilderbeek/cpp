@@ -18,7 +18,7 @@ An [exception](CppException.md) [derived](CppDerivedClass.md) from
 [std::logic\_error](CppLogic_error.md) that can be
 [thrown](CppThrow.md) by the 'at' [member
 function](CppMemberFunction.md) (from, for example, a
-[std::vector](CppVector.md)) and
+[std::vector](CppStdVector.md)) and
 [std::bitset](CppBitset.md)&lt;&gt;::operator\[\]().
 
  

@@ -173,7 +173,7 @@ Or using a [std::auto\_ptr](CppAuto_ptr.md):
 
 But this simple code is not enough, as you probably want to keep the
 Child Forms on the Parent Form. So you could use a
-[std::vector](CppVector.md) storing these child
+[std::vector](CppStdVector.md) storing these child
 [pointers](CppPointer.md). I use the
 [boost::shared\_ptr](CppShared_ptr.md) for this:
 

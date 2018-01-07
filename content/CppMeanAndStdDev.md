@@ -15,7 +15,7 @@
  
 
 [Math](CppMath.md) [code snippet](CppCodeSnippets.md) to get the mean
-and standard deviation of a [std::vector](CppVector.md).
+and standard deviation of a [std::vector](CppStdVector.md).
 
  
 

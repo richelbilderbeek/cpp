@@ -27,7 +27,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-Question \#31: Find an ID in a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
+Question \#31: Find an ID in a [std::vector](CppStdVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -----------------------------------------------------------------------------------------------------
 
  

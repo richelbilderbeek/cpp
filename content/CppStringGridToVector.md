@@ -16,7 +16,7 @@
 
 [VCL](CppVcl.md) [code snippet](CppCodeSnippets.md) to convert a
 [VCL](CppVcl.md) [TStringGrid](CppTStringGrid.md) to a 2D
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
  
 

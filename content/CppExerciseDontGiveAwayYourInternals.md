@@ -40,7 +40,7 @@ Part \#0: checking your [member function design](CppMemberFunctionDesign.md)
  
 
 You are programming on a Zoo class, containing a
-[std::vector](CppVector.md) of Animal. An Animal is an ordinary
+[std::vector](CppStdVector.md) of Animal. An Animal is an ordinary
 [struct](CppStruct.md) containg member variables only (also called a
 plain old data type). Your code so far is shown below.
 
@@ -53,7 +53,7 @@ plain old data type). Your code so far is shown below.
  
 
 Write a [member function](CppMemberFunction.md) called 'GetAnimals' to
-read, and only read, the [std::vector](CppVector.md) of Animal.
+read, and only read, the [std::vector](CppStdVector.md) of Animal.
 
  
 
@@ -90,7 +90,7 @@ below.
  
 
 Write a [member function](CppMemberFunction.md) called 'GetAnimals' to
-read, and only read, the [std::vector](CppVector.md) of
+read, and only read, the [std::vector](CppStdVector.md) of
 [boost::shared\_ptr](CppShared_ptr.md) of Animal. Check this method.
 
  

@@ -70,7 +70,7 @@ These sixteen possible [member functions](CppMemberFunction.md) are:
  
 
 The first halve to be taken off the list of possiblities are those that
-[return](CppReturn.md) a copy of the [std::vector](CppVector.md) of
+[return](CppReturn.md) a copy of the [std::vector](CppStdVector.md) of
 Animals. We don't need a copy of all those animals (imagine that a Zoo
 has millions of animals!). We do need to do is get a safe read-only
 reference to the animals (Note: perhaps later we will get back to
@@ -130,9 +130,9 @@ it's time to [define](CppDefinition.md) them:
 It appears that GetAnimals2 and GetAnimals3 do not
 [compile](CppCompile.md). This is correct: we indeed give away a
 [reference](CppReference.md) to a
-[std::vector](CppVector.md)&lt;Animal&gt; instead of to a
-[std::vector](CppVector.md)&lt;[const](CppConst.md) Animal&gt;. If we
-want to return a [std::vector](CppVector.md)&lt;[const](CppConst.md)
+[std::vector](CppStdVector.md)&lt;Animal&gt; instead of to a
+[std::vector](CppStdVector.md)&lt;[const](CppConst.md) Animal&gt;. If we
+want to return a [std::vector](CppStdVector.md)&lt;[const](CppConst.md)
 Animal&gt; then we need to make a copy of all those animals. Let's
 refrain from this (for now) and call GetAnimals1 the winner.
 
@@ -166,7 +166,7 @@ Epilogue
 The exercise is called 'Don't give away your internals' (after \[1\]).
 One of the points of this item was the question: 'What do you want to do
 with this information?'. If you want to use [std::cout](CppCout.md) on
-the implementation of Zoo (that is, the [std::vector](CppVector.md) of
+the implementation of Zoo (that is, the [std::vector](CppStdVector.md) of
 Animal), why not enable to use [std::cout](CppCout.md) on Zoo itself?
 Think if you perhaps do not need the GetAnimals (or similar, as in your
 code) method after all.

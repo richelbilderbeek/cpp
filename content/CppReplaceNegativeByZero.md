@@ -15,7 +15,7 @@
  
 
 [Code snippet](CppCodeSnippets.md) to replace negative values in a
-[std::vector](CppVector.md) by a zero.
+[std::vector](CppStdVector.md) by a zero.
 
  
 

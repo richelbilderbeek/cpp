@@ -15,7 +15,7 @@
  
 
 [ASCII art](CppAsciiArt.md) [code snippet](CppCodeSnippets.md) that
-displays a 2D (y-x-ordered) [std::vector](CppVector.md) of
+displays a 2D (y-x-ordered) [std::vector](CppStdVector.md) of
 [double](CppDouble.md) as a surface chart using [ASCII
 art](CppAsciiArt.md) characters (see an example below the code).
 

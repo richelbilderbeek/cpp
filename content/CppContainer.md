@@ -21,7 +21,7 @@ type](CppDataType.md)s.
  
 
 Every [container](CppContainer.md) has its own advantages and
-disadvantages. For example a [std::vector](CppVector.md) has
+disadvantages. For example a [std::vector](CppStdVector.md) has
 random-access reading/writing, but new elements can only be added at the
 begin and end of the [container](CppContainer.md). For a
 [std::list](CppList.md), this is the other way around.
@@ -62,7 +62,7 @@ begin and end of the [container](CppContainer.md). For a
 -   ![
     ](PicSpacer.png)![C++11](PicCpp11.png)[std::unordered\_map](CppUnordered_map.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::valarray](CppValarray.md)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::vector](CppVector.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::vector](CppStdVector.md)
 
  
 
@@ -198,10 +198,10 @@ SGI extension [containers](CppContainer.md) (incomplete list)
     [containers](CppContainer.md) \[2\]
 -   An [STL](CppStl.md) [container](CppContainer.md) defines a
     sequence \[3\]
--   Use [std::vector](CppVector.md) as your default
+-   Use [std::vector](CppStdVector.md) as your default
     [container](CppContainer.md) \[4\]
 -   Insertion operators, such as insert() and push\_back() are often
-    more efficient on a [std::vector](CppVector.md) than on a
+    more efficient on a [std::vector](CppStdVector.md) than on a
     [std::list](CppList.md) \[5\]
 -   Pass a [container](CppContainer.md) by
     [reference](CppReference.md) and [return](CppReturn.md) a

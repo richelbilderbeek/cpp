@@ -15,8 +15,8 @@
  
 
 [GetSizes](CppGetSizes.md) is a [matrix](CppMatrix.md) [code
-snippet](CppCodeSnippets.md) to obtain all [std::vector](CppVector.md)
-sizes in a (one-dimensional) [std::vector](CppVector.md).
+snippet](CppCodeSnippets.md) to obtain all [std::vector](CppStdVector.md)
+sizes in a (one-dimensional) [std::vector](CppStdVector.md).
 
  
 

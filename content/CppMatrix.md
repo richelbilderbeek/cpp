@@ -59,32 +59,32 @@ These possibilities are described below in more detail.
 
  
 
-![STL](PicStl.png) [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt; &gt;
+![STL](PicStl.png) [std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt; &gt;
 -----------------------------------------------------------------------------------------------------------------
 
  
 
-A [std::vector](CppVector.md) can contain a collection of
-[std::vector](CppVector.md)s. If all [std::vector](CppVector.md)s in
+A [std::vector](CppStdVector.md) can contain a collection of
+[std::vector](CppStdVector.md)s. If all [std::vector](CppStdVector.md)s in
 this collection are of the same size, one has a matrix.
 
  
 
 When using
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
+[std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt; for a two-dimensional matrix, the choice between x-y-ordering or
 y-x-ordering must be made. The run-time speed difference does not reside
 in individual element read/write, but when obtaining a row or collumn:
 in a y-x-ordered
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
+[std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt; an individual row can be obtained, in an x-y-ordered
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
+[std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt; an individual collumn can be obtained.
 
  
 
 Below is an example of a y-x-ordered
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;
+[std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt;
 &gt;.
 
  
@@ -103,7 +103,7 @@ Below is an example of a y-x-ordered
 
  
 
-### [std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;[int](CppInt.md)&gt; &gt; [code snippets](CppCodeSnippets.md)
+### [std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt; &gt; [code snippets](CppCodeSnippets.md)
 
  
 

@@ -14,9 +14,9 @@
 
  
 
-[GetIncVector](CppGetIncVector.md) is a [std::vector](CppVector.md)
+[GetIncVector](CppGetIncVector.md) is a [std::vector](CppStdVector.md)
 [code snippet](CppCodeSnippets.md) to obtain a
-[std::vector](CppVector.md) with incremented values, for example, with
+[std::vector](CppStdVector.md) with incremented values, for example, with
 values 0,1,2,3,etc.
 
  

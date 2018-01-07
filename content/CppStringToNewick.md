@@ -18,7 +18,7 @@
 [code snippets](CppCodeSnippets.md) to [convert](CppConvert.md) a well
 formed [Newick](CppNewick.md) [std::string](CppString.md) to
 [Newick](CppNewick.md)
-[std::vector](CppVector.md)&lt;**[int](CppInt.md)**&gt;.
+[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt;.
 
  
 

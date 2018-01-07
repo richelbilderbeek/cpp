@@ -25,7 +25,7 @@ for a book, pay attention to the following:
     '[void](CppVoid.md) [main](CppMain.md)' \[1-5\]
 -   It should use '[string](CppString.md)', instead of
     '[char](CppChar.md) \*' \[6-10\]
--   It should use '[vector](CppVector.md)', instead of
+-   It should use '[vector](CppStdVector.md)', instead of
     [arrays](CppArray.md) \[6-10\]
 -   It should use '[cout](CppCout.md)', instead of
     '[printf](CppPrintf.md)' (which is an unsafe C function)

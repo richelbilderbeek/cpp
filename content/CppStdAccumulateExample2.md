@@ -3,7 +3,7 @@
 [std::accumulate example 2: summing a std::vector of a custom class
 using a C++11 lambda expression](CppAccumulateExample2.md) is a
 [std::accumulate](CppAccumulate.md) example to sum a
-[std::vector](CppVector.md) of a custom [class](CppClass.md) using a
+[std::vector](CppStdVector.md) of a custom [class](CppClass.md) using a
 [C++11](Cpp11.md) [lambda expression](CppLambdaExpression.md).
 
 ```c++

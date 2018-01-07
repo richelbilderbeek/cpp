@@ -198,7 +198,7 @@ Note, warnings, curiosities
 This will give you a [memory leak](CppMemoryLeak.md), as a
 std::auto\_ptr calls [delete](CppDelete.md), instead of
 [delete\[\]](CppDeleteArray.md). As advised by \[1\], you should prefer
-a [std::vector](CppVector.md) over an array. But if you really want to
+a [std::vector](CppStdVector.md) over an array. But if you really want to
 use a [smart pointer](CppSmartPointer.md), use a
 [boost::scoped\_array](CppScoped_array.md).
 
@@ -212,7 +212,7 @@ use a [smart pointer](CppSmartPointer.md), use a
 
  
 
-### Do not put [std::auto\_ptr](CppAuto_ptr.md)'s in a [std::vector](CppVector.md) \[4\]
+### Do not put [std::auto\_ptr](CppAuto_ptr.md)'s in a [std::vector](CppStdVector.md) \[4\]
 
  
 

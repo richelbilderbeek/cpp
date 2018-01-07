@@ -35,10 +35,10 @@ Example
 
  
 
-Assume you work with a [std::vector](CppVector.md) of
+Assume you work with a [std::vector](CppStdVector.md) of
 [integers](CppInt.md) in which two sequences are forbidden: zero-zero
 and one-zero. With [std::search](CppSearch.md) these sequences can be
-used to find if our exemplary [std::vector](CppVector.md) is valid.
+used to find if our exemplary [std::vector](CppStdVector.md) is valid.
 
  
 

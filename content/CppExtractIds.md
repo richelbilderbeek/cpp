@@ -23,7 +23,7 @@ type](CppDataType.md) from multiple complex [class](CppClass.md)
 
 [ExtractIds](CppExtractIds.md) extracts the [integer](CppInt.md)
 called ID from multiple Person [class](CppClass.md)
-[instances](CppInstance.md) stored in a [std::vector](CppVector.md).
+[instances](CppInstance.md) stored in a [std::vector](CppStdVector.md).
 Note that the [container](CppContainer.md) the Persons are stored in
 will support the example code below.
 

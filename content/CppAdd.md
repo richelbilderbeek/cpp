@@ -16,7 +16,7 @@
 
 [Add](CppAdd.md) is a [math](CppMath.md) [code
 snippet](CppCodeSnippets.md) to add a certain same value to each
-element in a [std::vector](CppVector.md).
+element in a [std::vector](CppStdVector.md).
 
  
 
@@ -24,12 +24,12 @@ There are multiple ways to perform [Add](CppAdd.md):
 
 1.  ![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md)
     [algorithm](CppAlgorithm.md) way on a
-    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+    [std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt;
 2.  ![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md)
     [algorithm](CppAlgorithm.md) way on a
-    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+    [std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt;
 3.  ![C++98](PicCpp98.png) The for-loop way on a
-    [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+    [std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt;
 
  
 
@@ -45,7 +45,7 @@ There are multiple ways to perform [Add](CppAdd.md):
 
  
 
-![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+![C++11](PicCpp11.png)![STL](PicStl.png) The [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -68,7 +68,7 @@ Prefer [algorithms](CppAlgorithm.md) over loops \[1\]\[2\]
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+![C++98](PicCpp98.png)![STL](PicStl.png) The [C++98](Cpp98.md) [algorithm](CppAlgorithm.md) way on a [std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -96,7 +96,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-![C++98](PicCpp98.png) The for-loop way on a [std::vector](CppVector.md)&lt;[int](CppInt.md)&gt;
+![C++98](PicCpp98.png) The for-loop way on a [std::vector](CppStdVector.md)&lt;[int](CppInt.md)&gt;
 --------------------------------------------------------------------------------------------------
 
  

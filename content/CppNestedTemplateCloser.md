@@ -15,8 +15,8 @@
  
 
 When [template](CppTemplate.md) [data types](CppDataType.md) are
-nested, for example a [std::vector](CppVector.md) of
-[std::vectors](CppVector.md) of [int](CppInt.md), its
+nested, for example a [std::vector](CppStdVector.md) of
+[std::vectors](CppStdVector.md) of [int](CppInt.md), its
 [declaration](CppDeclaration.md) ends with its [nested template
 closer](CppNestedTemplateCloser.md).
 

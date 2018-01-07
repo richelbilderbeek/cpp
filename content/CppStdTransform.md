@@ -16,7 +16,7 @@
 
 [std::transform](CppTransform.md) is an [algorithm](CppAlgorithm.md)
 to perform a modifying [function](CppFunction.md) on the elements of a
-sequence (on a [std::vector](CppVector.md), for example). Use
+sequence (on a [std::vector](CppStdVector.md), for example). Use
 [std::for\_each](CppFor_each.md) to perform non-modifying
 [functions](CppFunction.md) on the elements of a sequence.
 
@@ -49,7 +49,7 @@ Example
  
 
 The code below shows a simple way to multiply all elements in a
-[std::vector](CppVector.md) by a certain value:
+[std::vector](CppStdVector.md) by a certain value:
 
  
 

@@ -53,7 +53,7 @@ accessed by the [index operator](CppOperatorIndex.md).
 
  
 
-Prefer a [std::vector](CppVector.md) (or perhaps std::array) over an
+Prefer a [std::vector](CppStdVector.md) (or perhaps std::array) over an
 [array](CppArray.md) by default \[1-4\]. Consider not using
 [arrays](CppArray.md) in the [interface](CppInterface.md) of a
 [class](CppClass.md).

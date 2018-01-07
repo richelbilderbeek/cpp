@@ -46,7 +46,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
         -   boost::listS: select [std::list](CppList.md)
         -   boost::setS: select [std::set](CppSet.md)
         -   boost::slistS: select [std::slist](CppSlist.md)
-        -   boost::vecS: select [std::vector](CppVector.md)
+        -   boost::vecS: select [std::vector](CppStdVector.md)
     -   Default value: boost::vecS
 
 2.  VertexList
@@ -56,7 +56,7 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
         -   boost::listS: select [std::list](CppList.md)
         -   boost::setS: select [std::set](CppSet.md)
         -   boost::slistS: select [std::slist](CppSlist.md)
-        -   boost::vecS: select [std::vector](CppVector.md)
+        -   boost::vecS: select [std::vector](CppStdVector.md)
     -   Default value: boost::vecS
 
 3.  Directed

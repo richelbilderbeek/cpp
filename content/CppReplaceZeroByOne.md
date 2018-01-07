@@ -15,7 +15,7 @@
  
 
 [Code snippet](CppCodeSnippets.md) to replace all zeroes in a
-[std::vector](CppVector.md) by a one.
+[std::vector](CppStdVector.md) by a one.
 
  
 

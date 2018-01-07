@@ -21,7 +21,7 @@ Relies heavily on the [algorithms](CppAlgorithm.md)
 [GetMazeDistances](CppGetMazeDistances.md) and
 [GetDistancesPath](CppGetDistancesPath.md). Note that the code below is
 not an efficient [algorithm](CppAlgorithm.md): the
-[std::vector](CppVector.md) created by
+[std::vector](CppStdVector.md) created by
 [GetMazeDistances](CppGetMazeDistances.md) remains the same, as long as
 the maze remains the same. When the maze does remain the same, I'd
 suggest to calculate the maze distances once and store it, from then on

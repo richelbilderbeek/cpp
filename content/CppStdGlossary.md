@@ -332,7 +332,7 @@ glossary](CppBoostGlossary.md).
 308. [std::upper\_bound](CppUpper_bound.md)
 309. [std::uppercase](CppUppercase.md)
 310. [std::valarray](CppValarray.md)
-311. [std::vector](CppVector.md)
+311. [std::vector](CppStdVector.md)
 312. [std::vfprintf](CppVfprintf.md)
 313. [std::vfwprint](CppVfwprint.md)
 314. [std::vprintf](CppVprintf.md)

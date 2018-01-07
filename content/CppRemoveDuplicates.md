@@ -15,8 +15,8 @@
  
 
 [RemoveDuplicates](CppRemoveDuplicates.md) is a
-[std::vector](CppVector.md) [code snippet](CppCodeSnippets.md) to
-remove duplicates from a [std::vector](CppVector.md).
+[std::vector](CppStdVector.md) [code snippet](CppCodeSnippets.md) to
+remove duplicates from a [std::vector](CppStdVector.md).
 
  
 

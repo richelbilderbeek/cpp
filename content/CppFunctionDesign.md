@@ -48,7 +48,7 @@
  * A function declared with an empty parameter list takes no arguments [37]. Or: write 'int f()' instead of 'int f(void)' [37]
  * Prefer pass-by-reference-to-const to pass-by-value [30]
  * Use pass-by-non-const-reference only if you have to [14]
- * Do use a non-[pointer](CppPointer.md) [reference](CppReference.md) object for expensive-to-copy data types, like [std::string](CppString.md), [std::vector](CppVector.md)&lt;int&gt; or Database. Make the argument [const](CppConst.md) if it must be marked read-only [10]
+ * Do use a non-[pointer](CppPointer.md) [reference](CppReference.md) object for expensive-to-copy data types, like [std::string](CppString.md), [std::vector](CppStdVector.md)&lt;int&gt; or Database. Make the argument [const](CppConst.md) if it must be marked read-only [10]
  * Do use a non-[pointer](CppPointer.md) non-[reference](CppReference.md) object for standard data types like int [9]. Make the argument [const](CppConst.md) if it must be marked read-only
  * Do use a [pointer](CppPointer.md) (or better: a [smart pointer](CppSmartPointer.md)) to a [data type](CppDataType.md) when the [argument](CppArgument.md) can be [nullptr](CppNullptr.md)/[null](CppNull.md)/empty [13]. If the [pointer](CppPointer.md) needs to be read-only, make it [const](CppConst.md) (for example 'void CoutT([const](CppConst.md) T \* [const](CppConst.md) t)', where CoutT is a function that uses std::cout on a T)
  * Avoid passing [arrays](CppArray.md) as [pointers](CppPointer.md) [16]

@@ -20,7 +20,7 @@ opposite of the [dynamically allocated arrays](CppArrayDynamic.md)).
 
  
 
-Prefer a [std::vector](CppVector.md) over an [array](CppArray.md) by
+Prefer a [std::vector](CppStdVector.md) over an [array](CppArray.md) by
 default \[1-5\].
 
  

@@ -14,11 +14,11 @@
 
  
 
-[AllAboutEqual](CppAllAboutEqual.md) is a [std::vector](CppVector.md)
+[AllAboutEqual](CppAllAboutEqual.md) is a [std::vector](CppStdVector.md)
 [checking](CppCheck.md)
 
 [code snippet](CppCodeSnippets.md) to [check](CppCheck.md) if all
-[doubles](CppDouble.md) in a [std::vector](CppVector.md) are about
+[doubles](CppDouble.md) in a [std::vector](CppStdVector.md) are about
 equal.
 
  

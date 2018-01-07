@@ -21,7 +21,7 @@ arrays](CppArrayStatic.md)).
 
  
 
-Prefer a [std::vector](CppVector.md) to [dynamically allocated
+Prefer a [std::vector](CppStdVector.md) to [dynamically allocated
 arrays](CppArrayDynamic.md) \[1-5\].
 
  

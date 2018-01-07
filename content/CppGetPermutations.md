@@ -21,13 +21,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
 [GetPermutations](CppGetPermutations.md) is a [code
 snippet](CppCodeSnippets.md) to obtain all permutations of a
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
  
 
 [GetCombinations](CppGetCombinations.md) is a [code
 snippet](CppCodeSnippets.md) to obtain all combinations of a
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
 Technical facts
 ---------------

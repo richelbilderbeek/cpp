@@ -16,7 +16,7 @@
 
 [Algorithm](CppAlgorithm.md) to perform a non-modifying
 [function](CppFunction.md) on the elements of a sequence (on a
-[std::vector](CppVector.md), for example). Use
+[std::vector](CppStdVector.md), for example). Use
 [std::transform](CppTransform.md) to perform modifying
 [functions](CppFunction.md) on the elements of a sequence.
 

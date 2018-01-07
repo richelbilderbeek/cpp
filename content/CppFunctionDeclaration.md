@@ -132,7 +132,7 @@ that can be [null](CppNull.md)) and does not copy (due to the
  
 
 The function [MeanAndStdDev](CppMeanAndStdDev.md) uses an existing
-[std::vector](CppVector.md) (it uses a [reference](CppReference.md),
+[std::vector](CppStdVector.md) (it uses a [reference](CppReference.md),
 instead of a [pointer](CppPointer.md) that can be [null](CppNull.md))
 and does not copy (due to the [reference](CppReference.md)) nor modify
 (due to the [const](CppConst.md)) it.

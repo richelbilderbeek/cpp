@@ -16,9 +16,9 @@
 
 [Container](CppContainer.md) [code snippet](CppCodeSnippets.md) that
 [converts](CppConvert.md) a
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;X&gt;
+[std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;X&gt;
 &gt; to
-[std::vector](CppVector.md)&lt;[std::vector](CppVector.md)&lt;Y&gt;
+[std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;Y&gt;
 &gt; using [static\_cast](CppStatic_cast.md).
 
  

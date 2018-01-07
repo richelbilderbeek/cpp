@@ -17,7 +17,7 @@
 [Graphics](CppGraphics.md) and [math](CppMath.md) [code
 Snippet](CppCodeSnippets.md) to perform a filter operation (also called
 a convolution) on an image. This image is a 2D
-[std::vector](CppVector.md) of [int](CppInt.md) (y-x-ordered).
+[std::vector](CppStdVector.md) of [int](CppInt.md) (y-x-ordered).
 
  
 

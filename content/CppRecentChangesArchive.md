@@ -1575,7 +1575,7 @@ Great stuff for historicians!
     improved page source
 1055. 24-05-2010: Modified [Increase](CppFunctorIncrease.md): improved
     page source and content
-1056. 24-05-2010: Modified [std::vector](CppVector.md): improved page
+1056. 24-05-2010: Modified [std::vector](CppStdVector.md): improved page
     content
 1057. 24-05-2010: Modified [Qt Creator](CppQtCreator.md): added
     internal links
@@ -1963,7 +1963,7 @@ Great stuff for historicians!
 1284. 14-04-2010: New page: [std::multiplies](CppMultiplies.md)
 1285. 14-04-2010: New page: [std::less](CppLess.md)
 1286. 14-04-2010: New page: [Opaque pointer](CppOpaquePointer.md)
-1287. 14-04-2010: Modified [std::vector](CppVector.md): improved page
+1287. 14-04-2010: Modified [std::vector](CppStdVector.md): improved page
     source
 1288. 14-04-2010: Modified [std::string](CppString.md): improved page
     source
@@ -2582,7 +2582,7 @@ Great stuff for historicians!
     internal links
 1638. 29-08-2009: Modified [ReplaceOnce](CppReplaceOnce.md) &gt;: added
     internal links
-1639. 29-08-2009: Modified [std::vector](CppVector.md): added internal
+1639. 29-08-2009: Modified [std::vector](CppStdVector.md): added internal
     links
 1640. 29-08-2009: Modified [Random number](CppRandomNumber.md) &gt;:
     added internal links
@@ -2597,7 +2597,7 @@ Great stuff for historicians!
 1647. 26-08-2009: Modified [Tools](Tools.md): added internal links
 1648. 26-08-2009: Modified [std::string](CppString.md): added internal
     links
-1649. 26-08-2009: Modified [std::vector](CppVector.md): added internal
+1649. 26-08-2009: Modified [std::vector](CppStdVector.md): added internal
     links
 1650. 26-08-2009: Modified [Container](CppContainer.md): added internal
     links
@@ -2984,7 +2984,7 @@ Great stuff for historicians!
     internal links
 1870. 27-07-2008: Modified [Container](CppContainer.md): added internal
     links
-1871. 27-07-2008: Modified [std::vector](CppVector.md): added internal
+1871. 27-07-2008: Modified [std::vector](CppStdVector.md): added internal
     links
 1872. 27-07-2008: Modified [PlotSurface](CppPlotSurface.md): improved
     code

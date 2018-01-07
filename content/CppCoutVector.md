@@ -14,12 +14,12 @@
 
  
 
-[std::vector](CppVector.md) [code snippet](CppCodeSnippets.md) to
-write every element in a [std::vector](CppVector.md) to
+[std::vector](CppStdVector.md) [code snippet](CppCodeSnippets.md) to
+write every element in a [std::vector](CppStdVector.md) to
 [std::cout](CppCout.md). There is also a more general solution for
 every [container](CppContainer.md):
 [CoutContainer](CppCoutContainer.md). To be also able to read the
-[std::vector](CppVector.md), go to [write and read a std::vector
+[std::vector](CppStdVector.md), go to [write and read a std::vector
 to/from a std::stream](CppVectorToStream.md).
 
  
@@ -27,7 +27,7 @@ to/from a std::stream](CppVectorToStream.md).
 Instead of using a [for](CppFor.md)-loop (See question 15 of [Exercise
 \#9: No for-loops](CppExerciseNoForLoops.md)), the
 [algorithm](CppAlgorithm.md) [std::copy](CppCopy.md) can be used to
-copy the contents of a [std::vector](CppVector.md) to
+copy the contents of a [std::vector](CppStdVector.md) to
 [std::cout](CppCout.md) using the
 [std::ostream\_iterator](CppOstream_iterator.md). Prefer algorithms
 over loops \[1\]\[2\].

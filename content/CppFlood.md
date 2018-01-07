@@ -55,7 +55,7 @@ My personal [Flood](CppFlood.md) remarks
 -   [Flood](CppFlood.md) is not const-correct
 -   [Flood](CppFlood.md) uses custom [data types](CppDataType.md) like
     [Flood::Vector](CppFloodVector.md), instead of
-    [std::vector](CppVector.md)
+    [std::vector](CppStdVector.md)
 -   [Flood](CppFlood.md) does not save its neural networks in the PMML
     language
 

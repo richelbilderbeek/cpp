@@ -32,7 +32,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-Question \#32: Sum all persons' money from a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
+Question \#32: Sum all persons' money from a [std::vector](CppStdVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -------------------------------------------------------------------------------------------------------------------
 
  

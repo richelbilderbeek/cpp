@@ -51,7 +51,7 @@ to store elements in a double-ended queue.
  
 
 -   Don't use [iterators](CppIterator.md) into a resized
-    [std::vector](CppVector.md) or [std::deque](CppDeque.md) \[1\]
+    [std::vector](CppStdVector.md) or [std::deque](CppDeque.md) \[1\]
 
  
 

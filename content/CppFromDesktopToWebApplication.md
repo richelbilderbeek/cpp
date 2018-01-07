@@ -98,7 +98,7 @@ I did the following things:
 
 -   Removed the use of the [Windows](CppWindows.md)-only
     [TImage](CppTImage.md) [class](CppClass.md), replaced it by
-    requesting a Y-X ordered 2D [std::vector](CppVector.md) of
+    requesting a Y-X ordered 2D [std::vector](CppStdVector.md) of
     greyscales
 -   Put all [global](CppGlobal.md) [functions](CppFunction.md) in the
     [AsciiArter](CppAsciiArter.md) [class](CppClass.md)
@@ -160,7 +160,7 @@ I did the following things:
 
 -   Removed the use of the [Windows](CppWindows.md)-only
     [TImage](CppTImage.md) [class](CppClass.md), replaced it by
-    requesting a Y-X ordered 2D [std::vector](CppVector.md) of
+    requesting a Y-X ordered 2D [std::vector](CppStdVector.md) of
     greyscales
 -   Added versioning
 
@@ -218,7 +218,7 @@ Put the [Qt](CppQt.md) [GUI](CppGui.md) functionality in a [class](CppClass.md) 
 I did the following things:
 
 -   Let GUI library used, Qt in this case, convert the QImage to the
-    requested Y-X ordered 2D [std::vector](CppVector.md) of greyscales
+    requested Y-X ordered 2D [std::vector](CppStdVector.md) of greyscales
 
  
 

@@ -27,7 +27,7 @@ the same solution, yield different execution speeds.
 
 Below is a [declaration](CppDeclaration.md) of a
 [function](CppFunction.md) to add one to every [int](CppInt.md) in a
-[std::vector](CppVector.md):
+[std::vector](CppStdVector.md):
 
  
 

@@ -14,9 +14,9 @@
 
  
 
-[IsSquare](CppIsSquare.md) is a [std::vector](CppVector.md) [code
+[IsSquare](CppIsSquare.md) is a [std::vector](CppStdVector.md) [code
 snippet](CppCodeSnippets.md) to check if a
-2D-[std::vector](CppVector.md) is square.
+2D-[std::vector](CppStdVector.md) is square.
 
  
 

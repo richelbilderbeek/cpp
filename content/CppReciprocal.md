@@ -56,7 +56,7 @@ The general algorithm way
 
  
 
-The algorithm way on a [std::vector](CppVector.md)&lt;double&gt;
+The algorithm way on a [std::vector](CppStdVector.md)&lt;double&gt;
 -----------------------------------------------------------------
 
  
@@ -80,7 +80,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-The [for](CppFor.md)-loop way on a [std::vector](CppVector.md)&lt;[double](CppDouble.md)&gt;
+The [for](CppFor.md)-loop way on a [std::vector](CppStdVector.md)&lt;[double](CppDouble.md)&gt;
 -----------------------------------------------------------------------------------------------
 
  

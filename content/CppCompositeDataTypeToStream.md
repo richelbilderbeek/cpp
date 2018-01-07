@@ -24,12 +24,12 @@ type](CppCompositeDataType.md) to/from a [std::stream](CppStream.md).
 
  
 
-To write and read just one [std::vector](CppVector.md) view [write and
+To write and read just one [std::vector](CppStdVector.md) view [write and
 read a std::vector to/from a std::stream](CppVectorToStream.md).
 
  
 
-To write and read just two [std::vectors](CppVector.md) view [write and
+To write and read just two [std::vectors](CppStdVector.md) view [write and
 read two std::vectors to/from a std::stream](CppVectorsToStream.md).
 
  

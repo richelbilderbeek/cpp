@@ -31,7 +31,7 @@ Question \#0: How many correct ways are there to do this?
 
 The answer is a product of the number of ways to add one to an
 [int](CppInt.md) and the number of ways to iterate through a
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
  
 
@@ -47,23 +47,23 @@ The number of ways to add one to an [int](CppInt.md) are five:
 
  
 
-The number of ways to iterate through a [std::vector](CppVector.md) are
+The number of ways to iterate through a [std::vector](CppStdVector.md) are
 twelve:
 
  
 
 1.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png)![STL](PicStl.png) Using
     a [for](CppFor.md)-loop, requesting the
-    [std::vector](CppVector.md) its size only once
+    [std::vector](CppStdVector.md) its size only once
 2.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png)![STL](PicStl.png) Using
     a [for](CppFor.md)-loop, requesting the
-    [std::vector](CppVector.md) its size every iteration
+    [std::vector](CppStdVector.md) its size every iteration
 3.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png)![STL](PicStl.png) Using
     an [iterator](CppIterator.md), requesting the
-    [std::vector](CppVector.md) its end only once
+    [std::vector](CppStdVector.md) its end only once
 4.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png)![STL](PicStl.png) Using
     an [iterator](CppIterator.md), requesting the
-    [std::vector](CppVector.md) its end only every iteration
+    [std::vector](CppStdVector.md) its end only every iteration
 5.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png)![STL](PicStl.png) Using
     an [algorithm](CppAlgorithm.md) to a non-[inlined](CppInline.md)
     [function](CppFunction.md)

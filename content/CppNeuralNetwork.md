@@ -46,7 +46,7 @@ will remain incomplete.
     [functions](CppFunction.md) without '[std::](CppStd.md)' in front
     of it (a simple replace command fixes this, though), the use of
     handcrafted classes (for example Flood::Vector, instead of
-    [std::vector](CppVector.md)), dirty C-style [casts](CppCast.md)
+    [std::vector](CppStdVector.md)), dirty C-style [casts](CppCast.md)
     and few documentation. Don't mind me nitpicking: because I use it
     with much pleasure, I know this one best!
 -   [FANN](CppFann.md): programmed in C, I found it too hard to use for

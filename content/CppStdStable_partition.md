@@ -18,7 +18,7 @@
 [STL](CppStl.md) [algorithm](CppAlgorithm.md) to partition elements in
 a [container](CppContainer.md) by a certain
 [predicate](CppPredicate.md), preserving the order of the elements. For
-example, in the code shown below, a [std::vector](CppVector.md) is
+example, in the code shown below, a [std::vector](CppStdVector.md) is
 partitioned into primes and non-primes.
 
  

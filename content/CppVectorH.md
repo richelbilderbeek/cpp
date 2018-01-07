@@ -16,7 +16,7 @@
 
 [vector.h](CppVectorH.md) is a [header file](CppHeaderFile.md)
 containing the [definition](CppDefinition.md) of
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
  
 

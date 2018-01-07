@@ -15,7 +15,7 @@
  
 
 [Graphics](CppGraphics.md) [code snippet](CppCodeSnippets.md) to let a
-2D [std::vector](CppVector.md) be drawn on a [VCL](CppVcl.md)
+2D [std::vector](CppStdVector.md) be drawn on a [VCL](CppVcl.md)
 [TImage](CppTImage.md). To do the opposite, use
 [ImageToVector](CppImageToVector.md).
 

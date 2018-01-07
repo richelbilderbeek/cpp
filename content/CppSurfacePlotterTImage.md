@@ -15,7 +15,7 @@
  
 
 Simple class to make a surface plot of a 2D
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
  
 

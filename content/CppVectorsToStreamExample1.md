@@ -17,7 +17,7 @@
 This [write and read two std::vectors to/from a
 std::stream](CppVectorsToStream.md) example demonstrates a
 near-foolproof way. The program its setup is fine: a [data
-type](CppDataType.md) with two [std::vectors](CppVector.md) is
+type](CppDataType.md) with two [std::vectors](CppStdVector.md) is
 created, written to file, a new [data type](CppDataType.md) is read
 from that same file and the program tests if the two [data
 type](CppDataType.md) are identical.

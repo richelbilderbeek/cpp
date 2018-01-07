@@ -14,7 +14,7 @@
 
  
 
-[Math](CppMath.md) and [std::vector](CppVector.md) [code
+[Math](CppMath.md) and [std::vector](CppStdVector.md) [code
 snippet](CppCodeSnippets.md) to calculate a cumulative histogram from a
 histogram.
 

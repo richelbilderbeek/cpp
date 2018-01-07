@@ -16,7 +16,7 @@
 
 [Rescale](CppRescale.md) is a [math](CppMath.md) [code
 snippet](CppCodeSnippets.md) to rescale a [double](CppDouble.md), 1D
-[std::vector](CppVector.md) or 2D [std::vector](CppVector.md) from a
+[std::vector](CppStdVector.md) or 2D [std::vector](CppStdVector.md) from a
 certain range to a new range.
 
  
@@ -48,7 +48,7 @@ Rescale on a [double](CppDouble.md)
 
  
 
-Rescale on a 1D [std::vector](CppVector.md)
+Rescale on a 1D [std::vector](CppStdVector.md)
 --------------------------------------------
 
  
@@ -67,7 +67,7 @@ Rescale on a 1D [std::vector](CppVector.md)
 
  
 
-Rescale on a 2D [std::vector](CppVector.md)
+Rescale on a 2D [std::vector](CppStdVector.md)
 --------------------------------------------
 
  

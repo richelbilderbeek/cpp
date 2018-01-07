@@ -15,7 +15,7 @@
  
 
 The [algorithm](CppAlgorithm.md) to shuffle a
-[std::vector](CppVector.md) to a random order is already present in the
+[std::vector](CppStdVector.md) to a random order is already present in the
 [STL](CppStl.md). It is called
 [std::random\_shuffle](CppRandom_shuffle.md) and can be found in the
 [header file](CppHeaderFile.md) [algorithm](CppAlgorithmH.md).

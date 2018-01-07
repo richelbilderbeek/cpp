@@ -63,9 +63,9 @@ which is a good thing \[1\].
  
 
 This programmer wants to use a [class](CppClass.md) managing a
-[std::vector](CppVector.md) of [boost::shared\_ptr](CppShared_ptr.md)
+[std::vector](CppStdVector.md) of [boost::shared\_ptr](CppShared_ptr.md)
 of MyStruct, but he/she also wants to let the user obtain a
-[std::vector](CppVector.md) of read-only [smart
+[std::vector](CppStdVector.md) of read-only [smart
 pointers](CppSmartPointer.md)/[pointers](CppPointer.md), that can be
 copied freely.
 

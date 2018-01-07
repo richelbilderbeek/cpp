@@ -20,7 +20,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
  
 
 [std::vector example 2: erase-remove idiom](CppVectorExample2.md) is a
-[std::vector](CppVector.md) example that demonstrates the erase-remove
+[std::vector](CppStdVector.md) example that demonstrates the erase-remove
 idiom.
 
  

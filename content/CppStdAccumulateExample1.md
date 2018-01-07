@@ -1,7 +1,7 @@
 # ([C++](Cpp.md)) [std::accumulate example 1: summing a std::vector of integers](CppAccumulateExample1.md)
 
 [std::accumulate example 1: summing a std::vector of integers](CppAccumulateExample1.md) is a
-[std::accumulate](CppStdAccumulate.md) example to sum a [std::vector](CppVector.md) of [integers](CppInt.md).
+[std::accumulate](CppStdAccumulate.md) example to sum a [std::vector](CppStdVector.md) of [integers](CppInt.md).
 
 ```c++
 #include <cassert>

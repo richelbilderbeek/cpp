@@ -15,11 +15,11 @@
  
 
 [HugeVector](CppHugeVector.md) is a [class](CppClass.md) similar to
-[std::vector](CppVector.md) that, in theory can contain
+[std::vector](CppStdVector.md) that, in theory can contain
 18,446,744,073,709,551,616 elements. In practice,
 [HugeVector](CppHugeVector.md) is limited by the available memory. On
-my computer, a [std::vector](CppVector.md) is already limited by the
-available memory, so I keep using [std::vector](CppVector.md).
+my computer, a [std::vector](CppStdVector.md) is already limited by the
+available memory, so I keep using [std::vector](CppStdVector.md).
 
  
 
@@ -37,11 +37,11 @@ Idea behind [HugeVector](CppHugeVector.md)
  
 
 Assuming that memory is not a limiting factor, the size of a
-[std::vector](CppVector.md) is limited by the maximum
+[std::vector](CppStdVector.md) is limited by the maximum
 ([unsigned](CppUnsigned.md)) [integer](CppInt.md) value: 2\^32 =
 4,294,967,296 = 4 billion. This [integer](CppInt.md) value is used in
-the [std::vector](CppVector.md) methods resize and the index operator.
-Perhaps a [std::vector](CppVector.md) can become of a bigger size
+the [std::vector](CppStdVector.md) methods resize and the index operator.
+Perhaps a [std::vector](CppStdVector.md) can become of a bigger size
 (using push\_back), but one cannot retrieve the, for example, 5th
 billionth index directly (that is, without using iterators), because
 there is no [integer](CppInt.md) that can hold such a value.
@@ -50,10 +50,10 @@ there is no [integer](CppInt.md) that can hold such a value.
 
 [HugeVector](CppHugeVector.md) takes the maximum size to 2\^64 =
 18,446,744,073,709,551,616 = 18 billion billion, by storing elements in
-a 2D [std::vector](CppVector.md): there is a
-[std::vector](CppVector.md) that stores as much
-[std::vectors](CppVector.md) as it can store (which is 2\^32 =
-4,294,967,296 = 4 billion). Each of these [std::vectors](CppVector.md)
+a 2D [std::vector](CppStdVector.md): there is a
+[std::vector](CppStdVector.md) that stores as much
+[std::vectors](CppStdVector.md) as it can store (which is 2\^32 =
+4,294,967,296 = 4 billion). Each of these [std::vectors](CppStdVector.md)
 stores as much elements as they can store (which is 2\^32 =
 4,294,967,296 = 4 billion).
 

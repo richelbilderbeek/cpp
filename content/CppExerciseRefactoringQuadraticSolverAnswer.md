@@ -76,8 +76,8 @@ or two. In the code above we face the following design problems:
  
 
 The solution to these problems is to let the method 'solve' return a
-[std::vector](CppVector.md) containg all solutions (returning an empty
-[std::vector](CppVector.md) for zero solution):
+[std::vector](CppStdVector.md) containg all solutions (returning an empty
+[std::vector](CppStdVector.md) for zero solution):
 
  
 
@@ -172,7 +172,7 @@ books](CppMostImportantCppBooks.md) about [class
 design](CppClassDesign.md). The author admitted in the example that the
 [class](CppClass.md) indeed could have been written as a
 [function](CppFunction.md). Also, the [class](CppClass.md) example was
-given before the student knew about [std::vector](CppVector.md).
+given before the student knew about [std::vector](CppStdVector.md).
 
  
 

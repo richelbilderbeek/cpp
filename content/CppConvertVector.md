@@ -15,8 +15,8 @@
  
 
 [Convert](CppConvert.md) [code snippet](CppCodeSnippets.md) to
-[convert](CppConvert.md) [std::vector](CppVector.md)&lt;X&gt; to
-[std::vector](CppVector.md)&lt;Y&gt; using
+[convert](CppConvert.md) [std::vector](CppStdVector.md)&lt;X&gt; to
+[std::vector](CppStdVector.md)&lt;Y&gt; using
 [boost::lexical\_cast](CppLexical_cast.md).
 
  

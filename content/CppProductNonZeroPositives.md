@@ -15,7 +15,7 @@
  
 
 [Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate the
-product of all positive values in a [std::vector](CppVector.md).
+product of all positive values in a [std::vector](CppStdVector.md).
 
  
 

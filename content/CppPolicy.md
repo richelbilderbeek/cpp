@@ -72,7 +72,7 @@ classes](CppPolicyClass.md).
  
 
 Note that p1 and p2 have types as different as
-[std::vectors](CppVector.md) with different elements.
+[std::vectors](CppStdVector.md) with different elements.
 
  
 

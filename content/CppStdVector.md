@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::vector](CppVector.md)
+([C++](Cpp.md)) [std::vector](CppStdVector.md)
 =============================================
 
  
@@ -19,15 +19,15 @@
 
  
 
-Advantages of a [std::vector](CppVector.md) over an
+Advantages of a [std::vector](CppStdVector.md) over an
 [array](CppArray.md) are:
 
-1.  [std::vector](CppVector.md) allocates memory from the free space
+1.  [std::vector](CppStdVector.md) allocates memory from the free space
     when increasing in size
-2.  [std::vector](CppVector.md) is not a [pointer](CppPointer.md) in
+2.  [std::vector](CppStdVector.md) is not a [pointer](CppPointer.md) in
     disguise \[3\]
-3.  [std::vector](CppVector.md) can increase/decrease in size run-time
-4.  [std::vector](CppVector.md) can do range checking (using at())
+3.  [std::vector](CppStdVector.md) can increase/decrease in size run-time
+4.  [std::vector](CppStdVector.md) can do range checking (using at())
 
  
 
@@ -45,17 +45,17 @@ The erase-remove idiom
  
 
 Calling [std::remove](CppRemove.md) to remove a certain value from a
-[std::vector](CppVector.md) does not change a
-[std::vector](CppVector.md) its size. [std::remove](CppRemove.md) does
+[std::vector](CppStdVector.md) does not change a
+[std::vector](CppStdVector.md) its size. [std::remove](CppRemove.md) does
 [return](CppReturn.md) an [iterator](CppIterator.md) to where the
 removed elements are put. This [iterator](CppIterator.md) can be used
-to call [std::vector](CppVector.md) its 'erase' member function. These
+to call [std::vector](CppStdVector.md) its 'erase' member function. These
 two operations are called the erase-remove idiom.
 
  
 
 Use the erase-remove idiom the really remove a value from a
-[std::vector](CppVector.md).
+[std::vector](CppStdVector.md).
 
  
 
@@ -91,7 +91,7 @@ Use the erase-remove idiom the really remove a value from a
 
  
 
-[std::vector](CppVector.md) [code snippets](CppCodeSnippets.md)
+[std::vector](CppStdVector.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------------
 
  
@@ -168,12 +168,12 @@ Note that among these are also more general
 
  
 
--   Prefer using a [std::vector](CppVector.md) over an
+-   Prefer using a [std::vector](CppStdVector.md) over an
     [array](CppArray.md) \[1-4\]
--   Use [std::vector](CppVector.md) as your default
+-   Use [std::vector](CppStdVector.md) as your default
     [container](CppContainer.md) \[5\]
 -   Don't use [iterators](CppIterator.md) into a resized
-    [std::vector](CppVector.md) or [std::deque](CppDeque.md) \[6\]
+    [std::vector](CppStdVector.md) or [std::deque](CppDeque.md) \[6\]
 -   Don't assume [performance](CppPerformance.md) benefits
     from reserve() without measurements \[7\]
 -   When necessary, use reserve() to make

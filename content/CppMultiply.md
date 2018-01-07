@@ -16,7 +16,7 @@
 
 [Multiply](CppMultiply.md) is a [math](CppMath.md) [code
 snippet](CppCodeSnippets.md) to multiply each element in a
-[std::vector](CppVector.md) by a certain value.
+[std::vector](CppStdVector.md) by a certain value.
 
  
 

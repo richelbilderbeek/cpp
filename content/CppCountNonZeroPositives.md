@@ -15,7 +15,7 @@
  
 
 [Code snippet](CppCodeSnippets.md) to count the number of non-zero
-positive values in a [std::vector](CppVector.md).
+positive values in a [std::vector](CppStdVector.md).
 
  
 

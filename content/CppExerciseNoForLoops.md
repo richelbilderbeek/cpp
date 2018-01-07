@@ -103,10 +103,10 @@ Table of contents
     [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person
     \*,**[int](CppInt.md)**&gt;
 -   Question \#31: Find an ID in a
-    [std::vector](CppVector.md)&lt;**[const](CppConst.md)**
+    [std::vector](CppStdVector.md)&lt;**[const](CppConst.md)**
     Person\*&gt;
 -   Question \#32: Sum all persons' money from a
-    [std::vector](CppVector.md)&lt;**[const](CppConst.md)**
+    [std::vector](CppStdVector.md)&lt;**[const](CppConst.md)**
     Person\*&gt;
 -   See also: [Get the length of the longest
     string](CppGetLongestStringLength.md)
@@ -1083,7 +1083,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
  
 
-Question \#31: Find an ID in a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
+Question \#31: Find an ID in a [std::vector](CppStdVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -----------------------------------------------------------------------------------------------------
 
  
@@ -1113,7 +1113,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
  
 
-Question \#32: Sum all persons' money from a [std::vector](CppVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
+Question \#32: Sum all persons' money from a [std::vector](CppStdVector.md)&lt;**[const](CppConst.md)** Person\*&gt;
 -------------------------------------------------------------------------------------------------------------------
 
  

@@ -29,7 +29,7 @@ one important [member function](CppMemberFunction.md) called
 determining whether a number is prime (for multiple times) and memory
 consumption: to determine whether a number is prime quicker,
 [PrimeExpert](CppPrimeExpert.md) maintains a
-[std::vector](CppVector.md) of known primes (but of known primes only).
+[std::vector](CppStdVector.md) of known primes (but of known primes only).
 
  
 

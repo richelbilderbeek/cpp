@@ -55,7 +55,7 @@ insertion and deletion at the cost of linear-time read and write.
  
 
 -   Insertion operators, such as insert() and push\_back() are often
-    more efficient on a [std::vector](CppVector.md) than on a
+    more efficient on a [std::vector](CppStdVector.md) than on a
     [std::list](CppList.md) \[1\]
 -   A [std::list](CppList.md) is relatively expensive to traverse \[2\]
 -   A [std::list](CppList.md) usually has a four-word-per-element

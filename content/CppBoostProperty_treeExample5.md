@@ -15,7 +15,7 @@
  
 
 [boost::property\_tree](CppProperty_tree.md) example 5: data type with
-a [std::vector](CppVector.md).
+a [std::vector](CppStdVector.md).
 
  
 
