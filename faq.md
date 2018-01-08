@@ -17,7 +17,7 @@ are multiple sections, with different prefixes.
 
 ## Why don't you remove the `Cpp` prefix?
 
-Because all links from many repositories would break.
+I will, after the transition from [http://www.richelbilderbeek.nl](http://www.richelbilderbeek.nl) to this GitHub.
 
 ## I want to contribute!
 
