@@ -37,7 +37,6 @@ These below are my favorite references for expert advice, sorted on first author
  * [Herb Sutter](CppHerbSutter.md). Exceptional C++ style. 2005. ISBN: 0-201-76042-8.
  * [Herb Sutter](CppHerbSutter.md). More exceptional C++. 2001. ISBN: 020170434X.
 
-
 Additional references:
 
  * Working Draft, Standard for Programming Language C++. 2014-08-22. N3936.

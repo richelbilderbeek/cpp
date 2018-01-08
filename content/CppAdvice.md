@@ -1,33 +1,9 @@
+# ([C++](Cpp.md)) [Advice](CppAdvice.md)
 
- 
+It is rational to follow [advice](CppAdvice.md) from the experts.
 
- 
+On most of these pages, [advice](CppAdvice.md) from the experts is given,
+with a [reference](CppReferences.md). 
 
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Advice](CppAdvice.md)
-========================================
-
- 
-
-[Advice](CppAdvice.md) from the experts guides me through the big world
-of [C++](Cpp.md). I try to list the [advice](CppAdvice.md) from
-multiple authors, even when two [advices](CppAdvice.md) are the
-opposite.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+When [advices](CppAdvice.md) conflict, both are shown, and it is up to the reader to use his/her good judgement and/or taste.
 
