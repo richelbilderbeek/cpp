@@ -19,7 +19,7 @@ An [exception](CppException.md) [derived](CppDerivedClass.md) from
 [thrown](CppThrow.md) by the 'at' [member
 function](CppMemberFunction.md) (from, for example, a
 [std::vector](CppStdVector.md)) and
-[std::bitset](CppBitset.md)&lt;&gt;::operator\[\]().
+[std::bitset](CppStdBitset.md)&lt;&gt;::operator\[\]().
 
  
 

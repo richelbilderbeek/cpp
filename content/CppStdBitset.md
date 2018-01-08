@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::bitset](CppBitset.md)
+([C++](Cpp.md)) [std::bitset](CppStdBitset.md)
 =============================================
 
  
 
-[std::bitset](CppBitset.md) is a [container](CppContainer.md) for
+[std::bitset](CppStdBitset.md) is a [container](CppContainer.md) for
 bits.
 
  

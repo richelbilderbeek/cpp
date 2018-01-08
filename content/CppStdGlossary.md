@@ -45,7 +45,7 @@ glossary](CppBoostGlossary.md).
 21. [std::bind1st](CppBind1st.md)
 22. [std::bind2nd](CppBind2nd.md)
 23. [std::bit\_vector](CppBit_vector.md)
-24. [std::bitset](CppBitset.md)
+24. [std::bitset](CppStdBitset.md)
 25. [std::boolalpha](CppStdBoolalpha.md)
 26. [std::bsearch](CppBsearch.md)
 27. [std::btowc](CppBtowc.md)

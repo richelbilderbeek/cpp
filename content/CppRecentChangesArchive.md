@@ -1605,7 +1605,7 @@ Great stuff for historicians!
     content
 1072. 22-05-2010: Modified [Audio](CppAudio.md): improved page content
 1073. 19-05-2010: New page: [WTL](CppWtl.md)
-1074. 19-05-2010: New page: [std::bitset](CppBitset.md)
+1074. 19-05-2010: New page: [std::bitset](CppStdBitset.md)
 1075. 19-05-2010: New page: [std::generate\_n](CppGenerate_n.md)
 1076. 19-05-2010: New page: [Linker](CppLinker.md)
 1077. 16-05-2010: New page: [nl](CppNl.md)

@@ -22,7 +22,7 @@ file](CppHeaderFile.md) for bitsets.
 [bitset.h](CppBitsetH.md) contains the [definitions](CppDefinition.md)
 of (incomplete list):
 
--   [std::bitset](CppBitset.md)
+-   [std::bitset](CppStdBitset.md)
 
  
 
