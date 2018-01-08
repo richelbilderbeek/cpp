@@ -15,7 +15,7 @@
  
 
 A [dialog](CppVclDialog.md), much of an equivalent of
-[std::cout](CppCout.md).
+[std::cout](CppStdCout.md).
 
 It displays a text message on the screen in a dialog box.
 

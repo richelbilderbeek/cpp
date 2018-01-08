@@ -17,7 +17,7 @@
 [std](CppStd.md) is the [namespace](CppNamespace.md) all
 [STL](CppStl.md) [functions](CppFunction.md) and
 [classes](CppClass.md) reside in, for example, the
-[global](CppGlobal.md) output stream called '[cout](CppCout.md)'.
+[global](CppGlobal.md) output stream called '[cout](CppStdCout.md)'.
 
  
 

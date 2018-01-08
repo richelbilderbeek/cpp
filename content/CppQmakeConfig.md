@@ -33,7 +33,7 @@ have the following values \[1\]:
     library](CppStaticLibrary.md) should be built
 -   ![ ](PicSpacer.png) plugin
 -   ![ ](PicSpacer.png) console: the application needs to write to the
-    console, for example with [std::cout](CppCout.md) or qWarning
+    console, for example with [std::cout](CppStdCout.md) or qWarning
 -   ![Mac OS X](PicMacOsX.png) app\_bundle
 -   ![Mac OS X](PicMacOsX.png) lib\_bundle
 

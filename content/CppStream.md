@@ -50,10 +50,10 @@ Screen output:
 
 Examples of [global](CppGlobal.md) [streams](CppStream.md) are:
 
--   [std::cout](CppCout.md) (an [std::ostream](CppOstream.md))
--   [std::cin](CppCin.md) (an [std::istream](CppIstream.md))
--   [std::clog](CppClog.md) (an [std::ostream](CppOstream.md))
--   [std::cerr](CppCerr.md) (an [std::ostream](CppOstream.md))
+-   [std::cout](CppStdCout.md) (an [std::ostream](CppOstream.md))
+-   [std::cin](CppStdCin.md) (an [std::istream](CppIstream.md))
+-   [std::clog](CppStdClog.md) (an [std::ostream](CppOstream.md))
+-   [std::cerr](CppStdCerr.md) (an [std::ostream](CppOstream.md))
 
  
 

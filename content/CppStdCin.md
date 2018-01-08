@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::cin](CppCin.md)
+([C++](Cpp.md)) [std::cin](CppStdCin.md)
 =======================================
 
  

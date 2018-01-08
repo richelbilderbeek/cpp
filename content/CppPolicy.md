@@ -51,7 +51,7 @@ Example
 
 During debugging, you might want to trace (keep track of) variables.
 
-Sometimes, you might want to write it to [std::cout](CppCout.md), file
+Sometimes, you might want to write it to [std::cout](CppStdCout.md), file
 or other ways.
 
 The example below shows a Tracer [class](CppClass.md), whose behavior

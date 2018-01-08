@@ -51,8 +51,8 @@ Note the following about the code:
     [std::terminate](CppTerminate.md)()d unless its task has completed'
     \[1\]
 -   Both [std::threads](CppThread.md) do not wait for the other to
-    finish writing to [std::cout](CppCout.md). Note that writing to
-    [std::clog](CppClog.md) makes the output less messier:
+    finish writing to [std::cout](CppStdCout.md). Note that writing to
+    [std::clog](CppStdClog.md) makes the output less messier:
 
      
 
@@ -72,7 +72,7 @@ shown to detect race conditions.
 
 The next example, [std::thread example 2: two counting threads using
 std::mutex](CppThreadExample2.md) demonstrates how to use
-[std::mutexes](CppMutex.md) to share [std::cout](CppCout.md) nicely.
+[std::mutexes](CppMutex.md) to share [std::cout](CppStdCout.md) nicely.
 
  
 

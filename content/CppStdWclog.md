@@ -15,7 +15,7 @@
  
 
 [std::wclog](CppWclog.md) is the standard output
-[stream](CppStream.md)[]() similar to [std::clog](CppClog.md), yet for
+[stream](CppStream.md)[]() similar to [std::clog](CppStdClog.md), yet for
 [wide characters](CppWchar_t.md).
 
  

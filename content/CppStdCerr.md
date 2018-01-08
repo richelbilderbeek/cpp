@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::cerr](CppCerr.md)
+([C++](Cpp.md)) [std::cerr](CppStdCerr.md)
 =========================================
 
  
 
-[std::cerr](CppCerr.md) (abbreviation of 'character error stream') is a
+[std::cerr](CppStdCerr.md) (abbreviation of 'character error stream') is a
 [stream](CppStream.md) for error information.
 
  

@@ -27,7 +27,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-Question \#15: write to [std::cout](CppCout.md)
+Question \#15: write to [std::cout](CppStdCout.md)
 ------------------------------------------------
 
  

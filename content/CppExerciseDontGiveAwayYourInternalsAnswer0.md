@@ -165,9 +165,9 @@ Epilogue
 
 The exercise is called 'Don't give away your internals' (after \[1\]).
 One of the points of this item was the question: 'What do you want to do
-with this information?'. If you want to use [std::cout](CppCout.md) on
+with this information?'. If you want to use [std::cout](CppStdCout.md) on
 the implementation of Zoo (that is, the [std::vector](CppStdVector.md) of
-Animal), why not enable to use [std::cout](CppCout.md) on Zoo itself?
+Animal), why not enable to use [std::cout](CppStdCout.md) on Zoo itself?
 Think if you perhaps do not need the GetAnimals (or similar, as in your
 code) method after all.
 

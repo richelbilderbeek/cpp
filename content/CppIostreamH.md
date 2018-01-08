@@ -2,8 +2,8 @@
 
 [iostream.h](CppIostreamH.md) is the [header file](CppHeaderFile.md)
 containg the [definitions](CppDefinition.md) from input and output
-[streams](CppStream.md) like [std::cout](CppCout.md) and
-[std::cin](CppCin.md).
+[streams](CppStream.md) like [std::cout](CppStdCout.md) and
+[std::cin](CppStdCin.md).
 
 ```c++
 #include <iostream>

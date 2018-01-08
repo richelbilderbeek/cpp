@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::clog](CppClog.md)
+([C++](Cpp.md)) [std::clog](CppStdClog.md)
 =========================================
 
  
 
-[std::clog](CppClog.md) (abbreviation of 'character log stream') is a
+[std::clog](CppStdClog.md) (abbreviation of 'character log stream') is a
 [stream](CppStream.md) for logging information.
 
  

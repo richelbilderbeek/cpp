@@ -32,10 +32,10 @@ about communication with the user.
 
  
 
--   [std::cerr](CppCerr.md): error message [stream](CppStream.md)
--   [std::cin](CppCin.md): user input [stream](CppStream.md)
--   [std::clog](CppClog.md): log message [stream](CppStream.md)
--   [std::cout](CppCout.md): screen output [stream](CppStream.md)
+-   [std::cerr](CppStdCerr.md): error message [stream](CppStream.md)
+-   [std::cin](CppStdCin.md): user input [stream](CppStream.md)
+-   [std::clog](CppStdClog.md): log message [stream](CppStream.md)
+-   [std::cout](CppStdCout.md): screen output [stream](CppStream.md)
 -   [std::getline](CppGetline.md): obtain a single line of input
 
  

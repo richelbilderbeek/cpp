@@ -59,7 +59,7 @@ glossary](CppBoostGlossary.md).
 35. [std::cosh](CppCosh.md)
 36. [std::count](CppCount.md)
 37. [std::count\_if](CppCount_if.md)
-38. [std::cout](CppCout.md)
+38. [std::cout](CppStdCout.md)
 39. [std::ctime](CppCtime.md)
 40. [std::dec](CppDec.md)
 41. [std::deque](CppDeque.md)

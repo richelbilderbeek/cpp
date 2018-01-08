@@ -15,9 +15,9 @@
  
 
 This [std::thread](CppThread.md) examples demonstrates how to use
-[std::mutexes](CppMutex.md) to share [std::cout](CppCout.md) nicely,
+[std::mutexes](CppMutex.md) to share [std::cout](CppStdCout.md) nicely,
 as in the previous example, [std::thread example 1: two counting
-threads](CppThreadExample1.md), the output to [std::cout](CppCout.md)
+threads](CppThreadExample1.md), the output to [std::cout](CppStdCout.md)
 was messy.
 
  

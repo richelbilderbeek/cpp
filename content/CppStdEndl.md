@@ -27,7 +27,7 @@ int main()
 }
 ```
 
-Avoid [std::endl](CppStdEndl.md) [1], as one does not need to flush the [std::cout](CppCout.md) buffer after every output [2].
+Avoid [std::endl](CppStdEndl.md) [1], as one does not need to flush the [std::cout](CppStdCout.md) buffer after every output [2].
 
 ## [References](CppReferences.md)
 

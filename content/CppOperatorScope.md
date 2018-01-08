@@ -22,7 +22,7 @@ determine the [namespace](CppNamespace.md) used.
 
 The example below shows how to call a [function](CppFunction.md) in the
 [global](CppGlobal.md) [namespace](CppNamespace.md) and that
-[std::cout](CppCout.md) is in the [std](CppStd.md)
+[std::cout](CppStdCout.md) is in the [std](CppStd.md)
 [namespace](CppNamespace.md).
 
  

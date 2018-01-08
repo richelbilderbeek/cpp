@@ -590,7 +590,7 @@ Great stuff for historicians!
 399. 12-10-2010: New page: [devkitPro](CppDevkitPro.md)
 400. 11-10-2010: New page: [NDS FAQ](CppNdsFaq.md)
 401. 11-10-2010: New page: [std::time\_t](CppTime_t.md)
-402. 11-10-2010: Modified [std::cout](CppCout.md): improved page source
+402. 11-10-2010: Modified [std::cout](CppStdCout.md): improved page source
 403. 10-10-2010: New page: [NDS example 1](CppNdsExample1.md)
 404. 10-10-2010: New page: [i586-mingw32msvc](CppI586-mingw32msvc.md)
 405. 10-10-2010: New page: ['Hello World' using Qt Creator under Ubuntu
@@ -1303,7 +1303,7 @@ Great stuff for historicians!
 877. 26-07-2010: New page: [Unit](CppUnit.md)
 878. 26-07-2010: New page: [operator%=](CppOperatorModulusAssign.md)
 879. 26-07-2010: New page: [operator&gt;=](CppOperatorGreaterEqual.md)
-880. 26-07-2010: New page: [std::cerr](CppCerr.md)
+880. 26-07-2010: New page: [std::cerr](CppStdCerr.md)
 881. 26-07-2010: New page: [std::stack](Cppstd::stack.md)
 882. 26-07-2010: New page: [IsSquare](CppIsSquare.md)
 883. 26-07-2010: Modified [Qt FAQ: What is the Qt Creator equivalent of
@@ -1412,7 +1412,7 @@ Great stuff for historicians!
 947. 20-07-2010: New page: [queue.h](CppQueueH.md)
 948. 20-07-2010: New page: [SetPixelVcl](CppSetPixelVcl.md)
 949. 20-07-2010: New page: [SetPixelClx](CppSetPixelClx.md)
-950. 20-07-2010: New page: [std::clog](CppClog.md)
+950. 20-07-2010: New page: [std::clog](CppStdClog.md)
 951. 20-07-2010: New page: [Qt example 6: moving customly-drawn and
     partially transparent sprites over a changing background in
     2D](CppQtExample6.md)
@@ -2375,7 +2375,7 @@ Great stuff for historicians!
 1511. 16-01-2010: New page: [std](CppStd.md)
 1512. 16-01-2010: New page: [std::replace\_if](CppReplace_if.md)
 1513. 16-01-2010: New page: [Erich Gamma](CppErichGamma.md)
-1514. 16-01-2010: Modified [std::cout](CppCout.md): improved content
+1514. 16-01-2010: Modified [std::cout](CppStdCout.md): improved content
     and internal linking
 1515. 07-01-2010: New page: [std::ptr\_fun](CppPtr_fun.md)
 1516. 07-01-2010: Modified [StrToUpper](CppStrToUpper.md): improved
@@ -3361,7 +3361,7 @@ Great stuff for historicians!
     function](CppExerciseDivide.md)
 2081. 09-06-2008: New page: [Exercise](CppExercise.md)
 2082. 09-06-2008: Modified [C++](Cpp.md): added internal links
-2083. 04-06-2008: New page: [std::cin](CppCin.md)
+2083. 04-06-2008: New page: [std::cin](CppStdCin.md)
 2084. 04-06-2008: New page: [Inheritance](CppInheritance.md)
 2085. 04-06-2008: New page: [double](CppDouble.md)
 2086. 04-06-2008: New page: [Comment](CppComment.md)

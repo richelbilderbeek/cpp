@@ -18,10 +18,10 @@
 display the content of the [stream](CppStream.md). Normally, a
 [stream](CppStream.md) can wait until a good moment (the end of the
 program, for example), [std::flush](CppFlush.md) enforces a direct
-output. [std::cout](CppCout.md) is a [stream](CppStream.md) that one
-might want to [flush](CppFlush.md), [std::clog](CppClog.md) and
-[std::cerr](CppCerr.md) always [flush](CppFlush.md). When writing
-'\\n' to [std::cout](CppCout.md), [std::cout](CppCout.md) is not
+output. [std::cout](CppStdCout.md) is a [stream](CppStream.md) that one
+might want to [flush](CppFlush.md), [std::clog](CppStdClog.md) and
+[std::cerr](CppStdCerr.md) always [flush](CppFlush.md). When writing
+'\\n' to [std::cout](CppStdCout.md), [std::cout](CppStdCout.md) is not
 [flushed](CppFlush.md), [std::endl](CppStdEndl.md) writes '\\n' and
 [flushes](CppFlush.md) the [stream](CppStream.md). Note that
 [flushing](CppFlush.md) a [stream](CppStream.md) takes time, so only

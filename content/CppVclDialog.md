@@ -33,7 +33,7 @@ List of dialogs (incomplete)
  
 
 -   [ShowMessage](CppVclShowMessage.md): the [VCL](CppVcl.md)
-    equivalent of [std::cout](CppCout.md)
+    equivalent of [std::cout](CppStdCout.md)
 -   [MessageDlg](CppVclMessageDlg.md): A yes/no/cancel/etc. dialog box.
 -   [InputBox](CppVclInputBox.md): Ask the user for a value
 -   [InputQuery](CppVclInputQuery.md): Ask the user for a value

@@ -15,7 +15,7 @@
  
 
 [Windows](CppWindows.md) [code snippet](CppCodeSnippets.md) to
-[std::cout](CppCout.md) the text of each windows and its children.
+[std::cout](CppStdCout.md) the text of each windows and its children.
 
  
 

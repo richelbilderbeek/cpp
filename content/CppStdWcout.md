@@ -15,7 +15,7 @@
  
 
 [std::wcout](CppWcout.md) is the standard output
-[stream](CppStream.md)[]() similar to [std::cout](CppCout.md), yet for
+[stream](CppStream.md)[]() similar to [std::cout](CppStdCout.md), yet for
 [wide characters](CppWchar_t.md).
 
  

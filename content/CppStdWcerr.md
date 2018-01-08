@@ -15,7 +15,7 @@
  
 
 [std::wcerr](CppWcerr.md) is the standard output
-[stream](CppStream.md)[]() similar to [std::cerr](CppCerr.md), yet for
+[stream](CppStream.md)[]() similar to [std::cerr](CppStdCerr.md), yet for
 [wide characters](CppWchar_t.md).
 
  

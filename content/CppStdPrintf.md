@@ -16,7 +16,7 @@
 
 [std::printf](CppPrintf.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to write formatted output to
-[std::cout](CppCout.md).
+[std::cout](CppStdCout.md).
 
  
 

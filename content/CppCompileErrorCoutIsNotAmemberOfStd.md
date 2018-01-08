@@ -78,7 +78,7 @@ Solution
  
 
 The [compiler](CppCompiler.md) does not know the
-[function](CppFunction.md) '[cout](CppCout.md)'. Add the [header
+[function](CppFunction.md) '[cout](CppStdCout.md)'. Add the [header
 file](CppHeaderFile.md) so it does:
 
  
