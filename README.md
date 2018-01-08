@@ -6,10 +6,7 @@ The main difference is that I put references to the literature in the advices.
 
 Start [here](content/Cpp.md).
 
-## I want to contribute!
+## [FAQ](faq.md)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+See [the FAQ](faq.md)
 
-## Code of Conduct
-
-See [code_of_conduct.md](code_of_conduct.md)
