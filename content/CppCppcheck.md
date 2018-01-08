@@ -1,8 +1,6 @@
 # ([C++](Cpp.md)) [cppcheck](CppCppcheck.md)
 
-[cppcheck](CppCppcheck.md) is (from [1]):
-
-> Cppcheck is a static analysis tool for C/C++ code. 
+[cppcheck](CppCppcheck.md) is 'a static analysis [tool](CppTool.md) for C/C++ code' [1].
 
 ## [Examples](CppExample.md)
 
