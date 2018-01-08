@@ -26,7 +26,7 @@ Question \#8: [GetSum](CppGetSum.md)
 
 Replace the [for](CppFor.md)-loop. You will need:
 
--   [std::accumulate](CppAccumulate.md)
+-   [std::accumulate](CppStdAccumulate.md)
 
  
 

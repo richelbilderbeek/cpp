@@ -16,7 +16,7 @@
 
 [MinElementAbove](CppMinElementAbove.md) is a [math](CppMath.md) [code
 snippet](CppCodeSnippets.md) to get the
-[std::min\_element](CppMin_element.md) above a certain value.
+[std::min\_element](CppStdMin_element.md) above a certain value.
 
  
 

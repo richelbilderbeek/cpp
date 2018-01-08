@@ -18,7 +18,7 @@
 that a [function](CppFunction.md) may not [throw](CppThrow.md) an
 [exception](CppException.md). If the [function](CppFunction.md) does
 [throw](CppThrow.md) an [exception](CppException.md),
-[std::terminate](CppTerminate.md) is called.
+[std::terminate](CppStdTerminate.md) is called.
 
  
 

@@ -48,7 +48,7 @@ Note the following about the code:
 -   It is important that we wait for the [std::thread](CppThread.md) to
     terminate, because 'when a [std::thread](CppThread.md) goes out of
     [scope](CppScope.md) the program is
-    [std::terminate](CppTerminate.md)()d unless its task has completed'
+    [std::terminate](CppStdTerminate.md)()d unless its task has completed'
     \[1\]
 -   Both [std::threads](CppThread.md) do not wait for the other to
     finish writing to [std::cout](CppStdCout.md). Note that writing to

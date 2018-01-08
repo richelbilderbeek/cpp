@@ -380,7 +380,7 @@ Question \#8: [GetSum](CppGetSum.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.md)
+-   [std::accumulate](CppStdAccumulate.md)
 
  
 
@@ -409,7 +409,7 @@ Question \#9: [Product](CppProduct.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.md)
+-   [std::accumulate](CppStdAccumulate.md)
 -   [std::multiplies](CppMultiplies.md)
 
  
@@ -692,7 +692,7 @@ Question \#18: [SumPositives](CppSumPositives.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::greater](CppGreater.md)
--   A conditional [std::accumulate](CppAccumulate.md)
+-   A conditional [std::accumulate](CppStdAccumulate.md)
 
  
 
@@ -725,7 +725,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 -   [std::bind2nd](CppBind2nd.md)
 -   [std::greater](CppGreater.md)
 -   [std::multiplies](CppMultiplies.md)
--   A conditional [std::accumulate](CppAccumulate.md)
+-   A conditional [std::accumulate](CppStdAccumulate.md)
 
  
 
@@ -1120,7 +1120,7 @@ Question \#32: Sum all persons' money from a [std::vector](CppStdVector.md)&lt;*
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.md)
+-   [std::accumulate](CppStdAccumulate.md)
 -   [boost::bind](CppBind.md)
 
  

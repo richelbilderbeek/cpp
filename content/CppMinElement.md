@@ -15,7 +15,7 @@
  
 
 [Container](CppContainer.md) [code snippet](CppCodeSnippets.md)
-similar to [std::min\_element](CppMin_element.md), but that works on 2D
+similar to [std::min\_element](CppStdMin_element.md), but that works on 2D
 [containers](CppContainer.md) instead.
 
  

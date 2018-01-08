@@ -15,7 +15,7 @@
  
 
 [Algorithm](CppAlgorithm.md) similar to
-[std::accumulate](CppAccumulate.md), except that
+[std::accumulate](CppStdAccumulate.md), except that
 [accumulate\_if](CppAccumulate_if.md) also needs a
 [predicate](CppPredicate.md) [argument](CppArgument.md).
 

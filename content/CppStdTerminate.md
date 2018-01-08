@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::terminate](CppTerminate.md)
+([C++](Cpp.md)) [std::terminate](CppStdTerminate.md)
 ===================================================
 
  
 
-[std::terminate](CppTerminate.md) is an [STL](CppStl.md)
+[std::terminate](CppStdTerminate.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to terminate a program's execution.
 
  
@@ -32,7 +32,7 @@
 
  
 
--   Call [std::terminate](CppTerminate.md) in case of serious trouble
+-   Call [std::terminate](CppStdTerminate.md) in case of serious trouble
     \[1\]
 
  

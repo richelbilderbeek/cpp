@@ -25,7 +25,7 @@ file](CppHeaderFile.md).
 
  
 
-1.  [std::accumulate](CppAccumulate.md)
+1.  [std::accumulate](CppStdAccumulate.md)
 2.  [std::adjacent\_difference](CppAdjacent_difference.md)
 3.  [std::inner\_product](CppInner_product.md)
 4.  [std::iota](CppIota.md)

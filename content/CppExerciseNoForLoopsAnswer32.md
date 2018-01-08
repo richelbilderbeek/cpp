@@ -39,7 +39,7 @@ Question \#32: Sum all persons' money from a [std::vector](CppStdVector.md)&lt;*
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::accumulate](CppAccumulate.md)
+-   [std::accumulate](CppStdAccumulate.md)
 -   [boost::bind](CppBind.md)
 
  

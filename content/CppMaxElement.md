@@ -15,7 +15,7 @@
  
 
 [Container](CppContainer.md) [code snippet](CppCodeSnippets.md)
-similar to [std::max\_element](CppMax_element.md), but that works on 2D
+similar to [std::max\_element](CppStdMax_element.md), but that works on 2D
 [containers](CppContainer.md) instead.
 
  

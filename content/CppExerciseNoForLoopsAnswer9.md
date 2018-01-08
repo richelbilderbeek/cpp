@@ -34,7 +34,7 @@ Question \#9: Product of std::vector&lt;int&gt;
 
 Replace the [for](CppFor.md)-loop. You will need:
 
--   [std::accumulate](CppAccumulate.md)
+-   [std::accumulate](CppStdAccumulate.md)
 -   [std::multiplies](CppMultiplies.md)
 
  

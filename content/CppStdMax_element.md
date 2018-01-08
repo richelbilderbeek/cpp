@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::max\_element](CppMax_element.md)
+([C++](Cpp.md)) [std::max\_element](CppStdMax_element.md)
 ========================================================
 
  
 
-[std::max\_element](CppMax_element.md) is an [STL](CppStl.md)
+[std::max\_element](CppStdMax_element.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to find the heighest value in a
 [container](CppContainer.md).
 

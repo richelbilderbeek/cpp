@@ -18,8 +18,8 @@
 [algorithm](CppAlgorithm.md) to obtain the minimum and maximum value
 from a [container](CppContainer.md) at the same time:
 [std::minmax\_element](CppMinmax_element.md) is a combination of
-[std::min\_element](CppMin_element.md) and
-[std::max\_element](CppMax_element.md).
+[std::min\_element](CppStdMin_element.md) and
+[std::max\_element](CppStdMax_element.md).
 
  
 

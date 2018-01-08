@@ -980,8 +980,8 @@ Great stuff for historicians!
 616. 22-08-2010: New page:
     [std::adjacent\_difference](CppAdjacent_difference.md)
 617. 22-08-2010: New page: [std::lower\_bound](CppLower_bound.md)
-618. 22-08-2010: New page: [std::min\_element](CppMin_element.md)
-619. 22-08-2010: New page: [std::max\_element](CppMax_element.md)
+618. 22-08-2010: New page: [std::min\_element](CppStdMin_element.md)
+619. 22-08-2010: New page: [std::max\_element](CppStdMax_element.md)
 620. 22-08-2010: New page: [QPlainTextEdit](CppQPlainTextEdit.md)
 621. 21-08-2010: New page:
     [CreateInvalidNewicks](CppCreateInvalidNewicks.md)
@@ -2039,7 +2039,7 @@ Great stuff for historicians!
     for-loops](CppExerciseNoForLoops.md): improved page source and
     added exercise
 1331. 05-04-2010: Modified [Append](CppAppend.md): improved page source
-1332. 05-04-2010: Modified [std::accumulate](CppAccumulate.md):
+1332. 05-04-2010: Modified [std::accumulate](CppStdAccumulate.md):
     improved page source
 1333. 05-04-2010: Modified [Algorithm](CppAlgorithm.md): improved page
     source and content
@@ -3219,7 +3219,7 @@ Great stuff for historicians!
 2003. 05-07-2008: Modified [Compile error](CppCompileError.md): added
     internal links
 2004. 05-07-2008: Modified [C++](Cpp.md): added internal links
-2005. 04-07-2008: New page: [std::accumulate](CppAccumulate.md)
+2005. 04-07-2008: New page: [std::accumulate](CppStdAccumulate.md)
 2006. 04-07-2008: New page: [CLK\_TCK was not declared in this
     scope](CppCompileErrorCLK_TCKwasNotDeclaredInThisScope.md)
 2007. 04-07-2008: New page: [\_popen is not a member of
