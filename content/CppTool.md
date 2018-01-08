@@ -2,11 +2,17 @@
 
 A [tool](CppTool.md) is a program that helps you write good C++ code:
 
+ * [cachegrind](CppCachegrind.md)
  * [cppcheck](CppCppcheck.md)
  * [CodeCheck](CppCodeCheck.md)
  * [Codecov](CppCodecov.md)
+ * [Doxygen](CppDoxygen.md)
  * [gcov](CppGcov.md)
+ * [helgrind](CppHelgrind.md)
+ * [memcheck](CppMemcheck.md)
  * [OCLint](CppOCLint.md)
+ * [UBSAN](CppUbsan.md)
+ * [valgrind](CppValgrind.md)
 
 ## [Advice](CppAdvice.md)
 
