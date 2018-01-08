@@ -15,6 +15,14 @@ All [functions](CppFunction.md) and [classes](CppClass.md) are in the
 Information about [installing Boost](CppBoostInstall.md) can be found
 at the [installing Boost](CppBoostInstall.md) page.
 
+## [Examples](CppExample.md)
+
+Some [Travis CI](CppTravisCi.md) builds:
+
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_boost.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_boost) [travis_qmake_gcc_cpp98_boost](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_boost)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp11_boost.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp11_boost) [travis_qmake_gcc_cpp11_boost](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp11_boost)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost) [travis_qmake_gcc_cpp14_boost](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost)
+
 ## External links
 
  * [Boost homepage](http://www.boost.org)
