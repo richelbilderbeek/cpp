@@ -1,24 +1,8 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [std::string](CppStdString.md)
-=============================================
-
- 
+# ([C++](Cpp.md)) [std::string](CppStdString.md)
 
 [std::string](CppStdString.md) is an [STL](CppStl.md)
 [container](CppContainer.md) for storing [char](CppChar.md). Or: 'the
 thing you use for storing words'.
-
- 
 
 The [definition](CppDefinition.md) of [std::string](CppStdString.md) is
 in [string.h](CppStringH.md).
