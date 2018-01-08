@@ -32,7 +32,7 @@ that one plus two is less than four:
  
 
 [operator&lt;](CppOperatorLess.md) is encapsulated by the
-[functor](CppFunctor.md) [std::less](CppLess.md).
+[functor](CppFunctor.md) [std::less](CppStdLess.md).
 
  
 

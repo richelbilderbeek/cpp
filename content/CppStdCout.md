@@ -1,7 +1,7 @@
 # ([C++](Cpp.md)) [std::cout](CppStdCout.md)
 
 [std::cout](CppStdCout.md) is an [STL](CppStl.htm) ([global](CppGlobal.md)) character
-[output stream](CppOstream.md) and can be used to write text to screen.
+[output stream](CppStdOstream.md) and can be used to write text to screen.
 
 [std::cout](CppStdCout.md) is [defined](CppDefinition.md) in the [header file](CppHeaderFile.md) [iostream](CppIostreamH.md) and resides is [namespace](CppNamespace.md) [std](CppStd.md).
 

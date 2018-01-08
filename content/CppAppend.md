@@ -15,7 +15,7 @@
  
 
 Appends two containers using the [algorithm](CppAlgorithm.md)
-[std::copy](CppCopy.md) and a
+[std::copy](CppStdCopy.md) and a
 [std::back\_inserter](CppBack_inserter.md)
 
  

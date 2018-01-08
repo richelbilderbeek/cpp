@@ -1,9 +1,9 @@
-# ([C++](Cpp.md)) [std::copy](CppCopy.md)
+# ([C++](Cpp.md)) [std::copy](CppStdCopy.md)
 
-[std::copy](CppCopy.md) is an [STL](CppStl.md) [algorithm](CppAlgorithm.md) to copy
+[std::copy](CppStdCopy.md) is an [STL](CppStl.md) [algorithm](CppAlgorithm.md) to copy
 [container](CppContainer.md) elements.
 
-[std::copy](CppCopy.md) assumes that the memory data is copied to is
+[std::copy](CppStdCopy.md) assumes that the memory data is copied to is
 valid. For example, if you copy a [std::vector](CppStdVector.md) of size
 10 to another [std::vector](CppStdVector.md), the latter must have a size
 of 10 at least. But if the size is unknown, use an

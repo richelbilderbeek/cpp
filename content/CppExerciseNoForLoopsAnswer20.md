@@ -34,7 +34,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppBind2nd.md)
 -   [std::count\_if](CppCount_if.md)
--   [std::greater](CppGreater.md)
+-   [std::greater](CppStdGreater.md)
 
  
 

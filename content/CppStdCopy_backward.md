@@ -1,7 +1,7 @@
 # ([C++](Cpp.md)) [std::copy_backward](CppCopy_backward.md)
 
 [std::copy_backward](CppStdCopy_backward.md) is an [STL](CppStl.md)
-[algorithm](CppAlgorithm.md) to [copy](CppCopy.md) a
+[algorithm](CppAlgorithm.md) to [copy](CppStdCopy.md) a
 [container](CppContainer.md) to the end of another.
 [std::copy_backward](CppStdCopy_backward.md) does not reverse the order
 of the copied [container](CppContainer.md), use

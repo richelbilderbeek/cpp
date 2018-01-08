@@ -163,7 +163,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::back\_inserter](CppBack_inserter.md)
 -   [std::bind2nd](CppBind2nd.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
 
  
@@ -226,7 +226,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::back\_inserter](CppBack_inserter.md)
 -   [std::bind2nd](CppBind2nd.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
 
  
@@ -503,7 +503,7 @@ Question \#12: [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppBind2nd.md)
--   [std::less](CppLess.md)
+-   [std::less](CppStdLess.md)
 -   [std::replace\_if](CppReplace_if.md)
 
  
@@ -596,8 +596,8 @@ Question \#15: [CoutVector](CppCoutVector.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::copy](CppCopy.md)
--   [std::ostream\_iterator](CppOstream_iterator.md)
+-   [std::copy](CppStdCopy.md)
+-   [std::ostream\_iterator](CppStdOstream_iterator.md)
 
  
 
@@ -691,7 +691,7 @@ Question \#18: [SumPositives](CppSumPositives.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::greater](CppGreater.md)
+-   [std::greater](CppStdGreater.md)
 -   A conditional [std::accumulate](CppStdAccumulate.md)
 
  
@@ -723,7 +723,7 @@ Question \#19: [ProductNonZeroPositives](CppProductNonZeroPositives.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppBind2nd.md)
--   [std::greater](CppGreater.md)
+-   [std::greater](CppStdGreater.md)
 -   [std::multiplies](CppMultiplies.md)
 -   A conditional [std::accumulate](CppStdAccumulate.md)
 
@@ -757,7 +757,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppBind2nd.md)
 -   [std::count\_if](CppCount_if.md)
--   [std::greater](CppGreater.md)
+-   [std::greater](CppStdGreater.md)
 
  
 
@@ -848,7 +848,7 @@ Question \#23: [SumFirst](CppSumFirst.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [boost::bind](CppBind.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 
  
 
@@ -879,7 +879,7 @@ Question \#24: [SumSecond](CppSumSecond.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [boost::bind](CppBind.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 
  
 

@@ -711,7 +711,7 @@ Great stuff for historicians!
     under Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.md)
 474. 30-09-2010: New page: [std::noboolalpha](CppNoboolalpha.md)
 475. 30-09-2010: New page: [std::partition](CppPartition.md)
-476. 30-09-2010: New page: [std::slist](CppSlist.md)
+476. 30-09-2010: New page: [std::slist](CppStdSlist.md)
 477. 30-09-2010: New page: [Why use pictograms and what do they
     mean?](CppPictograms.md)
 478. 30-09-2010: New page: [Can Qt Creator run under
@@ -1030,7 +1030,7 @@ Great stuff for historicians!
     getting ready to tackle the XOR problem](CppSharkExample2.md)
 661. 15-08-2010: New page: [Shark Example 3: evolving neural net solving
     the XOR problem](CppSharkExample3.md)
-662. 14-08-2010: New page: [std::istringstream](CppIstringstream.md)
+662. 14-08-2010: New page: [std::istringstream](CppStdIstringstream.md)
 663. 14-08-2010: New page: [conio.h](CppConioH.md)
 664. 14-08-2010: Modified [IsDouble](CppIsDouble.md): improved page
     source
@@ -1074,7 +1074,7 @@ Great stuff for historicians!
 693. 08-08-2010: New page: [GetToday](CppGetToday.md)
 694. 08-08-2010: New page: [GetDateIso8601](CppGetDateIso8601.md)
 695. 08-08-2010: New page: [std::multiset](CppMultiset.md)
-696. 07-08-2010: New page: [std::stringstream](CppStringstream.md)
+696. 07-08-2010: New page: [std::stringstream](CppStdStringstream.md)
 697. 07-08-2010: New page:
     [boost::filesystem::copy\_file](CppCopy_file.md)
 698. 07-08-2010: New page: [operator()](CppOperatorFunctionCall.md)
@@ -1371,7 +1371,7 @@ Great stuff for historicians!
 919. 22-07-2010: New page: [undefined reference to
     'boost::thread::thread()'](CppLinkErrorUndefinedReferenceToBoostThread.md)
 920. 22-07-2010: New page: [std::make\_pair](CppMake_pair.md)
-921. 22-07-2010: New page: [std::ostringstream](CppOstringstream.md)
+921. 22-07-2010: New page: [std::ostringstream](CppStdOstringstream.md)
 922. 22-07-2010: New page: [boost::get](CppGet.md)
 923. 22-07-2010: New page: [boost::multi\_array](CppMulti_array.md)
 924. 22-07-2010: New page: [std::fill](CppFill.md)
@@ -1516,14 +1516,14 @@ Great stuff for historicians!
     [std::overflow\_error](CppOverflow_error.md)
 1019. 01-06-2010: New page: [std::ends](CppEnds.md)
 1020. 01-06-2010: New page: [operator/](CppOperatorDivide.md)
-1021. 01-06-2010: New page: [std::minus](CppMinus.md)
+1021. 01-06-2010: New page: [std::minus](CppStdMinus.md)
 1022. 01-06-2010: New page: [std::length\_error](CppLength_error.md)
 1023. 01-06-2010: New page: [std::clock\_t](CppClock_t.md)
 1024. 01-06-2010: New page:
     [std::underflow\_error](CppUnderflow_error.md)
 1025. 06-01-2010: Modified [stream](CppStream.md): improved page
     content
-1026. 06-01-2010: Modified [std::plus](CppPlus.md): improved page
+1026. 06-01-2010: Modified [std::plus](CppStdPlus.md): improved page
     content
 1027. 06-01-2010: Modified [ReplaceOnce](CppReplaceOnce.md): improved
     page source
@@ -1619,7 +1619,7 @@ Great stuff for historicians!
 1083. 15-05-2010: New page: [auto](CppAuto.md)
 1084. 15-05-2010: New page: ['auto' will change meaning in C++0x; please
     remove it](CppCompileWarningAutoWillChangeMeaningInC++0x.md)
-1085. 15-05-2010: New page: [std::ostream](CppOstream.md)
+1085. 15-05-2010: New page: [std::ostream](CppStdOstream.md)
 1086. 15-05-2010: New page: [using](CppUsing.md)
 1087. 15-05-2010: New page: [functional.h](CppFunctionalH.md)
 1088. 15-05-2010: New page: [break](CppBreak.md)
@@ -1650,7 +1650,7 @@ Great stuff for historicians!
 1106. 14-05-2010: New page: [std::merge](CppMerge.md)
 1107. 14-05-2010: New page: [std::upper\_bound](CppUpper_bound.md)
 1108. 14-05-2010: New page: [stream](CppStream.md)
-1109. 14-05-2010: New page: [std::list](CppList.md)
+1109. 14-05-2010: New page: [std::list](CppStdList.md)
 1110. 14-05-2010: New page: [Audio](CppAudio.md)
 1111. 14-05-2010: New page: [stream](CppStream.md)
 1112. 14-05-2010: New page: [std::sprintf](CppSprintf.md)
@@ -1961,7 +1961,7 @@ Great stuff for historicians!
     source
 1283. 15-04-2010: Modified [std::map](CppMap.md): improved page source
 1284. 14-04-2010: New page: [std::multiplies](CppMultiplies.md)
-1285. 14-04-2010: New page: [std::less](CppLess.md)
+1285. 14-04-2010: New page: [std::less](CppStdLess.md)
 1286. 14-04-2010: New page: [Opaque pointer](CppOpaquePointer.md)
 1287. 14-04-2010: Modified [std::vector](CppStdVector.md): improved page
     source
@@ -2002,7 +2002,7 @@ Great stuff for historicians!
 1308. 10-04-2010: New page:
     [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
 1309. 10-04-2010: New page: [std::equal\_to](CppEqual_to.md)
-1310. 10-04-2010: New page: [std::greater](CppGreater.md)
+1310. 10-04-2010: New page: [std::greater](CppStdGreater.md)
 1311. 10-04-2010: New page: [Replace\_range](CppReplace_range.md)
 1312. 10-04-2010: New page: [IntPower](CppIntPower.md)
 1313. 10-04-2010: Modified [Exercise \#9: No
@@ -2067,7 +2067,7 @@ Great stuff for historicians!
     source
 1347. 04-04-2010: Modified [std::find](CppFind.md): improved page
     source
-1348. 04-04-2010: Modified [std::copy](CppCopy.md): improved page
+1348. 04-04-2010: Modified [std::copy](CppStdCopy.md): improved page
     source
 1349. 04-04-2010: Modified [Exercises](CppExercise.md): improved page
     source
@@ -2175,7 +2175,7 @@ Great stuff for historicians!
     compiler](CppCompileErrorBzconfigHunknownCompiler.md)
 1404. 11-02-2010: Modified [std::find](CppFind.md): test use of
     [Kompozer](http://www.kompozer.net/)
-1405. 11-02-2010: Modified [std::copy](CppCopy.md): test use of
+1405. 11-02-2010: Modified [std::copy](CppStdCopy.md): test use of
     [Kompozer](http://www.kompozer.net/)
 1406. 11-02-2010: Modified [Compile error](CppCompileError.md): added
     internal links
@@ -2349,7 +2349,7 @@ Great stuff for historicians!
 1490. 02-02-2010: New page: [operator+](CppOperatorPlus.md)
 1491. 02-02-2010: New page: [operator%](CppOperatorModulus.md)
 1492. 02-02-2010: New page: [Jesse Liberty](CppJesseLiberty.md)
-1493. 02-02-2010: New page: [std::plus](CppPlus.md)
+1493. 02-02-2010: New page: [std::plus](CppStdPlus.md)
 1494. 02-02-2010: New page: [cassert.h](CppCassertH.md)
 1495. 02-02-2010: New page: [iosfwd.h](CppIosfwdH.md)
 1496. 02-02-2010: New page: [MultiEncranger](ToolMultiEncranger.md)
@@ -2541,7 +2541,7 @@ Great stuff for historicians!
     metaprogram](CppTemplateMetaprogram.md)
 1611. 10-10-2009: Modified [std::find](CppFind.md): added internal
     links
-1612. 10-10-2009: Modified [std::copy](CppCopy.md): added internal
+1612. 10-10-2009: Modified [std::copy](CppStdCopy.md): added internal
     links
 1613. 10-10-2009: Modified [Compile error](CppCompileError.md): added
     internal links
@@ -2865,7 +2865,7 @@ Great stuff for historicians!
     internal links
 1795. 29-04-2009: New page: [std::auto\_ptr](CppAuto_ptr.md)
 1796. 29-04-2009: New page: [std::for\_each](CppFor_each.md)
-1797. 29-04-2009: Modified [std::copy](CppCopy.md): fixed internal link
+1797. 29-04-2009: Modified [std::copy](CppStdCopy.md): fixed internal link
 1798. 28-04-2009: New page: [Dialog](CppVclDialog.md)
 1799. 28-04-2009: New page: [ShowMessage](CppVclShowMessage.md)
 1800. 28-04-2009: New page: [MessageDlg](CppVclMessageDlg.md)
@@ -2903,7 +2903,7 @@ Great stuff for historicians!
     internal links
 1822. 28-02-2009: New page: [Forward
     declaration](CppForwardDeclaration.md)
-1823. 28-02-2009: Modified [std::copy](CppCopy.md): added internal
+1823. 28-02-2009: Modified [std::copy](CppStdCopy.md): added internal
     links
 1824. 28-02-2009: Modified [Append](CppAppend.md): added internal links
 1825. 28-02-2009: New page: [std::pair](CppPair.md)
@@ -3470,7 +3470,7 @@ Great stuff for historicians!
 2151. 04-05-2008: New page: [Binder](CppBinder.md)
 2152. 04-05-2008: New page: [Adapter](CppAdapter.md)
 2153. 04-05-2008: New page: [std::copy\_if](CppCopy_if.md)
-2154. 04-05-2008: Modified [std::copy](CppCopy.md): added links
+2154. 04-05-2008: Modified [std::copy](CppStdCopy.md): added links
 2155. 04-05-2008: New page:
     [std::remove\_copy\_if](CppRemove_copy_if.md)
 2156. 03-05-2008: Modified [std:: glossary](CppStdGlossary.md): added

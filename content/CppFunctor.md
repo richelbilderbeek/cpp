@@ -52,9 +52,9 @@ duty by calling its [operator()](CppOperatorFunctionCall.md).
  
 
 -   [std::equal\_to](CppEqual_to.md)
--   [std::greater](CppGreater.md)
+-   [std::greater](CppStdGreater.md)
 -   [std::greater\_equal](CppGreater_equal.md)
--   [std::less](CppLess.md)
+-   [std::less](CppStdLess.md)
 -   [std::less\_equal](CppLess_equal.md)
 -   [std::logical\_and](CppLogical_and.md)
 -   [std::logical\_not](CppLogical_not.md)
@@ -77,11 +77,11 @@ duty by calling its [operator()](CppOperatorFunctionCall.md).
  
 
 -   [std::divides](CppDivides.md)
--   [std::minus](CppMinus.md)
+-   [std::minus](CppStdMinus.md)
 -   [std::modulus](CppModulus.md)
 -   [std::multiplies](CppMultiplies.md)
 -   [std::negate](CppNegate.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 
  
 

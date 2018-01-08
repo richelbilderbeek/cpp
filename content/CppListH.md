@@ -18,7 +18,7 @@
 file](CppHeaderFile.md), containing the
 [definitions](CppDefinition.md) of some lists (incomplete list):
 
--   [std::list](CppList.md)
+-   [std::list](CppStdList.md)
 
  
 

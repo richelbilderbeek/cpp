@@ -26,7 +26,7 @@ ways (incomplete list):
 1.  [ToDouble](CppToDouble.md) using [std::atof](CppAtof.md)
 2.  [ToDouble](CppToDouble.md) using [std::strtod](CppStrtod.md)
 3.  [ToDouble](CppToDouble.md) using
-    [std::istringstream](CppIstringstream.md)
+    [std::istringstream](CppStdIstringstream.md)
 
  
 
@@ -64,7 +64,7 @@ To [conversion](CppConvert.md) a [std::string](CppStdString.md) to any
 
  
 
-[ToDouble](CppToDouble.md) using [std::istringstream](CppIstringstream.md)
+[ToDouble](CppToDouble.md) using [std::istringstream](CppStdIstringstream.md)
 ----------------------------------------------------------------------------
 
  

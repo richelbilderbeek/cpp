@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::list](CppList.md)
+([C++](Cpp.md)) [std::list](CppStdList.md)
 =========================================
 
  
 
-[std::list](CppList.md) is an [STL](CppStl.md)
+[std::list](CppStdList.md) is an [STL](CppStl.md)
 [container](CppContainer.md) implemented as a doubly-linked list.
 
  
 
-[std::list](CppList.md) is suitable for constant-time random-access
+[std::list](CppStdList.md) is suitable for constant-time random-access
 insertion and deletion at the cost of linear-time read and write.
 
  
@@ -56,9 +56,9 @@ insertion and deletion at the cost of linear-time read and write.
 
 -   Insertion operators, such as insert() and push\_back() are often
     more efficient on a [std::vector](CppStdVector.md) than on a
-    [std::list](CppList.md) \[1\]
--   A [std::list](CppList.md) is relatively expensive to traverse \[2\]
--   A [std::list](CppList.md) usually has a four-word-per-element
+    [std::list](CppStdList.md) \[1\]
+-   A [std::list](CppStdList.md) is relatively expensive to traverse \[2\]
+-   A [std::list](CppStdList.md) usually has a four-word-per-element
     memory overhead \[3\]
 
  

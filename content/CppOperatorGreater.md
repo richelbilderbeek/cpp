@@ -33,7 +33,7 @@ determine that two plus three is greater than four:
  
 
 [operator&gt;](CppOperatorGreater.md) is encapsulated by the
-[functor](CppFunctor.md) [std::greater](CppGreater.md).
+[functor](CppFunctor.md) [std::greater](CppStdGreater.md).
 
  
 

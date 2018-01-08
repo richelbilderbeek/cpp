@@ -20,7 +20,7 @@ file](CppHeaderFile.md), containing the
 [iterators](CppIterator.md) (incomplete list):
 
 -   [std::istream\_iterator](CppIstream_iterator.md)
--   [std::ostream\_iterator](CppOstream_iterator.md)
+-   [std::ostream\_iterator](CppStdOstream_iterator.md)
 -   [std::istreambuf\_iterator](CppIstreambuf_iterator.md)
 
  

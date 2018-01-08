@@ -22,9 +22,9 @@ file](CppHeaderFile.md) for stringstreams.
 List of [definitions](CppDefinition.md) in [sstream.h](CppSstreamH.md)
 (incomplete):
 
--   [std::istringstream](CppIstringstream.md)
--   [std::ostringstream](CppOstringstream.md)
--   [std::stringstream](CppStringstream.md)
+-   [std::istringstream](CppStdIstringstream.md)
+-   [std::ostringstream](CppStdOstringstream.md)
+-   [std::stringstream](CppStdStringstream.md)
 
  
 

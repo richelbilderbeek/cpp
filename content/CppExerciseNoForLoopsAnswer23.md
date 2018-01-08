@@ -35,7 +35,7 @@ Question \#23: [SumFirst](CppSumFirst.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [boost::bind](CppBind.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 
  
 

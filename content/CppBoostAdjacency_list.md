@@ -43,9 +43,9 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Purpose: slect the type of container used to store the edges
     -   Possible values:
         -   boost::hash\_setS: select std::hash\_set
-        -   boost::listS: select [std::list](CppList.md)
+        -   boost::listS: select [std::list](CppStdList.md)
         -   boost::setS: select [std::set](CppStdSet.md)
-        -   boost::slistS: select [std::slist](CppSlist.md)
+        -   boost::slistS: select [std::slist](CppStdSlist.md)
         -   boost::vecS: select [std::vector](CppStdVector.md)
     -   Default value: boost::vecS
 
@@ -53,9 +53,9 @@ knife' graph [class](CppClass.md) of the [Boost.Graph](CppGraph.md)
     -   Purpose: slect the type of container used to store the vertices
     -   Possible values:
         -   boost::hash\_setS: select std::hash\_set
-        -   boost::listS: select [std::list](CppList.md)
+        -   boost::listS: select [std::list](CppStdList.md)
         -   boost::setS: select [std::set](CppStdSet.md)
-        -   boost::slistS: select [std::slist](CppSlist.md)
+        -   boost::slistS: select [std::slist](CppStdSlist.md)
         -   boost::vecS: select [std::vector](CppStdVector.md)
     -   Default value: boost::vecS
 

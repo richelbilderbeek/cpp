@@ -36,7 +36,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::back\_inserter](CppBack_inserter.md)
 -   [std::bind2nd](CppBind2nd.md)
--   [std::plus](CppPlus.md)
+-   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
 
  

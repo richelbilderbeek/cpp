@@ -50,10 +50,10 @@ Screen output:
 
 Examples of [global](CppGlobal.md) [streams](CppStream.md) are:
 
--   [std::cout](CppStdCout.md) (an [std::ostream](CppOstream.md))
--   [std::cin](CppStdCin.md) (an [std::istream](CppIstream.md))
--   [std::clog](CppStdClog.md) (an [std::ostream](CppOstream.md))
--   [std::cerr](CppStdCerr.md) (an [std::ostream](CppOstream.md))
+-   [std::cout](CppStdCout.md) (an [std::ostream](CppStdOstream.md))
+-   [std::cin](CppStdCin.md) (an [std::istream](CppStdIstream.md))
+-   [std::clog](CppStdClog.md) (an [std::ostream](CppStdOstream.md))
+-   [std::cerr](CppStdCerr.md) (an [std::ostream](CppStdOstream.md))
 
  
 
@@ -72,10 +72,10 @@ Examples of [global](CppGlobal.md) [streams](CppStream.md) are:
 
 Types of [streams](CppStream.md) are:
 
--   [std::stringstream](CppStringstream.md): a
+-   [std::stringstream](CppStdStringstream.md): a
     [std::string](CppStdString.md) [stream](CppStream.md)
--   [std::ostream](CppOstream.md): output [stream](CppStream.md)
--   [std::istream](CppIstream.md): input [stream](CppStream.md)
+-   [std::ostream](CppStdOstream.md): output [stream](CppStream.md)
+-   [std::istream](CppStdIstream.md): input [stream](CppStream.md)
 -   [std::fstream](CppFstream.md): file [stream](CppStream.md)
 
  

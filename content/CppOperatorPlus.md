@@ -31,7 +31,7 @@ the values of two [integers](CppInt.md):
  
 
 [operator+](CppOperatorPlus.md) is encapsulated by the
-[functor](CppFunctor.md) [std::plus](CppPlus.md).
+[functor](CppFunctor.md) [std::plus](CppStdPlus.md).
 
  
 

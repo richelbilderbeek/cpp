@@ -34,7 +34,7 @@ Question
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::greater.htm](CppGreater.md)
+-   [std::greater.htm](CppStdGreater.md)
 -   A conditional [std::accumulate](CppStdAccumulate.md)
 
  

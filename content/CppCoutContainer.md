@@ -16,8 +16,8 @@
 
 [Container](CppContainer.md) [code snippet](CppCodeSnippets.md) to
 [std::cout](CppStdCout.md) a [container](CppContainer.md), using the
-[algorithm](CppAlgorithm.md) [std::copy](CppCopy.md) and the
-[std::ostream\_iterator](CppOstream_iterator.md).
+[algorithm](CppAlgorithm.md) [std::copy](CppStdCopy.md) and the
+[std::ostream\_iterator](CppStdOstream_iterator.md).
 
  
 

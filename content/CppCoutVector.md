@@ -26,10 +26,10 @@ to/from a std::stream](CppVectorToStream.md).
 
 Instead of using a [for](CppFor.md)-loop (See question 15 of [Exercise
 \#9: No for-loops](CppExerciseNoForLoops.md)), the
-[algorithm](CppAlgorithm.md) [std::copy](CppCopy.md) can be used to
+[algorithm](CppAlgorithm.md) [std::copy](CppStdCopy.md) can be used to
 copy the contents of a [std::vector](CppStdVector.md) to
 [std::cout](CppStdCout.md) using the
-[std::ostream\_iterator](CppOstream_iterator.md). Prefer algorithms
+[std::ostream\_iterator](CppStdOstream_iterator.md). Prefer algorithms
 over loops \[1\]\[2\].
 
  

@@ -36,8 +36,8 @@ Replace the [for](CppFor.md)-loop. You will need:
 
  
 
--   [std::copy](CppCopy.md)
--   [std::ostream\_iterator](CppOstream_iterator.md)
+-   [std::copy](CppStdCopy.md)
+-   [std::ostream\_iterator](CppStdOstream_iterator.md)
 
  
 

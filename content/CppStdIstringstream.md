@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::istringstream](CppIstringstream.md)
+([C++](Cpp.md)) [std::istringstream](CppStdIstringstream.md)
 ===========================================================
 
  
 
-[std::istringstream](CppIstringstream.md) is an [STL](CppStl.md) input
+[std::istringstream](CppStdIstringstream.md) is an [STL](CppStl.md) input
 [stream](CppStream.md) [data type](CppDataType.md).
 
  
@@ -35,7 +35,7 @@ Example: [IsDouble](CppIsDouble.md)
 The example below shows how to [check](CppCheck.md) if a
 [std::string](CppStdString.md) can be [converted](CppConvert.md) to
 [double](CppDouble.md): put the [std::string](CppStdString.md) in an
-[std::istringstream](CppIstringstream.md) and try to write it to a
+[std::istringstream](CppStdIstringstream.md) and try to write it to a
 [double](CppDouble.md). If this fails, the [std::string](CppStdString.md)
 cannot be [converted](CppConvert.md) to [double](CppDouble.md).
 

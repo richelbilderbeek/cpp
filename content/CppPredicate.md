@@ -60,11 +60,11 @@ file](CppHeaderFile.md) [functional](CppFunctionalH.md).
 
 -   [std::equal\_to](CppEqual_to.md),
     [operator==](CppOperatorEqual.md)
--   [std::greater](CppGreater.md),
+-   [std::greater](CppStdGreater.md),
     [operator&gt;](CppOperatorGreater.md)
 -   [std::greater\_equal](CppGreater_equal.md),
     [operator&gt;=](CppOperatorGreaterEqual.md)
--   [std::less](CppLess.md), [operator&lt;](CppOperatorLess.md)
+-   [std::less](CppStdLess.md), [operator&lt;](CppOperatorLess.md)
 -   [std::less\_equal](CppLess_equal.md),
     [operator&lt;=](CppOperatorLessEqual.md)
 -   [std::logical\_and](CppLogical_and.md),

@@ -31,7 +31,7 @@ subtract the values of two [integers](CppInt.md):
  
 
 [operator-](CppOperatorMinus.md) is encapsulated by the
-[functor](CppFunctor.md) [std::minus](CppMinus.md).
+[functor](CppFunctor.md) [std::minus](CppStdMinus.md).
 
  
 

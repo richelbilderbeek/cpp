@@ -24,7 +24,7 @@ Every [container](CppContainer.md) has its own advantages and
 disadvantages. For example a [std::vector](CppStdVector.md) has
 random-access reading/writing, but new elements can only be added at the
 begin and end of the [container](CppContainer.md). For a
-[std::list](CppList.md), this is the other way around.
+[std::list](CppStdList.md), this is the other way around.
 
  
 
@@ -48,14 +48,14 @@ begin and end of the [container](CppContainer.md). For a
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::deque](CppDeque.md)
 -   ![
     ](PicSpacer.png)![C++11](PicCpp11.png)[std::forward\_list](CppForward_list.md)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::list](CppList.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::list](CppStdList.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::map](CppMap.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multimap](CppMultimap.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multiset](CppMultiset.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::pair](CppPair.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::priority\_queue](CppPriority_queue.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::set](CppStdSet.md)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::slist](CppSlist.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::slist](CppStdSlist.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::stack](CppStack.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::string](CppStdString.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::queue](CppQueue.md)
@@ -202,7 +202,7 @@ SGI extension [containers](CppContainer.md) (incomplete list)
     [container](CppContainer.md) \[4\]
 -   Insertion operators, such as insert() and push\_back() are often
     more efficient on a [std::vector](CppStdVector.md) than on a
-    [std::list](CppList.md) \[5\]
+    [std::list](CppStdList.md) \[5\]
 -   Pass a [container](CppContainer.md) by
     [reference](CppReference.md) and [return](CppReturn.md) a
     [container](CppContainer.md) by value \[7\]

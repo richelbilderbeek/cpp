@@ -15,7 +15,7 @@
  
 
 [std::unique\_copy](CppUnique_copy.md) is an [STL](CppStl.md)
-[algorithm](CppAlgorithm.md) similar to [std::copy](CppCopy.md) except
+[algorithm](CppAlgorithm.md) similar to [std::copy](CppStdCopy.md) except
 that it copies identical adjacent values once.
 
  

@@ -20,7 +20,7 @@
  
 
 A good use of [std::back\_inserter](CppBack_inserter.md) is when you
-[std::copy](CppCopy.md) to a [container](CppContainer.md)
+[std::copy](CppStdCopy.md) to a [container](CppContainer.md)
 [class](CppClass.md).
 
  

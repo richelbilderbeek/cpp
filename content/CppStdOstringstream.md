@@ -9,20 +9,20 @@
 
  
 
-([C++](Cpp.md)) [std::ostringstream](CppOstringstream.md)
+([C++](Cpp.md)) [std::ostringstream](CppStdOstringstream.md)
 ===========================================================
 
  
 
-[std::ostringstream](CppOstringstream.md) is an [STL](CppStl.md)
+[std::ostringstream](CppStdOstringstream.md) is an [STL](CppStl.md)
 output [stream](CppStream.md) interface for
 [std::string](CppStdString.md) manipulation.
 
  
 
 In the example below, [int](CppInt.md) and [std::string](CppStdString.md)
-are appended to a [std::ostringstream](CppOstringstream.md), before the
-[std::ostringstream](CppOstringstream.md) is finally converted to
+are appended to a [std::ostringstream](CppStdOstringstream.md), before the
+[std::ostringstream](CppStdOstringstream.md) is finally converted to
 [std::string](CppStdString.md).
 
  
