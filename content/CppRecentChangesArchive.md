@@ -45,7 +45,7 @@ Great stuff for historicians!
     page source
 18. 26-09-2011: New page: [Qt::QCanvas](CppQCanvas.md)
 19. 26-09-2011: New page: [Qt::QFile](CppQFile.md)
-20. 26-09-2011: New page: [std::noshowpoint](CppNoshowpoint.md)
+20. 26-09-2011: New page: [std::noshowpoint](CppStdNoshowpoint.md)
 21. 26-09-2011: New page: [std::resetiosflags](CppResetiosflags.md)
 22. 26-09-2011: New page: [std::showpoint](CppShowpoint.md)
 23. 26-09-2011: New page:
@@ -1250,7 +1250,7 @@ Great stuff for historicians!
     [boost::bad\_lexical\_cast](CppBad_lexical_cast.md)
 827. 27-07-2010: New page: [export](CppExport.md)
 828. 27-07-2010: New page: [M\_PI](CppM_PI.md)
-829. 27-07-2010: New page: [std::numeric\_limits](CppNumeric_limits.md)
+829. 27-07-2010: New page: [std::numeric\_limits](CppStdNumeric_limits.md)
 830. 27-07-2010: New page: [operator-](CppOperatorMinus.md)
 831. 27-07-2010: New page: [short](CppShort.md)
 832. 27-07-2010: New page: [std::sqrt](CppSqrt.md)
@@ -3435,8 +3435,8 @@ Great stuff for historicians!
 2126. 12-05-2008: New page: [boost::shared\_ptr](CppShared_ptr.md)
 2127. 12-05-2008: New page: [smart pointer](CppSmartPointer.md)
 2128. 12-05-2008: New page: [header file](CppHeaderFile.md)
-2129. 12-05-2008: New page: [std::min](CppMin.md)
-2130. 12-05-2008: New page: [std::max](CppMax.md)
+2129. 12-05-2008: New page: [std::min](CppStdMin.md)
+2130. 12-05-2008: New page: [std::max](CppStdMax.md)
 2131. 11-05-2008: Modified [C++](Cpp.md) [FAQ](CppFaq.md): moved info
     and added links
 2132. 11-05-2008: Modified [C++ Builder](CppBuilder.md): moved info and

@@ -9,19 +9,19 @@
 
  
 
-([C++](Cpp.md)) [std::noshowpoint](CppNoshowpoint.md)
+([C++](Cpp.md)) [std::noshowpoint](CppStdNoshowpoint.md)
 =======================================================
 
  
 
-[std::noshowpoint](CppNoshowpoint.md) is an [STL](CppStl.md)
+[std::noshowpoint](CppStdNoshowpoint.md) is an [STL](CppStl.md)
 [stream](CppStream.md) manipulator to not show the zeroes behind the
 comma of a [double](CppDouble.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppNoshowpoint' (zip)](CppNoshowpoint.md)
+    'CppNoshowpoint' (zip)](CppStdNoshowpoint.md)
 
  
 

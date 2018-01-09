@@ -19,7 +19,7 @@ file](CppHeaderFile.md), containing the
 [definitions](CppDefinition.md) of some numerical limits (incomplete
 list):
 
--   [std::numeric\_limits](CppNumeric_limits.md)
+-   [std::numeric\_limits](CppStdNumeric_limits.md)
 
  
 

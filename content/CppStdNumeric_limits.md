@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::numeric\_limits](CppNumeric_limits.md)
+([C++](Cpp.md)) [std::numeric\_limits](CppStdNumeric_limits.md)
 ==============================================================
 
  
 
-[std::numeric\_limits](CppNumeric_limits.md) is an [STL](CppStl.md)
+[std::numeric\_limits](CppStdNumeric_limits.md) is an [STL](CppStl.md)
 [template function](CppTemplateFunction.md) to obtain numerical limits
 from numerical [data types](CppDataType.md).
 

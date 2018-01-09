@@ -204,7 +204,7 @@ streamable version of flags and fields.
 -   [std::internal](CppInternal.md)
 -   [std::left](CppLeft.md)
 -   [std::noshowbase](CppNoshowbase.md)
--   [std::noshowpoint](CppNoshowpoint.md)
+-   [std::noshowpoint](CppStdNoshowpoint.md)
 -   [std::noshowpos](CppNoshowpos.md)
 -   [std::noskipws](CppNoskipws.md)
 -   [std::nouppercase](CppNouppercase.md)

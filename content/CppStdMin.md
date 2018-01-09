@@ -9,13 +9,13 @@
 
  
 
-([C++](Cpp.md)) [std::min](CppMin.md)
+([C++](Cpp.md)) [std::min](CppStdMin.md)
 =======================================
 
  
 
 Standard [algorithm](CppAlgorithm.md) to get the lowest of two values.
-To get the highest of two values, use [std::max](CppMax.md).
+To get the highest of two values, use [std::max](CppStdMax.md).
 
  
 
