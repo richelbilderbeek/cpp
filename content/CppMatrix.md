@@ -162,7 +162,7 @@ matrix, but to many more dimensions.
  
 
 When using [C++ Builder](CppBuilder.md) 6.0, this does not
-[compile](CppCompile.md) (it results in the [compile
+[compile](CppCompiler.md) (it results in the [compile
 error](CppCompileError.md) [borland.hpp: Only member functions may be
 'const' or
 'volatile'](CppCompileErrorBorlandHppOnlyMemberFunctionsMayBeConstOrVolatile.md)).
@@ -197,7 +197,7 @@ See [boost::numeric::ublas::matrix](CppUblasMatrix.md).
     [boost::numeric::ublas::matrix](CppUblasMatrix.md) works fine
 -   ![FAIL](PicRed.png)![C++ Builder](PicCppBuilder.png) In [C++
     Builder](CppBuilder.md) 6.0, this does not
-    [compile](CppCompile.md) (it results in the [compile
+    [compile](CppCompiler.md) (it results in the [compile
     error](CppCompileError.md) [Your compiler and/or configuration is
     unsupported by this verions of
     uBLAS](CppCompileErrorYourCompilerAndOrConfigurationIsUnsupportedByThisVerionsOfUblas.md))
@@ -224,7 +224,7 @@ but to many more dimensions.
  
 
 When using [C++ Builder](CppBuilder.md) 6.0, this does not
-[compile](CppCompile.md) (it results in the [compile
+[compile](CppCompiler.md) (it results in the [compile
 error](CppCompileError.md) [bzconfig.h: Unknown
 compiler](CppCompileErrorBzconfigHunknownCompiler.md)).
 

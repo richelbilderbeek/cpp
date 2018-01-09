@@ -73,10 +73,10 @@ functions](CppTemplateFunction.md).
 
  
 
-Technical note: the code shown did not [compile](CppCompile.md) using
+Technical note: the code shown did not [compile](CppCompiler.md) using
 the [G++](CppGpp.md) 4.4.5 [compiler](CppCompiler.md), which is
 supplied with the [Qt Creator](CppQtCreator.md) 2.0.0
-[IDE](CppIde.md), but is expected to [compile](CppCompile.md) already
+[IDE](CppIde.md), but is expected to [compile](CppCompiler.md) already
 (?) \[1\].
 
  

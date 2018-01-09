@@ -40,7 +40,7 @@ Example: [GetKeyWithMaxValue](CppGetKeyWithMaxValue.md)
  
 
 [GetKeyWithMaxValue](CppGetKeyWithMaxValue.md) is a
-[std::map](CppMap.md) [code snippet](CppCodeSnippets.md) to obtain the
+[std::map](CppStdMap.md) [code snippet](CppCodeSnippets.md) to obtain the
 key with the highest value.
 
  

@@ -100,7 +100,7 @@ GetAnimal [member functions](CppMemberFunction.md).
 
  
 
-The following line must not [compile](CppCompile.md):
+The following line must not [compile](CppCompiler.md):
 
  
 
@@ -110,7 +110,7 @@ The following line must not [compile](CppCompile.md):
 
  
 
-Three out of four correctly refrain from [compiling](CppCompile.md),
+Three out of four correctly refrain from [compiling](CppCompiler.md),
 where GetAnimals0 just performs the unwanted modification. GetAnimals0
 is marked as a potential source for bugs, and taken off our list.
 
@@ -128,7 +128,7 @@ it's time to [define](CppDefinition.md) them:
  
 
 It appears that GetAnimals2 and GetAnimals3 do not
-[compile](CppCompile.md). This is correct: we indeed give away a
+[compile](CppCompiler.md). This is correct: we indeed give away a
 [reference](CppReference.md) to a
 [std::vector](CppStdVector.md)&lt;Animal&gt; instead of to a
 [std::vector](CppStdVector.md)&lt;[const](CppConst.md) Animal&gt;. If we

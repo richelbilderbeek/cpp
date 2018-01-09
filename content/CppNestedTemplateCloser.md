@@ -87,7 +87,7 @@ The [nested template closer](CppNestedTemplateCloser.md) can be
 
  
 
-Technical note: this code is [compiled](CppCompile.md) successfully
+Technical note: this code is [compiled](CppCompiler.md) successfully
 using the [G++](CppGpp.md) 4.4.5 [compiler](CppCompiler.md), which is
 supplied with the [Qt Creator](CppQtCreator.md) 2.0.0
 [IDE](CppIde.md).

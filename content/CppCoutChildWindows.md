@@ -24,7 +24,7 @@ make them as explicit as possible.
 
  
 
-This code is [compiled](CppCompile.md) under [C++
+This code is [compiled](CppCompiler.md) under [C++
 Builder](CppBuilder.md) 6.0.
 
  

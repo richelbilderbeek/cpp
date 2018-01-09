@@ -15,7 +15,7 @@
  
 
 [Template metaprogramming](CppTemplateMetaprogram.md) is a technique to
-perform calculations during [compiling](CppCompile.md) only.
+perform calculations during [compiling](CppCompiler.md) only.
 
  
 

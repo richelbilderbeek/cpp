@@ -15,7 +15,7 @@
  
 
 [link time](CppLinkTime.md) is the the time it takes the
-[linker](CppLinker.md) to connect the [compiled](CppCompile.md) object
+[linker](CppLinker.md) to connect the [compiled](CppCompiler.md) object
 code.
 
  

@@ -75,10 +75,10 @@ an [enum class](CppEnumClass.md):
 
  
 
-Technical note: the code shown did not [compile](CppCompile.md) using
+Technical note: the code shown did not [compile](CppCompiler.md) using
 the [G++](CppGpp.md) 4.4.5 [compiler](CppCompiler.md), which is
 supplied with the [Qt Creator](CppQtCreator.md) 2.0.0
-[IDE](CppIde.md), but is expected to [compile](CppCompile.md) in
+[IDE](CppIde.md), but is expected to [compile](CppCompiler.md) in
 [G++](CppGpp.md) version 4.6 \[1\].
 
  

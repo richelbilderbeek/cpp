@@ -40,7 +40,7 @@ There are some drawbacks following this way:
  
 
 -   Class generation is not done in this way be default
--   [Compiling](CppCompile.md) will take longer
+-   [Compiling](CppCompiler.md) will take longer
 
  
 

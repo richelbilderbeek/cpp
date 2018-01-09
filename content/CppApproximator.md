@@ -28,7 +28,7 @@ value of) 1,5 to be (the value y value of) 1,5.
 
 [Approximator](CppApproximator.md) does not support multiple identical
 keys (for example the coordinats (1.0,2.0) and (1.0,3.0)), similar to a
-[std::map](CppMap.md). [MultiApproximator](CppMultiApproximator.md)
+[std::map](CppStdMap.md). [MultiApproximator](CppMultiApproximator.md)
 does allow this.
 
 Technical facts

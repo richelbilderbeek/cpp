@@ -69,9 +69,9 @@ Example \#1
  
 
 The code (using [Qt Creator](CppQt.md)) above does
-[compile](CppCompile.md) and print text to the screen. If the
+[compile](CppCompiler.md) and print text to the screen. If the
 [const](CppConst.md) that is commented out is activated, the code will
-not [compile](CppCompile.md) anymore. Due to this, also use a
+not [compile](CppCompiler.md) anymore. Due to this, also use a
 [const](CppConst.md) [return type](CppReturnType.md) (note, however,
 that \[8\] advises against this advice).
 

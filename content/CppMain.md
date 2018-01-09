@@ -94,7 +94,7 @@ Note that the standard states that the closing bracket of
 keep it in.
 
 Incorrect/non-standard is [1-5] (although with some
-[compilers](CppCompiler.md) it might [compile](CppCompile.md)):
+[compilers](CppCompiler.md) it might [compile](CppCompiler.md)):
 
 ```
 void main() //INCORRECT!!!

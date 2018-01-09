@@ -16,7 +16,7 @@
 
 The [preprocessor](CppPreprocessor.md) performs modifications
 (especially [macro](CppMacro.md)'s) to source code, before
-[compiling](CppCompile.md) takes place.
+[compiling](CppCompiler.md) takes place.
 
  
 

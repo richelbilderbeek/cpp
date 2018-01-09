@@ -86,7 +86,7 @@ The cause of this [compile error](CppCompileError.md) is that
 [operator\[\]](CppOperatorIndex.md) is not a [const member
 function](CppConstMemberFunction.md). This is because this [member
 function](CppMemberFunction.md) inserts an element to the
-[std::map](CppMap.md). It is created to make insertion easy and to
+[std::map](CppStdMap.md). It is created to make insertion easy and to
 never [throw](CppThrow.md). Therefore, the code above will not compile:
 if myMap does not have the key i, an exception has to be
 [thrown](CppThrow.md). So, due to this it does not compile. The way to

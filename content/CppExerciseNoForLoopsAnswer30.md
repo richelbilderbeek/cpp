@@ -27,7 +27,7 @@ for-loops](CppExerciseNoForLoops.md).
 
  
 
-Question \#30: Get maximum value from [std::map](CppMap.md)&lt;**[const](CppConst.md)** Person \*,**[int](CppInt.md)**&gt;
+Question \#30: Get maximum value from [std::map](CppStdMap.md)&lt;**[const](CppConst.md)** Person \*,**[int](CppInt.md)**&gt;
 -----------------------------------------------------------------------------------------------------------------------------
 
  

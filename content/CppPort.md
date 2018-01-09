@@ -41,7 +41,7 @@ To port your code from environment (operation system) A to B, there are
 multiple ways:
 
 1.  [Cross-compiling](CppCrossCompile.md)
-2.  [Compile](CppCompile.md) the same code under the same
+2.  [Compile](CppCompiler.md) the same code under the same
     [IDE](CppIde.md) with same cross-platform
     [libraries](CppLibrary.md) on a computer with environment B
     installed. [Qt Creator is an example of a
@@ -49,7 +49,7 @@ multiple ways:
     [STL](CppStl.md), [Boost](CppBoost.md) and [Qt](CppQt.md)
     [libraries](CppLibrary.md) are examples of cross-platform
     [libraries](CppLibrary.md)
-3.  [Compile](CppCompile.md) the same code under the same
+3.  [Compile](CppCompiler.md) the same code under the same
     [IDE](CppIde.md) with same cross-platform
     [libraries](CppLibrary.md) on a computer in an environment like A,
     but creating executables for B, like [Cygwin](CppCygwin.md):

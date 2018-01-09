@@ -15,7 +15,7 @@
  
 
 [std::multimap](CppMultimap.md) is an [STL](CppStl.md)
-[container](CppContainer.md) similar to [std::map](CppMap.md), except
+[container](CppContainer.md) similar to [std::map](CppStdMap.md), except
 that it can hold multiple values for one key.
 
  

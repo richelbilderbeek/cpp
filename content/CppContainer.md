@@ -45,11 +45,11 @@ begin and end of the [container](CppContainer.md). For a
 
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)
     [std::bitset](CppStdBitset.md)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::deque](CppDeque.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::deque](CppStdDeque.md)
 -   ![
     ](PicSpacer.png)![C++11](PicCpp11.png)[std::forward\_list](CppForward_list.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::list](CppStdList.md)
--   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::map](CppMap.md)
+-   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::map](CppStdMap.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multimap](CppMultimap.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::multiset](CppMultiset.md)
 -   ![C++98](PicCpp98.png)![C++11](PicCpp11.png)[std::pair](CppPair.md)

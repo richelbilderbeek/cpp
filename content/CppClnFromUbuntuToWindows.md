@@ -14,7 +14,7 @@
 
  
 
-I had to be able to [compile](CppCompile.md) the [CLN](CppCln.md)
+I had to be able to [compile](CppCompiler.md) the [CLN](CppCln.md)
 [library](CppLibrary.md) from Ubuntu to Windows.
 
  

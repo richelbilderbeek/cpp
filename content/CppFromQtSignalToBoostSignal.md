@@ -77,7 +77,7 @@ signals](CppBoostSignal.md) are:
 -   The [Qt signal](CppQtSignal.md) syntax is easier to read and write
 -   When using only [Qt](CppQt.md), adding the [Boost
     signals](CppBoostSignal.md) [libraries](CppLibrary.md) increase
-    [compile](CppCompile.md) time
+    [compile](CppCompiler.md) time
 
  
 

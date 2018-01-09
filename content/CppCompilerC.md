@@ -16,7 +16,7 @@
 
 [How to use Qt Creator to compile C code?](CppCompilerC.md) is a [Qt
 FAQ](CppQtFaq.md) how to use [Qt Creator](CppQtCreator.md) to
-[compile](CppCompile.md) C code.
+[compile](CppCompiler.md) C code.
 
  
 

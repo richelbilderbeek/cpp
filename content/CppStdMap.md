@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::map](CppMap.md)
+([C++](Cpp.md)) [std::map](CppStdMap.md)
 =======================================
 
  
 
-[std::map](CppMap.md) is an [STL](CppStl.md)
+[std::map](CppStdMap.md) is an [STL](CppStl.md)
 [container](CppContainer.md) for mapping two kinds of [data
 types](CppDataType.md).
 
  
 
-For a [std::map](CppMap.md)&lt;T,U&gt;, T is called the key, and U is
+For a [std::map](CppStdMap.md)&lt;T,U&gt;, T is called the key, and U is
 called the value. One key can only have one value. If a key needs to
 have one or more values, use a [std::multimap](CppMultimap.md).
 
@@ -51,7 +51,7 @@ have one or more values, use a [std::multimap](CppMultimap.md).
 
  
 
-[std::map](CppMap.md) [code snippets](CppCodeSnippets.md)
+[std::map](CppStdMap.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------
 
  
@@ -85,7 +85,7 @@ Note that among these are also more general
 
  
 
--   A [std::map](CppMap.md) is usually implemented as a red-black tree
+-   A [std::map](CppStdMap.md) is usually implemented as a red-black tree
     \[1\]
 
  

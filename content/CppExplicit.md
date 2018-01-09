@@ -32,7 +32,7 @@ Example
 
  
 
-The example below will not [compile](CppCompile.md), due to the
+The example below will not [compile](CppCompiler.md), due to the
 [explicit](CppExplicit.md) [keyword](CppKeyword.md) written in the
 [constructor](CppConstructor.md) of Test:
 

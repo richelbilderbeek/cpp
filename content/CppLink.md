@@ -20,7 +20,7 @@ of a project into a single executable, which is performed by a
 
  
 
-[Linking](CppLink.md) takes place after [compiling](CppCompile.md). An
+[Linking](CppLink.md) takes place after [compiling](CppCompiler.md). An
 [error](CppError.md) during linking is called a [link
 error](CppLinkError.md).
 

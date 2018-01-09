@@ -44,9 +44,9 @@ The erase-remove idiom
 
  
 
-Calling [std::remove](CppRemove.md) to remove a certain value from a
+Calling [std::remove](CppStdRemove.md) to remove a certain value from a
 [std::vector](CppStdVector.md) does not change a
-[std::vector](CppStdVector.md) its size. [std::remove](CppRemove.md) does
+[std::vector](CppStdVector.md) its size. [std::remove](CppStdRemove.md) does
 [return](CppReturn.md) an [iterator](CppIterator.md) to where the
 removed elements are put. This [iterator](CppIterator.md) can be used
 to call [std::vector](CppStdVector.md) its 'erase' member function. These
@@ -173,7 +173,7 @@ Note that among these are also more general
 -   Use [std::vector](CppStdVector.md) as your default
     [container](CppContainer.md) \[5\]
 -   Don't use [iterators](CppIterator.md) into a resized
-    [std::vector](CppStdVector.md) or [std::deque](CppDeque.md) \[6\]
+    [std::vector](CppStdVector.md) or [std::deque](CppStdDeque.md) \[6\]
 -   Don't assume [performance](CppPerformance.md) benefits
     from reserve() without measurements \[7\]
 -   When necessary, use reserve() to make

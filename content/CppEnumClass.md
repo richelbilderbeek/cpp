@@ -57,7 +57,7 @@ Screen output:
 
  
 
-Technical note: the code shown is [compiled](CppCompile.md)
+Technical note: the code shown is [compiled](CppCompiler.md)
 successfully using the [G++](CppGpp.md) 4.4.5
 [compiler](CppCompiler.md), which is supplied with the [Qt
 Creator](CppQtCreator.md) 2.0.0 [IDE](CppIde.md).

@@ -66,7 +66,7 @@ For [std::strings](CppStdString.md), [CanCast](CppCanCast.md) and
 
  
 
-This code [compiles](CppCompile.md) cleanly under [C++
+This code [compiles](CppCompiler.md) cleanly under [C++
 Builder](CppBuilder.md) 6.0
 
  

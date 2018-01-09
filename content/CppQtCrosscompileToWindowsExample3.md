@@ -83,7 +83,7 @@ Process
 Because I was trying to solve the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
 executable?](CppQtCrosscompileToWindows.md), I
-[compiled](CppCompile.md) the code as follows:
+[compiled](CppCompiler.md) the code as follows:
 
  
 

@@ -15,7 +15,7 @@
  
 
 An [\#include guard](CppIncludeGuard.md) prevents a [header
-file](CppHeaderFile.md) to be [compiled](CppCompile.md) multiple times
+file](CppHeaderFile.md) to be [compiled](CppCompiler.md) multiple times
 (this will happen if a [header file](CppHeaderFile.md) is
 [\#included](CppInclude.md) by multiple [header
 files](CppHeaderFile.md), which will cause a redeclaration error).

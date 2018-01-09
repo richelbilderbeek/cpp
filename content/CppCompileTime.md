@@ -16,12 +16,12 @@
 
 [compile time](CppCompileTime.md) is the term used for:
 
--   the time it takes to [compile](CppCompile.md). Techniques to
+-   the time it takes to [compile](CppCompiler.md). Techniques to
     shorten this are:
     -   use of [forward declarations](CppForwardDeclaration.md)
     -   use of [pimpl idiom](CppPimpl.md)
     -   use of precompiled [header files](CppHeaderFile.md)
--   properties known when [compiling](CppCompile.md). For example, the
+-   properties known when [compiling](CppCompiler.md). For example, the
     [factorial](CppFactorial.md) of any ([compile
     time](CppCompileTime.md)) [constant](CppConst.md) is known.
     [Template metaprogramming](CppTemplateMetaprogramming.md) shifts

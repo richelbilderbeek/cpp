@@ -14,7 +14,7 @@
 
  
 
-Will this [compile](CppCompile.md)?
+Will this [compile](CppCompiler.md)?
 
  
 
@@ -53,12 +53,12 @@ The reason for this is that the [index
 operator](CppOperatorIndex.md)/[operator\[\]](CppOperatorIndex.md) is
 not a [const](CppConst.md) [member function](CppMemberFunction.md).
 This is because this [member function](CppMemberFunction.md) possibly
-inserts an element to the [std::map](CppMap.md)! It is created to make
+inserts an element to the [std::map](CppStdMap.md)! It is created to make
 insertion easy and to never [throw](CppThrow.md). Therefore, the code
-above will not [compile](CppCompile.md): if **myMap** does not have the
+above will not [compile](CppCompiler.md): if **myMap** does not have the
 key **i**, an [exception](CppException.md) has to be
 [thrown](CppThrow.md). So, due to this it does not
-[compile](CppCompile.md). The way to solve the above example is shown
+[compile](CppCompiler.md). The way to solve the above example is shown
 below.
 
  

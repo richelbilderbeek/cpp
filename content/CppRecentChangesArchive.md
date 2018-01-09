@@ -947,7 +947,7 @@ Great stuff for historicians!
 594. 06-09-2010: New page: [Jamie Allsop](CppJamieAllsop.md)
 595. 05-09-2010: New page: [In\_regex](CppIn_regex.md)
 596. 05-09-2010: New page: [std::getline](CppGetline.md)
-597. 05-09-2010: New page: [std::remove](CppRemove.md)
+597. 05-09-2010: New page: [std::remove](CppStdRemove.md)
 598. 05-09-2010: New page: [std::strchr](CppStrchr.md): 1100th page!
 599. 04-09-2010: New page: [QTableWidget](CppQTableWidget.md)
 600. 31-08-2010: New page:
@@ -1509,7 +1509,7 @@ Great stuff for historicians!
 1012. 27-06-2010: New page: [Coding standard](CppCodingStandard.md)
 1013. 27-06-2010: New page: [declaration](CppDeclaration.md)
 1014. 03-06-2010: New page: [iterator.h](CppIteratorH.md)
-1015. 03-06-2010: New page: [std::deque](CppDeque.md)
+1015. 03-06-2010: New page: [std::deque](CppStdDeque.md)
 1016. 02-06-2010: New page: [streambuf.h](CppStreambufH.md)
 1017. 02-06-2010: New page: [Instance](CppInstance.md)
 1018. 01-06-2010: New page:
@@ -1959,7 +1959,7 @@ Great stuff for historicians!
 1282. 15-04-2010: Modified [shared\_ptr.hpp: Assertion failed: px !=
     0](CppRuntimeErrorShared_ptrAssertPxNotNull.md): improved page
     source
-1283. 15-04-2010: Modified [std::map](CppMap.md): improved page source
+1283. 15-04-2010: Modified [std::map](CppStdMap.md): improved page source
 1284. 14-04-2010: New page: [std::multiplies](CppMultiplies.md)
 1285. 14-04-2010: New page: [std::less](CppStdLess.md)
 1286. 14-04-2010: New page: [Opaque pointer](CppOpaquePointer.md)
@@ -2545,7 +2545,7 @@ Great stuff for historicians!
     links
 1613. 10-10-2009: Modified [Compile error](CppCompileError.md): added
     internal links
-1614. 10-10-2009: Modified [std::map](CppMap.md): added internal links
+1614. 10-10-2009: Modified [std::map](CppStdMap.md): added internal links
 1615. 10-10-2009: Modified [int](CppInt.md): added internal links
 1616. 10-10-2009: Modified [&gt;Code snippets](CppCodeSnippets.md):
     added internal links
@@ -2601,7 +2601,7 @@ Great stuff for historicians!
     links
 1650. 26-08-2009: Modified [Container](CppContainer.md): added internal
     links
-1651. 26-08-2009: Modified [std::map](CppMap.md): added internal links
+1651. 26-08-2009: Modified [std::map](CppStdMap.md): added internal links
 1652. 26-08-2009: Modified [CoutContainer](CppCoutContainer.md): added
     internal links
 1653. 26-08-2009: Modified [Container](CppContainer.md): added internal

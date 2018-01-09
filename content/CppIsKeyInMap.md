@@ -14,9 +14,9 @@
 
  
 
-[IsKeyInMap](CppIsKeyInMap.md) is a [std::map](CppMap.md)
+[IsKeyInMap](CppIsKeyInMap.md) is a [std::map](CppStdMap.md)
 [check](CppCheck.md) [code snippet](CppCodeSnippets.md) to find out if
-a certain key is in a [std::map](CppMap.md).
+a certain key is in a [std::map](CppStdMap.md).
 
  
 

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::deque](CppDeque.md)
+([C++](Cpp.md)) [std::deque](CppStdDeque.md)
 ===========================================
 
  
 
-[std::deque](CppDeque.md) (an abbreviation of 'double-ended queue',
+[std::deque](CppStdDeque.md) (an abbreviation of 'double-ended queue',
 pronounce 'deck') is an [STL](CppStl.md) [container](CppContainer.md)
 to store elements in a double-ended queue.
 
@@ -51,7 +51,7 @@ to store elements in a double-ended queue.
  
 
 -   Don't use [iterators](CppIterator.md) into a resized
-    [std::vector](CppStdVector.md) or [std::deque](CppDeque.md) \[1\]
+    [std::vector](CppStdVector.md) or [std::deque](CppStdDeque.md) \[1\]
 
  
 
