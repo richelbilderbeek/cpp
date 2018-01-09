@@ -27,9 +27,12 @@ int main()
 }
 ```
 
-Avoid [std::endl](CppStdEndl.md) [1], as one does not need to flush the [std::cout](CppStdCout.md) buffer after every output [2].
+## [Advice](CppAdvice.md)
+
+ * Avoid [std::endl](CppStdEndl.md) [1,3], as one does not need to flush the [std::cout](CppStdCout.md) buffer after every output [2].
 
 ## [References](CppReferences.md)
 
  * [1] [C++ Core Guidelines: SL.io.50: Avoid endl](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rio-endl)
  * [2] [Angelika Langer](CppAngelikaLanger.md), [Klaus Kreft](CppKlausKreft.md). Standard C++ IOStreams and Locales. 1999. ISBN:0-321-58558-5. Chapter 1.2.4, section 'Manipulators', page 23
+ * [3] [C++ Weekly - Ep7 Stop Using std::endl](http://articles.emptycrate.com/2016/04/18/stop_using_std_endl.html)

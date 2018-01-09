@@ -6,6 +6,7 @@ The [Qt](CppQt.md) [library](CppLibrary.md) is the
  * [Qt FAQ page](CppQtFaq.md)
  * [Qt examples](CppQtExample.md)
  * [Qt classes](CppQtClass.md)
+ * [Qt class design](CppQtClassDesign.md)
 
 ## External links
 

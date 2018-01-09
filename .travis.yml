@@ -1,0 +1,14 @@
+install:
+  # proselint
+  - sudo pip install proselint
+  # markdown-link-check
+  - sudo apt-get install npm
+  - sudo npm install -g markdown-link-check
+
+script: 
+  # proselint
+  - cd content
+  - for filename in `ls *.md`; do proselint $filename; done
+  - cd ..
+  # Check dead links
+  - find . -name \*.md -exec markdown-link-check {} \;

@@ -1,48 +1,13 @@
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [Qt classes](CppQtClass.md)
 
- 
+[Qt classes](CppQtClass.md) are [classes](CppClass.md) that use the [Qt](CppQt.md) [library](CppLibrary.md).
 
- 
+For [Qt class design](CppQtClassDesign.md), see [Qt class design](CppQtClassDesign.md).
 
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [Qt classes](CppQtClass.md)
-==============================================================
-
- 
-
-[Qt classes](CppQtClass.md) are [classes](CppClass.md) that use the
-[Qt](CppQt.md) [library](CppLibrary.md).
-
- 
-
-I divide [Qt classes](CppQtClass.md) in two categories:
-
--   Official [Qt classes](CppQtClass.md)
--   My own custom [Qt classes](CppQtClass.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Official [Qt classes](CppQtClass.md) (incomplete list)
--------------------------------------------------------
-
- 
+## Official [Qt classes](CppQtClass.md) (incomplete list)
 
 These are the [Qt](CppQt.md) [classes](CppClass.md) I might have had
 something to write about...
-
- 
 
 1.  [QApplication](CppQApplication.md)
 2.  [QBitmap](CppQBitmap.md)
@@ -92,20 +57,7 @@ something to write about...
 46. [QVBoxLayout](CppQVBoxLayout.md)
 47. [QWidget](CppQWidget.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-My own custom [Qt classes](CppQtClass.md)
-------------------------------------------
-
- 
+## [Example](CppExample.md)
 
 -   [QtTicTacToeWidget](CppQtTicTacToeWidget.md)
 
