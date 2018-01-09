@@ -66,7 +66,7 @@ called 'C++0x'.
 -   [initializer lists](CppInitializerList.md)
 -   [lambda expressions](CppLambdaExpression.md)
 -   std::move
--   much more...
+-   much more
 
 
 ## [Advice](CppAdvice.md)

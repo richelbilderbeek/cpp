@@ -6,9 +6,9 @@ install:
   - sudo npm install -g markdown-link-check
 
 script: 
+  # Check dead links
+  - find . -name \*.md -exec markdown-link-check {} \;
   # proselint
   - cd content
   - for filename in `ls *.md`; do proselint $filename; done
   - cd ..
-  # Check dead links
-  - find . -name \*.md -exec markdown-link-check {} \;

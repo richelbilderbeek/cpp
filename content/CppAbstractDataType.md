@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Abstract data type](CppAbstractDataType.md)
-==============================================================
-
- 
+# ([C++](Cpp.md)) [Abstract data type](CppAbstractDataType.md)
 
 'An [abstract data type](CppAbstractDataType.md) is a
 [type](CppDataType.md) whose internal form is hidden behind a set of
