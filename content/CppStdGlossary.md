@@ -1,26 +1,8 @@
+# ([C++](Cpp.md)) [std:: glossary](CppStdGlossary.md)
 
- 
+This [std:: glossary](CppStdGlossary.md) shows the items in the [C++ glossary](CppGlossary.md).
 
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [std:: glossary](CppStdGlossary.md)
-=====================================================
-
- 
-
-This [std:: glossary](CppStdGlossary.md) shows the items in the [C++
-glossary](CppGlossary.md).
-
-The topics with boost:: can be found in the [boost::
-glossary](CppBoostGlossary.md).
-
- 
+The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.md).
 
 1.  [std::\_lrand](Cpp_lrand.md)
 2.  [std::abort](CppAbort.md)
@@ -42,8 +24,8 @@ glossary](CppBoostGlossary.md).
 18. [std::bad\_exception](CppBad_exception.md)
 19. [std::bad\_typeid](CppBad_typeid.md)
 20. [std::binary\_search](CppBinary_search.md)
-21. [std::bind1st](CppBind1st.md)
-22. [std::bind2nd](CppBind2nd.md)
+21. [std::bind1st](CppStdBind1st.md)
+22. [std::bind2nd](CppStdBind2nd.md)
 23. [std::bit\_vector](CppBit_vector.md)
 24. [std::bitset](CppStdBitset.md)
 25. [std::boolalpha](CppStdBoolalpha.md)
@@ -86,7 +68,7 @@ glossary](CppBoostGlossary.md).
 62. [std::fgetwc](CppFgetwc.md)
 63. [std::fgetws](CppFgetws.md)
 64. [std::fill](CppFill.md)
-65. [std::find](CppFind.md)
+65. [std::find](CppStdFind.md)
 66. [std::find\_end](CppFind_end.md)
 67. [std::find\_first\_of](CppFind_first_of.md)
 68. [std::find\_if](CppFind_if.md)
@@ -211,9 +193,9 @@ glossary](CppBoostGlossary.md).
 187. [std::oct](CppOct.md)
 188. [std::out\_of\_range](CppOut_of_range.md)
 189. [std::overflow\_error](CppOverflow_error.md)
-190. [std::pair](CppPair.md)
+190. [std::pair](CppStdPair.md)
 191. [std::partial\_sort](CppPartial_sort.md)
-192. [std::partition](CppPartition.md)
+192. [std::partition](CppStdPartition.md)
 193. [std::perror](CppPerror.md)
 194. [std::plus](CppStdPlus.md)
 195. [std::pop\_heap](CppPop_heap.md)
@@ -246,16 +228,15 @@ glossary](CppBoostGlossary.md).
 222. [std::replace\_if](CppReplace_if.md)
 223. [std::resetiosflags](CppResetiosflags.md)
 224. [std::reverse](CppReverse.md)
-225. [std::reverse\_copy](CppReverse_copy.md)
+225. [std::reverse\_copy](CppStdReverse_copy.md)
 226. [std::rewind](CppRewind.md)
 227. [std::right](CppRight.md)
-228. [std::rope](CppRope.md)
 229. [std::rotate](CppRotate.md)
 230. [std::rotate\_copy](CppRotate_copy.md)
 231. [std::runtime\_error](CppRuntime_error.md)
 232. [std::scanf](CppScanf.md)
 233. [std::scientific](CppScientific.md)
-234. [std::search](CppSearch.md)
+234. [std::search](CppStdSearch.md)
 235. [std::search\_n](CppSearch_n.md)
 236. [std::set](CppStdSet.md)
 237. [std::set\_difference](CppSet_difference.md)
@@ -283,7 +264,7 @@ glossary](CppBoostGlossary.md).
 259. [std::sqrt](CppSqrt.md)
 260. [std::srand](CppSrand.md)
 261. [std::sscanf](CppSscanf.md)
-262. [std::stable\_partition](CppStable_partition.md)
+262. [std::stable\_partition](CppStdStable_partition.md)
 263. [std::stable\_sort](CppStable_sort.md)
 264. [std::stack](CppStack.md)
 265. [std::strcat](CppStrcat.md)

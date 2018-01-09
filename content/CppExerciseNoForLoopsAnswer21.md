@@ -34,7 +34,7 @@ Question \#21: [CopyFirst](CppCopyFirst.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 

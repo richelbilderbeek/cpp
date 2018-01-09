@@ -32,7 +32,7 @@ Question: [CountNonZeroPositives](CppCountNonZeroPositives.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::count\_if](CppCount_if.md)
 -   [std::greater](CppStdGreater.md)
 

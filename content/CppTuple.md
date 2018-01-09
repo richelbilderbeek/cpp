@@ -15,7 +15,7 @@
  
 
 A [tuple](CppTuple.md) is an on-the-fly [data type](CppDataType.md)
-similar to [std::pair](CppPair.md), except for a bigger number of
+similar to [std::pair](CppStdPair.md), except for a bigger number of
 possible elements.
 
  

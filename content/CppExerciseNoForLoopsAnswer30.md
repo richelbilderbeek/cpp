@@ -34,7 +34,7 @@ Question \#30: Get maximum value from [std::map](CppStdMap.md)&lt;**[const](CppC
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 

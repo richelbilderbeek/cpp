@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::partition](CppPartition.md)
+([C++](Cpp.md)) [std::partition](CppStdPartition.md)
 ===================================================
 
  
 
-[std::partition](CppPartition.md) is an [STL](CppStl.md)
+[std::partition](CppStdPartition.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to partition elements in a
 [container](CppContainer.md) by a certain
 [predicate](CppPredicate.md). For example, in the code shown below, a
 [std::vector](CppStdVector.md) is partitioned into primes and non-primes.
 Note that the order of the non-primes has changed. If the ordering must
-remain, use [std::stable\_partition](CppStable_partition.md).
+remain, use [std::stable\_partition](CppStdStable_partition.md).
 
  
 

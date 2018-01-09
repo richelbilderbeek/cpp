@@ -15,7 +15,7 @@
  
 
 [std::binder1st](CppStdBinder1st.md) is deprecated \[1\]. The function
-template [std::bind](CppBind.md) provides a better solution \[1\].
+template [std::bind](CppStdBind.md) provides a better solution \[1\].
 
  
 

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::stable\_partition](CppStable_partition.md)
+([C++](Cpp.md)) [std::stable\_partition](CppStdStable_partition.md)
 ==================================================================
 
  
 
-[std::stable\_partition](CppStable_partition.md) is an
+[std::stable\_partition](CppStdStable_partition.md) is an
 [STL](CppStl.md) [algorithm](CppAlgorithm.md) to partition elements in
 a [container](CppContainer.md) by a certain
 [predicate](CppPredicate.md), preserving the order of the elements. For

@@ -34,7 +34,7 @@ Question \#12: Replace negative by zero
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::less](CppStdLess.md)
 -   [std::replace\_if](CppReplace_if.md)
 

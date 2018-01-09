@@ -53,7 +53,7 @@ Example
 To add a key-value-pair, use std::multimap&lt;T&gt;::insert. To find a
 range of values, use std::multimap&lt;T&gt;::equal\_range. This [member
 function](CppMemberFunction.md) [returns](CppReturn.md) a
-[std::pair](CppPair.md) of [iterators](CppIterator.md).
+[std::pair](CppStdPair.md) of [iterators](CppIterator.md).
 
  
 

@@ -9,30 +9,30 @@
 
  
 
-([C++](Cpp.md)) [std::bind1st](CppBind1st.md)
+([C++](Cpp.md)) [std::bind1st](CppStdBind1st.md)
 ===============================================
 
  
 
-[std::bind1st](CppBind1st.md) is deprecated \[2\]. The function
-template [std::bind](CppBind.md) provides a better solution \[2\].
+[std::bind1st](CppStdBind1st.md) is deprecated \[2\]. The function
+template [std::bind](CppStdBind.md) provides a better solution \[2\].
 
  
 
-[std::bind1st](CppBind1st.md) is a [binder](CppBinder.md) to call a
+[std::bind1st](CppStdBind1st.md) is a [binder](CppBinder.md) to call a
 binary function with the value bound as first argument. If the second
-argument needs to be bound, use [std::bind2nd](CppBind2nd.md) instead.
+argument needs to be bound, use [std::bind2nd](CppStdBind2nd.md) instead.
 
  
 
-The use of [std::bind1st](CppBind1st.md) is clearest in division:
+The use of [std::bind1st](CppStdBind1st.md) is clearest in division:
 
 -   If on all elements, an element called x, you want to perform '1.0 /
-    x', use [std::bind1st](CppBind1st.md) one the 1.0. This is
+    x', use [std::bind1st](CppStdBind1st.md) one the 1.0. This is
     demonstrated in the function [Reciprocal](CppReciprocal.md), which
     is shown below in the example
 -   If on all elements, an element called x, you want to perform 'x /
-    2.0', use [std::bind2nd](CppBind2nd.md) one the 2.0. This is
+    2.0', use [std::bind2nd](CppStdBind2nd.md) one the 2.0. This is
     demonstrated in the function [Halve](CppHalve.md)
 
  

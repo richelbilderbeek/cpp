@@ -34,7 +34,7 @@ Question \#29: GetAllTrue on [std::map](CppStdMap.md)&lt;**[int](CppInt.md)**,**
 
 Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.md). You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 

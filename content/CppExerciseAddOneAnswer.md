@@ -97,9 +97,9 @@ There are two more:
  
 
 1.  Using an [algorithm](CppAlgorithm.md) to [std::plus](CppStdPlus.md)
-    using [std::bind1st](CppBind1st.md)
+    using [std::bind1st](CppStdBind1st.md)
 2.  Using an [algorithm](CppAlgorithm.md) to [std::plus](CppStdPlus.md)
-    using [std::bind2nd](CppBind2nd.md)
+    using [std::bind2nd](CppStdBind2nd.md)
 
  
 

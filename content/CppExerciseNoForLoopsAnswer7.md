@@ -34,7 +34,7 @@ Question \#7: Widget::DoItOften on Widget\*
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::for\_each](CppFor_each.md)
 -   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
 

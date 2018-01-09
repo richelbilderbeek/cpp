@@ -34,7 +34,7 @@ Question \#26: HasFemale on std::vector&lt;Person\*&gt;
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 -   [std::not](CppNot.md)
 
  

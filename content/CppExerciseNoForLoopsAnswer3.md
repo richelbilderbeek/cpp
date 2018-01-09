@@ -35,7 +35,7 @@ Question \#3: [Add](CppAdd.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::back\_inserter](CppBack_inserter.md)
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
 

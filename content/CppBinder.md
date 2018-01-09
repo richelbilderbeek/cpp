@@ -26,18 +26,18 @@ function by binding one argument to a value \[1\].
 
 There are two [STL](CppStl.md) [binders](CppBinder.md):
 
--   [std::bind1st](CppBind1st.md)
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind1st](CppStdBind1st.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 
  
 
 There is one [Boost](CppBoost.md) [binder](CppBinder.md):
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
-Using [boost::bind](CppBind.md) results in easier to read and shorter
+Using [boost::bind](CppStdBind.md) results in easier to read and shorter
 code.
 
  
@@ -50,7 +50,7 @@ code.
 
  
 
-Replacing a [for](CppFor.md) loop by an [algorithm](CppAlgorithm.md) using [std::bind2nd](CppBind2nd.md) and [boost::bind](CppBind.md)
+Replacing a [for](CppFor.md) loop by an [algorithm](CppAlgorithm.md) using [std::bind2nd](CppStdBind2nd.md) and [boost::bind](CppStdBind.md)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
  

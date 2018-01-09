@@ -308,7 +308,7 @@ Great stuff for historicians!
 207. 02-03-2011: Modified [AnsiToDouble](CppAnsiToDouble.md): improved
     page source
 208. 25-02-2011: New page:
-    [std::stable\_partition](CppStable_partition.md)
+    [std::stable\_partition](CppStdStable_partition.md)
 209. 25-02-2011: Modified [Answer of exercise \#9: No for-loops
     \#7](CppExerciseNoForLoopsAnswer7.md): improved page source
 210. 24-02-2011: New page: [fuzzy\_equal\_to](CppFuzzy_equal_to.md)
@@ -422,7 +422,7 @@ Great stuff for historicians!
     SDK](CppAndroidSdkInstall.md)
 277. 24-01-2011: New page: [Installing the Android SDK under
     Ubuntu](CppAndroidSdkInstallUbuntu.md)
-278. 24-01-2011: New page: [std::reverse\_copy](CppReverse_copy.md)
+278. 24-01-2011: New page: [std::reverse\_copy](CppStdReverse_copy.md)
 279. 24-01-2011: New page: [SDK](CppSdk.md)
 280. 24-01-2011: New page: [std::nouppercase](CppNouppercase.md)
 281. 24-01-2011: New page: [std::uppercase](CppUppercase.md)
@@ -710,7 +710,7 @@ Great stuff for historicians!
 473. 30-09-2010: New page: [Compiling STL code under Cygwin under Wine
     under Ubuntu](CppCompileStlUnderCygwinUnderWineUnderUbuntu.md)
 474. 30-09-2010: New page: [std::noboolalpha](CppNoboolalpha.md)
-475. 30-09-2010: New page: [std::partition](CppPartition.md)
+475. 30-09-2010: New page: [std::partition](CppStdPartition.md)
 476. 30-09-2010: New page: [std::slist](CppStdSlist.md)
 477. 30-09-2010: New page: [Why use pictograms and what do they
     mean?](CppPictograms.md)
@@ -907,7 +907,7 @@ Great stuff for historicians!
     [DumbNewickToString](CppDumbNewickToString.md)
 571. 16-09-2010: New page:
     [InspectInvalidNewick](CppInspectInvalidNewick.md)
-572. 16-09-2010: Modified [std::search](CppSearch.md): improved page
+572. 16-09-2010: Modified [std::search](CppStdSearch.md): improved page
     source
 573. 16-09-2010: Modified [class](CppClass.md): improved page source
 574. 15-09-2010: Modified [AskUserForString](CppAskUserForString.md):
@@ -1849,7 +1849,7 @@ Great stuff for historicians!
 1215. 01-05-2010: New page: [operator+=](CppOperatorPlusAssign.md)
 1216. 01-05-2010: New page: [pointer](CppPointer.md)
 1217. 01-05-2010: New page: [Qt module](CppQtModule.md)
-1218. 01-05-2010: Modified [std::pair](CppPair.md): improved page
+1218. 01-05-2010: Modified [std::pair](CppStdPair.md): improved page
     source
 1219. 30-04-2010: New page: [friend](CppFriend.md)
 1220. 30-04-2010: New page: [How to create a simple 2D graphics program
@@ -2019,7 +2019,7 @@ Great stuff for historicians!
 1319. 10-04-2010: Modified [Factorial](CppFactorial.md): added an
     [algorithm](CppAlgorithm.md) way
 1320. 09-04-2010: New page: [std::divides](CppDivides.md)
-1321. 09-04-2010: New page: [boost::bind](CppBind.md)
+1321. 09-04-2010: New page: [boost::bind](CppStdBind.md)
 1322. 09-04-2010: New page: [Library](CppLibrary.md)
 1323. 09-04-2010: Modified [Answer of exercise \#9: No for-loops
     \#12](CppExerciseNoForLoopsAnswer12.md): improved page source
@@ -2065,7 +2065,7 @@ Great stuff for historicians!
     source
 1346. 04-04-2010: Modified [std::rand](CppRand.md): improved page
     source
-1347. 04-04-2010: Modified [std::find](CppFind.md): improved page
+1347. 04-04-2010: Modified [std::find](CppStdFind.md): improved page
     source
 1348. 04-04-2010: Modified [std::copy](CppStdCopy.md): improved page
     source
@@ -2173,7 +2173,7 @@ Great stuff for historicians!
     uBLAS](CppCompileErrorYourCompilerAndOrConfigurationIsUnsupportedByThisVerionsOfUblas.md)
 1403. 11-02-2010: New page: [bzconfig.h: Unknown
     compiler](CppCompileErrorBzconfigHunknownCompiler.md)
-1404. 11-02-2010: Modified [std::find](CppFind.md): test use of
+1404. 11-02-2010: Modified [std::find](CppStdFind.md): test use of
     [Kompozer](http://www.kompozer.net/)
 1405. 11-02-2010: Modified [std::copy](CppStdCopy.md): test use of
     [Kompozer](http://www.kompozer.net/)
@@ -2319,8 +2319,8 @@ Great stuff for historicians!
 1472. 04-02-2010: New page: [Triple](CppTriple.md)
 1473. 04-02-2010: New page: [Reciprocal](CppReciprocal.md)
 1474. 04-02-2010: New page: [Halve](CppHalve.md)
-1475. 04-02-2010: New page: [std::bind1st](CppBind1st.md)
-1476. 04-02-2010: New page: [std::bind2nd](CppBind2nd.md)
+1475. 04-02-2010: New page: [std::bind1st](CppStdBind1st.md)
+1476. 04-02-2010: New page: [std::bind2nd](CppStdBind2nd.md)
 1477. 04-02-2010: New page: [Argument](CppArgument.md)
 1478. 04-02-2010: Modified [Container](CppContainer.md): improved
     internal linking
@@ -2485,7 +2485,7 @@ Great stuff for historicians!
     \#7](CppExerciseNoForLoopsAnswer7.md)
 1577. 29-12-2009: New page: [Adapter](CppAdapter.md)
 1578. 29-12-2009: New page: [Binder](CppBinder.md)
-1579. 29-12-2009: New page: [std::bind2nd](CppBind2nd.md)
+1579. 29-12-2009: New page: [std::bind2nd](CppStdBind2nd.md)
 1580. 29-12-2009: New page: [map](CppMapH.md) ([header
     file](CppHeaderFile.md))
 1581. 29-12-2009: New page: [Public inheritance](CppInheritance.md)
@@ -2539,7 +2539,7 @@ Great stuff for historicians!
 1609. 10-10-2009: New page: [inline](CppInline.md)
 1610. 10-10-2009: New page: [Template
     metaprogram](CppTemplateMetaprogram.md)
-1611. 10-10-2009: Modified [std::find](CppFind.md): added internal
+1611. 10-10-2009: Modified [std::find](CppStdFind.md): added internal
     links
 1612. 10-10-2009: Modified [std::copy](CppStdCopy.md): added internal
     links
@@ -2906,7 +2906,7 @@ Great stuff for historicians!
 1823. 28-02-2009: Modified [std::copy](CppStdCopy.md): added internal
     links
 1824. 28-02-2009: Modified [Append](CppAppend.md): added internal links
-1825. 28-02-2009: New page: [std::pair](CppPair.md)
+1825. 28-02-2009: New page: [std::pair](CppStdPair.md)
 1826. 28-02-2009: Modified [header file](CppHeaderFile.md): added
     internal links
 1827. 28-02-2009: Modified [StrToInt](CppStrToInt.md): added internal

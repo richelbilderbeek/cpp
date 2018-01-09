@@ -9,15 +9,15 @@
 
  
 
-([C++](Cpp.md)) [std::search](CppSearch.md)
+([C++](Cpp.md)) [std::search](CppStdSearch.md)
 =============================================
 
  
 
-[std::search](CppSearch.md) is an [STL](CppStl.md)
+[std::search](CppStdSearch.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) for searching a sequence of elements in
 [containers](CppContainer.md). It is similar to
-[std::find](CppFind.md), except that [std::find](CppFind.md) searches
+[std::find](CppStdFind.md), except that [std::find](CppStdFind.md) searches
 for a single element.
 
  
@@ -37,7 +37,7 @@ Example
 
 Assume you work with a [std::vector](CppStdVector.md) of
 [integers](CppInt.md) in which two sequences are forbidden: zero-zero
-and one-zero. With [std::search](CppSearch.md) these sequences can be
+and one-zero. With [std::search](CppStdSearch.md) these sequences can be
 used to find if our exemplary [std::vector](CppStdVector.md) is valid.
 
  

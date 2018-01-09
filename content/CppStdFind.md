@@ -9,20 +9,20 @@
 
  
 
-([C++](Cpp.md)) [std::find](CppFind.md)
+([C++](Cpp.md)) [std::find](CppStdFind.md)
 =========================================
 
  
 
 [STL](CppStl.md) [algorithm](CppAlgorithm.md) for searching a single
 element in a [container](CppContainer.md). It is similar to
-[std::search](CppSearch.md), except that [std::search](CppSearch.md)
+[std::search](CppStdSearch.md), except that [std::search](CppStdSearch.md)
 searches for a sequence of elements.
 
  
 
 The use of a [functor](CppFunctor.md) extends the functionality of
-[std::find](CppFind.md).
+[std::find](CppStdFind.md).
 
  
 

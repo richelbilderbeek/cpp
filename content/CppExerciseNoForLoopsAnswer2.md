@@ -34,7 +34,7 @@ Question \#2: [Multiply](CppMultiply.md)
 
 Replace the [for](CppFor.md)-loop. You will need
 
--   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::multiplies](CppMultiplies.md)
 -   [std::transform](CppTransform.md)
 

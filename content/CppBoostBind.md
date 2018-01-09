@@ -9,13 +9,13 @@
 
  
 
-([C++](Cpp.md)) [boost::bind](CppBind.md)
+([C++](Cpp.md)) [boost::bind](CppStdBind.md)
 ===========================================
 
  
 
-[boost::bind](CppBind.md) is a generalization of the
-[std::bind1st](CppBind1st.md) and [std::bind2nd](CppBind2nd.md)
+[boost::bind](CppStdBind.md) is a generalization of the
+[std::bind1st](CppStdBind1st.md) and [std::bind2nd](CppStdBind2nd.md)
 [binders](CppBinder.md).
 
  

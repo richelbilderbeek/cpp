@@ -85,9 +85,9 @@ Project type: Console Application
  
 
 The cause is that the member variable question\_scores is of type
-'[std::vector](CppStdVector.md)&lt;[std::pair](CppPair.md)&lt;[std::string](CppStdString.md),**[int](CppInt.md)**&gt;
+'[std::vector](CppStdVector.md)&lt;[std::pair](CppStdPair.md)&lt;[std::string](CppStdString.md),**[int](CppInt.md)**&gt;
 &gt;', instead of '[void](CppVoid.md)
-[std::vector](CppStdVector.md)&lt;[std::pair](CppPair.md)&lt;[std::string](CppStdString.md),**[int](CppInt.md)**&gt;
+[std::vector](CppStdVector.md)&lt;[std::pair](CppStdPair.md)&lt;[std::string](CppStdString.md),**[int](CppInt.md)**&gt;
 &gt;' ([void](CppVoid.md) is used erroneously).
 
  

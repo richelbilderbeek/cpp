@@ -23,7 +23,7 @@ There are multiple ways to perform [Triple](CppTriple.md):
 
 -   ![C++98](PicCpp98.png)![STL](PicStl.png) The general
     [algorithm](CppAlgorithm.md) way using
-    [std::bind2nd](CppBind2nd.md)
+    [std::bind2nd](CppStdBind2nd.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) The general
     [algorithm](CppAlgorithm.md) way using
     [BOOST\_FOREACH](CppBOOST_FOREACH.md)
@@ -51,7 +51,7 @@ There are multiple ways to perform [Triple](CppTriple.md):
 
  
 
-![C++98](PicCpp98.png)![STL](PicStl.png) The general [algorithm](CppAlgorithm.md) way using [std::bind2nd](CppBind2nd.md)
+![C++98](PicCpp98.png)![STL](PicStl.png) The general [algorithm](CppAlgorithm.md) way using [std::bind2nd](CppStdBind2nd.md)
 ---------------------------------------------------------------------------------------------------------------------------
 
  

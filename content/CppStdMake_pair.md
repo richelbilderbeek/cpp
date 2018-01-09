@@ -16,7 +16,7 @@ X
  
 
 [std::make\_pair](CppMake_pair.md) is an [STL](CppStl.md)
-[function](CppFunction.md) to create a [std::pair](CppPair.md).
+[function](CppFunction.md) to create a [std::pair](CppStdPair.md).
 
  
 

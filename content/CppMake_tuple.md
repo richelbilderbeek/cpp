@@ -27,7 +27,7 @@ S
 [make\_tuple](CppMake_tuple.md) is similar to
 [make\_pair](CppMake_pair.md), except that
 [make\_tuple](CppMake_tuple.md) produces a [tuple](CppTuple.md), where
-[make\_pair](CppMake_pair.md) produces a [pair](CppPair.md).
+[make\_pair](CppMake_pair.md) produces a [pair](CppStdPair.md).
 
  
 

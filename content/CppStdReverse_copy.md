@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::reverse\_copy](CppReverse_copy.md)
+([C++](Cpp.md)) [std::reverse\_copy](CppStdReverse_copy.md)
 ==========================================================
 
  
 
-[std::reverse\_copy](CppReverse_copy.md) is an [STL](CppStl.md)
+[std::reverse\_copy](CppStdReverse_copy.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to copy a [container](CppContainer.md) in
 the reverse order.
 

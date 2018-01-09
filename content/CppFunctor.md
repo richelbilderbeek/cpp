@@ -98,8 +98,8 @@ duty by calling its [operator()](CppOperatorFunctionCall.md).
 
  
 
--   [std::bind1st](CppBind1st.md)
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind1st](CppStdBind1st.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::mem\_fun](CppMem_fun.md)
 -   [std::mem\_fun\_ref](CppMem_fun_ref.md)
 -   [std::not1](CppNot1.md)

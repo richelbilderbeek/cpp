@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) [std::pair](CppPair.md)
+([C++](Cpp.md)) [std::pair](CppStdPair.md)
 =========================================
 
  
 
-[std::pair](CppPair.md) is a [container](CppContainer.md) for holding
+[std::pair](CppStdPair.md) is a [container](CppContainer.md) for holding
 two values of any [data type](CppDataType.md). So,
-[std::pair](CppPair.md) can be used instead of a
+[std::pair](CppStdPair.md) can be used instead of a
 [struct](CppStruct.md) with two members.
 
  
@@ -28,7 +28,7 @@ two values of any [data type](CppDataType.md). So,
  
 
 The [function](CppFunction.md) [std::make\_pair](CppMake_pair.md) can
-save typing in creating [std::pair](CppPair.md)s (as it saves you
+save typing in creating [std::pair](CppStdPair.md)s (as it saves you
 redeclaring the [data types](CppDataType.md)).
 
  

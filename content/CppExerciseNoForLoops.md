@@ -42,7 +42,7 @@ This is easier said than done.
 In this exercise you must replace **[for](CppFor.md)**-loops by using a
 combination of all those algorithm things like
 [std::for\_each](CppFor_each.md), [std::transform](CppTransform.md),
-[std::bind1st](CppBind1st.md), [std::bind2nd](CppBind2nd.md),
+[std::bind1st](CppStdBind1st.md), [std::bind2nd](CppStdBind2nd.md),
 [std::multiplies](CppMultiplies.md) and more of the likes. It is up to
 you to find the correct combination.
 
@@ -130,7 +130,7 @@ Question \#0: [Triple](CppTriple.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::for\_each](CppFor_each.md)
 -   [std::multiplies](CppMultiplies.md)
 
@@ -162,7 +162,7 @@ Question \#1: [AddTwo](CppAddTwo.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::back\_inserter](CppBack_inserter.md)
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
 
@@ -193,7 +193,7 @@ Question \#2: [Multiply](CppMultiply.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::multiplies](CppMultiplies.md)
 -   [std::transform](CppTransform.md)
 
@@ -225,7 +225,7 @@ Question \#3: [Add](CppAdd.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::back\_inserter](CppBack_inserter.md)
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
 
@@ -287,7 +287,7 @@ Question \#5: Widget::DoItOften on Widget
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::for\_each](CppFor_each.md)
 -   [std::mem\_fun\_ref](CppMem_fun.md) (or
     [boost::mem\_fn](CppMem_fn.md))
@@ -349,7 +349,7 @@ Question \#7: Widget::DoItOften on Widget\*
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md) (or [boost::bind](CppBind.md))
+-   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::for\_each](CppFor_each.md)
 -   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
 
@@ -472,7 +472,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::replace](CppReplace.md) (or
     [std::replace\_if](CppReplace_if.md) with
-    [std::bind2nd](CppBind2nd.md))
+    [std::bind2nd](CppStdBind2nd.md))
 
  
 
@@ -502,7 +502,7 @@ Question \#12: [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::less](CppStdLess.md)
 -   [std::replace\_if](CppReplace_if.md)
 
@@ -627,7 +627,7 @@ Question \#16: [Reciprocal](CppReciprocal.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind1st](CppBind1st.md)
+-   [std::bind1st](CppStdBind1st.md)
 -   [std::divides](CppDivides.md)
 -   [std::transform](CppTransform.md)
 
@@ -659,7 +659,7 @@ Question \#17: [Halve](CppHalve.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::divides](CppDivides.md)
 -   [std::transform](CppTransform.md)
 
@@ -722,7 +722,7 @@ Question \#19: [ProductNonZeroPositives](CppProductNonZeroPositives.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::greater](CppStdGreater.md)
 -   [std::multiplies](CppMultiplies.md)
 -   A conditional [std::accumulate](CppStdAccumulate.md)
@@ -755,7 +755,7 @@ Question \#20: [CountNonZeroPositives](CppCountNonZeroPositives.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::bind2nd](CppBind2nd.md)
+-   [std::bind2nd](CppStdBind2nd.md)
 -   [std::count\_if](CppCount_if.md)
 -   [std::greater](CppStdGreater.md)
 
@@ -787,7 +787,7 @@ Question \#21: [CopyFirst](CppCopyFirst.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -817,7 +817,7 @@ Question \#22: [CopySecond](CppCopySecond.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -847,7 +847,7 @@ Question \#23: [SumFirst](CppSumFirst.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 -   [std::plus](CppStdPlus.md)
 
  
@@ -878,7 +878,7 @@ Question \#24: [SumSecond](CppSumSecond.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 -   [std::plus](CppStdPlus.md)
 
  
@@ -909,7 +909,7 @@ Question \#25: HasMale on std::vector&lt;Person\*&gt;
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -939,7 +939,7 @@ Question \#26: HasFemale on std::vector&lt;Person\*&gt;
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 -   [std::not](CppNot.md)
 
  
@@ -970,7 +970,7 @@ Question \#27: HasId on std::vector&lt;Person\*&gt;
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -1000,7 +1000,7 @@ Question \#28: GetMaxId on std::vector&lt;Person\*&gt;
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -1030,7 +1030,7 @@ Question \#29: GetAllTrue on [std::map](CppStdMap.md)&lt;**[int](CppInt.md)**,**
 
 Replace the [BOOST\_FOREACH](CppBOOST_FOREACH.md). You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -1060,7 +1060,7 @@ Question \#30: Get maximum value from [std::map](CppStdMap.md)&lt;**[const](CppC
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -1090,7 +1090,7 @@ Question \#31: Find an ID in a [std::vector](CppStdVector.md)&lt;**[const](CppCo
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
@@ -1121,7 +1121,7 @@ Question \#32: Sum all persons' money from a [std::vector](CppStdVector.md)&lt;*
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::accumulate](CppStdAccumulate.md)
--   [boost::bind](CppBind.md)
+-   [boost::bind](CppStdBind.md)
 
  
 
