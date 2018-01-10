@@ -20,7 +20,7 @@ any angle.
 
  
 
-[Rotate](CppRotate.md) is demonstrated in the [tool](Tools.md) [Image
+[Rotate](CppRotate.md) is demonstrated in the [tool](https://github.com/richelbilderbeek/tools) [Image
 Rotater](ToolImageRotater.md).
 
  

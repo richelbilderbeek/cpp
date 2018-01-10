@@ -21,7 +21,7 @@ snippet](CppVclCodeSnippets.md) to darken a
 
  
 
-The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
+The [tool](https://github.com/richelbilderbeek/tools) [BarbaImage](ToolBarbaImage.md) uses
 [Darken](CppDarken.md) as one of its image operations.
 
  

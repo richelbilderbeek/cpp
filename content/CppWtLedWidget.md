@@ -24,7 +24,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[WtLedWidget](CppWtLedWidget.md) is used in the [tool](Tools.md)
+[WtLedWidget](CppWtLedWidget.md) is used in the [tool](https://github.com/richelbilderbeek/tools)
 [TestLed](ToolTestLed.md).
 
 Technical facts

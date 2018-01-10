@@ -142,7 +142,7 @@ are successful, some are unexplored or abandoned.
 
 Instead of [cross compiling](CppCrossCompile.md), code can also be
 [ported](CppPort.md) from [Linux](CppLinux.md) to
-[Windows](CppWindows.md) using the [tool](Tools.md)
+[Windows](CppWindows.md) using the [tool](https://github.com/richelbilderbeek/tools)
 [Cygwin](CppCygwin.md): [Cygwin](CppCygwin.md) offers a
 [UNIX](CppUnix.md)-like environment, where compiling leads to
 [Windows](CppWindows.md) executables.

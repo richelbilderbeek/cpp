@@ -1,14 +1,3 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ([C++](Cpp.md)) [C++ Builder glossary](CppBuilderGlossary.md)
 ===============================================================
 
@@ -140,13 +129,12 @@ glossary](CppGlossary.md).
 92. [StringGridToVector, converts a TStringGrid to 2D
     std::vector](CppStringGridToVector.md)
 93. [SurfacePlot for TImage](CppSurfacePlotterTImage.md)
-94. [SurfacePlotter](ToolSurfacePlotter.md)
 95. [SurfacePlotterTImage, surfacePlot for
     TImage](CppSurfacePlotterTImage.md)
 96. [Threshold Filter](CppThresholdFilter.md)
 97. [ImageToStringList, convert TImage to
     TStringList](CppImageToStringList.md) (ASCII art)
-98. [Tools](Tools.md)
+98. [Tools](https://github.com/richelbilderbeek/tools)
 99. [Using help files](CppBuilderHelp.md)
 100. [VectorToImage, converts a 2D std::vector to
     TImage](CppVectorToImage.md)

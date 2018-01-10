@@ -30,7 +30,6 @@ Use the erase-remove idiom the really remove a value from a
  * [std::vector example 2: erase-remove idiom](CppStdVectorExample2.md)
  * [std::vector example 3: C++11 emplace member function](CppStdVectorExample3.md)
  * [std::vector example 4: remove an element with preserving the order](CppStdVectorExample4.md)
- * [std::vector example 5: returning a member std::vector that is not a copy](CppStdVectorExample5.md)
 
 ## [std::vector](CppStdVector.md) [code snippets](CppCodeSnippets.md)
 

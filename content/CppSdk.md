@@ -16,7 +16,7 @@
 
 An [SDK](CppSdk.md) (an abbreviation of 'Software Development Kit',
 also called 'devkit') is a collection of [libraries](CppLibrary.md) and
-[tools](Tools.md) (for example, an [emulator](CppEmulator.md)) to
+[tools](https://github.com/richelbilderbeek/tools) (for example, an [emulator](CppEmulator.md)) to
 develop for certain [operating system, environment or
 platform](CppOs.md).
 

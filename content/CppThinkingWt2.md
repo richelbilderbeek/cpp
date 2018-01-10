@@ -279,7 +279,7 @@ steps-in-between to check if the program still works.
 
  
 
-The [tool](Tools.md) [TestTicTacToe](ToolTestTicTacToe.md) contains
+The [tool](https://github.com/richelbilderbeek/tools) [TestTicTacToe](ToolTestTicTacToe.md) contains
 the polished and slightly extended version of the code in this
 [article](CppArticle.md).
 

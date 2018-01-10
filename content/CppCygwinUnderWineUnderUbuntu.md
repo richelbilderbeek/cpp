@@ -1,5 +1,5 @@
 
-[Go back to Richel Bilderbeek's tools](Tools.md).
+[Go back to Richel Bilderbeek's tools](https://github.com/richelbilderbeek/tools).
 
  
 
@@ -11,7 +11,7 @@
 
  
 
-([Tool](Tools.md)) [Running Cygwin under Wine under Ubuntu](CppCygwinUnderWineUnderUbuntu.md)
+([Tool](https://github.com/richelbilderbeek/tools)) [Running Cygwin under Wine under Ubuntu](CppCygwinUnderWineUnderUbuntu.md)
 ===============================================================================================
 
  
@@ -86,7 +86,7 @@ External links
 
  
 
-[Go back to Richel Bilderbeek's tools](Tools.md).
+[Go back to Richel Bilderbeek's tools](https://github.com/richelbilderbeek/tools).
 
  
 

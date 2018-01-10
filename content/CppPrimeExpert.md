@@ -34,7 +34,7 @@ consumption: to determine whether a number is prime quicker,
  
 
 [PrimeExpert](CppPrimeExpert.md) can be tested using the
-[tool](Tools.md) [TestPrimeExpert](ToolTestPrimeExpert.md).
+[tool](https://github.com/richelbilderbeek/tools) [TestPrimeExpert](ToolTestPrimeExpert.md).
 
  
 

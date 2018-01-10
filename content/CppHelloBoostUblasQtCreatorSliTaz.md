@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostUblasQtCreatorSliTaz](CppHelloBoostUblasQtCreatorSliTaz.md)
-========================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostUblasQtCreatorSliTaz](CppHelloBoostUblasQtCreatorSliTaz.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![SliTaz](PicSliTaz.png)

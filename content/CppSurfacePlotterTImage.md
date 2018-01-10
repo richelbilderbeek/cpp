@@ -19,7 +19,7 @@ Simple class to make a surface plot of a 2D
 
  
 
-The [tool](Tools.md) [SurfacePlotter](ToolSurfacePlotter.md)
+The [tool](https://github.com/richelbilderbeek/tools) [SurfacePlotter](ToolSurfacePlotter.md)
 demonstrates the use of this class.
 
  

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [MakeScreenschot](CppMakeScreenschot.md)
+([C++](Cpp.md)) [MakeScreenschot](CppMakeScreenshot.md)
 ==========================================================
 
  
 
-[MakeScreenschot](CppMakeScreenschot.md) is a [Windows](CppWindows.md)
+[MakeScreenschot](CppMakeScreenshot.md) is a [Windows](CppWindows.md)
 and [VCL](CppVcl.md) [graphics](CppVclGraphics.md) [code
 snippet](CppVclCodeSnippets.md) to make a screenshot and store it in a
 Graphics::TBitmap.

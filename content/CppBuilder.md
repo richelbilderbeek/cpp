@@ -20,5 +20,4 @@ Studio', 'Turbo C++ Explorer' or RAD Studio .
 ## External links
 
  * [CodeGear's page about C++ Builder](http://www.codegear.com/products/cppbuilder)
- * [CodePedia's page about C++ Builder](http://www.codepedia.com/1/CppBuilder)
  * [Wikipedia's page about C++ Builder](http://en.wikipedia.org/wiki/C%2B%2B_Builder)

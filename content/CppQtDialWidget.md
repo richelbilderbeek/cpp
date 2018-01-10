@@ -24,7 +24,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[QtDialWidget](CppQtDialWidget.md) is used in the [tool](Tools.md)
+[QtDialWidget](CppQtDialWidget.md) is used in the [tool](https://github.com/richelbilderbeek/tools)
 [TestDial](ToolTestDial.md).
 
 Technical facts

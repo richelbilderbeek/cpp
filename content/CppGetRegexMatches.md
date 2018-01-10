@@ -27,7 +27,7 @@ that satisfy a regular expression.
  
 
 [GetRegexMatches](CppGetRegexMatches.md) is demonstrated in the
-[tool](Tools.md) [RegexTester](ToolRegexTester.md).
+[tool](https://github.com/richelbilderbeek/tools) [RegexTester](ToolRegexTester.md).
 
  
 

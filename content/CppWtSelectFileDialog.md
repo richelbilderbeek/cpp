@@ -28,7 +28,7 @@ convenient.
  
 
 [TestSelectFileDialog](ToolTestSelectFileDialog.md) is a
-[tool](Tools.md) to test the
+[tool](https://github.com/richelbilderbeek/tools) to test the
 [WtSelectFileDialog](CppWtSelectFileDialog.md) [class](CppClass.md).
 
 Technical facts

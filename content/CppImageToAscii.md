@@ -20,7 +20,7 @@ convert a [VCL](CppVcl.md) [TImage](CppTImage.md) to a
 
  
 
-The [tool](Tools.md) [AsciiArter](ToolAsciiArter.md) demonstrates
+The [tool](https://github.com/richelbilderbeek/tools) [AsciiArter](ToolAsciiArter.md) demonstrates
 [ImageToAscii](CppImageToAscii.md).
 
  

@@ -4,10 +4,6 @@
 graphics](CppVclGraphics.md) [code snippet](CppVclCodeSnippets.md) to
 add colored noise to a [Extctrls::TImage](CppTImage.md).
 
-The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
-[AddColoredNoise](CppAddColoredNoise.md) as one of its image
-operations.
-
 ![AddColoredNoise example (png)](CppAddColoredNoise.png)
 
 ```c++

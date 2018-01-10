@@ -24,7 +24,7 @@ simulate my mystery machine.
 
  
 
-[MysteryMachine](CppMysteryMachine.md) is used in the [tool](Tools.md)
+[MysteryMachine](CppMysteryMachine.md) is used in the [tool](https://github.com/richelbilderbeek/tools)
 [SimMysteryMachine](ToolSimMysteryMachine.md).
 
 Technical facts

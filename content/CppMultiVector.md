@@ -26,7 +26,7 @@ dimensionality.
  
 
 [MultiVector](CppMultiVector.md) is demonstrated/tested with the
-[tool](Tools.md) [TestMultiVector](ToolTestMultiVector.md).
+[tool](https://github.com/richelbilderbeek/tools) [TestMultiVector](ToolTestMultiVector.md).
 
 Technical facts
 ---------------

@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [ASCII art](CppAsciiArt.md)
-=============================================
-
- 
+# ([C++](Cpp.md)) [ASCII art](CppAsciiArt.md)
 
 [ASCII art](CppAsciiArt.md) can be used to display something
 graphically by using text characters only.
@@ -49,18 +35,3 @@ graphically by using text characters only.
 -   [PlotSurface, plot a surface using ASCII art](CppPlotSurface.md)
 -   [TestAsciiArter, tool to generate ASCII art from
     images](ToolTestAsciiArter.md)
--   [Tool to generate ASCII art from images,
-    TestAsciiArter](ToolTestAsciiArter.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

@@ -29,7 +29,7 @@ bookkeeping necessary.
 
  
 
-The code shown is simplified from the [tool](Tools.md)
+The code shown is simplified from the [tool](https://github.com/richelbilderbeek/tools)
 [TestBroadcastServer](ToolTestBroadcastServer.md) (version 1.0).
 
  

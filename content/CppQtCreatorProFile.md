@@ -25,7 +25,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [QtCreatorProFile](CppQtCreatorProFile.md) is tested by the
-[tool](Tools.md) [TestQtCreatorProFile](ToolTestQtCreatorProFile.md).
+[tool](https://github.com/richelbilderbeek/tools) [TestQtCreatorProFile](ToolTestQtCreatorProFile.md).
 
 Technical facts
 ---------------

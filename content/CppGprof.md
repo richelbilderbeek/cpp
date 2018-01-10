@@ -1,5 +1,5 @@
 
-[Go back to Richel Bilderbeek's tools page](Tools.md).
+[Go back to Richel Bilderbeek's tools page](https://github.com/richelbilderbeek/tools).
 
  
 
@@ -96,7 +96,7 @@ External links
 
  
 
-[Go back to Richel Bilderbeek's tools page](Tools.md).
+[Go back to Richel Bilderbeek's tools page](https://github.com/richelbilderbeek/tools).
 
  
 

@@ -1,29 +1,11 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostUblasQtCreatorLubuntu](CppHelloBoostUblasQtCreatorLubuntu.md)
-==========================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostUblasQtCreatorLubuntu](CppHelloBoostUblasQtCreatorLubuntu.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
- 
-
 [Hello Boost.uBLAS using Qt Creator under
 Lubuntu](CppHelloBoostUblasQtCreatorLubuntu.md) is a [Hello
 Boost.uBLAS](CppHelloBoostUblas.md) program.
-
- 
 
 -   [Download the Qt Creator project
     'CppHelloBoostUblasQtCreatorLubuntu' (zip)](CppHelloBoostUblasQtCreatorLubuntu.zip)

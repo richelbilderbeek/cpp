@@ -24,7 +24,7 @@ C++ is not just object-oriented [1], nor just for generic programming
  * [C++ my questions](CppMyQuestions.md): my own C++ questions that have remained unanswered. Perhaps you know the solution?
  * [C++ quotes](CppQuotes.md): my favorite C++ quotes
  * [C++ recent changes](CppRecentChanges.md): view the recent changes
- * [C++ tools](Tools.md): use them, love them and download the source code of my tools
+ * [C++ tools](https://github.com/richelbilderbeek/tools): use them, love them and download the source code of my tools
 
 ## [Advice](CppAdvice.md)
 

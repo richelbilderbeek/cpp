@@ -14,7 +14,7 @@ For the [NDS FAQ](CppNdsFaq.md), go to the [NDS FAQ](CppNdsFaq.md).
 
 ## Tools
 
- * [TestNdsmake](ToolTestNdsmake.md): [tool](Tools.md) to test [ndsmake](ToolNdsmake.md)
+ * [TestNdsmake](ToolTestNdsmake.md): [tool](https://github.com/richelbilderbeek/tools) to test [ndsmake](ToolNdsmake.md)
 
 ## External links
 

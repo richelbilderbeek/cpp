@@ -29,7 +29,7 @@ the program).
 
  
 
-The [tool](Tools.md)
+The [tool](https://github.com/richelbilderbeek/tools)
 [TestGnuplotInterface](ToolTestGnuplotInterface.md) tests the
 [GnuplotInterface](CppGnuplotInterface.md) [class](CppClass.md).
 

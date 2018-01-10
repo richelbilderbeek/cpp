@@ -21,7 +21,7 @@ a convolution) on an image. This image is a 2D
 
  
 
-The [tool](Tools.md) [FilterOperationer](ToolFilterOperationer.md)
+The [tool](https://github.com/richelbilderbeek/tools) [FilterOperationer](ToolFilterOperationer.md)
 demonstrates the use of [DoFilterOperation](CppDoFilterOperation.md).
 
  

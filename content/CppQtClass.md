@@ -59,37 +59,9 @@ something to write about...
 
 ## [Example](CppExample.md)
 
--   [QtTicTacToeWidget](CppQtTicTacToeWidget.md)
+ * [QtTicTacToeWidget](CppQtTicTacToeWidget.md)
 
- 
+## External links
 
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
-
--   [Qt homepage](http://qt.nokia.com/products)
--   [Wikipedia page about
-    Qt](http://en.wikipedia.org/wiki/Qt_%28framework%29)
--   [CodePedia page about Qt](http://codepedia.com/CppQt)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [Qt homepage](http://qt.nokia.com/products)
+ * [Wikipedia page about Qt](http://en.wikipedia.org/wiki/Qt_%28framework%29)

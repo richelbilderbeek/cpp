@@ -1,66 +1,17 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Regex](CppBoostRegex.md)
-========================================================================
-
- 
+# ([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Regex](CppBoostRegex.md)
 
 [Boost.Regex](CppBoostRegex.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) for [regular expressions](CppRegex.md).
 
- 
+## Example programs and [code snippets](CppCodeSnippets.md)
 
- 
+-   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex example 1: basics](CppBoostRegexExample1.md)
+-   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex example 2: replace](CppBoostRegexExample2.md)
+-   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex example 3: basics](CppBoostRegexExample3.md)
+-   ![Lubuntu](PicLubuntu.png) [GetCppFilesInFolder](CppGetCppFilesInFolder.md): uses regex on filename
+-   ![Lubuntu](PicLubuntu.png) [GetRegexMatches](CppGetRegexMatches.md): obtain all regex matches from a std::string
 
- 
-
- 
-
- 
-
-Example programs and [code snippets](CppCodeSnippets.md)
----------------------------------------------------------
-
- 
-
--   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex
-    example 1: basics](CppBoostRegexExample1.md)
--   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex
-    example 2: replace](CppBoostRegexExample2.md)
--   ![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png) [Boost.Regex
-    example 3: basics](CppBoostRegexExample3.md)
--   ![Lubuntu](PicLubuntu.png) [RegexTester](ToolRegexTester.md): tool
-    to test regular expressions
--   ![Lubuntu](PicLubuntu.png)
-    [GetCppFilesInFolder](CppGetCppFilesInFolder.md): uses regex on
-    filename
--   ![Lubuntu](PicLubuntu.png)
-    [GetRegexMatches](CppGetRegexMatches.md): obtain all regex matches
-    from a std::string
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Example [boost::regex](CppBoostRegex.md)es
--------------------------------------------
-
- 
+## Example [boost::regex](CppBoostRegex.md)es
 
 +--------------------------------------+--------------------------------------+
 | **Regex**                            | **Purpose**                          |
@@ -118,8 +69,7 @@ External links
 
  
 
--   [Boost.Regex
-    homepage](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/index.html)
+-   [Boost.Regex homepage](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/index.html)
 
  
 

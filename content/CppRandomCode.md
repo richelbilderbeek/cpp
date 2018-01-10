@@ -24,7 +24,7 @@ random [C++](Cpp.md) code.
 
  
 
-[RandomCode](CppRandomCode.md) is used by the [tool](Tools.md)
+[RandomCode](CppRandomCode.md) is used by the [tool](https://github.com/richelbilderbeek/tools)
 [RandomCode](ToolRandomCode.md).
 
 Technical facts

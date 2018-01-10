@@ -18,7 +18,7 @@
 
  
 
-[Tools](Tools.md) for detecting memory management and threading bugs
+[Tools](https://github.com/richelbilderbeek/tools) for detecting memory management and threading bugs
 are, among others, [valgrind](CppValgrind.md) ([Linux](CppLinux.md))
 and [DrMemory](CppDrMemory.md) ([Windows](CppWindows.md)).
 
@@ -60,12 +60,12 @@ The process of improving the runtime speed is called
 
  
 
-[Debugging](CppDebug.md) [tools](Tools.md)
+[Debugging](CppDebug.md) [tools](https://github.com/richelbilderbeek/tools)
 --------------------------------------------
 
  
 
-For [profiling](CppProfiler.md) [tools](Tools.md),see
+For [profiling](CppProfiler.md) [tools](https://github.com/richelbilderbeek/tools),see
 [profiling](CppProfiler.md).
 
  

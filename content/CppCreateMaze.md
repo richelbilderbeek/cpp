@@ -1,24 +1,7 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [CreateMaze](CppCreateMaze.md)
-================================================
-
- 
+# ([C++](Cpp.md)) [CreateMaze](CppCreateMaze.md)
 
 [Maze](CppMaze.md) [code snippet](CppCodeSnippets.md) to create a
-square maze. The [tool](Tools.md) [Maze Creator](ToolMazeCreator.md)
-demonstrates [CreateMaze](CppCreateMaze.md).
-
- 
+square maze. 
 
 [CreateMaze](CppCreateMaze.md) is an improved version of
 [CreateMazeSlowly](CppCreateMazeSlowly.md).

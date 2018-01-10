@@ -20,12 +20,6 @@ snippet](CppVclCodeSnippets.md) to bleach a
 [Extctrls::TImage](CppTImage.md) use [Darken](CppDarken.md).
 
  
-
-The [tool](Tools.md) [BarbaImage](ToolBarbaImage.md) uses
-[Bleach](CppBleach.md) as one of its image operations.
-
- 
-
 -   [View an example of a composition image demonstrating
     Bleach](CppBleach.png)
 

@@ -33,7 +33,7 @@ to store elements in a double-ended queue.
 
  
 
--   [std::deque example 1: basics](CppDequeExample1.md)
+-   [std::deque example 1: basics](CppStdDequeExample1.md)
 
  
 

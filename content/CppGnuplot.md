@@ -14,7 +14,7 @@
 
  
 
-[gnuplot](CppGnuplot.md) (no capital 'g') is a [tool](Tools.md) to
+[gnuplot](CppGnuplot.md) (no capital 'g') is a [tool](https://github.com/richelbilderbeek/tools) to
 plot graphs.
 
 -   ![STL](PicStl.png) [gnuplot example 1](CppGnuplotExample1.md):

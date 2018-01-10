@@ -2594,7 +2594,7 @@ Great stuff for historicians!
 1644. 26-08-2009: New page: [SaveContainer](CppSaveContainer.md)
 1645. 26-08-2009: New page: [Leary Circumplex](ToolLearyCircumplex.md)
 1646. 26-08-2009: New page: [LoopReader](CppLoopReader.md)
-1647. 26-08-2009: Modified [Tools](Tools.md): added internal links
+1647. 26-08-2009: Modified [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1648. 26-08-2009: Modified [std::string](CppStdString.md): added internal
     links
 1649. 26-08-2009: Modified [std::vector](CppStdVector.md): added internal
@@ -2631,7 +2631,7 @@ Great stuff for historicians!
     [FilterOperationer](ToolFilterOperationer.md): added internal links
 1668. 22-08-2009: Modified [GrayCoder](ToolGrayCoder.md): added
     internal links
-1669. 22-08-2009: Modified [Tools](Tools.md): added internal links
+1669. 22-08-2009: Modified [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1670. 20-08-2009: Modified [Knokfighter 1](GameKnokfighter1.md): added
     internal links
 1671. 20-08-2009: Modified [SimStagecraft](ToolSimStagecraft.md):added
@@ -2845,7 +2845,7 @@ Great stuff for historicians!
 1783. 02-05-2009: New page: [IntToBitString](CppIntToBitString.md)
 1784. 02-05-2009: Modified: [GetGrayCodes](CppGetGrayCodes.md): added
     internal links
-1785. 02-05-2009: Modified: [Tools](Tools.md): added internal links
+1785. 02-05-2009: Modified: [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1786. 02-05-2009: Modified: [Convert](CppConvert.md): added internal
     links
 1787. 02-05-2009: Modified: [Bit operation](CppBitOperation.md): added
@@ -2921,7 +2921,7 @@ Great stuff for historicians!
     internal links
 1832. 27-02-2009: Modified [AsciiArter](ToolAsciiArter.md): &gt;added
     internal links
-1833. 25-02-2009: Modified [Tools](Tools.md): added internal links
+1833. 25-02-2009: Modified [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1834. 25-02-2009: New page: [Unresolved
     external 'std::\_String\_base::\_Xran() const' referenced from
     C:\\...\\CBUILDER6\\LIB\\LIBBOOST\_REGEX-BCB-1\_38.LIB|cpp\_regex\_traits](CppLinkErrorUnresolvedExternalStd_String_base_Xran.md)
@@ -3004,7 +3004,7 @@ Great stuff for historicians!
 1879. 25-07-2008: Modified [Exercise \#3: Don't give away your
     internals](CppExerciseDontGiveAwayYourInternals.md): added internal
     links
-1880. 25-07-2008: Modified [Tools](Tools.md): added internal links
+1880. 25-07-2008: Modified [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1881. 24-07-2008: New page: [Exercise \#7: add
     one](CppExerciseAddOne.md)
 1882. 24-07-2008: New page: [&gt;Answer of exercise \#7: add
@@ -3163,7 +3163,7 @@ Great stuff for historicians!
     links
 1972. 12-07-2008: Modified [Checks](CppCheck.md): added internal links
 1973. 12-07-2008: Modified [Math](CppMath.md): added internal links
-1974. 12-07-2008: Modified [Tools](Tools.md): added internal links
+1974. 12-07-2008: Modified [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1975. 12-07-2008: Modified
     [SearchAndDestroyChess](GameSearchAndDestroyChess.md): added
     internal links
@@ -3190,7 +3190,7 @@ Great stuff for historicians!
 1985. 11-07-2008: New page: [ConvertToGrey](CppConvertToGrey.md)
 1986. 11-07-2008: Modified [Graphics](CppGraphics.md): added internal
     links
-1987. 11-07-2008: Modified [Tools](Tools.md): added internal links
+1987. 11-07-2008: Modified [Tools](https://github.com/richelbilderbeek/tools): added internal links
 1988. 11-07-2008: Modified [Math](CppMath.md): added internal links
 1989. 07-07-2008: New page: [Duff's device](CppDuffsDevice.md)
 1990. 07-07-2008: Modified [Hello World](CppHelloWorld.md): added links
@@ -3229,7 +3229,7 @@ Great stuff for historicians!
     renamed page, added internal links
 2010. 04-07-2008: Modified [Compile error](CppCompileError.md): added
     internal links
-2011. 04-07-2008: Modified [Tools](Tools.md): fixed internal links
+2011. 04-07-2008: Modified [Tools](https://github.com/richelbilderbeek/tools): fixed internal links
 2012. 03-07-2008: New page: [Multithreaded RTL must be
     selected](CppCompileErrorMultithreadedRtlMustBeSelected.md)
 2013. 03-07-2008: New page:
