@@ -1,54 +1,14 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ['Container::value\_type' is not a type](CppCompileErrorContainerValue_typeIsNotAtype.md)
-===========================================================================================================
-
- 
+# ([C++](Cpp.md)) ['Container::value\_type' is not a type](CppCompileErrorContainerValue_typeIsNotAtype.md)
 
 [Compile error](CppCompileError.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Full error message
-------------------
-
- 
+## Full error message
 
   ---------------------------------------------------------------------------------------------------------------------------------------------
   ` /MyFolder/main.cpp:4: error: 'Container::value_type' is not a type /MyFolder/main.cpp:4: error: expected initializer before 'MinElement'`
   ---------------------------------------------------------------------------------------------------------------------------------------------
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Cause
------
-
- 
+## Cause
 
 [IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 1.3.1
 
@@ -81,33 +41,7 @@ The following [project file](CppQtProjectFile.md) was used:
   ` #------------------------------------------------- # # Project created by QtCreator 2010-05-02T08:31:54 # #------------------------------------------------- QT       -= gui TARGET = MyProjectName peglib   += console peglib   -= app_bundle INCLUDEPATH += ../../../boost_1_42_0 TEMPLATE = app SOURCES += main.cpp`
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
+## Solution
 
- 
-
- 
-
- 
-
- 
-
-Solution
---------
-
- 
-
-Unknown. Feel encouraged to [contact me](Contact.md) if you know the
+Unknown. Feel encouraged to [contact me](http://www.richelbilderbeek.nl/Contact.htm) if you know the
 solution.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

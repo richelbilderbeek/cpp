@@ -1,57 +1,11 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [RInside](CppRinside.md)
-==========================================
-
- 
+# ([C++](Cpp.md)) [RInside](CppRinside.md)
 
 [RInside](CppRinside.md) is a [library](CppLibrary.md) to use the R
 programming language within C++.
 
- 
+## [Examples](CppExample.md)
 
- 
-
- 
-
- 
-
- 
-
-Examples
---------
-
- 
-
--   [RInside example 1: RInside and Qt, Gaussian kernel example from
-    Dirk Eddelbuettel](CppRinsideExample1.md)
-    ([screenshot](CppRinsideExample1.png))
--   [RInside example 2: Hello world example from Dirk
-    Eddelbuettel](CppRinsideExample2.md)
-    ([screenshot](CppRinsideExample2.png))
--   [RInside example 3: Display an R plot on a Qt Designer
-    Form](CppRinsideExample3.md) ([screenshot](CppRinsideExample3.png))
--   [RInside example 4: Display and modify an R plot on a Qt Designer
-    Form](CppRinsideExample4.md) ([screenshot](CppRinsideExample4.png))
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [RInside example 1: RInside and Qt, Gaussian kernel example from Dirk Eddelbuettel](https://github.com/richelbilderbeek/RinsideExample1)
+ * [RInside example 2: Hello world example from Dirk Eddelbuettel](https://github.com/richelbilderbeek/RinsideExample2)
+ * [RInside example 3: Display an R plot on a Qt Designer Form](https://github.com/richelbilderbeek/RinsideExample3)
+ * [RInside example 4: Display and modify an R plot on a Qt Designer Form](https://github.com/richelbilderbeek/RinsideExample4)

@@ -1562,7 +1562,7 @@ Great stuff for historicians!
 1045. 26-05-2010: Modified [CanLexicalCast](CppCanLexicalCast.md):
     improved page source
 1046. 25-05-2010: New page: [goto](CppGoto.md)
-1047. 24-05-2010: New page: [std::tan](CppTan.md)
+1047. 24-05-2010: New page: [std::tan](CppStdTan.md)
 1048. 24-05-2010: New page: [std::inner\_product](CppInner_product.md)
 1049. 24-05-2010: New page: [GetIncVector](CppGetIncVector.md)
 1050. 24-05-2010: New page: [How to resize a dialog in Qt

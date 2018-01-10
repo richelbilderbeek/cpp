@@ -294,7 +294,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 289. [std::swprintf](CppSwprintf.md)
 290. [std::swscanf](CppSwscanf.md)
 291. [std::system](CppSystem.md)
-292. [std::tan](CppTan.md)
+292. [std::tan](CppStdTan.md)
 293. [std::tanh](CppTanh.md)
 294. [std::time](CppTime.md)
 295. [std::tmpfile](CppTmpfile.md)

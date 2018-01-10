@@ -1,36 +1,9 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Answer of exercise \#1: a foolproof function](CppExerciseFoolproofFunctionAnswer.md)
-=======================================================================================================
-
- 
+# ([C++](Cpp.md)) [Answer of exercise \#1: a foolproof function](CppExerciseFoolproofFunctionAnswer.md)
 
 This is the answer of [exercise \#1: a foolproof
 function](CppExerciseFoolproofFunction.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-1) prevent that Thing is modified
----------------------------------
-
- 
+## 1) prevent that Thing is modified
 
 We do not want to modify a Thing. The [compiler](CppCompiler.md),
 however, does not know this. The [compiler](CppCompiler.md) thinks we
@@ -38,40 +11,19 @@ do want to modify a Thing, because the [pointer](CppPointer.md) to
 Thing is not [const](CppConst.md). This makes it possible to write to a
 Thing, as shown in the code below:
 
- 
-
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ` struct Thing { int mX; };  //Thing must be passed by normal (that is, non-smart) pointer void ReadThing(Thing * thing) {   thing->mX = 0; //Write to Thing! Must be noticed by the compiler //Read Thing }`
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
-
 To solve this problem, make Thing [const](CppConst.md):
-
- 
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ` struct Thing { int mX; };  //Thing must be passed by normal (that is, non-smart) pointer void ReadThing(const Thing * thing) {   //thing->mX = 0; //Cannot modify a const object   //Read Thing }`
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
-
 Use [const](CppConst.md) whenever possible \[1-4\].
 
- 
-
- 
-
- 
-
- 
-
- 
-
-2) prevent that Thing cannot be read
-------------------------------------
-
- 
+## 2) prevent that Thing cannot be read
 
 Before being read, [pointers](CppPointer.md) must always point to a
 valid object. Nothing prevents us from making the
@@ -204,7 +156,7 @@ The way to solve this problem is to use the [friend](CppFriend.md)
 'What, use [friend](CppFriend.md)?', I hear you mutter, 'You should
 never use [friend](CppFriend.md)!', as well as '[friend](CppFriend.md)
 reduces [encapsulation](CppEncapsulation.md)!'. If you just muttered
-these words, feel free to [contact me](Contact.md) with a
+these words, feel free to [contact me](http://www.richelbilderbeek.nl/Contact.htm) with a
 [reference](CppReferences.md) to the [book](CppBooks.md) in which you
 read this. I could not find it anywhere in my literature collection.
 
@@ -352,54 +304,14 @@ Again, use [assert](CppAssert.md) to document internal assumptions
 
  
 
-[References](CppReferences.md)
--------------------------------
+## [References](CppReferences.md)
 
- 
-
-1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
-    Language (3rd edition). ISBN: 0-201-88954-4 7.9.3: 'Use const
-    extensively and consistently'
-2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd
-    edition).ISBN: 0-321-33487-6. Item 3: 'Use const whenever possible'
-3.  [Jarrod Hollingworth](CppJarrodHollingworth.md), [Bob
-    Swart](CppBobSwart.md), [Mark Cashman](CppMarkCashman.md), [Paul
-    Gustavson](CppPaulGustavson.md). Sams C++ Builder 6
-    Developer's Guide. ISBN: 0-672-32480-6. Chapter 3: 'Understand and
-    use const in your code'
-4.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in
-    24 hours. ISBN: 0-672-32224-2. Hour 8, chapter 'Const member
-    functions': 'Use const whenever possible.'
-5.  [Herb Sutter](CppHerbSutter.md), [Andrei
-    Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101
-    rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter
-    68: 'Assert liberally to document internal assumptions
-    and invariants'.
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
-    Language (3rd edition). 1997. ISBN: 0-201-88954-4. Advice 24.5.18:
-    'Explicitly express preconditions,postconditions, and other
-    assertions as assertions'.
-7.  Steve McConnell. Code Complete (2nd edition). 2004.
-    ISBN: -735619670. Chapter 8.2 'Assertions', paragraph 'Guidelines
-    for using asserts': 'Use assertions to document and verify
-    preconditions and postconditions'.
-8.  Steve McConnell. Code Complete (2nd edition). 2004.
-    ISBN: -735619670. Chapter 8.2 'Assertions', paragraph 'Guidelines
-    for using asserts': 'Use assertions for conditions that should
-    never occur'.
-9.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in
-    24 hours. ISBN: 0-672-32224-2. Hour 24, chapter 'assert()': 'Use
-    assert freely'.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). ISBN: 0-201-88954-4 7.9.3: 'Use const extensively and consistently'
+2.  [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).ISBN: 0-321-33487-6. Item 3: 'Use const whenever possible'
+3.  [Jarrod Hollingworth](CppJarrodHollingworth.md), [Bob Swart](CppBobSwart.md), [Mark Cashman](CppMarkCashman.md), [Paul Gustavson](CppPaulGustavson.md). Sams C++ Builder 6 Developer's Guide. ISBN: 0-672-32480-6. Chapter 3: 'Understand and use const in your code'
+4.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in 24 hours. ISBN: 0-672-32224-2. Hour 8, chapter 'Const member functions': 'Use const whenever possible.'
+5.  [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. ISBN: 0-32-111358-6. Chapter 68: 'Assert liberally to document internal assumptions and invariants'.
+6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). 1997. ISBN: 0-201-88954-4. Advice 24.5.18: 'Explicitly express preconditions,postconditions, and other assertions as assertions'.
+7.  Steve McConnell. Code Complete (2nd edition). 2004. ISBN: -735619670. Chapter 8.2 'Assertions', paragraph 'Guidelines for using asserts': 'Use assertions to document and verify preconditions and postconditions'.
+8.  Steve McConnell. Code Complete (2nd edition). 2004. ISBN: -735619670. Chapter 8.2 'Assertions', paragraph 'Guidelines for using asserts': 'Use assertions for conditions that should never occur'.
+9.  [Jesse Liberty](CppJesseLiberty.md). Sams teach yourself C++ in 24 hours. ISBN: 0-672-32224-2. Hour 24, chapter 'assert()': 'Use assert freely'.
