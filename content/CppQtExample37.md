@@ -1,31 +1,14 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Qt example 37: rounded rectangle item](CppQtExample37.md)
-============================================================================
-
- 
+# ([C++](Cpp.md)) [Qt example 37: rounded rectangle item](CppQtExample37.md)
 
 [Qt example 37: rounded rectangle item](CppQtExample37.md) is a
 [QGraphicsRectItem](CppQGraphicsRectItem.md) example that displays some
 [QGraphicsRectItem](CppQGraphicsRectItem.md) the are movable and
 selectable. Additionally, the items display their coordinats.
 
- 
+![View a screenshot of 'QtExample37' (png)](CppQtExample37.png)
 
--   [View a screenshot of 'QtExample37' (png)](CppQtExample37.png)
--   [Download the Qt Creator project
-    'QtExample37' (zip)](CppQtExample37.zip)
--   [Download a Windows executable of
-    'QtExample37' (zip)](CppQtExample37Exe.zip)
+ * [Download the Qt Creator project 'QtExample37' (zip)](CppQtExample37.zip)
+ * [Download a Windows executable of 'QtExample37' (zip)](http://www.richelbilderbeek.nl/CppQtExample37Exe.zip)
 
  
 
@@ -44,8 +27,7 @@ Technical facts
 
 [Application type(s)](CppApplication.md)
 
--   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.md)
+-   ![Desktop](PicDesktop.png) [Desktop application](CppDesktopApplication.md)
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
@@ -70,8 +52,7 @@ Technical facts
 [Libraries](CppLibrary.md) used:
 
 -   ![Qt](PicQt.png) [Qt](CppQt.md): version 4.8.3 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.7.2
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.7.2
 
  
 
