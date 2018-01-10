@@ -12,7 +12,7 @@ pointer](CppSmartPointer.md) [library](CppLibrary.md).
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::shared\_ptr](CppShared_ptr.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::weak\_ptr](CppWeak_ptr.md)
 -   ![C++98](PicCpp98.png)![Qt](PicQt.png) [QPointer](CppQPointer.md)
--   ![C++98](PicCpp98.png)![STL](PicStl.png) [std::auto\_ptr](CppAuto_ptr.md)
+-   ![C++98](PicCpp98.png)![STL](PicStl.png) [std::auto\_ptr](CppStdAuto_ptr.md)
 -   ![C++11](PicCpp11.png)![STL](PicStl.png) [std::shared\_ptr](CppShared_ptr.md)
 -   ![C++98](PicCpp98.png)![STL](PicStl.png) [std::tr1::shared\_ptr](CppShared_ptr.md)
 -   ![C++11](PicCpp11.png)![STL](PicStl.png) [std::unique\_ptr](CppUnique_ptr.md)

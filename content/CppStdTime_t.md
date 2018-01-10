@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::time\_t](CppTime_t.md)
+([C++](Cpp.md)) [std::time\_t](CppStdTime_t.md)
 ==============================================
 
  
 
-[std::time\_t](CppTime_t.md) is an [STL](CppStl.md) [data
+[std::time\_t](CppStdTime_t.md) is an [STL](CppStl.md) [data
 type](CppDataType.md) for [time](CppTime.md).
 
  

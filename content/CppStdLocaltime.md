@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::localtime](CppTm.md)
+([C++](Cpp.md)) [std::localtime](CppStdTm.md)
 ============================================
 
  
 
-[std::localtime](CppTm.md) is an [STL](CppStl.md) [time](CppTime.md)
+[std::localtime](CppStdTm.md) is an [STL](CppStl.md) [time](CppTime.md)
 [function](CppFunction.md) to obtain the local [date](CppTime.md) and
 [time](CppTime.md).
 

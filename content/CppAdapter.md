@@ -70,7 +70,7 @@ objects are in [namespace](CppNamespace.md) [boost](CppBoost.md).
     -   [std::mem\_fun\_ref](CppMem_fun_ref.md)
     -   [boost::mem\_fn](CppMem_fn.md)
 -   Pointer to function adapter
-    -   [std::ptr\_fun](CppPtr_fun.md)
+    -   [std::ptr\_fun](CppStdPtr_fun.md)
 -   [Negaters](CppNegater.md)
     -   [std::not1](CppNot1.md)
     -   [std::not2](CppNot2.md)

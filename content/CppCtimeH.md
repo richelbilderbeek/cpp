@@ -20,17 +20,17 @@ file](CppHeaderFile.md), containing the
 [functions](CppFunction.md) and [classes](CppClass.md) (incomplete
 list):
 
--   [std::clock\_t](CppClock_t.md)
--   [std::time\_t](CppTime_t.md)
--   [std::tm](CppTm.md)
--   [std::clock](CppClock.md)
--   [std::difftime](CppDifftime.md)
--   [std::mktime](CppMktime.md)
+-   [std::clock\_t](CppStdClock_t.md)
+-   [std::time\_t](CppStdTime_t.md)
+-   [std::tm](CppStdTm.md)
+-   [std::clock](CppStdClock.md)
+-   [std::difftime](CppStdDifftime.md)
+-   [std::mktime](CppStdMktime.md)
 -   [std::time](CppTime.md)
--   [std::asctime](CppAsctime.md)
--   [std::ctime](CppCtime.md)
--   [std::gmtime](CppGmtime.md)
--   [std::localtime](CppLocaltime.md)
+-   [std::asctime](CppStdAsctime.md)
+-   [std::ctime](CppStdCtime.md)
+-   [std::gmtime](CppStdGmtime.md)
+-   [std::localtime](CppStdLocaltime.md)
 -   [std::strftime](CppStrftime.md)
 
  

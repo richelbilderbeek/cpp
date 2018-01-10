@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::mktime](CppMktime.md)
+([C++](Cpp.md)) [std::mktime](CppStdMktime.md)
 =============================================
 
  
 
-[std::mktime](CppMktime.md) does some things \[1\], but the example
+[std::mktime](CppStdMktime.md) does some things \[1\], but the example
 below will not detect any changes:
 
  

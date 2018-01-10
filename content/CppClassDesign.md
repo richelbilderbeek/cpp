@@ -105,7 +105,7 @@ Choosing a [class type](CppClassType.md)
     \[5,9,19,27\], except in [POD](CppPod.md)s \[19\]
 -   Use [helper functions](CppHelperFunction.md) when type conversion
     should apply to all parameters \[7\]
--   Consider support for a non-throwing [swap](CppSwap.md) \[8\]
+-   Consider support for a non-throwing [swap](CppStdSwap.md) \[8\]
 -   Use [abstract classes](CppAbstractClass.md) to specify
     [interfaces](CppInterface.md) \[32\]
 -   Use [abstract classes](CppAbstractClass.md) to keep implementation

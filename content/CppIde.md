@@ -1,23 +1,7 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [IDE](CppIde.md)
-==================================
-
- 
+# ([C++](Cpp.md)) [IDE](CppIde.md)
 
 [IDE](CppIde.md) is an abbreviation of 'Integrated Development
 Environment'. In other words: 'The program you program in'.
-
- 
 
 List of [C++](Cpp.md) [IDE](CppIde.md)'s \[1\]:
 
@@ -42,7 +26,7 @@ List of [C++](Cpp.md) [IDE](CppIde.md)'s \[1\]:
 19. Turbo C++ Explorer
 20. Turbo C++ Professional
 21. Ultimate++ TheIDE
-22. Microsoft Visual Studio
+22. Microsoft [Visual Studio](CppVisualStudio.md)
 23. Microsoft Visual Studio Express
 24. wxDev-C++
 25. Xcode

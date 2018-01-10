@@ -84,10 +84,10 @@ unspecified way.
 
  
 
-The function [Swap](CppSwap.md) uses two non-copied values (due to the
+The function [Swap](CppStdSwap.md) uses two non-copied values (due to the
 [reference](CppReference.md)) and modifies (due to the omission of
 [const](CppConst.md)) them both. It probably swaps the values of 'a'
-and 'b'. [Swap](CppSwap.md) does nothing more, because it has no
+and 'b'. [Swap](CppStdSwap.md) does nothing more, because it has no
 ([void](CppVoid.md)) [return type](CppReturnType.md).
 
  

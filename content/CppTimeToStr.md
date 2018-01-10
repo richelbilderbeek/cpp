@@ -16,7 +16,7 @@
 
 [TimeToStr](CppTimeToStr.md) is a [time](CppTime.md)
 [conversion](CppConvert.md) [code snippet](CppCodeSnippets.md) to
-[convert](CppConvert.md) [std::time\_t](CppTime_t.md) to
+[convert](CppConvert.md) [std::time\_t](CppStdTime_t.md) to
 [std::string](CppStdString.md).
 
  

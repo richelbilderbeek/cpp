@@ -209,7 +209,7 @@ streamable version of flags and fields.
 -   [std::noskipws](CppNoskipws.md)
 -   [std::nouppercase](CppNouppercase.md)
 -   [std::resetiosflags](CppResetiosflags.md)
--   [std::right](CppRight.md)
+-   [std::right](CppStdRight.md)
 -   [std::scientific](CppScientific.md)
 -   [std::setbase](CppSetbase.md)
 -   [std::setfill](CppSetfill.md)

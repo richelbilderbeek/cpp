@@ -39,12 +39,12 @@ file](CppHeaderFile.md) [cmath.h](CppCmathH.md).
 
  
 
-Difference between [std::abs](CppAbs.md) and [std::fabs](CppFabs.md)
+Difference between [std::abs](CppStdAbs.md) and [std::fabs](CppFabs.md)
 ----------------------------------------------------------------------
 
  
 
-[std::abs](CppAbs.md) can be used to calculate the absolute value of
+[std::abs](CppStdAbs.md) can be used to calculate the absolute value of
 both an [integer](CppInt.md) and a [double](CppDouble.md), where
 [std::fabs](CppFabs.md) can only be used to obtain the absolute value
 of a [double](CppDouble.md).

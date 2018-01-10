@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::gmtime](CppGmtime.md)
+([C++](Cpp.md)) [std::gmtime](CppStdGmtime.md)
 =============================================
 
  
 
-[std::gmtime](CppGmtime.md) is a [time](CppTime.md)
+[std::gmtime](CppStdGmtime.md) is a [time](CppTime.md)
 [function](CppFunction.md).
 
  

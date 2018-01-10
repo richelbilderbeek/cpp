@@ -9,13 +9,13 @@
 
  
 
-([C++](Cpp.md)) [std::ptr\_fun](CppPtr_fun.md)
+([C++](Cpp.md)) [std::ptr\_fun](CppStdPtr_fun.md)
 ================================================
 
  
 
 An [adapter](CppAdapter.md) to be able to use the
-[algorithm](CppAlgorithm.md) [for\_each](CppFor_each.md) on a
+[algorithm](CppAlgorithm.md) [for\_each](CppStdFor_each.md) on a
 [function](CppFunction.md) of T stored in a
 [container](CppContainer.md) as T, instead of using loops. Prefer
 [algorithm](CppAlgorithm.md) calls over hand-written loops \[1,2\].

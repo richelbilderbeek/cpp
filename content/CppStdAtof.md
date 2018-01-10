@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::atof](CppAtof.md)
+([C++](Cpp.md)) [std::atof](CppStdAtof.md)
 =========================================
 
  
 
-[std::atof](CppAtof.md) is a [function](CppFunction.md) to
+[std::atof](CppStdAtof.md) is a [function](CppFunction.md) to
 [convert](CppConvert.md) a [character](CppChar.md) string to a
 [double](CppDouble.md).
 

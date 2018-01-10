@@ -23,7 +23,7 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
 [ToDouble](CppToDouble.md) can be implemented in multiple equivalent
 ways (incomplete list):
 
-1.  [ToDouble](CppToDouble.md) using [std::atof](CppAtof.md)
+1.  [ToDouble](CppToDouble.md) using [std::atof](CppStdAtof.md)
 2.  [ToDouble](CppToDouble.md) using [std::strtod](CppStrtod.md)
 3.  [ToDouble](CppToDouble.md) using
     [std::istringstream](CppStdIstringstream.md)
@@ -45,7 +45,7 @@ To [conversion](CppConvert.md) a [std::string](CppStdString.md) to any
 
  
 
-[ToDouble](CppToDouble.md) using [std::atof](CppAtof.md)
+[ToDouble](CppToDouble.md) using [std::atof](CppStdAtof.md)
 ----------------------------------------------------------
 
  

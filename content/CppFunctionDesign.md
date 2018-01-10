@@ -13,7 +13,7 @@
 
 ## The name of the function should say what it does
 
- * Do use names like [Swap](CppSwap.md), [IsPrime](CppIsPrime.md), [StrToInt](CppStrToInt.md)
+ * Do use names like [Swap](CppStdSwap.md), [IsPrime](CppIsPrime.md), [StrToInt](CppStrToInt.md)
  * Do not use names like `DoIt`, `Transmogrify`, `Stuff`
  * Exceptions: `Transmogrify` is a function name commonly used in the literature to denote a function you are not aware of what it is doing
 

@@ -54,7 +54,7 @@ when a [class](CppClass.md) is created is called the
 
  
 
--   Design [constructors](CppContructor.md), assignments, and the
+-   Design [constructors](CppConstructor.md), assignments, and the
     [destructor](CppDestructor.md) as a matched set of operations \[5\]
 -   All [base classes](CppBaseClass.md) must have a
     ([public](CppPublic.md)) [virtual](CppVirtual.md)

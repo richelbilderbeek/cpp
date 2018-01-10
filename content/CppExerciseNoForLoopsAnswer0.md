@@ -34,7 +34,7 @@ Question
 
 Replace the for-loop. You will need the following:
 
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::multiplies](CppMultiplies.md)
 

@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md) ) [std::for\_each](CppFor_each.md)
+([C++](Cpp.md) ) [std::for\_each](CppStdFor_each.md)
 ===================================================
 
  
@@ -28,13 +28,13 @@ how to remove hand-written loops .
 
  
 
-Note: [std::for\_each](CppFor_each.md) is supposed to be non-modifying
+Note: [std::for\_each](CppStdFor_each.md) is supposed to be non-modifying
 \[1\], but I use it for modifying my sequences anyway.
 
  
 
 There are two kinds of examples below. The first uses
-[std::for\_each](CppFor_each.md) combined with simple
+[std::for\_each](CppStdFor_each.md) combined with simple
 [functions](CppFunction.md).
 
  

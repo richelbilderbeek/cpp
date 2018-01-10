@@ -17,7 +17,7 @@
 [std::transform](CppTransform.md) is an [algorithm](CppAlgorithm.md)
 to perform a modifying [function](CppFunction.md) on the elements of a
 sequence (on a [std::vector](CppStdVector.md), for example). Use
-[std::for\_each](CppFor_each.md) to perform non-modifying
+[std::for\_each](CppStdFor_each.md) to perform non-modifying
 [functions](CppFunction.md) on the elements of a sequence.
 
  

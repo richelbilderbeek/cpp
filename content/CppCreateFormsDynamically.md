@@ -100,7 +100,7 @@ A Form can be created dynamically as follows:
 Sure you can use a plain [pointer](CppPointer.md), but then don't
 forget to [delete](CppDelete.md) it. And if you don't want to forget to
 [delete](CppDelete.md) this [pointer](CppPointer.md) (among others),
-use a [std::auto\_ptr](CppAuto_ptr.md).
+use a [std::auto\_ptr](CppStdAuto_ptr.md).
 
  
 

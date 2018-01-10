@@ -20,7 +20,7 @@ file](CppHeaderFile.md).
  
 
 [memory.h](CppMemoryH.md) contains the [definition](CppDefinition.md)
-of [std::auto\_ptr](CppAuto_ptr.md).
+of [std::auto\_ptr](CppStdAuto_ptr.md).
 
  
 

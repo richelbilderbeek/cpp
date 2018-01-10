@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::swap](CppSwap.md)
+([C++](Cpp.md)) [std::swap](CppStdSwap.md)
 =========================================
 
  
@@ -19,7 +19,7 @@ type](CppDataType.md).
 
  
 
-The [definition](CppDefinition.md) of [std::swap](CppSwap.md) is in
+The [definition](CppDefinition.md) of [std::swap](CppStdSwap.md) is in
 [algorithm.h](CppAlgorithmH.md).
 
  
@@ -67,7 +67,7 @@ XOR swap
  
 
 The XOR swap is another way to swap two values. Prefer using
-[std::swap](CppSwap.md) \[2\].
+[std::swap](CppStdSwap.md) \[2\].
 
  
 

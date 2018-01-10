@@ -38,7 +38,7 @@ Question \#4: Widget::DoIt on Widget
  
 
 Replace the [for](CppFor.md)-loop. You will need
-[std::for\_each](CppFor_each.md) and
+[std::for\_each](CppStdFor_each.md) and
 [std::mem\_fun\_ref](CppMem_fun_ref.md).
 
  

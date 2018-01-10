@@ -96,7 +96,7 @@ General
 
  
 
--   Design [constructors](CppContructor.md), assignments, and the
+-   Design [constructors](CppConstructor.md), assignments, and the
     [destructor](CppDestructor.md) as a matched set of operations
     \[13\]
 -   Define a [constructor](CppConstructor.md) to handle initialization
@@ -107,7 +107,7 @@ General
     whenever possible \[8\]
 -   If a [class](CppClass.md) is a [container](CppContainer.md), give
     it an [initializer-list](CppInitializerList.md)
-    [constructor](CppContructor.md) \[15\]
+    [constructor](CppConstructor.md) \[15\]
 -   If a [class](CppClass.md) has a [reference](CppReference.md)
     [member variable](CppMemberVariable.md), it probably needs a [copy
     constructor](CppCopyConstructor.md) and [copy assignment

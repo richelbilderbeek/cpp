@@ -66,7 +66,7 @@ Answer
 
 Note: I did not find any way to refrain from writing a
 [functor](CppFunctor.md) (for example, by using
-[std::ptr\_fun](CppPtr_fun.md)) as shown in the lines below...
+[std::ptr\_fun](CppStdPtr_fun.md)) as shown in the lines below...
 
  
 

@@ -23,7 +23,7 @@ pointer](CppSmartPointer.md) that [deletes](CppDelete.md) the
 
 [boost::scoped\_ptr](CppScoped_ptr.md) is similar to
 [std::unique\_ptr](CppUnique_ptr.md) ([C++11](Cpp11.md)) and
-[std::auto\_ptr](CppAuto_ptr.md) ([C++98](Cpp98.md), depreciated in
+[std::auto\_ptr](CppStdAuto_ptr.md) ([C++98](Cpp98.md), depreciated in
 [C++11](Cpp11.md)).
 
  

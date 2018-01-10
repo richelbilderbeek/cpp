@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::clock](CppClock.md)
+([C++](Cpp.md)) [std::clock](CppStdClock.md)
 ===========================================
 
  
 
-[std::clock](CppClock.md) is an [STL](CppStl.md) [time](CppTime.md)
+[std::clock](CppStdClock.md) is an [STL](CppStl.md) [time](CppTime.md)
 [function](CppFunction.md) to obtain the number of ticks the program
 has been running.
 
  
 
-[std::clock](CppClock.md) is [defined](CppDefinition.md) in the
+[std::clock](CppStdClock.md) is [defined](CppDefinition.md) in the
 [header file](CppHeaderFile.md) [ctime.h](CppCtimeH.md).
 
  

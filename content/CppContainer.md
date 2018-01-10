@@ -193,7 +193,7 @@ SGI extension [containers](CppContainer.md) (incomplete list)
     handles \[6\]
 -   If a [class](CppClass.md) is a [container](CppContainer.md), give
     it an [initializer-list](CppInitializerList.md)
-    [constructor](CppContructor.md) \[1\]
+    [constructor](CppConstructor.md) \[1\]
 -   Use [templates](CppTemplate.md) to express
     [containers](CppContainer.md) \[2\]
 -   An [STL](CppStl.md) [container](CppContainer.md) defines a

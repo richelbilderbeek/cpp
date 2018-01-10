@@ -49,7 +49,7 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
 
  
 
-Uses [std::atof](CppAtof.md).
+Uses [std::atof](CppStdAtof.md).
 
  
 

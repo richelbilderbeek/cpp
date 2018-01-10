@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::mismatch](CppMismatch.md)
+([C++](Cpp.md)) [std::mismatch](CppStdMismatch.md)
 =================================================
 
  
 
-[std::mismatch](CppMismatch.md) is an [STL](CppStl.md)
+[std::mismatch](CppStdMismatch.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to find a mismatch between two
 [containers](CppContainer.md).
 

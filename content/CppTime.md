@@ -72,11 +72,11 @@ used.
 
  
 
--   [std::asctime](CppAsctime.md)
--   [std::localtime](CppLocaltime.md)
+-   [std::asctime](CppStdAsctime.md)
+-   [std::localtime](CppStdLocaltime.md)
 -   [std::time](CppTime.md)
--   [std::time\_t](CppTime_t.md)
--   [std::tm](CppTm.md)
+-   [std::time\_t](CppStdTime_t.md)
+-   [std::tm](CppStdTm.md)
 
  
 

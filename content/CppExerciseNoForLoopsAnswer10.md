@@ -34,7 +34,7 @@ Question \#10: Widget::DoIt on [boost::shared\_ptr](CppShared_ptr.md)&lt;Widget&
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [boost::mem\_fn](CppMem_fn.md)
 
  

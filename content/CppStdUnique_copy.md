@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::unique\_copy](CppUnique_copy.md)
+([C++](Cpp.md)) [std::unique\_copy](CppStdUnique_copy.md)
 ========================================================
 
  
 
-[std::unique\_copy](CppUnique_copy.md) is an [STL](CppStl.md)
+[std::unique\_copy](CppStdUnique_copy.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) similar to [std::copy](CppStdCopy.md) except
 that it copies identical adjacent values once.
 

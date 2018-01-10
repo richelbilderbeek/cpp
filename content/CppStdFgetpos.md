@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::fgetpos](CppFgetpos.md)
+([C++](Cpp.md)) [std::fgetpos](CppStdFgetpos.md)
 ===============================================
 
  
 
-[std::fgetpos](CppFgetpos.md) is an [STL](CppStl.md)
+[std::fgetpos](CppStdFgetpos.md) is an [STL](CppStl.md)
 [function](CppFunction.md).
 
  
 
-[std::fgetpos](CppFgetpos.md) is [defined](CppDefinition.md) in
+[std::fgetpos](CppStdFgetpos.md) is [defined](CppDefinition.md) in
 [cstdio.h](CppCstdioH.md).
 
  

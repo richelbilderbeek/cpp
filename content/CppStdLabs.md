@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::labs](CppLabs.md)
+([C++](Cpp.md)) [std::labs](CppStdLabs.md)
 =========================================
 
  
 
-[std::labs](CppLabs.md) is a C-style [function](CppFunction.md) to
+[std::labs](CppStdLabs.md) is a C-style [function](CppFunction.md) to
 obtain the absolute value of a [long](CppLong.md).
 
  
 
-[std::abs](CppAbs.md) is a [function](CppFunction.md) to obtain the
+[std::abs](CppStdAbs.md) is a [function](CppFunction.md) to obtain the
 absolute value of most numeric [data types](CppDataType.md).
 
  

@@ -35,11 +35,11 @@ using [boost::checked\_delete](CppChecked_delete.md).
 
  
 
-Note that [std::auto\_ptr](CppAuto_ptr.md) does not use a checked
+Note that [std::auto\_ptr](CppStdAuto_ptr.md) does not use a checked
 [delete](CppDelete.md). When you really need a checked delete, use
 [boost::scoped\_ptr](CppScoped_ptr.md) instead (but note that
 [boost::scoped\_ptr](CppScoped_ptr.md) has a slightly different
-[interface](CppInterface.md) then [std::auto\_ptr](CppAuto_ptr.md)).
+[interface](CppInterface.md) then [std::auto\_ptr](CppStdAuto_ptr.md)).
 
  
 

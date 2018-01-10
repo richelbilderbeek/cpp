@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::tm](CppTm.md)
+([C++](Cpp.md)) [std::tm](CppStdTm.md)
 =====================================
 
  
 
-[std::tm](CppTm.md) is an [STL](CppStl.md) [time](CppTime.md)
+[std::tm](CppStdTm.md) is an [STL](CppStl.md) [time](CppTime.md)
 [class](CppClass.md) to contain a [date](CppTime.md) and
 [time](CppTime.md).
 

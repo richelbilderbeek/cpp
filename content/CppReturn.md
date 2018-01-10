@@ -119,7 +119,7 @@ expression](CppLambdaExpression.md) differs from a [C++98](Cpp98.md)
 [lambda expression](CppLambdaExpression.md) or
 [BOOST\_FOREACH](CppBOOST_FOREACH.md): if you want to
 [return](CppReturn.md) from a [function](CppFunction.md), all that
-happens is that the [std::for\_each](CppFor_each.md) (or other
+happens is that the [std::for\_each](CppStdFor_each.md) (or other
 [algorithm](CppAlgorithm.md)) is terminated. The example below shows
 this.
 

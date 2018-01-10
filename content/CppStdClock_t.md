@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::clock\_t](CppClock_t.md)
+([C++](Cpp.md)) [std::clock\_t](CppStdClock_t.md)
 ================================================
 
  
 
-[std::clock\_t](CppClock_t.md) is an [STL](CppStl.md)
+[std::clock\_t](CppStdClock_t.md) is an [STL](CppStl.md)
 [struct](CppStruct.md) for storing [time](CppTime.md).
 
  
 
-[std::clock\_t](CppClock_t.md) is [defined](CppDefinition.md) in the
+[std::clock\_t](CppStdClock_t.md) is [defined](CppDefinition.md) in the
 [header file](CppHeaderFile.md) [ctime.h](CppCtimeH.md).
 
  

@@ -161,7 +161,7 @@ Creating an instance of a Child can be done like this:
 
  
 
-Or using a [std::auto\_ptr](CppAuto_ptr.md):
+Or using a [std::auto\_ptr](CppStdAuto_ptr.md):
 
  
 

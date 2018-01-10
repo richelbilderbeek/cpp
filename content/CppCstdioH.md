@@ -38,7 +38,7 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
 4.  [std::ferror](CppFerror.md)
 5.  [std::fflush](CppFflush.md)
 6.  [std::fgetc](CppFgetc.md)
-7.  [std::fgetpos](CppFgetpos.md)
+7.  [std::fgetpos](CppStdFgetpos.md)
 8.  [std::fgets](CppFgets.md)
 9.  [std::fopen](CppFopen.md)
 10. [std::fprintf](CppFprintf.md)

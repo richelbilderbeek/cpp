@@ -27,7 +27,7 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md) a
  
 
 Note that in the [C++ Builder](CppBuilder.md) [IDE](CppIde.md)
-[std::ptr\_fun](CppPtr_fun.md) can be called without its
+[std::ptr\_fun](CppStdPtr_fun.md) can be called without its
 [template](CppTemplate.md) arguments. When using the [G++](CppGpp.md)
 4.4.1 [compiler](CppCompiler.md) leaving out the
 [template](CppTemplate.md) arguments results in the [compile

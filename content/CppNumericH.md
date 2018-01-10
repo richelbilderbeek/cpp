@@ -29,7 +29,7 @@ file](CppHeaderFile.md).
 2.  [std::adjacent\_difference](CppAdjacent_difference.md)
 3.  [std::inner\_product](CppInner_product.md)
 4.  [std::iota](CppIota.md)
-5.  [std::partial\_sum](CppPartial_sum.md)
+5.  [std::partial\_sum](CppStdPartial_sum.md)
 
  
 

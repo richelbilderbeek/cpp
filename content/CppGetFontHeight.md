@@ -17,7 +17,7 @@
 [Function](CppFunction.md) to get the height of a Font in pixels.
 
 The [member function](CppMemberFunction.md) Font::Size and
-[std::abs](CppAbs.md) on Font::Height don't work perfectly.
+[std::abs](CppStdAbs.md) on Font::Height don't work perfectly.
 
 Use Canvas::TextHeight on a random string instead.
 

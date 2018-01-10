@@ -266,15 +266,15 @@ is a valid solution.
 
  
 
-A [std::auto\_ptr](CppAuto_ptr.md) calls the
+A [std::auto\_ptr](CppStdAuto_ptr.md) calls the
 [destructor](CppDestructor.md) of Thing when it goes out of
 [scope](CppScope.md). So, when making a
-[std::auto\_ptr](CppAuto_ptr.md) a friend of Thing, you can create
-[std::auto\_ptr](CppAuto_ptr.md)&lt;Thing&gt;.
+[std::auto\_ptr](CppStdAuto_ptr.md) a friend of Thing, you can create
+[std::auto\_ptr](CppStdAuto_ptr.md)&lt;Thing&gt;.
 
  
 
-A drawback of this solution is that a [std::auto\_ptr](CppAuto_ptr.md)
+A drawback of this solution is that a [std::auto\_ptr](CppStdAuto_ptr.md)
 does not have a checked delete (for example
 [boost::checked\_delete](CppChecked_delete.md)).
 

@@ -9,13 +9,13 @@
 
  
 
-([C++](Cpp.md)) [std::iter\_swap](CppIter_swap.md)
+([C++](Cpp.md)) [std::iter\_swap](CppStdIter_swap.md)
 ====================================================
 
  
 
-[std::iter\_swap](CppIter_swap.md) is an [STL](CppStl.md)
-[function](CppFunction.md) to [swap](CppSwap.md) the data two
+[std::iter\_swap](CppStdIter_swap.md) is an [STL](CppStl.md)
+[function](CppFunction.md) to [swap](CppStdSwap.md) the data two
 [iterators](CppIterator.md) [point](CppPointer.md) to.
 
  

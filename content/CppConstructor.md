@@ -26,7 +26,7 @@ initialization](CppMemberwiseInitialization.md) \[13\].
 
 ## [Advice](CppAdvice.md)
 
--   Design [constructors](CppContructor.md), assignments, and the
+-   Design [constructors](CppConstructor.md), assignments, and the
     [destructor](CppDestructor.md) as a matched set of operations
     \[10\]
 -   Define a [constructor](CppConstructor.md) to handle initialization
@@ -60,7 +60,7 @@ initialization](CppMemberwiseInitialization.md) \[13\].
     resource \[12\]
 -   Give a [class](CppClass.md) a [default constructor](CppDefaultConstructor.md) if and only if there is a "natural" default value [15, 20]
 -   If a [class](CppClass.md) is a [container](CppContainer.md), give
-    it an initializer-list [constructor](CppContructor.md) \[14\]
+    it an initializer-list [constructor](CppConstructor.md) \[14\]
 -   An [abstract class](CppAbstractClass.md) typically doesn't need a
     [constructor](CppConstructor.md) \[16\]
 

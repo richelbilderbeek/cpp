@@ -41,7 +41,7 @@ This is easier said than done.
 
 In this exercise you must replace **[for](CppFor.md)**-loops by using a
 combination of all those algorithm things like
-[std::for\_each](CppFor_each.md), [std::transform](CppTransform.md),
+[std::for\_each](CppStdFor_each.md), [std::transform](CppTransform.md),
 [std::bind1st](CppStdBind1st.md), [std::bind2nd](CppStdBind2nd.md),
 [std::multiplies](CppMultiplies.md) and more of the likes. It is up to
 you to find the correct combination.
@@ -131,7 +131,7 @@ Question \#0: [Triple](CppTriple.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [std::multiplies](CppMultiplies.md)
 
  
@@ -256,7 +256,7 @@ Question \#4: Widget::DoIt on Widget
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [std::mem\_fun\_ref](CppMem_fun.md) (or
     [boost::mem\_fn](CppMem_fn.md))
 
@@ -288,7 +288,7 @@ Question \#5: Widget::DoItOften on Widget
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [std::mem\_fun\_ref](CppMem_fun.md) (or
     [boost::mem\_fn](CppMem_fn.md))
 
@@ -319,7 +319,7 @@ Question \#6: Widget::DoIt on Widget\*
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
 
  
@@ -350,7 +350,7 @@ Question \#7: Widget::DoItOften on Widget\*
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
 
  
@@ -439,7 +439,7 @@ Question \#10: Widget::DoIt on boost::shared\_ptr&lt;Widget&gt;
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::for\_each](CppFor_each.md)
+-   [std::for\_each](CppStdFor_each.md)
 -   [boost::mem\_fn](CppMem_fn.md)
 
  

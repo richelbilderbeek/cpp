@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) [std::asctime](CppAsctime.md)
+([C++](Cpp.md)) [std::asctime](CppStdAsctime.md)
 ===============================================
 
  
 
-[std::asctime](CppAsctime.md) is an [STL](CppStl.md)
+[std::asctime](CppStdAsctime.md) is an [STL](CppStl.md)
 [time](CppTime.md) [function](CppFunction.md) to
-[convert](CppConvert.md) [std::tm](CppTm.md) to a
+[convert](CppConvert.md) [std::tm](CppStdTm.md) to a
 [std::string](CppStdString.md).
 
  

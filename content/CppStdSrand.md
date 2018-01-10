@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::srand](CppSrand.md)
+([C++](Cpp.md)) [std::srand](CppStdSrand.md)
 ===========================================
 
  
 
-[std::srand](CppSrand.md) sets the seed of the random number sequence
+[std::srand](CppStdSrand.md) sets the seed of the random number sequence
 that can be created by [std::rand](CppRand.md) sequence.
 
  

@@ -15,11 +15,11 @@
  
 
 An [adapter](CppAdapter.md) to be able to use
-[for\_each](CppFor_each.md) on a [member
+[for\_each](CppStdFor_each.md) on a [member
 function](CppMemberFunction.md) of T stored in a
 [container](CppContainer.md) as T\* (compare
 [std::mem\_fun\_ref](CppMem_fun_ref.md), to use
-[for\_each](CppFor_each.md) on a [member
+[for\_each](CppStdFor_each.md) on a [member
 function](CppMemberFunction.md) of T stored in a
 [container](CppContainer.md) as T ).
 

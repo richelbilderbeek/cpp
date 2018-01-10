@@ -9,19 +9,19 @@
 
  
 
-([C++](Cpp.md)) [std::auto\_ptr](CppAuto_ptr.md)
+([C++](Cpp.md)) [std::auto\_ptr](CppStdAuto_ptr.md)
 ==================================================
 
  
 
 The [class template](CppClassTemplate.md)
-[std::auto\_ptr](CppAuto_ptr.md) is deprecated \[5\]. The [class
+[std::auto\_ptr](CppStdAuto_ptr.md) is deprecated \[5\]. The [class
 template](CppClassTemplate.md) [std::unique\_ptr](CppUnique_ptr.md)
 provides a better solution \[5\].
 
  
 
-[std::auto\_ptr](CppAuto_ptr.md) is a [smart
+[std::auto\_ptr](CppStdAuto_ptr.md) is a [smart
 pointer](CppSmartPointer.md) that [deletes](CppDelete.md) the
 [instance](CppInstance.md) it points to when going out of
 [scope](CppScope.md). It is supplied in the [STL](CppStl.md) [header
@@ -29,7 +29,7 @@ file](CppHeaderFile.md) [memory.h](CppMemoryH.md).
 
  
 
-[std::auto\_ptr](CppAuto_ptr.md) helps to:
+[std::auto\_ptr](CppStdAuto_ptr.md) helps to:
 
  
 
@@ -89,11 +89,11 @@ and store newed objects in smart pointers in standalone statements
 
  
 
-[std::auto\_ptr](CppAuto_ptr.md)'s does more then saving you a
+[std::auto\_ptr](CppStdAuto_ptr.md)'s does more then saving you a
 [delete](CppDelete.md) statement. It ensures that the instance pointed
 to is only pointed to once. This is done by a non-symettric copy: when
-you pass a pointer from [std::auto\_ptr](CppAuto_ptr.md) to
-[std::auto\_ptr](CppAuto_ptr.md), the original possessor gets zero.
+you pass a pointer from [std::auto\_ptr](CppStdAuto_ptr.md) to
+[std::auto\_ptr](CppStdAuto_ptr.md), the original possessor gets zero.
 This is demonstrated below:
 
  
@@ -128,7 +128,7 @@ Pointer management
 
  
 
-Also, using a [std::auto\_ptr](CppAuto_ptr.md), it gets clear which
+Also, using a [std::auto\_ptr](CppStdAuto_ptr.md), it gets clear which
 [class](CppClass.md) manages the [deletion](CppDelete.md) of the
 pointed [instance](CppInstance.md).
 
@@ -164,8 +164,8 @@ certain function using a plain pointer, in the end of this function you
 call [delete](CppDelete.md). But when in the middle an
 [exception](CppException.md) is [thrown](CppThrow.md), this
 [delete](CppDelete.md) is not called anymore! When using an
-[auto\_ptr](CppAuto_ptr.md), the instance DOES get deleted. This is
-because [auto\_ptr](CppAuto_ptr.md)'s [delete](CppDelete.md) their
+[auto\_ptr](CppStdAuto_ptr.md), the instance DOES get deleted. This is
+because [auto\_ptr](CppStdAuto_ptr.md)'s [delete](CppDelete.md) their
 [instances](CppInstance.md) when they go out of [scope](CppScope.md).
 
  
@@ -212,11 +212,11 @@ use a [smart pointer](CppSmartPointer.md), use a
 
  
 
-### Do not put [std::auto\_ptr](CppAuto_ptr.md)'s in a [std::vector](CppStdVector.md) \[4\]
+### Do not put [std::auto\_ptr](CppStdAuto_ptr.md)'s in a [std::vector](CppStdVector.md) \[4\]
 
  
 
-A copy of a [std::auto\_ptr](CppAuto_ptr.md) does not copy the memory
+A copy of a [std::auto\_ptr](CppStdAuto_ptr.md) does not copy the memory
 address pointed to. Therefore, when using e.g. a sorting algorithm, some
 pointed [instances](CppInstance.md) might get [deleted](CppDelete.md)!
 Instead, use a [boost::shared\_ptr](CppShared_ptr.md).
@@ -231,11 +231,11 @@ Instead, use a [boost::shared\_ptr](CppShared_ptr.md).
 
  
 
-### Resetting a[std::auto\_ptr](CppAuto_ptr.md)
+### Resetting a[std::auto\_ptr](CppStdAuto_ptr.md)
 
  
 
-Resetting a [std::auto\_ptr](CppAuto_ptr.md) first constructs a new
+Resetting a [std::auto\_ptr](CppStdAuto_ptr.md) first constructs a new
 [instance](CppInstance.md) of the [class](CppClass.md) before
 [deleting](CppDelete.md) the old [instance](CppInstance.md). This is
 demonstrated by the code below:

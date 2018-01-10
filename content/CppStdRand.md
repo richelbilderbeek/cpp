@@ -90,7 +90,7 @@ Note when using multithreading
 
  
 
-As [std::srand](CppSrand.md) and [std::rand](CppStdRand.md) use a
+As [std::srand](CppStdSrand.md) and [std::rand](CppStdRand.md) use a
 [global](CppGlobal.md)/[static](CppStatic.md)
 [variable](CppVariable.md) and therefore is not suitable for
 multithreading. The [Boost C++ library](CppBoost.md) has other random
