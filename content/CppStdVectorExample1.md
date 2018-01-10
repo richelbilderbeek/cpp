@@ -19,14 +19,14 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
 
  
 
-[std::vector example 1: basics](CppVectorExample1.md) is a
+[std::vector example 1: basics](CppStdVectorExample1.md) is a
 [std::vector](CppStdVector.md) example that demonstrates writing to and
 reading from a [std::vector](CppStdVector.md)
 
  
 
 -   [Download the Qt Creator project
-    'CppVectorExample1' (zip)](CppVectorExample1.zip)
+    'CppStdVectorExample1' (zip)](CppStdVectorExample1.zip)
 
 Technical facts
 ---------------

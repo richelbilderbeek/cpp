@@ -20,13 +20,13 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![Windows](PicWindows.png)
  
 
 [std::vector example 4: remove an element with preserving the
-order](CppVectorExample4.md) is a [std::vector](CppStdVector.md) example
+order](CppStdVectorExample4.md) is a [std::vector](CppStdVector.md) example
 that demonstrates how to remove an element with preserving the order.
 
  
 
 -   [Download the Qt Creator project
-    'CppVectorExample4' (zip)](CppVectorExample4.zip)
+    'CppStdVectorExample4' (zip)](CppStdVectorExample4.zip)
 
 Technical facts
 ---------------

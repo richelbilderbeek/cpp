@@ -41,5 +41,4 @@
 
  * [Bjarne Stroustrup's FAQ page about C++ style and techniques](http://www.research.att.com/~bs/bs_faq2.html)
  * [Bjarne Stroustrup's general FAQ page](http://www.research.att.com/~bs/bs_faq.html)
- * [CodePedia C++ FAQ page](http://www.codepedia.com/1/CppFaq)
  * [Presentation by Herb Sutter: Why C++?](http://channel9.msdn.com/posts/C-and-Beyond-2011-Herb-Sutter-Why-C/player?w=512&h=288)

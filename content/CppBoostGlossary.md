@@ -1,32 +1,12 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Boost glossary](CppBoostGlossary.md)
-=======================================================
-
- 
+# ([C++](Cpp.md)) [Boost glossary](CppBoostGlossary.md)
 
 My [Boost](CppBoost.md) glossary.
-
- 
 
 The [boost:: glossary](CppBoostGlossary.md) is a specialization of the
 [C++ glossary](CppGlossary.md).
 
- 
-
 The topics with std:: can be found in the [std::
 glossary](CppStdGlossary.md).
-
- 
 
 1.  [Boost.Asio](CppAsio.md)
 2.  [Boost.Filesystem](CppFilesystem.md)
@@ -66,34 +46,3 @@ glossary](CppStdGlossary.md).
 36. boost::weak\_ptr
 37. [BOOST\_FOREACH](CppBOOST_FOREACH.md)
 38. [BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
-
--   [CodePedia C++ boost:: glossary
-    page](http://www.codepedia.com/1/CppBoostGlossary)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
