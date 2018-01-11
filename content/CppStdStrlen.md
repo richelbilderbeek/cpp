@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::strlen](CppStrlen.md)
+([C++](Cpp.md)) [std::strlen](CppStdStrlen.md)
 =============================================
 
  
 
-[std::strlen](CppStrlen.md) is a [function](CppFunction.md) to
+[std::strlen](CppStdStrlen.md) is a [function](CppFunction.md) to
 determine the length (in [characters](CppChar.md)) of a C-style string.
 
  

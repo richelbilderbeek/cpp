@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::transform](CppTransform.md)
+([C++](Cpp.md)) [std::transform](CppStdTransform.md)
 ===================================================
 
  
 
-[std::transform](CppTransform.md) is an [algorithm](CppAlgorithm.md)
+[std::transform](CppStdTransform.md) is an [algorithm](CppAlgorithm.md)
 to perform a modifying [function](CppFunction.md) on the elements of a
 sequence (on a [std::vector](CppStdVector.md), for example). Use
 [std::for\_each](CppStdFor_each.md) to perform non-modifying
@@ -29,7 +29,7 @@ hand-written loops .
 
  
 
-[std::transform](CppTransform.md) does not use a
+[std::transform](CppStdTransform.md) does not use a
 [predicate](CppPredicate.md). Use [Transform\_if](CppTransform_if.md)
 if a [predicate](CppPredicate.md) is needed.
 
@@ -59,7 +59,7 @@ The code below shows a simple way to multiply all elements in a
 
  
 
-[std::transform](CppTransform.md) can be used to replace the
+[std::transform](CppStdTransform.md) can be used to replace the
 [for](CppFor.md)-loop in the example below:
 
  
@@ -78,7 +78,7 @@ The code below shows a simple way to multiply all elements in a
 
  
 
-[std::transform](CppTransform.md) function [definition](CppDefinition.md)
+[std::transform](CppStdTransform.md) function [definition](CppDefinition.md)
 ---------------------------------------------------------------------------
 
  
@@ -94,7 +94,7 @@ Builder](CppBuilder.md) 6.0:
 
  
 
-[std::transform](CppTransform.md) does not use a
+[std::transform](CppStdTransform.md) does not use a
 [predicate](CppPredicate.md). Use [Transform\_if](CppTransform_if.md)
 if a [predicate](CppPredicate.md) is needed.
 

@@ -72,9 +72,9 @@ Quick facts chart
 | tm)**                    | [STL](CppStl.md),       | [Qt4](CppQt.md)         |
 |                          | [VCL](CppVcl.md)        |                          |
 +--------------------------+--------------------------+--------------------------+
-| **[Cpp0x](Cpp0x.md)     | Pre-standard adoption    | Adoption after           |
+| **[Cpp0x](Cpp11.md)     | Pre-standard adoption    | Adoption after           |
 | adoption**               | (in RAD Studio)          | publication of official  |
-|                          |                          | [Cpp0x](Cpp0x.md)       |
+|                          |                          | [Cpp0x](Cpp11.md)       |
 |                          |                          | standard                 |
 +--------------------------+--------------------------+--------------------------+
 

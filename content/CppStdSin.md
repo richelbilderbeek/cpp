@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::sin](CppSin.md)
+([C++](Cpp.md)) [std::sin](CppStdSin.md)
 =======================================
 
  
@@ -19,7 +19,7 @@ angle, where the angle is in radians.
 
  
 
-To use [std::sin](CppSin.md), the [STL](CppStl.md) [header
+To use [std::sin](CppStdSin.md), the [STL](CppStl.md) [header
 file](CppHeaderFile.md) [cmath.h](CppCmathH.md) must be
 [\#include](CppInclude.md)d.
 

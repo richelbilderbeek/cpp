@@ -213,7 +213,7 @@ SGI extension [containers](CppContainer.md) (incomplete list)
     [range-for](CppRangeFor.md)-loop or a begin/end pair of
     [iterators](CppIterator.md) \[9\]
 -   Use push\_back() or resize() on a [container](CppContainer.md),
-    rather than [std::realloc](CppRealloc.md) on an
+    rather than [std::realloc](CppStdRealloc.md) on an
     [array](CppArray.md) \[10\]
 -   Do not assume that [operator\[\]](CppOperatorIndex.md) range checks
     \[11\]

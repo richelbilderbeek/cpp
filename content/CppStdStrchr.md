@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::strchr](CppStrchr.md)
+([C++](Cpp.md)) [std::strchr](CppStdStrchr.md)
 =============================================
 
  
 
-[std::strchr](CppStrchr.md) is an [STL](CppStl.md)
+[std::strchr](CppStdStrchr.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to find a character in a C-style string.
 
  
 
-[std::strchr](CppStrchr.md) is [defined](CppDefinition.md) in the
+[std::strchr](CppStdStrchr.md) is [defined](CppDefinition.md) in the
 [cstring.h](CppCstringH.md) [header file](CppHeaderFile.md).
 
  

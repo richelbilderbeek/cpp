@@ -14,7 +14,7 @@
 
  
 
-My modification of [std::transform](CppTransform.md) to make it work
+My modification of [std::transform](CppStdTransform.md) to make it work
 with a [predicate](CppPredicate.md).
 
  

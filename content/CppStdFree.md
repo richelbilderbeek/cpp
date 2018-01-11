@@ -9,26 +9,26 @@
 
  
 
-([C++](Cpp.md)) [std::free](CppFree.md)
+([C++](Cpp.md)) [std::free](CppStdFree.md)
 =========================================
 
  
 
-[std::free](CppFree.md) is an [STL](CppStl.md)
+[std::free](CppStdFree.md) is an [STL](CppStl.md)
 [function](CppFunction.md) used in C-style memory management:
 
--   [std::malloc](CppMalloc.md): allocates memory
--   [std::realloc](CppRealloc.md): reallocates memory
--   [std::free](CppFree.md): releases memory
+-   [std::malloc](CppStdMalloc.md): allocates memory
+-   [std::realloc](CppStdRealloc.md): reallocates memory
+-   [std::free](CppStdFree.md): releases memory
 
  
 
 Prefer to use the [C++](Cpp.md) [keyword](CppKeyword.md)
-[new](CppNew.md) over [std::malloc](CppMalloc.md), as
-[std::malloc](CppMalloc.md) does not call a
+[new](CppNew.md) over [std::malloc](CppStdMalloc.md), as
+[std::malloc](CppStdMalloc.md) does not call a
 [constructor](CppConstructor.md). Prefer to use the [C++](Cpp.md)
 [keyword](CppKeyword.md) [delete](CppDelete.md) over
-[std::free](CppFree.md), as [std::free](CppFree.md) does not call a
+[std::free](CppStdFree.md), as [std::free](CppStdFree.md) does not call a
 [destructor](CppDestructor.md).
 
  

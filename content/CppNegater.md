@@ -38,7 +38,7 @@ allows to express the opposite of a [predicate](CppPredicate.md) \[1\].
  
 
 The example below demonstrates how to a find a not-male (that is, a
-female) using the [std::not1](CppNot1.md) [negater](CppNegater.md).
+female) using the [std::not1](CppStdNot1.md) [negater](CppNegater.md).
 
  
 

@@ -211,7 +211,7 @@ streamable version of flags and fields.
 -   [std::resetiosflags](CppResetiosflags.md)
 -   [std::right](CppStdRight.md)
 -   [std::scientific](CppScientific.md)
--   [std::setbase](CppSetbase.md)
+-   [std::setbase](CppStdSetbase.md)
 -   [std::setfill](CppSetfill.md)
 -   [std::setiosflags](CppSetiosflags.md)
 -   [std::setprecision](CppSetprecision.md)

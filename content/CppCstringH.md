@@ -26,13 +26,13 @@ file](CppHeaderFile.md)
 
 -   NULL
 -   [std::memchr](CppMemchr.md): locate character in block of memory
--   [std::memcmp](CppMemcmp.md): compare two blocks of memory
--   [std::memcpy](CppMemcpy.md): copy block of memory
+-   [std::memcmp](CppStdMemcmp.md): compare two blocks of memory
+-   [std::memcpy](CppStdMemcpy.md): copy block of memory
 -   [std::memmove](CppMemmove.md): move block of memory
--   [std::memset](CppMemset.md): fill block of memory
+-   [std::memset](CppStdMemset.md): fill block of memory
 -   [std::size\_t](CppSize_t.md): unsigned integral type
--   [std::strcat](CppStrcat.md): concatenate strings
--   [std::strchr](CppStrchr.md): locate first occurrence of character
+-   [std::strcat](CppStdStrcat.md): concatenate strings
+-   [std::strchr](CppStdStrchr.md): locate first occurrence of character
     in string
 -   [std::strcmp](CppStrcmp.md): compare two strings
 -   [std::strcoll](CppStrcoll.md): compare two strings using locale
@@ -40,7 +40,7 @@ file](CppHeaderFile.md)
 -   [std::strcspn](CppStrcspn.md): get span until character in string
 -   [std::strerror](CppStrerror.md): get pointer to error message
     string
--   [std::strlen](CppStrlen.md): get string length
+-   [std::strlen](CppStdStrlen.md): get string length
 -   [std::strncat](CppStrncat.md): append characters from string
 -   [std::strncmp](CppStrncmp.md): compare characters of two strings
 -   [std::strncpy](CppStrncpy.md): copy characters from string
@@ -49,7 +49,7 @@ file](CppHeaderFile.md)
     in string
 -   [std::strrspn](CppStrspn.md): get span of character set in string
 -   [std::strstr](CppStrstr.md): locate substring
--   [std::strtok](CppStrtok.md): split string into tokens
+-   [std::strtok](CppStdStrtok.md): split string into tokens
 -   [std::strxfrm](CppStrxfrm.md): transform string using locale
 
  

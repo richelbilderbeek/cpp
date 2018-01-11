@@ -21,7 +21,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
 ['HelloC++0x' using Qt Creator under
 Lubuntu](CppHelloCpp0xQtCreatorLubuntu.md) is a
-[HelloC++0x](CppHelloCpp0x.md) program.
+[HelloC++0x](CppHelloCpp11.md) program.
 
  
 

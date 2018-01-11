@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::lower\_bound](CppLower_bound.md)
+([C++](Cpp.md)) [std::lower\_bound](CppStdLower_bound.md)
 ========================================================
 
  
 
-[std::lower\_bound](CppLower_bound.md) is an [STL](CppStl.md)
+[std::lower\_bound](CppStdLower_bound.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to find an element in a
 [container](CppContainer.md) smaller than a certain value.
 

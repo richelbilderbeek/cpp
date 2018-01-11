@@ -73,8 +73,8 @@ More demanding examples are:
     Boost.Xpressive](CppHelloBoostXpressive.md): tests if the
     [Boost.Xpressive](CppBoostXpressive.md) [libraries](CppLibrary.md)
     are installed correctly
--   ![C++0x](PicCpp0x.png) [Hello C++0x](CppHelloCpp0x.md): tests if
-    [C++0x](Cpp0x.md) can be used
+-   ![C++0x](PicCpp0x.png) [Hello C++0x](CppHelloCpp11.md): tests if
+    [C++0x](Cpp11.md) can be used
 -   ![C++11](PicCpp11.png) [Hello C++11](CppHelloCpp11.md): tests if
     [C++11](Cpp11.md) can be used
 -   ![CLN](PicCln.png) [Hello CLN](CppHelloCln.md): tests if the

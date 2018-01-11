@@ -41,7 +41,7 @@ This is easier said than done.
 
 In this exercise you must replace **[for](CppFor.md)**-loops by using a
 combination of all those algorithm things like
-[std::for\_each](CppStdFor_each.md), [std::transform](CppTransform.md),
+[std::for\_each](CppStdFor_each.md), [std::transform](CppStdTransform.md),
 [std::bind1st](CppStdBind1st.md), [std::bind2nd](CppStdBind2nd.md),
 [std::multiplies](CppStdMultiplies.md) and more of the likes. It is up to
 you to find the correct combination.
@@ -164,7 +164,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 -   [std::back\_inserter](CppStdBack_inserter.md)
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 
@@ -195,7 +195,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::multiplies](CppStdMultiplies.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 
@@ -227,7 +227,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 -   [std::back\_inserter](CppStdBack_inserter.md)
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 
@@ -534,7 +534,7 @@ Question \#13: [MakeAbs](CppMakeAbs.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 -   your own [std::unary\_function](CppUnary_function.md)
 
  
@@ -565,7 +565,7 @@ Question \#14: [MakeSquare](CppMakeSquare.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 -   your own [std::unary\_function](CppUnary_function.md)
 
  
@@ -629,7 +629,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind1st](CppStdBind1st.md)
 -   [std::divides](CppStdDivides.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 
@@ -661,7 +661,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::divides](CppStdDivides.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 

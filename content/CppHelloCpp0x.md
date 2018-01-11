@@ -9,15 +9,15 @@
 
  
 
-([C++](Cpp.md)) [HelloC++0x](CppHelloCpp0x.md)
+([C++](Cpp.md)) [HelloC++0x](CppHelloCpp11.md)
 ================================================
 
  
 
-[HelloC++0x](CppHelloCpp0x.md) is an extension of [Hello
+[HelloC++0x](CppHelloCpp11.md) is an extension of [Hello
 World](CppHelloWorld.md). Like [Hello World](CppHelloWorld.md),
-[HelloC++0x](CppHelloCpp0x.md) is a simple console application.
-[HelloC++0x](CppHelloCpp0x.md), however, also requires the
+[HelloC++0x](CppHelloCpp11.md) is a simple console application.
+[HelloC++0x](CppHelloCpp11.md), however, also requires the
 [C++11](Cpp11.md) [standard](CppStandard.md) to
 [compile](CppCompiler.md).
 
@@ -28,7 +28,7 @@ variants are on the Internet.
 
  
 
-The code base of [HelloC++0x](CppHelloCpp0x.md) is:
+The code base of [HelloC++0x](CppHelloCpp11.md) is:
 
  
 
@@ -38,7 +38,7 @@ The code base of [HelloC++0x](CppHelloCpp0x.md) is:
 
  
 
-Here are some detailed examples of [HelloC++0x](CppHelloCpp0x.md),
+Here are some detailed examples of [HelloC++0x](CppHelloCpp11.md),
 depending on [IDE](CppIde.md) and operating system:
 
  

@@ -72,8 +72,8 @@ objects are in [namespace](CppNamespace.md) [boost](CppBoost.md).
 -   Pointer to function adapter
     -   [std::ptr\_fun](CppStdPtr_fun.md)
 -   [Negaters](CppNegater.md)
-    -   [std::not1](CppNot1.md)
-    -   [std::not2](CppNot2.md)
+    -   [std::not1](CppStdNot1.md)
+    -   [std::not2](CppStdNot2.md)
 
  
 

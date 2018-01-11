@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) [std::atoi](CppAtoi.md)
+([C++](Cpp.md)) [std::atoi](CppStdAtoi.md)
 =========================================
 
  
 
  
 
-[std::atoi](CppAtoi.md) is a [function](CppFunction.md) to
+[std::atoi](CppStdAtoi.md) is a [function](CppFunction.md) to
 [convert](CppConvert.md) a [character](CppChar.md) string to an
 [integer](CppInt.md).
 

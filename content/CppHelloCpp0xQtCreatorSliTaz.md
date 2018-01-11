@@ -21,7 +21,7 @@ Creator](PicQtCreator.png)![SliTaz](PicSliTaz.png)
 
 ['HelloC++0x' using Qt Creator under
 SliTaz](CppHelloCpp0xQtCreatorSliTaz.md) is a
-[HelloC++0x](CppHelloCpp0x.md) program.
+[HelloC++0x](CppHelloCpp11.md) program.
 
  
 

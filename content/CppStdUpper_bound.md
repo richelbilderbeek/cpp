@@ -9,19 +9,19 @@
 
  
 
-([C++](Cpp.md)) [std::upper\_bound](CppUpper_bound.md)
+([C++](Cpp.md)) [std::upper\_bound](CppStdUpper_bound.md)
 ========================================================
 
  
 
-[std::upper\_bound](CppUpper_bound.md) is an
+[std::upper\_bound](CppStdUpper_bound.md) is an
 [algorithm](CppAlgorithm.md) that [returns](CppReturn.md) the location
 where a given element can be inserted in a sorted
 [container](CppContainer.md) without violating the order.
 
  
 
-[std::upper\_bound](CppUpper_bound.md) is [defined](CppDefinition.md)
+[std::upper\_bound](CppStdUpper_bound.md) is [defined](CppDefinition.md)
 in the [header file](CppHeaderFile.md)
 [algorithm.h](CppAlgorithmH.md).
 

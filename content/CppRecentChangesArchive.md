@@ -52,7 +52,7 @@ Great stuff for historicians!
     [Wt::WAccordionLayout](CppWAccordionLayout.md)
 24. 26-09-2011: New page: [Wt::WFileResource](CppWFileResource.md)
 25. 26-09-2011: New page: [Wt::WItemDelegate](CppWItemDelegate.md)
-26. 24-09-2011: New page: [std::memcpy](CppMemcpy.md)
+26. 24-09-2011: New page: [std::memcpy](CppStdMemcpy.md)
 27. 24-09-2011: New page: [Wt::WBrush](CppWBrush.md)
 28. 24-09-2011: New page:
     [Wt::WLocalizedStrings](CppWLocalizedStrings.md)
@@ -60,7 +60,7 @@ Great stuff for historicians!
 30. 22-09-2011: New page: [std::move\_backward](CppStdMove_backward.md)
 31. 22-09-2011: New page: [Wt::WGroupBox](CppWGroupBox.md)
 32. 20-09-2011: New page: [std::is\_heap](CppStdIs_heap.md)
-33. 18-09-2011: New page: [std::setbase](CppSetbase.md)
+33. 18-09-2011: New page: [std::setbase](CppStdSetbase.md)
 34. 05-09-2011: New page: [::swprintf has not been
     declared](CppCompileErrorSwprintfHasNotBeenDeclared.md)
 35. 25-08-2011: New page: [std::all\_of](CppStdAll_of.md)
@@ -222,7 +222,7 @@ Great stuff for historicians!
 142. 15-05-2011: New page: [How to obtain the client's IP
     address?](CppWtGetIpAddress.md)
 143. 25-04-2011: Modified [std::atof](CppStdAtof.md): improved page source
-144. 25-04-2011: Modified [std::atoi](CppAtoi.md): improved page source
+144. 25-04-2011: Modified [std::atoi](CppStdAtoi.md): improved page source
 145. 22-04-2011: New page: [copy constructor](CppCopyConstructor.md)
 146. 22-04-2011: New page: [Encranger](CppEncranger.md)
 147. 15-04-2011: New page: [StrToWStr](CppStrToWStr.md)
@@ -902,7 +902,7 @@ Great stuff for historicians!
     content
 567. 17-09-2010: Modified [std::abs](CppStdAbs.md): added page content
 568. 16-09-2010: New page: [std::count](CppCount.md)
-569. 16-09-2010: New page: [std::not2](CppNot2.md)
+569. 16-09-2010: New page: [std::not2](CppStdNot2.md)
 570. 16-09-2010: New page:
     [DumbNewickToString](CppDumbNewickToString.md)
 571. 16-09-2010: New page:
@@ -948,7 +948,7 @@ Great stuff for historicians!
 595. 05-09-2010: New page: [In\_regex](CppIn_regex.md)
 596. 05-09-2010: New page: [std::getline](CppGetline.md)
 597. 05-09-2010: New page: [std::remove](CppStdRemove.md)
-598. 05-09-2010: New page: [std::strchr](CppStrchr.md): 1100th page!
+598. 05-09-2010: New page: [std::strchr](CppStdStrchr.md): 1100th page!
 599. 04-09-2010: New page: [QTableWidget](CppQTableWidget.md)
 600. 31-08-2010: New page:
     [GetSumProperDivisors](CppGetSumProperDivisors.md)
@@ -979,7 +979,7 @@ Great stuff for historicians!
 615. 22-08-2010: New page: [Genetic algorithm](CppGeneticAlgorithm.md)
 616. 22-08-2010: New page:
     [std::adjacent\_difference](CppAdjacent_difference.md)
-617. 22-08-2010: New page: [std::lower\_bound](CppLower_bound.md)
+617. 22-08-2010: New page: [std::lower\_bound](CppStdLower_bound.md)
 618. 22-08-2010: New page: [std::min\_element](CppStdMin_element.md)
 619. 22-08-2010: New page: [std::max\_element](CppStdMax_element.md)
 620. 22-08-2010: New page: [QPlainTextEdit](CppQPlainTextEdit.md)
@@ -1135,14 +1135,14 @@ Great stuff for historicians!
     webpages, GUI](CppFilesystemExample2.md)
 739. 02-08-2010: New page: [std::mismatch](CppStdMismatch.md)
 740. 02-08-2010: New page: [std::fopen](CppFopen.md)
-741. 02-08-2010: New page: [std::malloc](CppMalloc.md)
+741. 02-08-2010: New page: [std::malloc](CppStdMalloc.md)
 742. 02-08-2010: New page: [std::fixed](CppFixed.md)
 743. 02-08-2010: New page: [std::ctime](Cppstd::ctime.md)
 744. 02-08-2010: New page: [std::fclose](Cppstd::fclose.md)
 745. 02-08-2010: New page: [std::fseek](CppFseek.md)
 746. 02-08-2010: New page: [std::fputs](CppFputs.md)
-747. 02-08-2010: New page: [std::free](CppFree.md)
-748. 02-08-2010: New page: [std::realloc](CppRealloc.md)
+747. 02-08-2010: New page: [std::free](CppStdFree.md)
+748. 02-08-2010: New page: [std::realloc](CppStdRealloc.md)
 749. 02-08-2010: Modified [Undefined reference to
     'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystemGet_system_category.md):
     improved page source
@@ -1331,7 +1331,7 @@ Great stuff for historicians!
 897. 25-07-2010: New page: [Qt example 17: clickable QLabels showing an
     image](CppQtExample17.md)
 898. 24-07-2010: New page: [explicit](CppExplicit.md)
-899. 24-07-2010: New page: [std::not1](CppNot1.md)
+899. 24-07-2010: New page: [std::not1](CppStdNot1.md)
 900. 24-07-2010: New page: [strstream.h](CppStrstreamH.md)
 901. 24-07-2010: New page: [Cannot create a QWidget when no GUI is being
     used](CppRuntimeErrorCannotCreateAqwidgetWhenNoGuiIsBeingUsed.md)
@@ -1648,7 +1648,7 @@ Great stuff for historicians!
 1104. 14-05-2010: New page: [Macro](CppMacro.md)
 1105. 14-05-2010: New page: [NDEBUG](CppNDEBUG.md)
 1106. 14-05-2010: New page: [std::merge](CppMerge.md)
-1107. 14-05-2010: New page: [std::upper\_bound](CppUpper_bound.md)
+1107. 14-05-2010: New page: [std::upper\_bound](CppStdUpper_bound.md)
 1108. 14-05-2010: New page: [stream](CppStream.md)
 1109. 14-05-2010: New page: [std::list](CppStdList.md)
 1110. 14-05-2010: New page: [Audio](CppAudio.md)
@@ -2430,7 +2430,7 @@ Great stuff for historicians!
 1546. 30-12-2009: New page: [Destructor](CppDestructor.md) &gt;
 1547. 30-12-2009: New page: [virtual](CppVirtual.md)
 1548. 30-12-2009: New page: [protected](CppProtected.md)
-1549. 30-12-2009: New page: [std::transform](CppTransform.md)
+1549. 30-12-2009: New page: [std::transform](CppStdTransform.md)
 1550. 30-12-2009: New page: [Transform\_if](CppTransform_if.md)
 1551. 30-12-2009: New page: [Answer of exercise \#9: No for-loops
     \#8](CppExerciseNoForLoopsAnswer8.md)
@@ -2554,7 +2554,7 @@ Great stuff for historicians!
 1618. 10-10-2009: Modified [Template function](CppTemplateFunction.md):
     added internal links
 1619. 20-09-2009: New page: [std::atof](CppStdAtof.md)
-1620. 20-09-2009: New page: [std::atoi](CppAtoi.md)
+1620. 20-09-2009: New page: [std::atoi](CppStdAtoi.md)
 1621. 20-09-2009: New page: [RAND\_MAX](CppRAND_MAX.md)
 1622. 20-09-2009: New page: [else](CppElse.md)
 1623. 20-09-2009: New page: [new](CppNew.md)
@@ -2896,7 +2896,7 @@ Great stuff for historicians!
 1817. 27-04-2009: Modified [C++ Glossary](CppGlossary.md): added
     internal links
 1818. 27-04-2009: New page: [Sine](CppSine.md)
-1819. 27-04-2009: New page: [std::sin](CppSin.md)
+1819. 27-04-2009: New page: [std::sin](CppStdSin.md)
 1820. 14-03-2009: Modified [std::string](CppStdString.md): added internal
     links
 1821. 28-02-2009: Modified [StrToLower](CppStrToLower.md): added

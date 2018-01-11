@@ -36,7 +36,7 @@ Replace the [for](CppFor.md)-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::divides](CppStdDivides.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 

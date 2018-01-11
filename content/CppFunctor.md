@@ -102,8 +102,8 @@ duty by calling its [operator()](CppOperatorFunctionCall.md).
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::mem\_fun](CppStdMem_fun.md)
 -   [std::mem\_fun\_ref](CppStdMem_fun_ref.md)
--   [std::not1](CppNot1.md)
--   [std::not2](CppNot2.md)
+-   [std::not1](CppStdNot1.md)
+-   [std::not2](CppStdNot2.md)
 
  
 

@@ -36,7 +36,7 @@ Replace the [for](CppFor.md)-loop. You will need
 
 -   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::multiplies](CppStdMultiplies.md)
--   [std::transform](CppTransform.md)
+-   [std::transform](CppStdTransform.md)
 
  
 

@@ -31,7 +31,7 @@ areas \[1\]:
     [new](CppNew.md)/[delete](CppDelete.md). Prefer using the free
     store \[2\]
 -   Heap: dynamic memory area allocated/freed by
-    [malloc](CppMalloc.md)/[free](CppFree.md). Avoid using the heap
+    [malloc](CppStdMalloc.md)/[free](CppStdFree.md). Avoid using the heap
     \[3\]
 -   Global/static: [global](CppGlobal.md)/[static](CppStatic.md)
     [variables](CppVariable.md) that are initialized at program startup
