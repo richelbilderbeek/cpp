@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::printf](CppPrintf.md)
+([C++](Cpp.md)) [std::printf](CppStdPrintf.md)
 =============================================
 
  
 
-[std::printf](CppPrintf.md) is an [STL](CppStl.md)
+[std::printf](CppStdPrintf.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to write formatted output to
 [std::cout](CppStdCout.md).
 
  
 
-[std::printf](CppPrintf.md) is not typesafe (see example below). For a
+[std::printf](CppStdPrintf.md) is not typesafe (see example below). For a
 type-safe alternative, use [boost::format](CppFormat.md) instead.
 
  

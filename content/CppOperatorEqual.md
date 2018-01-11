@@ -16,7 +16,7 @@ int main()
 ```
 
 [operator==](CppOperatorEqual.md) is encapsulated by the
-[functor](CppFunctor.md) [std::equal\_to](CppEqual_to.md).
+[functor](CppFunctor.md) [std::equal\_to](CppStdEqual_to.md).
 
 ## Overloading [operator==](CppOperatorEqual.md) for a user-defined type
 

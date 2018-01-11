@@ -55,7 +55,7 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
 21. [std::getchar](CppGetchar.md)
 22. [std::gets](CppGets.md)
 23. [std::perror](CppPerror.md)
-24. [std::printf](CppPrintf.md)
+24. [std::printf](CppStdPrintf.md)
 25. [std::putc](CppPutc.md)
 26. [std::putchar](CppPutchar.md)
 27. [std::puts](CppPuts.md)

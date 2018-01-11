@@ -20,7 +20,7 @@ file](CppHeaderFile.md), containing the
 in the [exception hierarchy](CppExceptionHierarchy.md) (incomplete
 list):
 
--   [std::bad\_alloc](CppBad_alloc.md)
+-   [std::bad\_alloc](CppStdBad_alloc.md)
 -   [std::bad\_cast](CppBad_cast.md)
 -   [std::bad\_exception](CppBad_exception.md)
 -   [std::bad\_typeid](CppBad_typeid.md)
@@ -29,8 +29,8 @@ list):
 -   [std::invalid\_argument](CppInvalid_argument.md)
 -   std::ios\_base::failure
 -   [std::length\_error](CppLength_error.md)
--   [std::logic\_error](CppLogic_error.md)
--   [std::out\_of\_range](CppOut_of_range.md)
+-   [std::logic\_error](CppStdLogic_error.md)
+-   [std::out\_of\_range](CppStdOut_of_range.md)
 -   [std::overflow\_error](CppOverflow_error.md)
 -   [std::range\_error](CppRange_error.md)
 -   [std::runtime\_error](CppRuntime_error.md)

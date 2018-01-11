@@ -66,9 +66,9 @@ objects are in [namespace](CppNamespace.md) [boost](CppBoost.md).
     -   [std::bind2nd](CppStdBind2nd.md)
     -   [boost::bind](CppStdBind.md)
 -   Member function adapters
-    -   [std::mem\_fun](CppMem_fun.md)
-    -   [std::mem\_fun\_ref](CppMem_fun_ref.md)
-    -   [boost::mem\_fn](CppMem_fn.md)
+    -   [std::mem\_fun](CppStdMem_fun.md)
+    -   [std::mem\_fun\_ref](CppStdMem_fun_ref.md)
+    -   [boost::mem\_fn](CppStdMem_fn.md)
 -   Pointer to function adapter
     -   [std::ptr\_fun](CppStdPtr_fun.md)
 -   [Negaters](CppNegater.md)

@@ -9,19 +9,19 @@
 
  
 
-([C++](Cpp.md)) [Boost.Random example 2: storing and retrieving a normal distribution's state](CppRandomExample2.md)
+([C++](Cpp.md)) [Boost.Random example 2: storing and retrieving a normal distribution's state](CppStdRand.mdomExample2.md)
 ======================================================================================================================
 
  
 
 [Boost.Random example 2: storing and retrieving a normal distribution's
-state](CppRandomExample2.md) is a [Boost.Random](CppRandom.md)
+state](CppStdRand.mdomExample2.md) is a [Boost.Random](CppStdRand.mdom.md)
 example.
 
  
 
 -   [Download the Qt Creator project
-    'CppRandomExample2' (zip)](CppRandomExample2.zip)
+    'CppStdRand.mdomExample2' (zip)](CppStdRand.mdomExample2.zip)
 
  
 
@@ -36,7 +36,7 @@ example.
  
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <cassert> #include <fstream> #include <iostream> #include <boost/random/normal_distribution.hpp> #include <boost/random/lagged_fibonacci.hpp> //From http://www.richelbilderbeek.nl/CppRandomExample2.htm struct MyRandomNormal {   MyRandomNormal()   {     {       std::ifstream f("engine.txt");       f >> m_engine;     }     {       std::ifstream f("norm_dist.txt");       f >> m_norm_dist;     }   }   MyRandomNormal(const double mean, const double stddev)     : m_norm_dist(mean,stddev)   {   }   ~MyRandomNormal()   {     {       std::ofstream f("engine.txt");       f << m_engine;     }     {       std::ofstream f("norm_dist.txt");       f << m_norm_dist;     }   }   double Get()   {     return m_norm_dist.operator ()<boost::lagged_fibonacci19937>((m_engine));   }   boost::lagged_fibonacci19937 m_engine;   boost::normal_distribution<double> m_norm_dist; }; int main() {   const double mean = 1.1;   const double stddev = 2.2;   {     MyRandomNormal x(mean,stddev);   }   {     MyRandomNormal x;     assert(x.m_norm_dist.mean() == mean);     assert(x.m_norm_dist.sigma() == stddev);   } }  `
+  ` #include <cassert> #include <fstream> #include <iostream> #include <boost/random/normal_distribution.hpp> #include <boost/random/lagged_fibonacci.hpp> //From http://www.richelbilderbeek.nl/CppStdRand.mdomExample2.htm struct MyRandomNormal {   MyRandomNormal()   {     {       std::ifstream f("engine.txt");       f >> m_engine;     }     {       std::ifstream f("norm_dist.txt");       f >> m_norm_dist;     }   }   MyRandomNormal(const double mean, const double stddev)     : m_norm_dist(mean,stddev)   {   }   ~MyRandomNormal()   {     {       std::ofstream f("engine.txt");       f << m_engine;     }     {       std::ofstream f("norm_dist.txt");       f << m_norm_dist;     }   }   double Get()   {     return m_norm_dist.operator ()<boost::lagged_fibonacci19937>((m_engine));   }   boost::lagged_fibonacci19937 m_engine;   boost::normal_distribution<double> m_norm_dist; }; int main() {   const double mean = 1.1;   const double stddev = 2.2;   {     MyRandomNormal x(mean,stddev);   }   {     MyRandomNormal x;     assert(x.m_norm_dist.mean() == mean);     assert(x.m_norm_dist.sigma() == stddev);   } }  `
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

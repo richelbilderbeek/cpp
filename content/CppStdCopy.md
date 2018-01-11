@@ -8,7 +8,7 @@ valid. For example, if you copy a [std::vector](CppStdVector.md) of size
 10 to another [std::vector](CppStdVector.md), the latter must have a size
 of 10 at least. But if the size is unknown, use an
 [inserter](CppInserter.md) like
-[std::back_inserter](CppBack_inserter.md).
+[std::back_inserter](CppStdBack_inserter.md).
 
 Related algorithms are:
 

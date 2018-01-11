@@ -15,7 +15,7 @@
  
 
 An [exception](CppException.md) that cannot be detected by reading the
-code (opposite of the [std::logic\_error](CppLogic_error.md), that can
+code (opposite of the [std::logic\_error](CppStdLogic_error.md), that can
 theoretically be detected).
 
  

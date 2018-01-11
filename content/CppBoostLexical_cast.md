@@ -23,7 +23,7 @@ type](CppDataType.md). [CanLexicalCast](CppCanLexicalCast.md) can
  
 
 The [C++11](Cpp11.md) equivalent to [convert](CppConvert.md) to a
-[std::string](CppStdString.md) is [std::to\_string](CppTo_string.md).
+[std::string](CppStdString.md) is [std::to\_string](CppStdTo_string.md).
 
  
 

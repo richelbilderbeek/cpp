@@ -15,9 +15,9 @@
  
 
 [std::stable\_sort](CppStable_sort.md) is an [STL](CppStl.md)
-[sorting](CppSort.md) [algorithm](CppAlgorithm.md). It differs from
-[std::sort](CppSort.md) in that it preserves the order in equivalent
-elemenst (where [std::sort](CppSort.md) might change this order).
+[sorting](CppStdSort.md) [algorithm](CppAlgorithm.md). It differs from
+[std::sort](CppStdSort.md) in that it preserves the order in equivalent
+elemenst (where [std::sort](CppStdSort.md) might change this order).
 
  
 

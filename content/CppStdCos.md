@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::cos](CppCos.md)
+([C++](Cpp.md)) [std::cos](CppStdCos.md)
 =======================================
 
  
 
-[std::cos](CppCos.md) is a [mathematical](CppMath.md)
+[std::cos](CppStdCos.md) is a [mathematical](CppMath.md)
 [function](CppFunction.md) to calculate the cosine.
 
  

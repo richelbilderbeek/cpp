@@ -117,7 +117,7 @@
     elements](CppProduct.md)
 58. [ProductNonZeroPositives, calculate the product of all non-zero
     positive values in a std::vector](CppProductNonZeroPositives.md)
-59. [Random number code snippets](CppRandomNumber.md)
+59. [Random number code snippets](CppStdRand.mdomNumber.md)
 60. [Reciprocal, replace all values in a std::vector by their
     reciprocals](CppReciprocal.md)
 61. [Replace all values in a std::vector by their absolutes,

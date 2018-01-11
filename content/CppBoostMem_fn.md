@@ -9,21 +9,21 @@
 
  
 
-([C++](Cpp.md)) [boost::mem\_fn](CppMem_fn.md)
+([C++](Cpp.md)) [boost::mem\_fn](CppStdMem_fn.md)
 ================================================
 
  
 
-[boost::mem\_fn](CppMem_fn.md) is an [adapter](CppAdapter.md),
+[boost::mem\_fn](CppStdMem_fn.md) is an [adapter](CppAdapter.md),
 intended to be more flexible than [STL](CppStl.md)
-[adapters](CppAdapter.md) like [std::mem\_fun](CppMem_fun.md) and
-[std::mem\_fun\_ref](CppMem_fun_ref.md).
+[adapters](CppAdapter.md) like [std::mem\_fun](CppStdMem_fun.md) and
+[std::mem\_fun\_ref](CppStdMem_fun_ref.md).
 
  
 
-[boost::mem\_fn](CppMem_fn.md) can often replace both
-[std::mem\_fun](CppMem_fun.md) and
-[std::mem\_fun\_ref](CppMem_fun_ref.md).
+[boost::mem\_fn](CppStdMem_fn.md) can often replace both
+[std::mem\_fun](CppStdMem_fun.md) and
+[std::mem\_fun\_ref](CppStdMem_fun_ref.md).
 
  
 

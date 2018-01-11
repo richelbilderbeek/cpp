@@ -17,7 +17,7 @@
 [Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate
 ([integer](CppInt.md)) X to the power of ([integer](CppInt.md)) Y.
 [IntPower](CppIntPower.md) is the [integer](CppInt.md) variant of
-[std::pow](CppPow.md).
+[std::pow](CppStdPow.md).
 
  
 

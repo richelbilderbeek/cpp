@@ -14,10 +14,10 @@
 
  
 
-[BubbleSort](CppBubbleSort.md) is a [sorting](CppSort.md) [code
+[BubbleSort](CppBubbleSort.md) is a [sorting](CppStdSort.md) [code
 snippet](CppCodeSnippets.md) to perform a bubble sort. Prefer to use
 the [STL](CppStl.md) [algorithm](CppAlgorithm.md)
-[std::sort](CppSort.md).
+[std::sort](CppStdSort.md).
 
  
 
@@ -41,7 +41,7 @@ BubbleSort test
  
 
 The code below tests [BubbleSort](CppBubbleSort.md) by checking if it
-yields the same results as [std::sort](CppSort.md).
+yields the same results as [std::sort](CppStdSort.md).
 
  
 

@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::equal\_to](CppEqual_to.md)
+([C++](Cpp.md)) [std::equal\_to](CppStdEqual_to.md)
 ==================================================
 
  
@@ -19,7 +19,7 @@
 
  
 
-[std::equal\_to](CppEqual_to.md) works better on [int](CppInt.md) than
+[std::equal\_to](CppStdEqual_to.md) works better on [int](CppInt.md) than
 on [double](CppDouble.md), because of rounding errors.
 [fuzzy\_equal\_to](CppFuzzy_equal_to.md) can be used for testing two
 [double](CppDouble.md) for equality with some tolerance.

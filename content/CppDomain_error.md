@@ -22,8 +22,8 @@ mathematically invalid domain is used.
 
 [std::domain\_error](CppDomain_error.md) is a [derived
 class](CppDerivedClass.md) from
-[std::logic\_error](CppLogic_error.md).
-[std::logic\_error](CppLogic_error.md) is a [derived
+[std::logic\_error](CppStdLogic_error.md).
+[std::logic\_error](CppStdLogic_error.md) is a [derived
 class](CppDerivedClass.md) from [td::exception](CppException.md).
 
  

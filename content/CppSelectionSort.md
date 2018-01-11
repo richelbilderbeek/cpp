@@ -14,7 +14,7 @@
 
  
 
-[SelectionSort](CppSelectionSort.md) is a [sort](CppSort.md) [code
+[SelectionSort](CppSelectionSort.md) is a [sort](CppStdSort.md) [code
 snippet](CppCodeSnippets.md) to perform a selection sort.
 
  

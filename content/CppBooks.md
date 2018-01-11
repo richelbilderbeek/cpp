@@ -10,7 +10,7 @@ for a book, pay attention to the following:
  * It should use '[int](CppInt.md) [main](CppMain.md)' instead of '[void](CppVoid.md) [main](CppMain.md)' [1-5]
  * It should use '[string](CppStdString.md)', instead of '[char](CppChar.md) \*' [6-10]
  * It should use '[vector](CppStdVector.md)', instead of [arrays](CppArray.md) [6-10]
- * It should use '[cout](CppStdCout.md)', instead of '[printf](CppPrintf.md)' (which is an unsafe C function)
+ * It should use '[cout](CppStdCout.md)', instead of '[printf](CppStdPrintf.md)' (which is an unsafe C function)
  * It should not encourage the use of [macro](CppMacro.md)'s [11,12]
  * It should encourage the use of [const](CppConst.md)[13-17]
 

@@ -15,8 +15,8 @@
  
 
 [std::partial\_sort](CppPartial_sort.md) is an [STL](CppStl.md)
-[sorting](CppSort.md) [algorithm](CppAlgorithm.md) to partially
-[sort](CppSort.md) a [container](CppContainer.md).
+[sorting](CppStdSort.md) [algorithm](CppAlgorithm.md) to partially
+[sort](CppStdSort.md) a [container](CppContainer.md).
 
  
 

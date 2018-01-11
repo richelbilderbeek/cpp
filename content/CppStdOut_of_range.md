@@ -9,13 +9,13 @@
 
  
 
-([C++](Cpp.md)) [std::out\_of\_range](CppOut_of_range.md)
+([C++](Cpp.md)) [std::out\_of\_range](CppStdOut_of_range.md)
 ===========================================================
 
  
 
 An [exception](CppException.md) [derived](CppDerivedClass.md) from
-[std::logic\_error](CppLogic_error.md) that can be
+[std::logic\_error](CppStdLogic_error.md) that can be
 [thrown](CppThrow.md) by the 'at' [member
 function](CppMemberFunction.md) (from, for example, a
 [std::vector](CppStdVector.md)) and
@@ -23,7 +23,7 @@ function](CppMemberFunction.md) (from, for example, a
 
  
 
-[std::out\_of\_range](CppOut_of_range.md) is
+[std::out\_of\_range](CppStdOut_of_range.md) is
 [defined](CppDefinition.md) in the [header file](CppHeaderFile.md)
 [stdexcept](CppStdexceptH.md).
 

@@ -15,7 +15,7 @@
  
 
 [GetRandomInt64](CppGetRandomInt64.md) is an [integer](CppInt.md)
-[code snippet](CppCodeSnippets.md) to obtain a [random](CppRandom.md)
+[code snippet](CppCodeSnippets.md) to obtain a [random](CppStdRand.mdom.md)
 [int64\_t](CppInt64_t.md).
 
  

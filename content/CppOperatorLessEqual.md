@@ -33,7 +33,7 @@ determine that one plus two is less or equal equal to three:
  
 
 [operator&lt;=](CppOperatorLessEqual.md) is encapsulated by the
-[functor](CppFunctor.md) [std::less\_equal](CppLess_equal.md).
+[functor](CppFunctor.md) [std::less\_equal](CppStdLess_equal.md).
 
  
 

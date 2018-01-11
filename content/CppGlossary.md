@@ -292,7 +292,7 @@
 -   [Boost.Program\_options example 1:
     basics](CppStdProgram_optionsExample1.md)
 -   [Boost.Random example 2: storing and retrieving a normal
-    distribution's state](CppRandomExample2.md)
+    distribution's state](CppStdRand.mdomExample2.md)
 -   [Boost.Ref](CppBoostRef.md)
 -   [Boost.Regex](CppBoostRegex.md)
 -   [Boost.Signals](CppBoostSignals.md)
@@ -2272,10 +2272,10 @@
 -   [Rainbow](CppRainbow.md)
 -   [Ralph Johnson](CppRalphJohnson.md)
 -   [RAND\_MAX](CppRAND_MAX.md)
--   [Random number](CppRandomNumber.md)
--   [RandomCode](CppRandomCode.md)
--   [RandomizeTimer](CppRandomizeTimer.md)
--   [RandomShuffle](CppRandomShuffle.md)
+-   [Random number](CppStdRand.mdomNumber.md)
+-   [RandomCode](CppStdRand.mdomCode.md)
+-   [RandomizeTimer](CppStdRand.mdomizeTimer.md)
+-   [RandomShuffle](CppStdRand.mdomShuffle.md)
 -   [RangeForExample1](CppRangeForExample1.md)
 -   [Raspberry Pi](CppRpi.md)
 -   [RaspberryPi](CppRaspberryPi.md)

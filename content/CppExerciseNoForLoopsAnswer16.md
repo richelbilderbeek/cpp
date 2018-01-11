@@ -35,7 +35,7 @@ Question \#16: Reciprocal
 Replace the [for](CppFor.md)-loop. You will need:
 
 -   [std::bind1st](CppStdBind1st.md)
--   [std::divides](CppDivides.md)
+-   [std::divides](CppStdDivides.md)
 -   [std::transform](CppTransform.md)
 
  

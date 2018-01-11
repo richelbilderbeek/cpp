@@ -218,7 +218,7 @@ streamable version of flags and fields.
 -   [std::setw](CppSetw.md)
 -   [std::showbase](CppShowbase.md)
 -   [std::showpoint](CppShowpoint.md)
--   [std::showpos](CppShowpos.md)
+-   [std::showpos](CppStdShowpos.md)
 -   [std::skipws](CppSkipws.md)
 -   [std::uppercase](CppUppercase.md)
 

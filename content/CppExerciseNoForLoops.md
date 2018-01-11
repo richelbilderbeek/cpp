@@ -43,7 +43,7 @@ In this exercise you must replace **[for](CppFor.md)**-loops by using a
 combination of all those algorithm things like
 [std::for\_each](CppStdFor_each.md), [std::transform](CppTransform.md),
 [std::bind1st](CppStdBind1st.md), [std::bind2nd](CppStdBind2nd.md),
-[std::multiplies](CppMultiplies.md) and more of the likes. It is up to
+[std::multiplies](CppStdMultiplies.md) and more of the likes. It is up to
 you to find the correct combination.
 
  
@@ -132,7 +132,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::for\_each](CppStdFor_each.md)
--   [std::multiplies](CppMultiplies.md)
+-   [std::multiplies](CppStdMultiplies.md)
 
  
 
@@ -161,7 +161,7 @@ Question \#1: [AddTwo](CppAddTwo.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::back\_inserter](CppBack_inserter.md)
+-   [std::back\_inserter](CppStdBack_inserter.md)
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
@@ -194,7 +194,7 @@ Question \#2: [Multiply](CppMultiply.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
--   [std::multiplies](CppMultiplies.md)
+-   [std::multiplies](CppStdMultiplies.md)
 -   [std::transform](CppTransform.md)
 
  
@@ -224,7 +224,7 @@ Question \#3: [Add](CppAdd.md)
 
 Replace the **[for](CppFor.md)**-loop. You will need:
 
--   [std::back\_inserter](CppBack_inserter.md)
+-   [std::back\_inserter](CppStdBack_inserter.md)
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::plus](CppStdPlus.md)
 -   [std::transform](CppTransform.md)
@@ -257,8 +257,8 @@ Question \#4: Widget::DoIt on Widget
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::for\_each](CppStdFor_each.md)
--   [std::mem\_fun\_ref](CppMem_fun.md) (or
-    [boost::mem\_fn](CppMem_fn.md))
+-   [std::mem\_fun\_ref](CppStdMem_fun.md) (or
+    [boost::mem\_fn](CppStdMem_fn.md))
 
  
 
@@ -289,8 +289,8 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::for\_each](CppStdFor_each.md)
--   [std::mem\_fun\_ref](CppMem_fun.md) (or
-    [boost::mem\_fn](CppMem_fn.md))
+-   [std::mem\_fun\_ref](CppStdMem_fun.md) (or
+    [boost::mem\_fn](CppStdMem_fn.md))
 
  
 
@@ -320,7 +320,7 @@ Question \#6: Widget::DoIt on Widget\*
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::for\_each](CppStdFor_each.md)
--   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
+-   [std::mem\_fun](CppStdMem_fun.md) (or [boost::mem\_fn](CppStdMem_fn.md))
 
  
 
@@ -351,7 +351,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::for\_each](CppStdFor_each.md)
--   [std::mem\_fun](CppMem_fun.md) (or [boost::mem\_fn](CppMem_fn.md))
+-   [std::mem\_fun](CppStdMem_fun.md) (or [boost::mem\_fn](CppStdMem_fn.md))
 
  
 
@@ -410,7 +410,7 @@ Question \#9: [Product](CppProduct.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::accumulate](CppStdAccumulate.md)
--   [std::multiplies](CppMultiplies.md)
+-   [std::multiplies](CppStdMultiplies.md)
 
  
 
@@ -440,7 +440,7 @@ Question \#10: Widget::DoIt on boost::shared\_ptr&lt;Widget&gt;
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::for\_each](CppStdFor_each.md)
--   [boost::mem\_fn](CppMem_fn.md)
+-   [boost::mem\_fn](CppStdMem_fn.md)
 
  
 
@@ -628,7 +628,7 @@ Question \#16: [Reciprocal](CppReciprocal.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind1st](CppStdBind1st.md)
--   [std::divides](CppDivides.md)
+-   [std::divides](CppStdDivides.md)
 -   [std::transform](CppTransform.md)
 
  
@@ -660,7 +660,7 @@ Question \#17: [Halve](CppHalve.md)
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
--   [std::divides](CppDivides.md)
+-   [std::divides](CppStdDivides.md)
 -   [std::transform](CppTransform.md)
 
  
@@ -724,7 +724,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
 -   [std::greater](CppStdGreater.md)
--   [std::multiplies](CppMultiplies.md)
+-   [std::multiplies](CppStdMultiplies.md)
 -   A conditional [std::accumulate](CppStdAccumulate.md)
 
  

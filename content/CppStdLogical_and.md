@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::logical\_and](CppLogical_and.md)
+([C++](Cpp.md)) [std::logical\_and](CppStdLogical_and.md)
 ========================================================
 
  
 
-[std::logical\_and](CppLogical_not.md) is a [functor](CppFunctor.md)
+[std::logical\_and](CppStdLogical_not.md) is a [functor](CppFunctor.md)
 that performs a [operator&&](CppOperatorLogicalAnd.md) on two elements.
 
  

@@ -9,16 +9,16 @@
 
  
 
-([C++](Cpp.md)) ![C++98](PicCpp98.png) [std::mem\_fun\_ref](CppMem_fun_ref.md)
+([C++](Cpp.md)) ![C++98](PicCpp98.png) [std::mem\_fun\_ref](CppStdMem_fun_ref.md)
 ================================================================================
 
  
 
-[std::mem\_fun\_ref](CppMem_fun_ref.md) is an adapter to be able to use
+[std::mem\_fun\_ref](CppStdMem_fun_ref.md) is an adapter to be able to use
 [algorithms](CppAlgorithm.md) on a [member
 function](CppMemberFunction.md) of T stored in a
 [container](CppContainer.md) as T (compare
-[std::mem\_fun](CppMem_fun.md), to use [algorithms](CppAlgorithm.md)
+[std::mem\_fun](CppStdMem_fun.md), to use [algorithms](CppAlgorithm.md)
 on a [member function](CppMemberFunction.md) of T stored in a
 [container](CppContainer.md) as T\* ).
 
@@ -56,7 +56,7 @@ Full example
  
 
 -   ![Qt Creator](PicQtCreator.png) [Download the Qt Creator project
-    'CppMem\_fun\_ref' (zip)](CppMem_fun_ref.md)
+    'CppMem\_fun\_ref' (zip)](CppStdMem_fun_ref.md)
 
  
 

@@ -36,8 +36,8 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md) (or [boost::bind](CppStdBind.md))
 -   [std::for\_each](CppStdFor_each.md)
--   [std::mem\_fun\_ref](CppMem_fun.md) (or
-    [boost::mem\_fn](CppMem_fn.md))
+-   [std::mem\_fun\_ref](CppStdMem_fun.md) (or
+    [boost::mem\_fn](CppStdMem_fn.md))
 
  
 
@@ -85,7 +85,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
  
 
-Note that you do not need [boost::mem\_fn](CppMem_fn.md), because it is
+Note that you do not need [boost::mem\_fn](CppStdMem_fn.md), because it is
 added for you. If this is done by hand, like in the code below, the
 solution is still correct.
 

@@ -62,7 +62,7 @@ Found in '/usr/include/c++/4.7/tr1':
 -   [cwctype](CppCctypeH.md)
 -   [functional](CppFunctionalH.md)
 -   [memory](CppMemoryH.md)
--   [random](CppRandomH.md)
+-   [random](CppStdRand.mdomH.md)
 -   [regex](CppRegexH.md)
 -   [tuple](CppTupleH.md)
 -   [type\_traits](CppType_traitsH.md)

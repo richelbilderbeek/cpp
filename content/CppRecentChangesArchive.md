@@ -36,7 +36,7 @@ Great stuff for historicians!
     [HistogramEqualization](CppHistogramEqualization.md)
 11. 01-10-2011: New page: [std::islower](CppIslower.md)
 12. 01-10-2011: New page: [std::isupper](CppIsupper.md)
-13. 01-10-2011: New page: [std::to\_string](CppTo_string.md)
+13. 01-10-2011: New page: [std::to\_string](CppStdTo_string.md)
 14. 01-10-2011: New page: [Wt::WPen](CppWPen.md)
 15. 01-10-2011: Modified [StrToDouble](CppStrToDouble.md): improved
     page source
@@ -97,7 +97,7 @@ Great stuff for historicians!
 59. 13-08-2011: New page: [std::minmax\_element](CppStdMinmax_element.md)
 60. 13-08-2011: New page: [std::tuple](CppTuple.md)
 61. 13-08-2011: New page: [XML](CppXml.md)
-62. 08-08-2011: Modified [std::bad\_alloc](CppBad_alloc.md): improved
+62. 08-08-2011: Modified [std::bad\_alloc](CppStdBad_alloc.md): improved
     page source
 63. 07-08-2011: Modified [purpose of using
     functions](CppFunctionPurpose.md): improved page source
@@ -124,7 +124,7 @@ Great stuff for historicians!
     using std::mutex](CppHelgrindExample2.md)
 76. 02-08-2011: New page: [helgrind example 3: Hello
     Wt](CppHelgrindExample3.md)
-77. 02-08-2011: New page: [std::greater\_equal](CppGreater_equal.md)
+77. 02-08-2011: New page: [std::greater\_equal](CppStdGreater_equal.md)
 78. 02-08-2011: Modified [operator=](CppOperatorAssign.md): improved
     page source
 79. 01-08-2011: Modified [GetValueInMap](CppGetValueInMap.md): improved
@@ -279,7 +279,7 @@ Great stuff for historicians!
     function](CppExerciseFoolproofFunctionAnswer.md): improved page
     source
 187. 26-03-2011: New page: [WtTextUploader](CppWtTextUploader.md)
-188. 25-03-2011: New page: [std::logical\_or](CppLogical_or.md)
+188. 25-03-2011: New page: [std::logical\_or](CppStdLogical_or.md)
 189. 24-03-2011: New page: [make error: FAILED mifconvwrapper for
     arm.v5.udeb.gcce4\_4\_1:
     BITMAP](CppMakeErrorRecipeMifconvwrapperFailedWithExitCode1.md)
@@ -312,7 +312,7 @@ Great stuff for historicians!
 209. 25-02-2011: Modified [Answer of exercise \#9: No for-loops
     \#7](CppExerciseNoForLoopsAnswer7.md): improved page source
 210. 24-02-2011: New page: [fuzzy\_equal\_to](CppFuzzy_equal_to.md)
-211. 24-02-2011: Modified [std::equal](CppEqual.md): improved page
+211. 24-02-2011: Modified [std::equal](CppStdEqual.md): improved page
     source
 212. 17-02-2011: Modified [\[...\]\\NAME.LIB contains invalid OMF
     record, type 0x21
@@ -336,7 +336,7 @@ Great stuff for historicians!
     modes](CppQtCreatorDifferences.md)
 223. 09-02-2011: New page: [std::iswgraph](CppIswgraph.md)
 224. 09-02-2011: New page: [std::noshowpos](CppNoshowpos.md)
-225. 09-02-2011: New page: [std::showpos](CppShowpos.md)
+225. 09-02-2011: New page: [std::showpos](CppStdShowpos.md)
 226. 09-02-2011: Modified [Exercise \#3: Don't give away your
     internals](CppExerciseDontGiveAwayYourInternals.md): improved page
     source
@@ -511,7 +511,7 @@ Great stuff for historicians!
     application](CppDesktopApplication.md)
 345. 23-12-2010: New page: [TicTacToe](CppTicTacToe.md)
 346. 23-12-2010: New page: [Web application](CppWebApplication.md)
-347. 23-12-2010: Modified [Random number](CppRandomNumber.md): improved
+347. 23-12-2010: Modified [Random number](CppStdRand.mdomNumber.md): improved
     page source
 348. 22-12-2010: New page: [Why are some pages
     messy?](CppMessyPages.md)
@@ -535,7 +535,7 @@ Great stuff for historicians!
 359. 12-12-2010: New page:
     [boost::algorithm::trim\_left](CppTrim_left.md)
 360. 12-12-2010: New page:
-    [boost::algorithm::find\_first](CppFind_first.md)
+    [boost::algorithm::find\_first](CppStdFind_first.md)
 361. 12-12-2010: New page: [std::isdigit](CppIsdigit.md)
 362. 12-12-2010: New page: [std::iswdigit](CppIswdigit.md)
 363. 12-12-2010: New page: [std::isxdigit](CppIsxdigit.md)
@@ -856,7 +856,7 @@ Great stuff for historicians!
 540. 23-09-2010: New page: [How to cross-compile a Qt Creator project
     from Ubuntu to a windows
     executable?](CppQtCrosscompileToWindows.md)
-541. 23-09-2010: New page: [std::find\_end](CppFind_end.md)
+541. 23-09-2010: New page: [std::find\_end](CppStdFind_end.md)
 542. 23-09-2010: New page: [std::setfill](CppSetfill.md)
 543. 23-09-2010: New page: [std::setw](CppSetw.md)
 544. 22-09-2010: Modified [IsInt](CppIsInt.md): improved page source
@@ -887,7 +887,7 @@ Great stuff for historicians!
     'QListData::detach\_grow'](CppLinkErrorUndefinedReferenceToQListData.md)
 557. 17-09-2010: New page: [boost::format](CppFormat.md)
 558. 17-09-2010: New page: [std::fabs](CppFabs.md)
-559. 17-09-2010: New page: [std::printf](CppPrintf.md)
+559. 17-09-2010: New page: [std::printf](CppStdPrintf.md)
 560. 17-09-2010: New page: [GetBoostVersion](CppGetBoostVersion.md)
 561. 17-09-2010: New page: [Version](CppVersion.md)
 562. 17-09-2010: New page: [undefined reference to
@@ -990,7 +990,7 @@ Great stuff for historicians!
 623. 21-08-2010: New page: [GetRootBranches](CppGetRootBranches.md)
 624. 21-08-2010: New page: [GetSimplerNewicks](CppGetSimplerNewicks.md)
 625. 21-08-2010: New page: [IsBinaryNewick](CppIsBinaryNewick.md)
-626. 20-08-2010: New page: [std::less\_equal](CppLess_equal.md)
+626. 20-08-2010: New page: [std::less\_equal](CppStdLess_equal.md)
 627. 19-08-2010: New page: [Newick](CppNewick.md)
 628. 19-08-2010: New page: [CheckNewick](CppCheckNewick.md)
 629. 19-08-2010: New page: [CompressNewick](CppCompressNewick.md)
@@ -1009,7 +1009,7 @@ Great stuff for historicians!
 642. 18-08-2010: New page: [operator::](CppOperatorScope.md)
 643. 18-08-2010: New page: [make](CppMake.md)
 644. 18-08-2010: New page: [std::clock](CppStdClock.md)
-645. 18-08-2010: New page: [std::modulus](CppModulus.md)
+645. 18-08-2010: New page: [std::modulus](CppStdModulus.md)
 646. 18-08-2010: New page: [operator&](CppOperatorBitwiseAnd.md)
 647. 18-08-2010: New page: [operator!](CppOperatorLogicalNot.md)
 648. 16-08-2010: New page: [std::difftime](CppStdDifftime.md)
@@ -1018,7 +1018,7 @@ Great stuff for historicians!
 651. 15-08-2010: New page: [local variable](CppLocal.md)
 652. 15-08-2010: New page: [Debug](CppDebug.md)
 653. 15-08-2010: New page: [emit](CppEmit.md)
-654. 15-08-2010: New page: [std::negate](CppNegate.md)
+654. 15-08-2010: New page: [std::negate](CppStdNegate.md)
 655. 15-08-2010: New page: [Flood::Matrix](CppFloodMatrix.md)
 656. 15-08-2010: New page: [Flood::Vector](CppFloodVector.md)
 657. 15-08-2010: New page:
@@ -1153,7 +1153,7 @@ Great stuff for historicians!
 753. 01-08-2010: New page: [std::distance](Cppstd::distance.md)
 754. 01-08-2010: New page: [std::div](CppDiv.md)
 755. 01-08-2010: New page: [std::div\_t](CppDiv_t.md)
-756. 01-08-2010: New page: [std::equal\_to](CppEqual_to.md)
+756. 01-08-2010: New page: [std::equal\_to](CppStdEqual_to.md)
 757. 01-08-2010: New page: [std::fstream](CppFstream.md)
 758. 01-08-2010: New page: [std::oct](CppOct.md)
 759. 01-08-2010: New page: [std::signal](CppStdSignal.md)
@@ -1201,7 +1201,7 @@ Great stuff for historicians!
 792. 30-07-2010: New page: [std::adjacent\_find](CppAdjacent_find.md)
 793. 30-07-2010: New page: [std::binary\_search](CppBinary_search.md)
 794. 30-07-2010: New page: [std::boolalpha](Cppstd::boolalpha.md)
-795. 30-07-2010: New page: [std::random\_shuffle](CppRandom_shuffle.md)
+795. 30-07-2010: New page: [std::random\_shuffle](CppStdRand.mdom_shuffle.md)
 796. 30-07-2010: New page: [BCC32.EXE](CppBcc32Exe.md)
 797. 30-07-2010: New page: [Preprocessor](CppPreprocessor.md)
 798. 30-07-2010: New page: [How to define a OnKeyPress
@@ -1456,7 +1456,7 @@ Great stuff for historicians!
 973. 18-07-2010: New page: [std::acos](CppAcos.md)
 974. 18-07-2010: New page: [std::asin](CppAsin.md)
 975. 18-07-2010: New page: [std::atan](CppAtan.md)
-976. 18-07-2010: New page: [std::cos](CppCos.md)
+976. 18-07-2010: New page: [std::cos](CppStdCos.md)
 977. 18-07-2010: New page: [SDL](CppSdl.md)
 978. 18-07-2010: New page: [SDL example 1: moving
     colors](CppSdlExample1.md)
@@ -1679,7 +1679,7 @@ Great stuff for historicians!
 1126. 13-05-2010: New page: [Variable](CppVariable.md)
 1127. 13-05-2010: Modified [STL](CppStl.md): improved page source and
     content
-1128. 13-05-2010: Modified [std::rand](CppRand.md): improved page
+1128. 13-05-2010: Modified [std::rand](CppStdRand.md.md): improved page
     source and content
 1129. 11-05-2010: New page: [std::range\_error](CppRange_error.md)
 1130. 10-05-2010: New page: [Request for member 'mX' in 'w', which is of
@@ -1878,13 +1878,13 @@ Great stuff for historicians!
     internal links
 1232. 29-04-2010: New page: [throw](CppThrow.md)
 1233. 28-04-2010: New page: [std::srand](CppStdSrand.md)
-1234. 28-04-2010: Modified [RandomizeTimer](CppRandomizeTimer.md):
+1234. 28-04-2010: Modified [RandomizeTimer](CppStdRand.mdomizeTimer.md):
     improved page source
 1235. 25-04-2010: New page:
     [std::unary\_function](CppUnary_function.md)
 1236. 25-04-2010: New page: [operator/=](CppOperatorDivideAssign.md)
 1237. 25-04-2010: New page: [stdexcept.h](CppStdexceptH.md)
-1238. 25-04-2010: New page: [boost::mem\_fn](CppMem_fn.md)
+1238. 25-04-2010: New page: [boost::mem\_fn](CppStdMem_fn.md)
 1239. 25-04-2010: New page: [How to create a windowed 'Hello World'
     program using the GUI designer?](CppQtHelloWorldWindowedGui.md)
 1240. 25-04-2010: Modified [operator](CppOperator.md): improved page
@@ -1922,7 +1922,7 @@ Great stuff for historicians!
 1261. 21-04-2010: New page: [operator!=](CppOperatorNotEqual.md)
 1262. 21-04-2010: Modified [operator+](CppOperatorPlus.md): improved
     page source
-1263. 20-04-2010: Modified [std::back\_inserter](CppBack_inserter.md):
+1263. 20-04-2010: Modified [std::back\_inserter](CppStdBack_inserter.md):
     improved page source
 1264. 19-04-2010: New page: [MakeSquare](CppMakeSquare.md)
 1265. 19-04-2010: Modified [Answer of exercise \#9: No for-loops
@@ -1960,7 +1960,7 @@ Great stuff for historicians!
     0](CppRuntimeErrorShared_ptrAssertPxNotNull.md): improved page
     source
 1283. 15-04-2010: Modified [std::map](CppStdMap.md): improved page source
-1284. 14-04-2010: New page: [std::multiplies](CppMultiplies.md)
+1284. 14-04-2010: New page: [std::multiplies](CppStdMultiplies.md)
 1285. 14-04-2010: New page: [std::less](CppStdLess.md)
 1286. 14-04-2010: New page: [Opaque pointer](CppOpaquePointer.md)
 1287. 14-04-2010: Modified [std::vector](CppStdVector.md): improved page
@@ -1991,7 +1991,7 @@ Great stuff for historicians!
     improved page source
 1302. 11-04-2010: Modified [Convert](CppConvert.md): added internal
     link
-1303. 10-04-2010: New page: [std::divides](CppDivides.md)
+1303. 10-04-2010: New page: [std::divides](CppStdDivides.md)
 1304. 10-04-2010: New page:
     [ProductNonZeroPositives](CppProductNonZeroPositives.md)
 1305. 10-04-2010: New page:
@@ -2001,7 +2001,7 @@ Great stuff for historicians!
     [ReplacePositiveByZero](CppReplacePositiveByZero.md)
 1308. 10-04-2010: New page:
     [ReplaceNegativeByZero](CppReplaceNegativeByZero.md)
-1309. 10-04-2010: New page: [std::equal\_to](CppEqual_to.md)
+1309. 10-04-2010: New page: [std::equal\_to](CppStdEqual_to.md)
 1310. 10-04-2010: New page: [std::greater](CppStdGreater.md)
 1311. 10-04-2010: New page: [Replace\_range](CppReplace_range.md)
 1312. 10-04-2010: New page: [IntPower](CppIntPower.md)
@@ -2018,7 +2018,7 @@ Great stuff for historicians!
     [IntPower](CppIntPower.md)
 1319. 10-04-2010: Modified [Factorial](CppFactorial.md): added an
     [algorithm](CppAlgorithm.md) way
-1320. 09-04-2010: New page: [std::divides](CppDivides.md)
+1320. 09-04-2010: New page: [std::divides](CppStdDivides.md)
 1321. 09-04-2010: New page: [boost::bind](CppStdBind.md)
 1322. 09-04-2010: New page: [Library](CppLibrary.md)
 1323. 09-04-2010: Modified [Answer of exercise \#9: No for-loops
@@ -2063,7 +2063,7 @@ Great stuff for historicians!
 1344. 04-04-2010: Modified [Append](CppAppend.md): improved page source
 1345. 04-04-2010: Modified [StrToInt](CppStrToInt.md): improved page
     source
-1346. 04-04-2010: Modified [std::rand](CppRand.md): improved page
+1346. 04-04-2010: Modified [std::rand](CppStdRand.md.md): improved page
     source
 1347. 04-04-2010: Modified [std::find](CppStdFind.md): improved page
     source
@@ -2090,7 +2090,7 @@ Great stuff for historicians!
     symbol](CppCompileErrorDuplicateSymbol.md): improved page source
 1360. 03-04-2010: Modified [Exception
     hierarchy](CppExceptionHierarchy.md): improved page source
-1361. 03-04-2010: Modified [std::logic\_error](CppLogic_error.md):
+1361. 03-04-2010: Modified [std::logic\_error](CppStdLogic_error.md):
     improved page source
 1362. 03-04-2010: Modified [Keyword](CppKeyword.md): improved page
     source
@@ -2389,11 +2389,11 @@ Great stuff for historicians!
 1520. 03-01-2010: New page: [typename](CppTypename.md)
 1521. 03-01-2010: New page: [Why do you put so much trivial code on your
     site?](CppWhyTrivialCode.md)
-1522. 03-01-2010: New page: [std::bad\_alloc](CppBad_alloc.md)
+1522. 03-01-2010: New page: [std::bad\_alloc](CppStdBad_alloc.md)
 1523. 03-01-2010: New page: [std::bad\_cast](CppBad_cast.md)
 1524. 03-01-2010: New page: [std::bad\_typeid](CppBad_typeid.md)
 1525. 03-01-2010: New page: [std::bad\_exception](CppBad_exception.md)
-1526. 03-01-2010: New page: [std::out\_of\_range](CppOut_of_range.md)
+1526. 03-01-2010: New page: [std::out\_of\_range](CppStdOut_of_range.md)
 1527. 03-01-2010: Modified [Compile error](CppCompileError.md): added
     internal links
 1528. 03-01-2010: Modified [CoutVector](CppCoutVector.md): added
@@ -2495,9 +2495,9 @@ Great stuff for historicians!
     internal links
 1585. 29-12-2009: Modified [Functor](CppFunctor.md): added internal
     links
-1586. 29-12-2009: Modified [std::mem\_fun](CppMem_fun.md) &gt;:
+1586. 29-12-2009: Modified [std::mem\_fun](CppStdMem_fun.md) &gt;:
     improved content
-1587. 29-12-2009: Modified [std::mem\_fun\_ref](CppMem_fun_ref.md):
+1587. 29-12-2009: Modified [std::mem\_fun\_ref](CppStdMem_fun_ref.md):
     improved content
 1588. 29-12-2009: Modified [std::for\_each](CppStdFor_each.md): improved
     content
@@ -2568,7 +2568,7 @@ Great stuff for historicians!
     internal links
 1630. 20-09-2009: Modified [Rainbow](CppRainbow.md): added internal
     links
-1631. 20-09-2009: Modified [std::rand](CppRand.md) &gt;: added internal
+1631. 20-09-2009: Modified [std::rand](CppStdRand.md.md) &gt;: added internal
     links
 1632. 20-09-2009: Modified [if](CppIf.md): added internal links
 1633. 20-09-2009: Modified [array](CppArray.md): added internal links
@@ -2584,7 +2584,7 @@ Great stuff for historicians!
     internal links
 1639. 29-08-2009: Modified [std::vector](CppStdVector.md): added internal
     links
-1640. 29-08-2009: Modified [Random number](CppRandomNumber.md) &gt;:
+1640. 29-08-2009: Modified [Random number](CppStdRand.mdomNumber.md) &gt;:
     added internal links
 1641. 29-08-2009: Modified [Link error](CppLinkError.md): added
     internal links
@@ -2832,7 +2832,7 @@ Great stuff for historicians!
 1774. 05-05-2009: Modified: [AnsiToWide](CppAnsiToWide.md): conformized
     page layout
 1775. 05-05-2009: Modified: [asm](CppAsm.md): conformized page layout
-1776. 05-05-2009: Modified: [Sort](CppSort.md): conformized page layout
+1776. 05-05-2009: Modified: [Sort](CppStdSort.md): conformized page layout
 1777. 05-05-2009: Modified: [Bubble Sort](CppBubbleSort.md):
     conformized page layout
 1778. 05-05-2009: Modified: [SelectionSort](CppSelectionSort.md):
@@ -2857,7 +2857,7 @@ Great stuff for historicians!
 1791. 01-05-2009: New page: [\_algobase.h: Cannot convert 'const int' to
     'MyClass
     \*'](CppCompileError_algobaseHcannotConvertConstIntToMyClassPtr.md)
-1792. 01-05-2009: Modified: [std::back\_inserter](CppBack_inserter.md):
+1792. 01-05-2009: Modified: [std::back\_inserter](CppStdBack_inserter.md):
     fixed internal link
 1793. 01-05-2009: Modified: [Compile error](CppCompileError.md): added
     internal links
@@ -3102,9 +3102,9 @@ Great stuff for historicians!
 1936. 16-07-2008: Modified
     [NarmedBanditLearner](CppNarmedBanditLearner.md): added internal
     links, improved layout
-1937. 16-07-2008: Modified [Random number](CppRandomNumber.md): added
+1937. 16-07-2008: Modified [Random number](CppStdRand.mdomNumber.md): added
     internal links
-1938. 16-07-2008: Modified [RandomizeTimer](CppRandomizeTimer.md):
+1938. 16-07-2008: Modified [RandomizeTimer](CppStdRand.mdomizeTimer.md):
     corrected code
 1939. 16-07-2008: Modified [FindEquilibrium](CppFindEquilibrium.md):
     added internal links, improved layout
@@ -3425,7 +3425,7 @@ Great stuff for historicians!
 2120. 12-05-2008: New page: [Quotes](CppQuotes.md)
 2121. 12-05-2008: Modified [Glossary](CppGlossary.md): added internal
     links
-2122. 12-05-2008: Modified [std::back\_inserter](CppBack_inserter.md):
+2122. 12-05-2008: Modified [std::back\_inserter](CppStdBack_inserter.md):
     added external links
 2123. 12-05-2008: Modified [C++ Builder](CppBuilder.md): added external
     links
@@ -3476,8 +3476,8 @@ Great stuff for historicians!
 2156. 03-05-2008: Modified [std:: glossary](CppStdGlossary.md): added
     links
 2157. 03-05-2008: Modified [glossary](CppGlossary.md): added links
-2158. 03-05-2008: New page: [std::mem\_fun](CppMem_fun.md)
-2159. 03-05-2008: New page: [std::mem\_fun\_ref](CppMem_fun.md)
+2158. 03-05-2008: New page: [std::mem\_fun](CppStdMem_fun.md)
+2159. 03-05-2008: New page: [std::mem\_fun\_ref](CppStdMem_fun.md)
 2160. 02-05-2008: Modified [member function design
     (of operator\[\])](CppMemberFunctionDesign.md): improved example
 2161. 02-05-2008: New page: [Avoid duplication in const and non-const
@@ -3491,7 +3491,7 @@ Great stuff for historicians!
 2165. 02-05-2008: New page: [STL](CppStl.md)
 2166. 02-05-2008: Modified [std::exception](CppException.md): added
     external link
-2167. 02-05-2008: New page: [std::logic\_error](CppLogic_error.md)
+2167. 02-05-2008: New page: [std::logic\_error](CppStdLogic_error.md)
 2168. 02-05-2008: New page: [std::runtime\_error](CppRuntime_error.md)
 2169. 02-05-2008: New page: [Recent changes](CppRecentChanges.md)
 

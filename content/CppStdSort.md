@@ -9,13 +9,13 @@
 
  
 
-([C++](Cpp.md)) [Sort](CppSort.md)
+([C++](Cpp.md)) [Sort](CppStdSort.md)
 ====================================
 
  
 
-This page is about [sorting](CppSort.md) and the [STL](CppStl.md)
-[algorithm](CppAlgorithm.md) [std::sort](CppSort.md).
+This page is about [sorting](CppStdSort.md) and the [STL](CppStl.md)
+[algorithm](CppAlgorithm.md) [std::sort](CppStdSort.md).
 
  
 
@@ -27,13 +27,13 @@ This page is about [sorting](CppSort.md) and the [STL](CppStl.md)
 
  
 
-[STL](CppStl.md) [sorting](CppSort.md) [algorithms](CppAlgorithm.md)
+[STL](CppStl.md) [sorting](CppStdSort.md) [algorithms](CppAlgorithm.md)
 -----------------------------------------------------------------------
 
  
 
 -   [std::partial\_sort](CppPartial_sort.md)
--   [std::sort](CppSort.md)
+-   [std::sort](CppStdSort.md)
 
  
 
@@ -45,7 +45,7 @@ This page is about [sorting](CppSort.md) and the [STL](CppStl.md)
 
  
 
-[Sorting](CppSort.md) [code snippets](CppCodeSnippets.md)
+[Sorting](CppStdSort.md) [code snippets](CppCodeSnippets.md)
 -----------------------------------------------------------
 
  
@@ -65,7 +65,7 @@ This page is about [sorting](CppSort.md) and the [STL](CppStl.md)
 
  
 
-Types of [sorting](CppSort.md)
+Types of [sorting](CppStdSort.md)
 -------------------------------
 
  

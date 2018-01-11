@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::greater\_equal](CppGreater_equal.md)
+([C++](Cpp.md)) [std::greater\_equal](CppStdGreater_equal.md)
 ============================================================
 
  

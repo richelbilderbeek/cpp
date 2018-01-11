@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::back\_inserter](CppBack_inserter.md)
+([C++](Cpp.md)) [std::back\_inserter](CppStdBack_inserter.md)
 ============================================================
 
  
 
-[std::back\_inserter](CppBack_inserter.md) is a type of
+[std::back\_inserter](CppStdBack_inserter.md) is a type of
 [inserter](CppInserter.md).
 
  
 
-A good use of [std::back\_inserter](CppBack_inserter.md) is when you
+A good use of [std::back\_inserter](CppStdBack_inserter.md) is when you
 [std::copy](CppStdCopy.md) to a [container](CppContainer.md)
 [class](CppClass.md).
 

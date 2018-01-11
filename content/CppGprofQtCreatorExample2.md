@@ -87,7 +87,7 @@ results file:
  
 
 Conclusion: as expected, SortVector (a QuickSort) is by far the quickest
-[sorting](CppSort.md) [algorithm](CppAlgorithm.md).
+[sorting](CppStdSort.md) [algorithm](CppAlgorithm.md).
 
 Technical facts
 ---------------

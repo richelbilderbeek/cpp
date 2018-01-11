@@ -35,7 +35,7 @@ Question \#17: Halve
 Replace the [for](CppFor.md)-loop. You will need:
 
 -   [std::bind2nd](CppStdBind2nd.md)
--   [std::divides](CppDivides.md)
+-   [std::divides](CppStdDivides.md)
 -   [std::transform](CppTransform.md)
 
  

@@ -15,7 +15,7 @@
  
 
 [std::qsort](CppQsort.md) is a [function](CppFunction.md) to
-[sort](CppSort.md) a [container](CppContainer.md).
+[sort](CppStdSort.md) a [container](CppContainer.md).
 
  
 

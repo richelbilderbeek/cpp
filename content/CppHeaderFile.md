@@ -153,7 +153,7 @@ files](CppHeaderFile.md) \[3\]\[4\]:
 58. ![C++98](PicCpp98.png)![C++11](PicCpp11.png)
     [ostream](CppOstreamH.md)
 59. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [queue](CppQueueH.md)
-60. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [random](CppRandomH.md)
+60. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [random](CppStdRand.mdomH.md)
 61. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [ratio](CppRatioH.md)
 62. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [regex](CppRegexH.md)
 63. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [set](CppSetH.md)

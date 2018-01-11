@@ -19,7 +19,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[GetRandomUniform](CppGetRandomUniform.md) is a [random](CppRandom.md)
+[GetRandomUniform](CppGetRandomUniform.md) is a [random](CppStdRand.mdom.md)
 [code snippet](CppCodeSnippets.md) to draw a value from 0.0 to (and not
 including) 1.0. All values have an equal likelyhood to be drawn.
 

@@ -43,7 +43,7 @@ The code below shows how to determine if a value is odd or even.
 
 The [STL](CppStl.md) [functor](CppFunctor.md) encapsulating
 [operator%](CppOperatorModulus.md) is called
-[std::modulus](CppModulus.md).
+[std::modulus](CppStdModulus.md).
 
  
 

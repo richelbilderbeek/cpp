@@ -33,7 +33,7 @@ determine that one plus two is greater or equal equal to three:
  
 
 [operator&gt;=](CppOperatorGreaterEqual.md) is encapsulated by the
-[functor](CppFunctor.md) [std::greater\_equal](CppGreater_equal.md).
+[functor](CppFunctor.md) [std::greater\_equal](CppStdGreater_equal.md).
 
  
 

@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::logic\_error](CppLogic_error.md)
+([C++](Cpp.md)) [std::logic\_error](CppStdLogic_error.md)
 ========================================================
 
  
@@ -21,17 +21,17 @@ cannot be detected).
  
 
 In the [exception hierarchy](CppExceptionHierarchy.md),
-[std::logic\_error](CppLogic_error.md) has
+[std::logic\_error](CppStdLogic_error.md) has
 [std::exception](CppException.md) as its [base
 class](CppBaseClass.md).
 
  
 
-[std::logic\_error](CppLogic_error.md) is the [base
+[std::logic\_error](CppStdLogic_error.md) is the [base
 class](CppBaseClass.md) of [std::domain\_error](CppDomain_error.md),
 [std::invalid\_argument](CppInvalid_argument.md),
 [std::length\_error](CppLength_error.md) and
-[std::out\_of\_range](CppOut_of_range.md).
+[std::out\_of\_range](CppStdOut_of_range.md).
 
  
 

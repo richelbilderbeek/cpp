@@ -14,7 +14,7 @@
 
  
 
-[InsertionSort](CppInsertionSort.md) is a [sorting](CppSort.md) [code
+[InsertionSort](CppInsertionSort.md) is a [sorting](CppStdSort.md) [code
 snippet](CppCodeSnippets.md) to perform an insertion sort.
 
  

@@ -65,9 +65,9 @@ Project type: Console Application
  
 
 The [compiler](CppCompiler.md) cannot find the function rand (note that
-it does not complain that it cannot find [std::rand](CppRand.md)). But
+it does not complain that it cannot find [std::rand](CppStdRand.md.md)). But
 it will only need rand when making use of the function above. For
-example, when you use [std::random\_shuffle](CppRandom_shuffle.md).
+example, when you use [std::random\_shuffle](CppStdRand.mdom_shuffle.md).
 
  
 
@@ -92,7 +92,7 @@ Solution
 
 It is not a good idea to modify standard [header
 files](CppHeaderFile.md). But the [compiler](CppCompiler.md) cannot
-find rand, but it can find [std::rand](CppRand.md). So I add the
+find rand, but it can find [std::rand](CppStdRand.md.md). So I add the
 [namespace](CppNamespace.md) [std](CppStd.md) to rand. And I have
 never had trouble with this.
 

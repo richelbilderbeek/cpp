@@ -14,8 +14,8 @@
 
  
 
-[SortVector](CppSortVector.md) is a [sorting](CppSort.md) [code
-snippet](CppCodeSnippets.md) to [sort](CppSort.md) a
+[SortVector](CppSortVector.md) is a [sorting](CppStdSort.md) [code
+snippet](CppCodeSnippets.md) to [sort](CppStdSort.md) a
 [container](CppContainer.md).
 
  

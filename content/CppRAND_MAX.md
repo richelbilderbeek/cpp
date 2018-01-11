@@ -15,7 +15,7 @@
  
 
 Constant [integer](CppInt.md) for the maximum value drawn by
-[std::rand](CppRand.md). In other words, [std::rand](CppRand.md) draws
+[std::rand](CppStdRand.md.md). In other words, [std::rand](CppStdRand.md.md) draws
 a random [integer](CppInt.md) value from zero to and including
 [RAND\_MAX](CppRAND_MAX.md).
 

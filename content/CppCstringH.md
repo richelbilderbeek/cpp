@@ -36,7 +36,7 @@ file](CppHeaderFile.md)
     in string
 -   [std::strcmp](CppStrcmp.md): compare two strings
 -   [std::strcoll](CppStrcoll.md): compare two strings using locale
--   [std::strcpy](CppStrcpy.md): copy string
+-   [std::strcpy](CppStdStrcpy.md): copy string
 -   [std::strcspn](CppStrcspn.md): get span until character in string
 -   [std::strerror](CppStrerror.md): get pointer to error message
     string

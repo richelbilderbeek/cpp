@@ -36,7 +36,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::bind2nd.htm](CppStdBind2nd.md)
 -   [std::greater.htm](CppStdGreater.md)
--   [std::multiplies.htm](CppMultiplies.md)
+-   [std::multiplies.htm](CppStdMultiplies.md)
 -   A conditional [std::accumulate](CppStdAccumulate.md)
 
  

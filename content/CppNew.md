@@ -18,7 +18,7 @@
 [memory](CppMemory.md) and [returning](CppReturn.md) a
 [pointer](CppPointer.md) to this [memory](CppMemory.md) location. If
 the allocation of [memory](CppMemory.md) fails,
-[std::bad\_alloc](CppBad_alloc.md) is [thrown](CppThrow.md) and a
+[std::bad\_alloc](CppStdBad_alloc.md) is [thrown](CppThrow.md) and a
 [pointer](CppPointer.md) to [null](CppNull.md) is
 [returned](CppReturn.md).
 

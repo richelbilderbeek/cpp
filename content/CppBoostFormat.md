@@ -15,7 +15,7 @@
  
 
 [boost::format](CppFormat.md) is the type-safe alternative of
-[std::printf](CppPrintf.md)(see example below).
+[std::printf](CppStdPrintf.md)(see example below).
 
  
 

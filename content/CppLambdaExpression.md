@@ -113,7 +113,7 @@ from its environment. The '(**[const](CppConst.md)**
 **[int](CppInt.md)** a, **[const](CppConst.md)** **[int](CppInt.md)**
 b)' are the names and data types to [lambda
 expressions](CppLambdaExpression.md) works on: for
-[sorting](CppSort.md) one needs two [arguments](CppArgument.md): these
+[sorting](CppStdSort.md) one needs two [arguments](CppArgument.md): these
 are called 'a' and 'b' and are [const](CppConst.md)
 [integers](CppInt.md). Finally, the '{ **[return](CppReturn.md)**
 [std::abs](CppStdAbs.md)(a) &lt; [std::abs](CppStdAbs.md)(b); }' describes

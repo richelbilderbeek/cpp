@@ -21,7 +21,7 @@ An exception that is [thrown](CppThrow.md) due to invalid
 
 In the [exception hierarchy](CppExceptionHierarchy.md),
 [std::invalid\_argument](CppInvalid_argument.md) is a derived class
-from [std::logic\_error](CppLogic_error.md).
+from [std::logic\_error](CppStdLogic_error.md).
 
  
 

@@ -15,8 +15,8 @@
  
 
 [std::nth\_element](CppNth_element.md) is an [STL](CppStl.md)
-[sorting](CppSort.md) [algorithm](CppAlgorithm.md) that
-[sorts](CppSort.md) a [container](CppContainer.md) up until the nth
+[sorting](CppStdSort.md) [algorithm](CppAlgorithm.md) that
+[sorts](CppStdSort.md) a [container](CppContainer.md) up until the nth
 element and leaves the rest unsorted.
 
  

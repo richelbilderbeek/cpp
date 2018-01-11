@@ -31,7 +31,7 @@ divide the values of two [integers](CppInt.md):
  
 
 [operator/](CppOperatorDivide.md) is encapsulated by the
-[functor](CppFunctor.md) [std::divides](CppDivides.md).
+[functor](CppFunctor.md) [std::divides](CppStdDivides.md).
 
  
 

@@ -9,20 +9,20 @@
 
  
 
-([C++](Cpp.md)) [std::bad\_alloc](CppBad_alloc.md)
+([C++](Cpp.md)) [std::bad\_alloc](CppStdBad_alloc.md)
 ====================================================
 
  
 
-[std::bad\_alloc](CppBad_alloc.md) is an [exception](CppException.md)
+[std::bad\_alloc](CppStdBad_alloc.md) is an [exception](CppException.md)
 and a [derived class](CppDerivedClass.md) from
-[std::exception](CppException.md). [std::bad\_alloc](CppBad_alloc.md)
+[std::exception](CppException.md). [std::bad\_alloc](CppStdBad_alloc.md)
 is [thrown](CppThrow.md) by [new](CppNew.md) when [new](CppNew.md)
 fails.
 
  
 
-[std::bad\_alloc](CppBad_alloc.md) is defined in the [header
+[std::bad\_alloc](CppStdBad_alloc.md) is defined in the [header
 file](CppHeaderFile.md) [new](CppNewH.md).
 
  
@@ -41,7 +41,7 @@ Example
  
 
 -   [Download the Qt Creator project
-    'CppBad\_alloc' (zip)](CppBad_alloc.md)
+    'CppBad\_alloc' (zip)](CppStdBad_alloc.md)
 
  
 

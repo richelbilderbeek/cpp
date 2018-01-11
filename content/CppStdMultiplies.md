@@ -9,15 +9,15 @@
 
  
 
-([C++](Cpp.md)) [std::multiplies](CppMultiplies.md)
+([C++](Cpp.md)) [std::multiplies](CppStdMultiplies.md)
 =====================================================
 
  
 
-[std::multiplies](CppMultiplies.md) is a [functor](CppFunctor.md) that
+[std::multiplies](CppStdMultiplies.md) is a [functor](CppFunctor.md) that
 encapsulates **[operator\*](CppOperatorMultiply.md)**. The
 [functor](CppFunctor.md) to perform a division on a range is
-[std::divides](CppDivides.md).
+[std::divides](CppStdDivides.md).
 
  
 

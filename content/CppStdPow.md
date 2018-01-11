@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::pow](CppPow.md)
+([C++](Cpp.md)) [std::pow](CppStdPow.md)
 =======================================
 
  
 
-[std::pow](CppPow.md) is a [mathematical](CppMath.md)
+[std::pow](CppStdPow.md) is a [mathematical](CppMath.md)
 [STL](CppStl.md) [function](CppFunction.md) to take the power of two
 [doubles](CppDouble.md).
 

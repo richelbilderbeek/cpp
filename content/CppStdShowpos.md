@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::showpos](CppShowpos.md)
+([C++](Cpp.md)) [std::showpos](CppStdShowpos.md)
 ===============================================
 
  
 
-[std::showpos](CppShowpos.md) is a [stream](CppStream.md) modifier to
+[std::showpos](CppStdShowpos.md) is a [stream](CppStream.md) modifier to
 prepend positive values by a plus.
 
  

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::find\_end](CppFind_end.md)
+([C++](Cpp.md)) [std::find\_end](CppStdFind_end.md)
 ==================================================
 
  
 
-[std::find\_end](CppFind_end.md) is an [STL](CppStl.md)
+[std::find\_end](CppStdFind_end.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to find the last occurrence of a sequence
 in a [container](CppContainer.md).
 

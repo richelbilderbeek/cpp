@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::negate](CppNegate.md)
+([C++](Cpp.md)) [std::negate](CppStdNegate.md)
 =============================================
 
  
 
-[std::negate](CppNegate.md) is an [STL](CppStl.md)
+[std::negate](CppStdNegate.md) is an [STL](CppStl.md)
 [functor](CppFunctor.md) for negation of values: it changes x to -x
 (and -x to x).
 

@@ -61,7 +61,7 @@ Example
  
 
 Suppose we want to compare the runtime speed of the [STL](CppStl.md)
-[std::sort](CppSort.md) and [bubble sort](CppBubbleSort.md).
+[std::sort](CppStdSort.md) and [bubble sort](CppBubbleSort.md).
 
  
 

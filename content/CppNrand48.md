@@ -17,7 +17,7 @@
 [::nrand48](CppNrand48.md) is a [function](CppFunction.md) in the
 [global](CppGlobal.md) [namespace](CppNamespace.md) supplied with some
 [STL](CppStl.md)'s to draw a positive (that is: non-negative) [random
-number](CppRandom.md) uniformly distributed between 0 and 2\^31.
+number](CppStdRand.mdom.md) uniformly distributed between 0 and 2\^31.
 
  
 

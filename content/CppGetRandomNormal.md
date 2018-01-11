@@ -19,7 +19,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
  
 
-[GetRandomNormal](CppGetRandomNormal.md) is a [random](CppRandom.md)
+[GetRandomNormal](CppGetRandomNormal.md) is a [random](CppStdRand.mdom.md)
 [code snippet](CppCodeSnippets.md) to draw a value from a normal
 distribution with average 'mean' and a standard deviation of 'sigma'.
 

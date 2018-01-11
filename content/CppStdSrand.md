@@ -15,7 +15,7 @@
  
 
 [std::srand](CppStdSrand.md) sets the seed of the random number sequence
-that can be created by [std::rand](CppRand.md) sequence.
+that can be created by [std::rand](CppStdRand.md.md) sequence.
 
  
 
@@ -38,18 +38,18 @@ The code below demonstrates that after setting a seed of zero, the first
 
  
 
-Example: [RandomizeTimer](CppRandomizeTimer.md)
+Example: [RandomizeTimer](CppStdRand.mdomizeTimer.md)
 ------------------------------------------------
 
  
 
-[RandomizeTimer](CppRandomizeTimer.md) can be used to set a seed based
+[RandomizeTimer](CppStdRand.mdomizeTimer.md) can be used to set a seed based
 on the system time.
 
  
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <cstdlib> #include <ctime>   //From http://www.richelbilderbeek.nl/CppRandomizeTimer.htm void RandomizeTimer() {   std::srand(std::time(0)); }`
+  ` #include <cstdlib> #include <ctime>   //From http://www.richelbilderbeek.nl/CppStdRand.mdomizeTimer.htm void RandomizeTimer() {   std::srand(std::time(0)); }`
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  

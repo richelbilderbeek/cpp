@@ -20,5 +20,5 @@ A bug taxonomy from [The Dodgy Coder](http://www.dodgycoder.net/2011/11/yoda-con
  * Sorcerer's apprentice mode bug: a [bug](CppBug.md) in a protocol where, under some circumstances, the receipt of a message causes multiple messages to be sent, each of which, when received, triggers the same bug
  * Mad girlfriend bug: a [bug](CppBug.md) whose immediate effect remains hidden - the app outwardly seems to function normally and tells you that everything is fine
  * Excalibur bug: when all of the developers within a company have tried to fix a particular [bug](CppBug.md) but none have succeeded, so far
- * Load-bearing [printf](CppPrintf.md) bug: when a line of debug output is required for the code to work - the code does not function if you remove it
+ * Load-bearing [printf](CppStdPrintf.md) bug: when a line of debug output is required for the code to work - the code does not function if you remove it
 
