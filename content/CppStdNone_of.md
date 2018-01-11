@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::none\_of](CppNone_of.md)
+([C++](Cpp.md)) [std::none\_of](CppStdNone_of.md)
 ================================================
 
  
 
-[std::none\_of](CppNone_of.md) is an [STL](CppStl.md)
+[std::none\_of](CppStdNone_of.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) since the [C++11](Cpp11.md)
 [standard](CppStandard.md) to [check](CppCheck.md) if none of the
 elements from a [container](CppContainer.md) satisfy a certain

@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) [std::move\_backward](CppMove_backward.md)
+([C++](Cpp.md)) [std::move\_backward](CppStdMove_backward.md)
 ============================================================
 
  
 
-[std::move\_backward](CppMove_backward.md) is a [C++11](Cpp11.md)
+[std::move\_backward](CppStdMove_backward.md) is a [C++11](Cpp11.md)
 [STL](CppStl.md) [algorithm](CppAlgorithm.md) to
-[std::move](CppMove.md) elements from a [container](CppContainer.md)
+[std::move](CppStdMove.md) elements from a [container](CppContainer.md)
 to another [container](CppContainer.md). This copying is done in
 reverse, but the order is preserved.
 

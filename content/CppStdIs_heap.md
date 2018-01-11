@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::is\_heap](CppIs_heap.md)
+([C++](Cpp.md)) [std::is\_heap](CppStdIs_heap.md)
 ================================================
 
  
 
-[std::is\_heap](CppIs_heap.md) is an [STL](CppStl.md)
+[std::is\_heap](CppStdIs_heap.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to check **[if](CppIf.md)** a
 [container](CppContainer.md) is ordered like a heap.
 

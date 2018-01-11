@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::any\_of](CppAny_of.md)
+([C++](Cpp.md)) [std::any\_of](CppStdAny_of.md)
 ==============================================
 
  
 
-[std::any\_of](CppAny_of.md) is an [STL](CppStl.md)
+[std::any\_of](CppStdAny_of.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) since the [C++11](Cpp11.md)
 [standard](CppStandard.md) to [check](CppCheck.md) if there is an
 element in a [container](CppContainer.md) that satisfies a certain

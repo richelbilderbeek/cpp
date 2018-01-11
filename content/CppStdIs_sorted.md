@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::is\_sorted](CppIs_sorted.md)
+([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::is\_sorted](CppStdIs_sorted.md)
 ===========================================================================
 
  
 
-[std::is\_sorted](CppIs_sorted.md) is a [C++11](Cpp11.md)
+[std::is\_sorted](CppStdIs_sorted.md) is a [C++11](Cpp11.md)
 [STL](CppStl.md) [algorithm](CppAlgorithm.md) to [check](CppCheck.md)
 if a [container](CppContainer.md) is sorted.
 

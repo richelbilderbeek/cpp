@@ -57,15 +57,15 @@ Great stuff for historicians!
 28. 24-09-2011: New page:
     [Wt::WLocalizedStrings](CppWLocalizedStrings.md)
 29. 23-09-2011: New page: [Wt::WPdfImage](CppWPdfImage.md)
-30. 22-09-2011: New page: [std::move\_backward](CppMove_backward.md)
+30. 22-09-2011: New page: [std::move\_backward](CppStdMove_backward.md)
 31. 22-09-2011: New page: [Wt::WGroupBox](CppWGroupBox.md)
-32. 20-09-2011: New page: [std::is\_heap](CppIs_heap.md)
+32. 20-09-2011: New page: [std::is\_heap](CppStdIs_heap.md)
 33. 18-09-2011: New page: [std::setbase](CppSetbase.md)
 34. 05-09-2011: New page: [::swprintf has not been
     declared](CppCompileErrorSwprintfHasNotBeenDeclared.md)
-35. 25-08-2011: New page: [std::all\_of](CppAll_of.md)
-36. 25-08-2011: New page: [std::any\_of](CppAny_of.md)
-37. 25-08-2011: New page: [std::none\_of](CppNone_of.md)
+35. 25-08-2011: New page: [std::all\_of](CppStdAll_of.md)
+36. 25-08-2011: New page: [std::any\_of](CppStdAny_of.md)
+37. 25-08-2011: New page: [std::none\_of](CppStdNone_of.md)
 38. 25-08-2011: Modified [return](CppReturn.md): improved page source
 39. 25-08-2011: Modified [std](CppStd.md): improved page source
 40. 24-08-2011: New page: [bzlib.h: No such file or
@@ -94,7 +94,7 @@ Great stuff for historicians!
 57. 13-08-2011: New page: [boost::property\_tree](CppProperty_tree.md)
 58. 13-08-2011: New page: [boost::property\_tree example 1: read and
     write](CppProperty_treeExample1.md)
-59. 13-08-2011: New page: [std::minmax\_element](CppMinmax_element.md)
+59. 13-08-2011: New page: [std::minmax\_element](CppStdMinmax_element.md)
 60. 13-08-2011: New page: [std::tuple](CppTuple.md)
 61. 13-08-2011: New page: [XML](CppXml.md)
 62. 08-08-2011: Modified [std::bad\_alloc](CppBad_alloc.md): improved
@@ -146,7 +146,7 @@ Great stuff for historicians!
 90. 14-07-2011: New page:
     [WtSelectFileDialog](CppWtSelectFileDialog.md)
 91. 13-07-2011: New page: [std::gmtime](CppStdGmtime.md)
-92. 13-07-2011: New page: [std::unique\_ptr](CppUnique_ptr.md)
+92. 13-07-2011: New page: [std::unique\_ptr](CppStdUnique_ptr.md)
 93. 12-07-2011: Modified [Shiny](CppShiny.md): improved page source
 94. 12-07-2011: New page:
     [boost::circular\_buffer](CppCircular_buffer.md)

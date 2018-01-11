@@ -20,7 +20,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [std::unique\_ptr example 2: custom deleter](CppUnique_ptrExample2.md)
-is a [std::unique\_ptr](CppUnique_ptr.md) example that shows how to use
+is a [std::unique\_ptr](CppStdUnique_ptr.md) example that shows how to use
 a custom deleter (in this case
 [boost::checked\_delete](CppBoostChecked_delete.md)) with
 [auto](CppAuto.md) and [std::function](CppStdFunction.md)

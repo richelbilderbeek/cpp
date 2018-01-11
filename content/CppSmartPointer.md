@@ -15,7 +15,7 @@ pointer](CppSmartPointer.md) [library](CppLibrary.md).
 -   ![C++98](PicCpp98.png)![STL](PicStl.png) [std::auto\_ptr](CppStdAuto_ptr.md)
 -   ![C++11](PicCpp11.png)![STL](PicStl.png) [std::shared\_ptr](CppShared_ptr.md)
 -   ![C++98](PicCpp98.png)![STL](PicStl.png) [std::tr1::shared\_ptr](CppShared_ptr.md)
--   ![C++11](PicCpp11.png)![STL](PicStl.png) [std::unique\_ptr](CppUnique_ptr.md)
+-   ![C++11](PicCpp11.png)![STL](PicStl.png) [std::unique\_ptr](CppStdUnique_ptr.md)
 
 ## [Examples](CppExample.md)
 

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::find\_if\_not](CppFind_if_not.md)
+([C++](Cpp.md)) [std::find\_if\_not](CppStdFind_if_not.md)
 =========================================================
 
  
 
-[std::find\_if\_not](CppFind_if_not.md) is a [C++11](Cpp11.md)
+[std::find\_if\_not](CppStdFind_if_not.md) is a [C++11](Cpp11.md)
 [algorithm](CppAlgorithm.md) to find an element in a
 [container](CppContainer.md) that does not satisfy a certain
 [predicate](CppPredicate.md).

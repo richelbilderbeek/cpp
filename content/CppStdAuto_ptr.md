@@ -16,7 +16,7 @@
 
 The [class template](CppClassTemplate.md)
 [std::auto\_ptr](CppStdAuto_ptr.md) is deprecated \[5\]. The [class
-template](CppClassTemplate.md) [std::unique\_ptr](CppUnique_ptr.md)
+template](CppClassTemplate.md) [std::unique\_ptr](CppStdUnique_ptr.md)
 provides a better solution \[5\].
 
  

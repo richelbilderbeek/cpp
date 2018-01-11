@@ -7,7 +7,9 @@ install:
 
 script: 
   # Check dead links
-  - find . -name \*.md -exec markdown-link-check {} \;
+  - find . -name \*.md -exec markdown-link-check {} \; 2>/dev/null | egrep "[✖]"
+  # Verbose
+  #- find . -name \*.md -exec markdown-link-check {} \;
   # proselint
   - cd content
   - for filename in `ls *.md`; do proselint $filename; done

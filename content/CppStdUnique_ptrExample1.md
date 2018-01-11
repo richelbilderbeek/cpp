@@ -20,7 +20,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [std::unique\_ptr example 1: basics](CppUnique_ptrExample1.md) is a
-[std::unique\_ptr](CppUnique_ptr.md) [example](CppExample.md).
+[std::unique\_ptr](CppStdUnique_ptr.md) [example](CppExample.md).
 
  
 

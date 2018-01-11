@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::minmax](CppMinmax.md)
+([C++](Cpp.md)) [std::minmax](CppStdMinmax.md)
 =============================================
 
  
 
-[std::minmax](CppMinmax.md) is an [algorithm](CppAlgorithm.md) to
+[std::minmax](CppStdMinmax.md) is an [algorithm](CppAlgorithm.md) to
 obtain the begin and end of a [container](CppContainer.md) at the same
 time.
 
