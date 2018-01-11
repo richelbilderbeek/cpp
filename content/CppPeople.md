@@ -66,7 +66,7 @@ Sorted alphabetically on first name.
 
 1.  [Scott Meyers](CppScottMeyers.md). The most important C++
     people ...ever. 2006. Online at
-    http://www.artima.com/cppsource/top\_cpp\_people.html
+    http://www.artima.com/cppsource/top_cpp_people.html
 
  
 

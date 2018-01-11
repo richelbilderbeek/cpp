@@ -37,7 +37,7 @@ Possibilities are:
     [std::vector](CppStdVector.md)&lt;[std::vector](CppStdVector.md)&lt;**[int](CppInt.md)**&gt; &gt;
 2.  ![C++11](PicCpp11.png)![STL](PicStl.png)
     [std::array](CppStdArray.md)&lt;[std::array](CppStdArray.md)&lt;**[int](CppInt.md)**&gt; &gt;
-3.  ![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.md)
+3.  ![Boost](PicBoost.png) [boost::multi\_array](CppBoostMulti_array.md)
 4.  ![Boost](PicBoost.png)
     [boost::numeric::ublas::matrix](CppUblasMatrix.md)
 5.  ![ ](PicSpacer.png)blitz::Array
@@ -150,12 +150,12 @@ on other [containers](CppContainer.md).
 
  
 
-![Boost](PicBoost.png) [boost::multi\_array](CppMulti_array.md)
+![Boost](PicBoost.png) [boost::multi\_array](CppBoostMulti_array.md)
 ----------------------------------------------------------------
 
  
 
-The [boost::multi\_array](CppMulti_array.md) (part of the
+The [boost::multi\_array](CppBoostMulti_array.md) (part of the
 [Boost](CppBoost.md) library) is not only support a two-dimensional
 matrix, but to many more dimensions.
 

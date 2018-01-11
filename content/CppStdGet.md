@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [boost::get](CppGet.md)
+([C++](Cpp.md)) [boost::get](CppStdGet.md)
 =========================================
 
  
 
-[boost::get](CppGet.md) is a [Boost](CppBoost.md)
+[boost::get](CppStdGet.md) is a [Boost](CppBoost.md)
 [function](CppFunction.md) to access an element from a
 [container](CppContainer.md), for example a
 [boost::tuple](CppTuple.md).

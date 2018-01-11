@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [boost::checked\_delete](CppChecked_delete.md)
+([C++](Cpp.md)) [boost::checked\_delete](CppBoostChecked_delete.md)
 ================================================================
 
  
 
-[boost::checked\_delete](CppChecked_delete.md) is a
+[boost::checked\_delete](CppBoostChecked_delete.md) is a
 compile-time-checked version of [delete](CppDelete.md).
 
  
@@ -31,14 +31,14 @@ To cite from <http://www.boost.org/libs/utility/checked_delete.html>:
 
 In other words, if you use a lot of [forward
 declarations](CppForwardDeclaration.md) you might choose to prefer
-using [boost::checked\_delete](CppChecked_delete.md).
+using [boost::checked\_delete](CppBoostChecked_delete.md).
 
  
 
 Note that [std::auto\_ptr](CppStdAuto_ptr.md) does not use a checked
 [delete](CppDelete.md). When you really need a checked delete, use
-[boost::scoped\_ptr](CppScoped_ptr.md) instead (but note that
-[boost::scoped\_ptr](CppScoped_ptr.md) has a slightly different
+[boost::scoped\_ptr](CppBoostScoped_ptr.md) instead (but note that
+[boost::scoped\_ptr](CppBoostScoped_ptr.md) has a slightly different
 [interface](CppInterface.md) then [std::auto\_ptr](CppStdAuto_ptr.md)).
 
  
@@ -57,7 +57,7 @@ Note that [std::auto\_ptr](CppStdAuto_ptr.md) does not use a checked
  
 
 When you [befriending](CppFriend.md) a function template specialization
-(like [boost::checked\_delete](CppChecked_delete.md)), always
+(like [boost::checked\_delete](CppBoostChecked_delete.md)), always
 explicitly add at last the &lt;&gt; template syntax \[1\].
 
  

@@ -14,7 +14,7 @@
 
  
 
-This [Boost.Filesystem](CppFilesystem.md) example is the
+This [Boost.Filesystem](CppBoostFilesystem.md) example is the
 [GUI](CppGui.md) version of [Boost.Filesystem example 1: count C++
 webpages](CppFilesystemExample1.md).
 

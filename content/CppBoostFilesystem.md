@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Filesystem](CppFilesystem.md)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Filesystem](CppBoostFilesystem.md)
 =============================================================================
 
  
 
-[Boost.Filesystem](CppFilesystem.md) is a [library](CppLibrary.md)
+[Boost.Filesystem](CppBoostFilesystem.md) is a [library](CppLibrary.md)
 part of [Boost](CppBoost.md) for working with files, like
 browsing/adding/removing files and folders.
 
@@ -28,7 +28,7 @@ browsing/adding/removing files and folders.
 
  
 
-[Boost.Filesystem](CppFilesystem.md) examples
+[Boost.Filesystem](CppBoostFilesystem.md) examples
 ----------------------------------------------
 
  

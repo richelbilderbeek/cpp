@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) [boost::ptr\_set](CppPtr_set.md)
+([C++](Cpp.md)) [boost::ptr\_set](CppBoostPtr_set.md)
 ==================================================
 
  
 
-[boost::ptr\_set](CppPtr_set.md) is a [container](CppContainer.md) for
+[boost::ptr\_set](CppBoostPtr_set.md) is a [container](CppContainer.md) for
 storing [pointers](CppPointer.md) that behaves a
-[std::set](CppStdSet.md). [boost::ptr\_set](CppPtr_set.md) will
+[std::set](CppStdSet.md). [boost::ptr\_set](CppBoostPtr_set.md) will
 [delete](CppDelete.md) all stored [pointers](CppPointer.md) when it
 goes out of [scope](CppScope.md).
 

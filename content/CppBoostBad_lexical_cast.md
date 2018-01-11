@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) [boost::bad\_lexical\_cast](CppBad_lexical_cast.md)
+([C++](Cpp.md)) [boost::bad\_lexical\_cast](CppBoostBad_lexical_cast.md)
 =====================================================================
 
  
 
-[boost::bad\_lexical\_cast](CppBad_lexical_cast.md) is a
+[boost::bad\_lexical\_cast](CppBoostBad_lexical_cast.md) is a
 [Boost](CppBoost.md) [exception](CppException.md)
-[thrown](CppThrow.md) when [boost::lexical\_cast](CppLexical_cast.md)
+[thrown](CppThrow.md) when [boost::lexical\_cast](CppBoostLexical_cast.md)
 fails.
 
  
@@ -35,9 +35,9 @@ Example: [CanLexicalCast](CppCanLexicalCast.md)
  
 
 [CanLexicalCast](CppCanLexicalCast.md) [checks](CppCheck.md) if a
-[boost::lexical\_cast](CppLexical_cast.md) will be successful, by
+[boost::lexical\_cast](CppBoostLexical_cast.md) will be successful, by
 [catching](CppCatch.md) a possible
-[boost::bad\_lexical\_cast](CppBad_lexical_cast.md).
+[boost::bad\_lexical\_cast](CppBoostBad_lexical_cast.md).
 
  
 

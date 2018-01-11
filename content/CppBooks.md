@@ -87,4 +87,4 @@ The most important C++ books are (according to [20]):
 17. [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition).ISBN:0-321-33487-6. Item 2: 'Prefer consts, enums and inlines to \#defines'
 18. [Erich Gamma](CppErichGamma.md), [Richard Helm](CppRichardHelm.md), [Ralph Johnson](CppRalphJohnson.md), [John Vlissides](CppJohnVlissides.md). Design Patterns. (1st edition) 1995. ISBN: 0201633612
 19. [Bjarne Stroustrup](CppBjarneStroustrup.md). The Design and Evolution of C++ ISBN: 0-201-54330-3
-20. [Scott Meyers](CppScottMeyers.md). The most important C++ books ...ever. 2006. Online at: http://www.artima.com/cppsource/top\_cpp\_books.html
+20. [Scott Meyers](CppScottMeyers.md). The most important C++ books ...ever. 2006. Online at: http://www.artima.com/cppsource/top_cpp_books.html

@@ -9,19 +9,19 @@
 
  
 
-([C++](Cpp.md)) [boost::scoped\_ptr](CppScoped_ptr.md)
+([C++](Cpp.md)) [boost::scoped\_ptr](CppBoostScoped_ptr.md)
 ========================================================
 
  
 
-[boost::scoped\_ptr](CppScoped_ptr.md) is a [smart
+[boost::scoped\_ptr](CppBoostScoped_ptr.md) is a [smart
 pointer](CppSmartPointer.md) that [deletes](CppDelete.md) the
 [instance](CppInstance.md) it points to when going out of
 [scope](CppScope.md).
 
  
 
-[boost::scoped\_ptr](CppScoped_ptr.md) is similar to
+[boost::scoped\_ptr](CppBoostScoped_ptr.md) is similar to
 [std::unique\_ptr](CppStdUnique_ptr.md) ([C++11](Cpp11.md)) and
 [std::auto\_ptr](CppStdAuto_ptr.md) ([C++98](Cpp98.md), depreciated in
 [C++11](Cpp11.md)).
@@ -63,7 +63,7 @@ will be shown.
 
  
 
-A [boost::scoped\_ptr](CppScoped_ptr.md) can be [null](CppNull.md),
+A [boost::scoped\_ptr](CppBoostScoped_ptr.md) can be [null](CppNull.md),
 but will check itself for it:
 
  

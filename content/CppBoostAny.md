@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [boost::any](CppAny.md)
+([C++](Cpp.md)) [boost::any](CppStdAny.md)
 =========================================
 
  
 
-[boost::any](CppAny.md) is a [Boost](CppBoost.md)
+[boost::any](CppStdAny.md) is a [Boost](CppBoost.md)
 [container](CppContainer.md) for type-safe storage of any [data
 type](CppDataType.md).
 

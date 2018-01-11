@@ -80,7 +80,7 @@ External links
     ISBN: 0201633612.
 2.  [Scott Meyers](CppScottMeyers.md). The Most Important
     C++ Books...Ever. Online at
-    http://www.artima.com/cppsource/top\_cpp\_books.html
+    http://www.artima.com/cppsource/top_cpp_books.html
 
  
 

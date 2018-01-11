@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [boost::lexical\_cast](CppLexical_cast.md)
+([C++](Cpp.md)) [boost::lexical\_cast](CppBoostLexical_cast.md)
 ============================================================
 
  
 
-[boost::lexical\_cast](CppLexical_cast.md) is a [Boost](CppBoost.md)
+[boost::lexical\_cast](CppBoostLexical_cast.md) is a [Boost](CppBoost.md)
 [function](CppFunction.md) to [convert](CppConvert.md) to/from
 [std::string](CppStdString.md) to/from (possibly) any [data
 type](CppDataType.md). [CanLexicalCast](CppCanLexicalCast.md) can
@@ -34,11 +34,11 @@ The [C++11](Cpp11.md) equivalent to [convert](CppConvert.md) to a
  
 
 [LexicalCast](CppLexicalCast.md) serves the same purpose as
-[boost::lexical\_cast](CppLexical_cast.md), but does not use
+[boost::lexical\_cast](CppBoostLexical_cast.md), but does not use
 [Boost](CppBoost.md) and does not [throw](CppThrow.md) an
 [exception](CppException.md) when conversion fails. Note that there are
 differences between [LexicalCast](CppLexicalCast.md) and
-[boost::lexical\_cast](CppLexical_cast.md), as
+[boost::lexical\_cast](CppBoostLexical_cast.md), as
 [boost::lexical\_cast](CppCanLexicalCast.md) is more strict.
 
  

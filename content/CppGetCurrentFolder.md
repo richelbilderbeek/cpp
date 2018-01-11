@@ -62,7 +62,7 @@ Screen output:
 
  
 
-[GetCurrentFolder](CppGetCurrentFolder.md) using [Boost.Filesystem](CppFilesystem.md)
+[GetCurrentFolder](CppGetCurrentFolder.md) using [Boost.Filesystem](CppBoostFilesystem.md)
 ---------------------------------------------------------------------------------------
 
  

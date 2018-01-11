@@ -149,7 +149,7 @@ The way to solve this problem is to use the [friend](CppFriend.md)
 
 1.  the [main](CppMain.md) [function](CppFunction.md)
 2.  a [smart pointer](CppSmartPointer.md)
-3.  [boost::checked\_delete](CppChecked_delete.md)
+3.  [boost::checked\_delete](CppBoostChecked_delete.md)
 
  
 
@@ -228,7 +228,7 @@ A [std::auto\_ptr](CppStdAuto_ptr.md) calls the
 
 A drawback of this solution is that a [std::auto\_ptr](CppStdAuto_ptr.md)
 does not have a checked delete (for example
-[boost::checked\_delete](CppChecked_delete.md)).
+[boost::checked\_delete](CppBoostChecked_delete.md)).
 
  
 
@@ -240,7 +240,7 @@ does not have a checked delete (for example
 
  
 
-### 3.1.3) [Befriending](CppFriend.md) [boost::checked\_delete](CppChecked_delete.md)
+### 3.1.3) [Befriending](CppFriend.md) [boost::checked\_delete](CppBoostChecked_delete.md)
 
  
 

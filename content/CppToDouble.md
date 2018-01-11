@@ -33,7 +33,7 @@ ways (incomplete list):
 To [conversion](CppConvert.md) a [std::string](CppStdString.md) to any
 [data type](CppDataType.md) one can use
 [LexicalCast](CppLexicalCast.md) and
-[boost::lexical\_cast](CppLexical_cast.md).
+[boost::lexical\_cast](CppBoostLexical_cast.md).
 
  
 

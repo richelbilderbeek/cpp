@@ -27,10 +27,10 @@ possible.
  
 
 [LexicalCast](CppLexicalCast.md) serves the same purpose as
-[boost::lexical\_cast](CppLexical_cast.md), but does not use
+[boost::lexical\_cast](CppBoostLexical_cast.md), but does not use
 [Boost](CppBoost.md). Note that there are differences between
 [LexicalCast](CppLexicalCast.md) and
-[boost::lexical\_cast](CppLexical_cast.md), as
+[boost::lexical\_cast](CppBoostLexical_cast.md), as
 [boost::lexical\_cast](CppCanLexicalCast.md) is more strict.
 
  
@@ -49,7 +49,7 @@ possible.
 
  
 
-Comparison between [LexicalCast](CppLexicalCast.md) and [boost::lexical\_cast](CppLexical_cast.md)
+Comparison between [LexicalCast](CppLexicalCast.md) and [boost::lexical\_cast](CppBoostLexical_cast.md)
 ----------------------------------------------------------------------------------------------------
 
  
@@ -58,7 +58,7 @@ The table below shows if a [std::string](CppStdString.md) can be
 [converted](CppConvert.md) according to [CanCast](CppCanCast.md) (CC)
 and [CanLexicalCast](CppCanLexicalCast.md) (CLC) and what the result
 will be after [LexicalCast](CppLexicalCast.md) (LC) and
-[boost::lexical\_cast](CppLexical_cast.md) (l\_c). Note that the first
+[boost::lexical\_cast](CppBoostLexical_cast.md) (l\_c). Note that the first
 std::string was a space (' '). Below the table I show the code I've used
 to generate this output.
 

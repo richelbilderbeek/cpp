@@ -119,7 +119,7 @@ Source code
 
  
 
-If you want to work with [Boost.Asio](CppAsio.md):
+If you want to work with [Boost.Asio](CppBoostAsio.md):
 
  
 
@@ -129,7 +129,7 @@ If you want to work with [Boost.Asio](CppAsio.md):
 
  
 
-Or if you want to work with [Boost.Filesystem](CppFilesystem.md):
+Or if you want to work with [Boost.Filesystem](CppBoostFilesystem.md):
 
  
 

@@ -72,7 +72,7 @@ Uses [std::atof](CppStdAtof.md).
 
  
 
-Uses [boost::lexical\_cast](CppLexical_cast.md).
+Uses [boost::lexical\_cast](CppBoostLexical_cast.md).
 
  
 

@@ -43,9 +43,9 @@ file](CppHeaderFile.md) [memory.h](CppMemoryH.md).
 
 Note: when you use a lot of [forward
 declarations](CppForwardDeclaration.md), you might want to prefer
-[boost::scoped\_ptr](CppScoped_ptr.md) as it uses
-[boost::checked\_delete](CppChecked_delete.md). Also,
-[boost::scoped\_ptr](CppScoped_ptr.md) cannot be copied, so you will
+[boost::scoped\_ptr](CppBoostScoped_ptr.md) as it uses
+[boost::checked\_delete](CppBoostChecked_delete.md). Also,
+[boost::scoped\_ptr](CppBoostScoped_ptr.md) cannot be copied, so you will
 nearly ever be amazed by 'strange' behaviour.
 
  

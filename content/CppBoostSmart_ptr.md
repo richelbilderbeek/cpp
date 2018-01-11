@@ -32,7 +32,7 @@ List of [Boost.Smart\_ptr](CppSmart_ptr.md) types (incomplete)
 
  
 
--   [boost::scoped\_ptr](CppScoped_ptr.md)
+-   [boost::scoped\_ptr](CppBoostScoped_ptr.md)
 -   [boost::shared\_ptr](CppShared_ptr.md)
 
  

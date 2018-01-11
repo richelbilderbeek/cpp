@@ -21,7 +21,7 @@ snippet](CppCodeSnippets.md) to [convert](CppConvert.md)
  
 
 [LexicalCast](CppLexicalCast.md) and
-[boost::lexical\_cast](CppLexical_cast.md) are more general then
+[boost::lexical\_cast](CppBoostLexical_cast.md) are more general then
 [ToInt](CppToInt.md) and [convert](CppConvert.md) a
 [std::string](CppStdString.md) to any [data type](CppDataType.md).
 

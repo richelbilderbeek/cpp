@@ -140,14 +140,14 @@ WtMainDialog has only three methods:
 -   WtMainDialog::OnEditChanged: sets the data of the server to the
     freshly edited text in the Wt::WLineEdit.
     [WtBroadcastServer](CppWtBroadcastServer.md) holds only one piece
-    of data, in the form of [boost::any](CppAny.md). In this case, the
+    of data, in the form of [boost::any](CppStdAny.md). In this case, the
     data is of type [std::string](CppStdString.md), but it can be any (no
     pun intended) much more complex [data type](CppDataType.md)
 -   WtMainDialog::UpdatePage: this method is called every 100
     milliseconds and gets the data of the server and puts it in the
     Wt::WLineEdit. The use of [boost::any\_cast](CppAny_cast.md) is
     needed, because [WtBroadcastServer](CppWtBroadcastServer.md) holds
-    only one piece of data, in the form of [boost::any](CppAny.md). It
+    only one piece of data, in the form of [boost::any](CppStdAny.md). It
     can be true, however, that
     [WtBroadcastServer](CppWtBroadcastServer.md) has no data yet. In
     such a case, [boost::any\_cast](CppAny_cast.md) throws

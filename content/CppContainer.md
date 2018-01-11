@@ -102,18 +102,18 @@ SGI extension [containers](CppContainer.md) (incomplete list)
 
  
 
--   [boost::any](CppAny.md)
+-   [boost::any](CppStdAny.md)
 -   [boost::array](CppBoostArray.md)
 -   boost::compressed\_pair
 -   boost::dynamic\_bitset
--   [boost::multi\_array](CppMulti_array.md)
+-   [boost::multi\_array](CppBoostMulti_array.md)
 -   boost::ptr\_array
 -   boost::ptr\_deque
 -   boost::ptr\_list
 -   boost::ptr\_map
 -   boost::ptr\_multimap
 -   boost::ptr\_multiset
--   [boost::ptr\_set](CppPtr_set.md)
+-   [boost::ptr\_set](CppBoostPtr_set.md)
 -   boost::ptr\_vector
 -   boost::shared\_array
 -   [boost::tuple](CppBoostTuple.md)

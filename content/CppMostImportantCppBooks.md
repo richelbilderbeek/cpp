@@ -48,7 +48,7 @@ List of the top 5 most important C++ books ever \[1\].
 
 1.  [Scott Meyers](CppScottMeyers.md). The Most Important
     C++ Books...Ever. Online at
-    http://www.artima.com/cppsource/top\_cpp\_books.html
+    http://www.artima.com/cppsource/top_cpp_books.html
 
  
 

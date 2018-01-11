@@ -327,7 +327,7 @@ Great stuff for historicians!
 216. 15-02-2011: New page: [QtMobility::QSystemInfo](CppQSystemInfo.md)
 217. 15-02-2011: New page: [QtMobility](CppQtMobility.md)
 218. 10-02-2011: New page: [boost::numeric\_cast](CppNumeric_cast.md)
-219. 10-02-2011: Modified [boost::scoped\_ptr](CppScoped_ptr.md):
+219. 10-02-2011: Modified [boost::scoped\_ptr](CppBoostScoped_ptr.md):
     improved page source
 220. 10-02-2011: Modified [StrToAnsi](CppStrToAnsi.md): improved page
     source
@@ -1127,8 +1127,8 @@ Great stuff for historicians!
 732. 03-08-2010: New page: [std::floor](CppFloor.md)
 733. 03-08-2010: New page: [signals](CppQtSignals.md)
 734. 03-08-2010: New page: [slots](CppSlots.md)
-735. 03-08-2010: New page: [boost::noncopyable](CppNoncopyable.md)
-736. 02-08-2010: New page: [Boost.Filesystem](CppFilesystem.md)
+735. 03-08-2010: New page: [boost::noncopyable](CppBoostNoncopyable.md)
+736. 02-08-2010: New page: [Boost.Filesystem](CppBoostFilesystem.md)
 737. 02-08-2010: New page: [Boost.Filesystem example 1: count C++
     webpages](CppFilesystemExample1.md)
 738. 02-08-2010: New page: [Boost.Filesystem example 2: count C++
@@ -1197,7 +1197,7 @@ Great stuff for historicians!
 789. 30-07-2010: New page: [Qt FAQ: How to draw a sprite on a
     sprite?](CppQtSpriteOnSprite.md)
 790. 30-07-2010: New page: [bit\_vector](CppBit_vector.md)
-791. 30-07-2010: New page: [boost::any](CppAny.md)
+791. 30-07-2010: New page: [boost::any](CppStdAny.md)
 792. 30-07-2010: New page: [std::adjacent\_find](CppAdjacent_find.md)
 793. 30-07-2010: New page: [std::binary\_search](CppBinary_search.md)
 794. 30-07-2010: New page: [std::boolalpha](Cppstd::boolalpha.md)
@@ -1247,7 +1247,7 @@ Great stuff for historicians!
 824. 27-07-2010: New page: [Bjorn Karlsson](CppBjornKarlsson.md)
 825. 27-07-2010: New page: [operator||](CppOperatorLogicalOr.md)
 826. 27-07-2010: New page:
-    [boost::bad\_lexical\_cast](CppBad_lexical_cast.md)
+    [boost::bad\_lexical\_cast](CppBoostBad_lexical_cast.md)
 827. 27-07-2010: New page: [export](CppExport.md)
 828. 27-07-2010: New page: [M\_PI](CppM_PI.md)
 829. 27-07-2010: New page: [std::numeric\_limits](CppStdNumeric_limits.md)
@@ -1361,7 +1361,7 @@ Great stuff for historicians!
 914. 23-07-2010: Modified [Undefined reference to
     'SSLv2\_method'](CppLinkErrorUndefinedReferenceToSSLv2_method.md):
     improved page source
-915. 22-07-2010: New page: [Asio](CppAsio.md)
+915. 22-07-2010: New page: [Asio](CppBoostAsio.md)
 916. 22-07-2010: New page: [Asio example 1: a chat
     server](CppAsioExample1.md)
 917. 22-07-2010: New page: [Asio example 2: a chat
@@ -1372,8 +1372,8 @@ Great stuff for historicians!
     'boost::thread::thread()'](CppLinkErrorUndefinedReferenceToBoostThread.md)
 920. 22-07-2010: New page: [std::make\_pair](CppMake_pair.md)
 921. 22-07-2010: New page: [std::ostringstream](CppStdOstringstream.md)
-922. 22-07-2010: New page: [boost::get](CppGet.md)
-923. 22-07-2010: New page: [boost::multi\_array](CppMulti_array.md)
+922. 22-07-2010: New page: [boost::get](CppStdGet.md)
+923. 22-07-2010: New page: [boost::multi\_array](CppBoostMulti_array.md)
 924. 22-07-2010: New page: [std::fill](CppFill.md)
 925. 22-07-2010: New page: [undefined reference to 'vtable for
     MyDialog'](CppLinkErrorUndefinedReferenceToVtableForMyDialog.md)
@@ -1393,13 +1393,13 @@ Great stuff for historicians!
 932. 21-07-2010: New page: [GAlib](CppGalib.md)
 933. 21-07-2010: New page: [MathGL](CppMathGl.md)
 934. 21-07-2010: New page: [QwtPlot3D](CppQwtPlot3d.md)
-935. 21-07-2010: New page: [Asio](CppAsio.md)
+935. 21-07-2010: New page: [Asio](CppBoostAsio.md)
 936. 21-07-2010: New page: [exception.h](CppExceptionH.md)
 937. 21-07-2010: New page: [Qt example 9: custom sprites over custom
     background](CppQtExample9.md)
 938. 21-07-2010: New page: [Qt example 10: change label when dialog is
     resized](CppQtExample10.md)
-939. 21-07-2010: Modified [boost::lexical\_cast](CppLexical_cast.md):
+939. 21-07-2010: Modified [boost::lexical\_cast](CppBoostLexical_cast.md):
     improved page source
 940. 21-07-2010: Modified [std::exception](CppException.md): improved
     page source
@@ -1557,7 +1557,7 @@ Great stuff for historicians!
     source
 1041. 29-05-2010: Modified [std::swap](CppStdSwap.md): added page content
 1042. 28-05-2010: New page: [std::domain\_error](CppDomain_error.md)
-1043. 28-05-2010: New page: [boost::ptr\_set](CppPtr_set.md)
+1043. 28-05-2010: New page: [boost::ptr\_set](CppBoostPtr_set.md)
 1044. 26-05-2010: New page: [try](CppTry.md)
 1045. 26-05-2010: Modified [CanLexicalCast](CppCanLexicalCast.md):
     improved page source
@@ -1669,7 +1669,7 @@ Great stuff for historicians!
 1119. 14-05-2010: Modified [std::swap](CppStdSwap.md): improved page
     content
 1120. 14-05-2010: Modified
-    [boost::checked\_delete](CppChecked_delete.md): improved page
+    [boost::checked\_delete](CppBoostChecked_delete.md): improved page
     content
 1121. 13-05-2010: New page: [OpenGL](CppOpenGl.md)
 1122. 13-05-2010: New page: [cstdlib.h](CppCstdlibH.md)
@@ -2561,7 +2561,7 @@ Great stuff for historicians!
 1624. 20-09-2009: New page: [argv](CppArgv.md)
 1625. 20-09-2009: New page: [argc](CppArgc.md)
 1626. 20-09-2009: New page: [private](CppPrivate.md)
-1627. 20-09-2009: New page: [boost::scoped\_ptr](CppScoped_ptr.md)
+1627. 20-09-2009: New page: [boost::scoped\_ptr](CppBoostScoped_ptr.md)
 1628. 20-09-2009: Modified [StrToInt](CppStrToInt.md): added internal
     links
 1629. 20-09-2009: Modified [AnsiToStr](CppAnsiToStr.md) &gt;: added
@@ -3011,7 +3011,7 @@ Great stuff for historicians!
     one](CppExerciseAddOneAnswer.md)
 1883. 24-07-2008: New page:
     [FilterOperationer](ToolFilterOperationer.md)
-1884. 24-07-2008: Modified [boost::lexical\_cast](CppLexical_cast.md):
+1884. 24-07-2008: Modified [boost::lexical\_cast](CppBoostLexical_cast.md):
     added internal links
 1885. 24-07-2008: Modified [LexicalCast](CppLexicalCast.md): added
     internal links
@@ -3025,7 +3025,7 @@ Great stuff for historicians!
     internal links
 1890. 23-07-2008: New page:
     [DoFilterOperation](CppDoFilterOperation.md)
-1891. 23-07-2008: New page: [boost::lexical\_cast](CppLexical_cast.md)
+1891. 23-07-2008: New page: [boost::lexical\_cast](CppBoostLexical_cast.md)
 1892. 23-07-2008: New page: [LexicalCast](CppLexicalCast.md)
 1893. 23-07-2008: New page: [CanLexicalCast](CppCanLexicalCast.md)
 1894. 23-07-2008: New page: [CanCast](CppCanCast.md)
@@ -3327,7 +3327,7 @@ Great stuff for historicians!
 2063. 16-06-2008: New page: [wchar\_t](CppWchar_t.md)
 2064. 16-06-2008: New page: [do](CppDo.md)
 2065. 16-06-2008: New page:
-    [boost::checked\_delete](CppChecked_delete.md)
+    [boost::checked\_delete](CppBoostChecked_delete.md)
 2066. 16-06-2008: Modified [Exercise](CppExercise.md): added internal
     links
 2067. 16-06-2008: Modified [Avoid duplication in const and non-const

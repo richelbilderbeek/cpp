@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [boost::multi\_array](CppMulti_array.md)
+([C++](Cpp.md)) [boost::multi\_array](CppBoostMulti_array.md)
 ==========================================================
 
  
 
-[boost::multi\_array](CppMulti_array.md) is a [Boost](CppBoost.md)
+[boost::multi\_array](CppBoostMulti_array.md) is a [Boost](CppBoost.md)
 [container](CppContainer.md) for storing elements similar to a
 multi-dimensional array.
 

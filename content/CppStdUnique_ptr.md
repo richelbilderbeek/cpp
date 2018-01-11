@@ -80,7 +80,7 @@ Comparison of [std::unique\_ptr](CppStdUnique_ptr.md) and [boost::scoped\_ptr](C
 
  
 
--   [boost::scoped\_ptr](CppScoped_ptr.md) can be used from every
+-   [boost::scoped\_ptr](CppBoostScoped_ptr.md) can be used from every
     [C++](Cpp.md) [standard](CppStandard.md),
     [std::unique\_ptr](CppStdUnique_ptr.md) from [C++11](Cpp11.md)
 -   [std::unique\_ptr](CppStdUnique_ptr.md) is part of the official

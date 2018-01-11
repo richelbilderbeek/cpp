@@ -24,13 +24,6 @@ two operations are called the erase-remove idiom.
 Use the erase-remove idiom the really remove a value from a
 [std::vector](CppStdVector.md).
 
-## [Examples](CppExample.md)
-
- * [std::vector example 1: basics](CppStdVectorExample1.md)
- * [std::vector example 2: erase-remove idiom](CppStdVectorExample2.md)
- * [std::vector example 3: C++11 emplace member function](CppStdVectorExample3.md)
- * [std::vector example 4: remove an element with preserving the order](CppStdVectorExample4.md)
-
 ## [std::vector](CppStdVector.md) [code snippets](CppCodeSnippets.md)
 
 Note that among these are also more general

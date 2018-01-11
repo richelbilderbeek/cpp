@@ -8,7 +8,7 @@ pointer](CppSmartPointer.md) [library](CppLibrary.md).
 
 ## List of [smart pointers](CppSmartPointer.md) (incomplete)
 
--   ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::scoped\_ptr](CppScoped_ptr.md)
+-   ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::scoped\_ptr](CppBoostScoped_ptr.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::shared\_ptr](CppShared_ptr.md)
 -   ![C++98](PicCpp98.png)![Boost](PicBoost.png) [boost::weak\_ptr](CppWeak_ptr.md)
 -   ![C++98](PicCpp98.png)![Qt](PicQt.png) [QPointer](CppQPointer.md)

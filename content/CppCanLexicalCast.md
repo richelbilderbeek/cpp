@@ -18,7 +18,7 @@
 [code snippet](CppCodeSnippets.md) that let you check if you can
 convert a [std::string](CppStdString.md) to another [data
 type](CppDataType.md) using
-[boost::lexical\_cast](CppLexical_cast.md).
+[boost::lexical\_cast](CppBoostLexical_cast.md).
 
  
 

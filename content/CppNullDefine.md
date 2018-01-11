@@ -59,7 +59,7 @@ The code below shows that initializing a
 [boost::shared\_ptr](CppShared_ptr.md) with [null](CppNull.md) will
 not be easy, but even when it succeeds,
 [boost::shared\_ptr](CppShared_ptr.md) will check itself for
-[null](CppNull.md). A [boost::scoped\_ptr](CppScoped_ptr.md) can be
+[null](CppNull.md). A [boost::scoped\_ptr](CppBoostScoped_ptr.md) can be
 [null](CppNull.md), but will check itself for it as well.
 
  
