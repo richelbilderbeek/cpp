@@ -20,7 +20,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [ConnectThreeWidget](CppConnectThreeWidget.md) is a
-[widget](CppWidget.md) for a [ConnectThree game](GameConnectThree.md).
+[widget](CppWidget.md) for a [ConnectThree game](https://github.com/richelbilderbeek/ConnectThree).
 
 Technical facts
 ---------------

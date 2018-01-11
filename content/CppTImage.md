@@ -26,7 +26,7 @@ page](CppVclGraphics.md).
  
 
 [Extctrls::TImage](CppTImage.md) is used heavily in both my
-[tools](https://github.com/richelbilderbeek/tools) and [games](Games.md).
+[tools](https://github.com/richelbilderbeek/tools) and [games](https://github.com/richelbilderbeek/Games).
 
  
 

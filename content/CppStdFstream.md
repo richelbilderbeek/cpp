@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::fstream](CppFstream.md)
+([C++](Cpp.md)) [std::fstream](CppStdFstream.md)
 ===============================================
 
  
 
-[std::fstream](CppFstream.md) is an [STL](CppStl.md)
+[std::fstream](CppStdFstream.md) is an [STL](CppStl.md)
 [stream](CppStream.md) for [file I/O](CppFileIo.md).
 
  

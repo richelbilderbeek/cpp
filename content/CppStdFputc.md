@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::fputc](CppFputc.md)
+([C++](Cpp.md)) [std::fputc](CppStdFputc.md)
 ===========================================
 
  
 
-[std::fputc](CppFputc.md) is an [STL](CppStl.md)
+[std::fputc](CppStdFputc.md) is an [STL](CppStl.md)
 [function](CppFunction.md).
 
  
 
-[std::fputc](CppFputc.md) is [defined](CppDefinition.md) in
+[std::fputc](CppStdFputc.md) is [defined](CppDefinition.md) in
 [cstdio.h](CppCstdioH.md).
 
  

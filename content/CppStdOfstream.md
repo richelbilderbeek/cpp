@@ -22,7 +22,7 @@ I/O](CppFileIo.md) output [stream](CppStream.md).
 
 [std::ofstream](CppOfstream.md) is used to write to a file. To read
 from a file, use [std::ifstream](CppIfstream.md). Both are [derived
-classes](CppDerivedClass.md) from [std::fstream](CppFstream.md).
+classes](CppDerivedClass.md) from [std::fstream](CppStdFstream.md).
 
  
 

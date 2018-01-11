@@ -64,7 +64,7 @@ Programs [cross-compiled to a windows executable](CppQtCrosscompileToWindows.md)
 
  
 
--   [ConnectThree](GameConnectThree.md)
+-   [ConnectThree](https://github.com/richelbilderbeek/ConnectThree)
 -   [PerfectElasticCollision](ToolPerfectElasticCollision.md)
 -   [Random Code](ToolRandomCode.md)
 -   [SimMysteryMachine](ToolSimMysteryMachine.md)

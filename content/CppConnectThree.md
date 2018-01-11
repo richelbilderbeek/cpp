@@ -20,7 +20,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
  
 
 [ConnectThree](CppConnectThree.md) is a [class](CppClass.md) for a
-[ConnectThree game](GameConnectThree.md).
+[ConnectThree game](https://github.com/richelbilderbeek/ConnectThree).
 
 Technical facts
 ---------------

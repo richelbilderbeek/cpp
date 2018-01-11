@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::hex](CppHex.md)
+([C++](Cpp.md)) [std::hex](CppStdHex.md)
 =======================================
 
  
 
-[std::hex](CppHex.md) is a [stream](CppStream.md) manipulator to
+[std::hex](CppStdHex.md) is a [stream](CppStream.md) manipulator to
 system the number system to hexadecimal.
 
  

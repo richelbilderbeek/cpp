@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::fabs](CppFabs.md)
+([C++](Cpp.md)) [std::fabs](CppStdFabs.md)
 =========================================
 
  
 
-[std::fabs](CppFabs.md) is an [STL](CppStl.md)
+[std::fabs](CppStdFabs.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to take the absolute value of a
 [double](CppDouble.md).
 
  
 
-[std::fabs](CppFabs.md) is defined in the [header
+[std::fabs](CppStdFabs.md) is defined in the [header
 file](CppHeaderFile.md) [cmath.h](CppCmathH.md).
 
  
@@ -39,14 +39,14 @@ file](CppHeaderFile.md) [cmath.h](CppCmathH.md).
 
  
 
-Difference between [std::abs](CppStdAbs.md) and [std::fabs](CppFabs.md)
+Difference between [std::abs](CppStdAbs.md) and [std::fabs](CppStdFabs.md)
 ----------------------------------------------------------------------
 
  
 
 [std::abs](CppStdAbs.md) can be used to calculate the absolute value of
 both an [integer](CppInt.md) and a [double](CppDouble.md), where
-[std::fabs](CppFabs.md) can only be used to obtain the absolute value
+[std::fabs](CppStdFabs.md) can only be used to obtain the absolute value
 of a [double](CppDouble.md).
 
  

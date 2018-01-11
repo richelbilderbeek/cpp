@@ -1,14 +1,3 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ([C++](Cpp.md)) ![C++11](PicCpp11.png) [std::thread](CppStdThread.md)
 =======================================================================
 
@@ -96,20 +85,6 @@ External links
 [References](CppReferences.md)
 -------------------------------
 
- 
 
 1.  [Wikipedia page about
-    threads](http://en.wikipedia.org/wiki/Thread_(computer_science))
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+    threads](http://en.wikipedia.org/wiki/Thread_\(computer_science))

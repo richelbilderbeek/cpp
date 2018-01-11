@@ -22,8 +22,8 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 [QtConnectThreeWidget](CppQtConnectThreeWidget.md) is a [Qt](CppQt.md)
 [widget](CppWidget.md) [class](CppClass.md) for a responsive
 connect-three game. [QtConnectThreeWidget](CppQtConnectThreeWidget.md)
-is used in, among others, the [game](Games.md)
-[ConnectThree](GameConnectThree.md).
+is used in, among others, the [game](https://github.com/richelbilderbeek/Games)
+[ConnectThree](https://github.com/richelbilderbeek/ConnectThree).
 
 Technical facts
 ---------------

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::dec](CppDec.md)
+([C++](Cpp.md)) [std::dec](CppStdDec.md)
 =======================================
 
  
 
-[std::dec](CppDec.md) is a [stream](CppStream.md) manipulator to
+[std::dec](CppStdDec.md) is a [stream](CppStream.md) manipulator to
 system the number system to decimal.
 
  

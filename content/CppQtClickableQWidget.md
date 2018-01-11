@@ -35,7 +35,7 @@ The full code can be viewed and downloaded below.
 
  
 
-The sprites used in this example are from a [game](Games.md) of mine,
+The sprites used in this example are from a [game](https://github.com/richelbilderbeek/Games) of mine,
 called [Maziak](GameMaziak.md).
 
  

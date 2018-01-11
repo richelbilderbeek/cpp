@@ -13,7 +13,7 @@ C++ is not just object-oriented [1], nor just for generic programming
  * [C++ benchmarks](CppBenchmark.md): my C++ benchmarks
  * [C++ exercises](CppExercise.md): C++ exercises for beginners and advanced
  * [C++ FAQ](CppFaq.md): the Frequently Asked Questions section
- * [C++ games](Games.md): play, get addicted and download the sourcecode of my games
+ * [C++ games](https://github.com/richelbilderbeek/Games): play, get addicted and download the sourcecode of my games
  * [C++ glossary](CppGlossary.md): an overview of all my (+2500) C++ pages
  * [C++ 'Hello World' program](CppHelloWorld.md): the standard starting point
  * [C++ standard](CppStandard.md): ![C++98](PicCpp98.png) [C++98](Cpp98.md), ![C++11](PicCpp11.png) [C++11](Cpp11.md)

@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [Random number](CppStdRand.mdomNumber.md)
+([C++](Cpp.md)) [Random number](CppStdRandomdomNumber.md)
 =====================================================
 
  
@@ -29,15 +29,15 @@
     one](CppGetRandomUniform.md)
 6.  [rand, get a random integer](CppStdRand.md.md)
 7.  [random\_shuffle, shuffle a std::vector to a random
-    order](CppStdRand.mdomShuffle.md)
-8.  [Randomize on timer, RandomizeTimer](CppStdRand.mdomizeTimer.md)
-9.  [RandomizeTimer, randomize on timer](CppStdRand.mdomizeTimer.md)
-10. [Set seed using timer, RandomizeTimer](CppStdRand.mdomizeTimer.md)
+    order](CppStdRandomdomShuffle.md)
+8.  [Randomize on timer, RandomizeTimer](CppStdRandomdomizeTimer.md)
+9.  [RandomizeTimer, randomize on timer](CppStdRandomdomizeTimer.md)
+10. [Set seed using timer, RandomizeTimer](CppStdRandomdomizeTimer.md)
 11. [Shuffle a std::vector to a random order,
-    std::random\_shuffle](CppStdRand.mdomShuffle.md)
+    std::random\_shuffle](CppStdRandomdomShuffle.md)
 12. [std::rand, get a random integer](CppStdRand.md.md)
 13. [std::random\_shuffle, shuffle a std::vector to a random
-    order](CppStdRand.mdomShuffle.md)
+    order](CppStdRandomdomShuffle.md)
 
  
 

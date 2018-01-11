@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::acos](CppAcos.md)
+([C++](Cpp.md)) [std::acos](CppStdAcos.md)
 =========================================
 
  
 
-[std::acos](CppAcos.md) is a [mathematical](CppMath.md)
+[std::acos](CppStdAcos.md) is a [mathematical](CppMath.md)
 [function](CppFunction.md) to calculate the arc cosine.
 
  

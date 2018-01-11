@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::sort\_heap](CppSort_heap.md)
+([C++](Cpp.md)) [std::sort\_heap](CppStdSort_heap.md)
 ====================================================
 
  
 
-[std::sort\_heap](CppSort_heap.md) is an [STL](CppStl.md) heap
+[std::sort\_heap](CppStdSort_heap.md) is an [STL](CppStl.md) heap
 [algorithm](CppAlgorithm.md) to rearrange the elements in
 [container](CppContainer.md) from a heap to a sorted sequence.
 

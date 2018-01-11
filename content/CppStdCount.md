@@ -38,7 +38,7 @@ This page is about two different [count](CppCount.md)s:
 [std::count](CppCount.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) for counting elements in a
 [container](CppContainer.md). For conditional counting use
-[std::count\_if](CppCount_if.md).
+[std::count\_if](CppStdCount_if.md).
 
  
 

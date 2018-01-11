@@ -5,7 +5,7 @@ copying and searching.
 
 ## [File I/O](CppFileIo.md) [STL](CppStl.md) [functions](CppFunction.md) and [data types](CppDataType.md)
 
--   [std::fstream](CppFstream.md): file [stream](CppStream.md)
+-   [std::fstream](CppStdFstream.md): file [stream](CppStream.md)
 -   [std::remove](CppStdRemove.md): remove a file
 
 ## [File I/O](CppFileIo.md) [code snippets](CppCodeSnippets.md)

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::sinh](CppSinh.md)
+([C++](Cpp.md)) [std::sinh](CppStdSinh.md)
 =========================================
 
  
 
-[std::sinh](CppSinh.md) is an [STL](CppStl.md)
+[std::sinh](CppStdSinh.md) is an [STL](CppStl.md)
 [mathematical](CppMath.md) [function](CppFunction.md) to calculate the
 hyperbolic sine.
 

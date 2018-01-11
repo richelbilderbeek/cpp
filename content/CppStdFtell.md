@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::ftell](CppFtell.md)
+([C++](Cpp.md)) [std::ftell](CppStdFtell.md)
 ===========================================
 
  
 
-[std::ftell](CppFtell.md) is an [STL](CppStl.md)
+[std::ftell](CppStdFtell.md) is an [STL](CppStl.md)
 [function](CppFunction.md).
 
  
 
-[std::ftell](CppFtell.md) is [defined](CppDefinition.md) in
+[std::ftell](CppStdFtell.md) is [defined](CppDefinition.md) in
 [cstdio.h](CppCstdioH.md).
 
  

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::isupper](CppIsupper.md)
+([C++](Cpp.md)) [std::isupper](CppStdIsupper.md)
 ===============================================
 
  
 
-[std::isupper](CppIsupper.md) is an [STL](CppStl.md)
+[std::isupper](CppStdIsupper.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to check if a [character](CppChar.md) is an
 uppercase alphabetic letter.
 

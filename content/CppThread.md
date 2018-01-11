@@ -26,7 +26,7 @@ provide answers with [references](CppReferences.md).
 
 ## [References](CppReferences.md)
 
-1.  [Wikipedia page about threads](http://en.wikipedia.org/wiki/Thread_(computer_science))
+1.  [Wikipedia page about threads](http://en.wikipedia.org/wiki/Thread_\(computer_science))
 
  
 

@@ -19,7 +19,7 @@ A [GUI application](CppGuiApplication.md) is an
 ('Graphical User Interface'). In other words: it is an
 [application](CppApplication.md) that uses windows/dialogs with visual
 elements on which the user can click or navigate to with the keyboard.
-Most [games](Games.md) are [GUI applications](CppGuiApplication.md),
+Most [games](https://github.com/richelbilderbeek/Games) are [GUI applications](CppGuiApplication.md),
 with the exception for text-adventures.
 
  

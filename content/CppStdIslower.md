@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::islower](CppIslower.md)
+([C++](Cpp.md)) [std::islower](CppStdIslower.md)
 ===============================================
 
  
 
-[std::islower](CppIslower.md) is an [STL](CppStl.md)
+[std::islower](CppStdIslower.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to check if a [character](CppChar.md) is a
 lowercase alphabetic letter.
 

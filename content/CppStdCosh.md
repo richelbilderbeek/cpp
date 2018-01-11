@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::cosh](CppCosh.md)
+([C++](Cpp.md)) [std::cosh](CppStdCosh.md)
 =========================================
 
  
 
-[std::cosh](CppCosh.md) is an [STL](CppStl.md)
+[std::cosh](CppStdCosh.md) is an [STL](CppStl.md)
 [mathematical](CppMath.md) [function](CppFunction.md) to calculate the
 hyperbolic cosine.
 

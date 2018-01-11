@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::exp](CppExp.md)
+([C++](Cpp.md)) [std::exp](CppStdExp.md)
 =======================================
 
  
 
-[std::exp](CppExp.md) is am [STL](CppStl.md) [math](CppMath.md)
+[std::exp](CppStdExp.md) is am [STL](CppStl.md) [math](CppMath.md)
 [function](CppFunction.md) to obtain the natural logarithm of a value.
 
  

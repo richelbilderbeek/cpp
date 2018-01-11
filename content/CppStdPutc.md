@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::putc](CppPutc.md)
+([C++](Cpp.md)) [std::putc](CppStdPutc.md)
 =========================================
 
  
 
-[std::putc](CppPutc.md) is a C-style [function](CppFunction.md) to
+[std::putc](CppStdPutc.md) is a C-style [function](CppFunction.md) to
 append a [character](CppChar.md) to a file.
 
  

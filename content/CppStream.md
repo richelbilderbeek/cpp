@@ -76,7 +76,7 @@ Types of [streams](CppStream.md) are:
     [std::string](CppStdString.md) [stream](CppStream.md)
 -   [std::ostream](CppStdOstream.md): output [stream](CppStream.md)
 -   [std::istream](CppStdIstream.md): input [stream](CppStream.md)
--   [std::fstream](CppFstream.md): file [stream](CppStream.md)
+-   [std::fstream](CppStdFstream.md): file [stream](CppStream.md)
 
  
 

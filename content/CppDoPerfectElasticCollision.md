@@ -33,7 +33,7 @@ function's working. The function assumes equals mass of both players.
 
 I (re)developed
 [DoPerfectElasticCollision](CppDoPerfectElasticCollision.md) for the
-[game](Games.md) [Boenken](GameBoenken.md).
+[game](https://github.com/richelbilderbeek/Games) [Boenken](GameBoenken.md).
 
  
 

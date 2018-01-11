@@ -21,7 +21,7 @@ in the [exception hierarchy](CppExceptionHierarchy.md) (incomplete
 list):
 
 -   [std::bad\_alloc](CppStdBad_alloc.md)
--   [std::bad\_cast](CppBad_cast.md)
+-   [std::bad\_cast](CppStdBad_cast.md)
 -   [std::bad\_exception](CppBad_exception.md)
 -   [std::bad\_typeid](CppBad_typeid.md)
 -   [std::domain\_error](CppDomain_error.md)

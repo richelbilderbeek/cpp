@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::wclog](CppWclog.md)
+([C++](Cpp.md)) [std::wclog](CppStdWclog.md)
 ===========================================
 
  
 
-[std::wclog](CppWclog.md) is the standard output
+[std::wclog](CppStdWclog.md) is the standard output
 [stream](CppStream.md)[]() similar to [std::clog](CppStdClog.md), yet for
 [wide characters](CppWchar_t.md).
 

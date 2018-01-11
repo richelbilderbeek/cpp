@@ -20,8 +20,8 @@ to perform a [modulus operation](CppOperatorModulus.md) on
 
  
 
-[std::modf](CppModf.md) has a different purpose as [Fmod](CppFmod.md):
-[std::modf](CppModf.md) splits a [double](CppDouble.md) into its
+[std::modf](CppStdModf.md) has a different purpose as [Fmod](CppFmod.md):
+[std::modf](CppStdModf.md) splits a [double](CppDouble.md) into its
 [integer](CppInt.md) and a fractional part, for example it splits 12.34
 into 12 and 0.34
 

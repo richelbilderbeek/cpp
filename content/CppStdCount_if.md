@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::count\_if](CppCount_if.md)
+([C++](Cpp.md)) [std::count\_if](CppStdCount_if.md)
 ==================================================
 
  
 
-[std::count\_if](CppCount_if.md) is an [STL](CppStl.md)
+[std::count\_if](CppStdCount_if.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) for counting elements in a
 [container](CppContainer.md) matching a certain
 [predicate](CppPredicate.md). For counting without a

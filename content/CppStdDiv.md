@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::div](CppDiv.md)
+([C++](Cpp.md)) [std::div](CppStdDiv.md)
 =======================================
 
  
 
-[std::div](CppDiv.md) is an [STL](CppStl.md)
+[std::div](CppStdDiv.md) is an [STL](CppStl.md)
 [function](CppFunction.md) for [integer](CppInt.md) division, which
 creates a [std::div\_t](CppDiv_t.md) containing the quotient and
 remainder of the division.

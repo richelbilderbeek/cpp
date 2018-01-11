@@ -9,18 +9,18 @@
 
  
 
-([C++](Cpp.md)) [std::merge](CppMerge.md)
+([C++](Cpp.md)) [std::merge](CppStdMerge.md)
 ===========================================
 
  
 
-[std::merge](CppMerge.md) is an [algorithm](CppAlgorithm.md) that
+[std::merge](CppStdMerge.md) is an [algorithm](CppAlgorithm.md) that
 merges two sorted [containers](CppContainer.md) into a third sorted
 [container](CppContainer.md).
 
  
 
-[std::merge](CppMerge.md) is [defined](CppDefinition.md) in the
+[std::merge](CppStdMerge.md) is [defined](CppDefinition.md) in the
 [header file](CppHeaderFile.md) [algorithm.h](CppAlgorithmH.md).
 
  

@@ -27,7 +27,7 @@ and remainder of the division.
 
  
 
-The related [std::div](CppDiv.md) [function](CppFunction.md) works on
+The related [std::div](CppStdDiv.md) [function](CppFunction.md) works on
 [ints](CppInt.md).
 
  

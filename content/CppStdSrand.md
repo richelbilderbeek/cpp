@@ -38,12 +38,12 @@ The code below demonstrates that after setting a seed of zero, the first
 
  
 
-Example: [RandomizeTimer](CppStdRand.mdomizeTimer.md)
+Example: [RandomizeTimer](CppStdRandomdomizeTimer.md)
 ------------------------------------------------
 
  
 
-[RandomizeTimer](CppStdRand.mdomizeTimer.md) can be used to set a seed based
+[RandomizeTimer](CppStdRandomdomizeTimer.md) can be used to set a seed based
 on the system time.
 
  

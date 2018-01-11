@@ -9,23 +9,23 @@
 
  
 
-([C++](Cpp.md)) [std::fputs](CppFputs.md)
+([C++](Cpp.md)) [std::fputs](CppStdFputs.md)
 ===========================================
 
  
 
-[std::fputs](CppFputs.md) is a [function](CppFunction.md) used in
+[std::fputs](CppStdFputs.md) is a [function](CppFunction.md) used in
 C-style [file I/O](CppFileIo.md):
 
 -   [std::fopen](CppFopen.md): opens a file
--   [std::fputs](CppFputs.md): write to file
--   [std::fseek](CppFseek.md): change position to write
+-   [std::fputs](CppStdFputs.md): write to file
+-   [std::fseek](CppStdFseek.md): change position to write
 -   [std::fclose](CppFclose.md): close file
 
  
 
 Prefer using the [C++](Cpp.md) file [stream](CppStream.md)
-[std::fstream](CppFstream.md).
+[std::fstream](CppStdFstream.md).
 
  
 

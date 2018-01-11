@@ -24,9 +24,9 @@
 -   [Wt example 3: broadcasting](CppWtExample3.md)
 -   [Wt example 4: broadcasting using
     WtBroadcastServer](CppWtExample4.md)
--   [ConnectThree](GameConnectThree.md): connect-Three
-    [game](Games.md)
--   [K3-Op-Een-Rij](GameK3OpEenRij.md): connect-Three [game](Games.md)
+-   [ConnectThree](https://github.com/richelbilderbeek/ConnectThree): connect-Three
+    [game](https://github.com/richelbilderbeek/Games)
+-   [K3-Op-Een-Rij](GameK3OpEenRij.md): connect-Three [game](https://github.com/richelbilderbeek/Games)
     with K3 (a flemish girlyband) style
 -   [Loose](ToolLoose.md): [tool](https://github.com/richelbilderbeek/tools) to redirect any email
     adress name to the limited number of email addresses an email host
