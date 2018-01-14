@@ -1,15 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [QGraphicsRectItemExample1](CppQGraphicsRectItemExample1.md)
+# ([C++](Cpp.md)) [QGraphicsRectItemExample1](CppQGraphicsRectItemExample1.md)
 ==============================================================================
 
  
@@ -31,7 +20,7 @@ movable and selectable.
 -   ![Qt Creator](PicQtCreator.png) [Download the Qt Creator project
     'QGraphicsRectItemExample1' (zip)](CppQGraphicsRectItemExample1.zip)
 -   ![Windows](PicWindows.png) [Download a Windows executable of
-    'QGraphicsRectItemExample1' (zip)](CppQGraphicsRectItemExample1Exe.zip)
+    'QGraphicsRectItemExample1' (zip)](http://www.richelbilderbeek.nl/CppQGraphicsRectItemExample1Exe.zip)
 
 Technical facts
 ---------------

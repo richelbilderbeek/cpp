@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>virtual</title>
+  <meta name="description" content="C++ virtual"/>
+  <meta name="keywords" content="C++ virtual keyword code snippet"/>
+  <link rel="stylesheet" href="Richelbilderbeek.css" type="text/css"/>
+</head>
+<!-- End of head, start of body -->
+<body>
+<p><a href="index.htm">Go back to Richel Bilderbeek's homepage</a>.</p>
+<p><a href="Cpp.htm">Go back to Richel Bilderbeek's C++ page</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- Page header -->
+<h1>(<a href="Cpp.htm">C++</a>) <a href="CppVirtual.htm">virtual</a></h1>
+<p>&nbsp;</p>
+<p><a href="CppVirtual.htm">virtual</a> is a <a href="CppKeyword.htm">keyword</a> to denote that 
+a <a href="CppClass.htm">class</a> <a href="CppMemberFunction.htm">member function</a> might have different behaviour in its <a
+href="CppDerivedClass.htm">derived classes</a>.</p>
+<p>&nbsp;</p>
+<h2>Example</h2>
+<p>&nbsp;</p>
+<p>Humans say hello differently. In this example there are two kinds of humans that say
+hello differently: SilentHuman and LoudHuman:</p>
+<p>&nbsp;</p>
+<!-- start of code -->
+<table border = "1"><tr><td><code>
+<a href="CppInclude.htm">#include</a> &lt;<a href="CppIostreamH.htm">iostream</a>&gt;<br/>
+ <br/>
+<b><a href="CppStruct.htm">struct</a></b> Human<br/>
+{<br/>
+&nbsp;&nbsp;<b><a href="CppVirtual.htm">virtual</a></b> <b><a href="CppVoid.htm">void</a></b> SayHello() <b><a href="CppConst.htm">const</a></b> <a href="CppOperatorAssign.htm">=</a> 0;<br/>
+&nbsp;&nbsp;<b><a href="CppVirtual.htm">virtual</a></b> ~Human() {} <a href="CppComment.htm">//</a> All base <b><a href="CppClass.htm">classes</a></b> must have a <b><a href="CppPublic.htm">public</a></b> <b><a href="CppVirtual.htm">virtual</a></b> <a href="CppDestructor.htm">destructor</a> [1]<br/>
+};<br/>
+ <br/>
+<b><a href="CppStruct.htm">struct</a></b> SilentHuman : <b><a href="CppPublic.htm">public</a></b> Human<br/>
+{<br/>
+&nbsp;&nbsp;<b><a href="CppVoid.htm">void</a></b> SayHello() <b><a href="CppConst.htm">const</a></b> { <a href="CppCout.htm">std::cout</a> <a href="CppOperatorStreamOut.htm">&lt;&lt;</a> "...hello...\n"; }<br/>
+};<br/>
+ <br/>
+<b><a href="CppStruct.htm">struct</a></b> LoudHuman : <b><a href="CppPublic.htm">public</a></b> Human<br/>
+{<br/>
+&nbsp;&nbsp;<b><a href="CppVoid.htm">void</a></b> SayHello() <b><a href="CppConst.htm">const</a></b> { <a href="CppCout.htm">std::cout</a> <a href="CppOperatorStreamOut.htm">&lt;&lt;</a> "HELLO!\n"; }<br/>
+};<br/>
+</code></td></tr></table>
+<!-- end of the code -->
+<p>&nbsp;</p>
+<p>
+  Note that it is decided that a plain Human cannot say hello. This can be stated by ending the
+  declaration of SayHello with '=0'. This also makes it impossible to create a
+  Human (you can only create (derived) types of Human). This makes Human an <a href="CppAbstractBaseClass.htm">abstract base class</a>.
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2><a href="CppAdvice.htm">Advice</a></h2>
+<p>&nbsp;</p>
+<ul>
+  <li>
+    If a <a href="CppClass.htm">class</a> has a <a href="CppVirtual.htm">virtual</a> <a href="CppMemberFunction.htm">member functions</a>, 
+    it needs a <a href="CppVirtual.htm">virtual</a> <a href="CppDestructor.htm">destructor</a> [4,8]
+  </li>
+  <li>
+    Avoid calling <a href="CppVirtual.htm">virtual</a> <a href="CppMemberFunction.htm">member functions</a> in <a href="CppConstructor.htm">constructors</a> and <a href="CppDestructor.htm">destructors</a> [2]
+  </li>
+  <li>
+    Don't call <a href="CppVirtual.htm">virtual</a> <a href="CppMemberFunction.htm">member functions</a> in <a href="CppConstructor.htm">constructors</a> and <a href="CppDestructor.htm">destructors</a> [6]
+  </li>
+  <li>
+    Avoid <a href="CppPublic.htm">public</a> <a href="CppVirtual.htm">virtual</a> <a href="CppMemberFunction.htm">member functions</a>; 
+    prefer using the <a href="CppDesignPatternTemplateMethod.htm">Template Method Design Pattern</a> instead [3]
+  </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2><a href="CppReferences.htm">References</a></h2>
+<p>&nbsp;</p>
+<ol>
+  <li><!--  1 --><a href="CppHerbSutter.htm">Herb Sutter</a>, <a href="CppAndreiAlexandrescu.htm">Andrei Alexandrescu</a>. C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6. Item 50: 'Make base class destructors public and virtual, or protected and nonvirtual'</li>
+  <li><!--  2 --><a href="CppHerbSutter.htm">Herb Sutter</a>, <a href="CppAndreiAlexandrescu.htm">Andrei Alexandrescu</a>. C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6. Item 49: 'Avoid calling virtual functions in constructors and destructors'</li>
+  <li><!--  3 --><a href="CppHerbSutter.htm">Herb Sutter</a>. <a href="CppExceptionalCpp.htm">Exceptional C++</a>. ISBN: 0-201-61562-2. Item 23, page 84, guideline: 'Avoid public virtual functions; prefer using the Template Method pattern instead'</li>
+  <li><!--  4 --><a href="CppBjarneStroustrup.htm">Bjarne Stroustrup</a>. The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 17.7. Advice. page 525: '[4] If a class has a virtual function, it needs a virtual destructor'</li>
+  <li><!--  5 --><a href="CppBjarneStroustrup.htm">Bjarne Stroustrup</a>. The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 20.7. Advice. page 611: '[8] A class with a virtual function should have a virtual destructor'</li>
+  <li><!--  6 --><a href="CppBjarneStroustrup.htm">Bjarne Stroustrup</a>. The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 22.7. Advice. page 663: '[7] Don't call virtual functions during construction and destruction'</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="Cpp.htm">Go back to Richel Bilderbeek's C++ page</a>.</p>
+<p><a href="index.htm">Go back to Richel Bilderbeek's homepage</a>.</p>
+<p>&nbsp;</p>
+<p><a href="http://validator.w3.org/check?uri=referer"><img src="valid-xhtml10.png" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a></p>
+</body>
+</html>

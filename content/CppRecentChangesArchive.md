@@ -558,7 +558,7 @@ Great stuff for historicians!
 375. 03-12-2010: Modified [Compiler](CppCompiler.md): improved page
     source
 376. 20-11-2010: New page: [std::scientific](CppScientific.md)
-377. 20-11-2010: New page: [std::partial\_sort](CppPartial_sort.md)
+377. 20-11-2010: New page: [std::partial\_sort](CppStdPartial_sort.md)
 378. 19-11-2010: New page: [stat: No such file or directory. Document
     root ("")
     not valid.](CppMiscErrorStatNoSuchFileOrDirectoryDocumentRootNotValid.md)

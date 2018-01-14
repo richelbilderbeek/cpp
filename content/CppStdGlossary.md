@@ -194,7 +194,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 188. [std::out\_of\_range](CppStdOut_of_range.md)
 189. [std::overflow\_error](CppOverflow_error.md)
 190. [std::pair](CppStdPair.md)
-191. [std::partial\_sort](CppPartial_sort.md)
+191. [std::partial\_sort](CppStdPartial_sort.md)
 192. [std::partition](CppStdPartition.md)
 193. [std::perror](CppPerror.md)
 194. [std::plus](CppStdPlus.md)

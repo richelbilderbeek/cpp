@@ -32,7 +32,7 @@ This page is about [sorting](CppStdSort.md) and the [STL](CppStl.md)
 
  
 
--   [std::partial\_sort](CppPartial_sort.md)
+-   [std::partial\_sort](CppStdPartial_sort.md)
 -   [std::sort](CppStdSort.md)
 
  
