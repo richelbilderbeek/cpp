@@ -24,6 +24,7 @@ In release mode, the [asserts](CppAssert.md) are ignored. Or, more precise, by [
  * Use [assert](CppAssert.md) extensively [1-5,7]
  * The use of [assert](CppAssert.md) statements can help to [document](CppDocumentation.md) the assumptions you make when implementing your code [6]
  * Do not assume that [assert](CppAssert.md) is always evaluated [8]
+ * Never put code with side effects inside an assert [9]
 
 # [References](CppReferences.md)
 
@@ -35,3 +36,4 @@ In release mode, the [asserts](CppAssert.md) are ignored. Or, more precise, by [
  * [6] [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. Chapter 2.6: 'The use of assert statements can help to document the assumptions you make when implementing your code
  * [7] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 30.5. Advice. page 884: '[13] Use static\_assert() and assert() extensively'
  * [8] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 30.5. Advice. page 884: '[14] Do not assume that assert() is always evaluated'
+ * [9] [Jason Turner, cppbestpractices: Never Put Code with Side Effects Inside an assert()](https://github.com/lefticus/cppbestpractices/blob/master/03-Style.md#never-put-code-with-side-effects-inside-an-assert)
