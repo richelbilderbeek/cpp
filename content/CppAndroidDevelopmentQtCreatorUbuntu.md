@@ -7,7 +7,7 @@ using the [Qt Creator](CppQtCreator.md) [IDE](CppIde.md) under the
 -   [Install the Android SDK](CppAndroidSdkInstall.md)
 -   [Install the Android NDK](CppAndroidNdkInstall.md)
 -   From now, I follow the instructions of [1] in some more detail,
-    for the android-lighthouse version of the 20th January of 2011
+    for the android-lighthouse version of the 20th January 2011
 -   Obtain the source code, by typing at command-line:\
     \
       -----------------------------------------------------------------------------
@@ -54,7 +54,7 @@ using the [Qt Creator](CppQtCreator.md) [IDE](CppIde.md) under the
     this is done in the previous step already
 
 From this step on, I cannot find out what to do. According to [2], the
-instructions come out 2-3 weeks after the 19th of January 2011.
+instructions come out 2-3 weeks after the 19th January 2011.
 
 ## External links
 

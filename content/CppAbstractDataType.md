@@ -8,41 +8,8 @@
 [implementation](CppImplementation.md) of the [type](CppDataType.md)
 to be changed without requiring any changes outside the
 [module](CppModule.md) in which it is [defined](CppDefinition.md).'
-\[1\]
+[1]
 
- 
+## [References](CppReferences.md)
 
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
-
-1.  Joint Strike Fighter Air Vehicle C++ Coding Standards for the System
-    Development and Demonstration Program. Document Number 2RDU00001
-    Rev C. December 2005. 4.3.2: 'An abstract data type is a type whose
-    internal form is hidden behind a set of access functions. Objects of
-    the type are created and inspected only by calls to the
-    access functions. This allows the implementation of the type to be
-    changed without requiring any changes outside the module in which it
-    is defined.'
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [1] Joint Strike Fighter Air Vehicle C++ Coding Standards for the System Development and Demonstration Program. Document Number 2RDU00001 Rev C. December 2005. 4.3.2: 'An abstract data type is a type whose internal form is hidden behind a set of access functions. Objects of the type are created and inspected only by calls to the access functions. This allows the implementation of the type to be changed without requiring any changes outside the module in which it is defined.'
