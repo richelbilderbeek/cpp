@@ -99,7 +99,7 @@ int main()
 
 ## Example programs and [code snippets](CppCodeSnippets.md)
 
- * [RegexTester](ToolRegexTester.md): tool to test regular expressions
+ * [RegexTester](https://github.com/richelbilderbeek/RegexTester): tool to test regular expressions
  * [is_dutch_postal_code](https://github.com/richelbilderbeek/is_dutch_postal_code): function to test for a Dutch postal code (e.g. `1234 AB`)
 
 ## External links

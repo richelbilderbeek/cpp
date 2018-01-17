@@ -9,7 +9,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 that satisfy a regular expression.
 
 [GetRegexMatches](CppGetRegexMatches.md) is demonstrated in the
-[tool](https://github.com/richelbilderbeek/tools) [RegexTester](ToolRegexTester.md).
+[tool](https://github.com/richelbilderbeek/tools) [RegexTester](https://github.com/richelbilderbeek/RegexTester).
 
  * [Download the Qt Creator project 'GetRegexMatches' (zip)](CppGetRegexMatches.zip)
 
