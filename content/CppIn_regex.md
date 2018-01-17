@@ -1,37 +1,47 @@
+# ([C++](Cpp.md)) [In_regex](CppIn_regex.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [In\_regex](CppIn_regex.md)
-=============================================
-
- 
-
-[In\_regex](CppIn_regex.md) is a [predicate](CppPredicate.md) that
+[In_regex](CppIn_regex.md) is a [predicate](CppPredicate.md) that
 determines if a a [character](CppChar.md) matches a regular expression.
 
- 
+```c++
+#include <functional>
+#include <iterator>
+#include <iostream>
+#include <boost/lexical_cast.hpp>
+#include <boost/regex.hpp>
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <functional> #include <iterator> #include <iostream> #include <boost/lexical_cast.hpp> #include <boost/regex.hpp>  ///In_regex is a predicate that determines if a character ///matches a regular expression. ///From http://www.richelbilderbeek.nl/CppIn_regex.htm struct In_regex : public std::unary_function<char, bool> {   In_regex(const std::string& regex)     : m_regex(regex)   {    }   bool operator()(const char c) const   {     return boost::regex_match(       boost::lexical_cast<std::string>(c),       m_regex);   }   const boost::regex m_regex; };  //Copy_if was dropped from the standard library by accident. template<typename In, typename Out, typename Pred> Out Copy_if(In first, In last, Out res, Pred Pr) {   while (first != last)   {     if (Pr(*first))       *res++ = *first;     ++first;   }   return res; }   int main() {   std::string s = "abcdefghijklmnopqrstuvwxyz";    Copy_if(s.begin(),s.end(),     std::ostream_iterator<char>(std::cout,""),     In_regex("a|c|e"));   std::cout << '\n';    Copy_if(s.begin(),s.end(),     std::ostream_iterator<char>(std::cout,""),     In_regex("[f-p]"));   std::cout << '\n'; } `
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+///In_regex is a predicate that determines if a character
+///matches a regular expression.
+struct In_regex : public std::unary_function<char, bool>
+{
+  In_regex(const std::string& regex)
+    : m_regex(regex)
+  {
 
- 
+  }
+  bool operator()(const char c) const
+  {
+    return boost::regex_match(
+      boost::lexical_cast<std::string>(c),
+      m_regex);
+  }
+  const boost::regex m_regex;
+};
 
- 
+int main()
+{
+  std::string s = "abcdefghijklmnopqrstuvwxyz";
 
- 
+  std::copy_if(std::begin(s), std::end(s),
+    std::ostream_iterator<char>(std::cout,""),
+    In_regex("a|c|e")
+  );
+  std::cout << '\n';
 
- 
-
- 
-
- 
-
+  std::copy_if(std::begin(s), std::end(s),
+    std::ostream_iterator<char>(std::cout,""),
+    In_regex("[f-p]")
+  );
+  std::cout << '\n';
+}
+```

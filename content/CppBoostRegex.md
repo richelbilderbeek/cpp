@@ -30,56 +30,15 @@
 | ))`                                  |                                      |
 +--------------------------------------+--------------------------------------+
 
- 
-
- 
-
- 
-
- 
-
- 
-
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
------------------------------------------------------------------------------
-
- 
+## ![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 
 Add the following line to your [project file](CppQtProjectFile.md) (to
 prevent [link errors](CppLinkError.md)):
 
- 
+```
+LIBS += -lboost_regex
+```
 
-  --------------------------
-  ` LIBS += -lboost_regex`
-  --------------------------
+## External links
 
- 
-
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
-
--   [Boost.Regex homepage](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/index.html)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [Boost.Regex homepage](http://www.boost.org/doc/libs/1_43_0/libs/regex/doc/html/index.html)

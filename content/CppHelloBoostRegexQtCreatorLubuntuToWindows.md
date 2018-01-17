@@ -1,23 +1,7 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostRegexQtCreatorLubuntuToWindows](CppHelloBoostRegexQtCreatorLubuntuToWindows.md)
-============================================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostRegexQtCreatorLubuntuToWindows](CppHelloBoostRegexQtCreatorLubuntuToWindows.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![To](PicTo.png)![Windows](PicWindows.png)
-
- 
 
 [Hello Boost.Regex using Qt Creator under Lubuntu, crosscompiled to
 Windows](CppHelloBoostRegexQtCreatorLubuntuToWindows.md) is a [Hello

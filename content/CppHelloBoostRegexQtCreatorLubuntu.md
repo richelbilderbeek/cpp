@@ -1,32 +1,13 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostRegexQtCreatorLubuntu](CppHelloBoostRegexQtCreatorLubuntu.md)
-==========================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostRegexQtCreatorLubuntu](CppHelloBoostRegexQtCreatorLubuntu.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
 
 [Hello Boost.Regex using Qt Creator under
 Lubuntu](CppHelloBoostRegexQtCreatorLubuntu.md) is a [Hello
 Boost.Regex](CppHelloBoostRegex.md) program.
 
- 
-
--   [Download the Qt Creator project
-    'CppHelloBoostRegexQtCreatorLubuntu' (zip)](CppHelloBoostRegexQtCreatorLubuntu.zip)
+ * [Download the Qt Creator project 'CppHelloBoostRegexQtCreatorLubuntu' (zip)](CppHelloBoostRegexQtCreatorLubuntu.zip)
 
 Technical facts
 ---------------

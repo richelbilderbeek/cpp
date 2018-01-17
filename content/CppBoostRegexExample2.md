@@ -1,42 +1,18 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostRegexExample2](CppBoostRegexExample2.md)
-================================================================
-
- 
+# ([C++](Cpp.md)) [BoostRegexExample2](CppBoostRegexExample2.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
 
 [Boost.Regex example 2: replace](CppBoostRegexExample2.md) is an
 [example](CppExample.md) how to use the
 [Boost.Regex](CppBoostRegex.md) [library](CppLibrary.md).
 
- 
-
 The [example](CppExample.md) below shows how to perform a replacement
 within a regular expression.
 
- 
+ * [Download the Qt Creator project 'CppBoostRegexExample2' (zip)](CppBoostRegexExample2.zip)
 
--   [Download the Qt Creator project
-    'CppBoostRegexExample2' (zip)](CppBoostRegexExample2.zip)
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
@@ -48,8 +24,7 @@ Technical facts
 
 [Project type](CppQtProjectType.md):
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+-   ![console](PicConsole.png) [Console application](CppConsoleApplication.md)
 
 [C++ standard](CppStandard.md):
 
@@ -61,8 +36,7 @@ Technical facts
 
 [Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.9.2
 
  
 

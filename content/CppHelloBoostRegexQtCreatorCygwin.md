@@ -1,37 +1,15 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostRegexQtCreatorCygwin](CppHelloBoostRegexQtCreatorCygwin.md)
-========================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostRegexQtCreatorCygwin](CppHelloBoostRegexQtCreatorCygwin.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Cygwin](PicCygwin.png)
-
- 
 
 [Hello Boost.Regex using Qt Creator under
 Cygwin](CppHelloBoostRegexQtCreatorCygwin.md) is a [Hello
 Boost.Regex](CppHelloBoostRegex.md) program.
 
- 
+ * [Download the Qt Creator project 'CppHelloBoostRegexQtCreatorCygwin' (zip)](CppHelloBoostRegexQtCreatorCygwin.zip)
 
--   [Download the Qt Creator project
-    'CppHelloBoostRegexQtCreatorCygwin' (zip)](CppHelloBoostRegexQtCreatorCygwin.zip)
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 

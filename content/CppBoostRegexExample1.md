@@ -1,45 +1,20 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostRegexExample1](CppBoostRegexExample1.md)
-================================================================
-
- 
+# ([C++](Cpp.md)) [BoostRegexExample1](CppBoostRegexExample1.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
 
 [Boost.Regex example 1](CppBoostRegexExample1.md) is an
 [example](CppExample.md) how to use the
 [Boost.Regex](CppBoostRegex.md) [library](CppLibrary.md).
 
- 
-
 The [example](CppExample.md) below shows how to define a regular
 expression for a Dutch zip code, how to check for it and how to search
 for it.
 
- 
+-   [Download the Qt Creator project 'CppBoostRegexExample1' (zip)](CppBoostRegexExample1.zip)
+-   ![Windows](PicWindows.png) [Download the 'CppBoostRegexExample1' Windows executable (zip)](http://www.richelbilderbeek.nl/CppBoostRegexExample1Exe.zip)
 
--   [Download the Qt Creator project
-    'CppBoostRegexExample1' (zip)](CppBoostRegexExample1.zip)
--   ![Windows](PicWindows.png) [Download the 'CppBoostRegexExample1'
-    Windows executable (zip)](CppBoostRegexExample1Exe.zip)
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
@@ -51,8 +26,7 @@ Technical facts
 
 [Project type](CppQtProjectType.md):
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+-   ![console](PicConsole.png) [Console application](CppConsoleApplication.md)
 
 [C++ standard](CppStandard.md):
 
@@ -64,8 +38,7 @@ Technical facts
 
 [Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.9.2
 
  
 

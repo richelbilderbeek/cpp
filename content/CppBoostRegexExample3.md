@@ -1,37 +1,16 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostRegexExample3](CppBoostRegexExample3.md)
-================================================================
-
- 
+# ([C++](Cpp.md)) [BoostRegexExample3](CppBoostRegexExample3.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
 
 [Boost.Regex example 3](CppBoostRegexExample3.md) is an
 [example](CppExample.md) how to use the
 [Boost.Regex](CppBoostRegex.md) [library](CppLibrary.md).
 
- 
-
 The [example](CppExample.md) below shows how to iterate through a text
 with a regular expression.
 
- 
-
--   [Download the Qt Creator project
-    'CppBoostRegexExample3' (zip)](CppBoostRegexExample3.zip)
+ * [Download the Qt Creator project 'CppBoostRegexExample3' (zip)](CppBoostRegexExample3.zip)
 
 Technical facts
 ---------------
@@ -48,8 +27,7 @@ Technical facts
 
 [Project type](CppQtProjectType.md):
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+-   ![console](PicConsole.png) [Console application](CppConsoleApplication.md)
 
 [C++ standard](CppStandard.md):
 
@@ -61,8 +39,7 @@ Technical facts
 
 [Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.9.2
 
  
 

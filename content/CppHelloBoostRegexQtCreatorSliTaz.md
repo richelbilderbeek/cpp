@@ -1,32 +1,13 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostRegexQtCreatorSliTaz](CppHelloBoostRegexQtCreatorSliTaz.md)
-========================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostRegexQtCreatorSliTaz](CppHelloBoostRegexQtCreatorSliTaz.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![SliTaz](PicSliTaz.png)
-
- 
 
 [Hello Boost.Regex using Qt Creator under
 SliTaz](CppHelloBoostRegexQtCreatorSliTaz.md) is a [Hello
 Boost.Regex](CppHelloBoostRegex.md) program.
 
- 
-
--   [Download the Qt Creator project
-    'CppHelloBoostRegexQtCreatorSliTaz' (zip)](CppHelloBoostRegexQtCreatorSliTaz.zip)
+ * [Download the Qt Creator project 'CppHelloBoostRegexQtCreatorSliTaz' (zip)](CppHelloBoostRegexQtCreatorSliTaz.zip)
 
 Technical facts
 ---------------

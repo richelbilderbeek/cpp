@@ -7,6 +7,70 @@ The default regular expression notation is that of ECMAScript [1], but
 the regex can use POSIX, awk, grep and egrep notation additionally
 [2].
 
+## ECMAScript table
+
+Adapted from [1]:
+
+Text | description
+---|---
+`[[:alnum:]]` | alpha-numerical character
+`[[:alpha:]]` | alphabetic character
+`[[:blank:]]` | blank character
+`[[:cntrl:]]` | control character
+`[[:digit:]]` | decimal digit character
+`[[:graph:]]` | character with graphical representation
+`[[:lower:]]` | lowercase letter
+`[[:print:]]` | printable character
+`[[:punct:]]` | punctuation mark character
+`[[:space:]]` | whitespace character
+`[[:upper:]]` | uppercase letter
+`[[:xdigit:]]` | hexadecimal digit character
+`[[:d:]]` | decimal digit character
+`[[:w:]]` | word character
+`[[:s:]]` | whitespace character
+
+## Example
+
+The example show the use of:
+
+ * `.`: can be anything
+ * `[[:digit:]]`: a digit
+ * `?`: zero or one repeats of the preceding thing
+ * `+`: one or more repeats of the preceding thing
+ * `*`: zero or more repeats of the preceding thing
+ * `{2}`: two repeats of the preceding thing
+
+```c++
+#include <cassert>
+#include <regex>
+#include <string>
+
+int main()
+{
+  assert(!std::regex_match("", std::regex("."))); //One anything
+  assert(!std::regex_match("", std::regex("[[:digit:]]"))); //One digit
+  assert( std::regex_match("", std::regex("[[:digit:]]?"))); //Zero or one digit
+  assert(!std::regex_match("", std::regex("[[:digit:]]+"))); //One or more digits
+  assert( std::regex_match("", std::regex("[[:digit:]]*"))); //Zero or more digits
+  assert( std::regex_match("", std::regex("[[:digit:]]{0}"))); //Zero digits
+
+  assert(std::regex_match("1", std::regex("."))); //One anything
+  assert(std::regex_match("1", std::regex("[[:digit:]]"))); //One digit
+  assert(std::regex_match("1", std::regex("[[:digit:]]?"))); //Zero or one digit
+  assert(std::regex_match("1", std::regex("[[:digit:]]+"))); //One or more digits
+  assert(std::regex_match("1", std::regex("[[:digit:]]*"))); //Zero or more digits
+  assert(std::regex_match("1", std::regex("[[:digit:]]{1}"))); //One digit
+
+  assert(!std::regex_match("12", std::regex("."))); //One anything
+  assert(!std::regex_match("12", std::regex("[[:digit:]]"))) ; //One digit
+  assert(!std::regex_match("12", std::regex("[[:digit:]]?"))); //Zero or one digit
+  assert( std::regex_match("12", std::regex("[[:digit:]]+"))); //One or more digits
+  assert( std::regex_match("12", std::regex("[[:digit:]]*"))); //Zero or more digits
+  assert( std::regex_match("12", std::regex("[[:digit:]]{2}"))); //Two digits
+
+}
+```
+
 ## Example programs and [code snippets](CppCodeSnippets.md)
 
  * [RegexTester](ToolRegexTester.md): tool to test regular expressions

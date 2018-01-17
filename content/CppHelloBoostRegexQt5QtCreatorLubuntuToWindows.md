@@ -1,38 +1,16 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloBoostRegexQt5QtCreatorLubuntuToWindows](CppHelloBoostRegexQt5QtCreatorLubuntuToWindows.md)
-==================================================================================================================
-
- 
+# ([C++](Cpp.md)) [HelloBoostRegexQt5QtCreatorLubuntuToWindows](CppHelloBoostRegexQt5QtCreatorLubuntuToWindows.md)
 
 ![Boost](PicBoost.png)![Qt5](PicQt5.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![To](PicTo.png)![Windows](PicWindows.png)
-
- 
 
 [Hello Boost.Regex using Qt5 under Qt Creator under Lubuntu,
 crosscompiled to
 Windows](CppHelloBoostRegexQt5QtCreatorLubuntuToWindows.md) is a [Hello
 Boost.Regex](CppHelloBoostRegex.md) program.
 
- 
+ * [Download the Qt Creator project 'CppHelloBoostRegexQt5QtCreatorLubuntuToWindows' (zip)](CppHelloBoostRegexQt5QtCreatorLubuntuToWindows.zip)
 
--   [Download the Qt Creator project
-    'CppHelloBoostRegexQt5QtCreatorLubuntuToWindows' (zip)](CppHelloBoostRegexQt5QtCreatorLubuntuToWindows.zip)
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
