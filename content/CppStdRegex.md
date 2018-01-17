@@ -29,7 +29,7 @@ Text | description
 `[[:w:]]` | word character
 `[[:s:]]` | whitespace character
 
-## Example
+## Example: multipliers
 
 The example show the use of:
 
@@ -68,6 +68,32 @@ int main()
   assert( std::regex_match("12", std::regex("[[:digit:]]*"))); //Zero or more digits
   assert( std::regex_match("12", std::regex("[[:digit:]]{2}"))); //Two digits
 
+}
+```
+
+## Example: is_benelux_web_domain
+
+The example show the use of:
+
+ * `|`: or
+ * `()`: group
+ * `\\.`: a literal dot, `.`. The backslash escapes the dot being a wildcard. Because the backslash is a std::string escape character itself, it needs to be escaped by anothed backslash 
+
+```c++
+#include <cassert>
+#include <regex>
+#include <string>
+//A (simplified) Benelux (Dutch, Flemisch, Luxembourg) URL:
+//  - has one or more alphanumeric characters
+//  - ends on '.nl', '.be' or '.lu'
+int main()
+{
+  const std::regex benelux_url("[[:alnum:]]+\\.(nl|be|lu)");
+  assert( std::regex_match("nu.nl", benelux_url));
+  assert( std::regex_match("k3.be", benelux_url));
+  assert( std::regex_match("start.lu", benelux_url));
+  assert(!std::regex_match("lemonde.fr", benelux_url));
+  assert(!std::regex_match("nlbelu", benelux_url));
 }
 ```
 
