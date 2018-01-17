@@ -45,7 +45,7 @@ testing](CppGuiTest.md) tool.
 -   [libcvautomation example 7: test a simple Qt desktop application,
     using keyboard](CppLibcvautomationExample7.md)
 -   [Brainweaver: a project that uses libcvautomation for debugging its
-    GUI](ProjectBrainweaver.md)
+    GUI](https://github.com/richelbilderbeek/Brainweaver)
 
  
 

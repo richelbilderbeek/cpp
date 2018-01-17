@@ -66,7 +66,7 @@ Creator](CppQt.md) project:
 13. [View screenshot](CppQtExample16_7.png)
 14. Click 'Add -&gt; Add Files' and add an image. In this example, this
     is a file called 'BeerSmall.bmp' (a sprite from
-    [BeerWanter](GameBeerWanter.md))
+    [BeerWanter](https://github.com/richelbilderbeek/BeerWanter))
 15. [View screenshot](CppQtExample16_8.png)
 16. Now, the file has been added to your resources. The image can be
     accessed with the filename ':/MyImages/BeerSmall.bmp'

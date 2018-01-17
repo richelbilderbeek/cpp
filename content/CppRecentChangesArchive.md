@@ -3200,7 +3200,7 @@ Great stuff for historicians!
 1992. 07-07-2008: Modified [Glossary](CppGlossary.md): added internal
     links
 1993. 07-07-2008: Modified [C++](Cpp.md): added internal links
-1994. 07-07-2008: Modified [BeerWanter](GameBeerWanter.md): added zip
+1994. 07-07-2008: Modified [BeerWanter](https://github.com/richelbilderbeek/BeerWanter): added zip
     download
 1995. 07-07-2008: Modified [SoaSim](ToolSoaSim.md): added zip download
 1996. 05-07-2008: New page: [The project's target could not be
