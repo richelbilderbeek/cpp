@@ -913,8 +913,6 @@
     Ubuntu?](CppCrosscompileQtCreatorUbuntuHelloWorldToWindowsWineUbuntu.md)
 -   [FAQ: How to cross-compile a 'Hello World' Qt Creator project from
     Ubuntu to NDS?](CppCrosscompileQtCreatorUbuntuHelloWorldToNds.md)
--   [FAQ: How to cross-compile a Qt Creator project from Lubuntu to
-    Raspbian?](CppCrosscompileQtCreatorLubuntuToRaspbian.md)
 -   [FAQ: How to cross-compile a Qt Creator project from Ubuntu to a
     windows executable? Approach 20: Hello World, changing project
     file](CppQtCrosscompileToWindowsExample20.md)
@@ -2272,10 +2270,10 @@
 -   [Rainbow](CppRainbow.md)
 -   [Ralph Johnson](CppRalphJohnson.md)
 -   [RAND\_MAX](CppRAND_MAX.md)
--   [Random number](CppStdRandomdomNumber.md)
+-   [Random number](CppRandomNumber.md)
 -   [RandomCode](CppStdRand.mdomCode.md)
--   [RandomizeTimer](CppStdRandomdomizeTimer.md)
--   [RandomShuffle](CppStdRandomdomShuffle.md)
+-   [RandomizeTimer](CppRandomizeTimer.md)
+-   [RandomShuffle](CppStdRandom_shuffle.md)
 -   [RangeForExample1](CppRangeForExample1.md)
 -   [Raspberry Pi](CppRpi.md)
 -   [RaspberryPi](CppRaspberryPi.md)

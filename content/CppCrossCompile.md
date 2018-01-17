@@ -35,11 +35,6 @@ environments:
     [How to cross-compile a 'Hello World' Qt Creator project from Ubuntu
     to a Windows executable under Wine under
     Ubuntu?](CppCrossCompileQtCreatorUbuntuHelloWorldToWindowsWineUbuntu.md)
--   ![?OKAY](PicTransparent.png)![Qt
-    Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![to](PicTo.png)![Raspbian](PicRaspbian.png)![
-    ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [How to
-    cross-compile a Qt Creator project from Lubuntu to
-    Raspbian?](CppCrossCompileQtCreatorLubuntuToRaspbian.md)
 -   ![TODO](PicTransparent.png)![STL](PicStl.png)![Qt
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png)![to](PicTo.png)![NDS](PicNds.png)![
     ](PicSpacer.png)![ ](PicSpacer.png) [How to cross-compile a 'Hello

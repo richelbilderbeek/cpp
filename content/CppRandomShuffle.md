@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [RandomShuffle](CppStdRandomdomShuffle.md)
+([C++](Cpp.md)) [RandomShuffle](CppStdRandom_shuffle.md)
 ======================================================
 
  

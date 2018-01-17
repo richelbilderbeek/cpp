@@ -511,7 +511,7 @@ Great stuff for historicians!
     application](CppDesktopApplication.md)
 345. 23-12-2010: New page: [TicTacToe](CppTicTacToe.md)
 346. 23-12-2010: New page: [Web application](CppWebApplication.md)
-347. 23-12-2010: Modified [Random number](CppStdRandomdomNumber.md): improved
+347. 23-12-2010: Modified [Random number](CppRandomNumber.md): improved
     page source
 348. 22-12-2010: New page: [Why are some pages
     messy?](CppMessyPages.md)
@@ -1878,7 +1878,7 @@ Great stuff for historicians!
     internal links
 1232. 29-04-2010: New page: [throw](CppThrow.md)
 1233. 28-04-2010: New page: [std::srand](CppStdSrand.md)
-1234. 28-04-2010: Modified [RandomizeTimer](CppStdRandomdomizeTimer.md):
+1234. 28-04-2010: Modified [RandomizeTimer](CppRandomizeTimer.md):
     improved page source
 1235. 25-04-2010: New page:
     [std::unary\_function](CppUnary_function.md)
@@ -2584,7 +2584,7 @@ Great stuff for historicians!
     internal links
 1639. 29-08-2009: Modified [std::vector](CppStdVector.md): added internal
     links
-1640. 29-08-2009: Modified [Random number](CppStdRandomdomNumber.md) &gt;:
+1640. 29-08-2009: Modified [Random number](CppRandomNumber.md) &gt;:
     added internal links
 1641. 29-08-2009: Modified [Link error](CppLinkError.md): added
     internal links
@@ -3102,9 +3102,9 @@ Great stuff for historicians!
 1936. 16-07-2008: Modified
     [NarmedBanditLearner](CppNarmedBanditLearner.md): added internal
     links, improved layout
-1937. 16-07-2008: Modified [Random number](CppStdRandomdomNumber.md): added
+1937. 16-07-2008: Modified [Random number](CppRandomNumber.md): added
     internal links
-1938. 16-07-2008: Modified [RandomizeTimer](CppStdRandomdomizeTimer.md):
+1938. 16-07-2008: Modified [RandomizeTimer](CppRandomizeTimer.md):
     corrected code
 1939. 16-07-2008: Modified [FindEquilibrium](CppFindEquilibrium.md):
     added internal links, improved layout
