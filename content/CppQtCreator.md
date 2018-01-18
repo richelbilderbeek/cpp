@@ -38,7 +38,6 @@ example [console](CppConsoleApplication.md),
 
 ## External links
 
- * [Official Qt Creator homepage](http://qt.nokia.com/products/developer-tools)
  * [Qt video tutorials](http://qt.nokia.com/developer/learning/online/talks/developerdays2009/tech-talks)
  * [Wikipedia's page about Qt Creator](http://en.wikipedia.org/wiki/Qt_Creator)
  * [Dutch Qt Creator tutorial](http://bd.eduweb.hhs.nl/ogoprg/qt/index.html)

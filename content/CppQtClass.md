@@ -63,5 +63,4 @@ something to write about...
 
 ## External links
 
- * [Qt homepage](http://qt.nokia.com/products)
  * [Wikipedia page about Qt](http://en.wikipedia.org/wiki/Qt_%28framework%29)

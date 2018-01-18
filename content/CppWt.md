@@ -1,32 +1,8 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Wt](PicWt.png) [Wt](CppWt.md)
-=================================================
-
- 
+# ([C++](Cpp.md)) ![Wt](PicWt.png) [Wt](CppWt.md)
 
 [Wt](CppWt.md) (we pronounce that as 'witty') is a [C++](Cpp.md)
 [library](CppLibrary.md) for developing interactive [web
 applications](CppWebApplication.md) \[1\].
-
- 
-
- 
-
- 
-
- 
-
- 
 
 -   ['Hello Wt' program](CppHelloWt.md)
 -   [Wt articles](CppWtArticle.md)
@@ -37,24 +13,7 @@ applications](CppWebApplication.md) \[1\].
 -   [Wt FAQ](CppWtFaq.md)
 -   [Wt with other libraries](CppWtWithOtherLibraries.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
------------------------------------------------------------------------------
-
- 
+## ![Qt Creator](PicQtCreator.png) Note for [Qt Creator](CppQtCreator.md) users
 
 Add the following line to your [Qt project file](CppQtProjectFile.md)
 (to prevent [link errors](CppLinkError.md) like [undefined reference to
@@ -99,8 +58,7 @@ For a [Wt](CppWt.md) application to run, choose one of these options:
 
      
 
-    I follow this approach in my larger programs, for example in
-    [TestGroupWidget (version 1.2)](ToolTestGroupWidgetSource_1_2.md).
+    I follow this approach in my larger programs.
 
      
 

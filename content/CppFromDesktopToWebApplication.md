@@ -59,7 +59,7 @@ Starting point
  
 
 This [article](CppArticle.md)'s starting point is the code from
-[AsciiArter source code version 4.0](ToolAsciiArterSource_4_0.md),
+AsciiArter source code version 4.0,
 which was described in the [article](CppArticle.md) [Porting an
 application from C++ Builder to Qt
 Creator](CppFromCppBuilderToQtCreator.md).
@@ -276,25 +276,3 @@ Instead of explaining all steps in detail, this
 Windows-only GUI-dependent to platform-independent as described in the
 [article](CppArticle.md) [Thinking Qt 1: general](CppThinkingQt1.md).
 These changes can be viewed in in image and in code:
-
- 
-
--   ![C++ Builder](PicCppBuilder.png) [C++ Builder
-    architecture (png)](CppFromCppBuilderToQtCreatorBefore.png):
-    [AsciiArter source code version 1.0](ToolAsciiArterSource_1_0.md)
--   ![Qt Creator](PicQtCreator.png) [Qt Creator
-    architecture (png)](CppFromCppBuilderToQtCreator.png): [AsciiArter
-    source code version 4.0](ToolTestAsciiArterSource_4_0.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [Thinking Qt 1: general](CppThinkingQt1.md)
-==============================================================================
-
- 
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [Thinking Qt 1: general](CppThinkingQt1.md)
 
 This [article](CppArticle.md) shows one way to think about program
 architecture when using the [Qt](CppQt.md) [library](CppLibrary.md).
@@ -21,60 +7,21 @@ Because I use this program architecture also when using the
 [article](CppArticle.md) is very similar to [Thinking Wt 1:
 general](CppThinkingWt1.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Downloads
----------
-
- 
+## Downloads
 
 -   [View a screenshot of the application developed in this
     article (png)](CppThinkingQt1.png)
 -   [Download the Qt Creator source code of
     'CppThinkingQt1' (zip)](CppThinkingQt1.zip)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Overview
---------
-
- 
+## Overview
 
 In the first two paragraph I will explain the rationale behind the
 architecture proposed. The following paragraphs describes the steps in
 implementing this architecture in a top-down way, followed by a
 conclusion.
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Why these guidelines?
----------------------
-
- 
+## Why these guidelines?
 
 [Qt](CppQt.md) is 'a cross-platform application and UI framework'. I
 see many resemblances in its architecture with the [Wt](CppWt.md)
@@ -89,24 +36,9 @@ easily, I follow the guidelines presented in this
 and dialogs in multiple applications, which is only possible with a
 proper architecture.
 
- 
-
 Note that I follow the same guidelines for [Wt](CppWt.md) front-ends.
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Architecture
-------------
-
- 
+## Architecture
 
 The architecture, from biggest to smallest, is: [main](CppMain.md),
 [Qt::QApplication](CppQApplication.md), dialog, widget:
@@ -369,33 +301,3 @@ am open to discussion on this subject.
     article (png)](CppThinkingQt1.png)
 -   [Download the Qt Creator source code of
     'CppThinkingQt1' (zip)](CppThinkingQt1.zip)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
-
-1.  [Qt homepage](http://qt.nokia.com/products)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

@@ -5,7 +5,7 @@ file](CppHeaderFile.md) (since the [C++11](Cpp11.md)
 [standard](CppStandard.md)).
 
 Use [cstdbool.h](CppCstdboolH.md) facilities such as
-[std::steady\_clock](CppSteady_clock.md), [duration](CppDuration.md),
+[std::steady\_clock](CppStdChronoSteady_clock.md), [duration](CppDuration.md),
 and std::chrono::steady_clock::time_point for timing [1].
 
 ## [References](CppReferences.md)

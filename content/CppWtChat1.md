@@ -1,39 +1,12 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [CppWtChat1](CppWtChat1.md)
-=============================================
-
- 
+# ([C++](Cpp.md)) [CppWtChat1](CppWtChat1.md)
 
 [CppWtChat1](CppWtChat1.md) is an example of [a Wt chat
 application](CppWtChat.md) that is as simple as possible, except for
 showing [About](CppAbout.md) information.
 
- 
+![View a screenshot of 'CppWtChat1' (version 1.0)(png)](CppWtChat1_1_0.png)
 
--   [View a screenshot of 'CppWtChat1'
-    (version 1.0)(png)](CppWtChat1_1_0.png)
--   [Download the 'CppWtChat1' project source code
-    (version 1.0)(zip)](CppWtChat1Source_1_0.zip)
-
- 
-
- 
-
- 
-
- 
-
- 
+ * [Download the 'CppWtChat1' project source code (version 1.0)(zip)](CppWtChat1Source_1_0.zip)
 
 Technical facts
 ---------------
@@ -54,8 +27,7 @@ Technical facts
 
 [Project type](CppQtProjectType.md):
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+-   ![console](PicConsole.png) [Console application](CppConsoleApplication.md)
 
 [C++ standard](CppStandard.md):
 
@@ -68,8 +40,7 @@ Technical facts
 [Libraries](CppLibrary.md) used:
 
 -   ![Boost](PicBoost.png) [Boost](CppBoost.md): version 1.42
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.4.5
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.4.5
 -   ![Wt](PicWt.png) [Wt](CppWt.md): version 3.1.2
 
  

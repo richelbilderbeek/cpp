@@ -1,7 +1,7 @@
 # ([C++](Cpp.md)) [thread](CppThread.md)
 
 A [thread](CppThread.md) is the smallest unit of processing that can be
-scheduled by an [operating system](CppOs.md)' \[1\].
+scheduled by an [operating system](CppOs.md)' [1].
 
 [std::thread](CppThread.md) is the [C++11](Cpp11.md)
 [thread](CppThread.md) [class](CppClass.md).
@@ -20,23 +20,6 @@ provide answers with [references](CppReferences.md).
  * When benchmarking a class for thread-safety, is it enough to create simply create multiple threads reading and writing to all methods of the class? That, if this works, the class can be called thread-safe?
  * When having benchmarking a class for thread-safety in the way above, when to use tools like helgrind?
 
-## External links
-
- * [Corensic.com tutorial about concurrency](http://www.corensic.com/Learn/Resources/ConcurrencyTutorialPartOne.aspx)
-
 ## [References](CppReferences.md)
 
-1.  [Wikipedia page about threads](http://en.wikipedia.org/wiki/Thread_\(computer_science))
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+1.  [Wikipedia page about threads](http://en.wikipedia.org/wiki/Thread_(computer_science))
