@@ -1,8 +1,9 @@
 # ([C++](Cpp.md)) [Tool](CppTool.md)
 
-A [tool](CppTool.md) is a program that helps you write good C++ code:
+A [tool](CppTool.md) is a program that helps you run and/or write good C++ code:
 
  * [cachegrind](CppCachegrind.md)
+ * [CMake](CppCmake.md)
  * [cppcheck](CppCppcheck.md)
  * [CodeCheck](CppCodeCheck.md)
  * [Codecov](CppCodecov.md)
@@ -11,6 +12,7 @@ A [tool](CppTool.md) is a program that helps you write good C++ code:
  * [helgrind](CppHelgrind.md)
  * [memcheck](CppMemcheck.md)
  * [OCLint](CppOCLint.md)
+ * [qmake](CppQmake.md)
  * [UBSAN](CppUbsan.md)
  * [valgrind](CppValgrind.md)
 

@@ -22,3 +22,4 @@ T accumulate (InputIterator first, InputIterator last, T init)
 ## External links
 
  * [cppreference's `std::accumulate` page](http://en.cppreference.com/w/cpp/algorithm/accumulate)
+ * [C++ Weekly, episode 98: Precision Loss with Accumulate](https://www.youtube.com/watch?v=vLozydgjHrc)
