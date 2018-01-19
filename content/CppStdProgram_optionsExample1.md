@@ -9,14 +9,14 @@
 
  
 
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Program\_options example 1: basics](CppProgram_optionsExample1.md)
+([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Program\_options example 1: basics](CppBoostProgram_optionsExample1.md)
 ==================================================================================================================
 
  
 
 [Boost.Program\_options example 1:
-basics](CppProgram_optionsExample1.md) is a
-[Boost.Program\_options](CppProgram_options.md) example.
+basics](CppBoostProgram_optionsExample1.md) is a
+[Boost.Program\_options](CppBoostProgram_options.md) example.
 
  
 
