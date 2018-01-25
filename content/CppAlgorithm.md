@@ -2,7 +2,7 @@
 
 [Algorithm](CppAlgorithm.md) has multiple meanings:
 
--   ![ ](PicSpacer.png) an algorithm in general
+-    an algorithm in general
 -   ![STL](PicStl.png) an [STL](CppStl.md) algorithm
 -   ![Boost](PicBoost.png) the [Boost.Algorithm](CppBoostAlgorithm.md) [library](CppLibrary.md): see
     [Boost.Algorithm](CppBoostAlgorithm.md)
@@ -13,6 +13,84 @@ An algorithm is a logical series of steps followed by a calculation.
 
 [Algorithms](CppAlgorithm.md) can be adapted by lambda expressions, [adapters](CppAdapter.md), [binders](CppBinder.md) and [negaters](CppNegater.md).
 
+## Example: sorting a std::vector
+
+```c++
+#include <algorithm>
+#include <cassert>
+#include <vector>
+
+int main()
+{
+  std::vector<int> v = {4, 2, 3, 1};
+  std::sort(std::begin(v), std::end(v));
+  const std::vector<int> expected = {1, 2, 3, 4};
+  assert(v == expected);
+}
+```
+
+## Example: copy twice
+
+```c++
+#include <algorithm>
+#include <cassert>
+#include <vector>
+
+int main()
+{
+  const std::vector<int> v = {1,2};
+  std::vector<int> w;
+  std::copy(std::begin(v), std::end(v),
+    std::back_inserter(w)
+  );
+  std::copy(std::begin(v), std::end(v),
+    std::back_inserter(w)
+  );
+  const std::vector<int> expected = {1, 2, 1, 2};
+  assert(w == expected);
+}
+```
+
+## Example: copy if non-zero and positive
+
+```c++
+#include <algorithm>
+#include <cassert>
+#include <vector>
+
+int main()
+{
+  const std::vector<int> v = {-9, -4, 0, 4, 9};
+  std::vector<int> w;
+  std::copy_if(
+    std::begin(v), 
+    std::end(v),
+    std::back_inserter(w),
+    [](const int i) { return i > 0; }
+  );
+  const std::vector<int> expected = { 4, 9 };
+  assert(w == expected);
+}
+```
+
+## Example: [CoutVector](CppCoutVector.md)
+
+```c++
+#include <iterator>
+#include <iostream>
+#include <ostream>
+#include <vector>
+
+int main()
+{
+  //Create a std::vector
+  const std::vector<int> v = {1, 4, 9, 16, 25};
+
+  //Copy it to std::cout
+  std::copy(std::begin(v), std::end(v), std::ostream_iterator<int>(std::cout,"\n"));
+}
+```
+
 ## [STL](CppStl.md) [algorithms](CppAlgorithm.md)
 
 Most [algorithms](CppAlgorithm.md) can be found in the [header file](CppHeaderFile.md) [algorithm.h](CppAlgorithmH.md).
@@ -22,92 +100,92 @@ prefix.
 
 All [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) names [3]:
 
-1.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::accumulate](CppStdAccumulate.md)
-2.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [accumulate\_if](CppStdAccumulate_if.md)
-3.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::adjacent\_find](CppStdAdjacent_find.md)
-4.  ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::all\_of](CppStdAll_of.md)
-5.  ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::any\_of](CppStdAny_of.md)
-6.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::binary\_search](CppStdBinary_search.md)
-7.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::copy](CppStdCopy.md)
-8.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::copy\_backward](CppStdCopy_backward.md)
-9.  ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [copy\_if](CppCopy_if.md)
-10. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::copy\_if](CppCopy_if.md)
-11. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::copy\_n](CppStdCopy_n.md)
-12. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::count](CppCStdount.md)
-13. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::count\_if](CppStdCount_if.md)
-14. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::equal](CppStdEqual.md)
-15. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::equal\_range](CppStdEqual_range.md)
-16. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::fill](CppStdFill.md)
-17. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::find](CppStdFind.md)
-18. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::find\_end](CppStdFind_end.md)
-19. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::find\_first\_of](CppStdFind_first_of.md)
-20. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::find\_if](CppStdFind_if.md)
-21. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::find\_if\_not](CppStdFind_if_not.md)
-22. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::for\_each](CppStdFor_each.md)
-23. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::generate](CppStdGenerate.md)
-24. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::generate\_n](CppStdGenerate_n.md)
-25. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::includes](CppStdIncludes.md)
-26. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::inner\_product](CppStdInner_product.md)
-27. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::inplace\_merge](CppStdInplace_merge.md)
-28. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::iota](CppStdIota.md)
-29. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::is\_heap](CppStdIs_heap.md)
-30. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::is\_heap\_until](CppStdIs_heap_until.md)
-31. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::is\_sorted](CppStdIs_sorted.md)
-32. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::is\_sorted\_until](CppStdIs_sorted_until.md)
-33. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::iter\_swap](CppStdIter_swap.md)
-34. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::lexicographical\_compare](CppStdLexicographical_compare.md)
-35. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::lower\_bound](CppStdLower_bound.md)
-36. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::make\_heap](CppStdMake_heap.md)
-37. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::max](CppStdMax.md)
-38. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::max\_element](CppStdMax_element.md)
-39. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::merge](CppStdMerge.md)
-40. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::min](CppStdMin.md)
-41. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::min\_element](CppStdMin_element.md)
-42. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::minmax](CppStdMinmax.md)
-43. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::minmax\_element](CppStdMinmax_element.md)
-44. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::mismatch](CppStdMismatch.md)
-45. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::move](CppStdMove.md)
-46. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::move\_backward](CppStdMove_backward.md)
-47. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::next\_permutation](CppStdNext_permutation.md)
-48. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::none\_of](CppStdNone_of.md)
-49. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::nth\_element](CppStdNth_element.md)
-50. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::partial\_sort](CppStdPartial_sort.md)
-51. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::partial\_sort\_copy](CppStdPartial_sort_copy.md)
-52. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::partition](CppStdPartition.md)
-53. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::partition\_copy](CppStdPartition_copy.md)
-54. ![ ](PicSpacer.png)![C++11](PicCpp11.png) [std::partition\_point](CppStdPartition_point.md)
-55. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::pop\_heap](CppStdPop_heap.md)
-56. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::prev\_permutation](CppStdPrev_permutation.md)
-57. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::push\_heap](CppStdPush_heap.md)
-58. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::random\_shuffle](CppStdRandom_shuffle.md)
-59. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::remove](CppStdRemove.md)
-60. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::remove\_copy](CppStdRemove_copy.md)
-61. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::remove\_copy\_if](CppStdRemove_copy_if.md)
-62. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::remove\_if](CppStdRemove_if.md)
-63. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::replace](CppStdReplace.md)
-64. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::replace\_copy](CppStdReplace_copy.md)
-65. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::replace\_copy\_if](CppStdReplace_copy_if.md)
-66. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::replace\_if](CppStdReplace_if.md)
-67. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::reverse](CppStdReverse.md)
-68. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::reverse\_copy](CppStdReverse_copy.md)
-69. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::rotate](CppStdRotate.md)
-70. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::rotate\_copy](CppStdRotate_copy.md)
-71. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::search](CppStdSearch.md)
-72. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::search\_n](CppStdSearch_n.md)
-73. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::set\_difference](CppStdSet_difference.md)
-74. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::set\_intersection](CppStdSet_intersection.md)
-75. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::set\_symmetric\_difference](CppStdSet_symmetric_difference.md)
-76. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::set\_union](CppStdSet_union.md)
-77. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::sort](CppStdSort.md)
-78. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::sort\_heap](CppStdSort_heap.md)
-79. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::stable\_partition](CppStdStable_partition.md)
-80. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::stable\_sort](CppStdStable_sort.md)
-81. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::swap](CppStdSwap.md)
-82. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::swap\_ranges](CppStdSwap_ranges.md)
-83. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::transform](CppStdTransform.md)
-84. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::unique](CppStdUnique.md)
-85. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::unique\_copy](CppStdUnique_copy.md)
-86. ![C++98](PicCpp98.png)![C++11](PicCpp11.png) [std::upper\_bound](CppStdUpper_bound.md)
+1.   [std::accumulate](CppStdAccumulate.md)
+2.   [accumulate_if](CppStdAccumulate_if.md)
+3.   [std::adjacent_find](CppStdAdjacent_find.md)
+4.   [std::all_of](CppStdAll_of.md)
+5.   [std::any_of](CppStdAny_of.md)
+6.   [std::binary_search](CppStdBinary_search.md)
+7.   [std::copy](CppStdCopy.md)
+8.   [std::copy_backward](CppStdCopy_backward.md)
+9.   [copy_if](CppCopy_if.md)
+10.  [std::copy_if](CppCopy_if.md)
+11.  [std::copy_n](CppStdCopy_n.md)
+12.  [std::count](CppCStdount.md)
+13.  [std::count_if](CppStdCount_if.md)
+14.  [std::equal](CppStdEqual.md)
+15.  [std::equal_range](CppStdEqual_range.md)
+16.  [std::fill](CppStdFill.md)
+17.  [std::find](CppStdFind.md)
+18.  [std::find_end](CppStdFind_end.md)
+19.  [std::find_first_of](CppStdFind_first_of.md)
+20.  [std::find_if](CppStdFind_if.md)
+21.  [std::find_if_not](CppStdFind_if_not.md)
+22.  [std::for_each](CppStdFor_each.md)
+23.  [std::generate](CppStdGenerate.md)
+24.  [std::generate_n](CppStdGenerate_n.md)
+25.  [std::includes](CppStdIncludes.md)
+26.  [std::inner_product](CppStdInner_product.md)
+27.  [std::inplace_merge](CppStdInplace_merge.md)
+28.  [std::iota](CppStdIota.md)
+29.  [std::is_heap](CppStdIs_heap.md)
+30.  [std::is_heap_until](CppStdIs_heap_until.md)
+31.  [std::is_sorted](CppStdIs_sorted.md)
+32.  [std::is_sorted_until](CppStdIs_sorted_until.md)
+33.  [std::iter_swap](CppStdIter_swap.md)
+34.  [std::lexicographical_compare](CppStdLexicographical_compare.md)
+35.  [std::lower_bound](CppStdLower_bound.md)
+36.  [std::make_heap](CppStdMake_heap.md)
+37.  [std::max](CppStdMax.md)
+38.  [std::max_element](CppStdMax_element.md)
+39.  [std::merge](CppStdMerge.md)
+40.  [std::min](CppStdMin.md)
+41.  [std::min_element](CppStdMin_element.md)
+42.  [std::minmax](CppStdMinmax.md)
+43.  [std::minmax_element](CppStdMinmax_element.md)
+44.  [std::mismatch](CppStdMismatch.md)
+45.  [std::move](CppStdMove.md)
+46.  [std::move_backward](CppStdMove_backward.md)
+47.  [std::next_permutation](CppStdNext_permutation.md)
+48.  [std::none_of](CppStdNone_of.md)
+49.  [std::nth_element](CppStdNth_element.md)
+50.  [std::partial_sort](CppStdPartial_sort.md)
+51.  [std::partial_sort_copy](CppStdPartial_sort_copy.md)
+52.  [std::partition](CppStdPartition.md)
+53.  [std::partition_copy](CppStdPartition_copy.md)
+54.  [std::partition_point](CppStdPartition_point.md)
+55.  [std::pop_heap](CppStdPop_heap.md)
+56.  [std::prev_permutation](CppStdPrev_permutation.md)
+57.  [std::push_heap](CppStdPush_heap.md)
+58.  [std::random_shuffle](CppStdRandom_shuffle.md)
+59.  [std::remove](CppStdRemove.md)
+60.  [std::remove_copy](CppStdRemove_copy.md)
+61.  [std::remove_copy_if](CppStdRemove_copy_if.md)
+62.  [std::remove_if](CppStdRemove_if.md)
+63.  [std::replace](CppStdReplace.md)
+64.  [std::replace_copy](CppStdReplace_copy.md)
+65.  [std::replace_copy_if](CppStdReplace_copy_if.md)
+66.  [std::replace_if](CppStdReplace_if.md)
+67.  [std::reverse](CppStdReverse.md)
+68.  [std::reverse_copy](CppStdReverse_copy.md)
+69.  [std::rotate](CppStdRotate.md)
+70.  [std::rotate_copy](CppStdRotate_copy.md)
+71.  [std::search](CppStdSearch.md)
+72.  [std::search_n](CppStdSearch_n.md)
+73.  [std::set_difference](CppStdSet_difference.md)
+74.  [std::set_intersection](CppStdSet_intersection.md)
+75.  [std::set_symmetric_difference](CppStdSet_symmetric_difference.md)
+76.  [std::set_union](CppStdSet_union.md)
+77.  [std::sort](CppStdSort.md)
+78.  [std::sort_heap](CppStdSort_heap.md)
+79.  [std::stable_partition](CppStdStable_partition.md)
+80.  [std::stable_sort](CppStdStable_sort.md)
+81.  [std::swap](CppStdSwap.md)
+82.  [std::swap_ranges](CppStdSwap_ranges.md)
+83.  [std::transform](CppStdTransform.md)
+84.  [std::unique](CppStdUnique.md)
+85.  [std::unique_copy](CppStdUnique_copy.md)
+86.  [std::upper_bound](CppStdUpper_bound.md)
 
 ## [Advice](CppAdvice.md)
 

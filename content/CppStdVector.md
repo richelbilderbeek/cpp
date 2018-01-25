@@ -3,6 +3,43 @@
 [STL](CppStl.md) [container](CppContainer.md) for storing
 [instances](CppInstance.md) of any [data type](CppDataType.md).
 
+## Example: [convert `argv` to `std::vector<std::string>`](CppArgvToStdVectorStdString.md)
+
+Because you can create a std::vector from two iterators, you can
+use [argc](CppArgc.md) and [argv](CppArgv.md) to get the
+command-line arguments in a `std::vector<std::string>`:
+
+```c++ 
+#include <cassert>
+#include <string>
+#include <vector>
+
+int main(int argc, char* argv[])
+{
+  const std::vector<std::string> args(argv, argv + argc);
+  assert(argc == static_cast<int>(args.size());
+  assert(argv[0] == args[0]);
+}
+```
+
+## Example: sorting a std::vector
+
+```c++
+#include <algorithm>
+#include <cassert>
+#include <vector>
+
+int main()
+{
+  std::vector<int> v = {4, 2, 3, 1};
+  std::sort(std::begin(v), std::end(v));
+  const std::vector<int> expected = {1, 2, 3, 4};
+  assert(v == expected);
+}
+```
+
+## std::vector versus plain array
+
 Advantages of a [std::vector](CppStdVector.md) over an
 [array](CppArray.md) are:
 

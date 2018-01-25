@@ -7,6 +7,7 @@ software.
 
 There are multiple types of [tests](CppTest.md), which overlap:
 
+ * [unit testing](CppUnitTest.md): [testing](CppTest.md) a [unit](CppUnit.md)
  * [regression testing](CppRegressionTest.md): check that new changes does not break other code.
  * [Graphical User Interface testing](CppGuiTest.md): check that the [GUI](CppGui.md) behaves as expected
 
