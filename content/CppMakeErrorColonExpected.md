@@ -40,7 +40,7 @@ following:
  
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` GNU Make 3.81 Copyright (C) 2006  Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  This program built for i686-pc-cygwin`
+  ` GNU Make 3.81 Copyright 2006  Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  This program built for i686-pc-cygwin`
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -50,7 +50,7 @@ Under Ubuntu, using 'make -v', the following pops up:
  
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` richel@richel1-desktop:~$ make -v GNU Make 3.81 Copyright (C) 2006  Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  This program built for i486-pc-linux-gnu`
+  ` richel@richel1-desktop:~$ make -v GNU Make 3.81 Copyright 2006  Free Software Foundation, Inc. This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  This program built for i486-pc-linux-gnu`
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
