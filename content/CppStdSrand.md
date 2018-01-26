@@ -15,7 +15,7 @@
  
 
 [std::srand](CppStdSrand.md) sets the seed of the random number sequence
-that can be created by [std::rand](CppStdRand.md.md) sequence.
+that can be created by [std::rand](CppStdRand.md) sequence.
 
  
 

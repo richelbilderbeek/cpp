@@ -14,7 +14,7 @@
 
  
 
-[std::\_lrand](Cpp_lrand.md) is [std::rand](CppStdRand.md.md), except that:
+[std::\_lrand](Cpp_lrand.md) is [std::rand](CppStdRand.md), except that:
 
 1.  [std::\_lrand](Cpp_lrand.md) draws a higher maximum number
 2.  [std::\_lrand](Cpp_lrand.md) is a non-standard

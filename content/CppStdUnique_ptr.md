@@ -20,7 +20,7 @@
  
 
 [std::unique\_ptr](CppStdUnique_ptr.md) is similar to
-[boost::scoped\_ptr](Cppscoped_ptr.md).
+[boost::scoped\_ptr](CppBoostScoped_ptr.md).
 
  
 
@@ -75,7 +75,7 @@ complete when destroyed \[1\].
 
  
 
-Comparison of [std::unique\_ptr](CppStdUnique_ptr.md) and [boost::scoped\_ptr](Cppscoped_ptr.md)
+Comparison of [std::unique\_ptr](CppStdUnique_ptr.md) and [boost::scoped\_ptr](CppBoostScoped_ptr.md)
 --------------------------------------------------------------------------------------------------
 
  

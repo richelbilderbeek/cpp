@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::generate\_n](CppGenerate_n.md)
+([C++](Cpp.md)) [std::generate\_n](CppStdGenerate_n.md)
 ======================================================
 
  
 
-[std::generate\_n](CppGenerate_n.md) is an
+[std::generate\_n](CppStdGenerate_n.md) is an
 [algorithm](CppAlgorithm.md) to generate a sequence of different
 elements.
 

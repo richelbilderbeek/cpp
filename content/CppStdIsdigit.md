@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::isdigit](CppIsdigit.md)
+([C++](Cpp.md)) [std::isdigit](CppStdIsdigit.md)
 ===============================================
 
  
 
-[std::isdigit](CppIsdigit.md) is an [STL](CppStl.md)
+[std::isdigit](CppStdIsdigit.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to test of a character is a decimal digit.
 
  

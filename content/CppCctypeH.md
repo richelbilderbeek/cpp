@@ -26,7 +26,7 @@ of (incomplete list):
 -   [std::isalnum](CppIsalnum.md)
 -   [std::isalpha](CppIsalpha.md)
 -   [std::iscntrl](CppIscntrl.md)
--   [std::isdigit](CppIsdigit.md)
+-   [std::isdigit](CppStdIsdigit.md)
 -   [std::isgraph](CppIsgraph.md)
 -   [std::islower](CppStdIslower.md)
 -   [std::isprint](CppIsprint.md)

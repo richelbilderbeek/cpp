@@ -34,7 +34,7 @@ file](CppHeaderFile.md)
 -   [std::strcat](CppStdStrcat.md): concatenate strings
 -   [std::strchr](CppStdStrchr.md): locate first occurrence of character
     in string
--   [std::strcmp](CppStrcmp.md): compare two strings
+-   [std::strcmp](CppStdStrcmp.md): compare two strings
 -   [std::strcoll](CppStrcoll.md): compare two strings using locale
 -   [std::strcpy](CppStdStrcpy.md): copy string
 -   [std::strcspn](CppStrcspn.md): get span until character in string

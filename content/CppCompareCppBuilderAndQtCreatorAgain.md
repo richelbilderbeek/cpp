@@ -55,16 +55,16 @@ Quick facts chart
 | platform**               | executable               | platform                 |
 +--------------------------+--------------------------+--------------------------+
 | **Default supplied       | Borland                  | [G++](CppGpp.md)        |
-| [compiler](CppCompiler.h | [BCC32.EXE](CppBcc32Exe. | version 4.4.1            |
-| tm)**                    | htm)                     |                          |
+| [compiler](CppCompiler.md]  | [BCC32.EXE](CppBcc32Exe. | version 4.4.1            |
+| **                       | htm)                     |                          |
 |                          | version 6.0.10.157       |                          |
 +--------------------------+--------------------------+--------------------------+
 | **[Boost](CppBoost.md)  | About 20-60%:            | 100% (can this be        |
-| [compiler](CppCompiler.h | [BCC32.EXE](CppBcc32Exe. | true?):                  |
-| tm)                      | htm)                     | [G++](CppGpp.md) is a   |
+| [compiler](CppCompiler.md) | [BCC32.EXE](CppBcc32Exe. | true?):                  |
+|                          | htm)                     | [G++](CppGpp.md) is a   |
 | support**                | is an unsupported        | supported                |
-|                          | [compiler](CppCompiler.h | [compiler](CppCompiler.h |
-|                          | tm)                      | tm)                      |
+|                          | [compiler](CppCompiler.md)| [compiler](CppCompiler.md) |
+|                          |                         |                       |
 +--------------------------+--------------------------+--------------------------+
 | **Supplied with          | [CLX](CppClx.md),       | [OpenGL](CppOpenGl.md), |
 | [libraries](CppLibrary.h | [OpenGL](CppOpenGl.md), | [STL](CppStl.md),       |

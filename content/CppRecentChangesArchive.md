@@ -536,8 +536,8 @@ Great stuff for historicians!
     [boost::algorithm::trim\_left](CppTrim_left.md)
 360. 12-12-2010: New page:
     [boost::algorithm::find\_first](CppStdFind_first.md)
-361. 12-12-2010: New page: [std::isdigit](CppIsdigit.md)
-362. 12-12-2010: New page: [std::iswdigit](CppIswdigit.md)
+361. 12-12-2010: New page: [std::isdigit](CppStdIsdigit.md)
+362. 12-12-2010: New page: [std::iswdigit](CppStdIswdigit.md)
 363. 12-12-2010: New page: [std::isxdigit](CppIsxdigit.md)
 364. 12-12-2010: Modified [SoaSim](ToolSoaSim.md): improved page source
 365. 12-12-2010: Modified [Windows typedefs](CppWindowsTypedefs.md):
@@ -1201,7 +1201,7 @@ Great stuff for historicians!
 792. 30-07-2010: New page: [std::adjacent\_find](CppAdjacent_find.md)
 793. 30-07-2010: New page: [std::binary\_search](CppBinary_search.md)
 794. 30-07-2010: New page: [std::boolalpha](Cppstd::boolalpha.md)
-795. 30-07-2010: New page: [std::random\_shuffle](CppStdRand.mdom_shuffle.md)
+795. 30-07-2010: New page: [std::random\_shuffle](CppStdRandom_shuffle.md)
 796. 30-07-2010: New page: [BCC32.EXE](CppBcc32Exe.md)
 797. 30-07-2010: New page: [Preprocessor](CppPreprocessor.md)
 798. 30-07-2010: New page: [How to define a OnKeyPress
@@ -1606,7 +1606,7 @@ Great stuff for historicians!
 1072. 22-05-2010: Modified [Audio](CppAudio.md): improved page content
 1073. 19-05-2010: New page: [WTL](CppWtl.md)
 1074. 19-05-2010: New page: [std::bitset](CppStdBitset.md)
-1075. 19-05-2010: New page: [std::generate\_n](CppGenerate_n.md)
+1075. 19-05-2010: New page: [std::generate\_n](CppStdGenerate_n.md)
 1076. 19-05-2010: New page: [Linker](CppLinker.md)
 1077. 16-05-2010: New page: [nl](CppNl.md)
 1078. 16-05-2010: New page: [QEvent](CppQEvent.md)
@@ -1679,7 +1679,7 @@ Great stuff for historicians!
 1126. 13-05-2010: New page: [Variable](CppVariable.md)
 1127. 13-05-2010: Modified [STL](CppStl.md): improved page source and
     content
-1128. 13-05-2010: Modified [std::rand](CppStdRand.md.md): improved page
+1128. 13-05-2010: Modified [std::rand](CppStdRand.md): improved page
     source and content
 1129. 11-05-2010: New page: [std::range\_error](CppRange_error.md)
 1130. 10-05-2010: New page: [Request for member 'mX' in 'w', which is of
@@ -2063,7 +2063,7 @@ Great stuff for historicians!
 1344. 04-04-2010: Modified [Append](CppAppend.md): improved page source
 1345. 04-04-2010: Modified [StrToInt](CppStrToInt.md): improved page
     source
-1346. 04-04-2010: Modified [std::rand](CppStdRand.md.md): improved page
+1346. 04-04-2010: Modified [std::rand](CppStdRand.md): improved page
     source
 1347. 04-04-2010: Modified [std::find](CppStdFind.md): improved page
     source
@@ -2568,7 +2568,7 @@ Great stuff for historicians!
     internal links
 1630. 20-09-2009: Modified [Rainbow](CppRainbow.md): added internal
     links
-1631. 20-09-2009: Modified [std::rand](CppStdRand.md.md) &gt;: added internal
+1631. 20-09-2009: Modified [std::rand](CppStdRand.md) &gt;: added internal
     links
 1632. 20-09-2009: Modified [if](CppIf.md): added internal links
 1633. 20-09-2009: Modified [array](CppArray.md): added internal links

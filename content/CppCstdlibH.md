@@ -52,7 +52,7 @@ Creator](CppQtCreator.md) 1.3.1):
 17. [std::mbstowcs](CppMbstowcs.md)
 18. [std::mbtowc](CppMbtowc.md)
 19. [std::qsort](CppQsort.md)
-20. [std::rand](CppStdRand.md.md)
+20. [std::rand](CppStdRand.md)
 21. [std::realloc](CppStdRealloc.md)
 22. [std::srand](CppStdSrand.md)
 23. [std::strtod](CppStrtod.md)
