@@ -10,12 +10,12 @@ X
 
  
 
-([C++](Cpp.md)) [std::make\_pair](CppMake_pair.md)
+([C++](Cpp.md)) [std::make\_pair](CppStdMake_pair.md)
 ====================================================
 
  
 
-[std::make\_pair](CppMake_pair.md) is an [STL](CppStl.md)
+[std::make\_pair](CppStdMake_pair.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to create a [std::pair](CppStdPair.md).
 
  

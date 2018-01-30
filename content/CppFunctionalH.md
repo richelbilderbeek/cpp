@@ -42,7 +42,7 @@ Creator](CppQtCreator.md) 1.3.1):
 14. [std::modulus](CppStdModulus.md)
 15. [std::multiplies](CppStdMultiplies.md)
 16. [std::negate](CppStdNegate.md)
-17. [std::not\_equal\_to](CppNot_equal_to.md)
+17. [std::not\_equal\_to](CppStdNot_equal_to.md)
 18. [std::plus](CppStdPlus.md)
 19. [std::unary\_function](CppUnary_function.md)
 

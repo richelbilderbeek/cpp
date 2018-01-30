@@ -59,7 +59,7 @@ duty by calling its [operator()](CppOperatorFunctionCall.md).
 -   [std::logical\_and](CppStdLogical_and.md)
 -   [std::logical\_not](CppStdLogical_not.md)
 -   [std::logical\_or](CppStdLogical_or.md)
--   [std::not\_equal\_to](CppNot_equal_to.md)
+-   [std::not\_equal\_to](CppStdNot_equal_to.md)
 
  
 

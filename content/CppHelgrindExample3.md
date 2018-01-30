@@ -27,7 +27,7 @@ Ubuntu](CppHelloWtQtCreatorUbuntu.md) for possible problems.
 
 The original version was adapted to let the program quit. So, I added a
 [Wt::WPushButton](CppWPushButton.md) that calls
-[std::exit](CppExit.md).
+[std::exit](CppStdExit.md).
 
  
 

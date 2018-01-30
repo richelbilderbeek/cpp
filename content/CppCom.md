@@ -14,7 +14,7 @@
 
  
 
-[COM](CppCOM.md), an abbreviation of 'Component Object Model' is 'a
+[COM](CppCom.md), an abbreviation of 'Component Object Model' is 'a
 binary-interface standard for software componentry introduced by
 Microsoft in 1993. It is used to enable interprocess communication and
 dynamic object creation in a large range of programming languages'.

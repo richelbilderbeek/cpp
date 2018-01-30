@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [boost::filesystem::copy\_file](CppCopy_file.md)
+([C++](Cpp.md)) [boost::filesystem::copy\_file](CppBoostCopy_file.md)
 ==================================================================
 
  
 
-[boost::filesystem::copy\_file](CppCopy_file.md) is a
+[boost::filesystem::copy\_file](CppBoostCopy_file.md) is a
 [Boost.Filesystem](CppBoostFilesystem.md) [file I/O](CppFileIo.md)
 [function](CppFunction.md) to copy a file.
 

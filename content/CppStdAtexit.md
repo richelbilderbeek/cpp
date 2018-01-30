@@ -9,19 +9,19 @@
 
  
 
-([C++](Cpp.md)) [std::atexit](CppAtexit.md)
+([C++](Cpp.md)) [std::atexit](CppStdAtexit.md)
 =============================================
 
  
 
-[std::atexit](CppAtexit.md) is an [STL](CppStl.md)
+[std::atexit](CppStdAtexit.md) is an [STL](CppStl.md)
 [function](CppFunction.md) to specify which
 [functions](CppFunction.md) must be called upon program termination (in
 a [LIFO](http://en.wikipedia.org/wiki/LIFO_%28computing%29) fashion).
 
  
 
-[std::atexit](CppAtexit.md) is [defined](CppDefinition.md) in
+[std::atexit](CppStdAtexit.md) is [defined](CppDefinition.md) in
 [cstdlib.h](CppCstdlibH.md).
 
  

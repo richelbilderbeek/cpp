@@ -31,7 +31,7 @@ determine that three is not equal to four:
  
 
 [operator!=](CppOperatorNotEqual.md) is encapsulated by the
-[functor](CppFunctor.md) [std::not\_equal\_to](CppNot_equal_to.md).
+[functor](CppFunctor.md) [std::not\_equal\_to](CppStdNot_equal_to.md).
 
  
 

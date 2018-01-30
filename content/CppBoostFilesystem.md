@@ -46,7 +46,7 @@ browsing/adding/removing files and folders.
     [GetCppFilesInFolder](CppGetCppFilesInFolder.md)
 -   ![Lubuntu](PicLubuntu.png) [GetPath](CppGetPath.md)
 -   ![Lubuntu](PicLubuntu.png)
-    [boost::filesystem::copy\_file](CppCopy_file.md)
+    [boost::filesystem::copy\_file](CppBoostCopy_file.md)
 
  
 

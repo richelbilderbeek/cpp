@@ -27,7 +27,7 @@ two values of any [data type](CppDataType.md). So,
 
  
 
-The [function](CppFunction.md) [std::make\_pair](CppMake_pair.md) can
+The [function](CppFunction.md) [std::make\_pair](CppStdMake_pair.md) can
 save typing in creating [std::pair](CppStdPair.md)s (as it saves you
 redeclaring the [data types](CppDataType.md)).
 

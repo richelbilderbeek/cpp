@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [RenameFile](CppRenameFile.md)
-================================================
-
- 
+# ([C++](Cpp.md)) [RenameFile](CppRenameFile.md)
 
 Technical facts
 ---------------

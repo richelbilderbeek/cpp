@@ -73,7 +73,7 @@ file](CppHeaderFile.md) [functional](CppFunctionalH.md).
     [operator!](CppOperatorLogicalNot.md)
 -   [std::logical\_or](CppStdLogical_or.md),
     [operator||](CppOperatorLogicalOr.md)
--   [std::not\_equal\_to](CppNot_equal_to.md),
+-   [std::not\_equal\_to](CppStdNot_equal_to.md),
     [operator!=](CppOperatorNotEqual.md)
 
  

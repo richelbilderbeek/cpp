@@ -1,222 +1,152 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Missing separator. Stop.](CppMiscErrorMissingSeparator.md)
-=============================================================================
-
- 
+# ([C++](Cpp.md)) [Missing separator. Stop.](CppMiscErrorMissingSeparator.md)
 
 [Misc error](CppMiscError.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-History
--------
-
- 
+## History
 
 This error occurred while answering the [Qt FAQ](CppQtFaq.md) [How to
 cross-compile a Qt Creator project from Ubuntu to a windows
 executable?](CppQtCrosscompileToWindows.md).
 
- 
-
 I started a clean console application and added the '-spec win32-msvc'.
 
- 
+## Downloads
 
- 
+![View a screenshot of the error (png)](CppMiscErrorMissingSeparator.md)
 
- 
+![View a screenshot of the cause (png)](CppMiscErrorMissingSeparatorCause.md)
 
- 
+ * [Download the Qt Creator project 'CppMiscErrorMissingSeparator' (zip)](CppMiscErrorMissingSeparator.zip)
 
- 
+## [Qt project file](CppQtProjectFile.md)
 
-Downloads
----------
+```
+QT       += core
+QT       -= gui
+TARGET = CppMiscErrorMissingSeparator
+CONFIG   += console
+CONFIG   -= app_bundle
+TEMPLATE = app
+SOURCES += main.cpp
+```
 
- 
+## main.cpp
 
--   [View a screenshot of the
-    error (png)](CppMiscErrorMissingSeparator.md)
--   [View a screenshot of the
-    cause (png)](CppMiscErrorMissingSeparatorCause.md)
--   [Download the Qt Creator project
-    'CppMiscErrorMissingSeparator' (zip)](CppMiscErrorMissingSeparator.zip)
+```
+#include <QtCore/QCoreApplication>
 
- 
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
 
- 
+    return a.exec();
+}
+```
 
- 
-
- 
-
- 
-
-Project information
--------------------
-
- 
-
-Operating system: [Ubuntu](http://www.ubuntu.com) 10.04 LTS Lucid Lynx
-
-[IDE](CppIde.md): [Qt Creator](CppQtCreator.md) 2.0.0
-
-[Project type](CppQtCreatorNewProject_2_5_2.png): console application
-
-[Compiler](CppCompiler.md): [G++](CppGpp.md) 4.4.1
-
-[Libraries](CppLibrary.md) used:
-
--   [Qt](CppQt.md): version 4.7.0 (32 bit)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Qt project file](CppQtProjectFile.md)
----------------------------------------
-
- 
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #------------------------------------------------- # # Project created by QtCreator 2010-09-24T09:38:07 # #-------------------------------------------------  QT       += core  QT       -= gui  TARGET = CppMiscErrorMissingSeperator CONFIG   += console CONFIG   -= app_bundle  TEMPLATE = app   SOURCES += main.cpp `
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-main.cpp
---------
-
- 
-
-  ----------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <QtCore/QCoreApplication>  int main(int argc, char *argv[]) {     QCoreApplication a(argc, argv);      return a.exec(); } `
-  ----------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Observations
-------------
-
- 
+## Observations
 
 The same error occurs for a GUI project.
 
- 
-
 The Qt Creator compile output is as following:
 
- 
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` Running build steps for project CppMiscErrorMissingSeperator... Starting: "/usr/bin/make" -w  make: Entering directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeperator-build-desktop'  /usr/bin/make -f Makefile.Debug  make[1]: Entering directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeperator-build-desktop'  make[1]: Leaving directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeperator-build-desktop'  make: Leaving directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeperator-build-desktop'  Makefile.Debug:58: *** missing separator. Stop.  make: *** [debug] Error 2  The process "/usr/bin/make" exited with code %2. Error while building project CppMiscErrorMissingSeperator (target: Desktop) When executing build step 'Make'`
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+```
+ Running build steps for project CppMiscErrorMissingSeparator...
+Starting: "/usr/bin/make" -w
+make: Entering directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeparator-build-desktop'
+/usr/bin/make -f Makefile.Debug
+make[1]: Entering directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeparator-build-desktop'
+make[1]: Leaving directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeparator-build-desktop'
+make: Leaving directory '/home/richel/qtsdk-2010.04/bin/Projects/Website/CppMiscErrorMissingSeparator-build-desktop'
+Makefile.Debug:58: *** missing separator. Stop.
+make: *** [debug] Error 2
+The process "/usr/bin/make" exited with code %2.
+Error while building project CppMiscErrorMissingSeparator (target: Desktop)
+When executing build step 'Make'
+```
 
 It is assumed that in Makefile.Debug, line 58, there is a missing
 seperator. Makefile.Debug is shown below, with line 58 marked.
 
- 
+```
+####### Implicit rules
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` ############################################################################# # Makefile for building: CppMiscErrorMissingSeperator # Generated by qmake (2.01a) (Qt 4.6.2) on: Fri Sep 24 09:38:39 2010 # Project:  ../CppMiscErrorMissingSeperator/CppMiscErrorMissingSeperator.pro # Template: app #############################################################################  ####### Compiler, tools and options  CC            = cl CXX           = cl DEFINES       = -DUNICODE -DQT_LARGEFILE_SUPPORT -DQT_CORE_LIB CFLAGS        = -nologo -Zm200 -Zi -MDd -W3 $(DEFINES) CXXFLAGS      = -nologo -Zm200 -Zi -MDd -W3 $(DEFINES) INCPATH       = -I"/usr/include/qt4/QtCore" -I"/usr/include/qt4" -I"debug" -I"../CppMiscErrorMissingSeperator" -I"." -I"/usr/share/qt4/mkspecs/win32-msvc" LINK          = link LFLAGS        = /LIBPATH:"/usr/lib" /NOLOGO /DEBUG LIBS          = QtCore.lib  QMAKE         = /usr/bin/qmake-qt4 IDC           = /usr/bin/idc.exe IDL           = midl ZIP           = zip -r -9 DEF_FILE      =  RES_FILE      =  COPY          = copy /y COPY_FILE     = $(COPY) COPY_DIR      = xcopy /s /q /y /i DEL_FILE      = del DEL_DIR       = rmdir MOVE          = move CHK_DIR_EXISTS= if not exist MKDIR         = mkdir INSTALL_FILE    = $(COPY_FILE) INSTALL_PROGRAM = $(COPY_FILE) INSTALL_DIR     = $(COPY_DIR)  ####### Output directory  OBJECTS_DIR   = debug/  ####### Files  SOURCES       = ../CppMiscErrorMissingSeperator/main.cpp  OBJECTS       = debug/main.o DIST          =  QMAKE_TARGET  = CppMiscErrorMissingSeperator DESTDIR        = debug/ #avoid trailing-slash linebreak TARGET         = CppMiscErrorMissingSeperator.exe DESTDIR_TARGET = debug/CppMiscErrorMissingSeperator.exe  ####### Implicit rules  .SUFFIXES: .c .cpp .cc .cxx .C  {../CppMiscErrorMissingSeperator}.cpp{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< << #####################################THIS IS LINE 58  {../CppMiscErrorMissingSeperator}.cc{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {../CppMiscErrorMissingSeperator}.cxx{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {../CppMiscErrorMissingSeperator}.C{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {../CppMiscErrorMissingSeperator}.c{debug/}.o::     $(CC) -c $(CFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {.}.cpp{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {.}.cc{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {.}.cxx{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {.}.C{debug/}.o::     $(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  {.}.c{debug/}.o::     $(CC) -c $(CFLAGS) $(INCPATH) -Fodebug/ @<<     $< <<  ####### Build rules  first: all all: Makefile.Debug $(DESTDIR_TARGET)  $(DESTDIR_TARGET):  $(OBJECTS)      $(LINK) $(LFLAGS) /OUT:$(DESTDIR_TARGET) @<<        $(OBJECTS) $(LIBS) <<   qmake:  FORCE     @$(QMAKE) -spec /usr/share/qt4/mkspecs/win32-msvc -unix CONFIG+=debug -o Makefile.Debug ../CppMiscErrorMissingSeperator/CppMiscErrorMissingSeperator.pro  dist:     $(ZIP) CppMiscErrorMissingSeperator.zip $(SOURCES) $(DIST) ../CppMiscErrorMissingSeperator/CppMiscErrorMissingSeperator.pro /usr/share/qt4/mkspecs/qconfig.pri /usr/share/qt4/mkspecs/features/qt_functions.prf /usr/share/qt4/mkspecs/features/qt_config.prf /usr/share/qt4/mkspecs/features/exclusive_builds.prf /usr/share/qt4/mkspecs/features/default_pre.prf /usr/share/qt4/mkspecs/features/debug.prf /usr/share/qt4/mkspecs/features/debug_and_release.prf /usr/share/qt4/mkspecs/features/default_post.prf /usr/share/qt4/mkspecs/features/build_pass.prf /usr/share/qt4/mkspecs/win32-msvc/features/incremental.prf /usr/share/qt4/mkspecs/features/warn_on.prf /usr/share/qt4/mkspecs/features/qt.prf /usr/share/qt4/mkspecs/features/unix/thread.prf /usr/share/qt4/mkspecs/features/moc.prf /usr/share/qt4/mkspecs/features/resources.prf /usr/share/qt4/mkspecs/features/uic.prf /usr/share/qt4/mkspecs/features/yacc.prf /usr/share/qt4/mkspecs/features/lex.prf /usr/share/qt4/mkspecs/features/include_source_dir.prf  HEADERS RESOURCES IMAGES SOURCES OBJECTIVE_SOURCES FORMS YACCSOURCES YACCSOURCES LEXSOURCES   clean: compiler_clean      -$(DEL_FILE) debug/main.o     -$(DEL_FILE) debug/CppMiscErrorMissingSeperator.pdb     -$(DEL_FILE) debug/CppMiscErrorMissingSeperator.ilk     -$(DEL_FILE) vc*.pdb     -$(DEL_FILE) vc*.idb  distclean: clean     -$(DEL_FILE) $(DESTDIR_TARGET)     -$(DEL_FILE) Makefile.Debug  mocclean: compiler_moc_header_clean compiler_moc_source_clean  mocables: compiler_moc_header_make_all compiler_moc_source_make_all  compiler_moc_header_make_all: compiler_moc_header_clean: compiler_rcc_make_all: compiler_rcc_clean: compiler_image_collection_make_all: qmake_image_collection.cpp compiler_image_collection_clean:     -$(DEL_FILE) qmake_image_collection.cpp compiler_moc_source_make_all: compiler_moc_source_clean: compiler_uic_make_all: compiler_uic_clean: compiler_yacc_decl_make_all: compiler_yacc_decl_clean: compiler_yacc_impl_make_all: compiler_yacc_impl_clean: compiler_lex_make_all: compiler_lex_clean: compiler_clean:     ####### Compile  debug/main.o: ../CppMiscErrorMissingSeperator/main.cpp   ####### Install  install:   FORCE  uninstall:   FORCE  FORCE: `
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.SUFFIXES: .c .cpp .cc .cxx .C
 
- 
+{../CppMiscErrorMissingSeparator}.cpp{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<< #####################################THIS IS LINE 58
+
+{../CppMiscErrorMissingSeparator}.cc{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{../CppMiscErrorMissingSeparator}.cxx{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{../CppMiscErrorMissingSeparator}.C{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{../CppMiscErrorMissingSeparator}.c{debug/}.o::
+$(CC) -c $(CFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{.}.cpp{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{.}.cc{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{.}.cxx{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{.}.C{debug/}.o::
+$(CXX) -c $(CXXFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+{.}.c{debug/}.o::
+$(CC) -c $(CFLAGS) $(INCPATH) -Fodebug/ @<<
+$<
+<<
+
+####### Build rules
+
+first: all
+all: Makefile.Debug $(DESTDIR_TARGET)
+
+$(DESTDIR_TARGET):  $(OBJECTS)
+$(LINK) $(LFLAGS) /OUT:$(DESTDIR_TARGET) @<<
+  $(OBJECTS) $(LIBS)
+<<
+```
 
 I noted that CL was used as a (cross)-compiler. Calling it from Ubuntu
 terminal failed. Install by 'sudo apt-get install cl' failed, because
 package 'cl' was not found.
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Solution
---------
-
- 
+## Solution
 
 Unknown
 
- 
+## [References](CppReferences.md)
 
- 
+### (page that does not exist anymore)
 
- 
+```
+It complains about 'BLABLUBB_0XE02CF35F.GCCE:85: *** missing separator. Stop.'
 
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-### \[1\] http://qt.gitorious.org/qt-creator/pages/QtS60WithQtCreator
-
- 
-
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  `  It complains about ?BLABLUBB_0XE02CF35F.GCCE:85: *** missing separator. Stop.?  If you are using a S60 3rd Edition FP1 (in contrast to 3rd FP2 or later), this means that the ARM compiler is not found in a directory from the PATH environment variable. Add the path to your compiler to the PATH environment, e.g. ?C:\Program Files (x86)\CSL Arm Toolchain\bin?.`
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
+If you are using a S60 3rd Edition FP1 (in contrast to 3rd FP2 or later), this means that the ARM compiler is not found in a directory from the PATH environment variable. Add the path to your compiler to the PATH environment, e.g. 'C:\Program Files (x86)\CSL Arm Toolchain\bin'.
+```

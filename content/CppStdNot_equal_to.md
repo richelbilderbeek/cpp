@@ -9,7 +9,7 @@
 
  
 
-([C++](Cpp.md)) [std::not\_equal\_to](CppNot_equal_to.md)
+([C++](Cpp.md)) [std::not\_equal\_to](CppStdNot_equal_to.md)
 ===========================================================
 
  

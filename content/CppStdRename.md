@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [std::remove](CppStdRemove.md)
-=============================================
-
- 
+# ([C++](Cpp.md)) [std::remove](CppStdRemove.md)
 
 There exist two different versions of [std::remove](CppStdRemove.md) in
 the [STL](CppStl.md):
@@ -24,32 +10,6 @@ the [STL](CppStl.md):
     [cstdio.h](CppCstdioH.md): [File I/O](CppFileIo.md)
     [function](CppFunction.md) to remove a file
 
- 
+## [Examples](CppExample.md)
 
- 
-
- 
-
- 
-
- 
-
-[Examples](CppExample.md)
---------------------------
-
- 
-
--   [std::remove example 1: basics](CppRemoveExample1.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [std::remove example 1: basics](CppRemoveExample1.md)

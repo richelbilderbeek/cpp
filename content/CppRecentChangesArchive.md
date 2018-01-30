@@ -613,7 +613,7 @@ Great stuff for historicians!
 415. 08-10-2010: New page: [Wine](CppWine.md)
 416. 08-10-2010: New page: [static linking in Qt
     Creator](CppQtCreatorLinkStatic.md)
-417. 08-10-2010: New page: [std::exit](CppExit.md)
+417. 08-10-2010: New page: [std::exit](CppStdExit.md)
 418. 08-10-2010: New page: [member](CppMember.md)
 419. 08-10-2010: New page: [Stopwatch](CppStopwatch.md)
 420. 08-10-2010: New page: [qmake variables](CppQmakeVariable.md)
@@ -1076,7 +1076,7 @@ Great stuff for historicians!
 695. 08-08-2010: New page: [std::multiset](CppMultiset.md)
 696. 07-08-2010: New page: [std::stringstream](CppStdStringstream.md)
 697. 07-08-2010: New page:
-    [boost::filesystem::copy\_file](CppCopy_file.md)
+    [boost::filesystem::copy\_file](CppBoostCopy_file.md)
 698. 07-08-2010: New page: [operator()](CppOperatorFunctionCall.md)
 699. 07-08-2010: New page: [operator-=](CppOperatorMinusAssign.md)
 700. 07-08-2010: New page: [QtSvg](CppQtSvg.md)
@@ -1370,7 +1370,7 @@ Great stuff for historicians!
     'boost::system::get\_system\_category()'](CppLinkErrorUndefinedReferenceToBoostSystem.md)
 919. 22-07-2010: New page: [undefined reference to
     'boost::thread::thread()'](CppLinkErrorUndefinedReferenceToBoostThread.md)
-920. 22-07-2010: New page: [std::make\_pair](CppMake_pair.md)
+920. 22-07-2010: New page: [std::make\_pair](CppStdMake_pair.md)
 921. 22-07-2010: New page: [std::ostringstream](CppStdOstringstream.md)
 922. 22-07-2010: New page: [boost::get](CppStdGet.md)
 923. 22-07-2010: New page: [boost::multi\_array](CppBoostMulti_array.md)
@@ -1720,7 +1720,7 @@ Great stuff for historicians!
 1145. 07-05-2010: New page: [CountNonZeroes](CppCountNonZeroes.md)
 1146. 07-05-2010: New page: [Multiply](CppMultiply.md)
 1147. 07-05-2010: New page: [std::abs](CppStdAbs.md)
-1148. 07-05-2010: New page: [std::not\_equal\_to](CppNot_equal_to.md)
+1148. 07-05-2010: New page: [std::not\_equal\_to](CppStdNot_equal_to.md)
 1149. 07-05-2010: Modified [std:: glossary](CppStdGlossary.md):
     improved page source
 1150. 07-05-2010: Modified [Answer of exercise \#9: No for-loops

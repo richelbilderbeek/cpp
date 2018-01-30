@@ -10,9 +10,9 @@ copying and searching.
 
 ## [File I/O](CppFileIo.md) [code snippets](CppCodeSnippets.md)
 
-1.  ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [boost::filesystem::copy\_file, copy a file](CppCopy_file.md)
+1.  ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [boost::filesystem::copy\_file, copy a file](CppBoostCopy_file.md)
 2.  ![Boost](PicBoost.png)![Qt](PicQt.png)![STL](PicStl.png)![ ](PicSpacer.png) [Check if a file exists, IsRegularFile](CppIsRegularFile.md)
-3.  ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [Copy a file, boost::filesystem::copy\_file](CppCopy_file.md)
+3.  ![Boost](PicBoost.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [Copy a file, boost::filesystem::copy\_file](CppBoostCopy_file.md)
 4.  ![Boost](PicBoost.png)![STL](PicStl.png)![VCL](PicVcl.png)![ ](PicSpacer.png) [Copy a file, CopyFile](CppCopyFile.md)
 5.  ![Boost](PicBoost.png)![STL](PicStl.png)![VCL](PicVcl.png)![ ](PicSpacer.png) [CopyFile, copy a file](CppCopyFile.md)
 6.  ![STL](PicStl.png)![ ](PicSpacer.png)![ ](PicSpacer.png)![ ](PicSpacer.png) [DeleteFile, delete a file](CppDeleteFile.md)

@@ -20,7 +20,7 @@
 
 [Tools](https://github.com/richelbilderbeek/tools) for detecting memory management and threading bugs
 are, among others, [valgrind](CppValgrind.md) ([Linux](CppLinux.md))
-and [DrMemory](CppDrMemory.md) ([Windows](CppWindows.md)).
+and [DrMemory](ToolDrMemory.md) ([Windows](CppWindows.md)).
 
  
 
