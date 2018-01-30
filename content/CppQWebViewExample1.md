@@ -1,35 +1,16 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [QWebViewExample1](CppQWebViewExample1.md)
-============================================================
-
- 
+# ([C++](Cpp.md)) [QWebViewExample1](CppQWebViewExample1.md)
 
 ![Qt](PicQt.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
- 
-
 [QWebView example 1](CppQWebViewExample1.md) is a
 [QWebView](CppQWebView.md) [example](CppExample.md).
 
- 
+![View a screenshot of CppQWebViewExample1 (png)](CppQWebViewExample1.png)
 
--   [View a screenshot of
-    CppQWebViewExample1 (png)](CppQWebViewExample1.png)
 -   [Download the Qt Creator project
     'CppQWebViewExample1' (zip)](CppQWebViewExample1.zip)
 
- 
 
 This example might cause following errors:
 

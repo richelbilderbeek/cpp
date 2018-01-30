@@ -1,36 +1,9 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoView: Example 1](CppQUndoViewExample1.md)
-==================================================================================
-
- 
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoView: Example 1](CppQUndoViewExample1.md)
 
 [QUndoView: Example 1](CppQUndoViewExample1.md) is a
 [QUndoView](CppQUndoView.md) example.
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Application type(s)](CppApplication.md)
 

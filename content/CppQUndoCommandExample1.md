@@ -1,43 +1,13 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoCommand example 1](CppQUndoCommandExample1.md)
-=======================================================================================
-
- 
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoCommand example 1](CppQUndoCommandExample1.md)
 
 [QUndoCommand example 1](CppQUndoCommandExample1.md) is a
 [QUndoCommand](CppQUndoCommand.md) example.
 
- 
+![View a screenshot of 'CppQUndoCommandExample1' (png)](CppQUndoCommandExample1.png)/
 
--   [View a screenshot of
-    'CppQUndoCommandExample1' (png)](CppQUndoCommandExample1.png)
--   [Download the Qt Creator project
-    'CppQUndoCommandExample1' (zip)](CppQUndoCommandExample1.zip)
+ * [Download the Qt Creator project 'CppQUndoCommandExample1' (zip)](CppQUndoCommandExample1.zip)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Application type(s)](CppApplication.md)
 

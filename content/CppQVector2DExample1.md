@@ -1,23 +1,6 @@
+# ([C++](Cpp.md)) [QVector2DExample1](CppQVector2DExample1.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [QVector2DExample1](CppQVector2DExample1.md)
-==============================================================
-
- 
-
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 

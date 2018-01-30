@@ -1,48 +1,8 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoCommand](CppQUndoCommand.md)
-=====================================================================
-
- 
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [QUndoCommand](CppQUndoCommand.md)
 
 [QUndoCommand](CppQUndoCommand.md) is a [Qt](CppQt.md)
 [class](CppClass.md) for undo commands.
 
- 
+## Examples
 
- 
-
- 
-
- 
-
- 
-
-Examples
---------
-
- 
-
--   [QUndoCommand example 1](CppQUndoCommandExample1.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [QUndoCommand example 1](CppQUndoCommandExample1.md)
