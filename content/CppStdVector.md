@@ -17,7 +17,7 @@ command-line arguments in a `std::vector<std::string>`:
 int main(int argc, char* argv[])
 {
   const std::vector<std::string> args(argv, argv + argc);
-  assert(argc == static_cast<int>(args.size());
+  assert(argc == static_cast<int>(args.size()));
   assert(argv[0] == args[0]);
 }
 ```
