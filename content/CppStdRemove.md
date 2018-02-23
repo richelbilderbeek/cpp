@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::rename](CppRename.md)
+([C++](Cpp.md)) [std::rename](CppStdRename.md)
 =============================================
 
  
 
-[std::rename](CppRename.md) is an [STL](CppStl.md) function to rename
+[std::rename](CppStdRename.md) is an [STL](CppStl.md) function to rename
 a file.
 
  
@@ -32,7 +32,7 @@ a file.
 
  
 
--   [std::rename example 1: basics](CppRenameExample1.md)
+-   [std::rename example 1: basics](CppStdRenameExample1.md)
 
  
 

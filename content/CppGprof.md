@@ -59,7 +59,7 @@ multi-threaded programs under [Lubuntu](CppLubuntu.md):
     application](CppGprofMultithreadedResult.txt): 0.0% of the total
     time is spent non-idle. But actually, 0.0% of the total time is
     spent non-idle in the main thread only! The application
-    [profiled](CppProfile.md) was [GTST](ProjectGtst.md), version 0.50
+    [profiled](CppProfile.md) was [GTST](https://github.com/richelbilderbeek/gtst), version 0.50
 
  
 

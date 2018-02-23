@@ -82,7 +82,7 @@ How to temporarily suppress the [-Weffc++](CppWeffcpp.md) compiler option?
 
 Sometimes suppressing [-Weffc++](CppWeffcpp.md) is the lesser evil (for
 example when creating a [derived class](CppDerivedClass.md) from
-[std::binary\_function](CppBinary_function.md)).
+[std::binary\_function](CppStdBinary_function.md)).
 
  
 

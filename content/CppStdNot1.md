@@ -16,9 +16,9 @@
 
 [std::not1](CppStdNot1.md) is an [STL](CppStl.md)
 [adapter](CppAdapter.md) to negate a [predicate](CppPredicate.md)
-derived from [std::unary\_function](CppUnary_function.md). To negate a
+derived from [std::unary\_function](CppStdUnary_function.md). To negate a
 [predicate](CppPredicate.md) derived from
-[std::binary\_function](CppBinary_function.md), use
+[std::binary\_function](CppStdBinary_function.md), use
 [std::not2](CppStdNot2.md).
 
  

@@ -36,7 +36,7 @@ Examples
 [Wt::WContainerWidget](CppWContainerWidget.md) is used in, among
 others:
 
--   [ProjectGtst](ProjectGtst.md)
+-   [ProjectGtst](https://github.com/richelbilderbeek/gtst)
 -   [ProjectWtWebsite](ProjectWtWebsite.md)
 -   [TestAsciiArter](ToolTestAsciiArter.md)
 -   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)

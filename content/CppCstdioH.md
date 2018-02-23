@@ -60,7 +60,7 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
 26. [std::putchar](CppStdPutchar.md)
 27. [std::puts](CppStdPuts.md)
 28. [std::remove](CppStdRemove.md)
-29. [std::rename](CppRename.md)
+29. [std::rename](CppStdRename.md)
 30. [std::rewind](CppRewind.md)
 31. [std::scanf](CppStdScanf.md)
 32. [std::setbuf](CppSetbuf.md)

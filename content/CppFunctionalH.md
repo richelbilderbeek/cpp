@@ -26,7 +26,7 @@ Creator](CppQtCreator.md) 1.3.1):
 
  
 
-1.  [std::binary\_function](CppBinary_function.md)
+1.  [std::binary\_function](CppStdBinary_function.md)
 2.  [std::divides](CppStdDivides.md)
 3.  [std::equal\_to](CppStdEqual_to.md)
 4.  [std::greater](CppStdGreater.md)
@@ -44,7 +44,7 @@ Creator](CppQtCreator.md) 1.3.1):
 16. [std::negate](CppStdNegate.md)
 17. [std::not\_equal\_to](CppStdNot_equal_to.md)
 18. [std::plus](CppStdPlus.md)
-19. [std::unary\_function](CppUnary_function.md)
+19. [std::unary\_function](CppStdUnary_function.md)
 
  
 

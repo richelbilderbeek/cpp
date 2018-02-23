@@ -1881,7 +1881,7 @@ Great stuff for historicians!
 1234. 28-04-2010: Modified [RandomizeTimer](CppRandomizeTimer.md):
     improved page source
 1235. 25-04-2010: New page:
-    [std::unary\_function](CppUnary_function.md)
+    [std::unary\_function](CppStdUnary_function.md)
 1236. 25-04-2010: New page: [operator/=](CppOperatorDivideAssign.md)
 1237. 25-04-2010: New page: [stdexcept.h](CppStdexceptH.md)
 1238. 25-04-2010: New page: [boost::mem\_fn](CppStdMem_fn.md)

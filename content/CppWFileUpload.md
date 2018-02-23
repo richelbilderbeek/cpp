@@ -34,7 +34,7 @@ Examples
 
 [Wt::WFileUpload](CppWFileUpload.md) is used in, among others:
 
--   [ProjectGtst](ProjectGtst.md)
+-   [ProjectGtst](https://github.com/richelbilderbeek/gtst)
 -   [ProjectWtWebsite](ProjectWtWebsite.md)
 -   [TestAsciiArter](ToolTestAsciiArter.md)
 -   [WtTextUploader](CppWtTextUploader.md)

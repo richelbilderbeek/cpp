@@ -221,7 +221,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 215. [std::remove\_copy](CppRemove_copy.md)
 216. [std::remove\_copy\_if](CppRemove_copy_if.md)
 217. [std::remove\_if](CppRemove_if.md)
-218. [std::rename](CppRename.md)
+218. [std::rename](CppStdRename.md)
 219. [std::replace](CppReplace.md)
 220. [std::replace\_copy](CppReplace_copy.md)
 221. [std::replace\_copy\_if](CppReplace_copy_if.md)
