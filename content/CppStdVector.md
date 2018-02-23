@@ -3,6 +3,38 @@
 [STL](CppStl.md) [container](CppContainer.md) for storing
 [instances](CppInstance.md) of any [data type](CppDataType.md).
 
+## Example: create a [std::vector](CppStdVector.md)
+
+```c++
+//Create an empty std::vector
+std::vector<int> v;
+
+//Create a std::vector with size 10, all elements zero
+std::vector<int> v(10);
+
+//Create a std::vector with size 10, all elements 42
+std::vector<int> v(10, 42);
+
+//Create a std::vector with one element: 10
+std::vector<int> v{10};
+std::vector<int> v = {10};
+
+//Create a std::vector with two elements: 10 and 42
+std::vector<int> v{10, 42};
+std::vector<int> v = {10, 42};
+```
+
+## Example: create a [std::vector](CppStdVector.md) for another STL container
+
+```c++
+//Create a copy of a std::vector
+std::vector<int> v(some_other_vector);
+std::vector<int> v = some_other_vector; //Calls copy constructor, like above
+
+//Create a std::vector with same elements as an STL container
+std::vector<int> v(std::begin(some_container), std::end(some_container));
+```
+
 ## Example: [convert `argv` to `std::vector<std::string>`](CppArgvToStdVectorStdString.md)
 
 Because you can create a std::vector from two iterators, you can
