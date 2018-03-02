@@ -10,7 +10,7 @@ distribution with average 'mean' and a standard deviation of 'sigma'.
 
 
 ///GetRandomNormal draws a random number from a normal distribution
-///with average mean and standard deviation of sigmal.
+///with average mean and standard deviation of sigma.
 double GetRandomNormal(const double mean = 0.0, const double sigma = 1.0)
 {
   //rd is used only to initialize mt with a truly random seed
