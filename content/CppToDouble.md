@@ -71,7 +71,7 @@ To [conversion](CppConvert.md) a [std::string](CppStdString.md) to any
 
 The implementation below is similar to [the C++ FAQ Lite's
 convertToDouble code
-snippet](http://www.parashift.com/c++-faq-lite/misc-technical-issues.html#faq-39.2).
+snippet](https://isocpp.org/wiki/faq/misc-technical-issues#convert-num-to-string).
 
  
 

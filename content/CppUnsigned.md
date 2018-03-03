@@ -1,48 +1,11 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [unsigned](CppUnsigned.md)
-============================================
-
- 
+# ([C++](Cpp.md)) [unsigned](CppUnsigned.md)
 
 [unsigned](CppUnsigned.md) is a [keyword](CppKeyword.md) that modifies
 a [data type](CppDataType.md) to hold only positive values.
 
- 
+## [Examples](CppExample.md)
 
- 
-
- 
-
- 
-
- 
-
-[Examples](CppExample.md)
---------------------------
-
- 
-
--   [unsigned example 1: one minus two](CppUnsignedExample1.md)
-
- 
-
- 
-
- 
-
- 
-
- 
+ * [unsigned example 1: one minus two](CppUnsignedExample1.md)
 
 [Advice](CppAdvice.md)
 -----------------------
@@ -105,13 +68,13 @@ a [data type](CppDataType.md) to hold only positive values.
     'Advice', item 19: 'View signed to unsigned and unsigned to signed
     conversions with suspicion'
 6.  [C++ FAQ
-    Lite](http://www.parashift.com/c++-faq/numeric-literal-suffixes.html).
+    Lite](https://isocpp.org/wiki/faq/newbie#numeric-literal-suffixes).
     \[29.12\] What's the point of the L, U and f suffixes on numeric
     literals?: 'It's probably a good idea to use unsigned integers for
     variables that are always &gt;= 0. \[...\] at least if you are
     careful to check your ranges'
 7.  [C++ FAQ
-    Lite](http://www.parashift.com/c++-faq/numeric-literal-suffixes.html).
+    Lite](https://isocpp.org/wiki/faq/newbie#numeric-literal-suffixes).
     \[29.12\] What's the point of the L, U and f suffixes on numeric
     literals?: 'If you end up using unsigned variables, it is generally
     a good idea to force your numeric literals to also be unsigned'

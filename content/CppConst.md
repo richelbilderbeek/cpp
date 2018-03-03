@@ -56,7 +56,7 @@ In [class design](CppClassDesign.md) consider using:
  * [6] [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. ISBN: 0-32-111358-6. Item 15: 'Use const proactively'.
  * [7] [Herb Sutter](CppHerbSutter.md). Exceptional C++ style. 2005. ISBN: 0-201-76042-8. Item 1 guideline: 'Be const correct'.
  * [8] [Marshall Cline](CppMarshallCline.md), [Greg Lomow](CppGregLomow.md) and [Mike Girou](CppMikeGirou.md). C++ FAQs. ISBN: 0-201-3098301. FAQ 14.05: 'Is const correctness tedious?' (Answer: no).
- * [9] [The C++ FAQ Lite](http://www.parashift.com/c++-faq-lite/const-correctness.html#faq-18.1). Item 18.1: What is 'const correctness' (Answer: 'A good thing')?
+ * [9] [The C++ FAQ Lite](https://isocpp.org/wiki/faq/const-correctness#overview-const). Item 18.1: What is 'const correctness' (Answer: 'A good thing')?
  * [10] [Bruce Eckel](CppBruceEckel.md). Thinking in C++, second edition, volume 1. 2000. ISBN: 0-13-979809-9. Item 8: 'Constants', paragraph 'Summary': 'const-correctness can be a lifesaver for projects'.
  * [11] [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. Chapter 2.3.3
  * [12] [John Lakos](CppJohnLakos.md). Large-Scale C++ Software Design. 1996. ISBN: 0-201-63362-0. Chapter 9.1.6: 'Every object in a system should be const-correct'

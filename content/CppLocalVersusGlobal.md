@@ -22,25 +22,15 @@ versus [global](CppGlobal.md) [variables](CppVariable.md).
 
 The following tests are performed:
 
--   A complex calculation on only [local](CppLocal.md)
-    [variables](CppVariable.md)
--   A complex calculation on only [member
-    variables](CppMemberVariable.md)
--   A complex calculation on only [member
-    variables](CppMemberVariable.md), that are first copied to
-    [local](CppLocal.md) [variables](CppVariable.md). In the end of
-    the calculation, the [local](CppLocal.md)
-    [variables](CppVariable.md) are written to the [member
-    variables](CppMemberVariable.md) they originated from
--   A complex calculation on only [global](CppGlobal.md)
-    [variables](CppVariable.md)
+-   A complex calculation on only [local](CppLocal.md) [variables](CppVariable.md)
+-   A complex calculation on only [member variables](CppMemberVariable.md)
+-   A complex calculation on only [member variables](CppMemberVariable.md), that are first copied to [local](CppLocal.md) [variables](CppVariable.md). In the end of the calculation, the [local](CppLocal.md) [variables](CppVariable.md) are written to the [member variables](CppMemberVariable.md) they originated from
+-   A complex calculation on only [global](CppGlobal.md) [variables](CppVariable.md)
 
  
 
--   [Download the Qt Creator project 'CppLocalVersusGlobal'
-    (version 1.2)(zip)](CppLocalVersusGlobal_1_2.zip)
--   [Download the Windows executable of 'CppLocalVersusGlobal'
-    (version 1.0)(zip)](CppLocalVersusGlobalExe_1_0.zip)
+-   [Download the Qt Creator project 'CppLocalVersusGlobal' (version 1.2)(zip)](CppLocalVersusGlobal_1_2.zip)
+-   [Download the Windows executable of 'CppLocalVersusGlobal' (version 1.0)(zip)](CppLocalVersusGlobalExe_1_0.zip)
 
  
 
@@ -63,8 +53,7 @@ Technical facts
 
 [Application type(s)](CppApplication.md)
 
--   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.md)
+-   ![Desktop](PicDesktop.png) [Desktop application](CppDesktopApplication.md)
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
@@ -76,8 +65,7 @@ Technical facts
 
 [Project type](CppQtProjectType.md):
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+-   ![console](PicConsole.png) [Console application](CppConsoleApplication.md)
 
 [C++ standard](CppStandard.md):
 
@@ -89,8 +77,7 @@ Technical facts
 
 [Libraries](CppLibrary.md) used:
 
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.7.2
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.7.2
 
  
 
@@ -168,17 +155,10 @@ On a laptop (built in around 2011) with [Lubuntu](CppLubuntu.md):
 
  
 
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
-    2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
--   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design.
-    2001. ISBN: 0201704315. Item 18: 'Declare variables as locally
-    as possible'.
--   Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. Gotcha
-    \#3: 'Avoid global variables'.
--   [C++ FAQ Lite](http://www.parashift.com/c++-faq/global-vars.html):
-    'The names of global variables should start with //' and 'Instead of
-    using a global variable, you should seriously consider if there are
-    ways to limit the variable's visibility and/or lifetime'.
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
+-   [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 18: 'Declare variables as locally as possible'.
+-   Stephen C. Dewhurst. C++ Gotchas. 2003. ISBN: 0-321-12518-5. Gotcha \#3: 'Avoid global variables'.
+-   [C++ FAQ Lite](https://isocpp.org/wiki/faq/coding-standards#global-vars): 'The names of global variables should start with //' and 'Instead of using a global variable, you should seriously consider if there are ways to limit the variable's visibility and/or lifetime'.
 
  
 

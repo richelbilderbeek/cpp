@@ -117,7 +117,7 @@ External links
  
 
 -   [C++ FAQ lite page about double to std::string
-    conversion](http://www.parashift.com/c++-faq-lite/misc-technical-issues.html#faq-39.1)
+    conversion](https://isocpp.org/wiki/faq/misc-technical-issues#convert-num-to-string)
 
  
 
