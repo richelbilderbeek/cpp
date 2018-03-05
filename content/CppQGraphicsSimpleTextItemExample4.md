@@ -1,23 +1,5 @@
+# ([C++](Cpp.md)) [QGraphicsSimpleTextItemExample4](CppQGraphicsSimpleTextItemExample4.md)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [QGraphicsSimpleTextItemExample4](CppQGraphicsSimpleTextItemExample4.md)
-==========================================================================================
-
- 
-
-![Qt](PicQt.png)![Qt
-Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
 
 [QGraphicsSimpleTextItem example 4: use arrow keys to change
 focus](CppQGraphicsSimpleTextItemExample4.md) is a
@@ -28,14 +10,9 @@ coordinats as text. These items are movable and selectable. By pressing
 tab, focus will be set to a random item. By pressing the arrow, focus
 will be given to the nearest item in that direction.
 
- 
+![View a screenshot of 'QGraphicsSimpleTextItemExample4' (png)](CppQGraphicsSimpleTextItemExample4.png)
 
--   [View a screenshot of
-    'QGraphicsSimpleTextItemExample4' (png)](CppQGraphicsSimpleTextItemExample4.png)
--   ![Qt Creator](PicQtCreator.png) [Download the Qt Creator project
-    'QGraphicsSimpleTextItemExample4' (zip)](CppQGraphicsSimpleTextItemExample4.zip)
--   ![Windows](PicWindows.png) [Download a Windows executable of
-    'QGraphicsSimpleTextItemExample4' (zip)](CppQGraphicsSimpleTextItemExample4Exe.zip)
+ * ![Qt Creator](PicQtCreator.png) [Download the Qt Creator project 'QGraphicsSimpleTextItemExample4' (zip)](CppQGraphicsSimpleTextItemExample4.zip)
 
 Technical facts
 ---------------
@@ -44,8 +21,7 @@ Technical facts
 
 [Application type(s)](CppApplication.md)
 
--   ![Desktop](PicDesktop.png) [Desktop
-    application](CppDesktopApplication.md)
+-   ![Desktop](PicDesktop.png) [Desktop application](CppDesktopApplication.md)
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
@@ -70,8 +46,7 @@ Technical facts
 [Libraries](CppLibrary.md) used:
 
 -   ![Qt](PicQt.png) [Qt](CppQt.md): version 5.4.1 (32 bit)
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
+-   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version 4.9.2
 
  
 

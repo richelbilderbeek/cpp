@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [TemplateClassExample5](CppTemplateClassExample5.md)
-======================================================================
-
- 
+# ([C++](Cpp.md)) [TemplateClassExample5](CppTemplateClassExample5.md)
 
 ![STL](PicStl.png)![Qt
 Creator](PicQtCreator.png)![Windows](PicWindows.png)
@@ -23,10 +9,8 @@ Creator](PicQtCreator.png)![Windows](PicWindows.png)
 class](CppTemplateClassExample5.md) is a [template
 class](CppTemplateClass.md) [example](CppExample.md).
 
- 
-
--   [Download the Qt Creator project
-    'CppTemplateClassExample5' (zip)](CppTemplateClassExample5.zip)
+ -   [Download the Qt Creator project
+    'CppTemplateClassExample5' (zip)](http://www.richelbilderbeek.nl/CppTemplateClassExample5.zip)
 
 Technical facts
 ---------------
