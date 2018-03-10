@@ -22,6 +22,10 @@ for ( /* initialization */ ; /* breaking condition */ ; /* after-loop operation 
  * Prefer a [while](CppWhile.md)-[statement](CppStatement.md) to a [for](CppFor.md)-[statement](CppStatement.md) when there is no obvious loop [variable](CppVariable.md) [6]
  * Since [C++11](Cpp11.md), prefer a [range-for](CppRangeFor.md)-statement to a for-statement when there is a choice [4]
 
+## External links
+
+ * [C++ Weekly - Ep 105 - Learning "Modern" C++ - 5: Looping and Algorithms](https://youtu.be/A0-x-Djey-Q)
+
 ## [References](CppReferences.md)
 
  * [1] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). 1997. ISBN: 0-201-88954-4. Chapter 18.12.1 : 'Prefer algorithms over loops'

@@ -31,6 +31,10 @@ int main()
 
  * Avoid [std::endl](CppStdEndl.md) [1,3], as one does not need to flush the [std::cout](CppStdCout.md) buffer after every output [2].
 
+## External links
+
+ * [CppCon 2017: Dietmar Kühl “The End of std::endl”](https://youtu.be/6WeEMlmrfOI)
+
 ## [References](CppReferences.md)
 
  * [1] [C++ Core Guidelines: SL.io.50: Avoid endl](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rio-endl)

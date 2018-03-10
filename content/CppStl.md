@@ -48,6 +48,9 @@ STL related website (suggested from [2]):
  * [STLport](http://www.stlport.org/)
  * [Boost](http://www.boost.org/)
 
+ * [Stephen T Lavavej: Core C++](https://www.youtube.com/playlist?list=PL9QAu9zhcKhGEDZpDtk33mz1kRV9o1vfa)
+ * [CppCast Episode 88: Microsoft's STL with Stephan T. Lavavej](https://youtu.be/U3jMpBaLc4M)
+
 ## [References](CppReferences.md)
 
  * [1] [Scott Meyers](CppScottMeyers.md). Effective C++ (3rd edition). ISBN: 0-321-33487-6. Item 53: Familiarize yourself with the standard library, including TR1

@@ -46,6 +46,10 @@ In [class design](CppClassDesign.md) consider using:
  * Avoid [constants](CppConst.md) at file scope in [header files](CppHeaderFile.md) [11]
  * Consider [casting away](CppConst_cast.md) [const](CppConst.md) only as the very last resort [15]
 
+## External links
+
+ * [C++ Weekly - Ep 104 - Learning "Modern" C++ - 4 : const and constexpr](https://youtu.be/UYEyHlynkPc)
+
 ## [References](CppReferences.md)
 
  * [1] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). ISBN: 0-201-88954-4 7.9.3: 'Use const extensively and consistently'.

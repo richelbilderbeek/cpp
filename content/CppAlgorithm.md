@@ -192,6 +192,10 @@ All [C++11](Cpp11.md) [algorithm](CppAlgorithm.md) names [3]:
  * Prefer [algorithm](CppAlgorithm.md) calls over hand-written loops [1,2]
  * Use [templates](CppTemplate.md) to express [algorithms](CppAlgorithm.md) that apply to many [argument](CppArgument.md) [types](CppDataType.md) [4]
 
+## External links
+
+ * [C++ Weekly - Ep 105 - Learning "Modern" C++ - 5: Looping and Algorithms](https://youtu.be/A0-x-Djey-Q)
+
 ## [References](CppReferences.md)
 
  * [1] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). ISBN: 0-201-88954-4. Chapter 18.12.1: 'Prefer algorithms to loops'.

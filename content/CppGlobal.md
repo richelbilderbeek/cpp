@@ -15,6 +15,10 @@ visible in its [scope](CppScope.md)). A non-[const](CppConst.md)
 
  * [Compare the speed of local versus global variables](CppLocalVersusGlobal.md)
 
+## External links
+
+ * [CppCon 2017: Nir Friedman 'What C++ developers should know about globals (and the linker)'](https://youtu.be/xVT1y0xWgww)
+
 ## [References](CppReferences.md)
 
  * [1] [Andrei Alexandrescu](CppAndreiAlexandrescu.md). Modern C++ Design. 2001. ISBN: 0201704315. Item 10: 'Minimize global and shared data'.
