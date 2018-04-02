@@ -138,8 +138,9 @@ Note that among these are also more general
  * When necessary, use reserve() to make [performance](CppPerformance.md) predictable [8]
  * Do not assume that [operator[]](CppOperatorIndex.md) range checks [9]
  * Use the 'at' [member function](CppMemberFunction.md) when you need guaranteed range checks [10]
- * Use emplace() for notational convenience [11]
- * Use emplace() to avoid having to pre-initialize [variables](CppVariable.md) [12]
+ * Use `emplace()` for notational convenience [11]
+ * Use `emplace()` to avoid having to pre-initialize [variables](CppVariable.md) [12]
+ * Consider using `emplace_back` by default [13]
 
 ## External links
 
@@ -148,15 +149,16 @@ Note that among these are also more general
 
 ## [References](CppReferences.md)
 
-1.  [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6. Chapter 76: 'Use vector by default. Otherwise, choose an appropriate container'.
-2.  [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6. Chapter 77: 'Use vector and string instead of arrays'.
-3.  [Marshall Cline](CppMarshallCline.md), [Greg Lomow](CppGregLomow.md) and [Mike Girou](CppMikeGirou.md). C++ FAQs. ISBN: 0-201-3098301. FAQ 28.02: 'Are arrays good or evil?' (Answer: 'Arrays are evil').
-4.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). 1997. ISBN: 0-201-88954-4. Chapter C.14.11 'Prefer vector over array'.
-5.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[2] Use vector as your default container'
-6.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[21] Don't use iterators into a resized vector or deque'
-7.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[19] Don't assume performance benefits from reserve() without measurements'
-8.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[22] When necessary, use reserve() to make performance predictable'
-9.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[23] Do not assume that [] range checks'
-10. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[24] Use at() when you need guaranteed range checks'
-11. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[25] Use emplace() for notational convenience'
-12. [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 925: '[27] Use emplace() to avoid having to pre-initialize variables'
+ * [1] [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6. Chapter 76: 'Use vector by default. Otherwise, choose an appropriate container'.
+ * [2] [Herb Sutter](CppHerbSutter.md), [Andrei Alexandrescu](CppAndreiAlexandrescu.md). C++ coding standards: 101 rules, guidelines, and best practices. 2005. ISBN: 0-32-111358-6. Chapter 77: 'Use vector and string instead of arrays'.
+ * [3] [Marshall Cline](CppMarshallCline.md), [Greg Lomow](CppGregLomow.md) and [Mike Girou](CppMikeGirou.md). C++ FAQs. ISBN: 0-201-3098301. FAQ 28.02: 'Are arrays good or evil?' (Answer: 'Arrays are evil').
+ * [4] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (3rd edition). 1997. ISBN: 0-201-88954-4. Chapter C.14.11 'Prefer vector over array'.
+ * [5] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[2] Use vector as your default container'
+ * [6] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[21] Don't use iterators into a resized vector or deque'
+ * [7] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[19] Don't assume performance benefits from reserve() without measurements'
+ * [8] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[22] When necessary, use reserve() to make performance predictable'
+ * [9] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[23] Do not assume that [] range checks'
+ * [10] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[24] Use at() when you need guaranteed range checks'
+ * [11] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[25] Use emplace() for notational convenience'
+ * [12] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 925: '[27] Use emplace() to avoid having to pre-initialize variables'
+ * [13] Jason Turner. [C++ Weekly - Ep 108 - Understanding emplace_back](https://youtu.be/uwv1uvi1OTU)
