@@ -1,14 +1,3 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ([C++](Cpp.md)) [QmlExample2](CppQmlExample2.md)
 ==================================================
 
@@ -58,16 +47,28 @@ Technical facts
 [Qt project file](CppQtProjectFile.md): ./CppQmlExample2/CppQmlExample2.pro
 ----------------------------------------------------------------------------
 
- 
+```
+include(../../DesktopApplication.pri)
+include(../../Libraries/GeneralConsole.pri)
+include(../../Classes/CppCaesarCipher/CppCaesarCipher.pri)
+include(../../Classes/CppLoopReader/CppLoopReader.pri)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` <<<<<<< HEAD ======= include(../../DesktopApplication.pri) include(../../Libraries/GeneralConsole.pri) include(../../Classes/CppCaesarCipher/CppCaesarCipher.pri) include(../../Classes/CppLoopReader/CppLoopReader.pri)  >>>>>>> c99017a2d230e590727b21cc2d7426112c8072b8 TEMPLATE = app  QT += qml quick  SOURCES += main.cpp  RESOURCES += qml.qrc  # Additional import path used to resolve QML modules in Qt Creator's code model QML_IMPORT_PATH =  # Default rules for deployment. include(deployment.pri) <<<<<<< HEAD =======  OTHER_FILES += \     qmlcaesarcipher.qml >>>>>>> c99017a2d230e590727b21cc2d7426112c8072b8`
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TEMPLATE = app
 
- 
+QT += qml quick
 
- 
+SOURCES += main.cpp
 
+RESOURCES += qml.qrc
+
+# Additional import path used to resolve QML modules in Qt Creator's code model
+QML_IMPORT_PATH =
+
+# Default rules for deployment.
+include(deployment.pri)
+OTHER_FILES += \
+    qmlcaesarcipher.qml
+```
  
 
  
@@ -78,13 +79,35 @@ Technical facts
 -------------------------------
 
  
+```
+android-no-sdk {
+    target.path = /data/user/qt
+    export(target.path)
+    INSTALLS += target
+} else:android {
+    x86 {
+        target.path = /libs/x86
+    } else: armeabi-v7a {
+        target.path = /libs/armeabi-v7a
+    } else {
+        target.path = /libs/armeabi
+    }
+    export(target.path)
+    INSTALLS += target
+} else:unix {
+    isEmpty(target.path) {
+        qnx {
+            target.path = /tmp/$${TARGET}/bin
+        } else {
+            target.path = /opt/$${TARGET}/bin
+        }
+        export(target.path)
+    }
+    INSTALLS += target
+}
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` android-no-sdk {     target.path = /data/user/qt     export(target.path)     INSTALLS += target } else:android {     x86 {         target.path = /libs/x86     } else: armeabi-v7a {         target.path = /libs/armeabi-v7a     } else {         target.path = /libs/armeabi     }     export(target.path)     INSTALLS += target } else:unix {     isEmpty(target.path) {         qnx {             target.path = /tmp/$${TARGET}/bin         } else {             target.path = /opt/$${TARGET}/bin         }         export(target.path)     }     INSTALLS += target }  export(INSTALLS)`
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
+export(INSTALLS)
+```
  
 
  
@@ -98,10 +121,32 @@ Technical facts
 
  
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <QGuiApplication> #include <QQmlApplicationEngine>  <<<<<<< HEAD ======= #include <QtQml> #include "caesarcipher.h"  struct QmlCaesarCipher : public QObject {   QmlCaesarCipher(const int key = 0) : m_cipher(key) {}   ribi::CaesarCipher m_cipher; };  >>>>>>> c99017a2d230e590727b21cc2d7426112c8072b8 int main(int argc, char *argv[]) {     QGuiApplication app(argc, argv);  <<<<<<< HEAD =======     //qmlRegisterType<testClass>("MyCustomQMLObjects", 2, 35, "testClassNameInQML");     qmlRegisterType<QmlCaesarCipher>("QmlCaesarCipher", 2, 35, "QmlCaesarCipher1");  >>>>>>> c99017a2d230e590727b21cc2d7426112c8072b8     QQmlApplicationEngine engine;     engine.load(QUrl(QStringLiteral("qrc:///main.qml")));      return app.exec(); }`
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```
+#include <QGuiApplication>
+#include <QQmlApplicationEngine>
 
+#include <QtQml>
+#include "caesarcipher.h"
+
+struct QmlCaesarCipher : public QObject
+{
+  QmlCaesarCipher(const int key = 0) : m_cipher(key) {}
+  ribi::CaesarCipher m_cipher;
+};
+
+int main(int argc, char *argv[])
+{
+    QGuiApplication app(argc, argv);
+
+    //qmlRegisterType<testClass>("MyCustomQMLObjects", 2, 35, "testClassNameInQML");
+    qmlRegisterType<QmlCaesarCipher>("QmlCaesarCipher", 2, 35, "QmlCaesarCipher1");
+
+    QQmlApplicationEngine engine;
+    engine.load(QUrl(QStringLiteral("qrc:///main.qml")));
+
+    return app.exec();
+}
+```
  
 
  
@@ -115,40 +160,36 @@ Technical facts
 ./CppQmlExample2/piechart.h
 ---------------------------
 
- 
+```
+#ifndef PIECHART_H
+#define PIECHART_H
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #ifndef PIECHART_H #define PIECHART_H  #include <QObject>  class piechart : public QObject {     Q_OBJECT public:     explicit piechart(QObject *parent = 0);  signals:  public slots:  };  #endif // PIECHART_H`
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#include <QObject>
 
- 
+class piechart : public QObject
+{
+    Q_OBJECT
+public:
+    explicit piechart(QObject *parent = 0);
 
- 
+signals:
 
- 
+public slots:
 
- 
+};
 
- 
+#endif // PIECHART_H
+```
 
 ./CppQmlExample2/piechart.cpp
 -----------------------------
 
- 
+```
+#include "piechart.h"
 
-  -----------------------------------------------------------------------------------------
-  ` #include "piechart.h"  piechart::piechart(QObject *parent) :     QObject(parent) { }`
-  -----------------------------------------------------------------------------------------
+piechart::piechart(QObject *parent) :
+    QObject(parent)
+{
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+}
+```
