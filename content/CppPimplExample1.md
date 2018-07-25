@@ -1,24 +1,8 @@
-
+# ([C++](Cpp.md)) [PimplExample1](CppPimplExample1.md)
  
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [PimplExample1](CppPimplExample1.md)
-======================================================
-
- 
-
-[pimpl example 1: Lizard implementation in one file using
-boost::shared\_ptr](CppPimplExample1.md) is a [pimpl](CppPimpl.md)
+[pimpl example 2: Lizard implementation in multiple files using
+std::shared_ptr](CppStdShared_ptr.md) is a [pimpl](CppPimpl.md)
 [example](CppExample.md).
-
- 
 
 Most lizards remain having the same gender for all their live.
 Therefore, it is a good idea to make a lizard's gender a const member
@@ -26,88 +10,99 @@ variable. Problem is, that this makes a lizard class uncopyable. In this
 example I solve this by making a Lizard contain an opaque pointer to
 LizardImpl, where a LizardImpl does have a constant gender. Because I
 want to be able to do a [shallow copy](CppShallowCopy.md) on Lizards, I
-use a [boost::shared\_ptr](CppBoostShared_ptr.md). Also note that the
+use a [std::shared_ptr](CppStdShared_ptr.md). Also note that the
 code is very similar to a [Strategy](CppDesignPatternStrategy.md)
 [design pattern](CppDesignPattern.md).
 
-Technical facts
----------------
+## CppPimpl.pro
 
- 
+```
+TEMPLATE = app
+CONFIG += console c++17
+CONFIG -= app_bundle
+CONFIG -= qt
+QMAKE_CXXFLAGS += -std=c++17
 
-[Operating system(s) or programming environment(s)](CppOs.md)
+SOURCES += \
+    CppPimplMain.cpp \
+    CppPimplLizard.cpp
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
+HEADERS += \
+    CppPimplLizard.h
+```
 
-[IDE(s)](CppIde.md):
+## CppPimplLizard.h
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
+```c++
+#ifndef CPP_PIMPL_LIZARD_H
+#define CPP_PIMPL_LIZARD_H
 
-[Project type](CppQtProjectType.md):
+enum class Gender { male, female };
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+#include <memory>
 
-[C++ standard](CppStandard.md):
+class Lizard
+{
+public:
+  Lizard(const Gender gender);
+  ~Lizard();
+  Gender GetGender() const noexcept;
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
+private:
+  struct LizardImpl;
+  std::shared_ptr<LizardImpl> mPimpl;
+};
 
-[Compiler(s)](CppCompiler.md):
+#endif // CPP_PIMPL_LIZARD_H
+```
 
--   [G++](CppGpp.md) 4.9.2
+## CppPimplLizard.cpp
 
-[Libraries](CppLibrary.md) used:
+```c++
+#include "CppPimplLizard.h"
 
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
+struct Lizard::LizardImpl
+{
+  LizardImpl(const Gender gender);
+  const Gender mGender;
+};
 
- 
+Lizard::Lizard(const Gender gender)
+  : mPimpl(std::make_shared<LizardImpl>(gender))
+{
 
- 
+}
 
- 
+Lizard::~Lizard()
+{
+  //Need destructor definition in implementation file
+}
 
- 
+Gender Lizard::GetGender() const noexcept
+{
+  return mPimpl->mGender;
+}
 
- 
+Lizard::LizardImpl::LizardImpl(const Gender gender) : mGender(gender)
+{
 
-[Qt project file](CppQtProjectFile.md): ./CppPimplExample1/CppPimplExample1.pro
---------------------------------------------------------------------------------
+}
+```
 
- 
+## main.cpp
 
-  ----------------------------------------------------------------------------------------------------------------------------------
-  ` TEMPLATE = app CONFIG += console CONFIG -= qt QMAKE_CXXFLAGS += -std=c++11 -Wall -Wextra -Weffc++ -Werror SOURCES += main.cpp`
-  ----------------------------------------------------------------------------------------------------------------------------------
+```c++
+#include <vector>
 
- 
+#include "CppPimplLizard.h"
 
- 
-
- 
-
- 
-
- 
-
-./CppPimplExample1/main.cpp
----------------------------
-
- 
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <cassert> #include <memory>  enum class Gender { male, female };  struct Lizard {   Lizard(const Gender gender) noexcept;   Gender GetGender() const noexcept;   private:   struct LizardImpl;   const std::shared_ptr<const LizardImpl> m_impl; };  struct Lizard::LizardImpl {   LizardImpl(const Gender gender) noexcept;   Gender GetGender() const noexcept;    private:   const Gender m_gender; };  Lizard::Lizard(const Gender gender) noexcept   : m_impl(std::make_shared<LizardImpl>(gender) ) {  }  Gender Lizard::GetGender() const noexcept {   return m_impl->GetGender(); //Forward to implementation }  Lizard::LizardImpl::LizardImpl(const Gender gender) noexcept   : m_gender(gender) {  }  Gender Lizard::LizardImpl::GetGender() const noexcept {   return m_gender; }   int main() {   const Lizard male(Gender::male);   assert(male.GetGender() == Gender::male);   const Lizard female(Gender::female);   assert(female.GetGender() == Gender::female); }`
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+int main()
+{
+  std::vector<Lizard> lizards = {
+    Lizard(Gender::male),
+    Lizard(Gender::female)
+  };
+  std::swap(lizards[0], lizards[1]);
+}
+```
 
