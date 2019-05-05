@@ -20,6 +20,10 @@ multi-threaded programs under [Lubuntu](CppLubuntu.md):
 [oprofile](CppOprofile.md) is said to [profile](CppProfile.md)
 multi-threaded programs under [Lubuntu](CppLubuntu.md) correctly.
 
+## Video's
+
+ * C++ profiling, using [gprof](CppGprof.md) and [Travis CI](CppTravisCi.md): [YouTube](https://youtu.be/XD6Fs58spyY) [Download (OGV)](http://richelbilderbeek.nl/cpp_profiling.ogv)
+
 ## External links
 
 -   [gprof home](http://www.cs.utah.edu/dept/old/texinfo/as/gprof_toc.html)
