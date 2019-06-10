@@ -75,16 +75,20 @@ int main()
 Advantages of a [std::vector](CppStdVector.md) over an
 [array](CppArray.md) are:
 
-1.  [std::vector](CppStdVector.md) allocates memory from the free space when increasing in size
-2.  [std::vector](CppStdVector.md) is not a [pointer](CppPointer.md) in disguise [3]
-3.  [std::vector](CppStdVector.md) can increase/decrease in size run-time
-4.  [std::vector](CppStdVector.md) can do range checking (using at())
+ * [std::vector](CppStdVector.md) allocates memory from the free space when increasing in size
+ * [std::vector](CppStdVector.md) is not a [pointer](CppPointer.md) in disguise [3]
+ * [std::vector](CppStdVector.md) can increase/decrease in size run-time
+ * [std::vector](CppStdVector.md) can do range checking (using at())
+
+There is an urban myth that arrays are faster. 
+See [this benchmark of array versus std::vector](https://github.com/richelbilderbeek/cpp_benchmark_array_versus_std_vector.git)
+to see they are equally fast.
 
 ## The erase-remove idiom
 
 Calling [std::remove](CppStdRemove.md) to remove a certain value from a
 [std::vector](CppStdVector.md) does not change a
-[std::vector](CppStdVector.md) its size. [std::remove](CppStdRemove.md) does
+[std::vector](CppStdVector.md) its size * [std::remove](CppStdRemove.md) does
 [return](CppReturn.md) an [iterator](CppIterator.md) to where the
 removed elements are put. This [iterator](CppIterator.md) can be used
 to call [std::vector](CppStdVector.md) its 'erase' member function. These
@@ -98,36 +102,37 @@ Use the erase-remove idiom the really remove a value from a
 Note that among these are also more general
 [container](CppContainer.md) [code snippets](CppCodeSnippets.md).
 
-1.  [AllAboutEqual, check if all doubles in a std::vector are about equal](CppAllAboutEqual.md)
-2.  [Append two std::vectors, Append](CppAppend.md)
-3.  [Append, append two std::vectors](CppAppend.md)
-4.  [Check if all doubles in a std::vector are about equal, AllAboutEqual](CppAllAboutEqual.md)
-5.  [CreateVector](CppCreateVector.md), create a std::vector from three values
-6.  [Convert Matrix&lt;X&gt; to Matrix&lt;Y&gt;, ConvertMatrix](CppConvertMatrix.md)
-7.  [Convert std::vector&lt;std::vector&lt;X&gt; &gt; to std::vector&lt;std::vector&lt;Y&gt; &gt;, ConvertMatrix](CppConvertMatrix.md)
-8.  [Convert two 2D std::vector&lt;X&gt; to 2D std::vector&lt;Y&gt;, ConvertMatrix](CppConvertMatrix.md)
-9.  [ConvertMatrix, convert Matrix&lt;X&gt; to Matrix&lt;Y&gt;](CppConvertMatrix.md)
-10. [ConvertMatrix, convert std::vector&lt;std::vector&lt;X&gt; &gt; to std::vector&lt;std::vector&lt;Y&gt; &gt;](CppConvertMatrix.md)
-11. [ConvertMatrix, convert two 2D std::vector&lt;X&gt; to 2D std::vector&lt;Y&gt;](CppConvertMatrix.md)
-12. [CoutVector, std::cout on a std::vector](CppCoutVector.md)
-13. [GetIncVector, get a std::vector of incremented values (for example with values 0,1,2,3,etc)](CppGetIncVector.md)
-14. [GetLongestString, find the length of the std::string with the most characters in a container](CppGetLongestStringLength.md)
-15. [GetShortestString, find the length of the std::string with the least characters in a container](CppGetShortestStringLength.md)
-16. [HugeVector, class that can contain more elements than std::vector](CppHugeVector.md)
-17. [LoopReader, reading a container looped](CppLoopReader.md)
-18. [RandomShuffle, shuffle a std::vector to a random order](CppStdRandom_shuffle.md)
-19. [Read and write a std::vector from/to a std::stream](CppVectorToStream.md)
-20. [Read and write two std::vectors from/to a std::stream](CppVectorsToStream.md)
-21. [Reading a container looped, LoopReader](CppLoopReader.md)
-22. [Save a container to file, SaveContainer](CppSaveContainer.md)
-23. [SaveContainer, save a container to file](CppSaveContainer.md)
-24. [SumStringLength, sum the lengths of std::strings irn a container](CppSumStringLength.md)
-25. [Shuffle a std::vector to a random order, RandomShuffle](CppStdRandom_shuffle.md)
-26. [Sort a std::vector, SortVector](CppSortVector.md)
-27. [SortVector, sort a std::vector](CppSortVector.md)
-28. [Write and read a std::vector to/from a std::stream](CppVectorToStream.md)
-29. [Write and read two std::vectors to/from a std::stream](CppVectorsToStream.md)
-30. [std::cout on a std::vector, CoutVector](CppCoutVector.md)
+ * [AddOne: benchmark of adding one to all elements of a std::vector](https://github.com/richelbilderbeek/cpp_benchmark_add_one)
+ * [AllAboutEqual, check if all doubles in a std::vector are about equal](CppAllAboutEqual.md)
+ * [Append two std::vectors, Append](CppAppend.md)
+ * [Append, append two std::vectors](CppAppend.md)
+ * [Check if all doubles in a std::vector are about equal, AllAboutEqual](CppAllAboutEqual.md)
+ * [CreateVector](CppCreateVector.md), create a std::vector from three values
+ * [Convert Matrix&lt;X&gt; to Matrix&lt;Y&gt;, ConvertMatrix](CppConvertMatrix.md)
+ * [Convert std::vector&lt;std::vector&lt;X&gt; &gt; to std::vector&lt;std::vector&lt;Y&gt; &gt;, ConvertMatrix](CppConvertMatrix.md)
+ * [Convert two 2D std::vector&lt;X&gt; to 2D std::vector&lt;Y&gt;, ConvertMatrix](CppConvertMatrix.md)
+ * [ConvertMatrix, convert Matrix&lt;X&gt; to Matrix&lt;Y&gt;](CppConvertMatrix.md)
+ * [ConvertMatrix, convert std::vector&lt;std::vector&lt;X&gt; &gt; to std::vector&lt;std::vector&lt;Y&gt; &gt;](CppConvertMatrix.md)
+ * [ConvertMatrix, convert two 2D std::vector&lt;X&gt; to 2D std::vector&lt;Y&gt;](CppConvertMatrix.md)
+ * [CoutVector, std::cout on a std::vector](CppCoutVector.md)
+ * [GetIncVector, get a std::vector of incremented values (for example with values 0,1,2,3,etc)](CppGetIncVector.md)
+ * [GetLongestString, find the length of the std::string with the most characters in a container](CppGetLongestStringLength.md)
+ * [GetShortestString, find the length of the std::string with the least characters in a container](CppGetShortestStringLength.md)
+ * [HugeVector, class that can contain more elements than std::vector](CppHugeVector.md)
+ * [LoopReader, reading a container looped](CppLoopReader.md)
+ * [RandomShuffle, shuffle a std::vector to a random order](CppStdRandom_shuffle.md)
+ * [Read and write a std::vector from/to a std::stream](CppVectorToStream.md)
+ * [Read and write two std::vectors from/to a std::stream](CppVectorsToStream.md)
+ * [Reading a container looped, LoopReader](CppLoopReader.md)
+ * [Save a container to file, SaveContainer](CppSaveContainer.md)
+ * [SaveContainer, save a container to file](CppSaveContainer.md)
+ * [SumStringLength, sum the lengths of std::strings irn a container](CppSumStringLength.md)
+ * [Shuffle a std::vector to a random order, RandomShuffle](CppStdRandom_shuffle.md)
+ * [Sort a std::vector, SortVector](CppSortVector.md)
+ * [SortVector, sort a std::vector](CppSortVector.md)
+ * [Write and read a std::vector to/from a std::stream](CppVectorToStream.md)
+ * [Write and read two std::vectors to/from a std::stream](CppVectorsToStream.md)
+ * [std::cout on a std::vector, CoutVector](CppCoutVector.md)
 
 ## [Advice](CppAdvice.md)
 
@@ -161,4 +166,4 @@ Note that among these are also more general
  * [10] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[24] Use at() when you need guaranteed range checks'
  * [11] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 924: '[25] Use emplace() for notational convenience'
  * [12] [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 31.6. Advice. page 925: '[27] Use emplace() to avoid having to pre-initialize variables'
- * [13] Jason Turner. [C++ Weekly - Ep 108 - Understanding emplace_back](https://youtu.be/uwv1uvi1OTU)
+ * [13] Jason Turner * [C++ Weekly - Ep 108 - Understanding emplace_back](https://youtu.be/uwv1uvi1OTU)
