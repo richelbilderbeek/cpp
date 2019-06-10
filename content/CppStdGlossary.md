@@ -78,7 +78,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 72. [std::fmod](CppFmod.md)
 73. [std::fopen](CppStdFopen.md)
 74. [std::for\_each](CppStdFor_each.md)
-75. [std::fprintf](CppFprintf.md)
+75. [std::fprintf](CppStdFprintf.md)
 76. [std::fputc](CppStdFputc.md)
 77. [std::fputs](CppStdFputs.md)
 78. [std::fputwc](CppFputwc.md)

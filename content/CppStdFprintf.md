@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::fprintf](CppFprintf.md)
+([C++](Cpp.md)) [std::fprintf](CppStdFprintf.md)
 ===============================================
 
  
 
-[std::fprintf](CppFprintf.md) is an [STL](CppStl.md)
+[std::fprintf](CppStdFprintf.md) is an [STL](CppStl.md)
 [function](CppFunction.md).
 
  
 
-[std::fprintf](CppFprintf.md) is [defined](CppDefinition.md) in
+[std::fprintf](CppStdFprintf.md) is [defined](CppDefinition.md) in
 [cstdio.h](CppCstdioH.md).
 
  
