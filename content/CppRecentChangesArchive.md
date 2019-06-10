@@ -1294,7 +1294,7 @@ Great stuff for historicians!
 868. 26-07-2010: New page: [QWidget](CppQWidget.md)
 869. 26-07-2010: New page: [cctype.h](CppCctypeH.md)
 870. 26-07-2010: New page: [ctime.h](CppCtimeH.md)
-871. 26-07-2010: New page: [complex.h](CppComplexH.md)
+871. 26-07-2010: New page: [complex.h](CppStdComplexH.md)
 872. 26-07-2010: New page: [deque.h](CppDequeH.md)
 873. 26-07-2010: New page: [list.h](CppListH.md)
 874. 26-07-2010: New page: [valarray.h](CppValarrayH.md)
