@@ -61,7 +61,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 55. [std::fclose](CppStdFclose.md)
 56. [std::feof](CppStdFeof.md)
 57. [std::ferror](CppStdFerror.md)
-58. [std::fflush](CppFflush.md)
+58. [std::fflush](CppStdFflush.md)
 59. [std::fgetc](CppStdFgetc.md)
 60. [std::fgetpos](CppStdFgetpos.md)
 61. [std::fgets](CppFgets.md)
