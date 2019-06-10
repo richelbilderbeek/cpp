@@ -60,7 +60,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 54. [std::fabs](CppStdFabs.md)
 55. [std::fclose](CppStdFclose.md)
 56. [std::feof](CppStdFeof.md)
-57. [std::ferror](CppFerror.md)
+57. [std::ferror](CppStdFerror.md)
 58. [std::fflush](CppFflush.md)
 59. [std::fgetc](CppStdFgetc.md)
 60. [std::fgetpos](CppStdFgetpos.md)

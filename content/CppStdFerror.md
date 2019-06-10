@@ -9,17 +9,17 @@
 
  
 
-([C++](Cpp.md)) [std::ferror](CppFerror.md)
+([C++](Cpp.md)) [std::ferror](CppStdFerror.md)
 =============================================
 
  
 
-[std::ferror](CppFerror.md) is an [STL](CppStl.md)
+[std::ferror](CppStdFerror.md) is an [STL](CppStl.md)
 [function](CppFunction.md).
 
  
 
-[std::ferror](CppFerror.md) is [defined](CppDefinition.md) in
+[std::ferror](CppStdFerror.md) is [defined](CppDefinition.md) in
 [cstdio.h](CppCstdioH.md).
 
  
