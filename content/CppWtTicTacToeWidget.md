@@ -27,8 +27,7 @@ Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
 
 [WtTicTacToeWidget](CppWtTicTacToeWidget.md) is used by:
 
--   [(Game) TicTacToe](GameTicTacToe.md)
--   [(Tool) TestTicTacToe](ToolTestTicTacToe.md)
+-   [(Game) TicTacToe](https://github.com/richelbilderbeek/TicTacToe)
 
 Technical facts
 ---------------
