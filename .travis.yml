@@ -12,7 +12,7 @@ install:
 script:
   # Check dead links
   - rm .travis.yml
-  - ./scripts/check_dead_links
+  - travis_wait 60 ./scripts/check_dead_links
   # proselint
   - cd content
   - for filename in `ls *.md`; do proselint $filename; done
