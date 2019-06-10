@@ -40,7 +40,7 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
 6.  [std::fgetc](CppStdFgetc.md)
 7.  [std::fgetpos](CppStdFgetpos.md)
 8.  [std::fgets](CppFgets.md)
-9.  [std::fopen](CppFopen.md)
+9.  [std::fopen](CppStdFopen.md)
 10. [std::fprintf](CppFprintf.md)
 11. [std::fputc](CppStdFputc.md)
 12. [std::fputs](CppStdFputs.md)
