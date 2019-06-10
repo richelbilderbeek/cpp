@@ -1,13 +1,18 @@
+language: generic
+dist: xenial
+
 install:
+  # Check dead links
+  - sudo apt-get install -qq npm
+  - npm config set strict-ssl false
+  - sudo npm install -g markdown-link-check
   # proselint
   - sudo pip install proselint
-  # markdown-link-check
-  - sudo apt-get install npm
-  - sudo npm install -g markdown-link-check
 
-script: 
+script:
   # Check dead links
-  - find . -name \*.md -exec markdown-link-check {} \; 2>/dev/null | egrep "[✖]" | sort -u
+  - rm .travis.yml
+  - ./scripts/check_dead_links
   # proselint
   - cd content
   - for filename in `ls *.md`; do proselint $filename; done
