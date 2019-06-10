@@ -95,7 +95,7 @@ Uses [boost::lexical\_cast](CppBoostLexical_cast.md).
 
  
 
-Uses [std::stod](CppStod.md).
+Uses [std::stod](CppStdStod.md).
 
  
 
