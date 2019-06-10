@@ -33,8 +33,8 @@ from the GNU ISO C++ library's [cstdio.h](CppCstdioH.md) supplied with
  
 
 1.  [std::clearerr](CppClearerr.md)
-2.  [std::fclose](CppFclose.md)
-3.  [std::feof](CppFeof.md)
+2.  [std::fclose](CppStdFclose.md)
+3.  [std::feof](CppStdFeof.md)
 4.  [std::ferror](CppFerror.md)
 5.  [std::fflush](CppFflush.md)
 6.  [std::fgetc](CppStdFgetc.md)
