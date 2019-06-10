@@ -641,7 +641,7 @@ Great stuff for historicians!
 434. 07-10-2010: New page: [std::set\_difference](CppSet_difference.md)
 435. 04-10-2010: New page: [std::flush](CppStdFlush.md)
 436. 04-10-2010: New page: [std::internal](CppInternal.md)
-437. 04-10-2010: New page: [std::reverse](CppReverse.md)
+437. 04-10-2010: New page: [std::reverse](CppStdReverse.md)
 438. 04-10-2010: New page: [std::tm](CppStdTm.md)
 439. 03-10-2010: New page: [This application has failed to start because
     QtCored4.dll was not found](CppRuntimeErrorMissingQtCored4Dll.md)
@@ -1056,7 +1056,7 @@ Great stuff for historicians!
     problem](CppFannExample2.md)
 679. 12-08-2010: New page: [std::abort](CppAbort.md)
 680. 12-08-2010: New page: [Boost.Smart\_ptr](CppSmart_ptr.md)
-681. 12-08-2010: New page: [ReverseString](CppReverseString.md)
+681. 12-08-2010: New page: [ReverseString](CppStdReverseString.md)
 682. 12-08-2010: Modified [SaveContainer](CppSaveContainer.md):
     improved page source
 683. 12-08-2010: Modified [Smart pointer](CppSmartPointer.md): improved

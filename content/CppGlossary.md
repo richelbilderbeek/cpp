@@ -2312,7 +2312,7 @@
 -   [RESOURCES (qmake variable)](CppQmakeResources.md)
 -   [return](CppReturn.md)
 -   [return type](CppReturnType.md)
--   [ReverseString](CppReverseString.md)
+-   [ReverseString](CppStdReverseString.md)
 -   [Reversi](CppReversi.md)
 -   [RgbGradient](CppRgbGradient.md)
 -   [RgbToColor](CppRgbToColor.md)

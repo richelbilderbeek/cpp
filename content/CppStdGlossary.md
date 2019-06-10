@@ -227,7 +227,7 @@ The topics with boost:: can be found in the [boost:: glossary](CppBoostGlossary.
 221. [std::replace\_copy\_if](CppReplace_copy_if.md)
 222. [std::replace\_if](CppReplace_if.md)
 223. [std::resetiosflags](CppResetiosflags.md)
-224. [std::reverse](CppReverse.md)
+224. [std::reverse](CppStdReverse.md)
 225. [std::reverse\_copy](CppStdReverse_copy.md)
 226. [std::rewind](CppRewind.md)
 227. [std::right](CppStdRight.md)

@@ -9,12 +9,12 @@
 
  
 
-([C++](Cpp.md)) [std::reverse](CppReverse.md)
+([C++](Cpp.md)) [std::reverse](CppStdReverse.md)
 ===============================================
 
  
 
-[std::reverse](CppReverse.md) is an [STL](CppStl.md)
+[std::reverse](CppStdReverse.md) is an [STL](CppStl.md)
 [algorithm](CppAlgorithm.md) to reverse the contents of a
 [container](CppContainer.md).
 

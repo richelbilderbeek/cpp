@@ -9,29 +9,29 @@
 
  
 
-([C++](Cpp.md)) [ReverseString](CppReverseString.md)
+([C++](Cpp.md)) [ReverseString](CppStdReverseString.md)
 ======================================================
 
  
 
-[ReverseString](CppReverseString.md) is a [std::string](CppStdString.md)
+[ReverseString](CppStdReverseString.md) is a [std::string](CppStdString.md)
 [code snippets](CppCodeSnippets.md) to reverse a
 [std::string](CppStdString.md).
 
  
 
 Thanks to HK\_MP5KPDW for showing me this (even shorter) version of
-[ReverseString](CppReverseString.md).
+[ReverseString](CppStdReverseString.md).
 
  
 
 -   [Download the Qt Creator project
-    'CppReverseString' (zip)](CppReverseString.zip)
+    'CppStdReverseString' (zip)](CppStdReverseString.zip)
 
  
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <algorithm> #include <cassert> #include <string>  //From http://www.richelbilderbeek.nl/CppReverseString.htm const std::string ReverseString(const std::string& s) {   return std::string(s.rbegin(),s.rend()); }  int main() {   assert(ReverseString("")=="");   assert(ReverseString("1")=="1");   assert(ReverseString("AB")=="BA");   assert(ReverseString("123")=="321");   assert(ReverseString("abcd")=="dcba"); }`
+  ` #include <algorithm> #include <cassert> #include <string>  //From http://www.richelbilderbeek.nl/CppStdReverseString.htm const std::string ReverseString(const std::string& s) {   return std::string(s.rbegin(),s.rend()); }  int main() {   assert(ReverseString("")=="");   assert(ReverseString("1")=="1");   assert(ReverseString("AB")=="BA");   assert(ReverseString("123")=="321");   assert(ReverseString("abcd")=="dcba"); }`
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
