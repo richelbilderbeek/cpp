@@ -1,67 +1,21 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [raw string](CppRawString.md)
-===============================================
-
- 
+# ([C++](Cpp.md)) [raw string](CppRawString.md)
 
 A [raw string](CppRawString.md) is a type of [string
 literal](CppStringLiteral.md) that has no escape sequences.
 
- 
+```c++
+const std::string s = R"(/\/\/\/\)"
+```
 
-  ----------------------------------------
-  ` const std::string s = R"(/\/\/\/\)"`
-  ----------------------------------------
+Use [raw strings](CppRawString.md) for [string literals](CppStringLiteral.md) 
+with complicated uses of backslash \[1\].
 
- 
 
-Use [raw strings](CppRawString.md) for [string
-literals](CppStringLiteral.htm.md) with complicated uses of backslash
-\[1\].
+## Examples
 
- 
+ * [String literal example 1: basics](CppStringLiteralExample1.md)
 
- 
-
- 
-
- 
-
- 
-
-Examples
---------
-
- 
-
--   [String literal example 1: basics](CppStringLiteralExample1.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
-qt
-
- 
+## [References](CppReferences.md)
 
 1.  [Bjarne Stroustrup](CppBjarneStroustrup.md). The C++ Programming
     Language (4th edition). 2013. ISBN: 978-0-321-56384-2. Chapter 7.8.
