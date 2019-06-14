@@ -1,72 +1,26 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Desktop](PicDesktop.png)![to](PicTo.png)![Web](PicWeb.png) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Create a web application from a desktop application](CppFromDesktopToWebApplication.md)
-===============================================================================================================================================================================================================================
-
- 
+# ([C++](Cpp.md)) ![Desktop](PicDesktop.png)![to](PicTo.png)![Web](PicWeb.png) ![Qt Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Create a web application from a desktop application](CppFromDesktopToWebApplication.md)
 
 This [article](CppArticle.md) describes how to create a [Wt](CppWt.md)
 [web application](CppWebApplication.md) from a [desktop
 application](CppDesktopApplication.md), leaving both to be used.
 
- 
-
 This [article](CppArticle.md) uses the architecture described in the
 [article](CppArticle.md) [Thinking Qt 1: general](CppThinkingQt1.md)
 and [Thinking Wt 1: general](CppThinkingWt1.md).
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Overview
---------
-
- 
+## Overview
 
 This [article](CppArticle.md) follows these steps:
 
-1.  Discussing the starting point
+ * 1.  Discussing the starting point
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Starting point
---------------
-
- 
+## Starting point
 
 This [article](CppArticle.md)'s starting point is the code from
 AsciiArter source code version 4.0,
 which was described in the [article](CppArticle.md) [Porting an
 application from C++ Builder to Qt
 Creator](CppFromCppBuilderToQtCreator.md).
-
- 
-
- 
 
 This change in architecture can be displayed graphically:
 
@@ -79,20 +33,7 @@ This change in architecture can be displayed graphically:
     keeping open the possibility to transform it into a [Wt](CppWt.md)
     [web applications](CppWebApplication.md) (in dashed lines)
 
- 
-
- 
-
- 
-
- 
-
- 
-
-Put all Ascii-arter functionality in a [class](CppClass.md) called [AsciiArter](CppAsciiArter.md)
----------------------------------------------------------------------------------------------------
-
- 
+## Put all Ascii-arter functionality in a [class](CppClass.md) called [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 
 I did the following things:
 
@@ -101,19 +42,9 @@ I did the following things:
     requesting a Y-X ordered 2D [std::vector](CppStdVector.md) of
     greyscales
 -   Put all [global](CppGlobal.md) [functions](CppFunction.md) in the
-    [AsciiArter](CppAsciiArter.md) [class](CppClass.md)
+    [AsciiArter](https://github.com/richelbilderbeek/AsciiArter) [class](CppClass.md)
     [namespace](CppNamespace.md)
 -   Added versioning
-
- 
-
- 
-
- 
-
- 
-
- 
 
 ### asciiarter.h
 

@@ -1,28 +1,12 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [example class](CppClassExample.md)
-=====================================================
-
- 
+# ([C++](Cpp.md)) [example class](CppClassExample.md)
 
 An [example class](CppClassExample.md) is an example of a
 [class](CppClass.md). [Example classes](CppClassExample.md) are:
 
- 
-
 -   [AbcFile](CppAbcFile.md)
 -   [About](CppAbout.md)
 -   [Approximator](CppApproximator.md)
--   [AsciiArter](CppAsciiArter.md)
+-   [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 -   [Assert](CppAssert.md)
 -   [BinaryNewickVector](CppBinaryNewickVector.md)
 -   [Canvas](CppCanvas.md)
@@ -152,16 +136,3 @@ An [example class](CppClassExample.md) is an example of a
 -   [WtTimedServerPusher](CppWtTimedServerPusher.md)
 -   [WtToggleButtonWidget](CppWtToggleButtonWidget.md)
 -   [WtWidgetsWidget](CppWtWidgetsWidget.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

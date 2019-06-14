@@ -9,5 +9,5 @@
 
 -   [ProjectGtst](https://github.com/richelbilderbeek/gtst)
 -   [ProjectWtWebsite](ProjectWtWebsite.md)
--   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 -   [WtTextUploader](CppWtTextUploader.md)

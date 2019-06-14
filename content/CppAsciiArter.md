@@ -1,4 +1,4 @@
-# ([C++](Cpp.md)) [AsciiArter](CppAsciiArter.md)
+# ([C++](Cpp.md)) AsciiArter
 
 [AsciiArter](CppAsciiArter.md) is a GUI-independent
 [class](CppClass.md) to [convert](CppConvert.md) images to [ASCII

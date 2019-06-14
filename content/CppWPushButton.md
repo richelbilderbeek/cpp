@@ -35,7 +35,7 @@ Examples
 [Wt::WPushButton](CppWPushButton.md) is used in, among others:
 
 -   [RandomCode](ToolRandomCode.md)
--   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 -   [TestEncranger](ToolTestEncranger.md)
 -   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)
 

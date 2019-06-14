@@ -220,7 +220,7 @@
 -   [articles](CppArticle.md)
 -   [Artificial intelligence](CppArtificialIntelligence.md)
 -   [ASCII art](CppAsciiArt.md)
--   [AsciiArter](CppAsciiArter.md)
+-   [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 -   [Asio](CppBoostAsio.md)
 -   [Asio example 1: a chat server](CppBoostAsioExample1.md)
 -   [Asio example 2: a chat client](CppBoostAsioExample2.md)

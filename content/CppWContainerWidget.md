@@ -11,7 +11,7 @@ others:
 
 -   [ProjectGtst](https://github.com/richelbilderbeek/gtst)
 -   [ProjectWtWebsite](ProjectWtWebsite.md)
--   [TestAsciiArter](ToolTestAsciiArter.md)
+-   [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 -   [Thinking Wt 2: creating a TicTacToe widget](CppThinkingWt2.md)
 -   [WtAboutDialog](CppWtAboutDialog.md)
 -   [WtTextUploader](CppWtTextUploader.md)

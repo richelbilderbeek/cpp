@@ -43,7 +43,7 @@ This [article](CppArticle.md) follows these steps:
 
 1.  Discussing the starting point
 2.  Put all Ascii-arter functionality in a [class](CppClass.md) called
-    [AsciiArter](CppAsciiArter.md)
+    [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 3.  Put the [GUI](CppGui.md) logic in a platform-independent
     [class](CppClass.md) called
     [TestAsciiArterDialog](CppTestAsciiArterDialog.md)
@@ -72,7 +72,7 @@ AsciiArter source code version 1.0.
 Taking a look at the code, the following improvements can be made:
 
 -   Put all Ascii-arter functionality in a [class](CppClass.md) called
-    [AsciiArter](CppAsciiArter.md)
+    [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 -   Put the [GUI](CppGui.md) logic in a platform-independent
     [class](CppClass.md) called
     [TestAsciiArterDialog](CppTestAsciiArterDialog.md)
@@ -103,7 +103,7 @@ This change in architecture can be displayed graphically:
 
  
 
-Put all Ascii-arter functionality in a [class](CppClass.md) called [AsciiArter](CppAsciiArter.md)
+Put all Ascii-arter functionality in a [class](CppClass.md) called [AsciiArter](https://github.com/richelbilderbeek/AsciiArter)
 ---------------------------------------------------------------------------------------------------
 
  
@@ -115,7 +115,7 @@ I did the following things:
     requesting a Y-X ordered 2D [std::vector](CppStdVector.md) of
     greyscales
 -   Put all [global](CppGlobal.md) [functions](CppFunction.md) in the
-    [AsciiArter](CppAsciiArter.md) [class](CppClass.md)
+    [AsciiArter](https://github.com/richelbilderbeek/AsciiArter) [class](CppClass.md)
     [namespace](CppNamespace.md)
 -   Added versioning
 
