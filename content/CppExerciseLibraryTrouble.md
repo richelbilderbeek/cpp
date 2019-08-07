@@ -121,17 +121,6 @@ Which one is best?
 
  
 
- 
-
-Post your feedback
-------------------
-
- 
-
-Feedback can be posted at [the Programmer's Heaven page about this
-exercise](http://www.programmersheaven.com/article/102868-C%2b%2b+exercise%3a+library+trouble/info.aspx).
-
- 
 
  
 

@@ -1,9 +1,7 @@
 #include <cstring>
 #include <cassert>
 
-//From http://www.richelbilderbeek.nl/CppHexStrIsInt.htm
 //This solution was inspired by AsmGuru62
-//http://www.programmersheaven.com/c/authorpage.asp?AuthorID=12069
 //Checks if a C-style string only contains hexadecimal characters
 bool IsAllHex (const char* const must_be_hex)
 {
@@ -34,7 +32,6 @@ int main()
 
 //From http://www.richelbilderbeek.nl/CppHexStrIsInt.htm
 //This solution was inspired by AsmGuru62
-//http://www.programmersheaven.com/c/authorpage.asp?AuthorID=12069
 //Checks if a C-style string only contains hexadecimal characters
 //and minuses
 bool IsAllHex (const char* const must_be_hex)

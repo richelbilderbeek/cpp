@@ -106,21 +106,7 @@ exercise](CppExerciseDontGiveAwayYourInternalsAnswer1.md).
 
  
 
- 
 
-Post your feedback
-------------------
-
- 
-
-[Feedback can be posted at the Programmer's Heaven page about this
-article](http://www.programmersheaven.com/article/100053-C%2b%2b+exercise%3a+don%27t+give+away+your+internals/info.aspx).
-
- 
-
- 
-
- 
 
  
 

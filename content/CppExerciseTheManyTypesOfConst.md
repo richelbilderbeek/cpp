@@ -47,10 +47,6 @@ Post your feedback
 ------------------
 
  
-
-Feel free to [post your feedback about this exercise at Programmer's
-Heaven](http://www.programmersheaven.com/article/100014-C%2b%2b+exercise%3a+the+many+types+of+const/info.aspx).
-
  
 
  

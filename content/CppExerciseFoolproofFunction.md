@@ -64,15 +64,6 @@ Feedback
 
  
 
-Feedback can be posted at [post the Programmer's Heaven page about this
-article](http://www.programmersheaven.com/article/100012-C%2b%2b+exercise%3a+a+foolproof+function/info.aspx).
-
- 
-
- 
-
- 
-
  
 
  

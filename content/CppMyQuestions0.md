@@ -16,10 +16,6 @@
 
 Posted on 4 Aug 2009 at 6:00 AM
 
-[View this post at the Programmers Heaven C++
-forum](http://www.programmersheaven.com/mb/CandCPP/394647/394647/expected-init-declarator-compiler-error-with-g++/?S=B20000#394647).
-
- 
 
  
 
@@ -53,7 +49,7 @@ The errors (for each version of MyMethod) are:
 
  
 
-Answer by [Lundin](http://www.programmersheaven.com/user/Lundin)
+Answer by `Lundin`
 ----------------------------------------------------------------
 
  
@@ -64,7 +60,7 @@ Answer by [Lundin](http://www.programmersheaven.com/user/Lundin)
 
  
 
-Thanks [Lundin](http://www.programmersheaven.com/user/Lundin)!
+Thanks `Lundin`!
 
  
 

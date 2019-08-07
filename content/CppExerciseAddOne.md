@@ -62,16 +62,6 @@ Question \#1: Write a program that tests which way is fastest
 
  
 
-Post your feedback
-------------------
-
- 
-
-Feel encouraged to [post your feedback about this exercise at
-Programmer's
-Heaven](http://www.programmersheaven.com/article/100054-C%2b%2b+exercise%3a+add+one/info.aspx).
-
- 
 
  
 

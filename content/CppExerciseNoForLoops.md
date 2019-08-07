@@ -1147,10 +1147,6 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 Post your feedback
 ------------------
 
- 
-
-Feel free to post your feedback about this exercise at [Programmer's
-Heaven](http://www.programmersheaven.com/article/104501-C%2b%2b+exercise%3a+no+for-loops/info.aspx).
 
  
 

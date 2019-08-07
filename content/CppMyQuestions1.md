@@ -18,11 +18,6 @@ One of my [C++ questions](CppMyQuestions.md) that has been solved!
 
  
 
--   [View this post at the Programmers Heaven C++
-    forum](http://www.programmersheaven.com/mb/CandCPP/390544/390544/const_cast-does-not-work-to-remove-constness-in-argument/?S=B20000#390544)
-
- 
-
 Posted on 7 May 2009 at 3:58 AM
 
  

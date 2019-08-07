@@ -2219,19 +2219,19 @@ Great stuff for historicians!
     list](CppCompileErrorUtilitiesHppInvalidTemplateArgumentList.md):
     added compiler and library details
 1419. 11-02-2010: Modified [HaaifsKiller](ToolHaaifsKiller.md): added
-    links to [Programmers Heaven](http://www.programmersheaven.com/)
+    links to Programmers Heaven
 1420. 11-02-2010: Modified [DotMatrix](ToolDotMatrix.md): added links
-    to [Programmers Heaven](http://www.programmersheaven.com/)
+    to Programmers Heaven
 1421. 11-02-2010: Modified [Random Code](ToolRandomCode.md): added
-    links to [Programmers Heaven](http://www.programmersheaven.com/)
+    links to Programmers Heaven
 1422. 11-02-2010: Modified [Encranger](ToolTestEncranger.md): added
-    links to [Programmers Heaven](http://www.programmersheaven.com/)
+    links to Programmers Heaven
 1423. 11-02-2010: Modified [Hometrainer](ToolHometrainer.md): added
-    links to [Programmers Heaven](http://www.programmersheaven.com/)
+    links to Programmers Heaven
 1424. 11-02-2010: Modified [AsciiArter](ToolAsciiArter.md): added links
-    to [Programmers Heaven](http://www.programmersheaven.com/)
+    to Programmers Heaven
 1425. 11-02-2010: Modified [SimStagecraft](ToolSimStagecraft.md): added
-    links to [Programmers Heaven](http://www.programmersheaven.com/)
+    links to Programmers Heaven
 1426. 11-02-2010: Modified [Answer of exercise \#7:
     AddOne](CppExerciseAddOneAnswer.md)
 1427. 07-02-2010: New page: [Neural net](CppNeuralNet.md)
@@ -2241,35 +2241,35 @@ Great stuff for historicians!
     [SurfacePlotter (TImage)](CppSurfacePlotterTImage.md)
 1430. 07-02-2010: New page: [SurfacePlotter](ToolSurfacePlotter.md)
 1431. 07-02-2010: Modified [Exercise \#0: a correct Divide
-    function](CppExerciseDivide.md): added links to [Programmers
-    Heaven](http://www.programmersheaven.com/)
+    function](CppExerciseDivide.md): added links to Programmers
+    Heaven
 1432. 07-02-2010: Modified [Exercise \#1: a foolproof
     function](CppExerciseFoolproofFunction.md): added links to
-    [Programmers Heaven](http://www.programmersheaven.com/)
+    Programmers Heaven
 1433. 07-02-2010: Modified [Exercise \#2: correct function
     declarations](CppExerciseCorrectFunctionDeclarations.md): added
-    links to [Programmers Heaven](http://www.programmersheaven.com/)
+    links to Programmers Heaven
 1434. 07-02-2010: Modified [Exercise \#3: Don't give away your
     internals](CppExerciseDontGiveAwayYourInternals.md): added links to
-    [Programmers Heaven](http://www.programmersheaven.com/)
+    Programmers Heaven
 1435. 07-02-2010: Modified [Exercise \#4: Reading from a std::vector
-    safely](CppExerciseDivide.md): added links to [Programmers
-    Heaven](http://www.programmersheaven.com/)
+    safely](CppExerciseDivide.md): added links to Programmers
+    Heaven
 1436. 07-02-2010: Modified [Exercise \#5: the many types of
     const](CppExerciseTheManyTypesOfConst.md): added links to
-    [Programmers Heaven](http://www.programmersheaven.com/)
+    Programmers Heaven
 1437. 07-02-2010: Modified [Exercise \#6: refactoring quadratic
     solver](CppExerciseRefactoringQuadraticSolver.md): added links to
-    [Programmers Heaven](http://www.programmersheaven.com/)
+    Programmers Heaven
 1438. 07-02-2010: Modified [Exercise \#7:
-    AddOne](CppExerciseAddOne.md): added links to [Programmers
-    Heaven](http://www.programmersheaven.com/)
+    AddOne](CppExerciseAddOne.md): added links to Programmers
+    Heaven
 1439. 07-02-2010: Modified [Exercise \#8: Library
-    trouble](CppExerciseLibraryTrouble.md): added links to [Programmers
-    Heaven](http://www.programmersheaven.com/)
+    trouble](CppExerciseLibraryTrouble.md): added links to Programmers
+    Heaven
 1440. 07-02-2010: Modified [Exercise \#9: No
-    for-loops](CppExerciseNoForLoops.md): added links to [Programmers
-    Heaven](http://www.programmersheaven.com/)
+    for-loops](CppExerciseNoForLoops.md): added links to Programmers
+    Heaven
 1441. 07-02-2010: Modified [Wizard Battle](GameWizardBattle.md)
 1442. 06-02-2010: New page: [function
     declaration](CppFunctionDeclaration.md)
