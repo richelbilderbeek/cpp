@@ -69,7 +69,7 @@ classes](CppDerivedClass.md)).
 -   [Qt example 36: arrows with multiple midpoints](CppQtExample36.md)
 -   [Qt example 37: rounded rectangle item](CppQtExample37.md)
 -   [Moving line example](CppQtMovingLine.md)
--   [Qwt example 2: QwtPlot as QGraphicsItem](CppQwtExample2.md)
+-   [Qwt example 2: QwtPlot as QGraphicsItem](https://github.com/richelbilderbeek/QwtExample2)
 -   [QGraphicsItemGroup example 1:
     basic](CppQGraphicsItemGroupExample1.md)
 -   [QGraphicsObject example 1: basic](CppQGraphicsObjectExample1.md)

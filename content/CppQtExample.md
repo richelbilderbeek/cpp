@@ -233,7 +233,7 @@ without much trouble.
     -   uses [QGraphicsScene](CppQGraphicsScene.md),
         [QGraphicsView](CppQGraphicsView.md),
         [QGraphicsPathItem](CppQGraphicsPathItem.md)
--   [Qwt example 2: QwtPlot as QGraphicsItem](CppQwtExample2.md)
+-   [Qwt example 2: QwtPlot as QGraphicsItem](https://github.com/richelbilderbeek/QwtExample2)
     -   [screenshot (Lubuntu)(png)](CppQwtExample2Lubuntu.png)[screenshot (Windows)(png)](CppQwtExample2Windows.png)
     -   uses [QGraphicsScene](CppQGraphicsScene.md),
         [QGraphicsView](CppQGraphicsView.md),

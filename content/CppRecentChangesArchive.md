@@ -1348,7 +1348,7 @@ Great stuff for historicians!
     COM-656](CppRuntimeErrorInternalErrorCom656.md)
 908. 23-07-2010: New page: [Qwt](CppQwt.md)
 909. 23-07-2010: New page: [Qwt example 1: scatter
-    plot](CppQwtExample1.md)
+    plot](https://github.com/richelbilderbeek/QwtExample1)
 910. 23-07-2010: New page: [Undefined reference to
     'QwtPlot::QwtPlot(QWidget\*)'](CppLinkErrorUndefinedReferenceToQwtPlot.md)
 911. 23-07-2010: New page: [Undefined reference
