@@ -89,7 +89,6 @@ An [example class](CppClassExample.md) is an example of a
 -   [Question](CppQuestion.md)
 -   [QuestionDialog](CppQuestionDialog.md)
 -   [Rainbow](CppRainbow.md)
--   [RandomCode](CppStdRand.mdomCode.md)
 -   [RaspberryPi](CppRaspberryPi.md)
 -   [Rectangle](CppRectangle.md)
 -   [RichelBilderbeekProgram](CppRichelBilderbeekProgram.md)
