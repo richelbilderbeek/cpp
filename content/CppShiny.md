@@ -23,7 +23,7 @@ But you can use the [preprocessor](CppPreprocessor.md) to remove the
   #define PROFILER_UPDATE() ((void)0)
   #define PROFILER_OUTPUT(x) ((void)0)
 #endif
-``` 
+```
 
 ## Example
 
