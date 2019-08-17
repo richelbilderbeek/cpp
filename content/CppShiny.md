@@ -121,7 +121,7 @@ call tree    hits  self    time total time
 CreateVector 1.0    274 ns   0% 274 ns   0%
 BubbleSort   1.0    954 us 100% 954 us 100%
 QuickSort    1.0      1 us   0%   1 us   0%
-``` 
+```
 
 The program has spent 100% of 103% in the function BubbleSort and only
 less then 0.5% in QuickSort. You have now measured that in this case
