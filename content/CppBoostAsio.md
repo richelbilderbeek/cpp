@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Asio](CppBoostAsio.md)
-===========================================================
-
- 
+# ([C++](Cpp.md)) ![Boost](PicBoost.png) [Asio](CppBoostAsio.md)
 
 The [Asio](CppBoostAsio.md) is a cross-platform [library](CppLibrary.md)
 for networking and part of [Boost](CppBoost.md).

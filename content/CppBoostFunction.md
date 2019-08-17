@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [boost::function](CppBoostFunction.md)
-========================================================
-
- 
+# ([C++](Cpp.md)) [boost::function](CppBoostFunction.md)
 
 [boost::function](CppFunction.md) is part of the
 [Boost](CppBoost.md).Function [library](CppLibrary.md) for working

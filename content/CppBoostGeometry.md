@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Geometry](CppGeometry.md)
-=========================================================================
-
- 
+# ([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Geometry](CppGeometry.md)
 
 The [Boost.Geometry](CppGeometry.md) [library](CppLibrary.md) is a
 [library](CppLibrary.md) that is part of [Boost](CppBoost.md) for

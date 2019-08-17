@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [boost::format](CppFormat.md)
-===============================================
-
- 
+# ([C++](Cpp.md)) [boost::format](CppFormat.md)
 
 [boost::format](CppFormat.md) is the type-safe alternative of
 [std::printf](CppStdPrintf.md)(see example below).

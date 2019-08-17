@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Boost.Lambda](CppBoostLambda.md)
-===================================================
-
- 
+# ([C++](Cpp.md)) [Boost.Lambda](CppBoostLambda.md)
 
 [Boost.Lambda](CppBoostLambda.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) to allow for [lambda

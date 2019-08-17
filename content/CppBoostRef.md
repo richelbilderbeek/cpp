@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Ref](CppBoostRef.md)
-====================================================================
-
- 
+# ([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Ref](CppBoostRef.md)
 
 The [Boost.Ref](CppBoostRef.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) for wrapping [references](CppReference.md).

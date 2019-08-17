@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [boost::bind](CppStdBind.md)
-===========================================
-
- 
+# ([C++](Cpp.md)) [boost::bind](CppStdBind.md)
 
 [boost::bind](CppStdBind.md) is a generalization of the
 [std::bind1st](CppStdBind1st.md) and [std::bind2nd](CppStdBind2nd.md)

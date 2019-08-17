@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [boost::bimap](CppBoostBimap.md)
-==================================================
-
- 
+# ([C++](Cpp.md)) [boost::bimap](CppBoostBimap.md)
 
 [boost::bimap](CppBimap.md) is a [container](CppContainer.md)
 [class](CppClass.md) similar to a [std::map](CppStdMap.md), but can be

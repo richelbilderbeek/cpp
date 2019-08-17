@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [boost::array](CppBoostArray.md)
-==================================================
-
- 
+# ([C++](Cpp.md)) [boost::array](CppBoostArray.md)
 
 [boost::array](CppBoostArry.md) is part of the
 [Boost](CppBoost.md).Array [library](CppLibrary.md) and supplies an

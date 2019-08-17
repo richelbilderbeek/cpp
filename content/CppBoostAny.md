@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [boost::any](CppStdAny.md)
-=========================================
-
- 
+# ([C++](Cpp.md)) [boost::any](CppStdAny.md)
 
 [boost::any](CppStdAny.md) is a [Boost](CppBoost.md)
 [container](CppContainer.md) for type-safe storage of any [data

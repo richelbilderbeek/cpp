@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Boost.Statechart](CppStatechart.md)
-======================================================
-
- 
+# ([C++](Cpp.md)) [Boost.Statechart](CppStatechart.md)
 
 [Boost.Statechart](CppStatechart.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) for finite state machines.

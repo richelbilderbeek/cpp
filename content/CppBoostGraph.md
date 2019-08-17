@@ -1,40 +1,11 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Boost.Graph](CppBoostGraph.md)
-=================================================
-
- 
+# ([C++](Cpp.md)) [Boost.Graph](CppBoostGraph.md)
 
 [Boost.Graph](CppBoostGraph.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) to work with [graphs](CppGraph.md).
 
- 
+ I have written a [Boost.Graph tutorial](CppBoostGraphTutorial.md).
 
-I have written a [Boost.Graph tutorial](CppBoostGraphTutorial.md).
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
+## [References](CppReferences.md)
 
 1.  [Boost page of
     Boost.Graph](www.boost.org/doc/libs/release/libs/graph)

@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Test](CppBoostTest.md)
-======================================================================
-
- 
+# ([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Test](CppBoostTest.md)
 
 [Boost.Test](CppTest.md) is a [Boost](CppBoost.md)
 [library](CppLibrary.md) for [testing](CppTest.md).

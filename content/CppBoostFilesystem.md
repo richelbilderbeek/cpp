@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Filesystem](CppBoostFilesystem.md)
-=============================================================================
-
- 
+# ([C++](Cpp.md)) ![Boost](PicBoost.png) [Boost.Filesystem](CppBoostFilesystem.md)
 
 [Boost.Filesystem](CppBoostFilesystem.md) is a [library](CppLibrary.md)
 part of [Boost](CppBoost.md) for working with files, like
