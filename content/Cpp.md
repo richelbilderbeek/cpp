@@ -17,7 +17,8 @@ C++ is not just object-oriented [1], nor just for generic programming
  * [C++ glossary](CppGlossary.md): an overview of all my (+2500) C++ pages
  * [C++ 'Hello World' program](CppHelloWorld.md): the standard starting point
  * [C++ standard](CppStandard.md): ![C++98](PicCpp98.png) [C++98](Cpp98.md), ![C++11](PicCpp11.png) [C++11](Cpp11.md)
- * [C++ operating systems](CppOs.md): ![Cygwin](PicCygwin.png) [Cygwin](CppCygwin.md), ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md), ![NDS](PicNds.png) [NDS](CppNds.md), ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.md), ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md), ![Windows](PicWindows.png) [Windows](CppWindows.md), ![Wine](PicWine.png) [Wine](CppWine.md) and [more operating systems](CppOs.md)
+ * [C++ operating systems](CppOs.md): [Windows](CppWindows.md) and [more operating systems](CppOs.md)
+ * [C++ platforms](CppPlatform.md): ![Cygwin](PicCygwin.png) [Cygwin](CppCygwin.md), ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md), ![NDS](PicNds.png) [NDS](CppNds.md), ![Raspbian](PicRaspbian.png) [Raspbian](CppRaspbian.md), ![Ubuntu](PicUbuntu.png) [Ubuntu](CppUbuntu.md), ![Wine](PicWine.png) [Wine](CppWine.md)
  * [C++ IDE](CppIde.md)'s: ![C++ Builder](PicCppBuilder.png) [C++ Builder](CppBuilder.md), ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) and [more IDE's](CppIde.md)
  * [C++ keywords](CppKeyword.md): all the C++ keywords
  * [C++ libraries](CppLibrary.md): ![Boost](PicBoost.png) [Boost](CppBoost.md), ![Qt](PicQt.png) [Qt](CppQt.md), ![STL](PicStl.png) [STL](CppStl.md), ![VCL](PicVcl.png) [VCL](CppVcl.md), ![Wt](PicWt.png) [Wt](CppWt.md) and [more libraries](CppLibrary.md)
