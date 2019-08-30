@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [QGraphicsRectItemExample4](CppQGraphicsRectItemExample4.md)
-==============================================================================
-
- 
+# ([C++](Cpp.md)) [QGraphicsRectItemExample4](CppQGraphicsRectItemExample4.md)
 
 ![Qt](PicQt.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)

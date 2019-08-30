@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Sine](CppSine.md)
-====================================
-
- 
+# ([C++](Cpp.md)) [Sine](CppSine.md)
 
 Class to calculate the value of a sine (the standard
 [function](CppFunction.md) [std::sin](CppStdSin.md)) by using a look-up

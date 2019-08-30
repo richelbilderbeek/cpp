@@ -1,23 +1,7 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [ALGLIB](CppAlglib.md)
-========================================
-
- 
+# ([C++](Cpp.md)) [ALGLIB](CppAlglib.md)
 
 The [ALGLIB](CppAlglib.md) is 'a cross-platform open source numerical
 analysis and data processing [library](CppLibrary.md) \[1\]'.
-
- 
 
 Personally, I dislike this library:
 
@@ -28,44 +12,18 @@ Personally, I dislike this library:
     follow a RAII idiom, 'setcontent' has to be used instead.
 -   Con: Many GCC compiler warnings, where I prefer a clean compile
 
- 
-
 I could not figure out how to obtain a linear fit: I expect two values
 (a slope and an offset), where I obtain only one? See [ALGLIB example 2:
 linear fit](CppAlglibExample2).
 
- 
-
- 
-
- 
-
- 
-
-Examples
---------
-
- 
+## Examples
 
 1.  [ALGLIB example 1: linear fit](CppAlglibExample1.md)
 2.  [ALGLIB example 2: linear fit](CppAlglibExample2.md)
 
- 
+## [References](CppReferences.md)
 
- 
-
- 
-
- 
-
- 
-
-[References](CppReferences.md)
--------------------------------
-
- 
-
-1.  [Wikipedia page about ALGLIB](https://en.wikipedia.org/wiki/ALGLIB)
+ * [1] [Wikipedia page about ALGLIB](https://en.wikipedia.org/wiki/ALGLIB)
 
  
 

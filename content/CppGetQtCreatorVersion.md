@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [GetQtCreatorVersion](CppGetQtCreatorVersion.md)
-==================================================================
-
- 
+# ([C++](Cpp.md)) [GetQtCreatorVersion](CppGetQtCreatorVersion.md)
 
 [GetQtCreatorVersion](CppGetQtCreatorVersion.md) is a
 [version](CppVersion.md) [code snippet](CppCodeSnippets.md) to obtain

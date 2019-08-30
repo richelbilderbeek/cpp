@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [std::swap\_ranges](CppSwap_ranges.md)
-========================================================
-
- 
+# ([C++](Cpp.md)) [std::swap\_ranges](CppSwap_ranges.md)
 
 [std::swap\_ranges](CppSwap_ranges.md) is an
 [algorithm](CppAlgorithm.md) to swap two [container](CppContainer.md)

@@ -1,22 +1,6 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Kylix](CppKylix.md)
-======================================
-
- 
+# ([C++](Cpp.md)) [Kylix](CppKylix.md)
 
 [Kylix](CppKylix.md) is an abandoned [IDE](CppIde.md) for Linux.
-
- 
 
 [Kylix](CppKylix.md) used the [CLX](CppClx.md)
 [library](CppLibrary.md) for [GUI](CppGui.md) design.

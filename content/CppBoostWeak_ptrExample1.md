@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostWeak\_ptrExample1](CppBoostWeak_ptrExample1.md)
-=======================================================================
-
- 
+# ([C++](Cpp.md)) [BoostWeak\_ptrExample1](CppBoostWeak_ptrExample1.md)
 
 [boost::weak\_ptr example 1](CppBoostWeak_ptrExample1.md) is a
 [boost::weak\_ptr example](CppBoostWeak_ptr.md)

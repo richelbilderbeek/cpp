@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [ConvertMatrix](CppConvertMatrix.md)
-======================================================
-
- 
+#([C++](Cpp.md)) [ConvertMatrix](CppConvertMatrix.md)
 
 [Container](CppContainer.md) [code snippet](CppCodeSnippets.md) that
 [converts](CppConvert.md) a

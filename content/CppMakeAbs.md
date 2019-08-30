@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [MakeAbs](CppMakeAbs.md)
-==========================================
-
- 
+# ([C++](Cpp.md)) [MakeAbs](CppMakeAbs.md)
 
 [Math](CppMath.md) [code snippet](CppCodeSnippets.md) to make all
 elements in a [container](CppContainer.md) positive.

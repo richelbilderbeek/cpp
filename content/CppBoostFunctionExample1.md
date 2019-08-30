@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostFunctionExample1](CppBoostFunctionExample1.md)
-======================================================================
-
- 
+# ([C++](Cpp.md)) [BoostFunctionExample1](CppBoostFunctionExample1.md)
 
 ![Boost](PicBoost.png)
 

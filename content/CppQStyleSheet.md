@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [QStyleSheet](CppQStyleSheet.md)
-===================================================================
-
- 
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [QStyleSheet](CppQStyleSheet.md)
 
 [QStyleSheet](CppQStyleSheet.md) is a [Qt](CppQt.md)
 [class](CppClass.md).

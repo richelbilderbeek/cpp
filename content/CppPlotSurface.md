@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [PlotSurface](CppPlotSurface.md)
-==================================================
-
- 
+# ([C++](Cpp.md)) [PlotSurface](CppPlotSurface.md)
 
 [ASCII art](CppAsciiArt.md) [code snippet](CppCodeSnippets.md) that
 displays a 2D (y-x-ordered) [std::vector](CppStdVector.md) of

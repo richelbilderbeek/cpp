@@ -1,43 +1,20 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [AutoExample1](CppAutoExample1.md)
-====================================================
-
- 
+# ([C++](Cpp.md)) [AutoExample1](CppAutoExample1.md)
 
 ![C++11](PicCpp11.png)![STL](PicStl.png)![Qt
 Creator](PicQtCreator.png)![Windows](PicWindows.png)
 
- 
-
 [auto example 1: basics](CppAutoExample1.md) is an [auto](CppAuto.md)
 [example](CppExample.md).
-
- 
 
 A division will only succeed if the denominator is unequal to zero. In
 your code, you will have to take care that a division by zero never
 occurs. Using [assert](CppAssert.md), as shown in the code below, will
 take you to the problem directly.
 
- 
-
 -   [Download the Qt Creator project
     'CppAssertExample1' (zip)](CppAssertExample1.zip)
 
-Technical facts
----------------
-
- 
+## Technical facts
 
 [Operating system(s) or programming environment(s)](CppOs.md)
 
@@ -102,16 +79,4 @@ Technical facts
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ` #include <iostream> #include <vector>  int main() {   const std::vector<int> v { 1, 2, 3 };    //auto determines the type   const auto j = v.end();   for (auto i = v.begin(); i!=j; ++i)   {     std::cout << *i << '\n';   } }  /* Screen output:  1 2 3 Press <RETURN> to close this window...  */`
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 

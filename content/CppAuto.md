@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [auto](CppAuto.md)
-====================================
-
- 
+# ([C++](Cpp.md)) [auto](CppAuto.md)
 
 [auto](CppAuto.md) is a [keyword](CppKeyword.md) that has different
 meanings, depending on the [standard](CppStandard.md) used:
@@ -21,16 +7,6 @@ meanings, depending on the [standard](CppStandard.md) used:
     [standard](CppStandard.md)
 -   ![C++98](PicCpp98.png) [auto](CppAuto.md) in the [C++98](Cpp98.md)
     [standard](CppStandard.md)
-
- 
-
- 
-
- 
-
- 
-
- 
 
 ![C++11](PicCpp11.png) [auto](CppAuto.md) in the [C++11](Cpp11.md) [standard](CppStandard.md)
 ------------------------------------------------------------------------------------------------

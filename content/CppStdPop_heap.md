@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [std::pop\_heap](CppPop_heap.md)
-==================================================
-
- 
+# ([C++](Cpp.md)) [std::pop\_heap](CppPop_heap.md)
 
 [std::pop\_heap](CppPop_heap.md) is an [STL](CppStl.md) heap
 [algorithm](CppAlgorithm.md) to remove the highest value from a heap.

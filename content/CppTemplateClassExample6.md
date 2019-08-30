@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [TemplateClassExample6](CppTemplateClassExample6.md)
-======================================================================
-
- 
+# ([C++](Cpp.md)) [TemplateClassExample6](CppTemplateClassExample6.md)
 
 ![STL](PicStl.png)![Qt
 Creator](PicQtCreator.png)![Windows](PicWindows.png)

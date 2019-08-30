@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BreakExample1](CppBreakExample1.md)
-======================================================
-
- 
+# ([C++](Cpp.md)) [BreakExample1](CppBreakExample1.md)
 
 [break example 1](CppBreakExample1.md) is a [break](CppBreak.md)
 example.

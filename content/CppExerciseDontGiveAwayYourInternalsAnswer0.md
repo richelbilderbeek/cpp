@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Answer of exercise \#3: Don't give away your internals, \#0](CppExerciseDontGiveAwayYourInternalsAnswer0.md)
-===============================================================================================================================
-
- 
+# ([C++](Cpp.md)) [Answer of exercise \#3: Don't give away your internals, \#0](CppExerciseDontGiveAwayYourInternalsAnswer0.md)
 
 This is part \#0 of the answer of [exercise \#3: Don't give away your
 internals](CppExerciseDontGiveAwayYourInternals.md).

@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [HelloQtQtCreatorUbuntu](CppHelloQtQtCreatorUbuntu.md)
-========================================================================
-
- 
+# ([C++](Cpp.md)) [HelloQtQtCreatorUbuntu](CppHelloQtQtCreatorUbuntu.md)
 
 Technical facts
 ---------------

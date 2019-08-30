@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [SameXandY functor](CppFunctorSameXandY.md)
-=============================================================
-
- 
+# ([C++](Cpp.md)) [SameXandY functor](CppFunctorSameXandY.md)
 
 A functor that sees if a certain class has equal X and Y values.
 

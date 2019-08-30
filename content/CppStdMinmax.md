@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [std::minmax](CppStdMinmax.md)
-=============================================
-
- 
+# ([C++](Cpp.md)) [std::minmax](CppStdMinmax.md)
 
 [std::minmax](CppStdMinmax.md) is an [algorithm](CppAlgorithm.md) to
 obtain the begin and end of a [container](CppContainer.md) at the same

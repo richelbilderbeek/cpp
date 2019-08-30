@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [undefined reference to 'boost::thread::thread()'](CppLinkErrorUndefinedReferenceToBoostThread.md)
-====================================================================================================================
-
- 
+# ([C++](Cpp.md)) [undefined reference to 'boost::thread::thread()'](CppLinkErrorUndefinedReferenceToBoostThread.md)
 
 [Link error](CppLinkError.md).
 

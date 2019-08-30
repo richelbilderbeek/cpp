@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsItemGroup](CppQGraphicsItemGroup.md)
-=================================================================================
-
- 
+# ([C++](Cpp.md)) ![Qt](PicQt.png) [QGraphicsItemGroup](CppQGraphicsItemGroup.md)
 
 [QGraphicsItemGroup](CppQGraphicsItemGroup.md) is a
 [QGraphicsItem](CppQGraphicsItem.md) focused around displaying a group

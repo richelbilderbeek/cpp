@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [QGraphicsSvgItemExample1](CppQGraphicsSvgItemExample1.md)
-============================================================================
-
- 
+# ([C++](Cpp.md)) [QGraphicsSvgItemExample1](CppQGraphicsSvgItemExample1.md)
 
 Technical facts
 ---------------

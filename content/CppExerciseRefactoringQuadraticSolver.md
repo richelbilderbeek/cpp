@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Exercise \#6: refactoring quadratic solver](CppExerciseRefactoringQuadraticSolver.md)
-========================================================================================================
-
- 
+# ([C++](Cpp.md)) [Exercise \#6: refactoring quadratic solver](CppExerciseRefactoringQuadraticSolver.md)
 
 Difficulty: 2/10
 

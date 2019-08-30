@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Android](PicAndroid.png) [Installing the Android SDK](CppAndroidSdkInstall.md)
-==================================================================================================
-
- 
+# ([C++](Cpp.md)) ![Android](PicAndroid.png) [Installing the Android SDK](CppAndroidSdkInstall.md)
 
 Installing the [Android SDK](CppAndroidSdk.md) is dependent on your
 [operating system](CppOs.md):
@@ -20,32 +6,6 @@ Installing the [Android SDK](CppAndroidSdk.md) is dependent on your
 -   ![Ubuntu](PicUbuntu.png) [Installing the Android SDK under
     Ubuntu](CppAndroidSdkInstallUbuntu.md)
 
- 
+## External links
 
- 
-
- 
-
- 
-
- 
-
-External links
---------------
-
- 
-
--   [Android SDK homepage](http://developer.android.com/sdk/index.html)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+ * [Android SDK homepage](http://developer.android.com/sdk/index.html)

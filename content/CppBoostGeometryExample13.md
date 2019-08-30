@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [BoostGeometryExample13](CppBoostGeometryExample13.md)
-========================================================================
-
- 
+# ([C++](Cpp.md)) [BoostGeometryExample13](CppBoostGeometryExample13.md)
 
 ![Boost](PicBoost.png)![Qt
 Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)

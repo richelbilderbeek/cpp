@@ -1,27 +1,9 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [AlglibExample2](CppAlglibExample2.md)
-========================================================
-
- 
+# ([C++](Cpp.md)) [AlglibExample2](CppAlglibExample2.md)
 
 ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)
 
- 
-
 [ALGLIB example 2: linear fit](CppAlglibExample2.md) is an
 [ALGLIB](CppAlglib.md) [example](CppExample.md).
-
- 
 
 -   [Download the Qt Creator project
     'CppAlglibExample2' (zip)](CppAlglibExample2.zip)

@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [jpeglib.h: No such file or directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.md)
-=========================================================================================================
-
- 
+# ([C++](Cpp.md)) [jpeglib.h: No such file or directory](CppCompileErrorJpeglibHnoSuchFileOrDirectory.md)
 
 [Compile error](CppCompileError.md).
 

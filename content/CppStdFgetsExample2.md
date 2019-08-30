@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [StdFgetsExample2](CppStdFgetsExample2.md)
-============================================================
-
- 
+# ([C++](Cpp.md)) [StdFgetsExample2](CppStdFgetsExample2.md)
 
 Technical facts
 ---------------

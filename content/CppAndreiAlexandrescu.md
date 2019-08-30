@@ -23,16 +23,3 @@ one of the [most important C++ books](CppMostImportantCppBooks.md)
 
  * [1] [Scott Meyers](CppScottMeyers.md). The most important C++ people ...ever. 2006. Online at http://www.artima.com/cppsource/top_cpp_people.html
  * [2] [Scott Meyers](CppScottMeyers.md). The Most Important C++ Books...Ever. Online at http://www.artima.com/cppsource/top_cpp_books.html
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

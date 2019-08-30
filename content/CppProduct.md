@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Product](CppProduct.md)
-==========================================
-
- 
+# ([C++](Cpp.md)) [Product](CppProduct.md)
 
 [Math](CppMath.md) [code snippet](CppCodeSnippets.md) to calculate the
 product of the elements of a [std::vector](CppStdVector.md).

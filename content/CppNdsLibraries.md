@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![NDS](PicNds.png) [Which libraries can be used for NDS development?](CppNdsLibraries.md)
-===========================================================================================================
-
- 
+# ([C++](Cpp.md)) ![NDS](PicNds.png) [Which libraries can be used for NDS development?](CppNdsLibraries.md)
 
 [NDS FAQ](CppNdsFaq.md).
 

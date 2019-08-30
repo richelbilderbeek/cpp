@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#30](CppExerciseNoForLoopsAnswer30.md)
-===============================================================================================
-
- 
+# ([C++](Cpp.md)) [Answer of exercise \#9: No for-loops \#30](CppExerciseNoForLoopsAnswer30.md)
 
 This is the answer of [Exercise \#9: No
 for-loops](CppExerciseNoForLoops.md).

@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [ConstExample3](CppConstExample3.md)
-======================================================
-
- 
+# ([C++](Cpp.md)) [ConstExample3](CppConstExample3.md)
 
 Technical facts
 ---------------

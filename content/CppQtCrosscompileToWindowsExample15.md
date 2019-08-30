@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 15: MXE](CppQtCrosscompileToWindowsExample15.md)
-==========================================================================================================================================================
-
- 
+# ([C++](Cpp.md)) [How to cross-compile a Qt Creator project from Ubuntu to a windows executable: example 15: MXE](CppQtCrosscompileToWindowsExample15.md)
 
 This is a successful approach to solve the [Qt FAQ](CppQtFaq.md) [How
 to cross-compile a Qt Creator project from Ubuntu to a windows

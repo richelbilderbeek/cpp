@@ -8,9 +8,9 @@ called 'C++0x'.
 ## [C++11](Cpp11.md) new features
 
 -   [data types](CppDataType.md):
-    -   [char16\_t](CppChar16_t.md): a new 16-bit character [data
+    -   [char16_t](CppChar16_t.md): a new 16-bit character [data
         type](CppDataType.md)
-    -   [char32\_t](CppChar32_t.md): a new 32-bit character [data
+    -   [char32_t](CppChar32_t.md): a new 32-bit character [data
         type](CppDataType.md)
     -   [enum class](CppEnumClass.md): a new conversion-safe
         [enumeration](CppEnum.md)
@@ -30,33 +30,33 @@ called 'C++0x'.
         loop
     -   [nullptr](CppNullptr.md): set a [pointer](CppPointer.md) to
         uninitialized
-    -   [static\_assert](CppStatic_assert.md): same function as
-        [BOOST\_STATIC\_ASSERT](CppBOOST_STATIC_ASSERT.md)
+    -   [static_assert](CppStatic_assert.md): same function as
+        [BOOST_STATIC_ASSERT](CppBOOST_STATIC_ASSERT.md)
 -   [classes](CppClass.md):
     -   [std::array](CppArray.md)
     -   [std::regex](CppRegex.md)
-    -   [std::shared\_ptr](CppShared_ptr.md)
+    -   [std::shared_ptr](CppShared_ptr.md)
     -   [std::thread](CppThread.md)
-    -   [std::unique\_ptr](CppStdUnique_ptr.md)
+    -   [std::unique_ptr](CppStdUnique_ptr.md)
 -   [algorithms](CppAlgorithm.md):
-    -   [std::all\_of](CppStdAll_of.md)
-    -   [std::any\_of](CppStdAny_of.md)
-    -   [std::copy\_if](CppCopy_if.md)
-    -   [std::copy\_n](CppStdCopy_n.md)
-    -   [std::find\_if\_not](CppStdFind_if_not.md)
+    -   [std::all_of](CppStdAll_of.md)
+    -   [std::any_of](CppStdAny_of.md)
+    -   [std::copy_if](CppCopy_if.md)
+    -   [std::copy_n](CppStdCopy_n.md)
+    -   [std::find_if_not](CppStdFind_if_not.md)
     -   [std::iota](CppIota.md)
-    -   [std::is\_heap](CppStdIs_heap.md)
-    -   [std::is\_heap\_until](CppStdIs_heap_until.md)
-    -   [std::is\_sorted](CppStdIs_sorted.md)
-    -   [std::is\_sorted\_until](CppStdIs_sorted_until.md)
-    -   [std::minmax\_element](CppStdMinmax_element.md)
+    -   [std::is_heap](CppStdIs_heap.md)
+    -   [std::is_heap_until](CppStdIs_heap_until.md)
+    -   [std::is_sorted](CppStdIs_sorted.md)
+    -   [std::is_sorted_until](CppStdIs_sorted_until.md)
+    -   [std::minmax_element](CppStdMinmax_element.md)
     -   [std::minmax](CppStdMinmax.md)
-    -   [std::move\_backward](CppStdMove_backward.md)
+    -   [std::move_backward](CppStdMove_backward.md)
     -   [std::move](CppStdMove.md)
-    -   [std::none\_of](CppStdNone_of.md)
-    -   [std::partial\_sort\_copy](CppStdPartial_sort_copy.md)
-    -   [std::partition\_copy](CppStdPartition_copy.md)
-    -   [std::partition\_point](CppStdPartition_point.md)
+    -   [std::none_of](CppStdNone_of.md)
+    -   [std::partial_sort_copy](CppStdPartial_sort_copy.md)
+    -   [std::partition_copy](CppStdPartition_copy.md)
+    -   [std::partition_point](CppStdPartition_point.md)
 -   '&gt;&gt;' can be used as a [nested template
     closer](CppNestedTemplateCloser.md)
 -   [delegation](CppDelegation.md): let

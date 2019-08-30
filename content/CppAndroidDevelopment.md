@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Android](PicAndroid.png) [Android development](CppAndroidDevelopment.md)
-============================================================================================
-
- 
+# ([C++](Cpp.md)) ![Android](PicAndroid.png) [Android development](CppAndroidDevelopment.md)
 
 Development for the [Android](CppAndroid.md) [platform](CppOs.md)
 depends on your [operating system](CppOs.md) and [IDE](CppIde.md):
@@ -21,16 +7,3 @@ depends on your [operating system](CppOs.md) and [IDE](CppIde.md):
     Creator](PicQtCreator.png)![Ubuntu](PicUbuntu.png) [Android
     development using Qt Creator under
     Ubuntu](CppAndroidDevelopmentQtCreatorUbuntu.md)
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-

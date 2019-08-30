@@ -1,30 +1,6 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) ![Wine](PicWine.png)![Ubuntu](PicUbuntu.png) [Install error: Open C/C++: No destination folder or no features to be selected](CppInstallErrorOpenCpp.md)
-==========================================================================================================================================================================
-
- 
+# ([C++](Cpp.md)) ![Wine](PicWine.png)![Ubuntu](PicUbuntu.png) [Install error: Open C/C++: No destination folder or no features to be selected](CppInstallErrorOpenCpp.md)
 
 [Install error](CppInstallError.md).
-
- 
-
- 
-
- 
-
- 
-
- 
 
 [Install error](CppInstallError.md) description
 ------------------------------------------------

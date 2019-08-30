@@ -1,18 +1,4 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [SortVector](CppSortVector.md)
-================================================
-
- 
+# ([C++](Cpp.md)) [SortVector](CppSortVector.md)
 
 [SortVector](CppSortVector.md) is a [sorting](CppStdSort.md) [code
 snippet](CppCodeSnippets.md) to [sort](CppStdSort.md) a
