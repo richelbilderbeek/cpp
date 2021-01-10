@@ -10,7 +10,7 @@ Replace the **[for](CppFor.md)**-loop. You will need:
 -   your own [std::unary\_function](CppStdUnary_function.md)
 
 
-```
+```c++
 #include <cmath>
 #include <vector>
  
@@ -26,7 +26,7 @@ void MakeAbs(std::vector<int>& v)
 
 ## Answer
 
-```
+```c++
 #include <algorithm>
 #include <cmath>
 #include <functional>
@@ -41,13 +41,13 @@ void MakeAbs(std::vector<int>& v)
 {
   std::transform(v.begin(),v.end(),v.begin(),Abs<int>());
 }
-``` 
+```
 
 Note: I did not find any way to refrain from writing a
 [functor](CppFunctor.md) (for example, by using
 [std::ptr\_fun](CppStdPtr_fun.md)) as shown in the lines below...
 
-```
+```c++
 std::transform(v.begin(),v.end(),v.begin(),std::abs); //Does not work
 std::transform(v.begin(),v.end(),v.begin(),&std::abs); //Does not work
 std::transform(v.begin(),v.end(),v.begin(),std::ptr_fun(&std::abs)); //Does not work
