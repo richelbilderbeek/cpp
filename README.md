@@ -1,8 +1,8 @@
 # cpp
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
----|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/cpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cpp)
+Branch |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+-------|----------------------------------------------------------------------------------------------------------------------------
+master |[![Build Status](https://travis-ci.org/richelbilderbeek/cpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cpp)
 develop|[![Build Status](https://travis-ci.org/richelbilderbeek/cpp.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cpp)
 
 My pages about C++.
@@ -15,3 +15,6 @@ Start [here](content/Cpp.md).
 
 See [the FAQ](faq.md)
 
+## Contributors
+
+ * Andrei Kuzmenko
