@@ -7,7 +7,7 @@ This is the answer of [Exercise \#9: No for-loops](CppExerciseNoForLoops.md).
 Replace the **[for](CppFor.md)**-loop. You will need:
 
 -   [std::transform](CppStdTransform.md)
--   your own [std::unary\_function](CppStdUnary_function.md)
+-   your own [std::ptr_fun](CppStdPtr_fun.md)
 
 
 ```c++
