@@ -32,25 +32,20 @@ void MakeAbs(std::vector<int>& v)
 #include <functional>
 #include <vector>
 
-template <class T> struct Abs : public std::unary_function<T,T>
-{
-  const T operator()(const T& x) const { return std::abs(x); }
-};
-
 void MakeAbs(std::vector<int>& v)
 {
-  std::transform(v.begin(),v.end(),v.begin(),Abs<int>());
+  std::transform(
+    v.begin(), 
+    v.end(), 
+    v.begin(), 
+    std::ptr_fun<int,int>(std::abs)
+  );
 }
 ```
 
-Note: I did not find any way to refrain from writing a
-[functor](CppFunctor.md) (for example, by using
-[std::ptr\_fun](CppStdPtr_fun.md)) as shown in the lines below...
-
-```c++
-std::transform(v.begin(),v.end(),v.begin(),std::abs); //Does not work
-std::transform(v.begin(),v.end(),v.begin(),&std::abs); //Does not work
-std::transform(v.begin(),v.end(),v.begin(),std::ptr_fun(&std::abs)); //Does not work
-std::transform(v.begin(),v.end(),v.begin(),std::ptr_fun(std::abs)); //Does not work
-```
+Much thanks to Andrei Kuzmenko for pointing out
+that `std::abs` is an overloaded function, not a template function,
+due to which `std::transform()` cannot 
+determine the required variant of 
+std::abs() without the programmer's help.
 
