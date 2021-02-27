@@ -1,111 +1,92 @@
-
- 
-
- 
-
- 
-
- 
-
- 
-
-([C++](Cpp.md)) [IsRegularFile](CppIsRegularFile.md)
-======================================================
-
- 
-
-![STL](PicStl.png)![Qt
-Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)
-
- 
+# ([C++](Cpp.md)) [IsRegularFile](CppIsRegularFile.md)
 
 [IsRegularFile](CppIsRegularFile.md) is a [file I/O](CppFileIo.md)
 [code snippet](CppCodeSnippets.md) to determine if a filename is a
 regular file.
 
- 
+```
+#include <cassert>
+#include <cstdio>
+#include <fstream>
 
--   [Download the Qt Creator project
-    'CppIsRegularFile' (zip)](CppIsRegularFile.zip)
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wunused-local-typedefs"
+#include <boost/filesystem.hpp>
+#pragma GCC diagnostic pop
 
-Technical facts
----------------
+#include <QDir>
+#include <QFile>
 
- 
+///Determines if a filename is a regular file
+///From http://www.richelbilderbeek.nl/CppIsRegularFile.htm
+bool IsRegularFileBoostFilesystem(const std::string& filename)
+{
+  return boost::filesystem::is_regular_file(filename);
+}
 
-[Operating system(s) or programming environment(s)](CppOs.md)
+///Determines if a filename is a regular file
+///From http://www.richelbilderbeek.nl/CppIsRegularFile.htm
+bool IsRegularFileQt(const std::string& filename)
+{
+  return !QDir(filename.c_str()).exists() && QFile::exists(filename.c_str());
+}
 
--   ![Lubuntu](PicLubuntu.png) [Lubuntu](CppLubuntu.md) 15.04 (vivid)
+///Determines if a filename is a regular file
+///From http://www.richelbilderbeek.nl/CppIsRegularFile.htm
+bool IsRegularFileStl(const std::string& filename)
+{
+  std::fstream f;
+  f.open(filename.c_str(),std::ios::in);
+  return f.is_open();
+}
 
-[IDE(s)](CppIde.md):
+int main(int /* argc */, char * argv[])
+{
+  assert(IsRegularFileBoostFilesystem(argv[0]));
+  assert(IsRegularFileQt(argv[0]));
+  assert(IsRegularFileStl(argv[0]));
 
--   ![Qt Creator](PicQtCreator.png) [Qt Creator](CppQtCreator.md) 3.1.1
+  assert(!IsRegularFileBoostFilesystem("../CppIsRegularFile"));
+  assert(!IsRegularFileQt("../CppIsRegularFile"));
+  assert(!IsRegularFileStl("../CppIsRegularFile"));
 
-[Project type](CppQtProjectType.md):
+  {
+    std::remove("tmp.txt");
 
--   ![console](PicConsole.png) [Console
-    application](CppConsoleApplication.md)
+    //Create a regular file
+    assert(!IsRegularFileBoostFilesystem("tmp.txt"));
+    assert(!IsRegularFileQt("tmp.txt"));
+    assert(!IsRegularFileStl("tmp.txt"));
+    {
+      std::fstream f;
+      f.open("tmp.txt",std::ios::out);
+      f << "TEMP TEXT";
+      f.close();
+    }
+    assert(IsRegularFileBoostFilesystem("tmp.txt"));
+    assert(IsRegularFileQt("tmp.txt"));
+    assert(IsRegularFileStl("tmp.txt"));
 
-[C++ standard](CppStandard.md):
+    std::remove("tmp.txt");
 
--   ![C++11](PicCpp11.png) [C++11](Cpp11.md)
+    assert(!IsRegularFileBoostFilesystem("tmp.txt"));
+    assert(!IsRegularFileQt("tmp.txt"));
+    assert(!IsRegularFileStl("tmp.txt"));
+  }
+  {
+    //Create a folder
+    std::system("mkdir tmp");
+    assert(!IsRegularFileBoostFilesystem("tmp"));
+    assert(!IsRegularFileQt("tmp"));
+    assert(!IsRegularFileStl("tmp"));
+    std::system("rmdir tmp");
+  }
 
-[Compiler(s)](CppCompiler.md):
-
--   [G++](CppGpp.md) 4.9.2
-
-[Libraries](CppLibrary.md) used:
-
--   ![STL](PicStl.png) [STL](CppStl.md): GNU ISO C++ Library, version
-    4.9.2
-
- 
-
- 
-
- 
-
- 
-
- 
-
-[Qt project file](CppQtProjectFile.md): ./CppIsRegularFile/CppIsRegularFile.pro
---------------------------------------------------------------------------------
-
- 
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` TEMPLATE = app CONFIG += qt console CONFIG -= app_bundle QMAKE_CXXFLAGS += -std=c++11 -Wall -Wextra -Werror SOURCES += main.cpp  win32 {   #message(Native Windows dynamic link to Boost)   INCLUDEPATH += \     ../../Libraries/boost_1_54_0    debug {     LIBS += ../../Libraries/boost_1_54_0/stage/lib/libboost_filesystem-mgw48-mt-d-1_54.a     LIBS += ../../Libraries/boost_1_54_0/stage/lib/libboost_system-mgw48-mt-d-1_54.a   }   release {     LIBS += ../../Libraries/boost_1_54_0/stage/lib/libboost_filesystem-mgw48-mt-1_54.a     LIBS += ../../Libraries/boost_1_54_0/stage/lib/libboost_system-mgw48-mt-1_54.a   } }  RESOURCES += \     CppIsRegularFile.qrc`
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
-./CppIsRegularFile/main.cpp
----------------------------
-
- 
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ` #include <cassert> #include <cstdio> #include <fstream>  #pragma GCC diagnostic push #pragma GCC diagnostic ignored "-Wunused-local-typedefs" #include <boost/filesystem.hpp> #pragma GCC diagnostic pop  #include <QDir> #include <QFile>  ///Determines if a filename is a regular file ///From http://www.richelbilderbeek.nl/CppIsRegularFile.htm bool IsRegularFileBoostFilesystem(const std::string& filename) {   return boost::filesystem::is_regular_file(filename); }  ///Determines if a filename is a regular file ///From http://www.richelbilderbeek.nl/CppIsRegularFile.htm bool IsRegularFileQt(const std::string& filename) {   return !QDir(filename.c_str()).exists() && QFile::exists(filename.c_str()); }  ///Determines if a filename is a regular file ///From http://www.richelbilderbeek.nl/CppIsRegularFile.htm bool IsRegularFileStl(const std::string& filename) {   std::fstream f;   f.open(filename.c_str(),std::ios::in);   return f.is_open(); }  int main(int /* argc */, char * argv[]) {   assert(IsRegularFileBoostFilesystem(argv[0]));   assert(IsRegularFileQt(argv[0]));   assert(IsRegularFileStl(argv[0]));    assert(!IsRegularFileBoostFilesystem("../CppIsRegularFile"));   assert(!IsRegularFileQt("../CppIsRegularFile"));   assert(!IsRegularFileStl("../CppIsRegularFile"));    {     std::remove("tmp.txt");      //Create a regular file     assert(!IsRegularFileBoostFilesystem("tmp.txt"));     assert(!IsRegularFileQt("tmp.txt"));     assert(!IsRegularFileStl("tmp.txt"));     {       std::fstream f;       f.open("tmp.txt",std::ios::out);       f << "TEMP TEXT";       f.close();     }     assert(IsRegularFileBoostFilesystem("tmp.txt"));     assert(IsRegularFileQt("tmp.txt"));     assert(IsRegularFileStl("tmp.txt"));      std::remove("tmp.txt");      assert(!IsRegularFileBoostFilesystem("tmp.txt"));     assert(!IsRegularFileQt("tmp.txt"));     assert(!IsRegularFileStl("tmp.txt"));   }   {     //Create a folder     std::system("mkdir tmp");     assert(!IsRegularFileBoostFilesystem("tmp"));     assert(!IsRegularFileQt("tmp"));     assert(!IsRegularFileStl("tmp"));     std::system("rmdir tmp");   }    assert(!IsRegularFileBoostFilesystem(":/images/R.png")     && "Boost cannot detect Qt resources");   assert( IsRegularFileQt(":/images/R.png")     && "Qt can detect Qt resources");   assert(!IsRegularFileStl(":/images/R.png")     && "The STL cannot detect Qt resources"); }`
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+  assert(!IsRegularFileBoostFilesystem(":/images/R.png")
+    && "Boost cannot detect Qt resources");
+  assert( IsRegularFileQt(":/images/R.png")
+    && "Qt can detect Qt resources");
+  assert(!IsRegularFileStl(":/images/R.png")
+    && "The STL cannot detect Qt resources");
+}
+```
