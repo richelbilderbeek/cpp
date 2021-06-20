@@ -4,9 +4,9 @@
 
 ## [Examples](CppExample.md)
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_memcheck.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_memcheck) [travis_qmake_gcc_cpp98_memcheck](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_memcheck)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp11_memcheck.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp11_memcheck) [travis_qmake_gcc_cpp11_memcheck](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp11_memcheck)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_memcheck.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_memcheck) [travis_qmake_gcc_cpp14_memcheck](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp14_memcheck)
+ * [![Build Status](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp98_memcheck.svg?branch=master)](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp98_memcheck) [travis_qmake_gcc_cpp98_memcheck](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_memcheck)
+ * [![Build Status](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp11_memcheck.svg?branch=master)](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp11_memcheck) [travis_qmake_gcc_cpp11_memcheck](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp11_memcheck)
+ * [![Build Status](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp14_memcheck.svg?branch=master)](https://travis-ci.com/richelbilderbeek/travis_qmake_gcc_cpp14_memcheck) [travis_qmake_gcc_cpp14_memcheck](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp14_memcheck)
  * ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![console](PicConsole.png) [Example 1: Hello World](CppMemcheckExample1.md)
  * ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![console](PicConsole.png) [Example 2: a small memory leak](CppMemcheckExample2.md)
  * ![STL](PicStl.png)![Qt Creator](PicQtCreator.png)![Lubuntu](PicLubuntu.png)![console](PicConsole.png) [Example 3: deleting an array the wrong way](CppMemcheckExample3.md)

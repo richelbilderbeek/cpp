@@ -1,9 +1,9 @@
 # cpp
 
-Branch |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+Branch |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 -------|----------------------------------------------------------------------------------------------------------------------------
-master |[![Build Status](https://travis-ci.org/richelbilderbeek/cpp.svg?branch=master)](https://travis-ci.org/richelbilderbeek/cpp)
-develop|[![Build Status](https://travis-ci.org/richelbilderbeek/cpp.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/cpp)
+master |[![Build Status](https://travis-ci.com/richelbilderbeek/cpp.svg?branch=master)](https://travis-ci.com/richelbilderbeek/cpp)
+develop|[![Build Status](https://travis-ci.com/richelbilderbeek/cpp.svg?branch=develop)](https://travis-ci.com/richelbilderbeek/cpp)
 
 My pages about C++.
 
